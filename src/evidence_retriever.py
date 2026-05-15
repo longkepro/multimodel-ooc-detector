@@ -332,7 +332,7 @@ def _rerank_by_clip(
     texts  = [f"{a['title']}. {a['text'][:300]}" for a in articles]
     inputs = processor(text=texts, return_tensors="pt", padding=True, truncation=True, max_length=77)
     with torch.no_grad():
-    txt_embs = model.get_text_features(**inputs)
+        txt_embs = model.get_text_features(**inputs)
 
     if hasattr(txt_embs, "pooler_output"):
         txt_embs = txt_embs.pooler_output
