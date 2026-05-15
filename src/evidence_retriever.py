@@ -319,16 +319,25 @@ def _rerank_by_clip(
     image   = Image.open(BytesIO(image_bytes)).convert("RGB")
     inputs  = processor(images=image, return_tensors="pt")
     with torch.no_grad():
-        img_emb = model.get_image_features(**inputs)
-        img_emb = img_emb / img_emb.norm(dim=-1, keepdim=True)
+    img_emb = model.get_image_features(**inputs)
+
+    # Compatibility across transformers versions
+    if hasattr(img_emb, "pooler_output"):
+        img_emb = img_emb.pooler_output
+
+    img_emb = img_emb / img_emb.norm(dim=-1, keepdim=True)
     img_emb_np = img_emb[0].numpy()
 
     # Text embeddings (batch)
     texts  = [f"{a['title']}. {a['text'][:300]}" for a in articles]
     inputs = processor(text=texts, return_tensors="pt", padding=True, truncation=True, max_length=77)
     with torch.no_grad():
-        txt_embs = model.get_text_features(**inputs)
-        txt_embs = txt_embs / txt_embs.norm(dim=-1, keepdim=True)
+    txt_embs = model.get_text_features(**inputs)
+
+    if hasattr(txt_embs, "pooler_output"):
+        txt_embs = txt_embs.pooler_output
+
+    txt_embs = txt_embs / txt_embs.norm(dim=-1, keepdim=True)
     txt_embs_np = txt_embs.numpy()
 
     scores = txt_embs_np @ img_emb_np
