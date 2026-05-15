@@ -319,7 +319,7 @@ def _rerank_by_clip(
     image   = Image.open(BytesIO(image_bytes)).convert("RGB")
     inputs  = processor(images=image, return_tensors="pt")
     with torch.no_grad():
-    img_emb = model.get_image_features(**inputs)
+        img_emb = model.get_image_features(**inputs)
 
     # Compatibility across transformers versions
     if hasattr(img_emb, "pooler_output"):
