@@ -1,0 +1,77 @@
+{
+  "sample_id": "false_50",
+  "image_url": "https://www.gannett-cdn.com/presto/2021/01/20/NPPP/2bb45fe7-231f-49ec-b87a-9faff2ac7dea-WPB_012021_Trump_Return_08.JPG",
+  "visual_entities": [
+    {
+      "description": "future",
+      "score": 0.5136
+    },
+    {
+      "description": "Dress",
+      "score": 0.461
+    },
+    {
+      "description": "Fashion",
+      "score": 0.3876
+    },
+    {
+      "description": "Clothing",
+      "score": 0.3869
+    },
+    {
+      "description": "Model",
+      "score": 0.378
+    },
+    {
+      "description": "United States",
+      "score": 0.37590003
+    },
+    {
+      "description": "past",
+      "score": 0.3535
+    }
+  ],
+  "best_guess_labels": [
+    "melania trump florida"
+  ],
+  "similar_image_urls": [
+    "https://www.palmbeachpost.com/gcdn/presto/2021/01/20/NPPP/2bb45fe7-231f-49ec-b87a-9faff2ac7dea-WPB_012021_Trump_Return_08.JPG",
+    "https://www.palmbeachpost.com/gcdn/presto/2021/01/20/NPPP/2bb45fe7-231f-49ec-b87a-9faff2ac7dea-WPB_012021_Trump_Return_08.JPG",
+    "https://rubic.us/wp-content/uploads/2021/01/Palm-Beach-Post-1jpg.jpg",
+    "https://www.palmbeachpost.com/gcdn/presto/2021/01/20/NPPP/2bb45fe7-231f-49ec-b87a-9faff2ac7dea-WPB_012021_Trump_Return_08.JPG?width=1733&height=2188&fit=crop&format=pjpg&auto=webp",
+    "https://www.palmbeachpost.com/gcdn/presto/2021/01/20/NPPP/2bb45fe7-231f-49ec-b87a-9faff2ac7dea-WPB_012021_Trump_Return_08.JPG?width=1733&height=2188&fit=crop&format=pjpg&auto=webp",
+    "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3497494198703649144",
+    "https://www.palmbeachpost.com/gcdn/presto/2021/01/20/NPPP/2bb45fe7-231f-49ec-b87a-9faff2ac7dea-WPB_012021_Trump_Return_08.JPG?width=1200&disable=upscale&format=pjpg&auto=webp",
+    "https://q0.itc.cn/images01/20241106/06a2716c23c64b958be5878aaea47e48.jpeg",
+    "https://hao.cnyes.com/download_image.ashx?file=%2FUpload%2Fe4d8fa8e652c47569490b29a91f7082b",
+    "https://inews.gtimg.com/om_bt/O0yV-OEMDSFiITMOnCTCFylsEAgqIH0oRRVsVNFmvXjqEAA/641"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.nytimes.com/video/us/elections/100000007432313/melania-trump-votes-mask-less-florida.html",
+      "page_title": "Melania Trump Votes in Florida, Without a Mask - The New York Times",
+      "title": "Video: Melania Trump Votes in Florida, Without a Mask",
+      "description": "President Trump voted early days ago, but the first lady, Melania Trump, chose to vote in person at a community center in Palm Beach, Fla., and was seen not wearing a mask.",
+      "text": "new video loaded: Melania Trump Votes in Florida, Without a Mask\ntranscript\ntranscript\nMelania Trump Votes in Florida, Without a Mask\nPresident Trump voted early days ago, but the first lady, Melania Trump, chose to vote in person at a community center in Palm Beach, Fla., and was seen not wearing a mask.\nMrs. Trump, how are you feeling today? Great, thank you. Tell us why you voted today instead of with the president a week and a half ago. Well, it’s Election Day. I wanted to come here to vote today for the Election Day.\nMelania Trump Votes in Florida, Without a Mask\nPresident Trump voted early days ago, but the first lady, Melania Trump, chose to vote in person at a community center in Palm Beach, Fla., and was seen not wearing a mask.By Reuters\nNovember 3, 2020\nWatch Today’s Videos\nMore in 2020 Elections ›\nFulton County in Georgia Demands Return of 2020 Election Materials\n2:08\nJack Smith Defends His Trump Indictments During House Hearing\n2:01\nTrump Pressed Georgia Speaker to Overturn His 2020 Election Loss\n1:44\nBiden Speaks to Black Voters in South Carolina\n1:53\nFulton County D.A. Indicts Trump and 18 Others\n1:21\nRusty Bowers Recalls Harassment After Rejecting 2020 Fraud Claims\n2:19\nAdvertisement",
+      "image_captions": [
+        "Fulton County in Georgia Demands Return of 2020 Election Materials",
+        "Jack Smith Defends His Trump Indictments During House Hearing",
+        "Trump Pressed Georgia Speaker to Overturn His 2020 Election Loss",
+        "Biden Speaks to Black Voters in South Carolina",
+        "Fulton County D.A. Indicts Trump and 18 Others"
+      ]
+    },
+    {
+      "url": "https://www.tantsugeen.ee/?t=usa-349206713",
+      "page_title": "Best melania trump dolce and gabbana dress Free Shipping What ...",
+      "title": "Tantsutrennid Tallinnas T1 keskuses – Tantsugeen",
+      "description": "",
+      "text": "Tantsugeen\nTantsutrennid Tallinnas T1 keskuses – Tantsugeen\nTantsutrennid Tallinnas T1 keskuses toimuvad Tantsugeen stuudios, kus pakume kvaliteetseid ja inspireerivaid treeninguid nii algajatele kui ka edasijõudnutele. Meie eesmärk on luua keskkond, kus igaüks saab arendada oma liikumisoskust, enesekindlust ja nautida tantsimist.\nTantsutrennid igale tasemele Tallinnas\nTantsugeen on energiline ja sõbralik tantsu- ja liikumiskeskus Tallinnas T1 keskuses, kus on ruumi liikumiseks, eneseväljenduseks ja lihtsalt mõnusaks ajaveetmiseks.\nTrennid sobivad nii algajatele kui ka edasijõudnutele, igas vanuses osalejatele – oluline on tahe liikuda ja nautida.\nValikus on palju erinevaid stiile, alates showtantsust ja tänavatantsust kuni kaasaegse tantsuni. Meil tegutseb üle 20 treeneri, kasutusel on 3 saali ning graafik on mitmekesine – igaüks leiab endale sobiva aja ja trenni.\nMiks valida Tantsugeen?\nTantsugeen stuudios ootab sind sõbralik ja toetav keskkond, kus saad alustada täiesti nullist või arendada oma olemasolevaid oskusi. Meie eesmärk on pakkuda kvaliteetseid tantsutrenne Tallinnas T1 piirkonnas, kus iga treening toob kaasa positiivse energia ja hea enesetunde.\nMeie tantsutrennid aitavad parandada füüsilist vormi, rühti ja koordinatsiooni ning pakuvad rõõmu liikumisest. Lisaks saad osa aktiivsest kogukonnast, kus liikumine ja hea tuju käivad käsikäes.\nTantsugeenis ootab sind:\n- mõnus ja toetav seltskond\n- palju erinevaid trenne ja stiile\n- paindlik ajakava\n- hea asukoht T1 keskuses\nTule proovi ja leia oma lemmik liikumisviis!\nTule proovitrenni\nKui otsid kvaliteetseid tantsutrenne Tallinnas T1 keskuses, siis Tantsugeen on sinu jaoks õige valik. Tule proovitrenni ja leia endale sobiv tantsustiil juba täna!\nVaata ka meie kontakti ja võta meiega ühendust – ootame sind trenni!\nTantsugeeni Kogukond\nUudised\nLiikumise ja treeningu ümber on pikalt olnud arusaam, et tulemused sünnivad eelkõige pingutusest, distsipliinist ja järjepidevast eneseületusest. Selline mõtteviis on paljudele tuttav, kuid üha enam räägitakse sellest, et püsiva liikumisharjumuse kujunemisel ei pruugi see olla kõige määravam tegur. Spordipsühholoog Aave Hannus on hiljutises intervjuus rõhutanud, et inimesed ei püsi liikumise juures mitte niivõrd tahtejõu tõttu, vaid selle põhjal, milline on nende vahetu kogemus treeningu ajal. Kui tegevus ise ei paku mingil tasandil positiivset tunnet, siis on väga keeruline seda pikemas...\nVahel tundub, et kõige jaoks on olemas “õige aeg” — alustamiseks, muutuseks, uueks harjumuseks. Sageli pannakse see aeg sügisesse, uue hooaja algusesse. Kevad, aprill ja mai, võivad esmapilgul tunduda keerulisemad — hooaeg hakkab vaikselt lõppema, mõned grupid harjutavad võistlusteks ja kõik ei võta enam uusi tulijaid vastu. Meil on mitmeid gruppe, kuhu saab liituda ka hooaja lõpus. Keha ja meele trennidesse saab kirja panna kogu aeg, seda ei pea üle küsima. Vali sobiv aeg ja registreeri SIIN Ja vahel ongi just...\nRokkmuusikal Romeo ja Julia tõi lavale kuus võimsat etendust ning nende sees ka meie tantsijate lood. Neid emotsioone, mis selle aja jooksul kogunesid, ei ole tegelikult lihtne sõnadesse panna — neid peab kogema. Lavale astus ligi 70 meie tantsijat. Nende seas oli nii neid, kes on varemgi suurte lavade ja publikuga kohtunud, kui ka neid, kelle jaoks see oli esimene kord. Me uskusime noortesse, andsime neile võimaluse ning nad said väga hästi hakkama! Selline kogemus ei sünni kunagi üksi. Suur...\nOn inimesi, kes on tantsinud lapsest saati. Ja on neid, kes tulevad esimest korda trenni alles täiskasvanuna. On lapsi, kes jooksevad esimesse tundi suure elevusega. Ja on noori, kes astuvad saali vaikselt, natuke kaheldes. Kõik need lood on erinevad. Ja kõik need lood on õiged. Just sellest meie slogan räägibki – sinu tants, sinu lugu. Igaühel on oma algus Tants ei alga alati lavalt ega võistlustelt.Sageli algab see hoopis: soovist liikuda vajadusest ennast väljendada või lihtsalt mõttest: „tahaks midagi enda jaoks“...\nKas tunned, et tahaksid rohkem liikuda, end paremini tunda või lihtsalt nädalasse mõnusat energiasüsti? Siis ära lükka seda “uue aasta lubaduse” alla, et siis vaatad-uurid-registreerid... Parim aeg lubadus anda on praegu – mitte ainult siis, kui kalendrisse tiksub uus aastanumber. TantsuGeenis on: Tantsutrennid lastele, noortele ja täiskasvanutele – alates algajatest kuni edasijõudnuteni. Keha & meele trennid neile, kes tahavad liikuda teadlikumalt, parandada rühti, liikuvust ja enesetunnet. Grupiga liitumine on võimalik hooaja jooksul, kuid ülihea aeg on jaanuarist, treeneritel on kogemusi...",
+      "image_captions": [
+        "tantsutrennid Tallinnas T1 Tantsugeen tantsija laval"
+      ]
+    }
+  ],
+  "evidence_count": 2,
+  "crawled_at": "2026-04-23T17:00:32.539682+00:00"
+}

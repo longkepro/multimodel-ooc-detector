@@ -1,0 +1,83 @@
+{
+  "sample_id": "false_89",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Ethiopian_Female_Soldier_%281935%29.jpg",
+  "visual_entities": [
+    {
+      "description": "Second Italo-Ethiopian War",
+      "score": 1.49895
+    },
+    {
+      "description": "Ethiopian Empire",
+      "score": 1.0599
+    },
+    {
+      "description": "Haile Selassie",
+      "score": 0.91695
+    },
+    {
+      "description": "1935",
+      "score": 0.6351
+    },
+    {
+      "description": "Adwa",
+      "score": 0.6023985
+    },
+    {
+      "description": "",
+      "score": 0.5788
+    },
+    {
+      "description": "Soldier",
+      "score": 0.4769
+    },
+    {
+      "description": "Ethiopian Army",
+      "score": 0.4483
+    },
+    {
+      "description": "Warrior",
+      "score": 0.3399
+    },
+    {
+      "description": "Battle",
+      "score": 0.3188
+    },
+    {
+      "description": "March",
+      "score": 0.3161
+    }
+  ],
+  "best_guess_labels": [
+    "ethiopian soldiers 1935"
+  ],
+  "similar_image_urls": [
+    "https://upload.wikimedia.org/wikipedia/commons/f/f8/Ethiopian_Female_Soldier_%281935%29.jpg",
+    "https://cdn2.picryl.com/photo/1935/12/31/ethiopian-female-soldier-1935-f040e2-1024.jpg",
+    "https://cdn.sanity.io/images/u4eaiudq/production/550ee5e6cf5f29dc186f7be1bb68498348444789-423x599.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Ethiopian_Female_Soldier_%281935%29.jpg/250px-Ethiopian_Female_Soldier_%281935%29.jpg",
+    "https://cdn2.picryl.com/thumbnail/1935/12/31/ethiopian-female-soldier-1935-f040e2-200.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Ethiopian_Female_Soldier_(1935).jpg",
+      "page_title": "File:Ethiopian Female Soldier (1935).jpg - Wikimedia Commons",
+      "title": "File:Ethiopian Female Soldier (1935).jpg - Wikimedia Commons",
+      "description": "",
+      "text": "File:Ethiopian Female Soldier (1935).jpg\nAppearance\nSize of this preview: 423 × 599 pixels. Other resolutions: 169 × 240 pixels | 339 × 480 pixels | 542 × 768 pixels | 722 × 1,024 pixels | 2,484 × 3,520 pixels.\nOriginal file (2,484 × 3,520 pixels, file size: 1.64 MB, MIME type: image/jpeg)",
+      "image_captions": [
+        "File:Ethiopian Female Soldier (1935).jpg",
+        "Thumbnail for version as of 11:37, 5 September 2020"
+      ]
+    },
+    {
+      "url": "https://www.alamy.com/video/1935-ethiopian-soldiers-march-into-addis-ababa-609287629.html",
+      "page_title": "1935 - Ethiopian soldiers march into Addis Ababa. - Alamy",
+      "title": "1935 - Ethiopian soldiers march into Addis Ababa Stock Video Footage - Alamy",
+      "description": "Buy this stock video clip: 1935 - Ethiopian soldiers march into Addis Ababa. - 2XB7CGD now from Alamy's library of high-quality 4K and HD stock footage and videos.",
+      "text": "1935 - Ethiopian soldiers march into Addis Ababa.\nCaptions are provided by our contributors.\nRFID:Video ID:2XB7CGD\nVideo Details\nContributor:\nDVArchive-RetrofootageHD Resolution:\n1920 x 1080 / MOVClip length:\n00:00:41:000Frame rate:\n29.97 fpsLooping:\nNoAlpha channel:\nNoAlpha matte:\nNoReleases:\nModel - no | Property - noDo I need a release?More information:\nThis image could have imperfections as it’s either historical or reportage.\n1935 - Ethiopian soldiers march into Addis Ababa.\nPhotographer:\nDVArchive-RetrofootageDate taken:\n1930",
+      "image_captions": []
+    }
+  ],
+  "evidence_count": 2,
+  "crawled_at": "2026-04-23T17:14:58.604737+00:00"
+}

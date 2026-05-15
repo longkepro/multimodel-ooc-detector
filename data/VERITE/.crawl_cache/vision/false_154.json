@@ -1,0 +1,88 @@
+{
+  "sample_id": "false_154",
+  "image_url": "https://www.btselem.org/sites/default/files/2021-11/yasser_arafat_abu_berqin_during_his_arrest.jpg",
+  "visual_entities": [
+    {
+      "description": "Yasser Arafat",
+      "score": 7.0919995
+    },
+    {
+      "description": "West Bank",
+      "score": 1.1467501
+    },
+    {
+      "description": "Israel",
+      "score": 1.0533
+    },
+    {
+      "description": "",
+      "score": 0.7146
+    },
+    {
+      "description": "Palestinians",
+      "score": 0.7146
+    },
+    {
+      "description": "",
+      "score": 0.7022
+    },
+    {
+      "description": "Palestinians in Israeli custody",
+      "score": 0.5637
+    },
+    {
+      "description": "Older kid",
+      "score": 0.5256
+    },
+    {
+      "description": "Soldier",
+      "score": 0.48322156
+    },
+    {
+      "description": "International Solidarity Movement",
+      "score": 0.409
+    }
+  ],
+  "best_guess_labels": [
+    "palestinian boys blindfolded"
+  ],
+  "similar_image_urls": [
+    "https://www.btselem.org/sites/default/files/2021-11/yasser_arafat_abu_berqin_during_his_arrest.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.aljazeera.com/video/newsfeed/2024/10/23/video-shows-blindfolded-palestinians-taken-for-interrogation",
+      "page_title": "Video shows blindfolded Palestinians taken for interrogation",
+      "title": "Video shows blindfolded Palestinians taken for interrogation",
+      "description": "Dozens of blindfolded Palestinian men can be seen being taken away in Israeli military trucks.",
+      "text": "Video shows blindfolded Palestinians taken for interrogation\nDozens of blindfolded Palestinian men can be seen being taken away in Israeli military trucks, in video shared by Israel’s national broadcaster. Kann News said the men were from Jabalia in north Gaza, which has been under siege for more than a fortnight.\nPublished On 23 Oct 2024",
+      "image_captions": [
+        "Scenes of Israeli military trucks moving detained and blindfolded Palestinians from Jabalia, for what Israeli media says is interrogation.",
+        "Al Jazeera Media Network logo"
+      ]
+    },
+    {
+      "url": "https://www.aljazeera.com/video/newsfeed/2024/1/4/dozens-of-palestinians-blindfolded-and-detained-in-occupied-west-bank-raid",
+      "page_title": "Dozens of Palestinian men blindfolded and detained in West Bank raid",
+      "title": "Dozens of Palestinian men blindfolded and detained in West Bank raid",
+      "description": "Israeli forces have been filmed blindfolding and detaining dozens of Palestinians during a raid in occupied Tulkarem.",
+      "text": "Dozens of Palestinian men blindfolded and detained in West Bank raid\nDozens of Palestinian men have been filmed blindfolded and lined up single file as Israeli forces detained them during a raid on a refugee camp in Tulkarem in the occupied West Bank.\nPublished On 4 Jan 2024",
+      "image_captions": [
+        "Palestinians detained during Israeli raid in Tulkarem, occupied West Bank",
+        "Al Jazeera Media Network logo"
+      ]
+    },
+    {
+      "url": "https://www.aljazeera.com/video/newsfeed/2024/12/25/disabled-boy-in-gaza-dreams-of-playing-with-friends",
+      "page_title": "Disabled boy in Gaza dreams of playing with friends - Al Jazeera",
+      "title": "Disabled boy in Gaza dreams of playing with friends",
+      "description": "Mohammed Saeed Shabaan is an 8-year-old Palestinian boy from Gaza who lost his limbs in a fire several years ago.",
+      "text": "Disabled boy in Gaza dreams of playing with friends\nDisabled boy in Gaza dreams of playing with friends\nMohammed Saeed Shabaan is an 8-year-old Palestinian boy from Gaza who lost his limbs in a fire several years ago. He dreams of receiving prosthetics so he can run around and play like other children.\nPublished On 25 Dec 2024",
+      "image_captions": [
+        "Al Jazeera Media Network logo"
+      ]
+    }
+  ],
+  "evidence_count": 3,
+  "crawled_at": "2026-04-23T17:36:23.496123+00:00"
+}

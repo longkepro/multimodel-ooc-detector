@@ -1,0 +1,125 @@
+{
+  "sample_id": "false_169",
+  "image_url": "https://cdnph.upi.com/ph/st/th/87341390252493/2014/upi/d64963877e86aca579db3bc403f7ced2/v1.5/Obama-makes-burritos-Biden-serves-lunches-on-MLK-Day-of-Service.jpg?lg=5",
+  "visual_entities": [
+    {
+      "description": "Bobby Flay",
+      "score": 7.8240004
+    },
+    {
+      "description": "Chef",
+      "score": 0.92124486
+    },
+    {
+      "description": "Top Chef",
+      "score": 0.81585
+    },
+    {
+      "description": "Culinary arts",
+      "score": 0.73767954
+    },
+    {
+      "description": "Cooking",
+      "score": 0.7269
+    },
+    {
+      "description": "",
+      "score": 0.5961
+    },
+    {
+      "description": "DC Central Kitchen",
+      "score": 0.5961
+    },
+    {
+      "description": "Celebrity chef",
+      "score": 0.5949
+    },
+    {
+      "description": "Cook",
+      "score": 0.4754
+    },
+    {
+      "description": "create",
+      "score": 0.4281
+    },
+    {
+      "description": "Puesto",
+      "score": 0.4076
+    },
+    {
+      "description": "Signature dish",
+      "score": 0.3736
+    },
+    {
+      "description": "Dish",
+      "score": 0.3487
+    }
+  ],
+  "best_guess_labels": [
+    "chef"
+  ],
+  "similar_image_urls": [
+    "https://cdnph.upi.com/sv/ph/og/upi/87341390252493/2014/1/d64963877e86aca579db3bc403f7ced2/v1.5/Obama-makes-burritos-Biden-serves-lunches-on-MLK-Day-of-Service.jpg",
+    "https://img.europapress.es/fotoweb/fotogaleriafamosos_73625_1024.jpg",
+    "https://images2.corriereobjects.it/methode_image/2014/01/21/Esteri/Foto%20Gallery/99-356620-000002h_MGzoom.jpg?v=20140121172027",
+    "https://cdnph.upi.com/svc/sv/upi/87341390252493/2014/1/d64963877e86aca579db3bc403f7ced2/Obama-makes-burritos-Biden-serves-lunches-on-MLK-Day-of-Service.jpg",
+    "https://www.geo.tv/assets/uploads/updates/2017-12-01/170208_1319791_updates.jpg",
+    "https://media.gettyimages.com/id/640258601/es/foto/president-barack-obama-with-daughter-sasha-participate-in-a-community-service-project-at-the-d.jpg?s=612x612&w=gi&k=20&c=9325ZPGA3DElm9fc0NuejfaIF5qrBVpi-Lx-8DWPK4g="
+  ],
+  "evidence": [
+    {
+      "url": "https://www.geo.tv/latest/170208-obama-boasts-about-how-delectable-his-daal-qeema-are",
+      "page_title": "Obama brags about his Asian cooking skills - Geo News",
+      "title": "Obama brags about his Asian cooking skills",
+      "description": "Former US president Barack Obama may go down as one of the most influential leaders in world history, but the real 'Obama factor' is how typically un-presidential he can be at times. Talking to veteran Indian...",
+      "text": "Published December 01, 2017\nFormer US president Barack Obama may go down as one of the most influential leaders in world history, but the real 'Obama factor' is how typically un-presidential he can be at times.\nTalking to veteran Indian journalist Karan Thapar at the Hindustan Times Leadership Summit 2017 in New Delhi on Friday, the two-term US president boasted about his cooking skills.\n“I’m pretty sure I’m the first US president to have the dal recipe. My keema is also excellent... my chicken is okay,” he quipped.\nWhen asked if he knew how to make roti, Obama said, “Ah, no, making a chapati is too hard”.\nEarlier, in 2013, when then Pakistani premier Nawaz Sharif met Obama at the White House, the US president told Sharif he knows how to cook daal and qeema.\nRecalling his visit to Pakistan during his college days in the 1980s, Obama said he was taught how to cook the dishes by the mother of his Pakistani roommates.\n\"I shared with him (Sharif) that I had the opportunity, back in 1980 when I was a very young man, to visit Pakistan because I had two Pakistani roommates in college whose mothers taught me how to cook daal and qeema, and other very good Pakistani food,\" Obama told reporters during their meeting.\n\"And it was a wonderful trip for me, and created a great appreciation and a great love for the Pakistani people,\" Obama said in his joint media appearance with Sharif.\nConcluding their meeting, Sharif had invited the Obamas to Pakistan, saying \"Qeema and daal are waiting\".",
+      "image_captions": [
+        "Then US President Barack Obama grills with celebrity chef Bobby Flay as he hosts young men from local schools on the South Lawn of the White House at an outdoor barbeque June 19, 2009 in Washington, DC. Photo: Getty Images",
+        "Then US President Barack Obama with daughter Sasha and First Lady Michelle Obama (left) participate in a community service project at the DC Central Kitchen in celebration of the Martin Luther King, Jr Day of Service and in honour of Dr King's life and legacy on January 20, 2014 in Washington, DC. Photo: Getty",
+        "Nicki Minaj faces backlash for taking credit for Justin Bieber's Coachella buzz",
+        "How ‘Michael' continues to smash the box office despite backlash",
+        "Maggie Gyllenhaal to lead Venice Film Festival jury in 2026"
+      ]
+    },
+    {
+      "url": "https://www.upi.com/Top_News/US/2014/01/20/Obama-makes-burritos-Biden-serves-lunches-on-MLK-Day-of-Service/87341390252493/",
+      "page_title": "Obama makes burritos, Biden serves lunches on MLK Day of Service",
+      "title": "Administration participate in community service on MLK day - UPI.com",
+      "description": "President Obama prepared burritos and Vice President Joe Biden dished out lunch in the Washington area Monday in commemoration of Martin Luther King Jr. Day.",
+      "text": "WASHINGTON, Jan. 20 (UPI) -- President Obama prepared burritos and Vice President Joe Biden dished out lunch in the Washington area Monday in commemoration of Martin Luther King Jr. Day.\nTo commemorate Martin Luther King Jr. Day of Service, the first family participated in a service project at the D.C. Central Kitchen, a community kitchen, preparing meals for distribution to local shelters.\nObama, first lady Michelle Obama and daughter Malia and Sasha worked the line, preparing burritos along with other volunteers.\n\"I just want to thank everybody here for the great work they do,\" Obama said, noting it was the kitchen's 25th anniversary.\nObama also tracked inventory -- shouting down the line that burritos were running low. Answered what was inside the burrito, he said it was either lamb or beef, then settling on beef.\nBiden joined members of the Catholic Volunteer Network, serving hot lunches to guests at So Others Might Eat in Washington.\nHe also spoke at the National Action Network's Annual Martin Luther King Jr. Day Breakfast.\n\"It's the everyday actions that inspire that are going to keep human progress rolling forward and keep it from sliding back,\" Biden said.\nMembers of Obama's Cabinet also participated in the Day of Service, including Treasury Secretary Jack Lew sorting and packing clothing for homeless veterans and Commerce Secretary Penny Pritzker serving food at Food and Friends, a Washington organization that prepares and delivers meals and groceries to people living with HIV/AIDS, cancer and other catastrophic illnesses.",
+      "image_captions": [
+        "Korea Regional Review",
+        "Add as preferred source on Google",
+        "President Barack Obama with daughter Sasha participate in a community service project at the D.C Central Kitchen in celebration of the Martin Luther King, Jr. Day of Service and in honor of Dr. King’s life and legacy, on January 20, 2014 in Washington DC. UPI/Olivier Douliery/Pool",
+        "Warner Bros. Discovery shareholders approve merger with Paramount",
+        "Trump administration reclassifying cannabis to Schedule III substance"
+      ]
+    },
+    {
+      "url": "https://www.corriere.it/foto-gallery/esteri/14_gennaio_21/washington-barack-obama-figlia-sasha-volontari-mensa-poveri-15cd01f6-8286-11e3-9102-882f8e7f5a8c.shtml",
+      "page_title": "Washington, Barack Obama e la figlia Sasha volontari alla mensa ...",
+      "title": "Washington, Barack Obama e la figlia Sasha volontari alla mensa dei poveri",
+      "description": "Washington, Barack Obama e la figlia Sasha volontari alla mensa dei poveri",
+      "text": "Washington, Barack Obama e la figlia Sasha volontari alla mensa dei poveri\nLe più viste\n-\nCORTEI\nPrimo Maggio nel mondo -\nIL GIGANTE MANIFESTA IN CRIMEA\nUcraina, la crisi con la Russia è anche scontro tra pugili: Klitschko e Valuev -\nDOPO LA FUGA DI YANUKOVYC\nZoo, moto d?epoca e bunker, gli ucraini occupano la tenuta presidenziale\nNei Canali\n-\nTOMAS MILIAN\n«Er Monnezza» compie 80 anni\n-\nINDONESIA\nMante, creato il santuario marino\n-\nI MODELLI PIU’ IMPORTANTI\nFiat: la storia dei modelli dal 1899 a oggi -\nMOTORI\nLe moto «nude» del 2014 -\nUSA - NEWPORT BEACH\nLa jeep anfibia che corre sull’acqua",
+      "image_captions": [
+        "http://www.corriere.it/inchieste/reportime/",
+        "Primo Maggio nel mondo",
+        "Ucraina, la crisi con la Russia è anche scontro tra pugili: Klitschko e Valuev",
+        "Zoo, moto d?epoca e bunker, gli ucraini occupano la tenuta presidenziale",
+        "Trappole anti hipster, l'arte di strada finisce in rete"
+      ]
+    },
+    {
+      "url": "https://www.europapress.es/chance/gente/noticia-familia-obama-prepara-comida-repartir-mas-necesitados-20140121100337.html",
+      "page_title": "La familia Obama prepara comida para repartir entre los más ...",
+      "title": "La familia Obama prepara comida para repartir entre los más necesitados",
+      "description": "CHANCE",
+      "text": "MADRID, 21 Ene. (CHANCE) -\nLa familia Obama se ha puesto el delantal y ha pasado una mañana ayudando a preparar comida para repartir entre los más necesitados. Cada año se celebra en Estados Unidos el día de Martín Luther King el tercer lunes de enero y es tradición dedicar esta jornada a hacer labores de voluntariado.\nEl presidente Obama es conocido por su actitud muy participativa en la vida pública estadounidense, en la que hace partícipes a sus dos hijas pequeñas Malia y Shasa, recientemente nombradas iconos de moda por varias revistas americanas.\nMichelle también acompaña a su marido e hijas en esta tarea tan solidaria. Recientemente la primera dama cumplía 50 años rodeada de su familia y amigos en la Casa Blanca con la participación de la mismísima Beyoncé en la fiesta.\nUna acción muy solidaria que incita a todo el pueblo americano a tomar ejemplo de su presidente y ayudar a los más necesitados. Obama, muy activo en su cuenta de Twitter ha querido también rendir un homenaje más al líder Martín Luther King, publicando una de sus frases más célebres: \"La oscuridad no puede quitar la oscuridad; solo la luz puede. El odio no puede quitar el odio; solo el amor puede\"",
+      "image_captions": [
+        "U.S. President Barack Obama (2nd L) and his daughter Sasha (2nd R) fill burritos"
+      ]
+    }
+  ],
+  "evidence_count": 4,
+  "crawled_at": "2026-04-23T17:40:00.549069+00:00"
+}

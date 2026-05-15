@@ -1,0 +1,114 @@
+{
+  "sample_id": "false_329",
+  "image_url": "https://i2-prod.mirror.co.uk/incoming/article154686.ece/ALTERNATES/s1200b/looters-carry-boxes-out-of-a-home-cinema-shop-in-central-birmingham-pic-reuters-30054029.jpg",
+  "visual_entities": [
+    {
+      "description": "2011 England riots",
+      "score": 1.1617501
+    },
+    {
+      "description": "Mark Duggan",
+      "score": 0.9969
+    },
+    {
+      "description": "Killing of Mark Duggan",
+      "score": 0.8943
+    },
+    {
+      "description": "London",
+      "score": 0.7431773
+    },
+    {
+      "description": "2024 United Kingdom riots",
+      "score": 0.46905
+    },
+    {
+      "description": "Looting",
+      "score": 0.4649
+    },
+    {
+      "description": "",
+      "score": 0.4337
+    },
+    {
+      "description": "Unrest",
+      "score": 0.419
+    },
+    {
+      "description": "Riot: The Week England Burned",
+      "score": 0.4062
+    },
+    {
+      "description": "2011",
+      "score": 0.3869
+    },
+    {
+      "description": "Civil disorder",
+      "score": 0.3437
+    }
+  ],
+  "best_guess_labels": [
+    "uk riots 2011"
+  ],
+  "similar_image_urls": [
+    "https://i2-prod.mirror.co.uk/incoming/article154686.ece/ALTERNATES/s1200b/looters-carry-boxes-out-of-a-home-cinema-shop-in-central-birmingham-pic-reuters-30054029.jpg",
+    "https://d.ibtimes.com/en/full/813221/uk-riots.jpg?w=1600&h=1200&q=88&f=86c6b98a195d432cf34d56162e9c39b9",
+    "https://d.ibtimes.com/en/full/813221/uk-riots.jpg?w=736&f=d35e86975c208b4d983cb12f919cb236",
+    "https://d.ibtimes.com/en/full/813221/uk-riots.jpg?w=1600&h=900&q=88&f=8a23abefafe7b28fce3f4cfc7bbd3808",
+    "https://d.ibtimes.com/en/full/813221/uk-riots.jpg?w=1600&h=1600&q=88&f=d170a85ab5c5e730ff50b69cc0ddd91d"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.theguardian.com/uk-news/video/2016/aug/05/englands-riots-five-years-on-it-was-off-the-scale-video",
+      "page_title": "England's riots five years on: 'It was off the scale' – video",
+      "title": "England's riots five years on: 'It was off the scale' – video",
+      "description": "We retell the story of how events unfolded using first-hand accounts from police and rioters who took part, as well as people who defended their businesses and denounced the violence",
+      "text": "England's riots five years on: 'It was off the scale' – video\nThis article is more than 9 years old\nOn 4 August 2011 Mark Duggan was shot and killed by police in Tottenham, north London, sparking the largest civil unrest the UK has seen for a generation. We retell the story of how events unfolded using first-hand accounts from police and rioters who took part, as well as people who defended their businesses and denounced the violence",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.ibtimes.com/uk-riots-2011-view-british-scholar-829731",
+      "page_title": "UK Riots 2011: The View from a British Scholar | IBTimes",
+      "title": "UK Riots 2011: The View from a British Scholar",
+      "description": "\"The riots in Britain have not been caused by any sort of political or racial tension. That may exist, but that is not at the heart of these riots. These riots are the result of lawless thugs who have seen an opportunity.\" -- Victoria Honeyman",
+      "text": "UK Riots 2011: The View from a British Scholar\nInternational Business Times spoke with Dr. Victoria Honeyman, a lecturer in politics at the University of Leeds, about the riots sweeping across England.\nIBTIMES: What factors are behind the British riots?\nHONEYMAN: The riots in Britain have not been caused by any sort of political or racial tension. That may exist, but that is not at the heart of these riots. These riots are the result of lawless thugs who have seen an opportunity.\nIBTIMES: How have the British police responded to this escalating disorder?\nHONEYMAN: The Metropolitan Police Service in London seems to have been unwilling or unable to deal with the early violence, and this has allowed these individuals to feel that they can loot and cause damage without any fear of being captured or brought to justice. With an increasing police presence and the fast-tracking of many of these individuals through the court system, this is rapidly changing.\nIBTIMES: Why do you think such rioting rarely ever occurs in the United States anymore?\nHONEYMAN: The reasons why the USA suffers from fewer riots could be due to different police tactics or other nonpolitical factors.\nWhile these factors have been going on in London, and a few other copycat instances in various UK cities, the majority of individuals across the country have witnessed no rioting, and overseas observers should not believe that these incidents are taking place everywhere.\nIBTIMES: Are the Americans less prone to street-rioting because the U.S. has such a large and dominant middle class?\nHONEYMAN: Class is a very difficult issue to define. Often, a person's class is defined by themselves or by superficial issues rather than being a true representation of their social position. People who define themselves as middle-class are by far the majority in Britain, reflecting changes within society and the decreasing of Britain's industrial base.\nI don't believe that the US is more or less middle-class than Britain, nor is that factor important in explaining these riots. While some people in Britain (and the U.S.) live in poverty and cannot find work for themselves or their children, the welfare state in Britain ensures that extreme poverty is the exception rather than the rule, although it does exist. That is not an excuse for this kind of lawless behavior.\nIBTIMES: British urban neighborhoods have long had gang culture. Surely that is contributing to this conflagration?\nHONEYMAN: The increasing gang culture in Britain is now being identified as a contributory factor, but it also seems to be that there is a view being held amongst the rioters that they are entitled to whatever they want without having to work for it. They have seized on an opportunity to cause trouble, and done exactly that.\n© Copyright IBTimes 2026. All rights reserved.",
+      "image_captions": [
+        "All those convicted of taking part in the riots from of looting or public order offences will be banned from shops in Manchester city centre for two years.Reuters",
+        "European airlines claim that an unprecedented EU tax on jet fuel would ground them and benefit rivals from outside the 27-nation bloc",
+        "Claudia Sheinbaum, Mexico",
+        "US airport eases TSA shoe removal rule in 2025",
+        "Iran has tightened control over the Strait of Hormuz with"
+      ]
+    },
+    {
+      "url": "https://www.ibtimes.com/london-riots-2011-cooks-fight-looters-notting-hill-eatery-829627",
+      "page_title": "London Riots 2011: Cooks Fight off Looters at Notting Hill Eatery",
+      "title": "London Riots 2011: Cooks Fight off Looters at Notting Hill Eatery",
+      "description": "Notting Hill has been added to the list of London neighborhoods under attack. Earlier this week, a gang near famous Portobello Road ransacked a number of restaurants and pubs, robbing frightened patrons under threat of violence.",
+      "text": "London Riots 2011: Cooks Fight off Looters at Notting Hill Eatery\nThe riots in London and the United Kingdom this week continue to shock a nation known worldwide for its manners and ceremony.\nOn Monday night, masked looters with bats stormed a restaurant in the generally pleasant north London neighborhood of Notting Hill, demanding that diners hand over wallets and jewelry.\n“I had come to terms with the fact that it would be an expensive dinner, but boy, I had no idea how expensive,\" a tourist eating at The Ledbury wrote on a blog Tuesday.\n“Around the fourth dish of the tasting course, there were loud bangs outside. The restaurant staff was yelling at us to get away from the windows. Before I knew it, the front door, a solid piece of glass, shattered and people came crashing in with hoodies, masks, and random weapons.\n“The looters were yelling at us to get down and throwing stuff all over the place. I got down and started taking off my wedding and engagement ring to hide somewhere, but unfortunately wasn’t fast enough.\n“One looter came up and demanded my phone. I didn’t have it with me since it was in my purse and it was out of arm reach. I also didn’t want to lead him to my passport, so I said I didn’t have one.\n“He told me to take off my rings and grabbed my hand, trying to yank them off. His friend tried to help too, but the rings wouldn’t come off and I just yelled at him that I’d take them off myself.”\nWhen a second round of hooligans attacked the two Michelin star Ledbury, the staff was prepared. After ushering patrons into bathrooms and the wine cellar, waiters and cooks armed themselves with rolling pins, knives and other kitchen utensils and fought back would-be looters, who quickly fled the scene.\nOnce the area was safe, the restaurant provided diners with much-needed alcoholic beverages, including whiskey and champagne.\n\"Notting Hill always has had an edge to it; I've been here for six or seven years now and there is an underlying edge that the general public don't really know about it, but I wouldn't expect it to happen here. I wouldn't expect it to happen in Britain full stop, let along Notting Hill on a Monday night,\" The Ledbury's head chef, Brett Graham, told the Australian Broadcasting Corp.\n\"It was a massive surprise, and I was quite shocked at the damage they caused to other businesses in the area. They did the whole row: a small restaurant on the corner got done, a pub got done down the road.\"\nAt one local pub, a bartender fought off rioters with a cricket bat. Elsewhere in London, groups of men in areas such as Eltham in the southeast gathered on the streets Tuesday night to protect their homes and families from gangs of looters. In the largely ethnic minority neighborhood of Southall, a mass of Sikh men gathered in front of their local temple with swords, bats and hockey sticks.\nOver the past five days, nearly 800 people have been arrested in London at last report. Rioting began in Tottenham on Saturday, and quickly spread across London and then to other cities in England. Wednesday has proved to be relatively peaceful, but many business will close before nightfall in fear of further looting.\n© Copyright IBTimes 2026. All rights reserved.",
+      "image_captions": [
+        "All those convicted of taking part in the riots from of looting or public order offences will be banned from shops in Manchester city centre for two years.Reuters",
+        "European airlines claim that an unprecedented EU tax on jet fuel would ground them and benefit rivals from outside the 27-nation bloc",
+        "Claudia Sheinbaum, Mexico",
+        "US airport eases TSA shoe removal rule in 2025",
+        "Iran has tightened control over the Strait of Hormuz with"
+      ]
+    },
+    {
+      "url": "https://www.rt.com/news/uk-riots-repeat-inevitable-118/",
+      "page_title": "Anniversary of 2011 UK riots: Repeat of violence is 'inevitable'",
+      "title": "Anniversary of 2011 UK riots: Repeat of violence is ‘inevitable’",
+      "description": "With one in five British young people currently unemployed, the situation in the UK is even worse than it was five years ago - and \"more trouble\" is likely on the way, as RT correspondent Sara Firth discovered.",
+      "text": "Anniversary of 2011 UK riots: Repeat of violence is ‘inevitable’\nPublished 6 Aug, 2013 15:24 | Updated 6 Aug, 2013 19:03With one in five British young people currently unemployed, the situation in the UK is even worse than it was five years ago - and \"more trouble\" is likely on the way, as RT correspondent Sara Firth discovered.\nTwo years after riots swept through the UK, a repeat of the\nviolence is inevitable, according to Polly Courtney - an author\nwho spoke to young people across London for her new book entitled\n\"Feral Youth.\"\n“The motivation behind the riots was complex, but for Polly,\nbasic economics plays the key part,” says Firth, who met with\nthe author in London.\nCourtney says that although charities have done an incredible job\nhelping young people, more riots are only a matter of time unless\nthere is a significant shift in government priorities and\nspending.\n“The rich-poor divide is so extreme at the moment and the poor are seeing that and they are seeing that they are being left behind - that was a phrase I heard in my research a lot. I don’t think the problems have gone away and if they haven’t gone away we’re going to see more trouble until these things start to get resolved,” she told RT.\nBarbara Rayment, director of counseling service Youth Access, believes the government must act in order to reverse the situation.\n“Benefit cuts, poor access to housing and job opportunities, coupled with ongoing difficulties on police relations and a lack of investment in youth services demonstrate the lack of any empathic government policy that addresses young people’s concerns,” Rayment told ITN.\nHer thoughts were echoed by Lee Jasper, a social activist who\nbelieves that things have actually gotten worse for young people\nsince the August 2011 riots.\n“All the conditions that gave rise to 2011 disturbances have been simply exacerbated - made more acute - and there is a bigger group of people now affected. The likelihood of a repetition of the kind of scenes we saw in 2011 is almost inevitable,” Jasper told RT.\nCharlie, a young Brit who spent six months in prison for taking part in the riots, feels deep regret for what he did. Charlie is still unemployed and will now find it even harder to get a job, since he possesses a criminal record. He believes that the government must listen to what young people have to say and take action to help them.\n“I think they need to have our side and listen to us more because we’re living the life. We’re in the slums. They need to listen to us - not necessarily what we want but what we need and what might help us,” he said.\nAlmost one million young Brits are currently without a job - and the number of youths enrolling in higher education is decreasing. The University and College Admission Service (UCAS) says applications from English students are at their lowest in four years - partly as a result of a tuition hike which tripled university fees in 2012. Scottish students who attend university in Scotland do not have to pay tuition fees.",
+      "image_captions": [
+        "British riot police arrive in front of a burning building in Croydon, South London on August 8, 2011 (AFP Photo / Carl de Souza)",
+        "Looters rampage through a convenience store in Hackney, east London August 8, 2011 (Reuters)",
+        "French soldier dies after Lebanon attack",
+        "London landlords caught advertising ‘Muslim only’ flats – media",
+        "‘No time frame’ for ending Iran war – Trump"
+      ]
+    }
+  ],
+  "evidence_count": 4,
+  "crawled_at": "2026-04-23T19:04:27.982474+00:00"
+}

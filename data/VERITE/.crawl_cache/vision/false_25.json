@@ -1,0 +1,72 @@
+{
+  "sample_id": "false_25",
+  "image_url": "https://media.istockphoto.com/id/639010606/photo/fishing-boat-frozen-in-at-iqaluit-frobisher-bay-nunavut-canada.jpg?s=612x612&w=0&k=20&c=xP7AJ-OH7n23OcXjheJkPzL2jEK6xgK1HU-zpMGQtwU=",
+  "visual_entities": [
+    {
+      "description": "Snow",
+      "score": 0.76419497
+    },
+    {
+      "description": "Ship",
+      "score": 0.70905
+    },
+    {
+      "description": "Iqaluit",
+      "score": 0.68079007
+    },
+    {
+      "description": "Ferry",
+      "score": 0.38159257
+    },
+    {
+      "description": "hot",
+      "score": 0.3524
+    },
+    {
+      "description": "Boat",
+      "score": 0.3037
+    }
+  ],
+  "best_guess_labels": [
+    "snow"
+  ],
+  "similar_image_urls": [
+    "https://media.istockphoto.com/id/639010606/es/foto/barco-de-pesca-congelado-en-iqaluit-frobisher-bay-nunavut-canad%C3%A1.jpg?s=612x612&w=0&k=20&c=nUTYbFiTEUBoXungiMyD-SkFopfeLEur0i-JKcgbTBQ="
+  ],
+  "evidence": [
+    {
+      "url": "https://www.istockphoto.com/photos/nunavut-canada-arctic-fishing",
+      "page_title": "22 Nunavut Canada Arctic Fishing Images and Stock Photos - iStock",
+      "title": "iStock",
+      "description": "iStock. Khám phá trang web chính thức của iStock để có hàng triệu tệp tin sẵn có độc quyền, trả phí bản quyền một lần. Tìm kho ảnh hoàn hảo cho dự án của bạn một cách nhanh chóng. Tìm kiếm ngay bây giờ.",
+      "text": "474493044, egal",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.istockphoto.com/photo/fishing-boat-frozen-in-at-iqaluit-frobisher-bay-nunavut-canada-gm639010606-114929761",
+      "page_title": "Fishing boat frozen in at Iqaluit, Frobisher Bay, Nunavut, Canada....",
+      "title": "iStock",
+      "description": "iStock. Khám phá trang web chính thức của iStock để có hàng triệu tệp tin sẵn có độc quyền, trả phí bản quyền một lần. Tìm kho ảnh hoàn hảo cho dự án của bạn một cách nhanh chóng. Tìm kiếm ngay bây giờ.",
+      "text": "474493044, egal",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.istockphoto.com/es/fotos/baffin-bay",
+      "page_title": "46 imágenes y fotos de stock de Baffin Bay - iStock",
+      "title": "iStock",
+      "description": "iStock. Explora millones de fotos, imágenes, vectores y vídeos libres de derechos a unos precios irresistibles.",
+      "text": "815056538, valentinrussanov",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.istockphoto.com/fr/photo/bateau-de-p%C3%AAche-gel%C3%A9-%C3%A0-iqaluit-baie-frobisher-nunavut-canada-gm639010606-114929761",
+      "page_title": "Bateau de pêche gelé à Iqaluit, Baie Frobisher, Nunavut, Canada",
+      "title": "iStock",
+      "description": "iStock. Visitez le site officiel iStock et découvrez des millions de fichiers exclusifs et libres de droits. Trouvez rapidement le fichier parfait pour votre projet.",
+      "text": "607754736, stock_colors",
+      "image_captions": []
+    }
+  ],
+  "evidence_count": 4,
+  "crawled_at": "2026-04-23T16:52:20.588565+00:00"
+}

@@ -1,0 +1,121 @@
+{
+  "sample_id": "false_175",
+  "image_url": "https://i.kinja-img.com/gawker-media/image/upload/s--7bw4K7xO--/c_scale,fl_progressive,q_80,w_800/f4lmtljnbu1oabqf0jpn.jpg",
+  "visual_entities": [
+    {
+      "description": "John Singleton",
+      "score": 10.3125
+    },
+    {
+      "description": "Cuba Gooding Jr.",
+      "score": 10.2045
+    },
+    {
+      "description": "Ice Cube",
+      "score": 7.7535
+    },
+    {
+      "description": "Ice-T",
+      "score": 6.4095
+    },
+    {
+      "description": "Boyz n the Hood",
+      "score": 1.4991
+    },
+    {
+      "description": "New Jack City",
+      "score": 0.6747
+    },
+    {
+      "description": "3 Strikes",
+      "score": 0.61455
+    },
+    {
+      "description": "Jason \"Furious\" Styles",
+      "score": 0.60885
+    },
+    {
+      "description": "Music video",
+      "score": 0.4876
+    },
+    {
+      "description": "Audiomack",
+      "score": 0.4315
+    },
+    {
+      "description": "Photograph",
+      "score": 0.4077
+    },
+    {
+      "description": "Film director",
+      "score": 0.3776
+    }
+  ],
+  "best_guess_labels": [
+    "Photograph"
+  ],
+  "similar_image_urls": [
+    "https://therogersrevue.com/wp-content/uploads/2019/04/Screenshot_2019-04-30-10-55-39_2.png",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3764073147161506",
+    "https://i.audiomack.com/ulyssesfernandez/90eda8404d.webp?width=456",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=122204228684221995",
+    "https://preview.redd.it/between-menace-2-society-boyz-in-da-hood-which-death-hit-v0-f09qbqvp8psa1.jpg?width=640&crop=smart&auto=webp&s=fa4e073364d3903943826fa63edfec6f0dae5812",
+    "https://pbs.twimg.com/media/C1rprWNXAAIPSDJ.jpg?format=jpg&name=thumb",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1977747485651467",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2792593974249802",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=565290264915027",
+    "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3876035897272257047"
+  ],
+  "evidence": [
+    {
+      "url": "https://therogersrevue.com/john-singleton-raised-black-children-through-film/",
+      "page_title": "John Singleton Raised Black Children Through Film",
+      "title": "John Singleton Raised Black Children Through Film",
+      "description": "",
+      "text": "Like many other Black children who are now millennial adults, John Singleton was a part of my household, my upbringing, my childhood. His cautionary tales opened up a conversation about the world, the ills of society, and what to avoid.\n“Boyz n the Hood” is an iconic example. I remember as a child watching “Boyz n the Hood” for the first time and being deeply impacted by Ricky’s death scene (played by actor Morris Chestnut). The lessons that John Singleton wanted to come off the screen were so vivid that, after we watched his movies, my Mom and Dad would ask me and my sisters and brothers “Did you understand the message? Did you understand the meaning of the movie? Do you see that he’s trying to show you how your choices can impact your destiny?” John Singleton wanted REAL conversation to take place and make the world aware that this onscreen drama is a reality for many Black boys and girls.\nBefore I wrote this article, I sat down to talk to my journalism mentor of five years about John Singleton’s death and the impact his art had on Black culture. He said:\n“Before John Singleton, the world had only heard about gang violence and maybe saw it on the news. But he brought the realities of it right into our living rooms and made it a national issue. It didn’t just impact the Los Angeles area. The message was clear about the realities of gang violence nationwide.”\nSpot on. As a little Black girl sitting in my living room in Atlanta, Georgia, I felt connected. Seeing a young Black man with such a bright future gunned down by another Black man shook me to the core. The way John Singleton produced the story, you knew it was no fairytale. You were acutely aware that this was everyday life for Black men in communities such as Los Angeles, where even if they tried to avoid gang violence they could be gunned down for trivial reasons.\n“Boyz n the Hood” was just one of many iconic John Singleton films. “Poetic Justice” starring Tupac Shakur had a romantic flair, but still showed the ills of society and Black-on-Black crime. His hit film “Higher Learning” showed Tyra Banks gunned down alongside her college boyfriend Omar Epps by a white supremacist. All his movies gave us a dose of reality so that we can make a change in our communities. He also inspires other Black filmmakers to use their art form to cultivate positive change in our culture.\nJohn Singleton, as little Black boys and girls, we needed you to be our storytelling father. We realize that more and more every day as we see Black men violently slain. A heartbreaking example is the recent brutal murder of Nipsey Hussle, but there are countless others who are gunned down daily. What you did for us with your love for filmmaking is DEEP and I, for one, will be forever inspired. Rest in power.",
+      "image_captions": [
+        "Dracula, Yet Another Uninspired Reimagining",
+        "SNAPSHOTS: John Stalberg Jr.",
+        "SNAPSHOTS: Michelle Danner – The Matriarch of The Italians"
+      ]
+    },
+    {
+      "url": "https://audiomack.com/ulyssesfernandez/song/uede-shouldve-never-wanted-you-lyrics",
+      "page_title": "Lyric Man$uede - Should've Never Wanted You (Lyrics) - Audiomack",
+      "title": "$uede - Should've Never Wanted You (Lyrics) by Lyric Man: Listen on Audiomack",
+      "description": "$uede - Should've Never Wanted You (Lyrics) song from lilese🏆💯. Release Date: December 01, 2020.",
+      "text": "Lyric Man$uede - Should've Never Wanted You (Lyrics)Play $uede - Should've Never Wanted You (Lyrics)0:000.00% played0:00LikePlaylistReUpMore",
+      "image_captions": [
+        "lilese🏆💯 artist cover image",
+        "$uede - Should've Never Wanted You (Lyrics) by Lyric Man",
+        "Fenix Flexin - RIP Mac P Dawg"
+      ]
+    },
+    {
+      "url": "https://audiomack.com/ulyssesfernandez/song/survive",
+      "page_title": "Survive by SadBoy Loko: Listen on Audiomack",
+      "title": "Survive by SadBoy Loko: Listen on Audiomack",
+      "description": "Survive song from lilese🏆💯. Release Date: December 14, 2020.",
+      "text": "|\nGet Plus\n+\nDiscover\nTrending Songs\nTrending Albums\nTop Songs\nTop Albums\nRecently Added\nAccounts For You\nPlaylists\nOriginals\nAudiomack World\nArtist Guide\nAudiomack Studios\nCreate an Account\n|\nSign In\nUpload\nSadBoy Loko\nSurvive\nPlay Survive\n0:00\n0.00% played\n0:00\nLike\nPlaylist\nReUp\nMore\nDownload it in the app\nRelease Date:\nDecember 14, 2020\nAlbum:\nThe First Ese\n#Hip-Hop/Rap\n4.20K\nTotal plays\n45\nLikes\n3\nRe-Ups\n276\nPlaylist Adds\nRead more\nMORE FROM\nlilese🏆💯\nVIEW ALL\n2pac\nhood pain\nFeat.\nxxxtentacion\nMacnlevi\nlost in my emotions\nShoreline Mafia\nFenix Flexin - RIP Mac P Dawg",
+      "image_captions": [
+        "lilese🏆💯 artist cover image",
+        "Survive by SadBoy Loko",
+        "Fenix Flexin - RIP Mac P Dawg"
+      ]
+    },
+    {
+      "url": "https://audiomack.com/ulyssesfernandez/song/lucky-garcia-uede-i-aint-trippin-official-music-video",
+      "page_title": "LucKy Garcia & $uede \"I Ain't Trippin\" (Official Music Video)",
+      "title": "LucKy Garcia & $uede \"I Ain't Trippin\" (Official Music Video) by NEIGHBORHOOD MUSIC: Listen on Audiomack",
+      "description": "LucKy Garcia & $uede \"I Ain't Trippin\" (Official Music Video) song from lilese🏆💯. Release Date: December 01, 2020.",
+      "text": "NEIGHBORHOOD MUSICLucKy Garcia & $uede \"I Ain't Trippin\" (Official Music Video)Play LucKy Garcia & $uede \"I Ain't Trippin\" (Official Music Video)0:000.00% played0:00LikePlaylistReUpMore",
+      "image_captions": [
+        "lilese🏆💯 artist cover image",
+        "LucKy Garcia & $uede \"I Ain't Trippin\" (Official Music Video) by NEIGHBORHOOD MUSIC",
+        "Fenix Flexin - RIP Mac P Dawg"
+      ]
+    }
+  ],
+  "evidence_count": 4,
+  "crawled_at": "2026-04-23T17:41:57.318196+00:00"
+}

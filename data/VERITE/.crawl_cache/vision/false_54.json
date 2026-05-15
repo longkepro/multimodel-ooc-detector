@@ -1,0 +1,85 @@
+{
+  "sample_id": "false_54",
+  "image_url": "https://i.ytimg.com/vi/-8QxnRUEq1g/maxresdefault.jpg",
+  "visual_entities": [
+    {
+      "description": "Closed-circuit television",
+      "score": 0.9775
+    },
+    {
+      "description": "Footage",
+      "score": 0.694
+    },
+    {
+      "description": "The Moody Blues",
+      "score": 0.5677
+    },
+    {
+      "description": "Crime",
+      "score": 0.47
+    },
+    {
+      "description": "Security Camera",
+      "score": 0.4093
+    },
+    {
+      "description": "Universal Music Operations Limited",
+      "score": 0.4046
+    },
+    {
+      "description": "Surveillance",
+      "score": 0.3748
+    },
+    {
+      "description": "The Night",
+      "score": 0.3714
+    },
+    {
+      "description": "Stock footage",
+      "score": 0.3702
+    },
+    {
+      "description": "",
+      "score": 0.3679
+    },
+    {
+      "description": "Universal Music Group",
+      "score": 0.3679
+    },
+    {
+      "description": "Russian mafia",
+      "score": 0.3481
+    },
+    {
+      "description": "Security",
+      "score": 0.3467
+    }
+  ],
+  "best_guess_labels": [
+    "night"
+  ],
+  "similar_image_urls": [
+    "https://i.ytimg.com/vi/-8QxnRUEq1g/maxresdefault.jpg",
+    "https://i.ytimg.com/vi/-8QxnRUEq1g/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDv7CE60VESGsEeoBe1lM0BSzg_1Q"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.imdb.com/video/embed/vi3845719065/",
+      "page_title": "NIGHT | IMDb",
+      "title": "Night - NIGHT | IMDb",
+      "description": "NIGHT follows a night in the life of Omar Jaminson. A man with many sexual secrets some of which will begin to eat away at his conscious and by the end of night, a decision must be made.",
+      "text": "Back to top",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.occrp.org/en/investigation/from-church-to-state",
+      "page_title": "From Church to State | OCCRP",
+      "title": "From Church to State",
+      "description": "A Russian environmental activist was brutally beaten after discovering a mysterious chapel in a forest by the sea. Journalists followed the building’s trail - and it led them straight to Russia’s powerful Federal Guard Service.",
+      "text": "Late on the evening of Dec. 28, 2017, environmental activist Andrey Rudomakha, two colleagues, and a journalist arrived home in the southwestern Russian city of Krasnodar after a long, strange day.\nThe 54-year-old leads the Environmental Watch on North Caucasus, a non-governmental organization focused on preserving the region’s ecosystems. He and his team were returning from a trip to document illegal logging and construction in a supposedly protected forest along the Black Sea coast.\nThey had discovered some oddities. Someone had built a foreign-looking Byzantine chapel inside the forest, and there were large open pits nearby for future construction. A lavish building resembling a chateau was also taking shape. Two more plots of land just outside the forest had been turned into vineyards.\nThe group took photos to document their findings, then drove home. But when they stepped out of their black off-road vehicle to open the gate leading into their yard, three burly men wearing masks and hoods suddenly appeared behind Rudomakha. One blinded him with pepper spray while the others slammed him to the ground and kicked him in the head. When his colleagues tried to help him, they were also sprayed. Then the attackers rifled through the car, opened the trunk, grabbed the activists' backpacks and cameras, and fled.\nRudomakha suffered an open skull injury, broken facial bones, chemical burns to his eyes, and cerebral contusions. He spent weeks in the hospital recovering from his injuries.\nTwo weeks after the attack, it was clear someone was still angry. Rudomakha said he got an email from an address that translates to [email protected]. The message referred to Kuban, the historic name of the Krasnodar region.\n“There is no place in Kuban for people who secretly worship satanist beliefs, using foreign money to destroy Russia under the canopy of environmental protection,” the email read. “You'd better leave.”\nLocal police opened an investigation into the attack, but more than a year later they have still not identified the assailants, despite CCTV camera footage showing the scene in great detail.\nBut there are strong indications — based on court records, government documents, and interviews with those involved — that in the hours just before they were set upon, the environmentalists had stumbled upon a development spearheaded by companies whose owners have close links to Russia’s secretive and powerful Federal Guard Service (FSO).\nThe FSO is a federal agency that provides security for critical government properties and top officials, including President Vladimir Putin. It is also responsible for the construction of certain government facilities, and has its own portfolio of assets about which no public information is available. In a 2016 story on the expanding functions of what it dubbed “Putin’s people,” the state-owned news site Russia Beyond called the agency “almost omnipotent.”\nA Curious Chapel\nThe Krasnodar region, which sprawls out along the Black Sea east of Crimea, is lined with beaches and picturesque forests popular among tourists — and developers. Environmental activists closely monitor these coastal areas for signs of new construction projects, which are likely to be illegal.\nRussian law allows forests to be used only for recreational activities, sport, and tourism. Land inside their boundaries can be rented out, but no permanent structures can be built there and no trees can be cut.\nYet Rudomakha and his colleagues had seen what looked like a mansion taking shape within the boundaries of the forest, which lines the sea near the village of Krinitsa, along with an ornate chapel. And it was an unusual one.\nRussian Orthodox churches feature cupolas topped by onion-shaped domes mounted with crosses. This chapel looked Byzantine or Greek, with a hemispheric dome covered in curved red roof tiles. Against the backdrop of a Russian forest, it immediately stood out as foreign.\nJournalists from Novaya Gazeta, a partner of OCCRP, asked the Russian Orthodox Church about the structure and were told that ecclesiastical officials in charge of the area knew nothing about it.\nAleksandr Saveliev, one of the activists who was attacked, was the first to realize that the mystery building resembled a build-a-chapel kit available for purchase from a Greek company, Naodomiki Ltd.\nAccording to its website, Naodomiki can produce chapels to client specifications in a variety of sizes, colors, and designs. The structures are then prefabricated in Greece, shipped in pieces, and assembled on site.\n\"This small Christian temple allows you to retire with God at any time,” the dealer’s advertising announces. “We give you the opportunity to own the best ready-[made], portable chapels and churches suitable for placement anywhere.”\nSaveliev matched the forest chapel to a particular Naodomiki model, 33r, which cost 47,000 to 67,000 euros, depending on the height. Chapel 33r had the same distinctive red roof tiles and lozenged stained-glass windows that Saveliev remembered from the forest.\nNovaya Gazeta journalists examined Russian customs records and found that at the end of January 2016, Naodomiki shipped a model that appears to match the description of 33r to a woman named Tatiana Kuznetsova.\nKuznetsova is a prominent businesswoman who is married to Oleg Kuznetsov, the former head of military unit 1473 of the FSO. According to documents published by Novaya Gazeta in February 2011, this unit (now renamed to reflect its role in the management of state properties) was responsible for constructing “Putin’s Palace on the Black Sea,” the nickname for an enormous resort just 10 kilometers up the coast from the forest chapel.\nThe palatial complex, with its own personal theater and helipads, was supposedly built for Putin using funds siphoned off from a medical-supply corruption scheme, though the president has vehemently denied any connection to the property. Kuznetsova herself is credited with playing a role in the construction of the 17,691-square-meter palace, which is located on a scenic cape in the coastal village of Praskoveyevka.\nA bit further up the coast is the port of Novorossiysk. That’s where the vessel carrying the chapel docked and unloaded it on January 26, 2016. According to customs records and photographs obtained from ship-tracking databases, the vessel, flying a Liberian flag, left Thessaloniki, Greece, six days earlier carrying a large bronze bell, a bronze Orthodox cross, concrete shaped into structural pieces, Byzantine roof tiles, stained glass windows, and other ecclesiastical items. The ship traveled through the Sea of Marmara and the Bosphorus and Dardanelles Straits, then traversed the Black Sea before docking in Novorossiysk.\nLess than two years later, Rudomakha and his colleagues attempted to photograph this strange cargo — and were attacked hours later.\nFriends in High Places\nExamining land records from the area, reporters from Novaya Gazeta discovered that the 20-hectare plot of forest where the chapel was erected had been leased by a company called Aksis Investitsii until 2055. Aksis also holds the lease to the neighboring vineyards, which are zoned for agriculture, until 2027.\nAksis, which has capital of just 10,000 rubles (around $150), the legal minimum, is headed by Alexey Tot, a lawyer from St. Petersburg in his mid-30s. He is also the director of three other companies that belong to another, more famous St. Petersburg lawyer: Nikolai Egorov.\nEgorov is an old friend of Putin’s, having graduated alongside him from the Law Department of the Leningrad State University in 1975. He co-founded the law firm Egorov, Puginsky, Afanasiev and Partners, which has defended the Russian state in a number of important international cases, including Georgia’s suit against Russia at the International Court of Justice in the Hague.\nTot is that rare Russian businessman who will answer direct questions from journalists. After the attack, he replied to multiple emailed queries from Novaya Gazeta.\nThe businessman confirmed that his company was at the helm of a vineyard project in Krinitsa and that Tatiana Kuznetsova had been involved in its construction.\n“Kuznetsova was the head of the company that acted as a technical commissioner for Aksis Investitsii. The 'Chapel' pre-engineered structure was installed as part of the company's [Aksis’s] investment project for vineyard development,” Tot told Novaya Gazeta.\nThe activists had claimed that one of their group was met by guards at the chapel who forced him to delete his photographs, but Tot said that Aksis Investitsii hadn't hired any security guards for the plot on which the chapel was built, and that the vineyards were managed by a “contractor,” whose name he said he was contractually bound to keep secret.\nIn defense of the building’s construction in a forest, he said, “the chapel is a temporary assembled structure built without any damage to forest vegetation.”\nHowever, according to a state customs declaration and a bill of lading reviewed by Novaya Gazeta, the structure is made of steel-reinforced concrete, is clad in stone, and features a bronze bell, cross, and chandeliers. It has a solid chestnut door and thermally insulated walls made of cement and stone.\nPalace Connections\nA web of connections links Kuznetsova to the FSO, even in the years since her husband left his high-ranking position in the agency.\nShe is directly connected to Putin’s FSO-commissioned Black Sea palace through Investstroy, a company she registered in Moscow in 2009 along with Inna Kolpakova, the wife of the head of Administrative Directorate of the President of the Russian Federation.\nSince 2012, Investstroy has owned a small share in Kompleks, the company that officially owns the palace.\nAccording to SPARK, a Russian corporate database, Investstroy reported assets worth 10.4 billion rubles (about $180 million) in 2017, the most recent period for which figures are available.\nThe company was also involved in the construction of a tourist-oriented coastal winery commissioned by FSO unit 1473, the same one that Kuznetsova’s husband used to lead, and that built Putin’s Palace. The winery is located near the village of Divnomorskoye, a half-hour’s drive from Putin’s Palace and around 20 km from Krinitsa.\nIn April 2012, Investstroy obtained a state environmental assessment on behalf of the winery, records show. And court documents obtained by reporters show that unit 1473 of the FSO granted Investstroy the right to manage some of its other construction projects by signing tripartite agreements with Investstroy and its suppliers.\nNovaya Gazeta called Investstroy’s headquarters in an effort to get in touch with Kuznetsova. A company representative told journalists to send a request to an e-mail address ending with @fgustroy.ru. The owner of fgustroy.ru is former military unit 1473 of the FSO.\nA request for comment sent to the address received no response.\nPolice Inaction, Cadastral Action\nMore than a year has passed since the attack on Andrey Rudomakha. He has recovered from his physical injuries, but is frustrated by the lack of progress in investigating his case.\nPolice in Krasnodar have still not identified a single suspect, despite what Rudomakha insists is an abundance of evidence, including the CCTV footage of the attack and of the assailants’ movements, fingerprints on the car, and the attackers’ discarded cigarette stubs.\n“The criminal case is standing still,” Rudomakha said. “They haven’t found anyone, and as far as I can see, they’re not even looking.”\nIn January, Rudomakha filed a lawsuit over the inaction of Krasnodar police, prompting them to publicly declare that the investigation was still open. Rudomakha says the chief police investigator has cancelled three scheduled trips to revisit the site with him, most recently on February 12. In the end, the court dismissed the complaint.\nThe activists say they have not been back to the Krinitsa forest site since April 2018, but satellite images show that construction on the main building has been proceeding, and a new road has been carved out of the forest.\nThe Deripaska connection\n“A vast part of the unique seaside forest has been stolen from the people and is being mercilessly destroyed for development,” said Rudomakha. “Of course, we will fight this. But in conditions when all state bodies as one are unwilling to see the lawlessness in the construction process, it is difficult to achieve any significant results.”\nThe Presidential Council for Civil Society and Human Rights learned of the attack and sent a delegation to Krasnodar to look into the case in March 2018.\nThe council’s members are prominent activists who speak out forcefully on human rights issues, though they are often ignored.\nAfter visiting the Krinitsa forest, Evgeny Bobrov, the council's deputy chairman, corroborated the environmentalists’ reports on the existence of buildings and other activity there.\n“Four hundred meters from the Black Sea ... federal land in a federal forest reserve is being developed by who knows what.”\n\"There is a fence around the site, the trees are cut down, roads have been built, 12-meter-deep pits excavated, and they are driving piles. This means there will be permanent structures. We saw five cleared plots. The ‘palace’ is on the highest one. If we allow the construction to be completed, the council's visit would have been in vain.\"\n“Neither the Ministry of Natural Resources and Environment, nor local authorities explained what is going on here,” Bobrov said. “We might have to send a request to the Prosecutor General's office — it looks like some serious people are involved. We might as well write an official note to the president to point out that tens of hectares have been turned into construction sites. This is unacceptable.\" The council filed the request to prosecutors in March 2018.\nToday, more than a year after the attack, the chapel is no longer in a forest, at least officially. But it’s not because Bobrov’s words had an impact.\nInstead, a 6.3-hectare swath of land containing the chapel was quietly re-zoned out of the forest in July 2018, making it suddenly legal to build permanent structures there.\nSince November 2018, this new plot of land – no longer a forest in name or law – has been leased by Aksis Investitsii.",
+      "image_captions": []
+    }
+  ],
+  "evidence_count": 2,
+  "crawled_at": "2026-04-23T17:01:57.276390+00:00"
+}

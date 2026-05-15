@@ -1,0 +1,117 @@
+{
+  "sample_id": "true_10",
+  "image_url": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2022/04/knh-ship-explosion.png",
+  "visual_entities": [
+    {
+      "description": "Warship",
+      "score": 0.9894
+    },
+    {
+      "description": "Ship",
+      "score": 0.8459611
+    },
+    {
+      "description": "Explosion",
+      "score": 0.6544867
+    },
+    {
+      "description": "Torpedo",
+      "score": 0.5536
+    },
+    {
+      "description": "Battleship",
+      "score": 0.5163
+    },
+    {
+      "description": "Stealth ship",
+      "score": 0.5111
+    },
+    {
+      "description": "Aircraft carrier",
+      "score": 0.4538
+    },
+    {
+      "description": "Torpedo boat",
+      "score": 0.4162
+    },
+    {
+      "description": "Frigate",
+      "score": 0.3864
+    },
+    {
+      "description": "Patrol boat",
+      "score": 0.3294
+    },
+    {
+      "description": "Torpedo net",
+      "score": 0.3214
+    },
+    {
+      "description": "used",
+      "score": 0.3081
+    }
+  ],
+  "best_guess_labels": [
+    "exploding warship"
+  ],
+  "similar_image_urls": [
+    "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2022/04/knh-ship-explosion.png",
+    "https://mediaproxy.snopes.com/width/600/https://media.snopes.com/2022/04/knh-ship-explosion.png"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.snopes.com/fact-check/russian-war-ship/",
+      "page_title": "Does Video Show Russian Warship Exploding? | Snopes.com",
+      "title": "Does Video Show Russian Warship Exploding?",
+      "description": "One of Russia's most important warships was truly damaged, but this video?",
+      "text": "In April 2022, Russian sailors were forced to evacuate Moskva, one of the Russian Navy's most important warships, after it was badly damaged in the Black Sea. Shortly after this news broke, a video started circulating on social media that supposedly showed an explosion on a Russian warship after it was hit by a Ukrainian missile. This video, however, was unrelated to the current conflict in Ukraine.\nThis video (which can be viewed below) truly shows an explosion aboard a naval ship, but this footage is several years old.\nAs first noted by Bellingcat's Eliot Higgins, this video was taken in 2013, and shows the KNM Trondheim, a Norwegian naval ship, being struck by a missile that was fired by the Norwegian Navy. According to Military.com, the recently decommissioned KNM Trondheim was used as target practice for Norway's new 880-pound Naval Strike Missile:\nThe Norwegian navy tests its new four-metre long, 880lb Naval Strike Missile by firing on one of its own ships, the KNM Trondheim, with spectacular results. Footage filmed from on- board the KNM Trondheim shows the moment the subsonic missile smashed into the side of the ship exploding in a massive fireball. Debris from 300ft long vessel is thrown high into the air as the missile hit the frigate which was in the waters off the coast of Andoy, head on causing extensive damage to the ship. The damaged ship was then towed back to harbour for examination.\nWe were able to determine the source of this video by performing a reverse image search. As this is a video, not a photograph, it's necessary to take a screenshot of the video before performing a reverse image search. You can read more about the process here.\nA video of this naval exercise can be seen below:\nThis footage is unrelated to the current conflict in Ukraine. However, a Russian warship was truly damaged in April 2022. While the exact extent of the damage is unknown and there have been conflicting reports over the cause of the damage, there was an explosion aboard the Moskva that caused serious damage to one of Russia's most important warships.\nThe BBC reported:\nRussia's flagship Black Sea missile cruiser has been \"seriously damaged\" and its crew forced to evacuate, Russian state media says.\nThe defence ministry said ammunition on the Moskva exploded in an unexplained fire, but that the 186-metre (610 foot) vessel was still afloat.\nUkraine claims it struck the vessel with its Neptune missiles.\nThe 510-crew warship has led Russia's naval assault on Ukraine, making it an important symbolic and military target.",
+      "image_captions": [
+        "Nature, Outdoors, Vehicle"
+      ]
+    },
+    {
+      "url": "https://www.snopes.com/tag/russia-ukraine/?pagenum=9",
+      "page_title": "Ukraine War Articles | Page 9 | Snopes.com",
+      "title": "Did Putin's Legs Buckle During a Ceremony Due to Cancer or Parkinson's Disease?",
+      "description": "",
+      "text": "Snopes\nNow available in the app store!\nOpen\nLog in to activate your ad-free access.\nIt looks like you might have a Snopes membership! Log in to enjoy your ad-free experience.\nLog In\nYou're browsing with fewer ads for the next 24 hours, thanks to our sponsor\n1440 Newsletter\n.\nLearn More\nSnopes Membership\nSearch\nMy Profile\nLogout\nSubmit a Rumor\nLatest\nTrending\nNews & Politics\nEntertainment\nFact Checks\nQuiz\nSections\nLatest\nTrending\nFact Checks\nNews\nCollections\nMore\nContact Us\nSubmit a Rumor\nArchives\nQuiz\nFactBot\nSubmit a Tip\nSnopes App\nNewsletters\nAbout Us\nCategories\nNews & Politics\nEntertainment\nScience & Technology\nLifestyle\nSnopes Membership\nLogin\nMy Profile\nLogout\nDonald Trump\nAI-generated Content\nPope Leo XIV\nJeffrey Epstein\nMelania Trump\nUkraine War\nDid Putin's Legs Buckle During a Ceremony Due to Cancer or Parkinson's Disease?\nWritten by:\nJordan Liles\nJune 14, 2022\nWe received reader mail that asked us to look at a video clip that purportedly showed Putin unst ...\nRead More\nNo, a Video Doesn't Show Finland Moving Tanks to the Russian Border\nWritten by:\nBethania Palma\nMay 4, 2022\nThe video shows Finnish tanks being transported for a military exercise taking place amid Russia ...\nRead More\nDid Ian McKellen Visit Lviv, Ukraine?\nWritten by:\nDan Evon\nMay 2, 2022\nSocial media posts said the \"Lord of the Rings\" actor traveled to Ukraine in 2022.\nRead More\nViral 'Ukraine Windows' Photo Didn't Show Whole Picture\nWritten by:\nDan Evon\nApril 22, 2022\nMore than 400 Ukrainians civilians were massacred in Bucha by the Russian military, regardless o ...\nRead More\nLadimir Elensky? Fake Time Magazine Cover Omits 'Z' and 'V'\nWritten by:\nDan Evon\nApril 20, 2022\nSome countries have truly banned public displays of the letter \"Z,\" which is considered a symbol ...\nRead More\nDoes Video Show Russian Warship Exploding?\nWritten by:\nDan Evon\nApril 14, 2022\nOne of Russia's most important warships was truly damaged, but this video?\nRead More\nYes, a Ukrainian Mother Wrote Vital Information on Her Toddler's Back\nWritten by:\nBethania Palma\nApril 12, 2022\nThe photograph has become a symbol of the terror of Ukrainian parents trying to keep their child ...\nRead More\nWere 'Tulipa Ukraine' Flowers Bred To Honor Ukraine?\nWritten by:\nDan Evon\nApril 11, 2022\nSocial media users shared photographs of tulips sporting the colors of the Ukrainian flag.\nRead More\nAre Zelenskyy and Soros Cousins?\nWritten by:\nDan Evon\nApril 11, 2022\nIf you want to smear a politician in the eyes of some far-right circles, just allege some sort o ...\nRead More\nZelenskyy 'Florida Villa' Rumor Goes Viral During War with Russia\nWritten by:\nBethania Palma\nApril 7, 2022\nRevelations about offshore financial dealings of the Ukrainian president emerged in October 2021 ...\nRead More\nHow Many Ukrainian Cultural Sites Have Been Destroyed by the Russians?\nWritten by:\nNur Ibrahim\nApril 7, 2022\nThe Russian invasion poses a threat to Ukrainian monuments and historical artifacts.\nRead More\nNo, Tucker Carlson Didn't Ask if Dead Bodies of Ukrainian Civilians Were 'Staged'\nWritten by:\nNur Ibrahim\nApril 5, 2022\nClips from the Fox News host's show have been shown on Russian state television in the past.\nRead More\nDid Biden Say Putin 'Cannot Remain in Power'?\nWritten by:\nNur Ibrahim\nMarch 28, 2022\nThe U.S. president condemned the Russian president and his actions in Ukraine.\nRead More\nDid CNN Show Edmonton, Canada, Fire Video as if It Were Lviv Explosion?\nWritten by:\nJordan Liles\nMarch 28, 2022\nThe footage in question showed CNN anchors John Berman and Don Lemon and was broadcast on the mo ...\nRead More\nDoes Video Show Zelenskyy Singing John Lennon's 'Imagine'?\nWritten by:\nDan MacGuill\nMarch 28, 2022\nThe Ukrainian president became something of a cult figure during Russia's invasion of his countr ...\nRead More\nDid Biden Say to US Troops About Ukraine: 'You're Gonna See When You're There'?\nWritten by:\nJordan Liles\nMarch 25, 2022\nThe Kyiv Independent referred to U.S. President Joe Biden's choice of words in front of U.S. tro ...\nRead More\nIs Nestle Still Operating in Russia?\nWritten by:\nMadison Dapcevich\nMarch 22, 2022\nThe world’s largest food and beverage company came under fire after dozens of governments and pr ...\nRead More\nYes, Portuguese Protesters Illuminated Russian Embassy With Ukraine's Flag\nWritten by:\nBethania Palma\nMarch 21, 2022\nThe light display was during an anti-war protest.\nRead More\nWere Russian Cosmonauts Seen Wearing Ukrainian Colors?\nWritten by:\nDan Evon\nMarch 21, 2022\nThe photograph is real, but was it a political statement?\nRead More\nDoes Russia Want Alaska Back?\nWritten by:\nBethania Palma\nMarch 19, 2022\nWe all want what we can't have.\nRead More\nPrevious\nNext\nPage: 9",
+      "image_captions": [
+        "A rumor said that Russia President Vladimir Putin's legs were shaking shifting and buckling during a recent awards ceremony in a video clip.",
+        "is finland moving tanks to russian border?",
+        "did ian mckellen visit ukraine?",
+        "Bicycle, Bike, Vehicle",
+        "ladimir elensky fake time magazine cover"
+      ]
+    },
+    {
+      "url": "https://www.snopes.com/fact-check/rating/miscaptioned/?pagenum=24",
+      "page_title": "Archives | Page 24 | Snopes.com",
+      "title": "Does Video Show Russian Warship Exploding?",
+      "description": "This rating is used with photographs and videos that are “real” (i.e., not the product, partially or wholly, of digital manipulation) but are nonetheless misleading because they are accompanied by explanatory material that falsely describes their origin, context, and/or meaning.",
+      "text": "This rating is used with photographs and videos that are “real” (i.e., not the product, partially or wholly, of digital manipulation) but are nonetheless misleading because they are accompanied by explanatory material that falsely describes their origin, context, and/or meaning.\nLearn more about our rating system here.",
+      "image_captions": [
+        "Nature, Outdoors, Vehicle",
+        "marsha blackburn white power sign?",
+        "Tie, Accessories, Accessory",
+        "A giant snake skeleton was supposedly found off the coast of France on Google Maps and Google Earth and was purportedly Titanoboa.",
+        "Airplane, Vehicle, Transportation"
+      ]
+    },
+    {
+      "url": "https://www.snopes.com/category/military/?pagenum=3",
+      "page_title": "Military Archives | Page 3 | Snopes.com",
+      "title": "Did a California Teacher Call Military Members 'the Lowest of Our Low'?",
+      "description": "Myths are important symbols of cultural unity, and perhaps no myths are more important in the modern era than the military myths that establish our national heritage and remind us of the values our nation stands for.",
+      "text": "Military\nMyths are important symbols of cultural unity, and perhaps no myths are more important in the modern era than the military myths that establish our national heritage and remind us of the values our nation stands for.\nPage: 3",
+      "image_captions": [
+        "Tweet featuring photo of David Clarke wearing medals on uniform",
+        "Person, Human, Clothing",
+        "Tie, Accessories, Accessory",
+        "is finland moving tanks to russian border?",
+        "Nature, Outdoors, Vehicle"
+      ]
+    }
+  ],
+  "evidence_count": 4,
+  "crawled_at": "2026-04-23T16:47:34.004951+00:00"
+}

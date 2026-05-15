@@ -1,0 +1,73 @@
+{
+  "sample_id": "true_138",
+  "image_url": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2018/09/protest.jpg",
+  "visual_entities": [
+    {
+      "description": "Candace Owens",
+      "score": 5.1524997
+    },
+    {
+      "description": "Dan Evon",
+      "score": 0.89685
+    },
+    {
+      "description": "Photograph",
+      "score": 0.4418
+    },
+    {
+      "description": "Image",
+      "score": 0.4107
+    },
+    {
+      "description": "Controversy",
+      "score": 0.3435
+    },
+    {
+      "description": "Snopes",
+      "score": 0.3094
+    }
+  ],
+  "best_guess_labels": [
+    "Photograph"
+  ],
+  "similar_image_urls": [
+    "https://mediaproxy.snopes.com/width/600/https://media.snopes.com/2018/09/protest.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10230745025601389",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3039090849591488",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=24738026452547407",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=26105124562409294",
+    "https://cdn-img-ab.facciabuco.com/295/lkkdwp9j28-ycue5_b.jpg",
+    "https://pbs.twimg.com/media/HFsyyH3WkAApEx4.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3554517274712024",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3593918674105217",
+    "https://pbs.twimg.com/media/HGSIT1zbsAA32oL.jpg?format=jpg&name=thumb"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.snopes.com/category/photos/?pagenum=55",
+      "page_title": "Fauxtography Archives | Page 55 | Snopes.com",
+      "title": "Is This a Video of Bikers on Their Way to Washington to Support Brett Kavanaugh?",
+      "description": "Numerous photographs and videos circulate on the Internet. Some are real. Some are fake. Some are real, but have been given false backstories.",
+      "text": "Snopes\nNow available in the app store!\nOpen\nLog in to activate your ad-free access.\nIt looks like you might have a Snopes membership! Log in to enjoy your ad-free experience.\nLog In\nYou're browsing with fewer ads for the next 24 hours, thanks to our sponsor\n1440 Newsletter\n.\nLearn More\nSnopes Membership\nSearch\nMy Profile\nLogout\nSubmit a Rumor\nLatest\nTrending\nNews & Politics\nEntertainment\nFact Checks\nQuiz\nSections\nLatest\nTrending\nFact Checks\nNews\nCollections\nMore\nContact Us\nSubmit a Rumor\nArchives\nQuiz\nFactBot\nSubmit a Tip\nSnopes App\nNewsletters\nAbout Us\nCategories\nNews & Politics\nEntertainment\nScience & Technology\nLifestyle\nSnopes Membership\nLogin\nMy Profile\nLogout\nDonald Trump\nAI-generated Content\nPope Leo XIV\nJeffrey Epstein\nMelania Trump\nFauxtography\nNumerous photographs and videos circulate on the Internet. Some are real. Some are fake. Some are real, but have been given false backstories.\nIs This a Video of Bikers on Their Way to Washington to Support Brett Kavanaugh?\nWritten by:\nDan Evon\nSept. 26, 2018\nAccording to internet trolls, bikers everywhere in the world are supporters of President Trump a ...\nRead More\nIs This a Photograph of Christine Blasey Ford with Bill Clinton?\nWritten by:\nDavid Mikkelson\nSept. 25, 2018\nDr. Christine Blasey Ford is apparently a Zelig-like figure who has met and posed with every pro ...\nRead More\nWas This Photograph Taken at a Trump Protest?\nWritten by:\nDan Evon\nSept. 25, 2018\nAn image from a gay pride parade in New York was shared on social media as if it showed people a ...\nRead More\nIs This a Photograph of Christine Blasey Ford Partying?\nWritten by:\nDavid Mikkelson\nSept. 23, 2018\nApparently any photograph of a woman semi-clothed and drinking can be used to smear the credibil ...\nRead More\nDoes This Photograph Show Irish Slaves in the United States?\nWritten by:\nAlex Kasprak\nSept. 22, 2018\nA disturbing photo of mining conditions, likely from Belgium in the early 20th century, has ofte ...\nRead More\nDoes This Photograph Show a Woman Abused by Keith Ellison?\nWritten by:\nDavid Mikkelson\nSept. 22, 2018\nRep. Keith Ellison's former girlfriend has leveled charges of \"narcissist abuse\" against him, bu ...\nRead More\nIs This Video of a Baby Being Violently Dunked in Water Real?\nWritten by:\nDan Evon\nSept. 21, 2018\nA video showing an apparent \"violent baptism\" may appear shocking to some viewers, but the enthu ...\nRead More\nIs This a Photograph of Christine Blasey Ford Holding a 'Not My President' Sign?\nWritten by:\nDan Evon\nSept. 19, 2018\nA conservative Facebook page's attempt to smear Christine Blasey Ford used a stock photograph of ...\nRead More\nDoes This Video Show School Lemonade Spiked with Laxatives?\nWritten by:\nDan Evon\nSept. 19, 2018\nA video appears to capture the disturbing and messy aftermath of a school prank.\nRead More\nDoes This Video Show a Lemon-Pomegranate Hybrid Plant?\nWritten by:\nDan Evon\nSept. 18, 2018\nA video purportedly showing the creation of a lemon-pomegranate hybrid fruit was created as a joke.\nRead More\nDoes This Photograph Show a Stretch of I-40 in North Carolina Underwater?\nWritten by:\nDan Evon\nSept. 18, 2018\nA photograph documents that a portion of Interstate 40 in North Carolina was completely underwat ...\nRead More\nIs This a Photograph of an Elephant Carrying a Lion Cub?\nWritten by:\nDan Evon\nSept. 18, 2018\nA photograph of an elephant carrying a lion cub should need to be real to be considered the \"bes ...\nRead More\nAre These Pictures of Pigs on a Farm Flooded by Hurricane Florence?\nWritten by:\nDan Evon\nSept. 17, 2018\nPhotographs showing a group of pigs on a flooded farm are real, but they were not taken after Hu ...\nRead More\nDid George Zimmerman Sign a Bag of Skittles?\nWritten by:\nDan Evon\nSept. 17, 2018\nAn image showing a bag of Skittles autographed by George Zimmerman came from the documentary \"Re ...\nRead More\nDoes This Photograph Show 'Brittany L' After Killing a Leopard?\nWritten by:\nDan MacGuill\nSept. 17, 2018\nA photograph posted by Safari Club International went viral after being shared by outraged anima ...\nRead More\nDoes This Video Show a DragonAir 737 Caught in a Typhoon?\nWritten by:\nDan Evon\nSept. 17, 2018\nA video purportedly showing an airplane being spun around by typhoon-force winds is actually a c ...\nRead More\nWas President Trump's 9/11 'Fist Pump' a Greeting to a Cancer Victim?\nWritten by:\nDavid Mikkelson\nSept. 16, 2018\nDeceptive memes purport to correct misinformation offered by other supposedly deceptive memes.\nRead More\nIs This Anderson Cooper Standing in a Ditch While Reporting Hurricane Florence?\nWritten by:\nDavid Mikkelson\nSept. 16, 2018\nIt's not uncommon for reporters to call upon dramatic skills in the course of conveying the peri ...\nRead More\nWeather Channel Reporter Braces in Storm That Leaves Others Unaffected\nWritten by:\nDavid Mikkelson\nSept. 15, 2018\nA video clip of a report captured during Hurricane Florence appeared to show some very selective ...\nRead More\nDoes Nike Make Shoes Featuring the 'All-Seeing Eye' Symbol?\nWritten by:\nDan Evon\nSept. 14, 2018\nIf you think that your shoes are watching you, maybe they are ... if you own this particular Nik ...\nRead More\nPrevious\nNext\nPage: 55",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.snopes.com/fact-check/rating/miscaptioned/?pagenum=41",
+      "page_title": "Archives | Page 41 | Snopes.com",
+      "title": "Is This a Picture of Christine Blasey Ford in 1982?",
+      "description": "This rating is used with photographs and videos that are “real” (i.e., not the product, partially or wholly, of digital manipulation) but are nonetheless misleading because they are accompanied by explanatory material that falsely describes their origin, context, and/or meaning.",
+      "text": "This rating is used with photographs and videos that are “real” (i.e., not the product, partially or wholly, of digital manipulation) but are nonetheless misleading because they are accompanied by explanatory material that falsely describes their origin, context, and/or meaning.\nLearn more about our rating system here.",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.snopes.com/tag/walkaway/",
+      "page_title": "Walkaway Articles | Snopes.com",
+      "title": "Did the #WalkAway Campaign Use Stock Photographs for People It Claimed Left the Democratic Party?",
+      "description": "",
+      "text": "Snopes\nNow available in the app store!\nOpen\nLog in to activate your ad-free access.\nIt looks like you might have a Snopes membership! Log in to enjoy your ad-free experience.\nLog In\nYou're browsing with fewer ads for the next 24 hours, thanks to our sponsor\n1440 Newsletter\n.\nLearn More\nSnopes Membership\nSearch\nMy Profile\nLogout\nSubmit a Rumor\nLatest\nTrending\nNews & Politics\nEntertainment\nFact Checks\nQuiz\nSections\nLatest\nTrending\nFact Checks\nNews\nCollections\nMore\nContact Us\nSubmit a Rumor\nArchives\nQuiz\nFactBot\nSubmit a Tip\nSnopes App\nNewsletters\nAbout Us\nCategories\nNews & Politics\nEntertainment\nScience & Technology\nLifestyle\nSnopes Membership\nLogin\nMy Profile\nLogout\nDonald Trump\nAI-generated Content\nPope Leo XIV\nJeffrey Epstein\nMelania Trump\nwalkaway\nDid the #WalkAway Campaign Use Stock Photographs for People It Claimed Left the Democratic Party?\nWritten by:\nBethania Palma\nJuly 25, 2018\nThe founder of a viral political campaign claims memes featuring stock photo models instead of r ...\nRead More\nWas This Photograph Taken at a Trump Protest?\nWritten by:\nDan Evon\nSept. 25, 2018\nAn image from a gay pride parade in New York was shared on social media as if it showed people a ...\nRead More\nPage: 1",
+      "image_captions": []
+    }
+  ],
+  "evidence_count": 3,
+  "crawled_at": "2026-04-23T17:31:44.545495+00:00"
+}

@@ -1,0 +1,62 @@
+{
+  "sample_id": "false_296",
+  "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/msnbc/Components/Photos/040514/040514_cuba_vlarge_11a.jpg",
+  "visual_entities": [
+    {
+      "description": "United States",
+      "score": 0.4464
+    },
+    {
+      "description": "Cuba",
+      "score": 0.41040003
+    },
+    {
+      "description": "Urban area",
+      "score": 0.4095
+    },
+    {
+      "description": "Urban hierarchy",
+      "score": 0.4072
+    },
+    {
+      "description": "Urban structure",
+      "score": 0.353
+    }
+  ],
+  "best_guess_labels": [
+    "urban area"
+  ],
+  "similar_image_urls": [
+    "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/msnbc/Components/Photos/040514/040514_cuba_vlarge_11a.jpg",
+    "http://media3.s-nbcnews.com/i/msnbc/Components/Photos/040514/040514_cuba_vlarge_11a.jpg",
+    "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-560w,f_auto,q_auto:best/msnbc/Components/Photos/040514/040514_cuba_vlarge_11a.jpg",
+    "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1024x768_scale,f_auto,q_auto:best/msnbc/Components/Photos/040514/040514_cuba_vlarge_11a.jpg",
+    "https://cpcml.ca/wp/wp-content/uploads/2021/08/040514-CubaHavana-Protest@USInterestsSection-AIN-square.jpg",
+    "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1024-512,f_auto,q_auto:best/msnbc/Components/Photos/040514/040514_cuba_vlarge_11a.jpg",
+    "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/msnbc/Components/Photos/040514/040514_cuba_vlarge_11a.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.nbcnews.com/id/wbna4979303",
+      "page_title": "Castro leads marchersto protest new U.S. curbs - NBC News",
+      "title": "Castro leads marchersto protest new U.S. curbs",
+      "description": "Fidel Castro marched hundreds of thousands of Cubans past the U.S. mission on Friday to denounce new “cruel and brutal” sanctions aimed at reducing the flow of American dollars to his cash-strapped regime. NBC News Mary Murray reports.",
+      "text": "Fidel Castro marched hundreds of thousands of Cubans past the American diplomatic mission on Friday to denounce new “cruel and brutal” measures aimed at reducing the flow of dollars to his cash-strapped regime.\nThe new steps ordered by President Bush last week included restrictions on money transfers and family visits, increased efforts to transmit anti-Castro television to Cuba and appointment of a coordinator to plan a transaction from socialism to capitalism.\nSpeaking before a massive sea of civilians, students and soldiers, Castro was angry and defiant — repeating his warning that the nation stood ready to defend its sovereignty with “every last drop of blood.”\nCastro, who is convinced American strategy to remove him from power could include a military component, also sent a personal message to Bush, “My only regret is that I won’t be able to see your face because you will be thousands of miles away while I will be in the front lines fighting alongside my people.”\nNew definition of the ‘Cuban family’ particularly irksome\nMost Cubans ignored the regime-change elements to Bush's proposals. Instead, they worried about how it will affect their daily lives.\nOne protester, Liliana Rodriguez, a 26-year old sociologist who works two jobs and attends graduate school, focused on “a disturbing disregard” for the Cuban family.\n“Who is Bush to decide who belongs to my family?” said Rodriguez in a reference to restrictions on family travel back to the island.\nUnder the new plan, Cuban Americans would only be allowed to visit and send financial aid to immediate relatives -- eliminating aunts, uncles, nieces, nephews and cousins from the family tree.\nIn addition, Cuban Americans will be restricted to one 14-day visit every three years. Each traveler must obtain written permission from the U.S. Treasury Department before making plane reservations.\nOnce here, the visitor who spends more than can $50 a day on room, meals and transport will be breaking the law. The current daily allowance is $164.\nCoincidentally, this comes at a time when Havana, capitulating to pressure from Cubans living abroad, finally agreed to loosen its own visa controls and allow people with valid Cuban passports to travel home without requesting specific permission.\nRodriguez, who works with parents of disabled children and teaches sociology at a community college, is convinced the measures will further splinter the many Cuban families already having to cope with separation and exile.\nA Cuban-American colleague, Nelson Valdes, who teaches sociology at the University of New Mexico, shared her indignation.\n“What constitutes a ‘family’ is something no government can regulate,\" he said. \"It is outrageous that a conservative president that claims to support family values dares to say that my uncles, my cousins, my nieces are not my family and cannot be visited…the issue is no longer political. It is personal!”\nHelping the opposition\nWhile the new measures may force Cubans to further tighten their belts, Bush also set aside $59 million to help the opposition hasten Castro’s end.\nPart of that fund aims to support family members of jailed dissidents, launch information campaigns in third countries to curb international tourism to the Caribbean island, and finance democracy-building efforts.\nUp to $18 million will cover the cost of deploying U.S. military planes to fly near Cuban airspace in order to bombard the island with anti- Castro radio and television propaganda.\nThe high-tech flights will aim to bypass Cuba’s effective jamming devices, located on the roof of the Havana Libre Hotel, the former Hilton.\nThat military aspect has people on edge, fearing tensions could easily escalate.\nVictor Hugo Mendoza, who has spent 30 years working as a street cleaner, wondered, “Why the provocation? What happens if Fidel sends our planes up too? What happens if Fidel decides to retaliate and knock Miami radio off the air?”\nEven Castro’s domestic critics think the plan misses its mark.\nElizardo Sanchez, who monitors Cuban prison abuses after spending 8 years himself behind bars, described the measures as “well intentioned but counter-productive.”\nOswaldo Payá, initiator of a daring petition drive calling for a national referendum, politely told the White House to butt out, saying that neither the U.S. government or Cubans living abroad would play a role in any transition.\nElection- year politics?\nThere also have been criticism of the proposals in the United States.\nSenator Max Baucus (D-Montana) said the administration harbors an \"absurd and increasingly bizarre obsession with Cuba,\" while Robert Menéndez, a Democrat who represents New Jersey exiles in the House of Representatives, blasted Bush for “playing election-year politics with the lives of the Cuban people.”\nThe lawmaker suggested Bush was pandering to South Florida’s 450,000 registered Cuban-American voters, the majority of whom support strengthened sanctions.\nEven a group of Havana high school students, who boarded buses at 2 a.m. bus Friday to ensure their place at the front of Castro’s march, believed election-year politics was the reason for the new measures.\n“It’s all about November and who gets the Miami vote,” said high school junior Yaimara Gonzalez, who also expressed disdain for John Kerry, the Democratic Party candidate. “Kerry will screw us too if he thinks it will get him elected.”",
+      "image_captions": [
+        "Hundreds of thousands of Cubans walk along Havana's seafront during a march to protest against new steps taken by the United States to squeeze Cuba's economy and topple Castro's government.Ho / AIN via Reuters",
+        "Cuban President Fidel Castro,gestures as people wave flags , during a speech before a demonstration Friday May.14,2004, in front of the buiding of the US Interests Section in Havana, Cuba.   The rally was organized to protest against Geaorges WW Bush policy. (AP Photo/Jose Goitia)Jose Goitia / AP",
+        "AERIAL VIEW OF CUBANS MARCHING ALONG HAVANA'S SEAFRONT"
+      ]
+    },
+    {
+      "url": "https://cpcml.ca/fr/sommaire-fidel-castro-95e-anniversaire/",
+      "page_title": "sommaire-fidel-castro-95e-anniversaire - Parti marxiste-léniniste du ...",
+      "title": "sommaire-fidel-castro-95e-anniversaire - Parti marxiste-léniniste du Canada",
+      "description": "13 août 1926 95e anniversaire de naissance de Fidel Castro • Honneur à la vie et l’oeuvre du dirigeant légendaire du peuple cubain • Fidel Castro: un soldat révolutionnaire • Extraits de la Proclamation de Fidel du 14 mai 2004 à l’adresse du gouvernement des États-Unis • Film: Fidel es Fidel",
+      "text": "13 août 1926 95e anniversaire de naissance de Fidel Castro • Honneur à la vie et l’oeuvre du dirigeant légendaire du peuple cubain • Fidel Castro: un soldat révolutionnaire • Extraits de la Proclamation de Fidel du 14 mai 2004 à l’adresse du gouvernement des États-Unis • Film: Fidel es Fidel Liste d'envoi Δ LinkedInCe champ n'est utilisé qu'à des fins de validation et devrait rester inchangé.Ajoutez postmaster@cpcml.ca à votre carnet d'adresses ou à votre liste de contacts pour éviter tout blocage illégitime. Si vous ne recevez pas nos lettres d'information après vous être abonné, ajoutez le domaine @cpcml.ca à votre «liste blanche». Renseignez-vous auprès de votre fournisseur de messagerie pour plus d'informations.Adresse courriel* Nom*Postal Code*",
+      "image_captions": []
+    }
+  ],
+  "evidence_count": 2,
+  "crawled_at": "2026-04-23T18:54:23.737496+00:00"
+}

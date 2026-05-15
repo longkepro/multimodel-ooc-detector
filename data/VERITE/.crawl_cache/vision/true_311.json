@@ -1,0 +1,111 @@
+{
+  "sample_id": "true_311",
+  "image_url": "https://www.mediaite.com/wp-content/uploads/2020/07/Screen-Shot-2020-07-23-at-7.25.56-AM.jpg",
+  "visual_entities": [
+    {
+      "description": "George Floyd",
+      "score": 10.728001
+    },
+    {
+      "description": "Judy Sheindlin",
+      "score": 10.725
+    },
+    {
+      "description": "Judge Judy",
+      "score": 1.0713
+    },
+    {
+      "description": "Murder of George Floyd",
+      "score": 1.0317
+    },
+    {
+      "description": "Trial of Derek Chauvin",
+      "score": 0.5487
+    },
+    {
+      "description": "Peter Cahill",
+      "score": 0.5385
+    },
+    {
+      "description": "",
+      "score": 0.3965
+    },
+    {
+      "description": "Judge",
+      "score": 0.3751
+    },
+    {
+      "description": "Death",
+      "score": 0.3691
+    },
+    {
+      "description": "Minneapolis Police Department",
+      "score": 0.3569
+    },
+    {
+      "description": "Court",
+      "score": 0.3291
+    }
+  ],
+  "best_guess_labels": [
+    "george floyd judge judy"
+  ],
+  "similar_image_urls": [
+    "https://www.mediaite.com/wp-content/uploads/2020/07/Screen-Shot-2020-07-23-at-7.25.56-AM.jpg",
+    "https://www.nzherald.co.nz/resizer/v2/V77RBSWVGY6ZRM2P3TOXP6KECU.jpg?auth=f52fcbc74d6bd74eebc1fe2a363bec94ba0fb8cef431381f072f5ddf791cc5c4&width=320&height=180&quality=70&smart=true"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.mediaite.com/media/tv/no-a-young-george-floyd-did-not-appear-on-an-episode-of-judge-judy/",
+      "page_title": "No, George Floyd Did Not Appear On An Episode of Judge Judy",
+      "title": "No, George Floyd Did Not Appear On An Episode of Judge Judy",
+      "description": "Contrary to a recent bit of fake news that has been spreading around lately, George Floyd did not appear on the Judge Judy show when he was a teenager.",
+      "text": "No, A Young George Floyd Did Not Appear On An Episode of Judge Judy\nContrary to a recent bit of fake news that has been spreading around lately, George Floyd did not appear on the Judge Judy show when he was a young man.\nIn recent weeks, people have been spreading a misleading video online that claims to show Floyd in Judy Sheindlin’s court room, facing charges for stealing and damaging a car. National Review has noted that the episode was shot 10 years ago, so if Floyd was 17 years old back then, he must’ve been around 27 when he died at the hands of the Minneapolis police two months ago.\nThe problem, however, is this is a completely different George Floyd.\nThe man on Judge Judy is identified as George Floyd IV, but as for the man whose death sparked national outrage against racial injustice, his full name was George Perry Floyd, Jr. Floyd Jr. was 46 years old at the time of his death, and if the age discrepancy wasn’t enough, Reuters did a photo comparison and found that the two Floyds do not resemble each other.\nJudging by the manner in which the Judge Judy video was spread around, it appears that this is a public effort to falsely portray George Perry Floyd, Jr. in a negative light as America continues to observe protests against police brutality. Ever since these demonstrations took off, critics have made attacks on Floyd’s character in order to delegitimize the protests carried out in his name.\nWatch above.\nNew: The Mediaite One-Sheet \"Newsletter of Newsletters\"\nYour daily summary and analysis of what the many, many media newsletters are saying and reporting. Subscribe now!",
+      "image_captions": [
+        "Ex-Trump Pal Geraldo Tells CNN Iran 'Figured Out' Trump Always Chickens Out",
+        "'Don't Laugh — Inappropriate!' CNN Anchors Caught Off Guard By Surprise Trump War Inflation Twist",
+        "Mediaite One Sheet Newsletter"
+      ]
+    },
+    {
+      "url": "https://www.nzherald.co.nz/entertainment/no-george-floyd-did-not-appear-on-an-episode-of-judge-judy/UU5BDR5BDWT5AG2FMPOQ3IVAVM/",
+      "page_title": "No, George Floyd did not appear on an episode of Judge Judy",
+      "title": "No, George Floyd did not appear on an episode of Judge Judy",
+      "description": "Old episode of Judge Judy does not feature the murdered man whose death sparked protests.",
+      "text": "He tells Judge Judy that he should have to pay for the damage because he would not have crashed the car if police were not chasing him.\nThe video fits neatly into the narrative for many who have sought to claim that George Floyd Jr was somehow deserving of his death or unworthy of being the focus of protest action because of his criminal background.\nThe problem? It's not him.\nGeorge Floyd Jr was 46 when police knelt on his neck and killed him in May 2020.\nThe episode of Judge Judy, which aired in 2010, features a young man named as George Floyd IV who gives his age as 16.\nFacebook has acted to slow the spread of the clip, marking it as \"false information\" and requiring users to click through to see it, though they have not removed it wholesale.\nIt still appears frequently on Twitter, however.",
+      "image_captions": [
+        "Same name, different men. Photo / Supplied",
+        "'We remember where we belong': Princess of Wales marks Earth Day with Mother Nature post",
+        "'So sad it hurts': Brother shares heartbreak after 'Rugby Jedi' dies in Thailand",
+        "'I didn't feel worthy': Director of new Māori Battalion movie on his hero's story",
+        "Sponsored: New homes draw people to inner city"
+      ]
+    },
+    {
+      "url": "https://www.americantrapshooter.com/posts/89776/",
+      "page_title": "George Floyd was on Judge Judy years ago - American Trap Shooter",
+      "title": "George Floyd was on Judge Judy years ago",
+      "description": "You have to see this--no wonder he ended up the way he did--",
+      "text": "Don’t believe everything you read on the internet. The 18 year old George Floyd IV that appeared on Judge Judy in 2010 isn’t the same 46 year old George Floyd that was killed in Minneapolis in 2020.",
+      "image_captions": [
+        "Americantrapshooter.com - The open trapshooting forum."
+      ]
+    },
+    {
+      "url": "https://www.foxnews.com/video/6353455173112",
+      "page_title": "Judge Judy rips cities struggling with crime - Fox News",
+      "title": "Judge Judy rips cities struggling with crime: 'Society made excuses for bad behavior' | Fox News Video",
+      "description": "'Outnumbered' panelists discuss the result of liberal district attorneys' policies as crime rages in major cities.",
+      "text": "Log in to comment on videos and join in on the fun.\nWatch the live stream of Fox News and full episodes.\nReduce eye strain and focus on the content that matters.\n'Outnumbered' panelists discuss the result of liberal district attorneys' policies as crime rages in major cities.",
+      "image_captions": [
+        "Judge Judy rips cities struggling with crime: 'Society made excuses for bad behavior'",
+        "Fake MAGA influencer exposed as AI persona",
+        "Jesse Watters: Iran’s economy could be on the verge of crashing",
+        "Laura: This could disenfranchise Virginians",
+        "Virginia redistricting map ruled unconstitutional, sparking nationwide debate"
+      ]
+    }
+  ],
+  "evidence_count": 4,
+  "crawled_at": "2026-04-23T18:58:55.743742+00:00"
+}

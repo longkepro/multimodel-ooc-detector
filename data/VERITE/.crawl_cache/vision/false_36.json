@@ -1,0 +1,129 @@
+{
+  "sample_id": "false_36",
+  "image_url": "https://hips.hearstapps.com/hmg-prod/images/personality-paris-hilton-and-singer-britney-spears-at-the-news-photo-1599745049.jpg?crop=0.633xw:0.450xh;0.176xw,0.0320xh&resize=1200:*",
+  "visual_entities": [
+    {
+      "description": "Britney Spears",
+      "score": 10.9965
+    },
+    {
+      "description": "Paris Hilton",
+      "score": 10.959001
+    },
+    {
+      "description": "The Woman in Me",
+      "score": 1.06725
+    },
+    {
+      "description": "Britney Spears conservatorship case",
+      "score": 0.99074996
+    },
+    {
+      "description": "The Simple Life",
+      "score": 0.91725004
+    },
+    {
+      "description": "Paris in Love",
+      "score": 0.82515
+    },
+    {
+      "description": "FreeBritney movement",
+      "score": 0.82395005
+    },
+    {
+      "description": "Celebrity",
+      "score": 0.6207
+    },
+    {
+      "description": "MTV Video Music Awards",
+      "score": 0.6103
+    },
+    {
+      "description": "iHeartRadio",
+      "score": 0.536
+    },
+    {
+      "description": "Artist",
+      "score": 0.4864
+    },
+    {
+      "description": "Disc jockey",
+      "score": 0.4712
+    }
+  ],
+  "best_guess_labels": [
+    "britney and paris friendship"
+  ],
+  "similar_image_urls": [
+    "https://www.latercera.com/resizer/v2/72ZP7XQPDVA4JB2LO3ER3AI4CY.png?auth=2eab31837b83973a619d254a74f112518824462aa533307bf6bb70cac55c1718&height=630&width=1200&smart=true",
+    "https://thebridgehead.ca/wp-content/uploads/2023/11/personality-paris-hilton-and-singer-britney-spears-at-the-news-photo-1599745049.jpg",
+    "https://hips.hearstapps.com/hmg-prod/images/personality-paris-hilton-and-singer-britney-spears-at-the-news-photo-1599745049.jpg?crop=0.633xw:0.450xh;0.176xw,0.0320xh&resize=1200:*",
+    "https://thebridgehead.ca/wp-content/uploads/2023/11/personality-paris-hilton-and-singer-britney-spears-at-the-news-photo-1599745049-1024x512.jpg",
+    "https://hips.hearstapps.com/hmg-prod/images/personality-paris-hilton-and-singer-britney-spears-at-the-news-photo-1599745049.jpg?crop=0.633xw:0.450xh;0.176xw,0.0320xh&resize=640:*",
+    "https://media.elcomercio.com/wp-content/uploads/2025/01/Paris-Hilton-1024x683.jpg",
+    "https://www.hola.com/us/horizon/landscape/6ae21f542c7b-2008-mtv-video-music-awards-backstage-and-audience.jpg?im=Resize=(360),type=downsize",
+    "https://m1.quebecormedia.com/emp/emp/GettyImages_8270871636c04157-1c5a-4e0f-89aa-cf95f7a15525_ORIGINAL.jpg?impolicy=crop-resize&x=266&y=108&w=2070&h=1165&width=1200",
+    "https://www.hola.com/us/horizon/square/7eb9329eace3-2008-mtv-video-music-awards-backstage-and-audience.jpg",
+    "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/01/britney-spears-paris-hilton-e1769792512804.jpg?w=419&h=249&crop=1"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.harpersbazaar.com/celebrity/latest/a33979712/paris-hilton-talks-friendship-with-britney-spears/",
+      "page_title": "Paris Hilton Opens Up About Her Friendship with Britney Spears",
+      "title": "Paris Hilton Opens Up About Her Longtime Friendship with Britney Spears",
+      "description": "The heiress also revealed her thoughts on Spears's highly debated conservatorship.",
+      "text": "- Paris Hilton spoke about her longtime friendship with pop star Britney Spears in a new interview with Andy Cohen.\n- Hilton revealed that the two have spent time together this summer.\n- The heiress also spoke out against Spears's scrutinized conservatorship.\nParis Hilton shared new details about how she and longtime friend Britney Spears managed to spend secret time together this summer. In a new interview with Andy Cohen on SiriusXM's Andy Cohen Live, Hilton also talked about how much she's valued their friendship over the decades.\n\"I saw her this summer. We've had dinners, I saw her in Malibu. I just love her so much,\" said Hilton, adding that the pair met up with an intimate group of friends. \"She is so sweet and so innocent and such a nice girl. We just talk about happy things. Music, fashion… fun things. I never like to bring up negative things and make people feel uncomfortable so I've never talked about [the conservatorship] with her.\"\nThough Hilton said that she doesn't discuss Spears's hotly debated conservatorship with the pop star, she did share her thoughts on the matter and how she relates to the feeling of not having control of your own life.\n\"I feel like if you are an adult you should be able to live your life and not be controlled. I think that maybe stems from me being controlled so much so I can understand how that would feel and I can't imagine right now if that was still happening to me,\" explained Hilton. \"After just working your whole life and working so hard, she's this icon and I just feel like she has no control of her life whatsoever and I just don't think that's fair.\"",
+      "image_captions": [
+        "Christopher Polk//Getty Images",
+        "Kevin Winter//Getty Images",
+        "2008 mtv video music awards   backstage and audience",
+        "Two individuals wearing similar high-fashion outfits with distinctive collars.",
+        "Child standing on a boat with arms crossed over a body of water."
+      ]
+    },
+    {
+      "url": "https://www.realitytea.com/2025/10/30/paris-hilton-britney-spears-calls-text/",
+      "page_title": "Britney Spears Not Answering Paris Hilton's Calls Amid Crisis",
+      "title": "Britney Spears Not Answering Paris Hilton’s Calls Amid Crisis — Source",
+      "description": "Paris Hilton has tried reaching out to Britney Spears through calls and texts. However, Spears reportedly hasn't attended the calls.",
+      "text": "Britney Spears has recently made headlines after a viral video showed her driving erratically in her black BMW. The singer’s family is reportedly “terrified” that she might be “losing control.” Meanwhile, the singer’s best friends, Selena Gomez, Madonna, and Paris Hilton, have remained silent amid the driving drama and Kevin Federline’s new memoir. However, reports claim that Hilton has reached out through mutual friends, though Spears has yet to respond to her calls.\nParis Hilton’s efforts to reach out to Britney Spears thwarted, says source\nParis Hilton and Britney Spears have been friends since the early 2000s and have always been supportive of each other. They have been spotted together at various events and parties, enjoying their time together. In fact, Hilton supported her during her friend’s conservatorship era and reportedly said that it “breaks” her heart that “people have so much control over her.”\nMeanwhile, Spears has also mentioned the businesswoman as someone who has been very kind to her in her memoir, “The Woman in Me.” The duo have had a special friendship over the years, and they have spoken publicly about their special bond. Now, with Spears making headlines again, Rob Shuter reported in #ShutterScoop that the singer’s other friends, Gomez and Madonna, have chosen to stay silent amid the crisis.\nAn insider said, “They were front-row for the photo ops, but now they’re nowhere to be found. Britney’s struggling, and the silence from her so-called friends is deafening.” The sources further said that the “Toxic” hitmaker hasn’t talked to her friends for a long time. A close source said, “No texts, no calls, nothing. She thought these women were her support system.”\nBut Hilton tried reaching out through mutual friends. She has reportedly “called, texted, sent messages through mutual friends.” However, a source revealed that Spears has “isolated” herself. “But Britney doesn’t answer the phone. She’s isolated — and unreachable,” added the insider. With everything happening in Spears’ life, only time will tell how the friendship between the two stars will unfold.",
+      "image_captions": [
+        "Photo Credit: Chris Polk/FilmMagic via Getty Images",
+        "Britney Spears Not Answering Paris Hilton’s Calls Amid Crisis — Source",
+        "RHOBH Amanda Rachel reunion",
+        "Ex-Prince Andrew's Wedding Demand 'Alarmed' Daughter's Husband — Author",
+        "Meghan Markle & Prince Harry's Australia Tour Dubbed a Failure — Insiders"
+      ]
+    },
+    {
+      "url": "https://www.hola.com/us/celebrities/20220412331319/britney-spears-pregnancy-paris-hilton-jamie-lynn/",
+      "page_title": "Celebrities react to Britney Spears pregnancy, including Paris Hilton ...",
+      "title": "Celebrities react to Britney Spears pregnancy, including Paris Hilton and Jamie Lynn Spears",
+      "description": "Paris has been one of Britney’s most supportive friends, previously discussing the difficult situations she faced during her 13-year conservatorship.",
+      "text": "Celebrities are sharing their love and appreciation for Britney Spears, including her longtime friend Paris Hilton, following her pregnancy announcement on Monday, revealing she is expecting her third child.\n“So happy for you sis! You are an incredible mother and cannot wait for your new baby on the way!” Paris wrote, adding, “Sending all my love and congratulations your way to you and Sam!” Including Britney’s fiancé, Sam Asghari, in her sweet message.\nIggy Azalea, who collaborated with Britney back in 2015 for the release of ‘Pretty Girls’ commented with a party emoji, while Selma Blair wrote, “I am so pleased for you both. To say the very least. Thrilled!!!” adding a heart emoji.\nMichelle Visage, judge of ‘RuPaul’s Drag Race,’ wrote “THRILLED for you and Sam, Britney!” and singer Chloe Bailey commented “congratulations.”\nAnd while friends and fans of the artist congratulated Britney for the baby news, her estranged sister Jamie Lynn Spears quietly liked the post without a comment, showing her support for the announcement.\nParis has been one of Britney’s most supportive friends, previously discussing the difficult situations she faced during her 13-year conservatorship. “She’s built a huge empire,” the heiress said, “She’s a legend, she’s an icon, she’s a mother. She’s amazing and she has these people controlling her money, her life. So not fair but I’m so proud of her for speaking up and using her voice.”",
+      "image_captions": [
+        "2008 MTV Video Music Awards - Backstage and Audience",
+        "Celebrity Sightings in New York City   June 21, 2016",
+        "Jayden Federline steps out in style as mom Britney Spears enters voluntary care",
+        "Rihanna reveals if she is pregnant with baby 4: The truth behind her viral photo",
+        "Aubrey Plaza shows off her baby bump and holds hands with Kevin"
+      ]
+    },
+    {
+      "url": "https://www.mirror.co.uk/3am/us-celebrity-news/every-celebrity-britney-spears-book-31264081",
+      "page_title": "Every celebrity in Britney Spears' book from exes to famous friend ...",
+      "title": "Every celebrity in Britney Spears' book from exes to friend mentioned 18 times",
+      "description": "The chart-topping singer hasn't held back in her new book The Woman In Me as she details stories about some of the biggest names in the business",
+      "text": "Every celebrity in Britney Spears' book from exes to famous friend she mentions 18 times\nThe chart-topping singer hasn't held back in her new book The Woman In Me as she details stories about some of the biggest names in the business\nBritney Spears has lived her life in the spotlight and it shows in her new book as she mentions 21 celebrities in her memoir, Woman In Me.\nNow as the highly anticipated book hits shelves for fans worldwide, we run down the incredible number of other celebrities who are named or spoken about by the Toxic singer. From tiny mentions for stars like Cher, Mel Gibson, and Robin Williams, to in-depth details about her relationship with ex-boyfriend Justin Timberlake, there's even one big-name star she references 18 times.\nBritney even shares an anecdote of her time living next door to late Grease star Olivia Newton John. Here we take a look at every big name celebrity mentioned in the pages of Woman In Me.\nFor all the latest on news, politics, sports, and showbiz from the USA, go to The Mirror US.\nREAD MORE 9 bombshells from Britney Spears' book - drugs, Justin's brutal text and 'passionate' fling\nColin Farrell\nBritney gives away details of her brief two-week fling with Irish actor Colin Farrell in 2003 where she claimed they were \"all over each other,\" in a \"two-week brawl.\"\nKeri Russell\nBritney reminisces about her time spent in the Mickey Mouse Club with the Hollywood star as she calls her “a beautiful girl from California.”\nNatalie Portman\nBritney talks about time she spent working as an understudy alongside Hollywood actress Natalie in a 1992 off-Broadway show titled Ruthless!\nRachel McAdams and Ryan Gosling\nBritney references Rachel and Ryan as she discusses her audition for The Notebook and how she just missed out on the part as Rachel pipped her to the post. She also mentions Ryan from their days on The Mickey Mouse Club together.\nReese Witherspoon\nWhile Britney doesn't talk about any meetings with Reese, she does cite her as being an inspirational woman writing: \"When I started to think that I could be, like Reese, someone who was nice but also strong, it changed my perspective on who I was.”\nParis Hilton\nBritney is complimentary about her friendship with Paris calling her “one of the people who was kindest to me when I really needed kindness\" and admitting \"she encouraged me to have fun for the first time in a long time.”\nMariah Carey\nBritney speaks fondly of meeting and taking a photo with her idol Mariah. She also details how Mariah gave her tips on posing for pictures using the best lighting and angles.\nChristina Aguilera\nChristina makes a few appearances including mentions of their Mouseketeer days. There is also one in depth paragraph where Britney expresses her disappointment at Christina's 2003 Rolling Stone magazine cover she appeared on alongside Justin Timberlake.\nElton John\nBritney speaks passionately about Elton as she draws comparisons between her life and his writing: “Like me, Elton John has been through so much, so publicly. It’s given him incredible compassion. What a beautiful man on all levels.”\nJustin Timberlake\nBritney's relationship with Justin forms a large part of the book from her aborting their child, to cheat claims, and how he ended things.\nSteven Tyler\nBritney reminisces about early on in her career when she performed at the Super Bowl alongside Steven Tyler and Aerosmith.\nDiane Sawyer\nBritney talks about her infamous Diane Sawyer interview following her breakup with Justin.\nGinuwine\nThe R&B star is mentioned when Britney recalls meeting him alongside Justin who she says got excited at the encounter and allegedly with him allegedly saying “Oh yeah, fo shiz, fo shiz! Ginuwiiiiiine! What’s up, homie?” She then details how her assistant made fun of him.\nLenny Kravitz and Donatella Versace\nBritney goes into detail about a celeb-filled party thrown by clothing designer Donatella Versace, mentioning just one of the guests, Lenny.\nMadonna\nMadonna reportedly gets a huge 18 mentions in the book as Britney references her for many varying moments. One mention sees her talk about how she would draw inspiration from her to go back and change how she has lived.\nOprah\nBritney admits feeling grateful for some wisdom imparted on her by Oprah saying she \"appreciated it\" when Oprah told her her \"sexuality was no one else’s business.\"\nJamie Lynn Spears\nBritney's younger sister has six big revelations about her in the book including details of a text sent in 2018.\nMatt Lauer\nFollowing the birth of her second child Britney was interviewed by Matt Lauer who questioned her on what she thought it would take for the paparazzi to leave her alone.\nRyan Seacrest\nAfter sitting down for an interview with Ryan in 2007 Britney was left disappointed about the line of questioning and its focus on her personal life.\n- Britney Spears’s memoir, The Woman in Me, published by Gallery Books, an imprint of Simon & Schuster, is available Oct. 24 wherever books are sold.\n* Follow Mirror Celebs on Snapchat, Instagram, Twitter, Facebook, YouTube and Threads.",
+      "image_captions": [
+        "Britney has named several big stars in her book",
+        "Britney details her wild fling with Colin(Image: Getty Images)",
+        "Britney talks about her time working with Ryan(Image: Disney)",
+        "Britney speaks favourably of 'kind' Paris(Image: FilmMagic)",
+        "Britney highlights tension between her and Christina(Image: FilmMagic, Inc)"
+      ]
+    }
+  ],
+  "evidence_count": 4,
+  "crawled_at": "2026-04-23T16:56:04.206830+00:00"
+}

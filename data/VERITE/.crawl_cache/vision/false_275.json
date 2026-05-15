@@ -1,0 +1,79 @@
+{
+  "sample_id": "false_275",
+  "image_url": "https://www.denverpost.com/wp-content/uploads/2022/01/TDP-L-FIRE_AFTERMATH_1551.jpg?w=525",
+  "visual_entities": [
+    {
+      "description": "Zach McPhee",
+      "score": 1.3059
+    },
+    {
+      "description": "Smoke",
+      "score": 0.78195
+    },
+    {
+      "description": "Smoke",
+      "score": 0.58887506
+    },
+    {
+      "description": "Fire",
+      "score": 0.4789
+    },
+    {
+      "description": "Smoke",
+      "score": 0.4726
+    },
+    {
+      "description": "Wildfire",
+      "score": 0.4102
+    },
+    {
+      "description": "found",
+      "score": 0.3783
+    },
+    {
+      "description": "Firefighter",
+      "score": 0.34920642
+    },
+    {
+      "description": "Apple TV",
+      "score": 0.3434
+    }
+  ],
+  "best_guess_labels": [
+    "smoke"
+  ],
+  "similar_image_urls": [
+    "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-01/220102-colorado-wildfire-mn-1520-9cd550.jpg",
+    "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/rockcms/2022-01/220102-colorado-wildfire-mn-1520-9cd550.jpg",
+    "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1024x768_scale,f_auto,q_auto:best/rockcms/2022-01/220102-colorado-wildfire-mn-1520-9cd550.jpg",
+    "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-560w,f_auto,q_auto:best/rockcms/2022-01/220102-colorado-wildfire-mn-1520-9cd550.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.nbcnews.com/news/us-news/two-missing-survivors-count-blessings-colorado-fire-rcna10634",
+      "page_title": "Two missing as survivors count blessings after Colorado fire",
+      "title": "Two missing as survivors count blessings after Colorado fire",
+      "description": "The flames ripped through at least 9.4 square miles and left nearly 1,000 homes and other buildings destroyed in suburbs between Denver and Boulder.",
+      "text": "LOUISVILLE, Colo. — Search teams looked for two missing people on Sunday in the snow-covered but still smoldering debris from a massive Colorado wildfire, while people who barely escaped the flames sorted through what was left after the blaze and investigators tried to determine its cause.\nThe flames ripped through at least 9.4 square miles (24 square kilometers) and left nearly 1,000 homes and other buildings destroyed in suburbs between Denver and Boulder. It came unusually late in the year following an extremely dry fall and amid a winter nearly devoid of snow. Experts say those conditions, along with high winds, helped the fire spread.\nIn hard-hit Louisville, Susan Hill walked her dog in the well-below freezing chill Sunday morning down a snowy street. She choked up as she remembered three days ago seeing the sky change color from the hill where she used to watch fireworks — and then the nervous sprint out of town with her college-age son and the dog, cat and the fire box with birth certificates and other documents.\nThe flames stopped about 100 yards (90 meters) from her property, and she slept Saturday night in her home using a space heater and hot water bottles to stay warm since her natural gas service had not been turned back on.\n“I don’t even know how to describe it,” she said. “It’s so sad. It’s so awful. It’s just devastating.”\nIn the burned-out neighborhood near Hill’s home, a U.S. Mail carrier checked the still-standing brick and stone boxes for outgoing mail. The fire came so quickly people might have put bills or other letters in there, and she didn’t want someone to steal them.\nWhile homes that burned to the foundations were still smoldering in some places, the blaze was no longer considered an immediate threat — especially with Saturday’s snow and frigid temperatures.\n“A day late and a dollar short,” Hill said of snow, which scientists said typically prevents winter fires that spread in dry grass.\nColorado Gov. Jared Polis and federal emergency officials visited some of the damaged neighborhoods Sunday morning.\n“I know this is a hard time in your life if you’ve lost everything or you don’t even know what you lost,” Polis said after the tour. “A few days ago you were celebrating Christmas at home and hanging your stockings and now home and hearth have been destroyed.”\nThe cause of the fire is still under investigation. Utility officials found no downed power lines around where the fire broke out.\nBoulder County Sheriff Joe Pelle said Saturday authorities were pursuing a number of tips and had executed a search warrant at “one particular location.” He declined to give details.\nAuthorities initially said everyone was accounted for after the fire. But Boulder County spokesperson Jennifer Churchill said the reports of three people missing were later discovered amid the scramble to manage the emergency. One was found alive, officials said Sunday.\nThe search for the other two missing people was complicated by still burning debris and the snow,.\nOf at least 991 buildings destroyed by the fire, most were homes. But the blaze also burned through eight businesses at a shopping center in Louisville, including a nail salon and a Subway restaurant. In neighboring Superior, 12 businesses were damaged, including a Target, Chuck E. Cheese, Tesla dealership, a hotel and the town hall.\nThe two towns are about 20 miles (30 kilometers) northwest of Denver with a combined population of 34,000.\nUtility crews expected to get most electricity restored to the homes still standing Sunday, but warned gas service might take longer to get back.\nPeople lined up to get donated space heaters, bottled water and blankets at Red Cross shelters. Xcel Energy urged other residents to use fireplaces and wood stoves to stay warm and keep their pipes at home from freezing.\nSuperior resident Jeff Markley arrived in his truck to pick up a heater. He said he felt lucky to be “just displaced” since his home is intact.\n“We’re making do, staying with friends, and upbeat for the new year. Got to be better than this last one,” Markley said.",
+      "image_captions": [
+        "Snow covers a burned car Saturday in Louisville, Colo.Jack Dempsey / AP",
+        "Firefighters put out hot spots on burned townhomes Saturday in Superior, Colo. Despite the recent snowfall, hot spots can smolder for days or even weeks, which can reignite fires.Helen H. Richardson / Denver Post via Getty Images",
+        "the Marshall wildfire",
+        "Wildland fire, Marshall Fire,"
+      ]
+    },
+    {
+      "url": "https://www.nbcnews.com/news/us-news/partial-human-remains-found-search-two-missing-people-colorados-marsha-rcna11161",
+      "page_title": "Partial human remains found in search for two missing people in ...",
+      "title": "Partial human remains found in search for two missing people in Colorado's Marshall Fire",
+      "description": "As of Wednesday evening, the Marshall Fire spanned 6,026 acres and was 100 percent contained, according to the Boulder Office of Emergency Management.",
+      "text": "Partial human remains were found in the area of last week’s destructive Marshall Fire in Colorado, officials said Wednesday.\nInvestigators discovered the \"partial human remains of an adult\" in the 5900 block of Marshall Road in unincorporated Boulder County, according to a news release from the Boulder County Sheriff's Office.\nThe Boulder County Coroner’s Office will identify the remains and determine the cause and manner of death, the sheriff's office said. NBC News has reached out to the coroner's office for comment.\nTwo missing persons investigations were launched after the Marshall Fire, the state’s most destructive wildfire yet, started Dec. 30.\nThe inferno caused Gov. Jared Polis to declare a state of emergency in the area and evacuate tens of thousands of people as rare, wind-driven flames tore through neighborhoods at great speed. Nearly 1,000 homes were destroyed and almost 130 other structures were damaged in the blaze.\n“This was consuming football field lengths of land in seconds,\" Sheriff Joe Pelle said in a news conference Dec. 30.\nThe sheriff’s office said investigators remain active at the Marshall Road scene where the partial human remains were found.\nPelle previously said officials were looking for a man in that area. Meanwhile, the search for a missing woman in the 1500 block of South 76th Street in Superior is ongoing, according to The Associated Press.\nAs of Wednesday evening, the Marshall Fire spanned 6,026 acres and was 100 percent contained, according to the Boulder Office of Emergency Management.\nThe Marshall Fire found fuel in the foothills and in neighborhoods along part of the eastern base of the Rocky Mountains, in suburbs only about 20 miles from Denver. The blaze gained traction, pushed by whipping winds amid “record dryness” in the region, federal forecasters said.\nSnow over the New Year’s weekend helped snuff out the flames.\nPelle on Monday said the investigation into the cause of the blaze is “in full force and full swing.” The sheriff’s office confirmed over the weekend it had served a search warrant at a property seen at least partly ablaze in the early stages of the fire.\nPresident Joe Biden will visit Boulder County to tour the Marshall Fire damage on Friday.",
+      "image_captions": [
+        "Firefighters put out hot spots on burned townhomes on Jan. 1, 2022 in Superior, Colo. Despite the recent snowfall, hot spots can smolder for days or even weeks which can potentially reignite fires.Helen H. Richardson / Denver Post via Getty Images",
+        "Wildland fire, Marshall Fire,"
+      ]
+    }
+  ],
+  "evidence_count": 2,
+  "crawled_at": "2026-04-23T18:11:37.279378+00:00"
+}

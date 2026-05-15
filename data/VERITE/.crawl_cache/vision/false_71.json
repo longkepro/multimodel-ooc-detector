@@ -1,0 +1,118 @@
+{
+  "sample_id": "false_71",
+  "image_url": "https://katu.com/resources/media/653658ec-ebed-4049-9d4b-702c6c43e5e2-large3x4_BurnsideSideBridgecaptioned.jpg?1591156486481",
+  "visual_entities": [
+    {
+      "description": "Burnside Bridge",
+      "score": 1.175955
+    },
+    {
+      "description": "George Floyd protests in Portland, Oregon",
+      "score": 1.05435
+    },
+    {
+      "description": "George Floyd protests",
+      "score": 0.93509996
+    },
+    {
+      "description": "Protests in Portland, Oregon",
+      "score": 0.681
+    },
+    {
+      "description": "Murder of George Floyd",
+      "score": 0.55095
+    },
+    {
+      "description": "Bridge",
+      "score": 0.4823
+    },
+    {
+      "description": "Demonstration",
+      "score": 0.4717
+    },
+    {
+      "description": "Nonviolent resistance",
+      "score": 0.4262
+    },
+    {
+      "description": "Portland Bridges",
+      "score": 0.35343
+    },
+    {
+      "description": "Burnside Bridge",
+      "score": 0.35255
+    },
+    {
+      "description": "friendly",
+      "score": 0.3123
+    },
+    {
+      "description": "Burnside Branch",
+      "score": 0.30008
+    }
+  ],
+  "best_guess_labels": [
+    "burnside bridge portland protest"
+  ],
+  "similar_image_urls": [
+    "https://katu.com/resources/media/653658ec-ebed-4049-9d4b-702c6c43e5e2-jumbo3x4_BurnsideSideBridgecaptioned.jpg?1591156486672",
+    "https://katu.com/resources/media/653658ec-ebed-4049-9d4b-702c6c43e5e2-full2x3_BurnsideSideBridgecaptioned.jpg?1591156486161",
+    "https://katu.com/resources/media/653658ec-ebed-4049-9d4b-702c6c43e5e2-full3x4_BurnsideSideBridgecaptioned.jpg?1591156486713",
+    "https://katu.com/resources/media/653658ec-ebed-4049-9d4b-702c6c43e5e2-large3x4_BurnsideSideBridgecaptioned.jpg?1591156486481",
+    "https://katu.com/resources/media/653658ec-ebed-4049-9d4b-702c6c43e5e2-large2x3_BurnsideSideBridgecaptioned.jpg?1591156486031",
+    "https://katu.com/resources/media/653658ec-ebed-4049-9d4b-702c6c43e5e2-medium2x3_BurnsideSideBridgecaptioned.jpg?1591156485528"
+  ],
+  "evidence": [
+    {
+      "url": "https://katu.com/news/local/gallery/the-latest-protests-over-george-floyd-killing-continue-in-portland?photo=1",
+      "page_title": "Peaceful protests over George Floyd killing continue in Portland",
+      "title": "Peaceful protests over George Floyd killing continue in Portland",
+      "description": "KATU ABC 2 offers coverage of news, weather, sports and community events for Portland, Oregon and surrounding towns, including Beaverton, Lake Oswego, Milwaukie, Happy Valley, Gresham, Vancouver, Hillsboro, Oregon City, Tualatin, West Linn, Woodburn, Tigard, Tualatin and Garden Home.",
+      "text": "Skip to main content\nMobile Menu Icon\nThumbnails\nView Thumbnails\nMore Galleries\nMore Galleries\n1/3\nClose\nClose\nPeaceful protests over George Floyd killing continue in Portland\nThousands of protesters march over the Burnside Bridge Tuesday night, June 2, 2020 over the killing of George Floyd by police in Minneapolis. (KATU/Chopper 2)\nRead article\nRead The Article\nSHARE\nFacebook Share Icon\nX Share Icon\nSend via Email Share Icon",
+      "image_captions": [
+        "Thousands of protesters march over the Burnside Bridge Tuesday night, June 2, 2020 over the killing of George Floyd by police in Minneapolis. (KATU/Chopper 2)",
+        "Protest over death of George Floyd in Portland on June 2, 2020 - KATU image.",
+        "Photo of the group of protesters at SE 13th and Stark on June 2, 2020 - Image from Megan Allison."
+      ]
+    },
+    {
+      "url": "https://media.kgw.com/embeds/video/responsive/283-15ef1adf-fe2a-4b3b-9c81-d207efc6cec0/iframe",
+      "page_title": "",
+      "title": "Portland's Leading Local News: Weather, Traffic, Sports and more | Portland, Oregon | KGW.com",
+      "description": "The group started at a rally in Laurelhurst Park, then made their way to E Burnside to cross the bridge into downtown.",
+      "text": "To stream KGW on your phone, you need the KGW app.\nNext up in 5\nExample video title will go here for this video",
+      "image_captions": [
+        "Download on the App Store",
+        "Get it on Google Play"
+      ]
+    },
+    {
+      "url": "https://katu.com/news/local/gallery/the-latest-protests-over-george-floyd-killing-continue-in-portland?photo=2",
+      "page_title": "Peaceful protests over George Floyd killing continue in Portland",
+      "title": "Peaceful protests over George Floyd killing continue in Portland",
+      "description": "KATU ABC 2 offers coverage of news, weather, sports and community events for Portland, Oregon and surrounding towns, including Beaverton, Lake Oswego, Milwaukie, Happy Valley, Gresham, Vancouver, Hillsboro, Oregon City, Tualatin, West Linn, Woodburn, Tigard, Tualatin and Garden Home.",
+      "text": "Skip to main content\nMobile Menu Icon\nThumbnails\nView Thumbnails\nMore Galleries\nMore Galleries\n1/3\nClose\nClose\nPeaceful protests over George Floyd killing continue in Portland\nThousands of protesters march over the Burnside Bridge Tuesday night, June 2, 2020 over the killing of George Floyd by police in Minneapolis. (KATU/Chopper 2)\nRead article\nRead The Article\nSHARE\nFacebook Share Icon\nX Share Icon\nSend via Email Share Icon",
+      "image_captions": [
+        "Thousands of protesters march over the Burnside Bridge Tuesday night, June 2, 2020 over the killing of George Floyd by police in Minneapolis. (KATU/Chopper 2)",
+        "Protest over death of George Floyd in Portland on June 2, 2020 - KATU image.",
+        "Photo of the group of protesters at SE 13th and Stark on June 2, 2020 - Image from Megan Allison."
+      ]
+    },
+    {
+      "url": "https://www.haystack.tv/v/burnside-bridge-portland-marks-100-years-family-friendly-party",
+      "page_title": "Burnside Bridge in Portland marks 100 years with family-friendly party",
+      "title": "Burnside Bridge in Portland marks 100 years with family-friendly party | Haystack News",
+      "description": "Burnside Bridge in Portland marks 100 years with family-friendly party",
+      "text": "FAQ\nHow does Haystack News work?\nHaystack News makes it easy to see the news that matters to you. Tell us the sources, topics and places you care about and we'll create a news channel made just for you called \"My Headlines\" from more than 400 different trusted channels. You can also take a deep dive into topics like weather, entertainment, international news in the channel guide and watch live news from local, national and global channels.\nIs Haystack News really free?\nYes! Haystack provides free access, supported by ads, making news widely accessible without subscription fees. If you prefer not to see ads, you can upgrade to our Premium tier.\nWhere can I watch Haystack News?\nHaystack is available on mobile devices, smart TVs, streaming devices, and the web. Can't find Haystack on your device? Let us know at feedback@haystack.tv.\nHow can I customize my news based on my interests?\nHow can I skip ads?\nUpgrade to Premium. For just $4.99 per month, you can get all your news and no commercials. You can try it for free for 30 days!\nWhy are you called Haystack News?\nHaystack News was born in 2015 because it was hard to stream high-quality, trusted news without sifting through masses of irrelevant video. It's our goal to get you the info you want and needâthe news equivalent of the proverbial needle in a haystackâwithout wasting your time on things that don't matter to you. Have another question? Check out our full FAQ.",
+      "image_captions": [
+        "burnside-bridge-portland-marks-100-years-family-friendly-party-thumbnail",
+        "Now Playing Animation",
+        "trump-orders-navy-shoot-kill-iranian-small-boats-thumbnail",
+        "trump-reclassifies-state-licensed-medical-marijuana-dangerous-drug-historic-shift-thumbnail",
+        "wildfires-burn-georgia-florida-destroying-homes-thumbnail"
+      ]
+    }
+  ],
+  "evidence_count": 4,
+  "crawled_at": "2026-04-23T17:09:58.249019+00:00"
+}

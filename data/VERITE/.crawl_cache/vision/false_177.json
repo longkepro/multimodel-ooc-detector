@@ -1,0 +1,92 @@
+{
+  "sample_id": "false_177",
+  "image_url": "https://i.ytimg.com/vi/z7VkA5jT0FU/maxresdefault.jpg",
+  "visual_entities": [
+    {
+      "description": "Nylon",
+      "score": 0.7312
+    },
+    {
+      "description": "Kevlar",
+      "score": 0.7304
+    },
+    {
+      "description": "Ballistic nylon",
+      "score": 0.7243
+    },
+    {
+      "description": "Polymer",
+      "score": 0.5856
+    },
+    {
+      "description": "Textile",
+      "score": 0.5852
+    },
+    {
+      "description": "Rope",
+      "score": 0.5424
+    },
+    {
+      "description": "Polyester",
+      "score": 0.5273
+    },
+    {
+      "description": "Aramid",
+      "score": 0.5228
+    },
+    {
+      "description": "Bag",
+      "score": 0.45604658
+    },
+    {
+      "description": "Polyamide",
+      "score": 0.45
+    },
+    {
+      "description": "Quality Nylon Rope",
+      "score": 0.4386
+    },
+    {
+      "description": "Ballistics",
+      "score": 0.3947
+    },
+    {
+      "description": "Handbag",
+      "score": 0.374
+    },
+    {
+      "description": "Silk",
+      "score": 0.3688
+    }
+  ],
+  "best_guess_labels": [
+    "nylon and kevlar"
+  ],
+  "similar_image_urls": [
+    "https://i.ytimg.com/vi/z7VkA5jT0FU/maxresdefault.jpg",
+    "https://i.ytimg.com/vi/z7VkA5jT0FU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBot8dCM1nobXOQu3XRZFP6bYf5Lw",
+    "https://i.ytimg.com/vi/z7VkA5jT0FU/mqdefault.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.tenetsolutions.com/custitem_material/Kevlar%2C-Nylon?show=12&display=grid",
+      "page_title": "",
+      "title": null,
+      "description": "",
+      "text": "Javascript is disabled on your browser.\nTo view this site, you must enable JavaScript or upgrade to a JavaScript-capable browser.\n...",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.thebrighterside.news/tags/polymers/",
+      "page_title": "Polymers Archives - The Brighter Side of News",
+      "title": "Polymers Archives",
+      "description": "",
+      "text": "Polymers\nInnovationsScientists develop a shelf-stable ‘smart’ plastic that hardens only when you trigger it\nA new Ben-Gurion University polymer stays inactive for weeks, then cures on demand with light or gentle heat, Nature Chemistry reports.\nShy Cohen",
+      "image_captions": [
+        "Brighter Side of News"
+      ]
+    }
+  ],
+  "evidence_count": 2,
+  "crawled_at": "2026-04-23T17:42:19.385143+00:00"
+}

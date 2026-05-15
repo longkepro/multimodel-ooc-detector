@@ -1,0 +1,93 @@
+{
+  "sample_id": "false_255",
+  "image_url": "https://media.defense.gov/2018/Jun/26/2001935649/-1/-1/0/180620-N-RG360-1065.JPG",
+  "visual_entities": [
+    {
+      "description": "Mexico",
+      "score": 0.98625004
+    },
+    {
+      "description": "Bold Alligator",
+      "score": 0.7962
+    },
+    {
+      "description": "Marines",
+      "score": 0.7452
+    },
+    {
+      "description": "Infantry",
+      "score": 0.7394576
+    },
+    {
+      "description": "Mexican Navy",
+      "score": 0.7097
+    },
+    {
+      "description": "Mexican Armed Forces",
+      "score": 0.6683
+    },
+    {
+      "description": "",
+      "score": 0.6575
+    },
+    {
+      "description": "Mexican Naval Infantry Corps",
+      "score": 0.527
+    },
+    {
+      "description": "The U.S. Marine Corps",
+      "score": 0.5213
+    },
+    {
+      "description": "",
+      "score": 0.5213
+    },
+    {
+      "description": "Navy",
+      "score": 0.5005
+    },
+    {
+      "description": "USS Kearsarge (LHD-3)",
+      "score": 0.4397
+    },
+    {
+      "description": "marine unit",
+      "score": 0.4256
+    }
+  ],
+  "best_guess_labels": [
+    "mexican marines"
+  ],
+  "similar_image_urls": [
+    "https://upload.wikimedia.org/wikipedia/commons/b/bb/Joint_Assault_EX_at_Tradewinds_2018_180620-N-RG360-1065.jpg",
+    "https://i.redd.it/mexican-marine-loadout-v0-okunrqnwhsig1.jpg?width=4420&format=pjpg&auto=webp&s=a56a611f4aa264cc30554669f152b5a6c38b48b8",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Joint_Assault_EX_at_Tradewinds_2018_180620-N-RG360-1065.jpg/1280px-Joint_Assault_EX_at_Tradewinds_2018_180620-N-RG360-1065.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Joint_Assault_EX_at_Tradewinds_2018_180620-N-RG360-1065.jpg",
+      "page_title": "File:Joint Assault EX at Tradewinds 2018 180620-N-RG360-1065.jpg",
+      "title": "File:Joint Assault EX at Tradewinds 2018 180620-N-RG360-1065.jpg - Wikimedia Commons",
+      "description": "",
+      "text": "File:Joint Assault EX at Tradewinds 2018 180620-N-RG360-1065.jpg\nAppearance\nSize of this preview: 800 × 532 pixels. Other resolutions: 320 × 213 pixels | 640 × 426 pixels | 1,024 × 682 pixels | 1,280 × 852 pixels | 2,560 × 1,704 pixels | 4,420 × 2,942 pixels.\nOriginal file (4,420 × 2,942 pixels, file size: 1.59 MB, MIME type: image/jpeg)",
+      "image_captions": [
+        "File:Joint Assault EX at Tradewinds 2018 180620-N-RG360-1065.jpg",
+        "Thumbnail for version as of 13:45, 23 May 2023"
+      ]
+    },
+    {
+      "url": "https://es.wikipedia.org/wiki/Archivo:Joint_Assault_EX_at_Tradewinds_2018_180620-N-RG360-1065.jpg",
+      "page_title": "Archivo:Joint Assault EX at Tradewinds 2018 180620-N-RG360 ...",
+      "title": "Archivo:Joint Assault EX at Tradewinds 2018 180620-N-RG360-1065.jpg - Wikipedia, la enciclopedia libre",
+      "description": "",
+      "text": "De Wikipedia, la enciclopedia libre\nResumen\nLicencia\nhttps://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse\n574\n479\n285\n444\n4420\n2942\nAñade una explicación corta acerca de lo que representa este archivo\nHistorial del archivo\nHaz clic sobre una fecha y hora para ver el\narchivo tal como apareció en ese momento.\nUsos del archivo\nLa siguiente página usa este archivo:\nEste archivo contiene información adicional, probablemente añadida por la cámara digital o el escáner usado para crearlo o digitalizarlo.\nSi el archivo ha sido modificado desde su estado original, pueden haberse perdido algunos detalles.",
+      "image_captions": [
+        "La enciclopedia libre",
+        "Archivo:Joint Assault EX at Tradewinds 2018 180620-N-RG360-1065.jpg",
+        "Miniatura de la versión del 13:45 23 may 2023"
+      ]
+    }
+  ],
+  "evidence_count": 2,
+  "crawled_at": "2026-04-23T18:05:04.980974+00:00"
+}

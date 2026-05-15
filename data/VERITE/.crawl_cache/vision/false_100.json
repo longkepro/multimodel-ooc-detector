@@ -1,0 +1,105 @@
+{
+  "sample_id": "false_100",
+  "image_url": "https://s.abcnews.com/images/Politics/biden-jair-lapid-01-gty-iwb-220714_1657811634739_hpMain_16x9_992.jpg",
+  "visual_entities": [
+    {
+      "description": "Yair Lapid",
+      "score": 5.9025
+    },
+    {
+      "description": "United States",
+      "score": 0.82484996
+    },
+    {
+      "description": "US President",
+      "score": 0.705
+    },
+    {
+      "description": "Oval Office",
+      "score": 0.55605
+    },
+    {
+      "description": "",
+      "score": 0.5499
+    },
+    {
+      "description": "Oval Office Address",
+      "score": 0.4786
+    },
+    {
+      "description": "United States Senator",
+      "score": 0.4779
+    },
+    {
+      "description": "Prime minister",
+      "score": 0.4481
+    },
+    {
+      "description": "Handshake",
+      "score": 0.39871365
+    },
+    {
+      "description": "Political gaffe",
+      "score": 0.386
+    },
+    {
+      "description": "Debate",
+      "score": 0.3646
+    },
+    {
+      "description": "Hand",
+      "score": 0.3645
+    }
+  ],
+  "best_guess_labels": [
+    "biden hands"
+  ],
+  "similar_image_urls": [
+    "https://ynet-pic1.yit.co.il/picserver5/wcm_upload/2022/07/14/ryo3Htps5/AFP_813956_01_08522459.jpg",
+    "https://s.abcnews.com/images/Politics/biden-jair-lapid-01-gty-iwb-220714_1657811634739_hpMain_16x9_992.jpg",
+    "https://imazpress.com/medias/source/bdf0f26696d8acb3f53788957f91d111e4a37f95.jpg",
+    "https://ynet-pic1.yit.co.il/cdn-cgi/image/f=auto,w=740,q=75/picserver5/crop_images/2022/07/14/ryo3Htps5/ryo3Htps5_0_0_3000_1990_0_x-large.jpg",
+    "https://i0.wp.com/transnational.live/wp-content/uploads/2022/07/biden-handshakes-2.jpg?fit=701%2C467&ssl=1"
+  ],
+  "evidence": [
+    {
+      "url": "https://abcnews.com/Politics/question-handshake-symbolizes-bidens-awkward-approach-saudi-arabia/story?id=86816412",
+      "page_title": "Question over handshake symbolizes Biden's awkward approach to ...",
+      "title": "Question over handshake symbolizes Biden's awkward approach to Saudi Arabia",
+      "description": "The White House has refused to say if President Joe Biden will shake hands with Saudi Crown Prince Mohammed bin Salman.",
+      "text": "Question over handshake symbolizes Biden's awkward approach to Saudi Arabia\nOfficials won't say if Biden will shake hands with the Saudi crown prince.\nIt's the handshake that the White House doesn't want to talk about.\nFor weeks, the question of whether President Joe Biden will shake Saudi Crown Prince Mohammed bin Salman's hand when he visits Saudi Arabia this week has hounded officials reluctant for the president to be seen warming up to the man the U.S. believes is responsible for a journalist's murder.\nThey have jumped linguistic hurdles to avoid saying whether the two leaders would clasp hands, and at first took pains to not even utter Prince Mohammed's name – saying instead Biden would meet with \"King Salman and his leadership team.\"\n\"In terms of the precise modalities, I'll leave that to the folks who are actually organizing the trip,\" the president's top national security adviser, Jake Sullivan, said when asked Monday if Biden would be photographed shaking hands or meeting with the crown prince.\n\"I'm sure that he'll greet the leaders in Saudi Arabia as appropriate,\" White House spokesman John Kirby said in a Wednesday interview with CNN.\nAnd White House officials have even suggested Biden would avoid physical contact on his Middle East trip because of the coronavirus pandemic.\n\"We're going to try to minimize contact as much as possible,\" White House press secretary, Karine Jean-Pierre, said Wednesday.\nBut that plan fell apart almost immediately when Biden landed shortly after in Tel Aviv and both embraced and shook hands with officials there.\nThe president himself did not respond to ABC News when asked Tuesday whether he'd shake the crown prince's hand.\nDodging answering the question directly has become symbolic of the White House's apprehensive approach to Biden's entire trip to Saudi Arabia, which he had said he's taking to further American economic and security interests.\nAs a presidential candidate, Biden had vowed to make Saudi Arabia a \"pariah\" state over the 2018 murder of Jamal Khashoggi, a Saudi dissident and Washington Post columnist who was based in the United States.\nU.S. intelligence agencies later assessed that Prince Mohammed, who is also known as \"MBS\" and who effectively runs the Gulf nation, had approved the operation that left Khashoggi dead.\nBiden plans to meet with Prince Mohammed and his father, King Salman, on Friday in Jeddah, Saudi Arabia, before attending a regional summit the next day.\nBut with rising inflation and high gas prices weighing on Americans – and a slew of geopolitical concerns at play – the president decided to travel to oil-rich Saudi Arabia and meet with its leaders.\n\"He's not all that concerned about the modalities of the actual greeting,\" Kirby told CNN Wednesday. \"That's not the point. The point are the issues.\"\nBiden on Thursday would not say whether he would bring up Khashoggi's murder when he meets with Saudi leaders the next day.\n\"I always bring up human rights,\" Biden said, when asked by a reporter in Jerusalem what he would say about Khashoggi's killing to Prince Mohammed.\n\"But my position on Khashoggi has been so clear,\" he continued. \"If anyone doesn't understand it, in Saudi Arabia or anywhere else, then they haven't been around for a while.\"",
+      "image_captions": [
+        "President Joe Biden and Israel's caretaker Prime Minister Yair Lapid shake hands before the start of a joint press conference in Jerusalem, on July 14, 2022.Mandel Ngan/AFP via Getty Images",
+        "In this Oct. 23, 2018, file photo, Saudi Crown Prince Mohammed bin Salman attends the Future Investment Initiative (FII) conference in the Saudi capital Riyadh.Fayez Nureldine/AFP via Getty Images, FILE",
+        "US President Joe Biden shares t moment with Israeli former prime minister Benjamin Netanyahu upon arrival at Ben Gurion Airport, in Lod, Israel, July 13, 2022.Abir Sultan/EPA-EFE via Shutterstock",
+        "President Joe Biden is greeted by Israeli former prime minister and Leader of the Opposition Benjamin Netanyahu upon his arrival at Ben Gurion Airport, in Lod, near Tel Aviv, Israel, July 13, 2022.ATEF SAFADI/EPA-EFE/Shutterstock"
+      ]
+    },
+    {
+      "url": "https://www.cnn.com/videos/politics/2019/06/29/hand-raising-democratic-debate-moos-pkg-ebof-vpx.cnn",
+      "page_title": "Decoding the many hand signals during the Dem debates - CNN",
+      "title": "Decoding the many hand signals during the Dem debates | CNN Politics",
+      "description": "Asked for a show of hands, Biden gives only a finger. CNN’s Jeanne Moos reports on hand-raising bloopers at the Democratic debate.",
+      "text": "Video Ad Feedback\nDecoding the many hand signals during the Dem debates\nAsked for a show of hands, Biden gives only a finger. CNN's Jeanne Moos reports on hand-raising bloopers at the Democratic debate.\n2:06\n• Source:\nCNN\nTrending Now\n11 videos\nVideo Ad Feedback\nDecoding the many hand signals during the Dem debates\nVideo Ad Feedback\nBill Weir reports from the Arctic Ocean as sea ice drops to an alarming new low\nVideo Ad Feedback\nHollywood Minute: 'The Silence of the Lambs' returns for its 35th anniversary\nVideo Ad Feedback\nChinese social media mocks Trump, touts China’s rise\nVideo Ad Feedback\nDo you smoke cigarettes? You're far in the minority among Americans. Harry Enten breaks it down\nVideo Ad Feedback\nWhy Venmo’s social feed was so controversial at first\nVideo Ad Feedback\n'Find the right people': Usain Bolt's advice to sprint sensation Gout Gout\nVideo Ad Feedback\nCozy or claustrophobic? What it's like to spend the night in a capsule hotel",
+      "image_captions": [
+        "hands moos debate pkg",
+        "A screen displays the logo of Spotify on the floor at the New York Stock Exchange (NYSE) in New York City, U.S., December 4, 2023.  REUTERS/Brendan McDermid",
+        "bill weir arctic sea ice 042226.jpg",
+        "The Silence of the Lambs.jpg",
+        "119014_ChinaIranWar_Horizontal_Thumb.jpg"
+      ]
+    },
+    {
+      "url": "https://en.as.com/videos/bidens-awkward-arm-rub-at-the-dc-emergency-operations-center-sparks-a-viral-moment-v/",
+      "page_title": "Biden's awkward arm rub at the D.C. emergency operations center ...",
+      "title": "Biden’s awkward arm rub at the D.C. emergency operations center sparks a viral moment",
+      "description": "During a visit to the D.C. Emergency Operations Center, President Biden greeted a worker by rubbing their arm in an unusual manner.",
+      "text": "US POLITICS\nBiden’s awkward arm rub at the D.C. emergency operations center sparks a viral moment\nDuring a visit to the D.C. Emergency Operations Center, President Biden greeted a worker by rubbing their arm in an unusual manner. This interaction was captured on video and quickly went viral.",
+      "image_captions": [
+        "Biden’s awkward arm rub at the D.C. emergency operations center sparks a viral moment"
+      ]
+    }
+  ],
+  "evidence_count": 3,
+  "crawled_at": "2026-04-23T17:18:01.046826+00:00"
+}

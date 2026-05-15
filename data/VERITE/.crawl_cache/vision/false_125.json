@@ -1,0 +1,59 @@
+{
+  "sample_id": "false_125",
+  "image_url": "https://www.aljazeera.com/wp-content/uploads/2020/05/f9a91d689dd545fb9c0bcfcc3fda5969_18.jpeg",
+  "visual_entities": [
+    {
+      "description": "Maren Morris",
+      "score": 14.629499
+    },
+    {
+      "description": "Girl",
+      "score": 0.5281
+    },
+    {
+      "description": "",
+      "score": 0.5111
+    },
+    {
+      "description": "Girl",
+      "score": 0.3531
+    },
+    {
+      "description": "",
+      "score": 0.318
+    },
+    {
+      "description": "Curzon",
+      "score": 0.318
+    },
+    {
+      "description": "Girl",
+      "score": 0.3016
+    }
+  ],
+  "best_guess_labels": [
+    "girl"
+  ],
+  "similar_image_urls": [
+    "https://www.aljazeera.com/wp-content/uploads/2020/05/f9a91d689dd545fb9c0bcfcc3fda5969_18.jpeg?quality=80",
+    "https://www.aljazeera.com/wp-content/uploads/2020/05/f9a91d689dd545fb9c0bcfcc3fda5969_18.jpeg"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.aljazeera.com/features/2020/5/15/asylum-seeker-doctor-prepares-for-coronavirus-on-us-mexico-border",
+      "page_title": "Asylum seeker doctor prepares for coronavirus on US-Mexico border",
+      "title": "Asylum seeker doctor prepares for coronavirus on US-Mexico border",
+      "description": "Cuban Dairon Elisondo Rojas, who is seeking asylum in the US, treats fellow migrants in the Matamoros makeshift camp.",
+      "text": "Asylum seeker doctor prepares for coronavirus on US-Mexico border\nCuban Dairon Elisondo Rojas, who is seeking asylum in the US, treats fellow migrants in the Matamoros makeshift camp.\nDr Dairon Elisondo Rojas treats the threat of the coronavirus in a makeshift refugee camp on the United States-Mexico border the same way he treats his asylum case: One day at a time.\n“We’re worried about it, but we’re ready,” Rojas says of the COVID-19 threat.\nAs the camp’s first doctor, Rojas treats dozens of patients a day, now with the added worry that the next person’s upper-respiratory symptoms or fever may mean what many have feared since the coronavirus pandemic began earlier this year: that the disease has made its way to the camp.\nLuckily, Rojas says, that has not happened, but he is preparing for the day it does.\nRojas fled Cuba in 2019 for the US.\nAfter abandoning his mission as a Cuban doctor in Venezuela over tactics used by the Venezuelan government and after speaking out against the Cuban government because they took away his wages and banned him from practising medicine for three years, he says going to the US was his only option.\n“The police beat me, leaving several marks on my body, and they began to monitor and threaten me until I decided to [go to the US] because my life was in danger,” he says. He believes the Cuban government will throw him in jail, or worse, if he returns to Cuba.\nHe arrived in Matamoros in August 2019 and became the camp’s first doctor, working for US non-profit Global Response Management (GRM). He treats about 40 people a day in a makeshift clinic consisting of a trailer and four modular temporary shelters grouped around a carpeted open-air waiting area. He meets with patients in the cramped back room of the trailer that, with poor ventilation, feels like a sauna. Even before the pandemic, the most common complaints he treated were upper respiratory symptoms. He also treats many people with gastrointestinal issues, and pregnant women.\nWhen Rojas sees patients with symptoms he suspects could be COVID-19, he moves them to an isolation area that GRM set up with help from Instituto Nacional de Migracion, the Mexican immigration authority. Then he tests the patient with a rapid antibody test that can show if the patient’s body has mounted an immune response to COVID-19. If it is positive, Rojas can order a second test from the Mexican health department that checks directly for the viral RNA.\nGRM has other capable medical staff, but people have Rojas’s number, and he is the one they call to feel reassured.\nThe children who run and play along the dusty paths of the camp love Rojas, says Andrea Leiner, a nurse practitioner for GRM who is in Matamoros. As he walks through the camp, they call out “Doctor doctor!” and “Medico medico!”\n“The kids come up and run and hug him, which has been hard to explain to them during coronavirus,” Leiner says. “He’s encouraging them to do elbow bumps and teaching them how to wear masks.”\nThe more than 2,000 asylum seekers waiting in Matamoros have been there for months. Many were sent back to Mexico from the US to wait out their asylum cases under the Migrant Protection Protocols, better known as the US President Donald Trump’s Remain in Mexico policy.\nIn early April, the Mexican government considered a plan to move thousands of people from the refugee camp to a football stadium with insufficient water or sanitation in the middle of a cartel-controlled area of Matamoros. The government abandoned the plan because of a rule against more than 10 people gathering, preventing construction workers from adapting the stadium.\nWhen the government was still considering the move, Leiner asked Rojas if he would feel safe working in the stadium.\n“These are my people. Where they’re sent, I go,” he replied, according to Leiner.\n‘A deadly limbo’\nSince March 21, the US, citing the coronavirus, has only allowed two asylum seekers to remain in the country on humanitarian grounds, the Washington Post reported this week. More than 20,000 people who have tried to cross the border irregularly have been “expelled” to Mexico.\nAbout 60,000 people requesting asylum had already been returned to Mexico to wait out their asylum cases even before the pandemic hit. For those still there, their cases were postponed due to the coronavirus crisis. Rojas’s final court date was scheduled for April 21, but was rescheduled for June 23.\n“All of them are now stuck in a deadly limbo,” says Aaron Reichlin-Melnick, policy counsel at the American Immigration Council.\nIt's hard seeing your potential future but not being able to reach it.\nThere’s a general feeling of concern in the camp right now, not only because of COVID-19, but also because court dates have been postponed, Rojas says.\nThe camp is perched at the edge of the Rio Grande that marks the border.\n“It’s hard seeing your potential future but not being able to reach it,” Rojas says.\nAll he can do is wait and try to help those in need. He spends his time treating patients, learning English, and teaching other migrants about medicine. His goal is to practise medicine in the US. When his final court date arrives, he hopes the judge looks at his case objectively and sees that he has something good to offer the US.\nReichlin-Melnick says political persecution cases are some of the strongest asylum cases, but he could not comment on Rojas’s case in particular.\nIt is unclear how long the Trump administration will push back court dates. There may come a time where enough public pressure forces the US to restart hearings for those who had court dates before March 20, Reichlin-Melnick says. “But these people unfortunately have long been the targets of the Trump administration policies,” he notes, “so it’s unlikely that they are going to act in a particularly humane way towards them.”\nPreparing for the pandemic\nGRM has about a dozen people working at the Matamoros clinic. Many of them are asylum seekers like Rojas.\nLate last month, GRM opened its field hospital to specifically treat COVID-19 patients. While they tested more than 60 people who exhibited symptoms, all the tests have come back negative so far, according to doctors at the came.\nEvery day, GRM staff randomly conduct temperature checks on 30 to 40 people. They have also handed out vitamins and worked to identify and improve the health of high-risk people. They’re running education campaigns, distributing cloth masks, and have built 34 new sinks so people can wash their hands regularly.\nFor now, though, Rojas waits. He celebrated his 29th birthday on April 10 in his apartment in Matamoros, surrounded by a small group of close friends and his girlfriend. A banner with cut-out letters proclaiming “Happy Birthday” hung on the blue wall behind them. They enjoyed two birthday cakes with drinks of wine and Red Bull.\nRojas posted on Facebook: “In the midst of this pandemic that shakes the world, we can’t stop thanking God for allowing me to fulfill another year of life.”",
+      "image_captions": [
+        "Rojas attends to fellow migrants at a sidewalk clinic in a refugee camp in Matamoros, Mexico [File: Eric Gay/AP Photo]",
+        "A medical staff member of Global Response Management takes the temperature of a migrant patient at a migrant encampment where more than 2,000 people live while seeking asylum in the US, in Matamoros, Mexico [Daniel Becerri/Reuters]",
+        "Rojas was the camp’s first doctor [Courtesy of Dairon Elisondo Rojas]",
+        "A general view shows a hospital installed at a migrant encampment, where more than 2,000 people live while seeking asylum in the US, to deal with possible cases of coronavirus disease (COVID-19), in Matamoros, Mexico [Daniel Becerril/Reuters]",
+        "Al Jazeera Media Network logo"
+      ]
+    }
+  ],
+  "evidence_count": 1,
+  "crawled_at": "2026-04-23T17:27:35.534055+00:00"
+}

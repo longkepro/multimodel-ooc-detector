@@ -1,0 +1,83 @@
+{
+  "sample_id": "false_59",
+  "image_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/12D51/production/_118873177_ehrditpuyaaz8sj.jpg.webp",
+  "visual_entities": [
+    {
+      "description": "Ashli Babbitt",
+      "score": 10.5975
+    },
+    {
+      "description": "United States Capitol",
+      "score": 1.5283209
+    },
+    {
+      "description": "Killing of Ashli Babbitt",
+      "score": 1.0905
+    },
+    {
+      "description": "January 6 United States Capitol attack",
+      "score": 0.6201
+    },
+    {
+      "description": "Funeral",
+      "score": 0.6116
+    },
+    {
+      "description": "Military funeral",
+      "score": 0.5872
+    },
+    {
+      "description": "Death",
+      "score": 0.5866
+    },
+    {
+      "description": "",
+      "score": 0.3611
+    },
+    {
+      "description": "United States Capitol Police",
+      "score": 0.3283
+    },
+    {
+      "description": "",
+      "score": 0.3244
+    },
+    {
+      "description": "United States Air Force",
+      "score": 0.3244
+    }
+  ],
+  "best_guess_labels": [
+    "Ashli Babbitt"
+  ],
+  "similar_image_urls": [
+    "http://c.files.bbci.co.uk/170B/production/_116399850_6a6af3ab-6dc6-48cf-bcee-6ffa025ab320.jpg",
+    "https://theiowastandard.com/wp-content/uploads/2021/08/118873177_ehrditpuyaaz8sj.jpg",
+    "https://ichef.bbci.co.uk/news/1536/cpsprodpb/3015/production/_116390321_ehrditpuyaaz8sj.jpg.webp",
+    "https://static.zaobao.com.sg/s3fs-public/inline_images/20210105/ba_shi_te__Medium.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=744699796744291",
+    "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/3015/production/_116390321_ehrditpuyaaz8sj.jpg.webp",
+    "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/vivo/live/images/2021/1/7/2765de15-0a6b-42fc-ae8e-3583abe98b82.jpg.webp",
+    "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/170B/production/_116399850_6a6af3ab-6dc6-48cf-bcee-6ffa025ab320.jpg.webp",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3407638782796836",
+    "http://c.files.bbci.co.uk/3015/production/_116390321_ehrditpuyaaz8sj.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.wlbt.com/2025/08/30/us-offers-military-funeral-honors-capitol-rioter-ashli-babbitt/",
+      "page_title": "US offers military funeral honors to Capitol rioter Ashli Babbitt - WLBT",
+      "title": "US offers military funeral honors to Capitol rioter Ashli Babbitt",
+      "description": "The U.S. Air Force will provide full military funeral honors for Ashli Babbitt.",
+      "text": "US offers military funeral honors to Capitol rioter Ashli Babbitt\nWASHINGTON (AP) — The U.S. government is offering military funeral honors for Ashli Babbitt, the rioter who was killed at 35 by an officer in the Jan. 6, 2021, attack on the Capitol.\nBabbitt was a U.S. Air Force veteran from California who was shot dead wearing a Trump campaign flag wrapped around her shoulders while attempting to climb through the broken window of a barricaded door leading to the Speaker’s Lobby inside the Capitol.\nOffering military honors to one of the Capitol rioters is part of President Donald Trump’s attempts to rewrite that chapter after the 2020 election as a patriotic stand, given he still denies he lost that election. Babbitt has gained martyr status among Republicans, and the Trump administration agreed to pay just under $5 million to settle a wrongful-death lawsuit that her family filed over her shooting.\nMatthew Lohmeier, an under secretary of the Air Force, said on X that the decision was “long overdue,” and shared a post from a conservative legal group that was advocating for Babbitt’s family. The group, Judicial Watch, said the family had requested military honors from former President Joe Biden’s administration and had been denied.\nIn a statement, a U.S. Air Force spokesperson said that “after reviewing the circumstances” of Babbitt’s death, military funeral honors were offered to the family. Babbitt was a senior airman.\nThe post shared by Lohmeier included a link to a letter the Air Force under secretary wrote to Babbitt’s family, inviting them to meet him at the Pentagon.\n“After reviewing the circumstances of Ashli’s death, and considering the information that has come forward since then, I am persuaded that the previous determination was incorrect,” the Aug. 15 letter read.\nCopyright 2025 CNN Newsource. All rights reserved.",
+      "image_captions": [
+        "Ashli Babbitt will receive full military funeral honors from the U.S. Air Force.(Ashli Babbitt/Twitter via CNN Newsource)",
+        "Ashli Babbitt will receive full military funeral honors from the U.S. Air Force.",
+        "One killed during shooting at Jackson liquor store",
+        "In this March 20, 2019 photo, a watch tower stands high on the grounds of the Central...",
+        "Paige Parker Adams is facing multiple charges."
+      ]
+    }
+  ],
+  "evidence_count": 1,
+  "crawled_at": "2026-04-23T17:04:03.346452+00:00"
+}

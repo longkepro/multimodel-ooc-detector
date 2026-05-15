@@ -1,0 +1,92 @@
+{
+  "sample_id": "true_235",
+  "image_url": "https://pbs.twimg.com/media/FaTsdmKWQAI9hxD?format=jpg&name=900x900",
+  "visual_entities": [
+    {
+      "description": "Student",
+      "score": 0.85584384
+    },
+    {
+      "description": "Student U",
+      "score": 0.7042
+    },
+    {
+      "description": "School",
+      "score": 0.7035
+    },
+    {
+      "description": "Education",
+      "score": 0.6717
+    },
+    {
+      "description": "College student",
+      "score": 0.6582
+    },
+    {
+      "description": "Classroom",
+      "score": 0.6036076
+    },
+    {
+      "description": "Higher Education School",
+      "score": 0.5894
+    },
+    {
+      "description": "Course",
+      "score": 0.5268
+    },
+    {
+      "description": "Twelfth Grade",
+      "score": 0.5055
+    },
+    {
+      "description": "Extracurricular activity",
+      "score": 0.4775
+    },
+    {
+      "description": "University of Oregon",
+      "score": 0.4368
+    },
+    {
+      "description": "Scholarship",
+      "score": 0.4253
+    },
+    {
+      "description": "Campus",
+      "score": 0.3796
+    },
+    {
+      "description": "Seminar",
+      "score": 0.3230503
+    }
+  ],
+  "best_guess_labels": [
+    "student"
+  ],
+  "similar_image_urls": [
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1508822917478630",
+    "https://pbs.twimg.com/media/HF-9kEeWMAAnNZ5.jpg?format=jpg&name=thumb"
+  ],
+  "evidence": [
+    {
+      "url": "https://studentudurham.org/category/high-school/",
+      "page_title": "High School - Student U Durham",
+      "title": "High School Archives - Student U Durham",
+      "description": "",
+      "text": "High School Program Updates During COVID-19 As of last week, COVID-19, otherwise known as, Coronavirus...\nHigh School Student U’s Durham Rotary Centennial Scholarship Application 2020 Student U’s Durham Rotary Centennial Scholarship is an award...",
+      "image_captions": []
+    },
+    {
+      "url": "https://study.com/academy/lesson/video/which-student-life-options-should-i-consider.html",
+      "page_title": "Video: Which Student Life Options Should I Consider? - Study.com",
+      "title": "Which Student Life Options Should I Consider? - Video | Study.com",
+      "description": "Discover the various student life options you should consider in our video lesson. Watch now to find out which options can enrich your academic journey, then take a quiz!",
+      "text": "An error occurred trying to load this video.\nTry refreshing the page, or contact customer support.\nYou must cCreate an account to continue watching\nRegister to view this lesson\nAre you a student or a teacher?\nCreate Your Account To Continue Watching\nAs a member, you'll also get unlimited access to over 88,000 lessons in math, English, science, history, and more. Plus, get practice tests, quizzes, and personalized coaching to help you succeed.\nGet unlimited access to over 88,000 lessons.\nTry it nowAlready registered? Log in here for access\nGo backResources created by teachers for teachers\nOver 30,000 video lessons\n& teaching resources—all\nin one place.\nVideo lessons\nQuizzes and worksheets\nClassroom integration\nLesson plans\nI would definitely recommend Study.com to my colleagues. It’s like a teacher waved a magic wand and did the work for me. I feel like it’s a lifeline.\nJennifer B.\nTeacher\nGo back\nJust checking in. Are you still watching?\nYes! Keep playing.\nYour next lesson will play in\n10 seconds\n- 0:03 Student Life\n- 1:18 Campus Life\n- 2:53 Student Activities\n- 4:20 Lesosn Summary",
+      "image_captions": [
+        "Get it on Google Play",
+        "Get it on the App Store"
+      ]
+    }
+  ],
+  "evidence_count": 2,
+  "crawled_at": "2026-04-23T17:58:22.391294+00:00"
+}

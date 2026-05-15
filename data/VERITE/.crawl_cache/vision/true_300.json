@@ -1,0 +1,99 @@
+{
+  "sample_id": "true_300",
+  "image_url": "https://pbs.twimg.com/media/E877GeSXMAI3N1A?format=jpg&name=large",
+  "visual_entities": [
+    {
+      "description": "Boeing C-17 Globemaster III",
+      "score": 1.09575
+    },
+    {
+      "description": "Emergency evacuation",
+      "score": 0.7164
+    },
+    {
+      "description": "medevac",
+      "score": 0.7052
+    },
+    {
+      "description": "Airlift",
+      "score": 0.7031
+    },
+    {
+      "description": "United States Air Force",
+      "score": 0.7005
+    },
+    {
+      "description": "",
+      "score": 0.7005
+    },
+    {
+      "description": "Joint Base Charleston",
+      "score": 0.68385005
+    },
+    {
+      "description": "Aircraft",
+      "score": 0.64515
+    },
+    {
+      "description": "535th Airlift Squadron",
+      "score": 0.5488
+    },
+    {
+      "description": "Air force",
+      "score": 0.5001
+    },
+    {
+      "description": "15th Wing",
+      "score": 0.4776
+    },
+    {
+      "description": "Tactical airlift",
+      "score": 0.4678
+    },
+    {
+      "description": "Airdrop",
+      "score": 0.4546
+    },
+    {
+      "description": "Aeromedical evacuation",
+      "score": 0.4165
+    },
+    {
+      "description": "Indian Air Force",
+      "score": 0.4163
+    }
+  ],
+  "best_guess_labels": [
+    "c17 evacuation"
+  ],
+  "similar_image_urls": [
+    "https://media.defense.gov/2013/Dec/19/2000761292/-1/-1/0/131117-F-OW434-001.JPG",
+    "https://www.twz.com/wp-content/uploads/content-b/message-editor%2F1629077163067-131117-f-ow434-001.jpeg?strip=all&quality=85",
+    "https://p6.itc.cn/q_70/images03/20210817/fa879159f7134b2cab7cfcd146940fed.jpeg",
+    "https://media.defense.gov/2013/Dec/17/2000887902/-1/-1/0/131117-F-OW434-001.JPG",
+    "https://mil.in.ua/wp-content/uploads/2021/08/Evakuatsiya-tsyvilnyh-pislya-tajfunu-na-Filippinah-scaled.jpeg",
+    "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/AARVORASXBMWRDAFILSICAZWYU.jpg?auth=80ca042725f950d6b89cd7e004b105ff868cb49bd6e008fa0e777127c3343cd0&width=1500&height=2250",
+    "https://cloudfront-us-east-1.images.arcpublishing.com/newr7/AARVORASXBMWRDAFILSICAZWYU.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10160786424192712",
+    "https://media.defense.gov/2013/Dec/17/2000887902/2000/2000/0/131117-F-OW434-001.JPG",
+    "https://media.defense.gov/2013/Dec/19/2000761292/2000/2000/0/131117-F-OW434-001.JPG"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.twz.com/42005/800-people-evacuated-from-kabul-aboard-a-single-c-17-cargo-jet-reports",
+      "page_title": "800 People Evacuated From Kabul Aboard A Single C-17 Cargo Jet ...",
+      "title": "800 People Evacuated From Kabul Aboard A Single C-17 Cargo Jet (Updated)",
+      "description": "\"800 people on your jet?! Holy... Holy cow... Ok...\"",
+      "text": "As the situation continues to deteriorate in Afghanistan, with even Kabul’s international airport, the last hope for U.S. and other foreigners trying to leave the country, being at least partially overrun, we are now hearing that the U.S. Air Force packed one C-17 cargo jet with roughly 800 people and flew them to safety. If these reports, as well as recorded audio, prove to be accurate, it could be a record for an aircraft that serves as the backbone of the Air Force’s jet transport fleet.\nFor full context, make sure to read our latest update on the situation in Kabul which is linked here.\nRCH (Reach) 871, a C-17A from Dover Air Force Base in Delaware, took off from Kabul just a few hours ago. This was likely during the same period when the airport’s civilian ramp areas were being stormed by Afghans seeking salvation from the Taliban’s impending rule. Understanding the worsening situation, the aircraft’s crew apparently packed what they thought to be around 800 people into the jet’s main cargo bay and headed for the safety of Al Udeid Air Base in Qatar.\nOur friend Evergreen Intel was reporting this information in near real-time and new intercepted audio that has surfaced, which you can hear here, seems to confirm the reports.\nAs you can tell, the person talking to the flight, likely via satellite radio communications, is as stunned as we were when he heard the passenger load number. He asks “Ok, how many people do you think are on your jet?” Then after getting a reply from RCH 871 he responds “800 people on your jet?! Holy… Holy cow… Ok…”\nAccording to Boeing, a C-17’s passenger carrying capacity is officially “80 on 8 pallets, plus 54 passengers on sidewall seats.” So, if this 800 number proves true, you can get an idea of just how jammed-packed the aircraft must have been.\nWe know that C-17s can move far more people than their official capacity during an emergency, as was the case after a Typhoon hit the Philippines in 2013. One photo published by the USAF showed a Hawaii-based C-17 carrying a reported 670 people to safety:\nThis is unlikely to have been the only super-packed U.S. flight that has or will leave Kabul. We also know that the United Arab Emirates (UAE) packed one of their C-17s with people before this flight in an attempt to get them out before the Taliban sacked Kabul:\nA tanker bridge has also been created that is refueling heavily laden USAF transport flights as they move from Afghanistan to safer locales in the Middle East. The tankers could allow for the loaded transports to make tactical departures from Kabul with lower fuel loads than they would have to without aerial refueling support. There could be a major shortage of jet fuel at Kabul International, as well.\nWe have reached out to U.S. Central Command (CENTCOM) to get more information on this extremely laden evacuation flight and will report back when we know more. In the meantime, this serves as yet another reminder of how the C-17 and its dedicated crews continue to make the impossible possible when called upon to do so.\nUPDATE:\nOur friends over at DefenseOne.com, Marcus Weisgerber and Tara Copp, have some new reporting on RCH 871. They say the aircraft was swarmed by Afghans that were cleared to leave and instead of trying to kick them off and prolong their stay, the aircrew decided to go. The article states:\nThe C-17, using the call sign Reach 871, was not intending to take on such a large load, but panicked Afghans who had been cleared to evacuate pulled themselves onto the C-17’s half-open ramp, a video posted late Sunday showed.\nInstead of trying to force those refugees off the aircraft, “the crew made the decision to go,” a defense official told Defense One. “Approximately 640 Afghan civilians disembarked the aircraft when it arrived at its destination,” one defense official said.\nSo a couple of things here, first the stated load is 160 people shy of 800, but that is still an incredible human airlift feat. If the official is describing the same flight in question, the tense situation clearly resulted in the crew not knowing exactly how many people were even on their jet. One part of this story doesn’t check out though, at least to our understanding. The video mentioned shows a UAE C-17, not a USAF one, that arrived before RCH 871. So that cannot be RCH 871.\nRegardless, there are likely multiple flights that were far more heavily laden with evacuees than planned departing Kabul International during the last 24 hours or so. Maybe there is some confusion, or maybe not. DefenseOne.com was able to get an image from the Pentagon that is said to show RCH 871’s cargo hold packed with people:\nThere is another image floating around that we have examined of a C-17 hold that looks even more packed, with people sitting all the way up the cargo ramp. Once again, this may have been due to multiple packed flights and to some confusion as to which is which.\nRegardless, RCH 871’s crew did amazing and heroic work under some very scary conditions.\nWell done.\nContact the author: Tyler@thedrive.com",
+      "image_captions": [
+        "A C-17’s cargo hold is seen configured for paratrooper operations, which usually include less than 150 soldiers. You can get an idea of just how dense 800 people would be in the C-17’s cargo hold.,USAF",
+        "More than 670 Tacloban residents sit on board a C-17 Globemaster III before being evacuated to Manila following Super Typhoon Haiyan, which hit the Philippines Nov. 17, 2013. ,U.S. Air Force Photo/Staff Sgt. Ramon Brockington",
+        "DoD Via DefenseOne.com",
+        "message-editor%2F1629078438256-82nd_airborne_paratroopers_in_a_c-17.jpg",
+        "message-editor%2F1629077163067-131117-f-ow434-001.jpeg"
+      ]
+    }
+  ],
+  "evidence_count": 1,
+  "crawled_at": "2026-04-23T18:55:26.614608+00:00"
+}

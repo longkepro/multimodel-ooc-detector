@@ -1,0 +1,133 @@
+{
+  "sample_id": "true_197",
+  "image_url": "https://i.pinimg.com/736x/5b/84/a9/5b84a9335a771eb30d78211e6675e64a--tsunami-aerial-view.jpg",
+  "visual_entities": [
+    {
+      "description": "North Pacific Gyre",
+      "score": 1.0349131
+    },
+    {
+      "description": "Great Pacific Garbage Patch",
+      "score": 0.7265
+    },
+    {
+      "description": "Waste",
+      "score": 0.7073
+    },
+    {
+      "description": "Plastic pollution",
+      "score": 0.7052
+    },
+    {
+      "description": "Plastic",
+      "score": 0.6827
+    },
+    {
+      "description": "Ocean gyre",
+      "score": 0.6486
+    },
+    {
+      "description": "The Ocean Cleanup",
+      "score": 0.5347
+    },
+    {
+      "description": "Marine debris",
+      "score": 0.5271
+    },
+    {
+      "description": "Ocean",
+      "score": 0.5031
+    },
+    {
+      "description": "Pollution",
+      "score": 0.4903
+    },
+    {
+      "description": "Clean-up",
+      "score": 0.4816
+    },
+    {
+      "description": "Recycling",
+      "score": 0.4487
+    },
+    {
+      "description": "Marine pollution",
+      "score": 0.4301
+    },
+    {
+      "description": "Sea",
+      "score": 0.4093
+    }
+  ],
+  "best_guess_labels": [
+    "pacific trash vortex"
+  ],
+  "similar_image_urls": [
+    "https://monsterrolloff.wordpress.com/wp-content/uploads/2015/05/us_navy_110315-n-ic111-592_an_aerial_view_of_damage_to_wakuya_japan_after_a_9-0_magnitude_earthquake_and_subsequent_tsunami_devastated_the_area_in.jpg",
+    "https://i.pinimg.com/originals/a2/e1/e0/a2e1e0735da0f798e99dcd8ca3b703e3.jpg",
+    "https://savetheearthwhileyoucan.wordpress.com/wp-content/uploads/2014/10/image8.jpg",
+    "https://www.bubu-jp.com/wp-content/uploads/2019/03/001.jpg",
+    "https://featured.undp.org/plastic-tidal-wave/assets/zLHqXr4nyu/us_navy_110315-n-ic111-592_-_tsunami_damage_of_rikuzentakata-2560x1700.jpeg",
+    "https://e-info.org.tw/images/7ae45085-9161-4116-95e4-b220c857dc35-w2400.webP",
+    "https://e-info.org.tw/images/7ae45085-9161-4116-95e4-b220c857dc35-w2400.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10153132210616379",
+    "https://in.hu/site/assets/files/12466/image.jpg",
+    "https://cdn.administrace.tv/2024/01/13/hd/1861e26e7260d50793dfbec74ca678c9.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://marinedebris.noaa.gov/multimedia/videos/trash-talk-what-great-pacific-garbage-patch",
+      "page_title": "TRASH TALK: What is the Great Pacific Garbage Patch?",
+      "title": "TRASH TALK: What is the Great Pacific Garbage Patch?",
+      "description": "It’s not a floating island of trash, like a garbage dump or a landfill. It’s also not the only patch. They exist all throughout the ocean, and the Pacific Garbage Patch just happens to be the most famous. Garbage patches are large areas of marine debris concentration that are formed by rotating",
+      "text": "It’s not a floating island of trash, like a garbage dump or a landfill. It’s also not the only patch. They exist all throughout the ocean, and the Pacific Garbage Patch just happens to be the most famous. Garbage patches are large areas of marine debris concentration that are formed by rotating ocean currents called gyres - kind of like big whirlpools that suck things in. A garbage patch is made up of tiny plastic pieces called “microplastics” that are less than 5 millimeters long. It’s more like pepper flakes swirling in a soup than something you can skim off the surface.\nAn official website of the United States government.\nOfficial websites use .gov\nA .gov website belongs to an official government organization in the United States.\nSecure websites use HTTPS\nA small lock or https:// means you’ve safely connected to a .gov website. Share sensitive information only on official, secure websites.",
+      "image_captions": []
+    },
+    {
+      "url": "https://mashable.com/video/ocean-cleanup-plastic-pacific-garbage-patch",
+      "page_title": "A giant trash vortex's growing in the ocean. Now a cleanup effort's ...",
+      "title": "A giant trash vortex's growing in the ocean. Now a cleanup effort's underway.",
+      "description": "Welcome to the Great Pacific Garbage Patch.",
+      "text": "As plastic pollution continues to increase, microplastics are found in the smallest of marine organisms. At this rate, according to estimates, there will be more garbage than fish in the sea by 2050.\nThe Ocean Cleanup is on a cleanup mission, starting with the Great Pacific Garbage Patch - an area accumulating enough trash to cover Texas twice over.\nTopics Social Good",
+      "image_captions": [
+        "A giant trash vortex's growing in the ocean. Now a cleanup effort's underway.",
+        "A collage shows different cells and organisms under a microscope. Caption reads \"Micro worlds'",
+        "A tractor sows over plain land near the coast in Devon. Caption reads: restoring nature",
+        "An image portraying a mint-coloured e-Moke parked on a cliff. Caption reads: \"Electric Nostalgia\"",
+        "An image of the Atlantic Forest from above with the words \"Reviving a forest\" overlaid"
+      ]
+    },
+    {
+      "url": "https://oceandefenderstrashvortex.weebly.com/",
+      "page_title": "The pacific trash vortex",
+      "title": "Featured Products",
+      "description": "The Pacific Trash Vortex is estimated to be twice the size of Texas.",
+      "text": "The Pacific Trash Vortex is\nestimated to be twice\nthe size of Texas.\nestimated to be twice\nthe size of Texas.\nJust a few pictures of the Pacific Trash Vortex\nThe Pacific trash vortex is a collection of marine debris in the North Pacific Ocean. The garbage patch is actually two different collections of debris connected by the North Pacific Gyre. The Vortex is located between 135°W to 155°W and 35°N and 42°N.\nIt is garbage from the land that is polluting our oceans, choking and trapping millions of fish and animals. The water circulates clockwise in a slow spiral. Winds are light and the currents usually push any floating material into the low energy center of the gyre (vortex or spiral). There are few islands that end up getting some of the floating material. So most of it stays there in the gyre. In astounding quantities, estimated at 13 pounds of plastic for 2 pounds of plankton. It is an area larger than a many countries including Angola, that slowly rotates our trash in a never-ending rotation.",
+      "image_captions": []
+    },
+    {
+      "url": "https://en.socialnews.it/2018/02/12/plastic-pollution-waste-fish/",
+      "page_title": "Plastic pollution: more waste than fish - Social News en",
+      "title": "Plastic pollution: more waste than fish - Social News en",
+      "description": "The materials we call \"plastic\" were developed in the 1930s and 40s and mass production began in the 1950s. Since then, the diffusion and use of different plastics have been continuously increasing and projections suggest that this trend will continue.This lightweight, durable, cost-effective and versatile material has some disadvantages that had not been foreseen. For example, many plastic objects are…",
+      "text": "The materials we call “plastic” were developed in the 1930s and 40s and mass production began in the 1950s. Since then, the diffusion and use of different plastics have been continuously increasing and projections suggest that this trend will continue.This lightweight, durable, cost-effective and versatile material has some disadvantages that had not been foreseen. For example, many plastic objects are single use and this involves the production of a mountain of waste. Discarded plastic can end up in landfills, can be incinerated or recycled, but a part ends up in waterways and at sea through sewage system, discharges, during transport to landfills, or through accidental spillage from ships and waste water treatment plants. Or, simply, plastic is intentionally thrown into the sea.\nIn almost 70 years, the Earth has come to have a sort of sixth undesirable continent made entirely of plastic: since it was introduced, as many as 8.3 billion tons of insoluble waste float in the oceans forming unnatural archipelagos, like the famous Pacific Trash Vortex.\nThe biggest problems come from microplastic\nPollution is not just the work of bottles, toys, envelopes and objects in general, but most of the plastic that suffocates the seas, or more than 90 percent, is in the form of microplastic: fragments of less than 5 millimeters, result of cosmetic or personal hygiene and of the deterioration of larger waste. According to an estimate by Greenpeace, in the seas of the whole planet there are between 5 and 50 billion. They are not seen with the naked eye and this is why they are more dangerous. These particles are embedded in the rocks, in the glaciers, in the seabed, in the stomach of various animals.\nBy the year 2050, if nothing is done, the phenomenon will quadruple. In that year the oceans could contain, by weight, more plastic than fish. The first ones that will pay the consequences of pollution from plastics are its inhabitants. For all marine inhabitants, both large objects and microplastics are a danger. Fish, turtles, seals can get caught in large pieces of plastic or even injure and die trying to free themselves. Some die strangling as they try to swallow too large bags or debris. The microplastics, as they are very small, are swallowed without problems by many species such as fish, mollusks, crustaceans.This problem then pours on all those who feed them like predatory birds and men. Man is at risk every time he eats fish because he could inadvertently ingest plastic.\nPossible solutions to improve the pollution situation\n9% of plastic waste in the world is collected and recycled, especially from Europe, China and a few others. 12% becomes valuable fuel. 79%, especially in countries that don’t have collection services, is dispersed in the environment. The problem can still be solved, but we must act immediately and decisively. Production should be reduced, especially in the packaging sector, then we should reduce consumption and at the same time favor disposal and recycling.\nProhibitions and limitations should be imposed on the production of useless and harmful items, starting with single-use packaging, disposable cutlery, plastic films used in supermarket packaging and plastic microspheres used in cosmetics.Then, we should increase research on materials and distribution systems to facilitate the reuse, repair, reconstruction of products and also provide more information on the composition of plastic and on the time of decomposition in the marine environment. It is also important to increase awareness among consumers to direct the market towards alternative and sustainable choices of purchases and consumption, to increase the demand for sustainable materials replacing plastics and in general to encourage a change in habits and lifestyles at the same time. In particular, it is important to convey the concept of the fight against waste and the rejection of disposable culture.\nSome cities, like San Francisco, Hamburg, Montreal, have banned plastic bottles. Montreal, specifically, was the first to forbid even plastic shopping bags.The ban covers the distribution of lightweight plastic totes with a thickness of less than 50 microns as well as biodegradable bags, which contain an additive that causes them to decompose in heat and light. City officials say the ban is intended to encourage people to move away from single-use products and to adopt reusable totes.\nEurope has not stood by and with the EU Directive 2015/720, countries have to adapt to the plastic bag legislation, with important innovations also for ultra-light totes used for bulk food that don’t meet the criteria of compostability and biodegradability. In particular, the text states that plastic bags can no longer be distributed free of charge.\nItaly has also taken action, tax on shopping bags\nThe new tax on biodegradable plastic totes for fruit and vegetables came into force in Italy from 1 January 2018. In all supermarkets and shops, it is no longer possible to use the usual transparent bags for fruit, vegetables and other fresh food as the use of biodegradable shopping totes has become mandatory. Each biodegradable shopping bag costs from 2 to 10 cents each and cannot be provided free of charge from the store, while it can be brought from home, but on the condition that it is new and suitable for food.\nAlthough the new law has been applied to reduce plastic consumption, in Italy some citizens consider this introduction unfair because a tax has been introduced on shopping bags, the price of which will affect households with an increase in costs of about 12 -15 euros per year per family. Fortunately, more people don’t worry about this increase, they are happy to spend a little more for the planet. A recyclable bag of a few cents is irrelevant compared to the problems of Italy and the world. Today, consumers know how much each one’s commitment is relevant to the plastics that infest the seas costs. The entry into force of environmental legislation is an act of ecological civilization, which places Italy at the forefront of the world.",
+      "image_captions": []
+    },
+    {
+      "url": "https://featured.undp.org/plastic-tidal-wave/",
+      "page_title": "A tidal wave of plastic",
+      "title": "A tidal wave of plastic",
+      "description": "The journey of plastic to the ocean is marked by opportunities to change course",
+      "text": "A tidal wave of plastic\nThe journey of plastic to the ocean is marked by opportunities to change course\nTwo decades ago, a deep sea submersible descended into the Mariana Trench, the deepest part of the ocean.\nIn the middle of the Western Pacific, at a depth of 10,988 metres, it encountered a lone plastic bag. Scientists believe it’s the world’s deepest known piece of plastic rubbish. And it will take 400 to 1,000 years to disintegrate.\nTen thousand metres above, the ocean’s surface is similarly littered. You may have heard of the Great Pacific Garbage Patch. This floating cluster of discarded plastic covers an estimated 1.6 million square kilometres, an area twice the size of Texas or three times the size of France.\nThe impact of so much plastic pollution in the ocean is detrimental to marine wildlife, to the planet and to humans. UN Environment puts the economic costs at roughly US$13 billion per year, including clean-up costs and financial losses in fisheries and other industries.\nA problem on this scale may seem daunting, but that giant island of garbage in the Pacific is made up of individual pieces of plastic that wound up in the ocean through a series of deliberate actions. As we trace the journey of plastic to the ocean, we can see how human actions at every step along the way could bring about a sea change.\nBefore a piece of plastic reaches open water, before it sinks to the ocean floor, it likely is deposited somewhere along our coastlines. Every year, up to 13 million tonnes of plastic reaches the ocean. That is equivalent to dumping the contents of one garbage truck into the ocean every minute, according to UN Environment.\nPlastic is especially lethal to coral reef systems. Healthy coral reefs are the nurseries of the underwater world, nurturing an astonishing array of living organisms. They protect over 150,000 km of shoreline in 100 countries and territories, safeguarding coastal communities from heavy storm surges, winds and waves. A recent study found that, when corals come in contact with plastic, the likelihood of disease shoots up from 4 percent to 90 percent.\n“People shouldn’t teach their garbage to swim.\"\nEllen McRaye is a marine biologist in Belize, where visitors come for spectacular snorkelling and scuba diving in the Blue Hole and the largest barrier reef in the Western Hemisphere. For the past 40 years, Ellen has witnessed the disappearance of pollutant-filtering mangrove forests and fish due to unsustainable tourism and other practices, like overfishing or dumping untreated sewage into coral reef nurseries.\nThrough UNDP’s Small Grants Programme, Ellen and a few volunteers were able to update an old boat with a modern motor and rehabilitate a centre to educate visitors on sustainable tourism. They tend to the health of mangrove nurseries in the Caye Caulker Forest and Marine Reserve and do weekly clean-ups of the coastal garbage that chokes and kills mangrove saplings. They also collect data that enable local governments to make decisions to protect the future of the country’s economic lifeline, the Belize Barrier Reef.\nVolunteers are making a huge impact in Belize and around the world. In Lebanon, hundreds of youth have turned up to lend a hand in a series of coastal clean-ups. With every disused tote, toy or tyre dragged from the beach or dredged out of the sea, these young people are sending a strong message about the need for change.\nGarbage left by visitors at the Caye Caulker Forest Reserve often finds its way to the ocean. Photo: UNDP\nMarine biologist Ellen McRaye has spent 40 years promoting sustainable tourism in Belize. Photo: UNDP\nYouth take part in a coastal clean-up. Photo: UNDP India\nRivers are the express highways for our plastic litter.\nCoastal garbage, the global fishing sector, freight shipping, tourism and illegal dumping of plastic waste all contribute to plastic pollution in the open ocean. But one of the largest sources of ocean plastic are rivers that connect to cities and towns inland. About a third the global population live along the banks of the world’s top 122 polluting rivers.\nGiving tourists a nudge\nNestled in the valley of the Terelj River, Gorkhi-Terelj National park is Mongolia's largest tourist attraction. It is seeing a steady 8.5 percent rise in overnight campers and day visitors every year. Last year, the park received 140,000 tourists. As the park's fame rose, during peak tourism season, park rangers were cleaning up four tonnes of waste daily.\nUNDP and park officials are experimenting with an innovative approach to the problem. Working with Australia-based Behavioural Insights Team (BIT), the initiative seeks to \"nudge\" positive behaviour to prevent plastic pollution and littering at key points throughout visitors' journey in the park.\nOnce heralded as an innovation, the plastic bag was welcomed most by city dwellers. Durable and convenient, plastic is the perfect vehicle for the demands of urban life.\nBut 86 percent of the plastic packaging that is produced globally is not recycled, according to McKinsey & Company. That means a plastic bag used to carry a single item from the supermarket will be around for several generations.\nBy 2030, two thirds of people in the world will live in cities. Most of the world’s megacities are located near coastlines and river deltas. With the global population poised to reach 9.7 billion in the next three decades, cities will be the battleground for beating plastic pollution.\n\"What we do is for the future.\"\nIn Arequipa, Peru's second largest city, 49-year-old Gregoria Cruz doesn't just recycle garbage, she re-imagines it. She works for Recicla Vida, an association of recyclers, mainly women who are spreading a recycling culture in their city. The women collect about 400 kg of waste every day.\nFormalizing their roles as the city's official recyclers has helped to gain visibility and recognition in a city where they once lived and worked on the margins of society. \"We are official recyclers, we help to take care of the environment we live in,\" Gregoria says. \"What we do is for the future.\"\nIndividual action alone will not stop the tidal wave of plastic pollution in the ocean. Governments, businesses and all the sectors that work with plastic can make the biggest impact by investing in sustainable alternatives.\nWorking on the margins of society, garbage pickers provide an invaluable service in many countries. Photo: UNDP Peru\nWorking on the margins of society, garbage pickers provide an invaluable service in many countries. Photo: UNDP Peru\nWhere do we start? By examining our relationship with plastic.\nCosta Rica has taken a bold step by laying out a plan to completely eliminate single-use plastics. In Moldova, they are starting with the ubiquitous plastic bag. Students are busily researching alternatives as the country works on a two-year roadmap to phase out plastic bags.\nMariana and Octavian are studying urbanism and architecture at the Technical University of Moldova. They’re researching behavioural insights that would make the transition smooth for both customers and selling points. Theirs is a work in progress, and the duo aims to present their solutions at an upcoming innovation camp that UNDP Moldova will host as part of an initiative of the Innovation Facility.\nUNDP is also working with governments worldwide on business solutions for sustainable waste management. For instance, the Government of Kenya is developing a circular economy approach to waste management in urban areas.\nInstead of sending all refuse to the dump, this circular economy approach to waste management adds new points in Kenya’s value chain. In the future, 90 percent of collected waste will go to these new points, which include recycling sites, composting facilities and organic waste treatment centres.\nIn any given moment, there are 1 million plastic bags in use around the world. Each one has an average lifespan of 12 to 15 minutes before it is discarded. These and other single-use items – plastic cups, water bottles and food packaging – make up 89 percent of plastic litter identified on the floor of the ocean.\nSustainable Development Goal 14 focuses on preserving the health of the ocean; beating plastic pollution is critical to this effort to ensure ocean health and human health.\nStudents Octavian and Mariana are researching behavioural insights to facilitate a smooth transition away from plastic bags. Photo: UNDP Moldova\nA circular economy approach diverts garbage away from the dump to recycling and other waste treatment sites. Photo: UNDP India\nHow can you help?\nPicture your day. Start with your morning routine. Toothbrush. Shower. Work. School. Lunch. Shopping.\nNow, picture yourself going through your day without a single piece of plastic. Can you do it?\nWe depend on plastic. It permeates all parts of modern life. But you can help make sure the plastic you use doesn’t make the journey to the bottom of the ocean. The old three-point plan still holds water: Reduce drastically the amount of single-use plastics you use; switch to containers and other convenience items that can you can reuse; and recycle what you no longer need.\nAs you journey through your day, take a closer look at your choices when it comes to plastic. And consider how every little action can help turn the tide for plastic pollution.",
+      "image_captions": [
+        "Photo of plastic trash floating around the sea",
+        "89% of plastic litter found on the ocean floor are single-use items like plastic bags.",
+        "Up to 13 million tonnes of plastic leak into the ocean every year.",
+        "Map of plastic journey from open water to coast",
+        "Garbage left by visitors at the Caye Caulker Forest Reserve often finds its way to the ocean."
+      ]
+    }
+  ],
+  "evidence_count": 5,
+  "crawled_at": "2026-04-23T17:47:59.152879+00:00"
+}

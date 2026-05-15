@@ -1,0 +1,99 @@
+{
+  "sample_id": "true_83",
+  "image_url": "https://static01.nyt.com/images/2019/09/20/us/20area51/20area51-videoSixteenByNine3000.jpg",
+  "visual_entities": [
+    {
+      "description": "2010s",
+      "score": 0.85815
+    },
+    {
+      "description": "Bob Lazar",
+      "score": 0.76919997
+    },
+    {
+      "description": "Storm Area 51",
+      "score": 0.6772
+    },
+    {
+      "description": "Extraterrestrial life",
+      "score": 0.6166
+    },
+    {
+      "description": "Govert Sweep",
+      "score": 0.579
+    },
+    {
+      "description": "Ties Granzier",
+      "score": 0.56834996
+    },
+    {
+      "description": "future",
+      "score": 0.5498
+    },
+    {
+      "description": "The Human League",
+      "score": 0.4626
+    },
+    {
+      "description": "Extraterrestrials in fiction",
+      "score": 0.4497
+    },
+    {
+      "description": "YouTube",
+      "score": 0.4324
+    },
+    {
+      "description": "",
+      "score": 0.4324
+    },
+    {
+      "description": "The Crowd",
+      "score": 0.4166
+    },
+    {
+      "description": "The Sound of the Crowd",
+      "score": 0.4017
+    }
+  ],
+  "best_guess_labels": [
+    "crowd"
+  ],
+  "similar_image_urls": [
+    "https://static01.nyt.com/images/2019/09/20/us/20area51/20area51-videoSixteenByNine3000.jpg?auto=webp&quality=30&disable=upscale&format=pjpg",
+    "https://static01.nyt.com/images/2019/09/20/us/20area51/20area51-videoSixteenByNine3000.jpg?year=2019&h=1687&w=3000&s=21dc2b0dd916a01cdd6885c3276d61299b84294b6dc46e22b307ea6bfc430ce8&k=ZQJBKqZ0VN&tw=1",
+    "https://media.licdn.com/dms/image/v2/C5612AQGVsLKVumRH_w/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1587324301629?e=1776902400&v=beta&t=GBotq50ql8CX8aisPyDEO6nzzi-6oZxTgGuHCqoAHQE",
+    "https://orgoglionerd.it/wp-content/uploads/2019/09/Invasione-allArea-51.jpg",
+    "https://forum.gamer.com.tr/attachments/20area51-videosixteenbynine3000-jpg.137972/",
+    "https://static01.nyt.com/images/2019/09/20/us/20area51/20area51-videoSixteenByNineJumbo1600.jpg",
+    "https://static01.nyt.com/images/2019/09/20/us/20area51/20area51-videoSixteenByNineJumbo1600.jpg?auto=webp&quality=75",
+    "https://arabicpost.net/wp-content/uploads/2019/09/area-51.jpg",
+    "https://i0.wp.com/abunawaf.com/wp-content/uploads/2020/01/%D8%A7%D9%84%D9%83%D8%A7%D8%A6%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D9%81%D8%B6%D8%A7%D8%A6%D9%8A%D8%A9.jpg?resize=700%2C394&ssl=1",
+    "https://s1.15min.lt/static/cache/MzA2eDI0MCw4MzF4NDYxLDYxNjI5NyxvcmlnaW5hbCwsaWQ9NDk3Mjg1MCZkYXRlPTIwMTklMkYwOSUyRjIwLDI0OTQwMjk3ODU=/zmones-renkasi-prie-area-51-5d84fc2742987.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.nytimes.com/video/us/100000006728579/storm-area-51-nevada.html",
+      "page_title": "'We're Just Annoying People': Crowd Gathers for Area 51 Raid",
+      "title": "Video: ‘We’re Just Annoying People’: Crowd Gathers for Area 51 Raid",
+      "description": "After weeks of online hype, a small group of revelers showed up outside a gate at an Area 51-adjacent town in Nevada.",
+      "text": "new video loaded: ‘We’re Just Annoying People’: Crowd Gathers for Area 51 Raid\ntranscript\ntranscript\n‘We’re Just Annoying People’: Crowd Gathers for Area 51 Raid\nAfter weeks of online hype, a small group of revelers showed up outside a gate at an Area 51-adjacent town in Nevada.\n“We came out to see kind of the dumb people make a run for it. I like my freedom. It’s six months in federal prison and that doesn’t sound like a good time. “A bunch of random people in weird costumes standing outside of a government base. Why would you want to miss that? That’s a, that’s a one in a lifetime experience. It’s like, it’s like Halloween but we’re just annoying people.”\n‘We’re Just Annoying People’: Crowd Gathers for Area 51 Raid\nAfter weeks of online hype, a small group of revelers showed up outside a gate at an Area 51-adjacent town in Nevada.By Reuters\nSeptember 20, 2019\nWatch Today’s Videos\nMore in U.S. ›\nPentagon Fires Navy Secretary\n1:03\nAt Least 2 Dead in West Virginia Chemical Spill, Officials Say\n0:54\nVirginia Voters Approve New Map Favoring Democrats\n0:41\nTrump’s Fed Chair Pick Defends Independence From the President\n2:24\nSinger D4vd Is Charged With Murder of Celeste Rivas Hernandez\n1:38\nNew Details in the Mass Shooting That Left 8 Dead in Louisiana\n1:32\nAdvertisement",
+      "image_captions": [
+        "Pentagon Fires Navy Secretary",
+        "At Least 2 Dead in West Virginia Chemical Spill, Officials Say",
+        "Virginia Voters Approve New Map Favoring Democrats",
+        "Trump’s Fed Chair Pick Defends Independence From the President",
+        "Singer D4vd Is Charged With Murder of Celeste Rivas Hernandez"
+      ]
+    },
+    {
+      "url": "https://www.vrt.be/vrtnws/nl/2019/07/18/neen-er-willen-heus-geen-miljoen-mensen-area-51-bestormen-het/",
+      "page_title": "enkele duizenden mensen bijeen aan militair domein Area 51 ... - VRT",
+      "title": "Bestorming blijft uit: enkele duizenden mensen bijeen aan militair domein Area 51 om te kijken of er ruimtewezens zitten | VRT NWS Nieuws",
+      "description": "Meer dan 2 miljoen mensen stonden op aanwezig op Facebook, enkele duizenden zijn uiteindelijk opgedoken. De geplande bestorming van het militair domein Area 51 in Nevada in de Verenigde Staten is uitgebleven. Nochtans wilden heel wat mensen zogezegd gaan kijken of er toch geen ruimtewezens zitten. Hoe kon dat Facebook-event zo uit de hand lopen?",
+      "text": "Meer dan 2 miljoen mensen stonden op aanwezig op Facebook, enkele duizenden zijn uiteindelijk opgedoken. De geplande bestorming van het militair domein Area 51 in Nevada in de Verenigde Staten is uitgebleven. Nochtans wilden heel wat mensen zogezegd gaan kijken of er toch geen ruimtewezens zitten. Hoe kon dat Facebook-event zo uit de hand lopen?\nBestorming blijft uit: enkele duizenden mensen bijeen aan militair domein Area 51 om te kijken of er ruimtewezens zitten\nArea 51 is een plek die tot de verbeelding spreekt. Het militair domein, gelegen in de Nevadawoestijn ten noorden van Las Vegas, wordt zorgvuldig en discreet bewaakt. In het domein worden al jaren geheime militaire vliegtuigen getest. Onder meer het U-2-spionagevliegtuig is in Area 51 ontwikkeld (foto onder). De U-2 is een vliegtuig dat dag en nacht op 21 kilometer hoogte vluchten kan uitvoeren.\nEen foto van de U-2 vrijgegeven door het Amerikaanse ministerie van Defensie:\nTot in 1989 de \"wetenschapper\" Bob Lazar begon te spreken over zijn werkzaamheden in de buurt van het domein. Lazar beweerde dat hij, samen met Amerikaanse inlichtingendiensten, in Area 51 betrokken was bij een project rond buitenaards leven. Sindsdien doen de wildste samenzweringstheorieën de ronde over Area 51: dat er proeven gebeuren op en met aliens, dat neergestorte ufo’s er worden opgeslagen en onderzocht, enzovoort.\nHet is de ideale cocktail voor een aanhoudend mysterie dat in Facebooktijden wel moest leiden tot een event: een geheim militair domein, buitenaardse wezens en wilde samenzweringen. Dat is ook wat de makers van het Facebookevent \"Storm Area 51, they can’t stop us all\" hebben begrepen. De teller stond op meer dan 2,1 miljoen aanwezigen.\nWie de basis probeert binnen te dringen riskeert een jaar celstraf en 5.000 dollar boete. Bovendien kan het leger zelfs het vuur openen:\nMaar de twee miljoen werd niet gehaald. Eerst leek het erop dat er maar 75 mensen zouden opdagen, uiteindelijk werden het er \"enkele duizenden\". Exacte cijfers ontbreken. Volgens lokale media verliep alles rustig. Sommige mensen kwamen verkleed als aliens of in ruimtepakken. In totaal werden 5 mensen opgepakt, voor het betreden van het terrein, aanstootgevend gedrag en alcoholmisbruik.\nIn de omgeving werden ook enkele échte evenementen georganiseerd, zoals een muziekfestival.\nSamenzweringen\nDe oproep was eigenlijk al te gek voor woorden. Als de makers van dit event het echt zouden gemeend hebben, dan wilden ze dus met 2,1 miljoen mensen het domein bestormen. Niet dat Facebookevents niet uit de hand kunnen lopen, er zijn al verhalen van mensen die een verjaardagsfeest als event aankondigden op Facebook en plots duizenden mensen aan hun deur kregen. Maar hoe wilden de organisatoren van de bestorming van Area 51 dit organiseren?\n\"Als we lopen zoals Naruto kunnen de kogels ons niet tegenhouden\", stond er te lezen. Naruto verwijst naar een populaire Japanse stripfiguur uit de Manga-cultuur die heel snel kan lopen. De kogels verwijzen naar het feit dat de bewakers mogen schieten op iedereen die al te verdachte bedoelingen heeft. De verwijzing naar een stripfiguur alleen al, is een teken dat we het event niet al te serieus moesten nemen. Bovendien loopt Naruto op een heel atypische manier, voorover gebogen en met de armen gestrekt achter zijn lichaam. In een tekenfilm lijkt dit logisch, maar in het echte leven lijkt de \"Naruto-run\" onnatuurlijk.\nOm u een idee te geven hoe snel Naruto loopt, bekijk dit filmpje.\nDe organisatoren posten even later ook volgende tekst in het event. \"Hallo Amerikaanse regering, dit is een grap, en ik ben eigenlijk niet van plan om dit plan door te zetten. Ik dacht dat het gewoon grappig zou zijn en me een paar duimpjes (likes) op het internet zou geven. Ik ben niet verantwoordelijk wanneer mensen besluiten om Area 51 daadwerkelijk te bestormen.\"\n\"Shitposting\" of de kunst van de digitale ironie\nHet Facebookevent werd gemaakt door een zekere Facebookgebruiker: “Shitposting cause im in shambles”. Op zijn pagina vinden we een paar grappige “memes” die verwijzen naar Area 51. “Memes” zijn foto’s, collages, online \"cartoons\" die heel populair zijn en gretig gedeeld worden op sociale media. De persoon achter “Shitposting cause im in shambles” is volgens de Amerikaanse publieke radio NPR de twintigjarige Val uit Californië. Zijn enige bedoeling met de pagina is “shitposting”: willekeurige, grappige, ironische, satirische foto’s en video’s posten op zijn Facebookpagina.\nMaar dat heeft niet iedereen zo begrepen. Onder meer veel \"klassieke media\" berichtten over de actie als een heus en waar event. Nu is het natuurlijk ook moeilijk om de ironie te doorprikken als plots het Amerikaanse leger een statement uitstuurt dat een effectieve bestorming een zeer slecht idee voor de gezondheid zou zijn. Maar het is en blijft ironie. Net omdat er plots ook massaal bericht werd over de actie, bereikte het event een nog groter publiek. Voor de makers is nu de cirkel rond. Zeker nu er online nog gretig kan worden doorgeboomd over het feit dat de \"klassieke\" media niets snappen van online subculturen. Wat die subculturen best ook ergens wel leuk vinden.\nStorm Kleine-Brogel\nOok in ons land zien we gelijkaardige Facebookevents. Zo organiseerde het “Ministerie van Cultuur” ook een Facebookevent, namelijk de bestorming van Kleine-Brogel. De pagina \"Ministerie van Cultuur\" is gemaakt door Kenny Vermeulen. \"Toen we zagen dat ze in Amerika een event lanceerden rond Area 51, dachten we: waarom niet bij ons. Voor alle duidelijkheid, er is geen haar op mijn hoofd dat eraan denkt om op 20 september naar Kleine-Brogel te trekken\", zei Vermeulen eerder.\nHet “Ministerie van Cultuur” is voor alle duidelijkheid een satirische Facebookpagina. Zo'n 1.600 mensen hebben aangegeven dat ze zullen “gaan”. De bestorming van Kleine-Brogel is een “copy-paste” van die van Area 51: “Storm Kleine-Brogel, they can’t stop us all”. Ook de manier waarop de leden van plan zijn om het domein te bestormen is gelijklopend. “We will all meet up at de hekken van Kleine-Brogel and coordinate our entry. If we Naruto run, we can move faster than their bullets. Lets see them kernwapens.”\nOok hier zien we op de pagina van het event een aantal grappige “memes”:\nEén van de leden heeft zelfs een tactisch plan uitgedokterd. Het is duidelijk dat het hier om een ludiek evenement gaat, ook al hebben verschillende groeperingen in het verleden al effectief geprobeerd om Kleine-Brogel te bestormen. De pagina werd aangemaakt op de dag waarop VRT het nieuws bracht dat de NAVO in een document bekendmaakte dat er wel degelijk kernwapens in Kleine-Brogel opgeslagen worden. Er is dus een bewijs. En dat is niet zo als het gaat over de ruimtewezens bij Area 51.\nToen Kleine-Brogel echt bestormd werd door onder meer VU-politici Patrick Vankrunkelsven en Kris Van Dijck samen met Jef Sleeckx (SP.A) in 1999:\nYogasnuiven voor beginners\nWe zien de laatste tijd meer en meer ludieke Facebookevenementen. Eén van de betere bleef “Yogasnuiven voor beginners”, ook van Vermeulen. De oproep kwam er na uitspraken van de Antwerspe burgemeester Bart De Wever (N-VA). Hij zei dat “yogasnuivers” het drugsmilieu in Antwerpen in leven houden. Een ander evenement van het “Ministerie van cultuur” was “Confetti gooien van GAS-boetes in de Kompass-club”.\nWat wil Vermeulen met deze pagina's en evenementen bereiken? \"Voor ons is het een manier om de vinger aan de pols te houden met wat er leeft bij de jongeren. Het is allemaal satire en ironie. We moeten het allemaal niet zo serieus nemen\", legt Vermeulen uit. \"Rode draad doorheen deze acties is humor. De kwaliteit van de collages is niet belangrijk, maar je moet er wel mee lachen.\"\nToen de processierupsen volop in het nieuws waren, deden anderen een oproep om een weekend lang processierupsen te knuffelen. Natuurlijk denkt niemand eraan om een processierups te knuffelen. Uiteindelijk hebben 18.000 mensen zich ingeschreven. Ook deze pagina is niet meer dan een plek waar mensen grappige “memes” over rupsen posten. Als je op Facebook zoekt naar evenementen met het woord “knuffelen”, zal je verschillende gelijkaardige pagina’s tegenkomen. Het zijn stuk voor stuk pagina’s met ludieke acties die niemand serieus neemt. \"Area 51 bestormen\" of \"yogasnuiven\". Het is de ironie die hen bindt.\nVolg VRT NWS ook via Instagram:",
+      "image_captions": []
+    }
+  ],
+  "evidence_count": 2,
+  "crawled_at": "2026-04-23T17:13:29.573027+00:00"
+}

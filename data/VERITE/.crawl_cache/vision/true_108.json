@@ -1,0 +1,66 @@
+{
+  "sample_id": "true_108",
+  "image_url": "https://pbs.twimg.com/media/D29uQTaX4AA2qnk?format=jpg&name=small",
+  "visual_entities": [
+    {
+      "description": "Barbie",
+      "score": 1.1907461
+    },
+    {
+      "description": "Mattel",
+      "score": 0.7219
+    },
+    {
+      "description": "",
+      "score": 0.7219
+    },
+    {
+      "description": "Mattel",
+      "score": 0.6166
+    },
+    {
+      "description": "Party",
+      "score": 0.5968
+    },
+    {
+      "description": "Doll",
+      "score": 0.5362
+    },
+    {
+      "description": "Ken",
+      "score": 0.5118
+    },
+    {
+      "description": "Mug",
+      "score": 0.496
+    },
+    {
+      "description": "Original",
+      "score": 0.3897
+    }
+  ],
+  "best_guess_labels": [
+    "barbie"
+  ],
+  "similar_image_urls": [
+    "https://www.geekmi.news/__export/1689794532469/sites/debate/img/2023/07/19/disexo_sin_txtulo_x9x.jpg_1758632412.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=287606170446206",
+    "https://img.elo7.com.br/product/360x360/4AB9D13/painel-sublimado-redondo-tema-barbie-1-50x1-50-aniversario.jpg",
+    "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3149358546257223531",
+    "https://i.ebayimg.com/images/g/CJYAAeSwk69pgF1U/s-l300.jpg",
+    "https://http2.mlstatic.com/D_Q_NP_2X_799638-MLM82054983425_012025-P.webp",
+    "https://i.ytimg.com/vi/XQtELP4BDWE/maxresdefault.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.mercadolibre.com.mx/taza-grande-para-cafe-ceramica-barbie-65-anos-mattel-500ml-color-rosa/p/MLM42090059",
+      "page_title": "Taza Grande Para Café Cerámica Barbie 65 Años Mattel 500ml ...",
+      "title": "Mercado Libre",
+      "description": "",
+      "text": "¡Hola! Para continuar, ingresa a\ntu cuenta\ntrace-id: 661189ec-990b-44a4-ae52-351e6f19cea0\n¡Hola! Para continuar, ingresa a\ntu cuenta\ntrace-id: 661189ec-990b-44a4-ae52-351e6f19cea0\nUsamos cookies para mejorar tu experiencia en Mercado Libre. Consultar más en nuestro Centro de Privacidad.",
+      "image_captions": []
+    }
+  ],
+  "evidence_count": 1,
+  "crawled_at": "2026-04-23T17:20:19.596263+00:00"
+}

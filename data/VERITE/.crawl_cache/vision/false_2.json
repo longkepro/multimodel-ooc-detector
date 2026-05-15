@@ -1,0 +1,84 @@
+{
+  "sample_id": "false_2",
+  "image_url": "https://images.squarespace-cdn.com/content/5b539de375f9ee8786c67f2d/1581822920950-8IZZLU6YEUBNM9HBYS0F/DSC_5197.jpg?format=1500w&content-type=image%2Fjpeg",
+  "visual_entities": [
+    {
+      "description": "Boston Fashion Week",
+      "score": 1.04925
+    },
+    {
+      "description": "Milan Fashion Week",
+      "score": 0.85515
+    },
+    {
+      "description": "Fashion show",
+      "score": 0.8161344
+    },
+    {
+      "description": "Fashion",
+      "score": 0.7353
+    },
+    {
+      "description": "Fashion week",
+      "score": 0.7131
+    },
+    {
+      "description": "New York Fashion Week",
+      "score": 0.70965004
+    },
+    {
+      "description": "Haute couture",
+      "score": 0.64176196
+    },
+    {
+      "description": "Hu Sheguang",
+      "score": 0.61785
+    },
+    {
+      "description": "Fashion Design",
+      "score": 0.5795
+    },
+    {
+      "description": "Gucci",
+      "score": 0.5617
+    },
+    {
+      "description": "",
+      "score": 0.5617
+    },
+    {
+      "description": "Fashion designer",
+      "score": 0.5192
+    },
+    {
+      "description": "Runway",
+      "score": 0.472
+    },
+    {
+      "description": "Dolce & Gabbana",
+      "score": 0.449
+    },
+    {
+      "description": "",
+      "score": 0.449
+    }
+  ],
+  "best_guess_labels": [
+    "fashion show"
+  ],
+  "similar_image_urls": [
+    "https://static.wixstatic.com/media/a7ed9c_4b15c474b90a4a49ab9fff0d90f43e23~mv2.jpg/v1/fill/w_320,h_483,q_90,enc_avif,quality_auto/a7ed9c_4b15c474b90a4a49ab9fff0d90f43e23~mv2.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.chinafashioncollective.com/sheguanghu-2020fw",
+      "page_title": "Sheguang Hu 2020FW | CFC - China Fashion Collective",
+      "title": "Sheguang Hu 2020FW | CFC",
+      "description": null,
+      "text": "top of page\nWelcome\nRunway Videos\nPrevious Shows\nAll Time Behind The Scene\nCOOFANDY NYFW SS25\nEKOUAER NYFW SS25\nSeven Crash 2020FW\nSheguang Hu 2020FW\nBlancore 2020SS\nSienna Li 2020SS\nConsinee 2019\nConsinee 2018\nSienna Li 2019FW\nAmelie Wang 2019FW\nSeven Crash 2019FW\nSienna Li 2019SS\nVancy Law 2018SS\nMeiyue Cai 2018SS\nAbout\nMore\nUse tab to navigate through the menu items.\nSheguang Hu 2020FW\nOut of gallery\nbottom of page",
+      "image_captions": []
+    }
+  ],
+  "evidence_count": 1,
+  "crawled_at": "2026-04-23T16:12:11.528556+00:00"
+}

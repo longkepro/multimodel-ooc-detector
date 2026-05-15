@@ -1,0 +1,107 @@
+{
+  "sample_id": "true_223",
+  "image_url": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2012/03/chinaair1.jpg",
+  "visual_entities": [
+    {
+      "description": "Engine",
+      "score": 0.7297
+    },
+    {
+      "description": "Jet engine",
+      "score": 0.7132
+    },
+    {
+      "description": "Gates Micro-V Serpentine Belt k060747",
+      "score": 0.7127
+    },
+    {
+      "description": "Car",
+      "score": 0.71115
+    },
+    {
+      "description": "Seat belt",
+      "score": 0.7053
+    },
+    {
+      "description": "Airplane",
+      "score": 0.5676
+    },
+    {
+      "description": "front",
+      "score": 0.4833
+    },
+    {
+      "description": "back",
+      "score": 0.4728
+    },
+    {
+      "description": "Turbine engine failure",
+      "score": 0.4595
+    },
+    {
+      "description": "Serpentine belt",
+      "score": 0.4023
+    },
+    {
+      "description": "Citroën 2CV",
+      "score": 0.3933
+    },
+    {
+      "description": "Gates",
+      "score": 0.3098
+    }
+  ],
+  "best_guess_labels": [
+    "747 seat belt engine"
+  ],
+  "similar_image_urls": [
+    "https://mediaproxy.snopes.com/width/1200/height/900/https://media.snopes.com/2012/03/chinaair1.jpg",
+    "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2012/03/chinaair1.jpg",
+    "http://geo.tcz.pl/lotnicze/inne/chinese_image001.JPG",
+    "https://mediaproxy.snopes.com/width/600/https://media.snopes.com/2012/03/chinaair1.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiROTKfsCNFEaNkwJDeJ2DGknqCXyt1Cbf1TQxooolPVkXiQFlIdMiKA5ZHlzsm-4naPWX4SkMod3hH36bF1OYNXmUwr8MPw6NSsD9bm11JAUj4a0JZrQRb7v7M6C69qsxBiZ3vzhJLkzlT/s1600/Engine1image.jpg",
+    "http://ships.bouwman.com/Planes/ChinaAir-a.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1886773661734949",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiROTKfsCNFEaNkwJDeJ2DGknqCXyt1Cbf1TQxooolPVkXiQFlIdMiKA5ZHlzsm-4naPWX4SkMod3hH36bF1OYNXmUwr8MPw6NSsD9bm11JAUj4a0JZrQRb7v7M6C69qsxBiZ3vzhJLkzlT/s400/Engine1image.jpg",
+    "https://i0.wp.com/jachete.ci/wp-content/uploads/2022/10/1655347553748831153.jpg?resize=150%2C150&ssl=1"
+  ],
+  "evidence": [
+    {
+      "url": "https://karlenepetitt.blogspot.com/2013/11/chinese-jet-engine-maintenance.html",
+      "page_title": "Chinese Jet Engine Maintenance - Flight To Success",
+      "title": "Chinese Jet Engine Maintenance",
+      "description": "Truth or Fiction? A friend sent me the following post. Truth is often stranger than fiction . You decide the reality. But remember....",
+      "text": "A pilot for a Chinese carrier requested permission and landed at FRA ( Frankfurt , Germany ) for an unscheduled refueling stop. The reason became soon apparent to the ground crew: The Number 3 engine had been shutdown previously because of excessive vibration, and because it didn't look too good. It had apparently been no problem for the ground crew back in China: as they took some sturdy straps and wrapped them around two of the fan blades and the structures behind, thus stopping any unwanted wind-milling (engine spinning by itself due to airflow passing thru the blades during flight) and associated uncomfortable vibration caused by the sub optimal fan.\nNote that the straps are seat-belts.... how resourceful! After making the \"repairs\", off they went into the wild blue yonder with another revenue-making flight on only three engines!\nWith the increased fuel consumption, they got a bit low on fuel, and just set it down at the closest airport (FRA) for a quick refill.\nThat's when the problems started: The Germans, who are kind of picky about this stuff, inspected the malfunctioning engine and immediately grounded the aircraft. (Besides the seat-belts, notice the appalling condition of the fan blades.) The airline operator had to send a chunk of money to get the first engine replaced (took about 10 days). The repair contractor decided to do some impromptu inspection work on the other engines, none of which looked all that great either. The result: a total of 3 engines were eventually changed on this plane before it was permitted to fly again.\"",
+      "image_captions": [
+        "Shipping for all 8 available November 20, 2025",
+        "Normalization of Deviance"
+      ]
+    },
+    {
+      "url": "https://www.snopes.com/fact-check/fan-belt/",
+      "page_title": "Fan Belt | Snopes.com",
+      "title": "Fan Belt",
+      "description": "Photographs show a damaged jet engine repaired with seatbelts during a refueling stop?",
+      "text": "The photographs displayed above have been circulated since at least as far back as 2001, in versions with text attributing them to Air China as well as a number of different airlines, in each case accompanied by the claim that a ground crew had hastily (and dangerously) repaired damaged jet engines on one of the airline's planes by using seat belts to hold them together, and the plane had taken off on a commercial flight in that state. While the pictures do show an engine that has been removed from an aircraft, when and where they were taken (and whether they have any connection to Air China or any other airline) is unknown. Nonetheless, they do not document a case of substandard repairs or an occurrence anything like the circumstances described in the accompanying text. The pictures included in the e-mail show engine fan blades that have suffered foreign object damage (FOD) such as encountering a bird strike or a hail storm, and the \"seatbelts\" are tie-down straps used to secure the engine to a shipping stand as it is removed from the aircraft for inspection, repair, or replacement.",
+      "image_captions": []
+    },
+    {
+      "url": "http://ships.bouwman.com/Planes/Bad-Jet-Engine.html",
+      "page_title": "Bad Jet Engine",
+      "title": "Bad Jet Engine",
+      "description": "",
+      "text": "THE TRUTH WOULD BE\nHaving\nread the blog, it is very obvious the blogger knows little about\naviation or maybe it is a malicious attempt to tar the Chinese and the\nfollow-on comments from Netizens\nreflect that.\n1. It is hard to believe the\naircraft did a refueling stop in Frankfurt. Especially when the pilots\nhad known about the condition of the the engine and taken off.\nCertainly, if the PW4056 engine on the Air China Boeing B747-400 had\nthis condition at Beijing, it would not have taken off since AMECO,\nwhich maintains Air China Aircraft, would be well poised to change the\nengine at main base. Secondly, if it were flying back from Europe, a\nrefuel stop after an hour? out of Paris or London? Just doesn't make\nsense.\n2. With regards to seat belts\ntying in the fan blades. This is highly unlikely. A seat belt will not\nlast a second once the engine rumbles down the runway and will snap off\nimmediately. Even if those were not seat belts, using a tie belt would\nget Air China banned from flying to Western countries.\n3. Why would the other 3 engines\nbe removed too as 1 engine's damage should not be the basis for the\nremoval of the other engines.\nTherefore, based on the above observations, this is probably\nwhat happened.\nThe aircraft probably took off\nfrom a European Airport and encountered hail, which can be very serious\nFOD (Foreign Object Damage). Which in theory can damage the other\nengines and airframe as well. Flying into a flock of goose can cause\nthat too. The pilots obviously must have sensed the vibration and the\nVib reading on the EICAS page must have displayed a very high reading\n(a reading over 4 on the PW4056 is considered out of AMM limits) and\nnormal procedures will call for shutting down the engine immediately\nand land at the nearest airport, which in this case \"was\" Frankfurt.\nObviously someone at Lufthansa Tecknik took a picture and it\ngot circulated. Whereby some smart ass blogger picked it up and\nembellished the story to beyond what the actual story is.\nI BELIEVE THIS IS WHAT REALLY\nHAPPENED\nVern",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.snopes.com/tag/airplanes/?pagenum=4",
+      "page_title": "Airplanes Articles | Page 4 | Snopes.com",
+      "title": "Chemtrails Switch Photo",
+      "description": "",
+      "text": "Snopes\nNow available in the app store!\nOpen\nLog in to activate your ad-free access.\nIt looks like you might have a Snopes membership! Log in to enjoy your ad-free experience.\nLog In\nYou're browsing with fewer ads for the next 24 hours, thanks to our sponsor\n1440 Newsletter\n.\nLearn More\nSnopes Membership\nSearch\nMy Profile\nLogout\nSubmit a Rumor\nLatest\nTrending\nNews & Politics\nEntertainment\nFact Checks\nQuiz\nSections\nLatest\nTrending\nFact Checks\nNews\nCollections\nMore\nContact Us\nSubmit a Rumor\nArchives\nQuiz\nFactBot\nSubmit a Tip\nSnopes App\nNewsletters\nAbout Us\nCategories\nNews & Politics\nEntertainment\nScience & Technology\nLifestyle\nSnopes Membership\nLogin\nMy Profile\nLogout\nDonald Trump\nAI-generated Content\nPope Leo XIV\nJeffrey Epstein\nMelania Trump\nAirplanes\nChemtrails Switch Photo\nWritten by:\nDan Evon\nDec. 15, 2015\nA photograph of a chemtrails switch is fake.\nRead More\nDrone Strike\nWritten by:\nDan Evon\nJune 24, 2015\nRead More\nDoes This Video Capture the Ethiopian Airlines Crash?\nWritten by:\nDavid Mikkelson\nJuly 20, 2014\nTragedies are bad enough without misrepresenting them via repurposed videos.\nRead More\nTRUEL UTA Flight 772 Memorial\nWritten by:\nDavid Mikkelson\nNov. 4, 2013\nRumor: Photographs show a desert memorial constructed to honor the victims of UTA Flight 772.\nRead More\nWindow Seat\nWritten by:\nDavid Mikkelson\nSept. 24, 2012\nMitt Romney said he didn't know why airplane windows don't open?\nRead More\nJets Spell 'F*ck Off'\nWritten by:\nDavid Mikkelson\nDec. 5, 2011\nPhotograph shows military jets in formation spelling out an obscene phrase?\nRead More\nKulula — Flying 101\nWritten by:\nDavid Mikkelson\nJuly 13, 2010\nRumor: Photographs show an airliner with a 'Flying 101' exterior design.\nRead More\nVolcanic Ash Airplane Damage\nWritten by:\nDavid Mikkelson\nMay 23, 2010\nPhotographs show an airplane engine damaged by volcanic ash?\nRead More\nFlyover Denial\nWritten by:\nDavid Mikkelson\nFeb. 26, 2010\nDid the Department of Defense deny a request for a military flyover at the 2009 'God and Country ...\nRead More\nAirplane Hit by Lightning\nWritten by:\nDavid Mikkelson\nAug. 17, 2009\nPhotographs show an airliner that was struck by lightning?\nRead More\nF/A-18 Hornet Fly-By\nWritten by:\nDavid Mikkelson\nJuly 20, 2009\nRumor: Photograph shows an F/A-18 Hornet flying past a Detroit apartment building.\nRead More\nF-35 Vertical Takeoff Flip\nWritten by:\nDavid Mikkelson\nJune 2, 2009\nVideo clip shows an F-35 executing a vertical flip on takeoff.\nRead More\nHotelicopter - World's First Flying Hotel\nWritten by:\nDavid Mikkelson\nApril 23, 2009\nPhotographs show a 'hotelicopter,' a helicopter which houses an 18-room hotel?\nRead More\nDoes This Video Show a Plane Landing Safely After Losing a Wing?\nWritten by:\nDavid Mikkelson\nNov. 5, 2008\nA video clip that shows an airplane making a safe landing after losing a wing was a promotional ...\nRead More\nThe Tale of the Arab Flight Crew\nWritten by:\nDavid Mikkelson\nSept. 9, 2008\nPhotographs show an Airbus 340 that crashed into a wall during engine testing after technicians ...\nRead More\nF-15 Crash\nWritten by:\nDavid Mikkelson\nMay 5, 2008\nPhotographs show an F-15 fighter jet breaking up in mid-air.\nRead More\nAirplane With Panels Missing\nWritten by:\nDavid Mikkelson\nFeb. 19, 2008\nDoes a photograph show an in-flight airliner with panels missing from one of its engines?\nRead More\nBoeing 797\nWritten by:\nDavid Mikkelson\nJan. 16, 2008\nViral image dating from 2006 purports to show a new Boeing \"797\" blended-wing airliner.\nRead More\nFan Belt\nWritten by:\nDavid Mikkelson\nMarch 11, 2007\nPhotographs show a damaged jet engine repaired with seatbelts during a refueling stop?\nRead More\nDid This Plane Crash Into a Tree Next to a Sign Advertising Flight Lessons?\nWritten by:\nDavid Mikkelson\nJan. 15, 2007\nSometimes you don't have much choice about where to pick your spot.\nRead More\nPrevious\nNext\nPage: 4",
+      "image_captions": []
+    }
+  ],
+  "evidence_count": 4,
+  "crawled_at": "2026-04-23T17:55:02.911303+00:00"
+}

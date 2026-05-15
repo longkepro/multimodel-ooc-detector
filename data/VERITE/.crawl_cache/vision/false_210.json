@@ -1,0 +1,51 @@
+{
+  "sample_id": "false_210",
+  "image_url": "https://img.mensxp.com/media/content/2017/May/guy-photoshops-himself-sleeping-next-to-celebrities-652x400-5-1495682791.jpg",
+  "visual_entities": [
+    {
+      "description": "Sitting",
+      "score": 0.31698596
+    }
+  ],
+  "best_guess_labels": [
+    "sitting"
+  ],
+  "similar_image_urls": [
+    "https://kenh14cdn.com/zoom/640_360/2017/4-1495640274489-208-0-758-880-crop-1495641892940.jpg",
+    "https://sw-df-ads-scraping-creatives-production.s3.us-east-1.amazonaws.com/creatives/03f21f01f61d61c61d60f70379100100ffff_b3c218ad.jpeg?X-Amz-Expires=604800&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4GKBI5ER5IXVZOXV%2F20260406%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260406T220324Z&X-Amz-SignedHeaders=host&X-Amz-Signature=7850884493dd4f515ff7ab25182167cdfff4b81e97c5e3b97985d4ab88888105",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1169791373889016",
+    "https://images.dappei.com/uploads/article/cover/5928/large_f0d0c1b4d46a1e84.jpg",
+    "https://images.dappei.com/uploads/article_image/image/65786/medium_47488c0e3d0ae635.jpg",
+    "https://image.idntimes.com/post/20171005/image-16-453c844224464546a441ebfd4cb81cbf.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://kenh14.vn/khong-phai-trong-phim-robot-biet-bien-hinh-tu-o-to-da-buoc-ra-doi-thuc-20170525121012446.chn",
+      "page_title": "Không phải trong phim, robot biết biến hình từ ô tô đã bước ra đời thực",
+      "title": "Không phải trong phim, robot biết biến hình từ ô tô đã bước ra đời thực",
+      "description": "Con robot tưởng chừng như chỉ có trong phim khoa học viễn tưởng này còn có khả năng bắn súng.",
+      "text": "Một ông bố và một cậu con trai luôn là cặp đôi hoàn hảo nghĩ ra những ý tưởng độc lạ. Điển hình như mới đây, cặp bố con nhà Gennadiy Kocherga sống tại Nga đã cùng nhau tự chế một con robot siêu chất từ xe hơi để thỏa mãn đam mê sáng tạo của mình. Sản phẩm không chỉ khiến mọi người trầm trồ thán phục mà còn được mang đi triển lãm ở nhiều nơi.\nSiêu robot được chế tạo từ xe hơi của bố con nhà Kocherga.\nĐược biết, ông Gennadiy Kocherga và cậu con trai Sergey đã dành trọn 6 tháng để cải tiến chiếc xe hơi hiệu Lada của mình thành một con robot khổng lồ có tên là Optimus Gennadievich Praimov. Con robot này có khả năng di chuyển nhờ động cơ xe hơi. Không những thế, nó còn có khả năng bắn tỉa ra đạn như một siêu robot trong các bộ phim giả tưởng.\nSản phẩm này của hai bố con Kocherga đã trình diễn tại nhiều nơi trên cả nước Nga. Tất cả mọi người đều tỏ ra kinh ngạc khi nhìn thấy một chiếc xe hơi bỗng đứng thẳng lên, biến hình thành robot và nã đạn vào không trung.\nÔng Kocherga chia sẻ, bố con ông vẫn đang ấp ủ rất nhiều ý tưởng quái lạ. Vào năm tới, họ sẽ bắt đầu cải tiến thêm 2 chiếc xe hơi nữa với chủ đề tương tự.\nHình dạng chiếc xe lúc chưa biến đổi thành robot.\nKhông chỉ tự di chuyển được, nó còn có khả năng bắn ra đạn.\n(Nguồn: Mirror)",
+      "image_captions": [
+        "Không phải trong phim, robot biết biến hình từ ô tô đã bước ra đời thực - Ảnh 1.",
+        "Không phải trong phim, robot biết biến hình từ ô tô đã bước ra đời thực - Ảnh 2.",
+        "Không phải trong phim, robot biết biến hình từ ô tô đã bước ra đời thực - Ảnh 3."
+      ]
+    },
+    {
+      "url": "https://kenh14.vn/15-bi-kip-sang-chanh-giup-ban-song-sot-trong-xa-hoi-phong-bat-nay-2017101612450532.chn",
+      "page_title": "15 bí kíp sang chảnh giúp bạn sống sót trong xã hội phông bạt này",
+      "title": "15 bí kíp sang chảnh giúp bạn sống sót trong xã hội phông bạt này",
+      "description": "Nhờ tuyển tập những bí kíp sống ảo này, bạn sẽ nhận ra một điều rằng, xã hội thực sự không sang chảnh như chúng ta vẫn nghĩ chút nào.",
+      "text": "Nhờ tuyển tập những bí kíp sống ảo này, bạn sẽ nhận ra một điều rằng, xã hội thực sự không sang chảnh như chúng ta vẫn nghĩ chút nào.\n1. Có những tưởng chừng như to mà thực ra không phải.\n2. Muốn xách ba-lô lên và đi, mà không có tiền mua ba-lô nên lại thôi.\n3. Thích du thuyền, có du thuyền. Thậm chí là cả phi cơ, tàu vũ trụ riêng luôn.\n4. Tiền tiêu cả quyển nhưng mà là quyển sách.\n5. Khi chồng đi vắng và dặn vợ ở nhà nhớ ăn uống cẩn thận.\n6. Không có tiền mua Vitamin Sea thì đi biển giả vờ thôi.\n7. Không biết lần thứ bao nhiêu gặp anh hải quan trong tháng này rồi.\n8. Các cụ tư vấn cho em liệu ngựa màu đỏ có hợp phong thủy không ạ. Em mệnh Thổ.\n9. Combo thành đạt bây giờ phải là bốn bánh, đánh golf.\n10. Lâu lắm mới ghé thăm quê hương thứ hai mặc dù chưa bao giờ được đặt chân tới.\n11. Chưa tậu được nhà thì cứ ra IKEA diễn nhé chị em.\n12. Một góc vườn nhỏ xinh nhưng cả góc nhà là bãi rác.\n13. Dụng cụ nâng ngực thần thánh cho hội mẹ bỉm sữa chảy sệ.\n14. Thôi đừng nói chuyện trăm năm, năm trăm chả có trăm năm cái gì. Hãy cứ yêu thôi là đủ.\n15. Cách để 1 tờ 500 nghìn đẻ ra thành 4 tờ trong nháy mắt.\n(Nguồn: A.C)",
+      "image_captions": [
+        "15 bí kíp sang chảnh giúp bạn sống sót trong xã hội phông bạt này - Ảnh 1.",
+        "15 bí kíp sang chảnh giúp bạn sống sót trong xã hội phông bạt này - Ảnh 3.",
+        "15 bí kíp sang chảnh giúp bạn sống sót trong xã hội phông bạt này - Ảnh 5.",
+        "15 bí kíp sang chảnh giúp bạn sống sót trong xã hội phông bạt này - Ảnh 7.",
+        "15 bí kíp sang chảnh giúp bạn sống sót trong xã hội phông bạt này - Ảnh 9."
+      ]
+    }
+  ],
+  "evidence_count": 2,
+  "crawled_at": "2026-04-23T17:51:56.201761+00:00"
+}

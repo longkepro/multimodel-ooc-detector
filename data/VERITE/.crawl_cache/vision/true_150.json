@@ -1,0 +1,101 @@
+{
+  "sample_id": "true_150",
+  "image_url": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2018/08/stoning.jpg",
+  "visual_entities": [
+    {
+      "description": "Pakhshan Azizi",
+      "score": 6.2279997
+    },
+    {
+      "description": "Iran",
+      "score": 1.07325
+    },
+    {
+      "description": "",
+      "score": 0.7286
+    },
+    {
+      "description": "",
+      "score": 0.7155
+    },
+    {
+      "description": "Women's rights",
+      "score": 0.6843
+    },
+    {
+      "description": "Stoning",
+      "score": 0.5197
+    },
+    {
+      "description": "Women in Islam",
+      "score": 0.4837
+    },
+    {
+      "description": "women in Iran",
+      "score": 0.4195
+    },
+    {
+      "description": "women's rights in Iran",
+      "score": 0.3907
+    }
+  ],
+  "best_guess_labels": [
+    "iran kadin taslama"
+  ],
+  "similar_image_urls": [
+    "https://www.snopes.com/tachyon/2018/08/stoning.jpg",
+    "https://www.malumatfurus.org/wp-content/uploads/2024/03/boynuna-kadar-topraga-gomulen.jpg",
+    "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2018/08/stoning.jpg",
+    "https://mediaproxy.snopes.com/width/600/https://media.snopes.com/2018/08/stoning.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=26269269232668651",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=443833889555124",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=25359718780327174",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10242273816523044",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=122349894722009524",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=25383807391296535"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.snopes.com/fact-check/buried-woman-stoned-photo/",
+      "page_title": "Does This Photograph Show a Woman About to Be Stoned to Death ...",
+      "title": "Does This Photograph Show a Woman About to Be Stoned to Death in Iran?",
+      "description": "Iran has been criticized by the international community for allowing the use of stoning as a form of capital punishment",
+      "text": "A post repeatedly shared on social media features a photograph of a woman completely buried in the ground up to her neck, being fed water from a spoon by an onlooker. The claim offered in conjunction with this image is that it depicts a woman \"about to be stoned to death\" in Iran, who is being \"allowed ...a spoonful of water before her agonizing death:\"\nA******s of Thornton Reuters here is a lady who is 'allowed' 3 sips of water before being stoned to death. How safe is she, according to you ? pic.twitter.com/Kaiuu8xM4c\n— Gita S. Kapoor (@GitaSKapoor) June 28, 2018\nAlthough Iran has been criticized for allowing the use of stoning as a form of capital punishment (either officially or extrajudicially), the photograph shown above has nothing to do with a stoning, Islam, Sharia law, Iran, or any form of execution or punishment.\nThe buried person pictured here is a 66-year-old Colombian woman named Maria Gabriela Ruiz, one of three people who voluntarily remained buried up to their necks in the ground for days on end in July 2003, as a protest over the government's failure to relocate 150 displaced persons to a safer part of the city of Cali.\nMultiple news coverage photographs documented the protest, with the picture shown above being captioned as follows:\nColombian Maria Gabriela Ruiz, 66, is aided by a woman while she lies buried in the ground up to her neck along with Olmedo Gomez, 42, and Nicolas Salazar, 32, during a protest in a popular sector of Cali, July 4, 2003. Three people, two men and a woman, buried themselves three days ago in protest against the government because 150 displaced persons have not been relocated to a safe sector of Cali.",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.snopes.com/latest/?pagenum=873",
+      "page_title": "What's New | Page 873 | Snopes.com",
+      "title": "Facts Behind the Arrest of an Immigrant Accompanying His Pregnant Wife to the Hospital Remain Unclear",
+      "description": "All the latest rumors, urban legends, myths and misinformation gathered together in one nifty list.",
+      "text": "Facts Behind the Arrest of an Immigrant Accompanying His Pregnant Wife to the Hospital Remain Unclear\nWritten by:\nArturo Garcia\nBethania Palma\nAug. 21, 2018 (Updated: Sept. 4, 2018)\nAfter making a controversial arrest in San Bernardino, ICE said Joel Arrona-Lara was wanted in M ...",
+      "image_captions": [
+        "Lights on a police car"
+      ]
+    },
+    {
+      "url": "https://www.snopes.com/fact-check/rating/miscaptioned/?pagenum=41",
+      "page_title": "Archives | Page 41 | Snopes.com",
+      "title": "Is This a Picture of Christine Blasey Ford in 1982?",
+      "description": "This rating is used with photographs and videos that are “real” (i.e., not the product, partially or wholly, of digital manipulation) but are nonetheless misleading because they are accompanied by explanatory material that falsely describes their origin, context, and/or meaning.",
+      "text": "This rating is used with photographs and videos that are “real” (i.e., not the product, partially or wholly, of digital manipulation) but are nonetheless misleading because they are accompanied by explanatory material that falsely describes their origin, context, and/or meaning.\nLearn more about our rating system here.",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.malumatfurus.org/topraga-gomulerek-taslanan/",
+      "page_title": "Şeriata Göre Toprağa Gömülerek Taşlanıp Öldürülen İranlı Kadına ...",
+      "title": "Şeriata Göre Toprağa Gömülerek Taşlanıp Öldürülen İranlı Kadına Ait Sanılan Kolombiya'dan Protesto Fotoğrafı - Malumatfuruş",
+      "description": "İran'da bir kadının taşlanarak öldürülmeden önce ağzına su verildiği anı yansıttığı iddiasıyla paylaşılan fotoğraf 2003 yılında Kolombiya'da bir protesto esnasında kaydedilmiş.",
+      "text": "Fotoğrafta Boynuna Kadar Toprağa Gömülüyken Ağzına Su Verilen Yaşlı Kadının İran’da Şeriata Göre Taşlanarak Öldürüldüğü İddiası Doğru Değil\nBir kadının İran’da şeriata göre boynuna kadar toprağa gömülerek taşlanarak öldürülmesinden hemen öncesine ait olduğu iddiasıyla paylaşılan fotoğrafa değineceğiz…\nToprağa gömülmüş bir kadının ağzına kaşıkla su verildiği ana ait fotoğrafın orijinali şöyle:\nSöz konusu fotoğrafı İran’da taşlanarak öldürülmek üzere olan kadının bir kaşık su içmesine izin verildiği ana ait olduğu iddiasıyla sunan paylaşım örneği:\nChegue Vega (@cheguevega): “Taşlanmadan önce bi yudum suyu esirgemeyen barış ve hoşgörü dininden sıcacık bir kare. Hayırlı Cumalar”\nFotoğrafın İran’la, recmle, şeriatla ya da herhangi bir infaz ya da cezayla bir ilgisi bulunmuyor.\nİran’da bir kadının şeriata göre hakkında verilen recm kararı gereği taşlanarak öldürülmeden önce ağzına su verildiği anı yansıttığı iddiasıyla paylaşılan fotoğraf 2003 yılında Kolombiya’da bir protesto esnasında kaydedilmiş.\nMaria Gabriella Ruiz adlı 1937 doğumlu Kolombiyalı kadın, hükümetin yerinden edilmiş 150 kişiyi Cali şehrine güvenli bir şekilde yerleştirmemesini protesto etmek amacıyla kendini 4 Temmuz 2003 tarihinde boğazına kadar toprağa gömdürmüş.\nReuters fotoğrafçısı Eduardo Munoz tarafından kaydedilen protestosu fotoğrafı “Üç gün önce, yerinden edilmiş 150 kişi Cali’nin güvenli bir bölgesine yerleştirilmediği için üç kişi, iki erkek ve bir kadın, hükümeti protesto etmek için kendilerini gömdüler.” açıklamasıyla yayınlanmış.\nStok fotoğraf sitelerinde de yer alan bahsi geçen görselin künyesinde şu metne yer verilmiş:\n“Kolombiyalı Maria Gabriela Ruiz (66) (C), Kolombiya’nın popüler bir bölümünde düzenlenen protesto sırasında Olmedo Gomez (42) (altta) ve Nicolas Salazar (32) ile birlikte boynuna kadar yere gömülü halde yatan bir kadın tarafından destekleniyor. Cali, 4 Temmuz 2003. Üç gün önce iki erkek ve bir kadın olmak üzere üç kişi, yerinden edilmiş 150 kişinin Cali’nin güvenli bir bölgesine taşınmaması nedeniyle hükümeti protesto etmek amacıyla kendilerini gömdüler. REUTERS/Eduardo Munoz JMG/HB”",
+      "image_captions": [
+        "boynuna-kadar-topraga-gomulen",
+        "basina-kadar-topraga-gomulen",
+        "boynuna-kadar-topraga-gomulen-kadin",
+        "topraga-gomulen-kadin",
+        "İran'da devlet yöneticilerini koronavirüsten korunmak için cemaatle namaz kılarken maske takarken gösteren montaj fotoğraf"
+      ]
+    }
+  ],
+  "evidence_count": 4,
+  "crawled_at": "2026-04-23T17:35:14.401860+00:00"
+}

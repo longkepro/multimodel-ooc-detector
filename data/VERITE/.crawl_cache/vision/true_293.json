@@ -1,0 +1,95 @@
+{
+  "sample_id": "true_293",
+  "image_url": "https://pbs.twimg.com/media/FRnYay6X0AEMPQA?format=jpg&name=900x900",
+  "visual_entities": [
+    {
+      "description": "Russia",
+      "score": 1.0674
+    },
+    {
+      "description": "",
+      "score": 0.7333
+    },
+    {
+      "description": "",
+      "score": 0.7116
+    },
+    {
+      "description": "Cold War",
+      "score": 0.6141
+    },
+    {
+      "description": "Armband",
+      "score": 0.5873
+    },
+    {
+      "description": "World War II",
+      "score": 0.55935
+    },
+    {
+      "description": "",
+      "score": 0.5554
+    },
+    {
+      "description": "Victory Day",
+      "score": 0.4036
+    },
+    {
+      "description": "Russian Fascist Party",
+      "score": 0.3989
+    },
+    {
+      "description": "Sold",
+      "score": 0.3987
+    },
+    {
+      "description": "connect",
+      "score": 0.3891
+    },
+    {
+      "description": "Communism in Russia",
+      "score": 0.3799
+    }
+  ],
+  "best_guess_labels": [
+    "soviet armband"
+  ],
+  "similar_image_urls": [
+    "https://lansinginstitute.org/wp-content/uploads/2022/05/08c20000-0a00-0242-46e0-08da2c30301d_cx0_cy7_cw0_w1200_r1.jpg",
+    "https://lansinginstitute.org/wp-content/uploads/2022/05/08c20000-0a00-0242-46e0-08da2c30301d_cx0_cy7_cw0_w1200_r1-1024x576.jpg",
+    "https://photos.tf1info.fr/images/700/700/l-armee-russe-va-t-elle-defiler-avec-un-brassard-rouge-2a9bd7-0@1x.jpeg",
+    "https://lansinginstitute.org/wp-content/uploads/2022/05/08c20000-0a00-0242-46e0-08da2c30301d_cx0_cy7_cw0_w1200_r1-768x432.jpg",
+    "https://gdb.rferl.org/08c20000-0a00-0242-46e0-08da2c30301d_cx0_cy8_cw0_w408_r1.jpg",
+    "https://gdb.rferl.org/08c20000-0a00-0242-46e0-08da2c30301d_cx0_cy8_cw0_w1071_r1_s_d3.jpg",
+    "https://gdb.voanews.com/02d10000-0aff-0242-da80-08da2c68d734_w1080_h608_s.jpg",
+    "https://pbs.twimg.com/media/FRnSkUEX0AEzjA2.jpg?format=jpg&name=thumb",
+    "https://pbs.twimg.com/media/FRnSlDVXEAQ14ax.jpg?format=jpg&name=thumb"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.rferl.org/a/weeks-best-stories-radio-free-europe/31835674.html",
+      "page_title": "The Week's Best: 10 Stories And Videos You Shouldn't Miss",
+      "title": "The Week's Best: 10 Stories And Videos You Shouldn't Miss",
+      "description": "Here are some of the highlights produced by RFE/RL's team of correspondents, multimedia editors, and visual journalists over the past seven days.",
+      "text": "Here are some of the highlights produced by RFE/RL's team of correspondents, multimedia editors, and visual journalists over the past seven days, including content from Gandhara, the RFE/RL website focusing exclusively on developments in Afghanistan and Pakistan.\nWar In Ukraine: Unfiltered\nSince Russia began its new invasion of Ukraine on February 24, journalists from RFE/RL and Current Time have been in the thick of the action. From frontline combat, to the flood of refugees, casualty wards, and the grisly business of identifying corpses and gathering evidence of war crimes, our coverage has chronicled every aspect of the war. To mark World Press Freedom Day on May 3, we look back at our reporting on the conflict. By By Ray Furlong, RFE/RL's Ukrainian Service, and Current Time\n'They Described How I Would Die In Agony': Ukrainian Journalist Recounts His Brutal Week As A Russian Prisoner\nIn March, Ukrainian journalist Oleh Baturin was abducted in the Russia-occupied Kherson region and held prisoner for eight days. He told RFE/RL about the beatings, interrogations, and mistreatment he endured as retaliation for his reporting. By Oleksandr Yankovskiy\nAfghan TV Pioneer Absorbs Taliban's Blows As Picture Dims For Free Media\nTolo's sister television networks made their mark on the Afghan media scene with a diverse line-up of hard-hitting news and cutting-edge entertainment options. But as Afghans tune in on World Press Freedom Day, they won't be getting the full picture. By Michael Scollon and RFE/RL's Radio Azadi\nIranian Hacktivist Speaks Out About Cyberattacks On Government\nA hacking group called Ali's Justice has been waging a campaign against Iranian state organizations to expose abuses and corruption in the repressive theocratic regime. RFE/RL's Radio Farda has spoken to an anonymous member of Ali's Justice about the group's hacking into Iranian prisons, airlines, media, and more to leak images and information that shines a light on the \"dark secrets\" of the Iranian government. By RFE/RL's Radio Farda\n'We Have To Save The Media': After Two Years Under Attack, Belarusian Journalists Fight To Survive\nEver since democracy supporters in Belarus rose up after Alyaksandr Lukashenka extended his rule in a 2020 election that millions say he stole, journalists have been in the regime's sights. Now at least 24 journalists are behind bars, while others struggle to reach their audiences from abroad. By RFE/RL's Belarus Service\n'I Came To Identify My Son': In Bucha, Relatives Retrieve Bodies Of Loved Ones\nRelatives of people killed in the Kyiv suburb of Bucha are trying to identify and retrieve the bodies of family members. Ukraine says more than 1,000 bodies have been discovered in or around Bucha since Russian forces withdrew in April, with many showing signs of torture. By RFE/RL's Ukrainian Service\nBeauty Ban: Turkmenistan Puts Severe Restrictions On Women's Appearance, Ability To Travel\nTurkmenistan is enforcing new restrictions on women, banning them from wearing certain beauty accessories, riding in a car with men who are not relatives, or undergoing plastic surgery. Dozens of women have lost their jobs or were forced to pay fines in recent weeks after breaching the new rules, which some believe might lead to unprecedented public protests. By Farangis Najibullah and RFE/RL’s Turkmen Service\nVictory Day Mobilization Call Unlikely, But Putin Will Seek To Mobilize Society\nIn Vladimir Putin’s Russia, May 9 has become the most ideologically charged date on the calendar, and this year there’s speculation that he might use the Victory Day ceremonies to make major policy announcements about the war in Ukraine. By Robert Coalson\nRussian Armband Photos Cause Storm Online\nStriking photos from Victory Day rehearsals show uniformed Russians wearing armbands reminiscent of Nazi outfits, but most online commenters omitted a key detail. By RFE/RL\nStanislau Shushkevich, The First Leader Of Independent Belarus\nStanislau Shushkevich, the first leader of independent Belarus, a signatory of the agreement that effectively dissolved the Soviet Union, and a staunch foe of the autocratic leader Alyaksandr Lukashenka, has died at 87. By Todd Prince",
+      "image_captions": [
+        "RUSSIA -- Russian servicewomen march during a Victory Day parade rehearsal",
+        "War In Ukraine: Unfiltered",
+        "Iranian Hacktivist Speaks Out About Cyberattacks On Government",
+        "'I Came To Identify My Son': In Bucha, Relatives Retrieve Bodies Of Loved Ones"
+      ]
+    },
+    {
+      "url": "https://greensutrafarms.com/shop/products/10167699/",
+      "page_title": "Soviet military armband \"On duty\" soviet period Original '89",
+      "title": "Greensutra Farms Saraswati Farm Villas - Premium 4 BHK Villas Kanhe Phata",
+      "description": "All our properties & villas have their own unique features to make your staycation off the grid. We offer well-appointed rooms to settle into with renewed safety protocol. Our elegant indoor and outdoor venues offer the perfect setting for business events and weddings or private celebrations, with customized chef curated menu and premium hospitality. With no hidden charges or extra fees, you can enjoy your sejour at peace! Enter a world of tranquillity and relaxation with an extensive selection of luxurious private properties.",
+      "text": "If a picture is worth a thousand words, then the best views of Lonavala will leave you speechless. Lonavala is always a good idea for special celebrations. Waking up to rolling plains, unobstructed views of mountains, witnessing the many hues of the skies, the calming sound of water babbling down a stream, mesmerising nature and a perfect weather is what makes a getaway here such a relaxing, yet reinvigorating endeavour. Take a stroll in the woods or snuggle up around the bonfire with your loved ones on a crisp winter's night, or pay a visit to historical forts and ancient caves around. Choices here are limitless.\nEXPLOREMAHABALESHWAR\nComing soon\nPANCHGANI\nComing soon\nA farmhouse property by\nGreensutra farms, incepted in 2021, a staycation venture where you can book private luxury villas, family resorts or premium modern villas, with highest security & hygiene standards, to choose from the range of choices available. All our properties come with luxurious comforts like swimming pool, party lawn for cocktails and celebration, jacuzzi, in house chefs for the tastiest delicacies to devour, huge indoor & outdoor areas for fun, frolic or fitness and much more. Enjoy blissful moments with your loved ones amidst picturesque views while you stay with us. We desire to provide you ahassle-free experience & are a complete solution under one umbrella for that momentous staycation for you, your family& friends!",
+      "image_captions": [
+        "Greensutra Farms logo"
+      ]
+    }
+  ],
+  "evidence_count": 2,
+  "crawled_at": "2026-04-23T18:53:13.187535+00:00"
+}

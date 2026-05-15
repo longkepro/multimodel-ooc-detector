@@ -1,0 +1,96 @@
+{
+  "sample_id": "true_23",
+  "image_url": "https://ichef.bbci.co.uk/news/2048/cpsprodpb/174C0/production/_117342459_pa-1724261.jpg",
+  "visual_entities": [
+    {
+      "description": "Prince Philip",
+      "score": 1.4992499
+    },
+    {
+      "description": "Elizabeth II",
+      "score": 1.0541999
+    },
+    {
+      "description": "Coronation of Elizabeth II",
+      "score": 0.79515
+    },
+    {
+      "description": "Buckingham Palace",
+      "score": 0.76935
+    },
+    {
+      "description": "British royal family",
+      "score": 0.7083
+    },
+    {
+      "description": "Duke of Edinburgh",
+      "score": 0.5176
+    },
+    {
+      "description": "official",
+      "score": 0.3991
+    },
+    {
+      "description": "Photograph",
+      "score": 0.3044
+    }
+  ],
+  "best_guess_labels": [
+    "queen elizabeth prince philip prank"
+  ],
+  "similar_image_urls": [
+    "http://c.files.bbci.co.uk/174C0/production/_117342459_pa-1724261.jpg",
+    "https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/174C0/production/_117342459_pa-1724261.jpg",
+    "https://img2.reactor.cc/pics/post/full/%D0%95%D0%BB%D0%B8%D0%B7%D0%B0%D0%B2%D0%B5%D1%82%D0%B0-II-%D0%9F%D1%80%D0%B8%D0%BD%D1%86-%D0%A4%D0%B8%D0%BB%D0%B8%D0%BF%D0%BF-%D0%BC%D1%83%D0%B6-%D0%B8-%D0%B6%D0%B5%D0%BD%D0%B0-%D0%BA%D0%BE%D1%80%D0%BE%D0%BB%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9-%D0%B3%D0%B2%D0%B0%D1%80%D0%B4%D0%B5%D0%B5%D1%86-6609131.jpeg",
+    "https://www.thetimes.com/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F16931774-30f2-11e7-aef5-2d8dbd8d80b5.jpg?crop=2722%2C4083%2C0%2C0",
+    "https://cdn.i-scmp.com/sites/default/files/d8/images/canvas/2022/04/08/4eec6a68-caec-40e4-ad73-54c3c64a18f9_b44becfd.jpg",
+    "https://image.libelle.nl/272664835/width/2048/koningin-elizabeth-queen-mythes-doorgeprikt-100",
+    "https://stat.ameba.jp/user_images/20210411/21/popular2/b6/66/j/o2048308114924898079.jpg",
+    "https://cdn.mos.cms.futurecdn.net/gY2aeYnsp6oTMFRkvkgJ6T.jpg",
+    "https://cdn.hk01.com/di/media/images/2115393/org/be10e4709a444ece360409fec921f28d.jpg/J-kxurYomg4VLDYeFWpP_bR0ZE3DEdfUhCt2F4Qrdhc",
+    "https://media.extra.cz/static/img/2026/04/profimedia-0355292965-1600.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://apnews.com/article/fact-check-queen-elizabeth-prince-philip-laughing-063616404261",
+      "page_title": "Photo shows queen laughing at bees, not Prince Philip | AP News",
+      "title": "Photo shows queen laughing at bees, not Prince Philip",
+      "description": "False. Though the photo is a real image from 2003, the queen was actually reacting to a swarm of bees that had interrupted a review of a British Army regiment, according to the original caption and the photographer.",
+      "text": "Photo shows queen laughing at bees, not Prince Philip\nCLAIM: A photo shows Queen Elizabeth II laughing at her husband, Prince Philip, who pranked her by dressing up as a palace guard.\nAP’S ASSESSMENT: False. Though the photo is a real image from 2003, the queen was actually reacting to a swarm of bees that had interrupted a review of a British Army regiment, according to the original caption and the photographer. Philip, who was the colonel of that regiment, was dressed in its uniform, as he had done before on multiple occasions.\nTHE FACTS: Following the death of the queen on Thursday, a well-known photo in which she can be seen laughing alongside Philip at a 2003 review of the Queen’s Company of the Grenadier Guards spread widely on social media.\nPhilip, who was the colonel of the Grenadier Guards, an infantry regiment of the British Army known for its role guarding the country’s royal palaces, for more than 40 years, is pictured dressed in his guardsman uniform, which includes a bearskin hat. Many sharing the photo falsely claimed that Elizabeth was laughing at her husband’s attire.\n“The image shows Queen Elizabeth giggling next to Prince Philip, who is dressed in his military uniform complete with a tall bearskin hat,” an Instagram post featuring the image, which received more than 43,000 likes, claimed. “He ‘pranked’ the Queen by dressing up as a palace guard, causing her to laugh when she noticed it was actually her husband under the hat.”\nA similar tweet read, “Prince Phillip trying to prank Queen Elizabeth by dressing as a guard on her way to Buckingham Palace. We could see a smile on the Queen’s face.” It received nearly 4,000 likes and more than 400 shares.\nHowever, there was nothing unusual about Philip appearing in a Grenadier Guards uniform given that he was the regiment’s colonel. He was photographed wearing the uniform on many occasions over the years.\nThe original caption on the photo, and others taken that day, shows the queen was actually amused by the chaos that ensued after a swarm of bees interrupted the event’s proceedings. The photo was taken on April 15, 2003, at Windsor Castle by Chris Young, who was the only press photographer at the event, on behalf of the Press Association news agency.\n“Her Majesty The Queen and Prince Philip enjoy the spectacle, as a swarm of bees cause concern prior to The [Queen’s] Company Review at Windsor Castle,” reads the Press Association caption.\nAn Associated Press caption for the image has similar language, and also states: “A beekeeper removed the swarm, which had gathered on one of the [dignitaries’] chairs, prior to the ceremony.”\nOther Press Association photos in the series clearly show the bees, as well as additional reactions from the queen, Philip, the guardsmen, and guests at the event.\nYoung confirmed to the AP in a phone interview on Friday that it did not appear to him that the queen was laughing at her husband.\n“I remember her, like, bursting out laughing, so I started shooting it and then I looked over to my right and saw absolute carnage — people running around, bees flying around — she was laughing her ass off and he was smiling,” Young said of the queen and Philip’s reactions to the scene.\n“There’s pictures of her going towards people after they’d moved and after the royal beekeeper had come and removed all the bees. And they’re looking over and laughing at the scene,” Young added.\nThe Press Association caption of one such photo states, “Queen Elizabeth II shares a joke with Lt. Col. Lesinski, Grenadier Guards, regarding a swarm of bees, on the lawn of Windsor Castle.”\nElizabeth died at Balmoral Castle on Thursday at age 96, automatically making her eldest son, Charles, king. Philip died at age 99 on April 9, 2021, at Windsor Castle.\n___\nThis is part of AP’s effort to address widely shared misinformation, including work with outside companies and organizations to add factual context to misleading content that is circulating online. Learn more about fact-checking at AP.",
+      "image_captions": [
+        "FILE - In this Tuesday April 15, 2003 file photo, Britain’s Queen Elizabeth II and Prince Philip prior to The Queen’s Company Grenadier Guards ceremonial review at Windsor Castle, Windsor, England. Some on social media shared it with a false caption — the queen was reacting to bees that interrupted an event, not laughing at a “prank” by Philip. (AP Photo/Chris Young, Pool, file)",
+        "FILE - In this Tuesday April 15, 2003 file photo, Britain's Queen Elizabeth II and Prince Philip prior to The Queen's Company Grenadier Guards ceremonial review at Windsor Castle, Windsor, England. Some on social media shared it with a false caption — the queen was reacting to bees that interrupted an event, not laughing at a “prank” by Philip. (AP Photo/Chris Young, Pool, file)"
+      ]
+    },
+    {
+      "url": "https://www.nzherald.co.nz/lifestyle/the-truth-behind-that-viral-photo-of-queen-elizabeth-ii-giggling-with-prince-philip/TGKVUQHRMJZTYTDEAITISFTUZY/",
+      "page_title": "The truth behind that viral photo of Queen Elizabeth II giggling with ...",
+      "title": "What's really happening in that viral photo of the Queen giggling with Prince Philip",
+      "description": "The photographer has described what was happening when he took the photo.",
+      "text": "It's the photograph that has gone around the world, as people mourn Prince Philip and reflect on his relationship with his wife of 73 years, Queen Elizabeth II.\nAmong the many tributes to the Queen and Prince Philip, the photo has been shared with many claiming it shows the Queengiggling as she walks past the Duke of Edinburgh, because she did not know she'd see him in full Guards uniform.\nThe image shows Philip standing off to the side as his wife, Queen Elizabeth II, walks past him with a big grin.\nMany people online claim she was giggling because the duke was pranking her by dressing up as a palace guard.\nHowever, the truth is quite different to the story that has been spreading.\nAccording to Snopes, a website dedicated to debunking online theories, the duke was not pranking the Queen and that was not why she was laughing.\nWhat the photo actually shows is the Queen laughing after a swarm of bees interrupted a ceremonial review of the Grenadier Guards at Windsor Castle in 2003.\n❌ No, Elizabeth and Philip aren't laughing because he pranked her by dressing as a palace guard.\nIt was as she walked past him that some commotion happened, as a swarm of bees was discovered.\nA beekeeper removed the swarm, which had gathered on one of the dignitary's chairs, prior to the ceremony.\nChris Young, who took the photograph, told the BBC this week that he spotted the swarm of bees and was lucky to capture that candid moment between the couple.\n\"I got lucky,\" he told the BBC. \"I recognised that it was a human moment. She was giggling like a little girl and he was laughing too.\"\n\"I thought the reaction from both of them was pretty unique. Some of the guests were unsure as to whether they should move, but eventually everyone had to beat a retreat.\"",
+      "image_captions": [
+        "PM Jacinda Ardern spoke about the death of Prince Philip, announcing that a service would be held in Wellington on April 21st. Video / Mark Mitchell",
+        "Photo / Chris Young/Getty Images",
+        "The cause of the giggles. Photo / Getty Images",
+        "Why magnesium is crucial for health – and how to get more of it (without taking a pill)",
+        "Just 2 minutes a day of this type of exercise may help you live longer"
+      ]
+    },
+    {
+      "url": "https://www.eonline.com/news/848369/queen-elizabeth-ii-and-prince-philips-love-story-celebrate-the-royal-couples-73-years-of-marriage",
+      "page_title": "Queen Elizabeth II and Prince Philip's Love Story - E! News",
+      "title": "Queen Elizabeth II and Prince Philip's Love Story: Celebrate the Royal Couple's 73 Years of Marriage",
+      "description": "Queen Elizabeth II and Prince Philip tied the knot in 1947 outside Westminster Abbey. Since then, the pair became one of the royal family's longest relationships.",
+      "text": "While there are many love stories to admire within the royal family, Queen Elizabeth ll and Prince Philip's bond is extra deserving of a celebration.\nOn April 9, the royal family shared in a statement that Philip had passed away at 99. \"It is with deep sorrow that Her Majesty The Queen has announced the death of her beloved husband, His Royal Highness The Prince Philip, Duke of Edinburgh,\" the statement read. \"His Royal Highness passed away peacefully this morning at Windsor Castle. The Royal Family join with people around the world in mourning his loss.\"\nThe death leaves what could only be a heartbreaking loss for the Queen, who has had Philip in her life for nearly eight decades.\nSo how did this love story begin? As it turns out, the pair first met when Elizabeth was 13 and Philip was 18. Thanks to the power of love letters, chemistry and similar interests, the couple secretly got engaged in the summer of 1946.\nLess than one year later, the pair wed before 2,000 guests at Westminster Abbey. While it was certainly a romantic ceremony, it also marked one of the first royal festivities since the end of World War ll.\nBack in February of this year, Prince Philip was hospitalized as a precautionary measure on the advice of his doctor. At the time, Buckingham Palace said he was \"feeling unwell.\" He underwent a procedure for a pre-existing heart condition March 4 and was later released March 16.\nThrough the ups and downs of life, Prince Philip and Queen Elizabeth savored all of their time together whether in public or in private.\n\"I take this opportunity to mention the strength I draw from my own family,\" the Queen once shared during a Golden Jubilee speech. \"The Duke of Edinburgh has made an invaluable contribution to my life over these past 50 years.\" Take a look at their love story below.",
+      "image_captions": [
+        "1947: The EngagementPrincess Elizabeth met Philip Mountbatten at age 13 on a tour of the Royal Naval College in 1939. As the story goes, the two fell in love and began a written correspondence that led to Philip asking the King for Elizabeth's hand in marriage in 1946. Shortly after announcing their engagement, the royal couple posed for this precious photo at Buckingham Palace.",
+        "1947: The Royal WeddingThe pair married Nov. 20, 1947 at Westminster Abbey. Just look at her gown! The marriage was a major national celebration, but came at a hard time for the country, which was still recovering from World War II.",
+        "1947: The HoneymoonAfter their honeymoon, the happy couple took a stroll in the gardens at Broadlands in Hampshire.",
+        "1948: A Prince is BornPhilip stood behind Elizabeth, who cradled Prince Charles after his christening at Buckingham Palace.",
+        "1949: Horsing AroundThe cute couple attended a Royal Horse Show at Windsor. They may have been there for the horses, but they only got eyes for each other."
+      ]
+    }
+  ],
+  "evidence_count": 3,
+  "crawled_at": "2026-04-23T16:51:23.678303+00:00"
+}

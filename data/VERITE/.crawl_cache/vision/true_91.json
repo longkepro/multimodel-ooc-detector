@@ -1,0 +1,109 @@
+{
+  "sample_id": "true_91",
+  "image_url": "https://i.insider.com/585ae8d3ee14b651008b49f6?width=1000&format=jpeg&auto=webp",
+  "visual_entities": [
+    {
+      "description": "Silicon Valley",
+      "score": 0.75885004
+    },
+    {
+      "description": "Poverty",
+      "score": 0.7376
+    },
+    {
+      "description": "Economic inequality",
+      "score": 0.701
+    },
+    {
+      "description": "Scott Budman",
+      "score": 0.58605003
+    },
+    {
+      "description": "rich",
+      "score": 0.5591
+    },
+    {
+      "description": "Wealth",
+      "score": 0.5458
+    },
+    {
+      "description": "Child poverty",
+      "score": 0.4672
+    },
+    {
+      "description": "Poverty threshold",
+      "score": 0.4171
+    },
+    {
+      "description": "Prosperity",
+      "score": 0.3981
+    },
+    {
+      "description": "Joint Venture Silicon Valley",
+      "score": 0.3699
+    },
+    {
+      "description": "just",
+      "score": 0.3553
+    },
+    {
+      "description": "Economy",
+      "score": 0.3465
+    },
+    {
+      "description": "Poverty industry",
+      "score": 0.3068
+    }
+  ],
+  "best_guess_labels": [
+    "poverty in silicon valley"
+  ],
+  "similar_image_urls": [
+    "https://i.insider.com/548204b5eab8ea887a049f78?width=800&format=jpeg&auto=webp",
+    "https://i.insider.com/585ae8d3ee14b651008b49f6?width=800&format=jpeg&auto=webp",
+    "https://inthebible.life/wp-content/uploads/2020/08/1597352910296-768x576.jpg",
+    "https://static.europe1.fr/var/europe1/storage/media/image/2025/02/18/12/le-bidonville-de-la-silicon-valley-demantele.jpg",
+    "https://static.europe1.fr/var/europe1/storage/styles/image_750_422/public/media/image/2025/02/18/12/le-bidonville-de-la-silicon-valley-demantele.jpg?itok=x5iiLSzy"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.businessinsider.com/silicon-valleys-prosperity-paradox-explained-2016-12",
+      "page_title": "Silicon Valley's 'Prosperity Paradox' Explains Rampant Poverty",
+      "title": "Silicon Valley's 'prosperity paradox' explains how 76,000 millionaires and billionaires fail to fix local poverty",
+      "description": "There is a profound gap in how Silicon Valley's wealthiest residents think and talk about philanthropy and how nonprofits operate. But that gap can be closed.",
+      "text": "Silicon Valley is a land of extremes.\nAt one end are California's wealthy and super-wealthy — the 76,000 millionaires and billionaires who call Santa Clara and San Mateo counties home. At the other end are the thousands of people who struggle to feed their families and pay their bills each month. Nearly 30% of Silicon Valley's residents rely on public or private assistance.\nWealth inequality gaps of that size exist elsewhere, but in America's epicenter of innovation, the gaps demand extra attention. And if Silicon Valley manages to close those gaps, perhaps less-unequal areas could do the same.\n\"The wealth is palpable,\" philanthropy adviser Alexa Cortes Culwell tells Business Insider. \"You come home and every neighbor has a Tesla parked on the street, with a cord running out to it. It's a weird, surreal place to live right now.\"\nAccording to a new report Culwell published with social sector expert Heather McLeod Grant, local nonprofit organizations seldom see any of that wealth come their way, despite the huge impact it would have on reducing poverty.\nCulwell and Grant describe a profound empathy gap between Silicon Valley's highest earners and the nonprofits in their area. The co-authors dub this the \"prosperity paradox.\" Basically, neither side has any idea what the other is thinking or feeling — and in the case of Silicon Valley's wealthiest, that the other side exists at all.\n\"The social and economic stratas send people down different routes, different highways, different grocery stores,\" Culwell says. Very few of the 100 high-net-worth individuals she and Grant spoke with said they knew what kind of organizations were in the poorer parts of San Jose and San Carlos.\n\"Nothing in their lives takes them to those areas,\" Culwell says. If people gave at all, it was to brand-name organizations whose missions were much larger in scope than the two counties included in the report.\nIn other words, according to all the data that was collected, Culwell and Grant say the stereotype of Silicon Valley elites as greedy hoarders turned out to be mostly false. A lot of people expressed a desire to give more of their portfolio to local groups; they just didn't know where to begin.\nIt's not just the wealthy\nNonprofits shared some of the responsibility in creating the paradox. Only a small portion of the 140 local nonprofit leaders interviewed for the report used language that Culwell and Grant thought would resonate with Silicon Valley-types.\n\"Donors typically come from the private sector, and they think about companies in financial narratives,\" Culwell says. They use the language of numbers, of revenue growth year over year. \"Nonprofits speak a more social and moral language.\" They talk about how important the work is they're doing, and how happy it makes people.\nThat gap can create awkward encounters if a donor wants to help out.\n\"If a donor asks you how many people you serve and how much it costs per person, you can't stop and go look that up,\" Culwell says. \"In their world, that would never happen.\"\nHow to bridge the divide\nFor both sides to work together effectively, each has to recognize the challenges of the other. That's the empathy gap the researchers identified: There's currently a disconnect between what donors need to know before donating, and what nonprofits have focused so much of their energy on.\nCulwell and Grant are optimistic the gap can be bridged.\nAt the bottom of their report, they list several steps each side can take to reduce overall poverty in Silicon Valley. Nonprofits could brush up on their numbers and set clear goals for how far the donations will go, while potential donors could join a giving circle to educate themselves about the nonprofit world or give money to finance back-end costs if they aren't interested in supporting a cause directly.\nCulwell says success in Silicon Valley would be a great omen for the rest of the country, especially since innovation is baked in to the region.\n\"The prosperity paradox in Silicon Valley gives us this opportunity to use all the ingenuity of the Valley to create the bridge to this divide,\" she says. \"We talked to 300 stakeholders, and afterward we felt like if we could just get them to keep talking, extraordinary things could happen.\"",
+      "image_captions": [
+        "Anna Haynes, a homeless encampment occupant, collects her belongings as authorities break down massive homeless encampment known as \"The Jungle\" in San Jose, California.Beck Diefenbach/Reuters",
+        "Homes along Clearview Drive in Santa Clara County that are priced between $594,000 and $899,000, according to real estate database Zillow.Norbert von der Groeben/Reuters",
+        "Food bank workers pass along bags of food.Getty Images/Andrew Burton",
+        "Download on the App Store",
+        "Get it on Google Play"
+      ]
+    },
+    {
+      "url": "https://www.peoplesworld.org/article/booming-silicon-valley-economy-hides-rising-social-inequality/",
+      "page_title": "Booming Silicon Valley economy hides rising social inequality",
+      "title": "Booming Silicon Valley economy hides rising social inequality",
+      "description": "BURLINGAME, Calif. -- California's Silicon Valley, in the Bay Area, has added tech sector jobs recently that have helped raise national employment levels. However, those most hurt by the nation's economic bust of 2008 seem to be losing out.",
+      "text": "BURLINGAME, Calif. — California’s Silicon Valley, in the Bay Area, has added tech sector jobs recently that have helped raise national employment levels. However, those most hurt by the nation’s economic bust of 2008 seem to be losing out. While fueling a new source of profits for Wall Street, working families here are not enjoying the benefits of the region’s economic resurgence.\nThe end of the dot-com bubble of the late ’90s undercut much of the expectation of the high-tech economy being “immune to economic cycles.” The ensuing bust in 2001 triggered a national recession and many bubble-fueled personal fortunes were lost as rapidly as they were gained. High-tech business culture shifted away from earlier Gold-Rush-level enthusiasm, leaving a few surviving companies to take over most of the main sectors.\nWorking families saw the greatest losses. Nonprofit organization Working Partnership, USA in its 2010 report “Life in the Valley Economy” found that in the wake of the tech recession “It wasn’t until 2006-07 that Silicon Valley workers began to see a return to normality in job markets and wages. But just then, the national housing bust hit, followed hard on its heels by the financial crisis, erasing all the gains made during the recovery and then some.”\nThe number of middle-income families in the area declined to 49.7 percent by 2010, reported the Public Policy Institute of California. Their study, “The Great Recession and Distribution of Income in California,” noted that wide gaps in income distribution are a hallmark of the earnings picture in this state: “In California, the gap between lower- and upper-income families has been larger than in the rest of the nation for many decades and has tended to increase in recessionary periods. The Great Recession is no exception.”\n2009 marked the “official end” of the Great Recession, but today nearly 22percent of Bay Area families live below federal poverty levels. Hardest hit have been African American, Latino and immigrant families. Unemployment levels remain high in these demographics even with recent job gains in the Bay Area.\nHigher education, often cited as a route to higher earnings in the tech sector, is no guarantee out of poverty in Silicon Valley. As reporter Martha Mendoza found, “Before the Great Recession, about 10 percent of people seeking food had at least some college education. Today, one in four who line up at food pantries for bags of free food have been to college.”\nHomelessness, meanwhile, rose to 20 percent by 2012 in Silicon Valley and the average rent for an apartment rose to $2,000 per month. Living costs are such that an income of $80,000 is required to just make basic living expenses for a family of four, yet many are struggling on much less.\nPalo Alto, home to Stanford University, recently went so far as to pass a law that criminalizes homelessness, cloaking the law in a statute that would forbid anyone from using their car as a dwelling. Offenders could be charged with a misdemeanor that may result in a $1,000 fine or six months in jail.\nSales of high-end Bay Area homes, on the other hand, those costing $1.5 million or more, have increased to nearly 25 percent over last year, which had already seen expanding sales in this range. Rising home values have heated up the rental market while on the other end of the social scale, a number of families are one paycheck away from losing their apartments.\nInvestors are further driving up home prices, sinking capital into single-family homes to rent or to flip for resale. Companies are buying foreclosed properties at auction as well as on the open market, often outbidding families who cannot compete with the deep pockets of a firm who can make an offer well over the asking price. Areas hard-hit by the subprime loan crisis are being subjected to what the New Republic reported as “REO to rental.” It is estimated that nearly 27 percent of rentals may now be held by absentee landlords on Wall Street. Findings show that 24 percent of home sales in the Bay Area in 2012 were purchased by corporations.\nIn an ironic twist, these home sales are now being bundled into Real Estate Investment Trusts (REITs), which function as a mutual fund for real estate holdings and return profits to investors from rents at a rate of 5-7 percent.\n“Perhaps worst of all, Wall Street has begun to explore the option of securitizing the rental revenue, much in the way that they used mortgage-backed securities to ramp up capital in the bubble years. Three separate REO-to-rental trusts appeared on the market, under the administration of Wells Fargo, in the past couple months. These are non-public offshore trusts that are unregistered with the SEC, and in all likelihood have no credit ratings …” the New Republic concluded.\nThose who lost their homes to the subprime crisis of the last decade may now find themselves renting from the same corporations that were bailed out in 2008, on the road to a potential new Wall Street bust based on yet another derivative-based market bubble.\nPhoto: christian.rondeau, CC BY 2.0",
+      "image_captions": [
+        "Booming Silicon Valley economy hides rising social inequality",
+        "Louisiana state legislature advances bill criminalizing homelessness",
+        "Last-minute tentative agreements avert big L.A. school strike",
+        "Latino/Chicano(a) identity and working-class solidarity"
+      ]
+    },
+    {
+      "url": "https://www.huffpost.com/entry/silicon-valley-child-poverty_n_6793024",
+      "page_title": "Child Poverty Exists In Silicon Valley, Too. Here's Who's Helping ...",
+      "title": "Child Poverty Exists In Silicon Valley, Too. Here's Who's Helping Often-Overlooked Kids",
+      "description": "Child Poverty Exists In Silicon Valley, Too. Here's Who's Helping Often-Overlooked Kids",
+      "text": "Jorge Valencia is from Silicon Valley. But his daily life couldn't be further from those \"basically swimming in gold\" not even five miles away.\n\"There's like, an invisible boundary around … eastside San Jose,\" the 16-year-old told John D. Sutter, who documented poverty in Valencia's community for CNN. \"They don't even see you as humans. They think you're trash, or peasants, or less.\"\nValencia -- who said his family often lives on just $2 a day -- is part of the impoverished population that exists within one of the most prosperous places in the U.S., according to CNN.\nDespite many people prospering, about one in three kids in the San Jose area struggles with hunger, according to Second Harvest Food Bank. The organization is one of several fighting for the valley's most vulnerable.\nBetween July 2013 and June 2014, Second Harvest distributed more than 1 million pounds of food each week to people in need throughout its service area, which encompasses San Jose. Volunteers help support its mission, contributing more than 316,000 hours of service connecting the hungry with food assistance throughout the last fiscal year.\n\"Many people think that here in Silicon Valley, which is such an affluent area, hunger really isn't a problem,\" Kathy Jackson, CEO of the food bank, said in a video produced by Second Harvest. \"It shouldn't be a problem, but it is a problem.\"\nJackson said the organization serves a wide variety of clients who need help: Employed parents who can't make ends meet making minimum wage, single mothers trying to provide for their children and unemployed professionals who lost their job due to the Great Recession.\nPoncho Guevara, executive director at Sacred Heart Community Service in San Jose -- another local nonprofit providing relief -- said seemingly high pay doesn't go very far in an area with skyrocketing costs of living expenses. He told NPR it's common to see working class clients, like security guards at Google, have to rely on the organization's assistance to feed their families.\nThe need for organizations like Sacred Heart and Second Harvest likely won't dissolve anytime soon. A report released last month by Joint Venture Silicon Valley found that the pay gap between low-wage and high-wage positions had grown at a higher rate in Silicon Valley last year than other regions of the state, as Wired reported. What's more, the wage gap between white workers and their black and Latino counterparts was significantly wider than the rest of the country.\n\"This is the moral shame of our community,\" San Jose Mayor Sam Liccardo told CNN of extreme poverty among kids. \"It is incredibly challenging to be a child growing up in poverty in this valley. There simply aren't the support systems in place to ensure those kids can thrive.\"\nLast December, Sacred Heart garnered and gave away 17,400 toys and books to children in need for the holidays, ABC 7 News reported. But just days before Christmas, the organization was still thousands of items short of their goal.\nA last-minute call-out for help garnered an additional 1,200 toys from the community.\n\"It's actually inspiring to us because we feel like we're not alone in the struggle to build a community free from poverty,\" Guevara told the news source at the time.\nVisit Sacred Heart Community Service or Second Harvest Food Bank online to support the nonprofits' missions.\nCORRECTION: An earlier version of this article misstated the amount of food distributed by Second Harvest Food Bank.",
+      "image_captions": [
+        "He is carrying his book bag."
+      ]
+    }
+  ],
+  "evidence_count": 3,
+  "crawled_at": "2026-04-23T17:15:31.961056+00:00"
+}

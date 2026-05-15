@@ -1,0 +1,105 @@
+{
+  "sample_id": "false_81",
+  "image_url": "https://media.istockphoto.com/id/1180838799/video/projection-on-a-womans-face.jpg?s=640x640&k=20&c=hSJHIqLm-UM9mHE8zqWaC2sH8wJam6HNKtkP5dMm9j8=",
+  "visual_entities": [
+    {
+      "description": "",
+      "score": 0.7176
+    },
+    {
+      "description": "Getty Images",
+      "score": 0.7176
+    },
+    {
+      "description": "Stock footage",
+      "score": 0.7008
+    },
+    {
+      "description": "Footage",
+      "score": 0.6777
+    },
+    {
+      "description": "Painting",
+      "score": 0.639
+    },
+    {
+      "description": "Body painting",
+      "score": 0.6373
+    },
+    {
+      "description": "Art",
+      "score": 0.6357
+    },
+    {
+      "description": "Image",
+      "score": 0.5889
+    },
+    {
+      "description": "",
+      "score": 0.5665
+    },
+    {
+      "description": "Stock photography",
+      "score": 0.5404
+    },
+    {
+      "description": "Getty Images",
+      "score": 0.5215
+    }
+  ],
+  "best_guess_labels": [
+    "girl"
+  ],
+  "similar_image_urls": [
+    "https://media.istockphoto.com/id/1180838799/video/projection-on-a-womans-face.jpg?s=640x640&k=20&c=hSJHIqLm-UM9mHE8zqWaC2sH8wJam6HNKtkP5dMm9j8=",
+    "https://media.istockphoto.com/id/1180838799/de/video/projektion-auf-das-gesicht-einer-frau.jpg?s=640x640&k=20&c=95mUjfQorKX9pJmzvG7eD5aGb03LVPsxHdRv4ER949Y=",
+    "https://media.gettyimages.com/id/1180838799/fr/vid%C3%A9o/projection-sur-le-visage-dune-femme.jpg?s=640x640&k=20&c=GXQQnLcuWaO-qC4XTjXPFNZeND7bA7M_6Plr7EgAscs=",
+    "https://andireiss.wordpress.com/wp-content/uploads/2022/07/projection-mapping-face.jpg",
+    "https://andireiss.wordpress.com/wp-content/uploads/2022/07/projection-mapping-face.jpg?w=640",
+    "https://media.istockphoto.com/id/1180838799/video/projection-on-a-womans-face.jpg?s=480x480&k=20&c=rOj1rREZH0Tn-GbGqT8m7kIicd5EHgtxTv5I_zG3lUM="
+  ],
+  "evidence": [
+    {
+      "url": "https://www.gettyimages.in/videos/female-body-painting",
+      "page_title": "16284 Female Body Painting Stock Videos and Footage",
+      "title": "Getty Images",
+      "description": "Getty Images India. Find high resolution royalty-free images, editorial stock photos, vector art, video footage clips and stock music licensing at the richest image search photo library online.",
+      "text": "ViewStock\n886771796\nUser validation",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.gettyimages.ie/videos/female-body-painting",
+      "page_title": "16286 Female Body Painting Stock Videos and Footage",
+      "title": "Getty Images",
+      "description": "Getty Images. Find high resolution royalty-free images, editorial stock photos, vector art, video footage clips and stock music licensing at the richest image search photo library online.",
+      "text": "ViewStock\n886771796\nUser validation",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.gettyimages.com/videos/body-paint-woman",
+      "page_title": "14376 Body Paint Woman Stock Videos and Footage - Getty Images",
+      "title": "Getty Images",
+      "description": "Getty Images. Find high resolution royalty-free images, editorial stock photos, vector art, video footage clips and stock music licensing at the richest image search photo library online.",
+      "text": "d3sign\n818362142\nUser validation",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.gettyimages.in/videos/body-painting",
+      "page_title": "20966 Body Painting Stock Videos and Footage - Getty Images",
+      "title": "Getty Images",
+      "description": "Getty Images India. Find high resolution royalty-free images, editorial stock photos, vector art, video footage clips and stock music licensing at the richest image search photo library online.",
+      "text": "ViewStock\n886771796\nUser validation",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.gettyimages.com/videos/female-body-painting",
+      "page_title": "16286 Female Body Painting Stock Videos and Footage",
+      "title": "Getty Images",
+      "description": "Getty Images. Find high resolution royalty-free images, editorial stock photos, vector art, video footage clips and stock music licensing at the richest image search photo library online.",
+      "text": "d3sign\n818362142\nUser validation",
+      "image_captions": []
+    }
+  ],
+  "evidence_count": 5,
+  "crawled_at": "2026-04-23T17:12:58.292114+00:00"
+}

@@ -1,0 +1,114 @@
+{
+  "sample_id": "false_155",
+  "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1200x800/public/d8/images/methode/2019/04/20/764a12d6-6362-11e9-b745-17e2afcf325c_image_hires_201049.jpg?itok=wJgfScdk&v=1555762253",
+  "visual_entities": [
+    {
+      "description": "Intussusception",
+      "score": 0.7419
+    },
+    {
+      "description": "Symptom",
+      "score": 0.4912
+    },
+    {
+      "description": "Pediatrics",
+      "score": 0.4279
+    },
+    {
+      "description": "Bowel obstruction",
+      "score": 0.4039
+    },
+    {
+      "description": "Cause",
+      "score": 0.3741
+    },
+    {
+      "description": "Surgery",
+      "score": 0.3564
+    },
+    {
+      "description": "Father",
+      "score": 0.3531
+    },
+    {
+      "description": "Pain",
+      "score": 0.3425
+    },
+    {
+      "description": "",
+      "score": 0.3062
+    }
+  ],
+  "best_guess_labels": [
+    "nhốt con trong lồng"
+  ],
+  "similar_image_urls": [
+    "https://vnn-imgs-f.vgcloud.vn/2019/04/22/14/nhot-con.jpg?width=0&s=ArinN_IGS2zr604AP0nMRg",
+    "https://cdn.i-scmp.com/sites/default/files/styles/540x360/public/d8/images/methode/2019/04/20/764a12d6-6362-11e9-b745-17e2afcf325c_image_hires_201049.jpg?itok=CpYZvR8p&v=1555762253",
+    "https://cdn.i-scmp.com/sites/default/files/styles/700x400/public/d8/images/methode/2019/04/20/764a12d6-6362-11e9-b745-17e2afcf325c_image_hires_201049.jpg?itok=v4JychiP&v=1555762253",
+    "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2019/04/20/764a12d6-6362-11e9-b745-17e2afcf325c_image_hires_201049.jpg?itok=86MbJxzN&v=1555762253",
+    "https://static.cdntap.com/tap-assets-prod/wp-content/uploads/sites/11/2019/04/ikinulong-sa-hawla-lead-240x119.jpg",
+    "https://media-proc.ohpama.com/photo.php?s=https://cdn.ohpama.com/wp-content/uploads/master/2019/04/Screenshot-2019-04-20-at-4.03.51-PM-686x427.png&f=jpeg&w=815&q=75",
+    "https://vcdn1-giadinh.vnecdn.net/2019/04/20/20190419074255353-1555720567-1-8213-7009-1555720703.png?w=680&h=0&q=100&dpr=2&fit=crop&s=mPmgyvmA1fAiGxUEzUqVQA"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.scmp.com/news/china/society/article/3007014/chinese-police-investigate-parents-after-toddler-seen-crying",
+      "page_title": "Chinese police investigate after toddler seen crying in a cage in video",
+      "title": "Chinese police investigate after toddler seen crying in a cage in video",
+      "description": "Officers say the father told them he had set up the video and other photos and sent them to his ex-wife to make her angry.",
+      "text": "Chinese police investigate parents after toddler seen crying in a cage in video\n- Officers say the father told them he had set up the video and other photos and sent them to his ex-wife to make her angry\n- The 20-month-old girl is in police care and was not found to have any injuries\nPolice are investigating the parents of a 20-month-old girl in southern China after a video showing the toddler crying in a cage was circulated on social media.\nOther images shared online appeared to show the girl with multiple bruises on her limbs, and one apparently showed a man putting his foot on her face as she lay on the floor.\nOfficers from Chaozhou’s Chaoan district in Guangdong said in a statement that the father told them he had set up the photos and video and sent them to his former wife to make her angry.\nThe couple divorced at the end of last year and the girl, their youngest daughter, lived with her father.\nPolice said the toddler had undergone a medical examination and no bruises or other injuries had been found.\nOfficers told Red Star News that police had taken the girl into their care on Thursday and her parents were under investigation, but would not give further details.",
+      "image_captions": [
+        "A video showing the 20-month old crying in a cage was circulated on Chinese social media. Photo: Weibo"
+      ]
+    },
+    {
+      "url": "https://vietnamnet.vn/choc-tuc-vo-cu-chong-nhot-con-gai-20-thang-tuoi-vao-long-sat-525423.html",
+      "page_title": "Chọc tức vợ cũ, chồng nhốt con gái 20 tháng tuổi vào lồng sắt",
+      "title": "Chọc tức vợ cũ, chồng nhốt con gái 20 tháng tuổi vào lồng sắt",
+      "description": "<p class='t-j'><span class='bold'>Cảnh sát đang điều tra phụ huynh của một bé gái 20 tháng tuổi ở miền Nam Trung Quốc sau khi video lan truyền trên mạng cho thấy cô bé đang khóc trong một chiếc lồng sắt.</span></p>",
+      "text": "Những hình ảnh đi kèm cũng cho thấy cô bé có nhiều vết bầm tím ở tay chân, thậm chí còn có hình ảnh một người đàn ông đặt chân lên mặt khi cô bé đang nằm trên sàn nhà.\nCảnh sát quận Chaoan, thành phố Triều Châu, tỉnh Quảng Đông cho biết, người cha nói rằng anh ta rất tiếc về những bức hình và video. Anh ta đã gửi chúng cho vợ cũ để chọc tức cô.\nĐược biết, cặp đôi này ly dị vào cuối năm 2018 và cô con gái út sống cùng bố.\nCảnh sát cho biết đã đưa bé gái đi kiểm tra ở bệnh viện nhưng không có vết bầm tím hay thương tích nào khác được tìm thấy. Họ cũng đã đưa bé gái đến nơi an toàn để chăm sóc, còn cặp vợ chồng này đang bị điều tra.\nNhững hình ảnh đau xót đã làm cộng đồng mạng Trung Quốc phẫn nộ. ‘Thật không còn gì để nói. Anh ta không xứng đáng làm bố’ - một người viết trên mạng xã hội Weibo.\nMột người khác bình luận: ‘Anh ta đang mắc bệnh tâm lý. Tôi mong rằng anh ta phải bị nhốt trong lồng vài ngày để hiểu được cảm giác mà cô bé đã chịu đựng’.\nNhiều người cho rằng những bậc cha mẹ lạm dụng và sử dụng bạo lực với con cái nên bị trừng phạt theo luật định.\nTrước đó, hình ảnh một bà mẹ đá cô con gái 3 tuổi vì không tạo dáng đúng ý mình cũng được chia sẻ rộng khắp và làm dấy lên làn sóng phẫn nộ. Bà mẹ này sau đó đã lên tiếng xin lỗi.\nQuá khứ bất hảo của 'ông bố nhặt rác' dùng dây lưng đánh con\nThiếu tá Hưng cho hay, Khiêm trước đây lang thang, bị người thân bỏ rơi và được cặp vợ chồng không có con cái ở phường Ngọc Thụy nhận về làm con nuôi.\nNguyễn Thảo (Theo SCMP)",
+      "image_captions": [
+        "Quá khứ bất hảo của 'ông bố nhặt rác' dùng dây lưng đánh con"
+      ]
+    },
+    {
+      "url": "https://vnexpress.net/bo-nhot-con-vao-chuong-cho-de-tra-thu-vo-cu-3912137.html",
+      "page_title": "Bố nhốt con vào chuồng chó để trả thù vợ cũ - VnExpress",
+      "title": "Bố nhốt con vào chuồng chó để trả thù vợ cũ",
+      "description": "Ánh mắt lo sợ, khóc lóc của cô bé 20 tháng tuổi khi bị nhốt được ông bố Trung Quốc chụp để gửi cho người vợ cũ.",
+      "text": "Những hình ảnh một bé gái bị nhốt trong lồng, bị xích cổ, hoặc nằm trên đất và bị giẫm lên mặt, đang được chia sẻ trên mạng xã hội Trung Quốc những ngày qua. Ngoài ra còn có những hình ảnh các vết thâm tím trên cơ thể em. Cộng đồng mạng nghi ngờ bé gái đã bị lạm dụng một thời gian dài.\nCảnh sát Triều Châu vào cuộc điều tra xác nhận bé gái này 20 tháng tuổi ở Triều An, Triều Châu (Quảng Đông). Bố bé là Xu Tang đã ly hôn với mẹ bé tên Xu Moting vào cuối năm 2018. Sau ly hôn, cô bé Xu Xuan - con thứ 2 - được toà phân cho bố nuôi.\nXu thú nhận, từ đầu năm 2019, hắn ta cố tình chụp con gái và ghép các ảnh ngược đãi tương tự trên mạng, để gửi cho vợ cũ chọc tức.\nCảnh sát bước đầu xét nghiệm thì không thấy có vết thương nào trên cơ thể bé. \"Không có chấn thương nào trên cơ thể không có nghĩa là anh ta không đánh con, chuồng chó, dây xích... không phải là hành hạ hay sao?\", một bạn đọc bức xúc.\n\"Tổn thương về tâm lý thường lớn hơn về thể chất. Đứa trẻ đang trong giai đoạn phát triển về thể chất và tinh thần, không được sống với đầy đủ cha mẹ đã là một thiếu thốn. Người cha này đã không chỉ không chăm sóc con, còn mang con ra làm công cụ trút bỏ cảm xúc\", người khác bình luận.\nBảo Nhiên (Theo Sohu)",
+      "image_captions": [
+        "Bé 20 tháng tuổi bị bố nhốt chuồng chó để chụp ảnh trả thù vợ cũ. Ảnh:Sohu.",
+        "VnExpress - Bao tieng Viet nhieu nguoi xem nhat",
+        "Bé 20 tháng tuổi bị bố nhốt chuồng chó để chụp ảnh trả thù vợ cũ. Ảnh: Sohu."
+      ]
+    },
+    {
+      "url": "https://vietnamnet.vn/tin-tuc-24h-p23574",
+      "page_title": "Tin nhanh 24h online mới nhất - VietNamNet",
+      "title": "Tin nhanh 24h online mới nhất",
+      "description": "Tin nhanh 24h- Đọc báo online Việt Nam và thế giới 24h qua. Thông tin hình ảnh mới nhất trong ngày, tin thời sự, chính trị, xã hội 24h hôm nay",
+      "text": "- Chính trị\n- Thời sự\n- Kinh doanh\n- Dân tộc và Tôn giáo\n- Thể thao\n- Giáo dục\n- Thế giới\n- Đời sống\n- Văn hóa - Giải trí\n- Sức khỏe\n- Công nghệ\n- Pháp luật\n- Ô tô xe máy\n- Du lịch\n- Bất động sản\n- Bạn đọc\n- Tuần Việt Nam\n- Toàn văn\n- Công nghiệp hỗ trợ\n- Bảo vệ người tiêu dùng\n- Thị trường tiêu dùng\n- Giảm nghèo bền vững\n- Nông thôn mới\n- Dân tộc thiểu số và miền núi\n- Nội dung chuyên đề\n- English\n- Talks\n- Đính chính\n- Hồ sơ\n- Ảnh\n- Video\n- Multimedia\n- Podcast\n- 24h qua\n- Cơ quan chủ quản: Bộ Dân tộc và Tôn giáo\n- Số giấy phép: 146/GP-BVHTTDL, cấp ngày 17/10/2025\n- Tổng biên tập: Nguyễn Văn Bá\n- Địa chỉ: Tầng 18, Toà nhà Cục Viễn thông (VNTA), 68 Dương Đình Nghệ, phường Cầu Giấy, TP. Hà Nội.\n- Điện thoại: 02439369898 - Hotline: 0923457788\n- Email: vietnamnet@vietnamnet.vn\n- © 1997 Báo VietNamNet. All rights reserved.\n- Chỉ được phát hành lại thông tin từ website này khi có sự đồng ý bằng văn bản của báo VietNamNet.\n- Công ty Cổ phần Truyền thông VietNamNet\n- Hotline: 0919 405 885 (Hà Nội) - 0919 435 885 (Tp.HCM)\n- Email: contact@vietnamnet.vn\n- Báo giá: http://vads.vn\n- Hỗ trợ kỹ thuật: support@tech.vietnamnet.vn",
+      "image_captions": [
+        "Hyundai và Kia bị tố bán xe lỗi túi khí ra thị trường",
+        "Siêu xe điện Audi phải gắn thêm bô giả tiếng động cơ",
+        "Cậu bé 13 tuổi tử vong từ trò đùa tai hại với miếng phô mai",
+        "Người đàn ông chết giữa đường, nghi bị ô tô cán rồi bỏ chạy",
+        "Nissan Việt Nam tiếp tục giảm giá SUV Terra gần 30 triệu đồng"
+      ]
+    },
+    {
+      "url": "https://yhoccongdong.com/du-an-khac/doi-dieu-ve-long-ruot/",
+      "page_title": "Đôi điều về lồng ruột - Y Học Cộng Đồng",
+      "title": "Đôi điều về lồng ruột - Y Học Cộng Đồng",
+      "description": "Những trẻ nhũ nhi dưới 2 tuổi có thể mắc một chứng bệnh nguy hiểm là Lồng ruột. Thường thì lồng ruột hay gặp vào mùa đông xuân.",
+      "text": "Những trẻ nhũ nhi dưới 2 tuổi có thể mắc một chứng bệnh nguy hiểm là Lồng ruột.\nBạn tưởng tượng ruột em bé cũng như mớ săm xe, cuộn ngổn ngang trong bụng. Có điều săm xe thì chỗ nào cũng to bằng nhau còn ruột thì khúc to khúc nhỏ.\nKhi ruột có vấn đề gì đó mà dẫn đến co bóp lung tung chúng có thể chui vào nhau gây ra hiện tượng lồng ruột:\n- Chui vào ít thì có thể tự tháo ra.\n- Chui vào sâu quá thì không tự tuột ra được.\nKhi đó phải can thiệp bằng bơm hơi hay phẫu thuật – nếu không ruột sẽ bị hoại tử.\nVề mặt thực tế ruột có thể chui vào rồi lại chui ra. Nên tại thời điểm này phát hiện lồng ruột (bằng sờ thấy hay siêu âm thấy). Nhưng một lúc sau lại hết lồng (không sờ thấy hay không siêu âm thấy nữa). Điều này không có nghĩa là bác sĩ chẩn đoán sai.\nNgược lại, tại thời điểm khám bác sĩ sờ không thấy, siêu âm không thấy. Về nhà trẻ đau bụng, ói và đi chỗ khác kiểm tra lại thấy khối lồng đó là điều hết sức bình thường. Không phải bác sĩ chẩn đóan không ra. Điều mấu chốt ở đây là bác sĩ phải dặn dò kĩ và không được chủ quan. Còn phía phụ huynh cần phải nghe kĩ, không hiểu hỏi luôn. Chứ đừng ù cạc đến lúc có chuyện lại trở lại làm lớn.\nBiểu hiện của lồng ruột như thế nào?\nĐã là sinh viên Y ai cũng phải thuộc nằm lòng câu chú: “Khóc thét – ưỡn bụng – ói vọt” tái đi tái lại ở nhũ nhi. Gặp bạn nhỏ nào có 3 biểu hiện đó siêu âm là sẽ trúng phóc.\nTuy nhiên, đời không như mơ. Tôi đã từng gặp những em bé không khóc, không ưỡn, chỉ thỉnh thoảng nghệt mặt ra và ói vọt. Cũng có trẻ chỉ biểu hiện khóc thét từng cơn ngoài ra không có gì khác.\nVới trẻ nhỏ đừng hy vọng sờ bụng nó mà thấy được khối lồng. Vì trẻ la hét bụng cứng ngắc thì có sờ bằng niềm tin. Có bạn lại nói với tôi là thăm trực tràng thấy khối lồng, bóng trực tràng rỗng hay thấy máu bla bla tôi cho là nói phét. Nếu bạn thăm trực tràng mà sờ thấy khối lồng hay thấy máu nghĩa là giai đoạn muộn lắm rồi.\nCần làm gì khi nghi ngờ trẻ bị lồng ruột?\nNếu bạn nghi ngờ em bé bị đau bụng hay có ói và ba mẹ khai không nghe con trung tiện (đánh rắm – xì hơi) thì cứ mạnh dạn cho siêu âm vì kĩ thuật này không xâm lấn và vô hại, lại có có độ nhạy độ đặc hiệu cao trong chẩn đoán lồng ruột. Nếu siêu âm bình thường cũng đừng chủ quan và nhớ giải thích với người nhà là ruột có thể chui ra chui vào: “bây giờ không thấy không có nghĩa là không thể bị” để tự bảo vệ mình.\nThường thì lồng ruột hay gặp vào mùa đông xuân, trẻ nhũ nhi bụ bẫm, và không có sốt.\nTuy nhiên trẻ đang bị viêm ruột tiêu chảy hoàn toàn có thể có sốt và lồng ruột sau đó. Với một bé tiêu chảy, có sốt – phân máu cần phân biệt tiêu chảy xâm nhập với lồng ruột thứ phát sau tiêu chảy.\nTài liệu tham khảo\nhttps://www.facebook.com/diendannhikhoa/posts/783852521812270",
+      "image_captions": [
+        "Print Friendly, PDF & Email"
+      ]
+    }
+  ],
+  "evidence_count": 5,
+  "crawled_at": "2026-04-23T17:36:41.099746+00:00"
+}

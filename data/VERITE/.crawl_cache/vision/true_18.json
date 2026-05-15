@@ -1,0 +1,102 @@
+{
+  "sample_id": "true_18",
+  "image_url": "https://static01.nyt.com/images/2015/02/05/us/05RAND/05RAND-jumbo.jpg?quality=75&auto=webp&disable=upscale",
+  "visual_entities": [
+    {
+      "description": "Rand Paul",
+      "score": 14.998501
+    },
+    {
+      "description": "United States",
+      "score": 0.67394996
+    },
+    {
+      "description": "Politics",
+      "score": 0.6546
+    },
+    {
+      "description": "United States Senator",
+      "score": 0.622
+    },
+    {
+      "description": "Medicine",
+      "score": 0.5366
+    },
+    {
+      "description": "Physician",
+      "score": 0.5317
+    },
+    {
+      "description": "",
+      "score": 0.4493
+    },
+    {
+      "description": "Ophthalmology",
+      "score": 0.433
+    },
+    {
+      "description": "Surgery",
+      "score": 0.3599
+    },
+    {
+      "description": "Surgeon",
+      "score": 0.3432
+    }
+  ],
+  "best_guess_labels": [
+    "dr rand paul"
+  ],
+  "similar_image_urls": [
+    "https://static01.nyt.com/images/2015/02/05/us/05RAND/05RAND-superJumbo.jpg",
+    "https://static01.nyt.com/images/2015/02/05/us/05RAND/05RAND-jumbo.jpg?quality=75&auto=webp&disable=upscale",
+    "https://www.sciencepresse.qc.ca/sites/default/files/styles/large_16_9/public/medias/article/randpaulnyt.jpg?itok=gLXjpPQe",
+    "https://www.sciencepresse.qc.ca/sites/default/files/styles/og_image/public/medias/article/randpaulnyt.jpg?itok=MK8eHOBh"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.nbcnews.com/video/mtp-exclusive-dr-rand-paul-in-guatemala-321553987833",
+      "page_title": "MTP Exclusive: Dr. Rand Paul in Guatemala - NBC News",
+      "title": "MTP Exclusive: Dr. Rand Paul in Guatemala",
+      "description": "See the Kentucky senator like you’ve never seen him before, as the potential presidential candidate performs eye surgeries in Central America.",
+      "text": "Kornacki: Virginia Republicans 'put up a fight' but Democrats stayed 'loyal' on map referendum\n14:38\nSenate Democrat says moderate candidates in swing states ‘the only way’ to regain the majority\n07:15\nGOP senator says probe into Fed Chair Powell is 'unnecessary’ as Tillis holds up Warsh nomination\n09:38\n‘No one feels safe’ as Israel continues bombing campaign in Lebanon: UNICEF spokesperson\n06:20\nKornacki: Virginia Democrats can win more ‘low-hanging fruit’ districts if they win referendum\n09:24\nTrump extends ceasefire with Iran\n16:40\n‘Jarring disconnect’: Maine voters at odds with Democratic leadership in high-stakes Senate primary\n08:30\nStatus of U.S. peace talks with Iran ‘shifting in real time’ as ceasefire deadline looms\n21:32\nKornacki: Trump’s approval rating hits new low amid war and rising gas prices\n07:38\nNYC Mayor John Lindsay on his party switch and presidential run: Meet the Press Archive\n27:49\nAmb. Mike Waltz says Iran doesn't 'have the cards,' will seek new deal: Full interview\n13:51\nTour New York City Mayor Zohran Mamdani’s office\n01:57\nSteve Kornacki: New Gen Z poll shows clear divide on Israel-Palestine issue\n03:19\nSKIMS’ Emma Grede discusses the ‘impossible standards’ for working mothers\n07:41\n‘Kardashian whisperer’ Emma Grede cites ‘resilience’ as her key to success: Full interview\n34:32\nZohran Mamdani: ‘I believe in’ democratic socialism ‘even more than I did’ before election\n11:33\nDemocratic strategist says party can find common ground with Trump voters\n05:49\nUkraine ambassador hopes Iran war will end to bring Russia-Ukraine war a new focus\n08:01\nOil prices plunge as Iran reopens Strait of Hormuz, but 'pre-war levels' could take longer: Analyst\n23:26\nHuman rights groups reject Cuban president's claims on political prisoners\n05:35\nMeet the Press\nMTP Exclusive: Dr. Rand Paul in Guatemala\n07:08\nCopied\nSee the Kentucky senator like you’ve never seen him before, as the potential presidential candidate performs eye surgeries in Central America.Aug. 24, 2014",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.today.com/video/mtp-exclusive-dr-rand-paul-in-guatemala-321553987833?featureFlag=true",
+      "page_title": "MTP Exclusive: Dr. Rand Paul in Guatemala - The Today Show",
+      "title": "MTP Exclusive: Dr. Rand Paul in Guatemala",
+      "description": "See the Kentucky senator like you’ve never seen him before, as the potential presidential candidate performs eye surgeries in Central America.",
+      "text": "Kornacki: Virginia Republicans 'put up a fight' but Democrats stayed 'loyal' on map referendum\n14:38\nSenate Democrat says moderate candidates in swing states ‘the only way’ to regain the majority\n07:15\nGOP senator says probe into Fed Chair Powell is 'unnecessary’ as Tillis holds up Warsh nomination\n09:38\n‘No one feels safe’ as Israel continues bombing campaign in Lebanon: UNICEF spokesperson\n06:20\nKornacki: Virginia Democrats can win more ‘low-hanging fruit’ districts if they win referendum\n09:24\nTrump extends ceasefire with Iran\n16:40\n‘Jarring disconnect’: Maine voters at odds with Democratic leadership in high-stakes Senate primary\n08:30\nStatus of U.S. peace talks with Iran ‘shifting in real time’ as ceasefire deadline looms\n21:32\nKornacki: Trump’s approval rating hits new low amid war and rising gas prices\n07:38\nNYC Mayor John Lindsay on his party switch and presidential run: Meet the Press Archive\n27:49\nAmb. Mike Waltz says Iran doesn't 'have the cards,' will seek new deal: Full interview\n13:51\nTour New York City Mayor Zohran Mamdani’s office\n01:57\nSteve Kornacki: New Gen Z poll shows clear divide on Israel-Palestine issue\n03:19\nSKIMS’ Emma Grede discusses the ‘impossible standards’ for working mothers\n07:41\n‘Kardashian whisperer’ Emma Grede cites ‘resilience’ as her key to success: Full interview\n34:32\nZohran Mamdani: ‘I believe in’ democratic socialism ‘even more than I did’ before election\n11:33\nDemocratic strategist says party can find common ground with Trump voters\n05:49\nUkraine ambassador hopes Iran war will end to bring Russia-Ukraine war a new focus\n08:01\nOil prices plunge as Iran reopens Strait of Hormuz, but 'pre-war levels' could take longer: Analyst\n23:26\nHuman rights groups reject Cuban president's claims on political prisoners\n05:35\nMTP Exclusive: Dr. Rand Paul in Guatemala\n07:08\nCopied\nCopied\nSee the Kentucky senator like you’ve never seen him before, as the potential presidential candidate performs eye surgeries in Central America.Aug. 24, 2014\nUP NEXT\nKornacki: Virginia Republicans 'put up a fight' but Democrats stayed 'loyal' on map referendum\n14:38\nSenate Democrat says moderate candidates in swing states ‘the only way’ to regain the majority\n07:15\nGOP senator says probe into Fed Chair Powell is 'unnecessary’ as Tillis holds up Warsh nomination\n09:38\n‘No one feels safe’ as Israel continues bombing campaign in Lebanon: UNICEF spokesperson\n06:20\nKornacki: Virginia Democrats can win more ‘low-hanging fruit’ districts if they win referendum\n09:24\nTrump extends ceasefire with Iran\n16:40\n‘Jarring disconnect’: Maine voters at odds with Democratic leadership in high-stakes Senate primary\n08:30\nStatus of U.S. peace talks with Iran ‘shifting in real time’ as ceasefire deadline looms\n21:32\nKornacki: Trump’s approval rating hits new low amid war and rising gas prices\n07:38\nNYC Mayor John Lindsay on his party switch and presidential run: Meet the Press Archive\n27:49\nAmb. Mike Waltz says Iran doesn't 'have the cards,' will seek new deal: Full interview\n13:51\nTour New York City Mayor Zohran Mamdani’s office\n01:57\nSteve Kornacki: New Gen Z poll shows clear divide on Israel-Palestine issue\n03:19\nSKIMS’ Emma Grede discusses the ‘impossible standards’ for working mothers\n07:41\n‘Kardashian whisperer’ Emma Grede cites ‘resilience’ as her key to success: Full interview\n34:32\nZohran Mamdani: ‘I believe in’ democratic socialism ‘even more than I did’ before election\n11:33\nDemocratic strategist says party can find common ground with Trump voters\n05:49\nUkraine ambassador hopes Iran war will end to bring Russia-Ukraine war a new focus\n08:01\nOil prices plunge as Iran reopens Strait of Hormuz, but 'pre-war levels' could take longer: Analyst\n23:26\nHuman rights groups reject Cuban president's claims on political prisoners",
+      "image_captions": [
+        "TODAY with Jenna & Sheinelle",
+        "Sunday TODAY with Willie Geist"
+      ]
+    },
+    {
+      "url": "https://www.cnn.com/videos/politics/2021/05/24/senator-rand-paul-covid-19-vaccine-dr-varkey-ip-vpx.cnn",
+      "page_title": "Rand Paul says he doesn't need to be vaccinated. Doctor ... - CNN",
+      "title": "Rand Paul says he doesn’t need to be vaccinated. Doctor says he’s wrong | CNN Politics",
+      "description": "Sen. Rand Paul (R-KY) says he does not need to be vaccinated against Covid-19 since he already caught the virus. Dr. Jay Varkey, associate professor of medicine at Emory University, explains why Paul’s reasoning is incorrect.",
+      "text": "Video Ad Feedback\nRand Paul says he doesn't need to be vaccinated. Doctor says he's wrong\nSen. Rand Paul (R-KY) says he does not need to be vaccinated against Covid-19 since he already caught the virus. Dr. Jay Varkey, associate professor of medicine at Emory University, explains why Paul's reasoning is incorrect.\n1:47\n• Source:\nCNN\nPolitics of the Day\n9 videos\nVideo Ad Feedback\nRand Paul says he doesn't need to be vaccinated. Doctor says he's wrong\nVideo Ad Feedback\nSenator presses RFK Jr. over his promotional videos\nVideo Ad Feedback\nBilly Graham's granddaughter discusses Trump, Pope, Jesus memes\nVideo Ad Feedback\nFBI Director Patel publicly addresses allegations about his conduct\nVideo Ad Feedback\nVirginia voters will approve a map giving Democrats a chance at four more House seats, CNN projects\nVideo Ad Feedback\nChinese social media mocks Trump, touts China’s rise\nVideo Ad Feedback\nTrump says he will extend ceasefire with Iran until negotiations conclude\nVideo Ad Feedback\nWarren asks Trump's Fed chair nominee who won 2020 election",
+      "image_captions": [
+        "rand paul dr. jay varkey split",
+        "Secretary of the Navy John Phelan speaks, at President Donald Trump's Mar-a-Lago club, Monday, Dec. 22, 2025, in Palm Beach, Florida.",
+        "119029_RFKJrHearing 16x9. Thumbnail.png",
+        "still_22561617_2857722.748_thumb.jpg",
+        "still_22560457_6412.103_still.jpg"
+      ]
+    },
+    {
+      "url": "https://www.espeakers.com/marketplace/profile/35087/Rand-Paul",
+      "page_title": "Rand Paul - eSpeakers",
+      "title": "Rand Paul",
+      "description": "Dr. Paul's entrance into politics is indicative of his life's work as a surgeon: a desire to diagnose problems and provide practical solutions, whether it be in Bowling Green, Ky., or Washington, D.C.",
+      "text": "Rand Paul\nU.S. Senator Rand Paul, M.D., is one of the nation's leading advocates for liberty. Elected to the United States Senate in 2010, Dr. Paul has proven to be an outspoken champion for constitutional liberties and fiscal responsibility. As a fierce advocate against government overreach, Dr. Paul has fought tirelessly to return government to its limited, constitutional scope. As a hard-working and dedicated physician - not a career politician - Dr. Paul came to Washington to shake things up and to make a difference. Dr. Paul is a devoted husband and father of three that is currently living with his family in Bowling Green, Ky., where Dr. Paul owned his own ophthalmology practice and performed eye surgery for 18 years. Dr. Paul has been married for 25 years to Kelley Ashby Paul of Russellville, Ky., and they have three sons together: William, Duncan, and Robert. He regularly volunteered to coach teams for each of his three sons in Little League baseball, soccer, and basketball. Dr. Paul and Kelley are both devout Christians and are active in their local church. Dr. Paul is the third of five children born to Carol and Ron Paul. He grew up in Lake Jackson, Tex., and attended Baylor University. He graduated from Duke Medical School in 1988. Dr. Paul completed a general surgery internship at Georgia Baptist Medical Center in Atlanta, Ga., and completed his residency in ophthalmology at Duke University Medical Center. Upon completion of his training in 1993, Dr. Paul and Kelley moved to Bowling Green to start their family and begin his ophthalmology practice.\nIn 1995, Dr. Paul founded the Southern Kentucky Lions Eye Clinic, an organization that provides eye exams and surgery to needy families and individuals. He is a former president and 17-year member of Lions Clubs International, which is dedicated to preserving sight by providing eyeglasses and surgery to the less fortunate around the world. In recognition of his outstanding and sustained efforts to provide vision care to Kentuckians in need, Lions Clubs International has awarded Dr. Paul many of its highest commendations.\nA large part of Dr. Paul's daily work as an ophthalmologist was dedicated to preserving the vision of our seniors. In 2002, The Twilight Wish Foundation recognized Dr. Paul for Outstanding Service and Commitment to Seniors.\nDuring his free time, Dr. Paul currently performs pro-bono eye surgeries for patients across Kentucky. Additionally, he provides free eye surgery to children from around the world through his participation in the Children of the Americas Program. Most recently, he traveled to Guatemala and Haiti on a medical mission trip with the University of Utah's Moran Eye Center. During his time in Guatemala and Haiti, over 200 patients, many of them blind with cataracts, had their vision restored.\nDr. Paul's entrance into politics is indicative of his life's work as a surgeon: a desire to diagnose problems and provide practical solutions, whether it be in Bowling Green, Ky., or Washington, D.C.\nU.S. Senator Rand Paul, M.D., is one of the nation's leading advocates for liberty. Elected to the United States Senate in 2010, Dr. Paul has proven to be an outspoken champion for constitutional liberties and fiscal responsibility. As a fierce advocate against government overreach, Dr. Paul has fought tirelessly to return government to its limited, constitutional scope. As a hard-working and dedicated physician - not a career politician - Dr. Paul came to Washington to shake things up and to make a difference. Dr. Paul is a devoted husband and father of three that is currently living with his family in Bowling Green, Ky., where Dr. Paul owned his own ophthalmology practice and performed eye surgery for 18 years. Dr. Paul has been married for 25 years to Kelley Ashby Paul of Russellville, Ky., and they have three sons together: William, Duncan, and Robert. He regularly volunteered to coach teams for each of his three sons in Little League baseball, soccer, and basketball. Dr. Paul and Kelley are both devout Christians and are active in their local church. Dr. Paul is the third of five children born to Carol and Ron Paul. He grew up in Lake Jackson, Tex., and attended Baylor University. He graduated from Duke Medical School in 1988. Dr. Paul completed a general surgery internship at Georgia Baptist Medical Center in Atlanta, Ga., and completed his residency in ophthalmology at Duke University Medical Center. Upon completion of his training in 1993, Dr. Paul and Kelley moved to Bowling Green to start their family and begin his ophthalmology practice.\nIn 1995, Dr. Paul founded the Southern Kentucky Lions Eye Clinic, an organization that provides eye exams and surgery to needy families and individuals. He is a former president and 17-year member of Lions Clubs International, which is dedicated to preserving sight by providing eyeglasses and surgery to the less fortunate around the world. In recognition of his outstanding and sustained efforts to provide vision care to Kentuckians in need, Lions Clubs International has awarded Dr. Paul many of its highest commendations.\nA large part of Dr. Paul's daily work as an ophthalmologist was dedicated to preserving the vision of our seniors. In 2002, The Twilight Wish Foundation recognized Dr. Paul for Outstanding Service and Commitment to Seniors.\nDuring his free time, Dr. Paul currently performs pro-bono eye surgeries for patients across Kentucky. Additionally, he provides free eye surgery to children from around the world through his participation in the Children of the Americas Program. Most recently, he traveled to Guatemala and Haiti on a medical mission trip with the University of Utah's Moran Eye Center. During his time in Guatemala and Haiti, over 200 patients, many of them blind with cataracts, had their vision restored.\nDr. Paul's entrance into politics is indicative of his life's work as a surgeon: a desire to diagnose problems and provide practical solutions, whether it be in Bowling Green, Ky., or Washington, D.C.",
+      "image_captions": [
+        "eSpeakers member since"
+      ]
+    }
+  ],
+  "evidence_count": 4,
+  "crawled_at": "2026-04-23T16:49:51.675697+00:00"
+}

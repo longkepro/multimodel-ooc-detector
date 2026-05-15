@@ -1,0 +1,125 @@
+{
+  "sample_id": "false_229",
+  "image_url": "https://i2-prod.dailystar.co.uk/incoming/article28545416.ece/ALTERNATES/s1200c/2_How-to-get-booze-into-Qatar-stadiums.jpg",
+  "visual_entities": [
+    {
+      "description": "Coca-Cola",
+      "score": 1.1898036
+    },
+    {
+      "description": "Cola",
+      "score": 1.06815
+    },
+    {
+      "description": "Carbonated drink",
+      "score": 1.00995
+    },
+    {
+      "description": "Soft Drink",
+      "score": 0.75990003
+    },
+    {
+      "description": "Non-alcoholic drink",
+      "score": 0.7567302
+    },
+    {
+      "description": "",
+      "score": 0.6898
+    },
+    {
+      "description": "Fernet",
+      "score": 0.6738
+    },
+    {
+      "description": "Synagogue (A.C.I.P)",
+      "score": 0.5059
+    },
+    {
+      "description": "Drink can",
+      "score": 0.4926
+    },
+    {
+      "description": "ON BEER",
+      "score": 0.4683
+    },
+    {
+      "description": "Drinking",
+      "score": 0.3899
+    },
+    {
+      "description": "",
+      "score": 0.316
+    }
+  ],
+  "best_guess_labels": [
+    "coca-cola"
+  ],
+  "similar_image_urls": [
+    "https://pbs.twimg.com/media/FiAyYoOX0AE2nHU.jpg?format=jpg&name=thumb",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=851720022536577",
+    "https://images.tv9bangla.com/wp-content/uploads/2022/11/beer1.jpg",
+    "https://www.lanacion.com.ar/resizer/v2/un-usuario-de-twitter-propuso-un-arriesgado-truco-I7EAWHZCANEIFC7F3NN2FIBBQA.png?auth=9a8014ec360a6eaad8598bc6dff54f364c9ae772004b6c12d1e80df2998b7415&width=1200&height=900&quality=70&smart=true",
+    "https://preview.redd.it/77krgtspj51a1.jpg?width=1080&crop=smart&auto=webp&s=590831e07c26b939daa12074c2e6c560744de3d9",
+    "https://www.sdpnoticias.com/resizer/v2/6Q3GSFX3EBG5BD6PDATFH2HMKM.jpeg?smart=true&auth=52df9fb13b7697d6c5907f7f034899e99cbc9ddfe932ea94f60104127ab84463&width=829&height=1060",
+    "https://preview.redd.it/77krgtspj51a1.jpg?width=640&crop=smart&auto=webp&s=0b32bf22119d9a4ac6fb0b797225da0f6cd87d00",
+    "https://img.allfootballapp.com/www/M00/38/49/180x135/crop/-/CgAGVmN6Mb2AZJ_ZAADKlWQ77YQ071.jpg.webp",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=512986460871021",
+    "https://www.lanacion.com.ar/resizer/v2/un-usuario-de-twitter-propuso-un-arriesgado-truco-I7EAWHZCANEIFC7F3NN2FIBBQA.png?auth=9a8014ec360a6eaad8598bc6dff54f364c9ae772004b6c12d1e80df2998b7415&width=1200&height=675&quality=70&smart=true"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.cnbctv18.com/business/coca-cola-sees-annual-sales-growth-in-line-with-estimates-19846931.htm",
+      "page_title": "Coca-Cola logs $102 million gain from refranchising India bottling ...",
+      "title": "Coca-Cola logs $102 million gain from refranchising India bottling operations in 2025 - CNBC TV18",
+      "description": "Coca-Cola booked a $102 million gain from India bottling refranchising in 2025, as volumes declined domestically but global growth stayed steady and the company reiterated its revenue outlook.",
+      "text": "The Coca-Cola Company reported a gain of $102 million in 2025 from refranchising its bottling operations in select territories in India, according to its latest earnings release.\nThis follows a substantially higher gain of $303 million recorded in 2024 from similar refranchising transactions in the country, underscoring the pace at which Coca-Cola has been paring its direct exposure to the bottling business in India.\nThe company said unit case volume for its bottling operations declined 6% during the quarter, largely due to a slowdown in India and the impact of refranchising. Globally, Coca-Cola’s unit case volume grew 1% for the quarter and remained flat for the full year.\nThe refranchising exercise has been executed through Hindustan Coca-Cola Beverages (HCCB), Coca-Cola’s bottling arm in India. In March 2025, HCCB sold its bottling operations in north Gujarat to Kandhari Global Beverages Group. Earlier, in December 2024, Coca-Cola sold a 40% stake in HCCB’s parent entity, Hindustan Coca-Cola Holdings, to the Jubilant Bhartia Group.\nIn January 2024, HCCB refranchised bottling operations in Rajasthan to Kandhari Global Beverages, Bihar to SLMG Beverages, and the Northeast India region along with parts of West Bengal to Moon Beverages.\nUnder these arrangements, the Rajasthan market is now owned and operated by Kandhari Global Beverages, which already has a presence across Delhi, Himachal Pradesh, Haryana, Punjab, Chandigarh, Jammu and Kashmir, and Ladakh. SLMG Beverages, which manages operations in Uttarakhand, has taken over the Bihar market along with parts of Uttar Pradesh and Madhya Pradesh. Moon Beverages will own and operate the Northeast India market and select areas in West Bengal, expanding its footprint beyond parts of Delhi and Uttar Pradesh.\nFollowing these transactions, Coca-Cola now controls about 40% of its bottling operations in India through HCCB, which operates 15 manufacturing plants across the country.\nDespite the India-led decline in its bottling volumes, the beverage major maintained its outlook, stating it expects to deliver organic revenue (non-GAAP) growth of 4% to 5% for the current period, lower than the 5% to 6% outlook provided for financial year 2025.\nFor the quarter, Coca-Cola’s net revenues rose 5% to $12.5 billion, while organic revenues (non-GAAP) grew 6%. Revenue performance included a 6% increase in price/mix, while concentrate sales remained flat.",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.geeklane.in/products/boozie-silicone-beer-can-sleeves-with-insulation-soda-for-550ml-cans-looks-like-regular-soda-can-hide-alcoholic-beverage-easily-cola-monster-pack-of-2",
+      "page_title": "Boozie: 2Pc Silicone Beer Can Sleeves with Insulation, Soda for ...",
+      "title": "Boozie: 2Pc Silicone Beer Can Sleeves with Insulation, Soda for 550ML Cans – Looks Like Regular Soda Can | Hide Alcoholic Beverage Easily | Cola & Monster (2Pc Random)",
+      "description": "Fun, grippy can wraps to keep your drink cool and slip-free Boozie is designed for 500 ml beverage cans, giving you the perfect snug wrap for sodas, energy drinks, or your favorite fizzy classics. Crafted from high-quality elastic silicone, these sleeves don’t just add color—they also insulate, keeping your drink cool",
+      "text": "Boozie is designed for 500 ml beverage cans, giving you the perfect snug wrap for sodas, energy drinks, or your favorite fizzy classics. Crafted from high-quality elastic silicone, these sleeves don’t just add color—they also insulate, keeping your drink cool (or warm) longer.\nWith vibrant prints inspired by popular brands like Pepsi, Coke, and Sprite, Boozie brings a nostalgic, playful vibe to every sip. The anti-slip texture ensures a secure hold, reducing spills, while the durable, reusable build makes them ideal for both home and outdoor fun.\nFeatures & Benefits:\nStart a Return/Exchange: https://geeklane.in/apps/quickreturns\nView Full Return Policy: https://geeklane.in/pages/return-policy\nWelcome to the #GeekFam, where quality, trust, and innovation meet.\nGEEKERA GURUJI ECOM LLP.\nRegistered & GST-compliant under the Companies Act 2013 and the Limited Liability Partnership Act 2008.\nGSTIN: 07ABAFG9901B1ZS\nLLPIN: ACG-0096\nOnly the Best, Always\nOur products are quality-checked, so you get nothing but the finest every time.\nAt Geeklane, we offer more than gadgets — we deliver experiences. With handpicked, authentic products for every occasion, we set trends, not follow them!\nCrafted by geek minds, trusted by Gadget Gurus, bringing you the coolest, trendiest tech that everyone’s buzzing about.\nPerfect for gifting or treating yourself!\nWe offer a 7-day return window for damaged or defective items. Simply reach out to us via email, phone, or WhatsApp for assistance.\nWhether it’s a question or a concern, contact us at support@geeklane.in, +919403891130, or reach out via WhatsApp.\nGot questions? We've got answers! Explore our FAQs to find everything you need to know about shopping, shipping, returns, and more.\nShipping is free on all orders above ₹600 across India. Orders below ₹600 will incur a nominal shipping charge. Prepay and enjoy additional discounts depending on the offer.\nFor prepaid orders, we dispatch our gadgets either the same or the next business day. Delivery times typically range from 2-5 working days after dispatch, varying by the recipient's city. COD orders MAY take additional processing time.\nYes, we offer a 7-day refund/replacement window for products with shipping damage or manufacturing defects. To initiate a request, contact us via support@geeklane.in, WhatsApp, or call +919403891130.\nFor damaged items, an unboxing video is required for verification. Replacements are instantly initiated upon approval. Refunds require a reverse pickup and inspection, with UPI refunds processed within 48 hours and other payment methods within 7 days after approval.\nClick here to view our full refund policy.\nYes, COD is available for every customer's convenience.\nHowever, paying by UPI/Card/Net Banking, etc. will get you an additional discount of 10% on your cart value!\nWe accept all major credit cards, debit cards, UPI, net banking, and cash on delivery for most locations.",
+      "image_captions": [
+        "Boozie: 2Pc Silicone Beer Can Sleeves with Insulation, Soda for 550ML Cans – Looks Like Regular Soda Can | Hide Alcoholic Beverage Easily | Cola & Monster (2Pc Random)",
+        "Google Pay | Phone Pay | UPI",
+        "Powered by shiprocket"
+      ]
+    },
+    {
+      "url": "https://m.allfootballapp.com/news/EPL/Harry-Maguire-has-29-days-to-save-Manchester-United-career-with-message-to-Erik-ten-Hag/2960541",
+      "page_title": "Harry Maguire has 29 days to save Manchester United career with ...",
+      "title": "Harry Maguire has 29 days to save Manchester United career with message to Erik ten Hag| All Football",
+      "description": "Harry Maguire is Manchester United's most expensive centre-back and yet he's currently fourth-choice in that position. Erik ten Hag hasn't been afraid of making the big decisions and that includes regularly naming the club captain on the bench.",
+      "text": "Harry Maguire is Manchester United's most expensive centre-back and yet he's currently fourth-choice in that position. Erik ten Hag hasn't been afraid of making the big decisions and that includes regularly naming the club captain on the bench.\nMaguire hopelessly underperformed last season and that brought his position as captain under immense scrutiny, but Ten Hag insisted he would retain the armband in the summer, although that hasn't guaranteed him starts, which it had previously.\nThe defender started against Brighton and Brentford and he was part of the side that embarrassed the history of the club in those two humiliating defeats. Ten Hag then dropped Maguire to the bench against Liverpool and United progressed.\nLisandro Martinez and Raphael Varane have established a formidable partnership this season and Victor Lindelof has performed well in the absence of the latter, who has been sidelined ahead of the World Cup with a hamstring injury.\nUnited were criticised for signing Martinez from Ajax in the summer for a fee of Â£46.8million, rising to Â£55.3m, on a five-year contract, but the Argentine has been an outstanding addition and he's already a contender for the club's Player of the Season award.\nMartinez has started on the left side of the centre of defence, which is where Maguire once started under previous management, and Ten Hag has made it clear that Varane and Lindelof are his preferred candidates to play alongside Martinez.\nâI have to think about it,â Ten Hag recently said when asked if Lindelof was the third-choice centre-back. âI have to see Aston Villa, and it's going to be difficult because we don't know, it's a new manager. So I have to have a look and analyse that team.\n\"Then we have a choice. But, I just said, Licha [Martinez] and Victor, they played really well together over some more games but I think also Licha and Harry on Sunday against West Ham United: also a clean sheet and they also did really well.\nâIt's a choice I make. When I choose one there is nothing against the other.â\nTen Hag was non-committal when asked about the centre-back pecking order, but his actions are louder than words and it was Lindelof, not Maguire, who started after that interview, while the Swede also started against Fulham last weekend.\nLindelof has delivered consistently strong performances this season, with his only blemish coming in the 3-1 defeat at Villa Park, and he's deserved to be 'third-choice' ahead of Maguire, who has made just three starts in the Premier League so far this season.\nAlthough it's understood that Maguire has remained a dedicated professional at Carrington and in the dressing room, despite having to come to terms with his reduced role with Ten Hag in charge, he's facing a stiff challenge to get back into the team.\nWhen Varane returns from the World Cup and providing he's fit, he'll start alongside Martinez and Lindelof will be played in the absence of either of those players, which means Maguire will get even fewer chances than in the last few weeks.\nThere has been a suggestion that although Ten Hag appreciates Maguire's professionalism, he does not see a long-term future for the centre-back at the club and it seems like the player is quickly running out of time to change the Dutchman's mind.\nMaguire is currently at the World Cup, which begins on Sunday, with England, though, and that's the opportunity he's been waiting for to send a message to Ten Hag. Maguire has always been a Gareth Southgate favourite and he's expected to start.\nHis club form does not entitle him to start for England, but he was excellent at the World Cup in 2018 and he was named in the Team of the Tournament at Euro 2020, which suggests that Maguire has reserved his best performances for his nation.\nIt's almost certain that Southgate will start Maguire on Monday against Iran in the opening group game, which means he's got 29 days, should England reach the final of the competition, to show why he shouldn't be fourth-choice centre-back at Old Trafford.\nMaguire will get the chance to start for England and it's an opportunity he can't squander.\nHe might just save his United career with his performances in Qatar.",
+      "image_captions": [
+        "download All Football App"
+      ]
+    },
+    {
+      "url": "http://www.campgroundcountryclub.com/drinking-gear.html",
+      "page_title": "Drinking Gear - Campground Country Club",
+      "title": "Drinking Gear",
+      "description": "Growlers, totes, coolers, koozies & drinking accessories with link to buy.",
+      "text": "Campground Country Club\nHome\nHouse on a Hill Games\nIndoor Fun\nOutdoor Fun\nCamper Fun\nOutdoor Cooking\nDrinking Gear\nOutdoor Entertaining\nSpectator Gear\nElectric Whips\nDivergent Golfs\nHome\nHouse on a Hill Games\nIndoor Fun\nOutdoor Fun\nCamper Fun\nOutdoor Cooking\nDrinking Gear\nOutdoor Entertaining\nSpectator Gear\nElectric Whips\nDivergent Golfs\nClick the black button to buy.\nGROWLERS\nStanley Growler\nHydroflask Growler\nGrowler Carrier\nGrowler Tote\nCOOLERS\nRovr Rollr\nColeman Steel Cooler\nyeti coolers\nBACKPACK COOLERS & TOTES\nYeti BackFlip\nIceMule Pro Cooler\nHydroFlask Unbound Cooler\nRovr Cocktail Tote\nACCESSORIES\nBottleKeeper\nBeer Blanket\nCooler Light\nHydroFlask Pint\nBeer Concealer\nStanley shot party\nDRINKING GAMES\nDrunk Cards\nyou laugh you drink\ndo or drink\nbuzzed blocks\nHome\nHouse on a Hill Games\nIndoor Fun\nOutdoor Fun\nCamper Fun\nOutdoor Cooking\nDrinking Gear\nOutdoor Entertaining\nSpectator Gear\nElectric Whips\nDivergent Golfs",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.malumatfurus.org/kutu-kola-kilifi/",
+      "page_title": "Kutu Kola Kılıfı İle Alkol Yasağının Delindiği İddia Olunan Görseller",
+      "title": "Kutu Kola Kılıfı İle Alkol Yasağının Delindiği İddia Olunan Görseller - Malumatfuruş",
+      "description": "Görselin Katar'da Dünya Kupası Maçlarında Taraftarların Kutu Kola Görünümlü Kılıflarla Alkol Yasağını Deldiğini Gösterdiği İddiası Doğru Değil",
+      "text": "Görselin Katar’da Dünya Kupası Maçlarında Taraftarların Kutu Kola Görünümlü Kılıflarla Alkol Yasağını Deldiğini Gösterdiği İddiası Doğru Değil\nKatar’da düzenlenen 2022 FIFA Dünya Kupası maçlarının düzenlendiği stadyum ve çevresinde alkol satışı yapılmayacağı açıklanmıştı.\nMaçları izlemek isteyen taraftarların alkol yasağını delmek için inovatif girişimlere tevessül ettiği iddiasıyla sosyal medyada aşağıdaki görsellerin paylaşıldığı görülüyor.\nBu görsellerin sosyal medyada yaygın şekilde, Dünya Kupası’nda uygulanan alkol yasağının taraftarlar tarafından delindiğini gösterdiği iddiasıyla paylaşıldığına şahit oluyoruz…\nAbsürt Haberler: “Statlarda alkol tüketmenin yasak olduğu Katar 2022 Dünya Kupası’nda bazı taraftarların bulduğu çözümler.”\nBahsi geçen görsellerin Katar’la ya da Dünya Kupası organizasyonu ile bir ilgisi bulunmuyor.\nGörseller, Katar’daki 2022 FIFA Dünya Kupası maçları başlamadan çok daha öncesine ait.\nCoca-Cola markası görünümlü içecek kılıfının görüldüğü fotoğrafın 7 Haziran 2022 günü No Context Brits adlı Twitter profilince paylaşıldığı anlaşılıyor.\n— No Context Brits (@NoContextBrits) June 7, 2022\nPepsi markası görünümlü kaplamanın görüldüğü diğer görsel ise 2015 yılında Birleşik Arap Emirlikleri üzerinden Suudi Arabistan’a Pepsi kutu kola kisvesi altında sokulmaya çalışılırken el konulan 48.000 kutu biraya ait.\nBazı tüketicilerin, bira gizleme kılıfları ile içeceklerinin görüntüsünün değiştirmeyi tercih ettiği, çeşitli e-ticaret sitelerinde farklı birçok markanın simgelerini taşıyan silikon meşrubat kutusu kılıflarının satışa sunulduğu biliniyor.",
+      "image_captions": [
+        "dunya kupasi yasaklari",
+        "Suriye Devleti Yerine Özgür Suriye Ordusu'nun (ÖSO) Bayrağının Katar'da 2022'de Düzenlenecek Dünya Kupası Resmî Logosunda Yer Aldığı İddiası Asılsız",
+        "dunya-kupasinda-kadin-taraftara-taciz",
+        "real madrid galatasaray super kupa",
+        "yasin-bounou-arapca-basin-toplantisi"
+      ]
+    }
+  ],
+  "evidence_count": 5,
+  "crawled_at": "2026-04-23T17:56:59.961222+00:00"
+}

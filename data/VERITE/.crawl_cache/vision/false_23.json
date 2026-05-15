@@ -1,0 +1,107 @@
+{
+  "sample_id": "false_23",
+  "image_url": "https://c.ndtvimg.com/2021-04/rg3g2ta8_queen-elizabeth-prince-philip_625x300_17_April_21.jpg?im=Resize=(1230,900)",
+  "visual_entities": [
+    {
+      "description": "Prince Philip",
+      "score": 14.986501
+    },
+    {
+      "description": "Charles III",
+      "score": 1.0638001
+    },
+    {
+      "description": "British royal family",
+      "score": 0.7086
+    },
+    {
+      "description": "Prince",
+      "score": 0.5678
+    },
+    {
+      "description": "Duke of Edinburgh",
+      "score": 0.5504
+    },
+    {
+      "description": "Royal family",
+      "score": 0.5414
+    },
+    {
+      "description": "Monarch",
+      "score": 0.5312
+    },
+    {
+      "description": "Royal consort",
+      "score": 0.3938
+    },
+    {
+      "description": "Monarchy",
+      "score": 0.3548
+    },
+    {
+      "description": "official",
+      "score": 0.3544
+    }
+  ],
+  "best_guess_labels": [
+    "Prince Philip"
+  ],
+  "similar_image_urls": [
+    "https://64.media.tumblr.com/eec55ea613dc4b53aa8c7f24fe8ea0fd/7860ce098e4c5598-4a/s1280x1920/b85d62e053ce8f92b73008d45871e79227b33d55.jpg",
+    "https://www.quotidiano.net/image-service/version/c:MzhhODMzZTktMzAzOS00:ZTktMzAzOS00MmNhN2Fi/la-regina-elisabetta-con-il-principe-filippo-ansa.webp?f=16%3A9&q=0.75&w=1280",
+    "https://www.dhnet.be/resizer/v2/2PXSYYGW3FAK3KRPAUCSFH737U.jpg?auth=14dc65b746e16556d890f7b1ead0906e27df1f45d21969169da8002e4563ee8a&width=1620&height=911&quality=85&focal=1263%2C854",
+    "https://www.quotidiano.net/image-service/version/c:MzhhODMzZTktMzAzOS00:ZTktMzAzOS00MmNhN2Fi/la-regina-elisabetta-con-il-principe-filippo-ansa.jpg?f=16:9&w=1200&h=675",
+    "https://i2-prod.mirror.co.uk/incoming/article23953421.ece/ALTERNATES/s615b/1_St-Pauls-memorial-service-mark-the-end-of-13-year-long-combat-operations-in-Afghanistan.jpg",
+    "https://stirileprotv.ro/img/2021/04/08/210000/62183843.jpg?fm=jpg&q=80&fit=crop&crop=594%2C456%2C0%2C0&w=1280",
+    "https://i2-prod.mirror.co.uk/article23953421.ece/ALTERNATES/s1200e/1_St-Pauls-memorial-service-mark-the-end-of-13-year-long-combat-operations-in-Afghanistan.jpg",
+    "https://www.dhnet.be/resizer/v2/2PXSYYGW3FAK3KRPAUCSFH737U.jpg?auth=14dc65b746e16556d890f7b1ead0906e27df1f45d21969169da8002e4563ee8a&width=1620&height=1215&quality=85&focal=1263%2C854",
+    "https://ca-times.brightspotcdn.com/dims4/default/781232c/2147483647/strip/false/crop/1135x638+0+1/resize/1200x675!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff6%2Ff8%2Fd6c1391440bf9a944701324302e4%2Fscreen-shot-2021-04-11-at-11.33.43%20AM.png",
+    "https://img.rtve.es/n/2085258?w=800&preview=1617980353389.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.vanityfair.com/style/photos/2021/04/prince-philip-life-in-pictures",
+      "page_title": "Prince Philip's Life in Pictures | Vanity Fair",
+      "title": "Prince Philip’s Life in Pictures",
+      "description": "The royal, who died on April 9 at the age of 99, was married to Queen Elizabeth for more than seventy years.",
+      "text": "Prince Philip’s Life in Pictures\nFor most of his life, Prince Philip walked two paces behind the most powerful woman in the world. Over his nearly 100 years, he built a legacy of charity and support for the military that complemented the work of Queen Elizabeth II, yet the force of his own personality made him a beloved public figure in his own right. As the queen served as the head of state after her coronation in 1953, Philip became the head of the household, responsible for managing and modernizing the royals’ private estates and directing the education of his four children, Prince Charles, Princess Anne, Prince Andrew, and Prince Edward.\nOn Wednesday, April 9, the royal died peacefully at Windsor Castle. As we remember the hardworking royal and devoted father, here are some of the images that tell his story.",
+      "image_captions": [
+        "From Picture Post/Hulton Archive/Getty Images.c. 1929Philip, second from left, with his schoolmates at the MacJannet American School. On June 10, 1921, Philip was born the youngest child and only son of Prince Andrew of Greece and his wife, Princess Alice, a granddaughter of Queen Victoria. But within a few years, the Greek royal family was ousted and his family was exiled. They eventually moved to Saint-Cloud, a leafy suburb of Paris, where they stayed with a relative and Philip attended a school that was founded for the children of American expats. A few years after this picture was taken he would attend boarding school in Germany, eventually withdrawing after Hitler’s rise to power.",
+        "From Fox Photos/Getty Images.July 1935Philip in costume for a high school performance ofMacbeth.The prince was first enrolled in boarding school at the age of eight, when his mother was hospitalized after a nervous breakdown and his father moved to Monte Carlo. At 13, he arrived in Scotland to attend the Gordonstoun School, a new boarding school that espoused a philosophy of sportsmanship and outdoor activity. “When Philip first came to Gordonstoun his most remarkable trait was his undefeatable spirit,” the school’s headmaster Kurt Hahn later wrote. “His laughter was heard everywhere.”",
+        "From ullstein bild/Getty Images.c. 1938Philip (bottom row, third from left) with the Gordonstoun student cricket team, of which he eventually became captain. Though he would be closely identified with polo as an adult, he loved cricket as in his younger years, and supported various cricket charities for much of his adult life. According to his biographer,Ingrid Seward,the Australian cricket legend Don Bradman once said Philip had “perfect technique as a batsman.”",
+        "From Paul Popper/Popperfoto/Getty Images.November 20, 1947Elizabeth and Philip stand on the Buckingham Palace balcony with family after their Westminster Abbey wedding earlier in the day. Before Philip proposed to Elizabeth in July 1947, he used diamonds from a tiara given to his mother by Tsar Nicholas II to design an extravagant ring. Other diamonds from the set were turned into a bracelet he gave to her as a wedding present.",
+        "From Fisher/Central Press/Getty Images.July 27, 1951Philip leads his then two-year-old sonPrince Charlesby the hand on the tarmac at London airport. In 1949 the family lived in Malta, where Philip eventually served as a commander in the royal navy; by 1951 they had returned to England as King George VI’s health was in decline."
+      ]
+    },
+    {
+      "url": "https://www.mirror.co.uk/news/royals/queens-funeral-sweet-nod-wedding-28028675",
+      "page_title": "Queen's funeral had sweet nod to her wedding to Prince Philip 75 ...",
+      "title": "Queen's funeral had sweet nod to her wedding to Prince Philip 75 years ago",
+      "description": "Queen Elizabeth II paid poignant tribute to her beloved late husband Prince Philip, Duke of Edinburgh through the music chosen for her state funeral service, with a sweet nod to her wedding day",
+      "text": "Queen's funeral had sweet nod to her wedding to Prince Philip 75 years ago\nQueen Elizabeth II paid poignant tribute to her beloved late husband Prince Philip, Duke of Edinburgh through the music chosen for her state funeral service, with a sweet nod to her wedding day\nToday, the British public are saying their final goodbyes to Her Majesty, Queen Elizabeth II, with crowds of mourners gathering in central London to watch her coffin being carried through the streets as it takes her to her final resting place in Windsor.\nWhile many will only have known of the Queen in her later life, there will be those who will still remember her as a happy young bride on her wedding day, her duties still some years away. Through her choice of funeral music, Her Majesty gave a touching nod to her wedding to her husband Prince Philip, Duke of Edinburgh, the man she described as being her \"strength and stay\" throughout her lengthy reign.\nThe second hymn to be sung at the Queen's funeral service, The Lord is My Shepherd was also once sung at the then Princess Elizabeth's wedding, which was also held at Westminster Abbey. The Queen was just 21 years old when she married Prince Philip on November 20th, 1947, four months after announcing their engagement.\nGet the news you want straight to your inbox. Sign up for a Mirror newsletter here.\nThe Queen's affection for the ancient hymn is well known. She even listed it as being among her ten favourite pieces of music during BBC Radio 2 show Our Queen: 90 Musical Years, which was commissioned to mark her 90th birthday celebrations.\nA popular Christian hymn, it's believed The Lord's my Shepherd was written by English politician and religious author, Francis Rous, drawing from the 23rd Psalm in the Bible.\nNowadays, it is usually sung to the tune, 'Crimond', thought to have been composed in 1871 by Jessie Seymour Irvine, the daughter of a Church of Scotland parish minister.\nYou can keep up with all updates from the funeral of Queen Elizabeth II on the Mirror's live blog\nIt hasn't been specifically stated why the Queen was so very fond of this hymn, however, it can be assumed the reassuring theme of God as a source of protective guidance resonated with Her Majesty's deeply held Christian faith.\nPrince Philip passed away on April 9th, 2021 at Windsor Castle, 74 years after their marriage began. The image of the Queen grieving alone at his funeral, due to social distancing restrictions, would become one of the most enduring images of the coronavirus pandemic.\nThe royal couple will this evening be laid to rest together at King George VI Memorial Chapel in Windsor, in a private ceremony attended by their son, King Charles III, and other members of the Royal family.\nYou can leave your tributes to Queen Elizabeth II here",
+      "image_captions": [
+        "The couple will today be laid to rest together at King George VI Memorial Chapel in Windsor(Image: Getty Images)",
+        "The hymn was also played a their royal wedding(Image: Corbis via Getty Images)",
+        "The Queen was just 21 when she was married(Image: AFP via Getty Images)",
+        "The hymn was known to be among Her Majesty's personal favourites(Image: AFP/Getty Images)",
+        "Queen Elizabeth II and Prince Philip, Duke of Edinburgh watch the Shropshire Diamond Jubilee Pageant during a visit to RAF Cosford"
+      ]
+    },
+    {
+      "url": "https://www.mirror.co.uk/news/uk-news/breaking-queen-thanks-well-wishers-23953800",
+      "page_title": "Queen thanks well-wishers for their kindness in first message about ...",
+      "title": "Queen thanks people for their kindness in first message about Philip's death",
+      "description": "The Queen shared the short statement on the royal family's social media pages, her first message since Prince Philip passed away",
+      "text": "Queen thanks well-wishers for their kindness in first message about Philip's death\nThe Queen shared the short statement on the royal family's social media pages, her first message since Prince Philip passed away\nThe Queen has thanked people for their kindness in her first message since she announced the death of her \"beloved\" husband Prince Philip.\nThe short message was shared on the royal family's social media accounts today, her 95th birthday.\nShe said that while the royal family are going through a \"period of great sadness\", they have found comfort in hearing people's memories of the Duke of Edinburgh.\nShe wrote: \"I have, on the occasion of my 95th birthday today, received many messages of good wishes, which I very much appreciate.\n\"While as a family we are in a period of great sadness, it has been a comfort to us all to see and hear the tributes paid to my husband, from those within the United Kingdom, the Commonwealth and around the world.\n\"My family and I would like to thank you all for the support and kindess shown to us in recent days.\n\"We have been deeply touched, and continue to be reminded that Philip had such an extraordinary impact on countless people throughout his life.\"\nThis morning the account also posted an old photo of the Monarch, along with a sad birthday message referencing the royal mourning she is currently observing.\nIt's the first birthday she's spent without the Duke of Edinburgh, who she described as her \"strength and stay\" for more than seven decades.\nIt said: \"Today is The Queen’s 95th birthday. HM was born on 21 April 1926 at 17 Bruton Street in London, the first child of The Duke and Duchess of York.\n\"This year The Queen remains at Windsor Castle during a period of Royal Mourning following the death of The Duke of Edinburgh.\"\nShe is spending the day privately with a few members of her family. Some are visiting her for lunch while others are accompanying her on walks around Windsor.",
+      "image_captions": [
+        "The Queen is currently observing a period of royal mourning(Image: Getty Images)",
+        "The Queen turn 95 today(Image: Tim Graham/Getty Images)",
+        "It's the Queen's first birthday without her husband(Image: AFP/Getty Images)",
+        "The Queen said her final goodbyes to Prince Philip at his funeral on Saturday(Image: REUTERS)",
+        "The Queen and Prince Philip visit Broadlands"
+      ]
+    }
+  ],
+  "evidence_count": 3,
+  "crawled_at": "2026-04-23T16:51:34.392357+00:00"
+}

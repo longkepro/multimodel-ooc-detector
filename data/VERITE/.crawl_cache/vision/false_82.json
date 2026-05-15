@@ -1,0 +1,65 @@
+{
+  "sample_id": "false_82",
+  "image_url": "https://img.mensxp.com/media/content/2017/May/guy-photoshops-himself-sleeping-next-to-celebrities-652x400-8-1495682830.jpg",
+  "visual_entities": [
+    {
+      "description": "Fan",
+      "score": 0.7385
+    },
+    {
+      "description": "",
+      "score": 0.717
+    },
+    {
+      "description": "Vornado",
+      "score": 0.717
+    },
+    {
+      "description": "Ceiling Fan",
+      "score": 0.7103
+    },
+    {
+      "description": "Lasko",
+      "score": 0.51
+    },
+    {
+      "description": "Vornado 630 Mid-Size Whole Room Air Circulator Fan",
+      "score": 0.5075
+    },
+    {
+      "description": "Pelonis",
+      "score": 0.4985
+    },
+    {
+      "description": "Misting Fan",
+      "score": 0.4575
+    },
+    {
+      "description": "Appliance",
+      "score": 0.4406
+    },
+    {
+      "description": "Hunter 52\" Adirondack Ceiling Fan with LED Light Kit and Pull Chain 59580",
+      "score": 0.373
+    }
+  ],
+  "best_guess_labels": [
+    "fan"
+  ],
+  "similar_image_urls": [
+    "https://www.laguiadelvaron.com/wp-content/uploads/2017/05/vd9.jpg",
+    "https://www.dhnet.be/resizer/v2/4ZVZI6O2TJDFTDQZKUXLKBYVFA.jpg?auth=7b0bd11bbad345775ea2049813ae9acca6aaefaf83fe2033e0e06efe848216a4&width=1280&height=640&quality=85&focal=470%2C235"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.walmart.com/browse/home-improvement/metal-fans/fan/1072864_133032_1231458_1230511_2716471/YnJhbmQ6RmFu",
+      "page_title": "Fan Metal Fans in Fans - Walmart.com",
+      "title": "Robot or human?",
+      "description": "",
+      "text": "Robot or human?\nActivate and hold the button to confirm that you’re human. Thank You!",
+      "image_captions": []
+    }
+  ],
+  "evidence_count": 1,
+  "crawled_at": "2026-04-23T17:13:19.081073+00:00"
+}

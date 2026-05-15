@@ -1,0 +1,89 @@
+{
+  "sample_id": "true_41",
+  "image_url": "https://pbs.twimg.com/media/Ee6r5NkVAAAmZg5?format=jpg&name=large",
+  "visual_entities": [
+    {
+      "description": "T-shirt",
+      "score": 0.88215005
+    },
+    {
+      "description": "Fashion",
+      "score": 0.7239
+    },
+    {
+      "description": "Dress",
+      "score": 0.7109
+    },
+    {
+      "description": "Clothing",
+      "score": 0.705
+    },
+    {
+      "description": "Boot",
+      "score": 0.7047
+    },
+    {
+      "description": "Womens fashion",
+      "score": 0.6812
+    },
+    {
+      "description": "Women's Clothing",
+      "score": 0.6251
+    },
+    {
+      "description": "",
+      "score": 0.5845
+    },
+    {
+      "description": "Street style",
+      "score": 0.5329
+    },
+    {
+      "description": "Maxi dress",
+      "score": 0.5106
+    },
+    {
+      "description": "",
+      "score": 0.5089
+    },
+    {
+      "description": "Dr. Martens",
+      "score": 0.5089
+    },
+    {
+      "description": "Skirt",
+      "score": 0.5069
+    }
+  ],
+  "best_guess_labels": [
+    "punk womens fashion"
+  ],
+  "similar_image_urls": [
+    "https://netizenturkey.net/wp-content/uploads/2025/10/image-19-11.jpg",
+    "https://t1.daumcdn.net/cafeattach/1IHuH/8ca94d800d0bf26ef3e527fb60473c093e82dcc8",
+    "https://t1.daumcdn.net/cafeattach/mEr9/3cdf51663e247e2807fbe1264ff9e6209adfeef0",
+    "https://tokyofashion.com/wp-content/uploads/2020/07/TK-2020-06-07-004-001-Harajuku.jpg",
+    "https://image.fmkorea.com/files/attach/new5/20251030/9093645835_486616_99b983892094b5c6d2fc3736e15da7d1_1.jpg",
+    "https://ohmagazinerd.com/wp-content/uploads/2025/03/TK-2020-06-07-004-001-Harajuku-600x900-1.jpg",
+    "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3879138300854945143",
+    "https://media.licdn.com/dms/image/v2/D5610AQGoiYOAd5DUZw/image-shrink_1280/B56Z1WWAKdKgAc-/0/1775270102094?e=2147483647&v=beta&t=WdgR97MlMEwIaoSvBQCEuwXHSZN7xHsyq_l5Lj0Ye9k",
+    "https://pbs.twimg.com/media/HGX3482aQAA__cF.jpg",
+    "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3879122285097491701"
+  ],
+  "evidence": [
+    {
+      "url": "https://scuba-expeditions.com/?a=109366111111750",
+      "page_title": "Street Style Botas Dr Martens Punk Fashion Reboot",
+      "title": "Scuba Expeditions Fuvahmulah | Shark Diving & Diving Expeditions Maldives",
+      "description": "Scuba Expeditions Fuvahmulah — premier Shark Diving Fuvahmulah, Shark Expeditions, Fishing Expeditions, and Expeditions Hotels including Maa Thundi Fuvahmulah. Year-round tiger shark diving in the Maldives.",
+      "text": "Explore Maldives, Dive with Giants, Embrace Local Life. Based on the island of Fuvahmulah in the heart of the Indian Ocean.\nAbout Us\nLocated as the first island across the equator in the Maldives, Fuvahmulah is unlike any other destination in the world. Lush vegetation, freshwater lakes, pristine beaches, and the only place on earth where you can reliably encounter tiger sharks, thresher sharks, and an extraordinary array of pelagic marine life.\nScuba Expeditions is the premier experience centre on this remarkable island — combining world-class diving with authentic Maldivian culture and the unparalleled luxury of our boutique hotel, MaaThundi.\nExperiences\nFrom exhilarating tiger shark dives to serene reef explorations, every dive is guided by expert instructors dedicated to your safety and wonder.\nWitness these majestic creatures in their natural habitat. Fuvahmulah is one of the only places where tiger sharks can be encountered year-round.\nExplore the open ocean and encounter sharks, thresher rays, hammerheads, and vast schools of fish in the nutrient-rich waters around Fuvahmulah.\nDiscover vibrant coral reefs, freshwater lakes, historical sites, and the rich cultural tapestry of Fuvahmulah beyond the ocean.\nExperience the thrill of freediving with pelagics in the pristine waters of Fuvahmulah. Led by a certified Molchanovs Freediving Instructor.\nTour Packages\nWhy Fuvahmulah\nFuvahmulah sits alone in the Indian Ocean, the first island across the equator in the Maldives. Its unique geography — a single atoll with no lagoon — creates extraordinary current dynamics that attract the rarest pelagic species on earth.\nTiger sharks can be encountered year-round at our signature dive sites\nFreshwater lakes, taro fields, and tropical vegetation unlike any other Maldivian island\nExperience genuine Maldivian hospitality, cuisine, and centuries of island heritage\nTestimonials\nHear from adventurers who have experienced the magic of Fuvahmulah with Scuba Expeditions.\n\"The crew is very knowledgeable and extremely helpful even to divers who might not be at their fittest. The operation is remarkably well organized and timed, without the slightest hint of stress on board and the guiding during the dives was very impressive. We felt taken care of perfectly all around.\"\n\"If there were a rating higher than 'excellent,' the guides and the entire crew would definitely deserve an 'outstanding'! The boat trips to the different dive sites were usually short, and we were lucky to always be in a small group of just 3 to 6 divers—simply luxurious.\"\n\"Fuvahmulah truly is world class diving. We saw Tigers every day with numbers going up to 15 per dive! All I can say is: Wow! Do not miss this place if you are a diver.\"\nAccommodation\nOur boutique hotel offers bespoke guest experiences with modern amenities and authentic Maldivian charm. Just a 3-minute walk from Thoondu Beach, with its white pebble stones and crystal-clear waters.\nEvery stay includes authentic Maldivian cuisine, curated cultural experiences, and the warmth of genuine island hospitality.",
+      "image_captions": [
+        "Tiger shark diving in Fuvahmulah",
+        "Fuvahmulah aerial view",
+        "MaaThundi Boutique Hotel"
+      ]
+    }
+  ],
+  "evidence_count": 1,
+  "crawled_at": "2026-04-23T16:57:08.491870+00:00"
+}

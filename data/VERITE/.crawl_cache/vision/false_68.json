@@ -1,0 +1,66 @@
+{
+  "sample_id": "false_68",
+  "image_url": "https://mustsharenews.com/wp-content/uploads/2021/02/tiong-bahru-lamp-post-3.jpg",
+  "visual_entities": [
+    {
+      "description": "Street light",
+      "score": 1.0875493
+    },
+    {
+      "description": "Light",
+      "score": 0.7036
+    },
+    {
+      "description": "Lighting",
+      "score": 0.7026
+    },
+    {
+      "description": "LED street light",
+      "score": 0.7015
+    },
+    {
+      "description": "Light fixture",
+      "score": 0.6214
+    },
+    {
+      "description": "Security lighting",
+      "score": 0.6095186
+    },
+    {
+      "description": "Light-emitting diode",
+      "score": 0.5224
+    },
+    {
+      "description": "Lamp",
+      "score": 0.4113
+    },
+    {
+      "description": "Street",
+      "score": 0.337
+    }
+  ],
+  "best_guess_labels": [
+    "street light"
+  ],
+  "similar_image_urls": [
+    "https://mustsharenews.com/wp-content/uploads/2021/02/tiong-bahru-lamp-post-3.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://mustsharenews.com/tiong-bahru-lamppost/",
+      "page_title": "13 People Stop Tiong Bahru Lamppost From Falling By Holding It ...",
+      "title": "13 People Stop Tiong Bahru Lamppost From Falling By Holding It Up, Receive SPF Award",
+      "description": "Last Dec, a 15-metre lamppost in Tiong Bahru was on the verge of falling when 13 individuals came to support it before LTA officers arrived.",
+      "text": "13 People Stopped 15-Metre Lamppost From Falling In Tiong Bahru In Dec 2020\nLast December was a particularly rainy and windy period for Singapore, as the country saw aircon weather rather than the usual hot-and-humid sweatfest.\nThough most Singaporeans enjoyed the cooling weather, it also presented a fair share of problems — potholes aside.\nOn 12 Dec 2020, a 15-metre lamppost at a Tiong Bahru carpark was reportedly on the verge of falling.\nThankfully, 13 brave individuals helped to support the structure for 90 minutes and prevented it from collapsing.\nMan heard a ‘click’ sound under Tiong Bahru lamppost\nAccording to Shin Min Daily News, the incident happened on 12 Dec 2020 at around 8.45pm at an open-air carpark near D’ Hotel Singapore.\nAt the time, a 38-year-old man, his wife, and 2 other ladies were taking a photo under the lamppost after having dinner at D’Hotel.\nAll of a sudden, the man heard a click sound coming from the lamppost and reportedly saw it tilting.\nThe man could not believe his eyes and asked the 3 ladies with him at the time to verify his observations.\nLamppost was indeed tilting\nTo their horror, the 38-year-old’s eyes were not pulling tricks and the 4 of them quickly held on to the lamppost.\nThe structure reportedly measured 15m in height and weighed several hundred kilograms.\n10 minutes later, a family of 5 who was walking to their car saw what was unfolding and joined them in preventing the lamppost from falling.\n1 of them also rushed to the restaurant to look for assistance while the others helped to inform the authorities\nLTA officers arrived & stabilised structure\nPolice officers later arrived at the scene and joined in to help the group at the foot of the lamppost.\nKeeping such a large structure standing is no easy feat. To keep each other going, they exchanged words of encouragement and took turns to rest, reported Shin Min Daily News.\nAround 10pm, officers from the Land Transport Authority arrived at the scene with a truck-mounted crane.\nThe lamppost was eventually stabilised and placed down safely.\nGets award for public-spiritedness\nOn Tuesday (23 Feb), the 13 members of the public received awards for their public-spiritedness.\nThanks to their proactive efforts, the lamppost was brought down with no injuries and damages sustained to properties around the area.\nKudos to those who stepped forward\nKudos to the individuals who stepped forward and helped with the collapsing lamppost.\nGiven the size and weight of the structure, we can only imagine the extent of the damage and injuries that it could’ve caused if left to fall.\nHave news you must share? Get in touch with us via email at hello@mustsharenews.com.\nFeatured image adapted from Shin Min Daily News and Singapore Police Force.",
+      "image_captions": [
+        "MS News – Independent News For Singaporeans",
+        "motorcyclist reverses into car after argument on CTE",
+        "Yio Chu Kang Secondary maths teacher dies, students say they will miss her",
+        "Yishun resident raises concern over void deck cluttered with fridge, tables & boxes, allegedly since 2024",
+        "2 S'poreans fined over S$2.6M for under-declaring imported vehicles to evade duty & GST"
+      ]
+    }
+  ],
+  "evidence_count": 1,
+  "crawled_at": "2026-04-23T17:08:40.114582+00:00"
+}

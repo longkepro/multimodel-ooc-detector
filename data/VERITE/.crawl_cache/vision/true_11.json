@@ -1,0 +1,63 @@
+{
+  "sample_id": "true_11",
+  "image_url": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2022/03/giant-snake-skeleton-google-maps-featured.jpg",
+  "visual_entities": [
+    {
+      "description": "Titanoboa",
+      "score": 1.07955
+    },
+    {
+      "description": "Vasuki indicus",
+      "score": 0.94245005
+    },
+    {
+      "description": "Snake skeleton",
+      "score": 0.664
+    },
+    {
+      "description": "Boa constrictor",
+      "score": 0.66264004
+    },
+    {
+      "description": "Python",
+      "score": 0.63165
+    },
+    {
+      "description": "Serpent d’Océan",
+      "score": 0.52245003
+    },
+    {
+      "description": "found",
+      "score": 0.4538
+    },
+    {
+      "description": "large",
+      "score": 0.3439
+    }
+  ],
+  "best_guess_labels": [
+    "largest snake skeleton ever found"
+  ],
+  "similar_image_urls": [
+    "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2022/03/giant-snake-skeleton-google-maps-featured.jpg",
+    "https://alolo.ru/wp-content/uploads/2025/03/KakvizmiisesreshchatvievFrantsiiaqoxomc.jpg",
+    "https://www.indy100.com/media-library/image.png?id=29603315&width=1200&height=600&coordinates=0%2C176%2C0%2C177",
+    "https://www.indy100.com/media-library/google-maps-has-started-blurring-dog-s-faces-to-protect-their-privacy.png?id=34140796&width=1245&height=700&quality=50&coordinates=0%2C31%2C0%2C31",
+    "https://www.indy100.com/media-library/image.png?id=29603315&width=1245&height=700&coordinates=0%2C110%2C0%2C110",
+    "https://www.indy100.com/media-library/image.png?id=29603315&width=2000&height=1500&coordinates=117%2C0%2C118%2C0"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.snopes.com/fact-check/google-maps-snake-skeleton/",
+      "page_title": "Was a Giant Snake Skeleton Found on Google Maps? - Snopes.com",
+      "title": "Was a Giant Snake Skeleton Found on Google Maps?",
+      "description": "Titanoboa was \"the largest snake that ever lived\" at a length of \"about 42 feet (13 meters) long,\" according to paleontologist Alex Hastings.",
+      "text": "On March 24, 2022, the @googlemapsfun TikTok channel published a new video. It purportedly documented the Google Maps discovery of a giant snake skeleton -- that of the extinct Titanoboa -- off the coast of France. However, this was not true. It simply showed a large, metallic sculpture that's known as Le Serpent d'Océan.\nThe Video\nThe TikTok clip described the supposed find of the giant snake skeleton on Google Maps as follows: \"Somewhere in France, we can see something giant you can only see with satellites. Hidden on Google Earth, users believe this to be a giant snake. It's about 30 meters long and bigger than any snake caught before.\" It ends with a mention of Titanoboa, an extinct species.\nIt appeared as the second of three different supposed Google Maps finds presented in this video:\nLe Serpent d'Océan\nIt's true that there's a giant snake skeleton off the coast of France that's visible on both Google Maps and Google Earth. However, it's an art installation made of metal, not a real skeleton.\nLe Serpent d'Océan is located in Saint-Brevin-les-Pins, a city located west of Nantes on the west coast of France. It measures 425 feet (130 meters) long.\nhttps://www.youtube.com/watch?v=hEOxjCdnHCQ\nAccording to loirevalley-france.co.uk, it's a free exhibit. \"Since June 2012, a huge snake, the work of the Chinese artist Huang Yong Ping, emerges on the beach of Mindin,\" the website published. \"Its skeleton appears with each tide, resembling an archaeological excavation and its movement makes it look alive. Don't miss it!\"\nThe giant snake skeleton known as Le Serpent d'Océan can be seen in satellite view on Google Maps.\nTitanoboa\nIn the TikTok clip, the mention of Titanoboa referred to an extinct species of giant snakes. The video briefly showed this picture from Flickr of what appeared to be another sculpture.\nIn 2018, the Associated Press interviewed Alex Hastings, a paleontologist who is the paleontology collection curator at the Science Museum of Minnesota. He said that Titanoboa was \"the largest snake that ever lived.\"\nAs a grad student, I was lucky enough to be one of the people who can claim at least partial discovery of Titanoboa, which is the largest snake that ever lived. It was about 42 feet (12.8 meters) long and weighed 1.25 tons and lived 60 million years ago in South America. It is a relative of the anacondas. It's the biggest by far in terms of both length and mass.\nSidebar: Bringing Extinct Species Back to Life?\nOn a completely different yet also interesting topic, Hastings was asked if the plot from \"Jurassic Park\" could ever actually happen. Could dinosaurs be brought back to life?\nThe short answer was no, because as he put it, \"the second that dinosaur blood gets into the mosquito's stomach, the digestive acids break up the DNA completely.\" He also added: \"DNA degrades after about 50,000 years, and dinosaurs are millions and millions of years old.\"\nIn sum, no, the TikTok video did not show the discovery of a giant snake skeleton off the coast of France on Google Maps. It was artwork.\nFor further reading, in 2015, we reported on another supposed giant snake skeleton that was on display in Australia.",
+      "image_captions": [
+        "A giant snake skeleton was supposedly found off the coast of France on Google Maps and Google Earth and was purportedly Titanoboa."
+      ]
+    }
+  ],
+  "evidence_count": 1,
+  "crawled_at": "2026-04-23T16:47:48.295905+00:00"
+}

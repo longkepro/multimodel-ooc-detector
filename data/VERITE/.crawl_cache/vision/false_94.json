@@ -1,0 +1,95 @@
+{
+  "sample_id": "false_94",
+  "image_url": "https://i.insider.com/5f9d716f69331a0011bc68e7?width=700",
+  "visual_entities": [
+    {
+      "description": "Madame Tussauds Berlin",
+      "score": 1.1868451
+    },
+    {
+      "description": "Madame Tussauds London",
+      "score": 1.1087999
+    },
+    {
+      "description": "Wax sculpture",
+      "score": 0.6834
+    },
+    {
+      "description": "Madame Tussauds",
+      "score": 0.6289
+    },
+    {
+      "description": "Museum",
+      "score": 0.4643
+    },
+    {
+      "description": "Dump Trump",
+      "score": 0.45284998
+    },
+    {
+      "description": "Statue",
+      "score": 0.4451
+    },
+    {
+      "description": "United States",
+      "score": 0.4392
+    }
+  ],
+  "best_guess_labels": [
+    "tussaud berlin trump"
+  ],
+  "similar_image_urls": [
+    "https://i.insider.com/5f9d716f69331a0011bc68e7?width=1200&format=jpeg",
+    "https://www.lejournaldesarts.fr/sites/lejournaldesarts/files/2020-11/donald-trump-dans-une-poubelle-au-musee-madame-tussauds-de-berlin-allemagne-copyright-photo-mtb.jpg",
+    "https://i.insider.com/5f9d716f69331a0011bc68e7?width=700",
+    "https://www.lejournaldesarts.fr/sites/lejournaldesarts/files/styles/libre_w468/public/2020-11/donald-trump-dans-une-poubelle-au-musee-madame-tussauds-de-berlin-allemagne-copyright-photo-mtb.jpg?h=1851c7f5&itok=2ONiagX-",
+    "https://media.gettyimages.com/id/1229357785/photo/berlin-germany-shortly-before-the-us-presidential-elections-madame-tussauds-berlin-throws-the.jpg?s=612x612&w=gi&k=20&c=X3JAo2jGCMV1Bd7pnNK_V5_ZL-_gfUwcYcl9MYoB-XE=",
+    "https://media.gettyimages.com/id/1229357373/photo/berlin-germany-shortly-before-the-us-presidential-elections-madame-tussauds-berlin-throws-the.jpg?s=612x612&w=gi&k=20&c=-ByCJpQS5TaaJ_RIxLqKSrY2DEqK9Tj8iTn1uymLePg=",
+    "https://api.s3.az1.t1.cloud/obzg62rnhe3wo5lfhbvgy4dg%3Asuper-static/prod/5f9d4d9b01c533770afe94c7-1900x.webp",
+    "https://s.yimg.com/ny/api/res/1.2/B5U0yzy_vnWSE6zCjcdV.Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDI7Y2Y9d2VicA--/https://media.zenfs.com/en/cosmopolitan_438/e0fca97eb3ecd67972674e9878c90ff8",
+    "https://s.yimg.com/ny/api/res/1.2/s5NC8.z_4qQZgBApFbog4w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0MDA7aD0xMjA0O2NmPXdlYnA-/https://media.zenfs.com/en/cosmopolitan_438/e0fca97eb3ecd67972674e9878c90ff8",
+    "https://media.gettyimages.com/id/1229364190/photo/berlin-germany-shortly-before-the-us-presidential-elections-madame-tussauds-berlin-throws-the.jpg?s=612x612&w=gi&k=20&c=Q7NWCpXWnDHgOdZhy1ndN2iyQVh_ZyDwitiGGW1ebo0="
+  ],
+  "evidence": [
+    {
+      "url": "https://www.gettyimages.com/editorial-images/entertainment/event/dump-trump-at-madame-tussauds-in-berlin/775582981",
+      "page_title": "DEU: \"Dump Trump\" At Madame Tussauds In Berlin - Getty Images",
+      "title": "Getty Images",
+      "description": "Getty Images. Find high resolution royalty-free images, editorial stock photos, vector art, video footage clips and stock music licensing at the richest image search photo library online.",
+      "text": "d3sign\n818362142\nUser validation",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.businessinsider.com/berlins-madame-tussauds-places-its-trump-statue-in-garbage-bin-2020-10",
+      "page_title": "Berlin's Madame Tussauds Places Its Trump Statue in Garbage Bin",
+      "title": "Berlin's Madame Tussauds put its wax Trump statue in a garbage bin just days before US election",
+      "description": "The wax Trump statue was surrounded by images of his signature catchphrases — \"Fake News,\" and \"You Are Fired.\"",
+      "text": "- Madame Tussauds wax museum in Berlin has placed its statue of President Donald Trump in a garbage bin, Reuters reports.\n- The stunt comes just days before the US presidential election on November 3, and as reports surface of Trump trailing Democratic Nominee Joe Biden in the polls.\n- Orkide Yalcindag, the museum's marketing manager, told Reuters they decided to place the statue of Trump in the dumpster as a \"preparatory measure.\"\n- Visit Business Insider's homepage for more stories.\nBerlin's Madame Tussauds has placed its statue of President Donald Trump in a garbage bin filled with trash bags, according to Reuters.\nThe trash bin, which was labeled with the words \"Dump Trump Make America Great Again,\" was surrounded by images of the president's tweets, including phrases like \"Fake News\" and \"You are Fired,\" as well as \"I Love Berlin,\" as reported by The Hill. A Make America Great Again hat was also placed on top of one of the trash bags.\nOrkide Yalcindag, the museum's marketing manager, told Reuters that Trump's new placement in the dumpster was supposed to reflect the wax museum's expectations of how the US election will turn out.\n\"Today's activity is rather of a symbolic character ahead of the elections in the United States,\" Yalcindag told the outlet. \"We here at Madame Tussauds Berlin removed Donald Trump's waxwork as a preparatory measure.\"\nThe stunt comes after Trump seems to be down in the polls. As reported by Vox's Matthew Yglesias, a dozen national surveys that were released Thursday show Biden leading Trump, ahead of Tuesday's election. The RealClearPolitics tracker shows that the national average has Biden leading by about 7.8 points.\nMadame Tussauds typically displays former US presidents, so there is the possibility that Trump will be placed back in the museum after the election, Reuters reported.",
+      "image_captions": [
+        "Download on the App Store",
+        "Get it on Google Play",
+        "Business Insider DE Logo"
+      ]
+    },
+    {
+      "url": "https://www.yahoo.com/lifestyle/madame-tussauds-threw-donald-trump-160600158.html",
+      "page_title": "Madame Tussauds Threw Its Donald Trump Wax Figure in a Literal ...",
+      "title": "Madame Tussauds Threw Its Donald Trump Wax Figure in a Literal Dumpster",
+      "description": "I’m 😂.",
+      "text": "Madame Tussauds Threw Its Donald Trump Wax Figure in a Literal Dumpster\nMadame Tussauds Berlin has shoved its Donald Trump wax figure into a dumpster.\nThe museum says the move is a “symbolic” and “preparatory measure” ahead of the upcoming United States election.\nIn a plot twist not even 2020 saw coming, Madame Tussauds Berlin revealed that it has thrown its Donald Trump wax figure into a dumpster ahead of the 2020 election. In other words, it dumped Trump both literally and figuratively.\nMadame Tussauds seems to have moved Wax Trump into his new dumpster home on Friday, with the museum’s marketing manager, Orkide Yalcindag, telling Reuters, “Today’s activity is rather of a symbolic character ahead of the elections in the United States. We here at Madame Tussauds Berlin removed Donald Trump’s waxwork as a preparatory measure.”\nI’m truly…speechless.\nAs you can see in these iconic and, frankly, history-making pictures, Wax Trump is surrounded by bags of trash, a discarded “Make America Great Again” hat, and several tweet bubbles including “Fake News!” “You are fired!” and my personal favorite, “I love Berlin!” The museum also kindly situated Trump’s dumpster in front of Trump Tower, so at least he’ll feel at home!\nP.S. While we’re on the subject of the election, go ahead and watch Selena Gomez talk to Senator Kamala Harris on the importance of voting right here:\nYou Might Also Like",
+      "image_captions": [
+        "Photo credit: BACKGRID"
+      ]
+    },
+    {
+      "url": "https://www.gettyimages.co.uk/detail/news-photo/shortly-before-the-us-presidential-elections-madame-news-photo/1229357473",
+      "page_title": "\"Dump Trump\" At Madame Tussauds In Berlin - Getty Images",
+      "title": "Getty Images",
+      "description": "Getty Images UK. Find high resolution royalty-free images, editorial stock photos, vector art, video footage clips and stock music licensing at the richest image search photo library online.",
+      "text": "d3sign\n818362142\nUser validation",
+      "image_captions": []
+    }
+  ],
+  "evidence_count": 4,
+  "crawled_at": "2026-04-23T17:16:23.083558+00:00"
+}

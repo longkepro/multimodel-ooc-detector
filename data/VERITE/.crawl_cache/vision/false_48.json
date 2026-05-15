@@ -1,0 +1,89 @@
+{
+  "sample_id": "false_48",
+  "image_url": "https://www.politico.com/dims4/default/1f3395a/2147483647/legacy_thumbnail/1200x799%3E/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F99%2F95%2F6da12f254212bd3a1a2359a0a0ca%2F190331-carter-biden-gty-773.jpg",
+  "visual_entities": [
+    {
+      "description": "Hallie Olivere Biden",
+      "score": 8.000999
+    },
+    {
+      "description": "US President",
+      "score": 0.5969
+    },
+    {
+      "description": "Vice President",
+      "score": 0.5543
+    },
+    {
+      "description": "United States",
+      "score": 0.54464996
+    },
+    {
+      "description": "United States Senator",
+      "score": 0.4079
+    },
+    {
+      "description": "United States Secretary of War",
+      "score": 0.4015
+    },
+    {
+      "description": "",
+      "score": 0.3631
+    }
+  ],
+  "best_guess_labels": [
+    "Joe Biden"
+  ],
+  "similar_image_urls": [
+    "https://media.cnn.com/api/v1/images/stellar/prod/150219171808-02-week-in-photos-0220.jpg?q=w_2000,h_1125,x_0,y_0,c_fill",
+    "https://cdnn1.inosmi.ru/img/24486/70/244867057_0:0:0:0_1240x0_80_0_0_e3179fd4c3316b40982465c4d7ddd371.jpg",
+    "https://arc-anglerfish-arc2-prod-pmn.s3.amazonaws.com/public/BCGGCF7GLBB7DPLGNDPOSXPZVA.jpg",
+    "https://cdn.abcotvs.com/dip/images/522313_021715-cc-biden-close-talker-1.jpg",
+    "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F99%2F95%2F6da12f254212bd3a1a2359a0a0ca%2F190331-carter-biden-gty-773.jpg",
+    "https://oncubanews.com/wp-content/uploads/2019/04/biden-mujeres.jpg",
+    "https://hao.cnyes.com/download_image.ashx?file=%2FUpload%2F54b28be14cb6456c951873e5aa52488f",
+    "https://www.usnews.com/dims4/USNEWS/c0729ca/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F78%2F29%2F72de979848258ad2c1d51c8a9168%2F150218-editorial.jpg",
+    "https://s.newtalk.tw/album/news/477/5f7e6718421da.jpg",
+    "https://resources.zhayieye.com/news/data/article/2024_08_03/48eabea815d0e09f6f8cbf7b9f059c2e.jpg?x-oss-process=image/resize,w_650,m_lfit"
+  ],
+  "evidence": [
+    {
+      "url": "https://abc7ny.com/post/photos-biden-getting-close-with-secretary-of-defenses-wife/522317/",
+      "page_title": "Biden getting close with Secretary of Defense's wife - ABC7 New York",
+      "title": "PHOTOS: Biden getting close with Secretary of Defense's wife",
+      "description": "Joe Biden, while known for being a close-talker, is being skewered on social media after photos and video reveal him getting a little too close with the new Defense Secretary's wife.",
+      "text": "24/7 Live\nNew York City\nNew Jersey\nLong Island\nNorthern Suburbs\nConnecticut\nPHOTOS: Biden getting close with Secretary of Defense's wife\nTuesday, February 17, 2015\nAP Photo\nReport a correction or typo\nCopyright © 2026 WABC-TV. All Rights Reserved.\nWatch Live\nON NOW\nTop Stories\nAccuWeather: Pick of the week\n1 hour ago\nGrandson of mob boss John Gotti sentenced on Long Island for COVID fraud\nNYPD searching for father after baby girl in stroller abandoned in Times Square\n1 still sought after high-speed chase with stolen purple Lamborghini in New Jersey\n'Melrose Place,' 'Days of Our Lives' star Patrick Muldoon dies at 57",
+      "image_captions": [
+        "Vice President Joe Biden stands with Stephanie Carter, wife of incoming Defense Secretary Ash Carter, right, during Carter's swearing in ceremony.",
+        "Vice President Joe Biden stands with Stephanie Carter, wife of incoming Defense Secretary Ash Carter.",
+        "Stephanie Carter watches at center as her husband Ash Carter, right, shakes hands with Vice President Joe Biden after being sworn in as the new Defense Secretary."
+      ]
+    },
+    {
+      "url": "https://abc7news.com/post/photos-biden-getting-close-with-secretary-of-defenses-wife/522317/",
+      "page_title": "PHOTOS: Biden getting close with Secretary of Defense's wife",
+      "title": "PHOTOS: Biden getting close with Secretary of Defense's wife",
+      "description": "Joe Biden, while known for being a close-talker, is being skewered on social media after photos and video reveal him getting a little too close with the new Defense Secretary's wife.",
+      "text": "24/7 Live\nSan Francisco\nEast Bay\nSouth Bay\nPeninsula\nNorth Bay\nPHOTOS: Biden getting close with Secretary of Defense's wife\nTuesday, February 17, 2015\nAP Photo\nReport a correction or typo\nCopyright © 2026 KGO-TV. All Rights Reserved.\nLive Streams\nON NOW\nTop Stories\nSuspect who allegedly stole UPS truck arrested after Fremont standoff\nWarner Bros shareholders approve Paramount's $81 billion takeover\n32 minutes ago\nTrump reclassifies state-licensed medical marijuana as less-dangerous\n20 minutes ago\n2 separate deaths on UC Berkeley campus under investigation: police\nIconic SF Symphony Music Director Michael Tilson Thomas dies at 81\n1 hour ago\nToddler killed in pedestrian crash near SJ apartment complex: police\nHere's how to unlock or find your CA inflation relief funds\n33 minutes ago\nLive updates: Trump says 'shoot,' 'kill' boats putting mines in strait\n1 hour ago",
+      "image_captions": [
+        "Vice President Joe Biden stands with Stephanie Carter, wife of incoming Defense Secretary Ash Carter, right, during Carter's swearing in ceremony.",
+        "Vice President Joe Biden stands with Stephanie Carter, wife of incoming Defense Secretary Ash Carter.",
+        "Stephanie Carter watches at center as her husband Ash Carter, right, shakes hands with Vice President Joe Biden after being sworn in as the new Defense Secretary."
+      ]
+    },
+    {
+      "url": "https://abc30.com/post/photos-biden-getting-close-with-secretary-of-defenses-wife/522317/",
+      "page_title": "Biden getting close with Secretary of Defense's wife - ABC30 Fresno",
+      "title": "PHOTOS: Biden getting close with Secretary of Defense's wife",
+      "description": "Joe Biden, while known for being a close-talker, is being skewered on social media after photos and video reveal him getting a little too close with the new Defense Secretary's wife.",
+      "text": "24/7 Live\nFresno County\nNorth Valley\nSouth Valley\nFoothills/Sierra\nPHOTOS: Biden getting close with Secretary of Defense's wife\nTuesday, February 17, 2015\nAP Photo\nReport a correction or typo\nCopyright © 2026 KFSN-TV. All Rights Reserved.\nWatch Live\nON NOW\nTop Stories\nBody-cam video shows arrest of man accused of Dinuba double homicide\n1 hour ago\nVideos show strong winds slamming into beloved market in Terra Bella\n1 hour ago\nStorm chaser travels 10 hours to Valley, captures tornado up close\n1 hour ago\n6 leading candidates for CA governor face off in debate\nTrump reclassifies state-licensed medical marijuana as less-dangerous\n20 minutes ago\nBarnes & Noble's new Clovis location gets opening date\n3 hours ago\nThousands celebrate Opening Day of 112th Clovis Rodeo\nNewsom won't back a specific Dem. primary candidate for CA governor",
+      "image_captions": [
+        "Vice President Joe Biden stands with Stephanie Carter, wife of incoming Defense Secretary Ash Carter, right, during Carter's swearing in ceremony.",
+        "Vice President Joe Biden stands with Stephanie Carter, wife of incoming Defense Secretary Ash Carter.",
+        "Stephanie Carter watches at center as her husband Ash Carter, right, shakes hands with Vice President Joe Biden after being sworn in as the new Defense Secretary."
+      ]
+    }
+  ],
+  "evidence_count": 3,
+  "crawled_at": "2026-04-23T16:59:51.504516+00:00"
+}

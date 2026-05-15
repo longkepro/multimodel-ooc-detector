@@ -1,0 +1,65 @@
+{
+  "sample_id": "false_231",
+  "image_url": "https://c.files.bbci.co.uk/A0E7/production/_88219114_66481400.jpg",
+  "visual_entities": [
+    {
+      "description": "Lai Ching-te",
+      "score": 5.9055
+    },
+    {
+      "description": "Legislator",
+      "score": 0.7064
+    },
+    {
+      "description": "Legislative session",
+      "score": 0.6594
+    },
+    {
+      "description": "Speaker",
+      "score": 0.6434
+    },
+    {
+      "description": "Politics",
+      "score": 0.5871
+    },
+    {
+      "description": "Legislature",
+      "score": 0.5177
+    },
+    {
+      "description": "Parliament of the United Kingdom",
+      "score": 0.5137
+    },
+    {
+      "description": "Minister",
+      "score": 0.4621
+    },
+    {
+      "description": "Deputy",
+      "score": 0.3897
+    }
+  ],
+  "best_guess_labels": [
+    "fights in parliament"
+  ],
+  "similar_image_urls": [
+    "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/A0E7/production/_88219114_66481400.jpg.webp",
+    "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/A0E7/production/_88219114_66481400.jpg",
+    "https://ichef.bbci.co.uk/news/1024/branded_news/C7F7/production/_88219115_66481400.jpg",
+    "https://ichef.bbci.co.uk/news/640/cpsprodpb/A0E7/production/_88219114_66481400.jpg",
+    "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/C7F7/production/_88219115_66481400.jpg",
+    "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/C7F7/production/_88219115_66481400.jpg.webp"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.theguardian.com/world/video/2014/nov/27/mps-brawl-parliament-world-video",
+      "page_title": "MPs brawl in parliaments around the world – video - The Guardian",
+      "title": "MPs brawl in parliaments around the world – video",
+      "description": "As Ukraine's MPs attend their inaugural session of parliament, we take a look at parliamentary brawling from around the world",
+      "text": "MPs brawl in parliaments around the world – video\nThis article is more than 11 years old\nUkraine's parliament is notorious for brawls and scuffles between MPs – but many other countries have a history of parliamentary fisticuffs. As Ukraine's MPs attend their inaugural session of parliament on Thursday, we take a look at parliamentary brawling from around the world, including India, Afghanistan, Japan, Italy, Turkey, South Korea … and Ukraine",
+      "image_captions": []
+    }
+  ],
+  "evidence_count": 1,
+  "crawled_at": "2026-04-23T17:57:34.651833+00:00"
+}

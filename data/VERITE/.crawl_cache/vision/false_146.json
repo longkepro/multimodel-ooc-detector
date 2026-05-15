@@ -1,0 +1,71 @@
+{
+  "sample_id": "false_146",
+  "image_url": "https://1.bp.blogspot.com/-ooYsTNkJL78/Wxnt9AwbOSI/AAAAAAABchU/dNK4zH-_9-4DGdmMNFELDLXFKaQSic6_ACLcBGAs/s1600/Colorized%2BPhotos%2Bof%2BHollywood%2BActors%2BFrom%2BBetween%2Bthe%2B1920s%2Band%2B1950s%2B%2B%252817%2529.jpg",
+  "visual_entities": [
+    {
+      "description": "Errol Flynn",
+      "score": 14.998501
+    },
+    {
+      "description": "Actor",
+      "score": 0.7162
+    },
+    {
+      "description": "1930s",
+      "score": 0.69345
+    },
+    {
+      "description": "Flynn McAllistair",
+      "score": 0.642
+    },
+    {
+      "description": "Classical Hollywood cinema",
+      "score": 0.4905
+    },
+    {
+      "description": "Swashbuckler",
+      "score": 0.456
+    },
+    {
+      "description": "Published",
+      "score": 0.4234
+    },
+    {
+      "description": "1950s",
+      "score": 0.39960003
+    },
+    {
+      "description": "Hollywood",
+      "score": 0.39765
+    },
+    {
+      "description": "Fashion",
+      "score": 0.369
+    },
+    {
+      "description": "June 20",
+      "score": 0.3141
+    }
+  ],
+  "best_guess_labels": [
+    "errol flynn suited"
+  ],
+  "similar_image_urls": [
+    "https://i.pinimg.com/736x/09/47/50/094750019126a05502867f472ee4f97c.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10157986926923706",
+    "https://i.pinimg.com/170x/cb/97/23/cb972319933fac3d8df97b74c2595918.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=122163669218196277"
+  ],
+  "evidence": [
+    {
+      "url": "https://national-dispatch.com/index.php/itemlist/tag/Errol%20Flynn",
+      "page_title": "Errol Flynn - National Dispatch",
+      "title": "National Dispatch - Errol Flynn",
+      "description": "National Dispatch is a comprehensive news organization dedicated to delivering factual, analytical, and balanced reporting on national developments, public policy, and civic life. It bridges the gap between citizens and institutions, providing clear insight into how decisions at the top shape realit...",
+      "text": "Displaying items by tag: Errol Flynn\nThursday, 29 January 2026 13:38\nJoel Thomas Ashley: The Stuntman Who Slid Into Stardom\nPublished in\nPersons\nTagged under",
+      "image_captions": []
+    }
+  ],
+  "evidence_count": 1,
+  "crawled_at": "2026-04-23T18:41:06.120033+00:00"
+}

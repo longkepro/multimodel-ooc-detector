@@ -1,0 +1,58 @@
+{
+  "sample_id": "false_245",
+  "image_url": "https://i.dawn.com/primary/2020/01/5e11e3e9dd587.jpg",
+  "visual_entities": [
+    {
+      "description": "Karachi",
+      "score": 1.29591
+    },
+    {
+      "description": "Beenish Javed",
+      "score": 0.9837
+    },
+    {
+      "description": "",
+      "score": 0.517
+    },
+    {
+      "description": "Islamabad",
+      "score": 0.4742595
+    },
+    {
+      "description": "12 May Karachi riots",
+      "score": 0.35985
+    },
+    {
+      "description": "Iran",
+      "score": 0.3243
+    },
+    {
+      "description": "People",
+      "score": 0.3021
+    }
+  ],
+  "best_guess_labels": [
+    "people protest in karachi"
+  ],
+  "similar_image_urls": [
+    "https://i.dawn.com/primary/2020/01/5e11e3e9dd587.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.cnn.com/2026/03/01/world/video/pro-iranian-protesters-killed-karachi-pakistan-storming-us-consulate-sophia-saifi-digvid",
+      "page_title": "Pro-Iranian protesters killed in Karachi after storming US consulate",
+      "title": "Pro-Iranian protesters killed in Karachi after storming US consulate | CNN",
+      "description": "Several people have died and dozens injured following protests at the heavily fortified US consulate compound in Karachi, according to Pakistan’s emergency services. CNN’s Sophia Saifi reports.",
+      "text": "Video Ad Feedback\nPro-Iranian protesters killed in Karachi after storming US consulate\nSeveral people have died and dozens injured following protests at the heavily fortified US consulate compound in Karachi, according to Pakistan’s emergency services. CNN's Sophia Saifi reports.\n1:30\n• Source:\nCNN\nThis just in...\n16 videos\nVideo Ad Feedback\nPro-Iranian protesters killed in Karachi after storming US consulate\nVideo Ad Feedback\nRep. Panetta on reports of Pentagon tensions: \"It's a Game of Thrones type of atmosphere\"\nVideo Ad Feedback\nOil spills from the Iran war are visible from space\nVideo Ad Feedback\nSurvivor of Hong Kong fire returns to charred home\nVideo Ad Feedback\nEl Salvador tries hundreds of alleged gang members\nVideo Ad Feedback\nBill Weir reports from the Arctic Ocean as sea ice drops to an alarming new low\nRepublican congressman draws connection between Iran war and Venezuelan oil\nVideo Ad Feedback\nChinese social media mocks Trump, touts China’s rise\nVideo Ad Feedback\nTrump says he will extend ceasefire with Iran until negotiations conclude\nVideo Ad Feedback\nAre the Americans detained in Iran part of the negotiations with Tehran?\nVideo Ad Feedback\nPresident Trump says it's 'highly unlikely' he would extend ceasefire with no deal\nVideo Ad Feedback\nNight footage shows US Marines boarding Iranian-flagged vessel\nVideo Ad Feedback\nChina's army trains with robot dogs and attack drones",
+      "image_captions": [
+        "117537_Pak Iran Protests digvid 1.jpg",
+        "CLEAN_RadfordHormuzConvert_digvid.00_02_11_05.Still002.jpg",
+        "DHa7s20260421_5335.MP4.19_44_12_11.Still001.jpg",
+        "still_22563405_12873.300000000001_still.jpg",
+        "bill weir arctic sea ice 042226.jpg"
+      ]
+    }
+  ],
+  "evidence_count": 1,
+  "crawled_at": "2026-04-23T18:01:50.584092+00:00"
+}

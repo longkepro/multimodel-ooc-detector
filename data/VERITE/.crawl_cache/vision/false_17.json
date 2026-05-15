@@ -1,0 +1,91 @@
+{
+  "sample_id": "false_17",
+  "image_url": "https://www.spsmai.com/military/images/THAR-SHAKTI-3.jpg",
+  "visual_entities": [
+    {
+      "description": "Helicopter",
+      "score": 1.0655999
+    },
+    {
+      "description": "Aircraft",
+      "score": 0.8469
+    },
+    {
+      "description": "Kaman K-MAX",
+      "score": 0.80835
+    },
+    {
+      "description": "Helicopter rotor",
+      "score": 0.7421
+    },
+    {
+      "description": "Bell MV-75 Cheyenne II",
+      "score": 0.72075003
+    },
+    {
+      "description": "Tandem-rotor aircraft",
+      "score": 0.7056
+    },
+    {
+      "description": "Intermeshing rotors",
+      "score": 0.7044
+    },
+    {
+      "description": "Boeing CH-47 Chinook",
+      "score": 0.69
+    },
+    {
+      "description": "Flight",
+      "score": 0.59475
+    },
+    {
+      "description": "Tail rotor",
+      "score": 0.575
+    },
+    {
+      "description": "Coaxial-rotor aircraft",
+      "score": 0.5627
+    },
+    {
+      "description": "Rotorcraft",
+      "score": 0.555
+    },
+    {
+      "description": "Tiltrotor",
+      "score": 0.5426
+    },
+    {
+      "description": "Aviation",
+      "score": 0.464
+    },
+    {
+      "description": "Thrust",
+      "score": 0.4436
+    }
+  ],
+  "best_guess_labels": [
+    "helicopter rotor"
+  ],
+  "similar_image_urls": [
+    "https://images.hindi.news18.com/ibnkhabar/uploads/2017/05/army-operation3.jpg",
+    "https://images.news18.com/ibnkhabar/uploads/2017/05/army-operation3.jpg",
+    "https://www.spsmai.com/military/images/THAR-SHAKTI-3.jpg",
+    "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/201705/chetak-3_051617031725.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.spsmai.com/military/?id=4473&q=Exercise-Thar-Shakti-concludes",
+      "page_title": "Exercise Thar Shakti concludes - SP's MAI",
+      "title": "Exercise Thar Shakti concludes",
+      "description": "The Chetak Corps of the Indian Army is a Holding Corps or what is termed as a Pivot Corps.",
+      "text": "The insightful articles, inspiring narrations and analytical perspectives presented by the Editorial Team, establish an alluring connect with the reader. My compliments and best wishes to SP Guide Publications.\n\"Over the past 60 years, the growth of SP Guide Publications has mirrored the rising stature of Indian Navy. Its well-researched and informative magazines on Defence and Aerospace sector have served to shape an educated opinion of our military personnel, policy makers and the public alike. I wish SP's Publication team continued success, fair winds and following seas in all future endeavour!\"\nSince, its inception in 1964, SP Guide Publications has consistently demonstrated commitment to high-quality journalism in the aerospace and defence sectors, earning a well-deserved reputation as Asia's largest media house in this domain. I wish SP Guide Publications continued success in its pursuit of excellence.\nThe Chetak Corps of the Indian Army is a Holding Corps or what is termed as a Pivot Corps. While there are many Holding or Pivot Corps in the Army, what is unique regarding the Chetak Corps is that it is a Rapidised Corps implying that it comprises RAPID Divisions (Reorganised Army Plains Infantry Divisions) instead of purely infantry divisions. The basic difference is that RAPIDs have greater fire power and more assets capable of providing rapid mobility and man oeuvre in the plains and desert/semi desert terrain. By virtue of its organisation and equipment it is capable of independently undertaking offensive manoeuvres despite being a defensive/holding corps.\nThe Chetak Corps recently carried out operational manoeuvres code named Exercise Thar Shakti in the deserts of Rajasthan. The month-long exercise involved approximately 20,000 troops along with tanks, ICVs, artillery guns and advanced surveillance sensors.\nLieutenant General Ashwani Kumar, General Officer Commanding, Chetak Corps along with senior officers reviewed the manoeuvres during the culmination phase of the exercise. The General officer expressed his satisfaction over the operational preparedness of the Corps and appreciated the troops for braving the high temperatures and harsh desert environment during the conduct of exercise. The exercise culminated on a high note fully achieving the desired aim with respect to capability development and operational challenges in the contemporary battlefield environment.\nGenerally such training exercises involves step by step training, comprising company/squadron/battery level training followed by Battalion / Regimental level training followed by formation (Brigade and Division) level training and culminating in the Corps level exercise. All training is done by integrating all arms and services so as make the training as realistic as possible to a war setting. Various newly inducted weapons, equipment and surveillance systems are tried out during such exercises to check their efficacy and mode of deployment and employment.",
+      "image_captions": [
+        "SP's Military Yearbook 23-2024",
+        "SP Guide Publications",
+        "Air Marshal Sandeep Singh"
+      ]
+    }
+  ],
+  "evidence_count": 1,
+  "crawled_at": "2026-04-23T16:49:40.130456+00:00"
+}

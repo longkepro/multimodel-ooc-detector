@@ -1,0 +1,102 @@
+{
+  "sample_id": "false_208",
+  "image_url": "https://i.ytimg.com/vi/I5T31uAvsjs/maxresdefault.jpg",
+  "visual_entities": [
+    {
+      "description": "San Diego - Sharp Mary Birch Hospital for Women & Newborns",
+      "score": 1.01295
+    },
+    {
+      "description": "Infant",
+      "score": 0.96754646
+    },
+    {
+      "description": "Childbirth",
+      "score": 0.7309814
+    },
+    {
+      "description": "World's Smallest Baby",
+      "score": 0.7045
+    },
+    {
+      "description": "Preterm birth",
+      "score": 0.6599
+    },
+    {
+      "description": "Premature infant",
+      "score": 0.5842
+    },
+    {
+      "description": "Doll",
+      "score": 0.5415
+    },
+    {
+      "description": "",
+      "score": 0.5395
+    },
+    {
+      "description": "Pregnancy",
+      "score": 0.5166
+    },
+    {
+      "description": "Reborn doll",
+      "score": 0.4936
+    },
+    {
+      "description": "Week 23 of pregnancy",
+      "score": 0.4753
+    },
+    {
+      "description": "small",
+      "score": 0.4097
+    },
+    {
+      "description": "Crying",
+      "score": 0.3511
+    }
+  ],
+  "best_guess_labels": [
+    "real very small baby"
+  ],
+  "similar_image_urls": [
+    "https://i.ytimg.com/vi/I5T31uAvsjs/maxresdefault.jpg",
+    "https://static.cdn.asset.aparat.com/avt/37087921-6083-b__6638.jpg",
+    "https://i.ytimg.com/vi/I5T31uAvsjs/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAR4EGMWRPBGMVuGAZcRSEWa39BDA"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.magisinsurance.com/?m=5159895n7",
+      "page_title": "Very buy very small baby - Official Online Store",
+      "title": "Home | Magis Insurance Agency Wayne, Pennsylvania",
+      "description": "Discover comprehensive insurance solutions tailored to your needs at Magis Insurance. Our experts provide personalized guidance for auto, home, life, and business insurance. Get peace of mind and protection today!",
+      "text": "MAGIS (mah-gis): Latin word that means “more.”\nAs an independent insurance firm, our name embodies our business philosophy.\nOUR SERVICES\nYou’ve built your life on doing more, achieving more, and earning more. So when it comes to protecting your assets, why accept less than total protection against damage, loss, and liability? At MAGIS Insurance Group, full protection of your assets is our top priority. From personal, home, and auto to business, marine, aircraft, and art, we tailor our coverage to your needs.\nThose who require more, choose MAGIS Insurance Group.\nWe provide asset protection to families and businesses by reviewing, designing, and managing comprehensive insurance programs with a coordinated contact regardless of the location of the client or their assets.\nMAGIS helps you…\n- Identify hidden risks\n- Protect assets in any geographic location\n- Reduce exposure of business assets to personal claims\nTHE MAGIS DIFFERENCE\nLocated in Wayne, Pennsylvania, along Philadelphia’s Main Line, we have national reach and capabilities. Clients and their advisors choose us for our approach and expertise, not always because we are in their back yard. Having an insurance agency that can coordinate what you own, no matter where it is located, can result in more protection.\nThe MAGIS Team is committed to three C’s: clarity, coordination and convenience. We want you to do what you do best, allowing us to do what we do best on your behalf.",
+      "image_captions": []
+    },
+    {
+      "url": "http://latelierducaillou.fr/?l=hotsell-341675816",
+      "page_title": "Hot small newborn babies Sale World s smallest baby who weighed ...",
+      "title": "Produits Zéro Déchet et Accessoires Faits Main - L'Atelier du Caillou",
+      "description": "Découvrez notre large gamme de produits zéro déchet et accessoires faits main pour une vie plus durable. L'Atelier du Caillou",
+      "text": "Bienvenue sur la boutique de l'Atelier du Caillou\nCréations alternatives pour un monde meilleur\nNos meilleures ventes\n-\n4,00€Choix des options Ce produit a plusieurs variations. Les options peuvent être choisies sur la page du produit\n-\n5,00€ – 20,00€Plage de prix : 5,00€ à 20,00€Choix des options Ce produit a plusieurs variations. Les options peuvent être choisies sur la page du produit\n-\n19,00€Choix des options Ce produit a plusieurs variations. Les options peuvent être choisies sur la page du produit\nSolutions pour une Cuisine Plus Responsable\nLE zéro déchet dans la cuisine\nExplorez notre sélection de produits écologiques conçus spécifiquement pour la cuisine.\nSolutions pour une salle de bain plus responsable\nLe zéro déchet dans la salle de bain\nExplorez notre sélection de produits écologiques conçus pour une salle de bain plus responsable.\nNotre engagement pour un monde plus durable\nChez l’Atelier du Caillou, notre engagement envers un monde plus durable est une priorité absolue. Nous nous efforçons de réduire notre empreinte écologique en créant des produits respectueux de l’environnement. De la sélection attentive des matériaux à la production éco-responsable, chaque étape de notre processus est pensée pour contribuer à la préservation de notre planète.\nLes Paysages Inspirants des Cévennes\nNiché au cœur des Cévennes, notre atelier puise son inspiration dans la beauté sauvage de son environnement. Les montagnes, les rivières et les forêts qui nous entourent nous rappellent chaque jour l’importance de protéger et de préserver notre nature.\nCertifications\nLe label VEGAN assure une fabrication sans produit d'origine animale. C'est donc tout sauf le cuir, la laine, la soie, la fourrure, etc..\nLe Label OEKO-TEX : Garant de Qualité et de Sécurité. Cette certification est un standard international qui assure l’absence de substances nocives dans les textiles.\nLe Label GOTS : Norme d’Excellence pour une Mode Éthique et Durable",
+      "image_captions": [
+        "Le zéro déchet dans ma cuisine",
+        "Le zéro déchet dans ma salle de bain",
+        "Le zéro déchet pour les enfants",
+        "Cosmétiques et Accessoires Zéro déchet",
+        "Pochette à savon imperméable en tissu enduit lavable, idéale pour transporter et protéger les savons solides, lavable en machine | Atelier du Caillou"
+      ]
+    },
+    {
+      "url": "http://www.it.cw/?i=collection-468709932",
+      "page_title": "Best tiny baby reborns 2026 SMALLEST Newborn Miniature Baby ...",
+      "title": "Home - Installation Technologies",
+      "description": "Installation Technologies is a technology integrator that consults, designs, installs, leases, and services the latest intelligent infrastructures and security systems in ways that enables your business run smoother, more efficiently, and safer. From small installations to turn key data centers, from simple home security to complex security systems for ports and airports, prisons and financial [...]",
+      "text": "Installation Technologies is a technology integrator that consults, designs, installs, leases, and services the latest intelligent infrastructures and security systems in ways that enables your business run smoother, more efficiently, and safer.\nFrom small installations to turn key data centers, from simple home security to complex security systems for ports and airports, prisons and financial institutions.\nWe have established long-term partnerships with leading brands like Rapiscan and AS&E, FLIR, Ansul, DSX, Vimar, Came, FAAC, Leviton and Panduit.\nThe customer is at the heart of everything we do. We encourage our clients to actively provide feedback and suggest improvements wherever possible. Thanks to our growing number of business partners, we are able to offer our products and services at the best possible value for money.\nWe cherish our employees; they are our most valuable assets. Our entire team lives by our core values: knowledge, service, passion, reliability and flexibility. Together, we make Installation Technologies excel.",
+      "image_captions": [
+        "Installation Technologies"
+      ]
+    }
+  ],
+  "evidence_count": 3,
+  "crawled_at": "2026-04-23T17:51:26.643811+00:00"
+}

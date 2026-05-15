@@ -1,0 +1,81 @@
+{
+  "sample_id": "true_90",
+  "image_url": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2019/08/igloo-snopes.jpg",
+  "visual_entities": [
+    {
+      "description": "Igloo",
+      "score": 0.9439
+    },
+    {
+      "description": "Fire",
+      "score": 0.705
+    },
+    {
+      "description": "Insulation",
+      "score": 0.5097
+    },
+    {
+      "description": "Heat",
+      "score": 0.4762
+    },
+    {
+      "description": "Water",
+      "score": 0.41939998
+    },
+    {
+      "description": "Fireplace",
+      "score": 0.3775
+    },
+    {
+      "description": "inner",
+      "score": 0.3754
+    },
+    {
+      "description": "Heat transfer",
+      "score": 0.3659
+    },
+    {
+      "description": "Snow",
+      "score": 0.329
+    },
+    {
+      "description": "available",
+      "score": 0.32
+    }
+  ],
+  "best_guess_labels": [
+    "igloo with fire inside"
+  ],
+  "similar_image_urls": [
+    "https://www.sciencebee.com.bd/daily-science/wp-content/uploads/2020/06/igloo-snopes.jpg",
+    "https://europe1.discourse-cdn.com/arduino/original/4X/4/c/0/4c054ede5ddcdb12ada035ed57162220ea62d4e3.jpeg",
+    "https://cdn.noron.vn/2021/06/23/igloo-snopes-1624434213.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=184756753874396",
+    "https://cdn.noron.vn/2021/06/23/igloo-snopes-1624434213_1024.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2368720983250301",
+    "https://europe1.discourse-cdn.com/arduino/optimized/4X/4/c/0/4c054ede5ddcdb12ada035ed57162220ea62d4e3_2_690x361.jpeg",
+    "https://mediaproxy.snopes.com/width/600/https://media.snopes.com/2019/08/igloo-snopes.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10231054467450887",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=122126680748342325"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.snopes.com/fact-check/what-fire-looks-like-in-igloo/",
+      "page_title": "Is This What an Igloo Looks Like When You Build a Fire Inside?",
+      "title": "Is This What an Igloo Looks Like When You Build a Fire Inside?",
+      "description": "We know this much: It is indeed possible to build a fire in an igloo for warmth and illumination.",
+      "text": "A photograph of an illuminated igloo is often shared on social media along with the claim that \"this is what an igloo looks like when you build a fire inside\":\nThis is a genuine photograph of an illuminated igloo. However, the light source is not a fire built inside this snowy structure. It's actually a flashlight.\nThis picture was snapped by Ukrainian photographer Volodymyr Shevchuk in the Carpathian Mountains circa 2015. While we couldn't find this exact image on Shevchuk's social media profiles, he has posted several other photographs of this illuminated igloo to both his Instagram and Facebook pages:\nWe reached out to Shevchuk for more information about the photographs, and he told us it was a flashlight, not a fire, illuminating this igloo from within. Furthermore, this is a \"long exposure\" photograph, which means that the camera's shutter was held open for an extended period of time, allowing more light to hit the sensor. In other words, this igloo wouldn't appear nearly as bright to a person standing next to it.\nShevchuk told us: \"We built this igloo in the Ukrainian Carpathians. The light in the middle is a flashlight. Photo taken at long exposure.\"\nWhile the images above may give viewers the impression that raging bonfires were commonly built inside of igloos, that wasn't the case. Traditionally, a much smaller flame from a kudlik (qulliq), a sort of lamp or candle made from seal-oil or blubber, was used to light and heat the inside of an igloo.\nA qulliq can be seen in the following video (starting around the 1:30 mark) from an episode of the BBC's \"Ray Mears World of Survival\":\nIgloos are made from blocks of compact snow, rather than blocks of ice, and snow is a rather good insulator. This makes it possible to keep the interior of an igloo at a reasonable temperature (above freezing) using only body heat, even when the temperatures outside plummet:\nSnow is such a good insulator that some animals dig snow caves in which to hibernate through the winter. New snow is composed of a high percentage of air trapped among the accumulated snow crystals. Since the air can barely move, heat transfer is greatly reduced. Fresh, uncompacted snow typically is 90 to 95 percent trapped air. Many animals take advantage of snow's insulating qualities, and burrow into the snow to hibernate through the winter.\nThe following video from the PBS Digital Studios' YouTube channel It's OK To Be Smart provides some more information on how igloos are built and how they are kept warm:\nWhile a quilliq was traditionally used to heat and light an igloo's insides, we did find a number of videos featuring wood bonfires. Here's what an igloo actually looks like when a fire is built inside:",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.istockphoto.com/photo/real-snow-igloo-house-in-the-winter-mountains-gm1210805350-350914325",
+      "page_title": "Real Snow Igloo House In The Winter Mountains Stock Photo - iStock",
+      "title": "iStock",
+      "description": "iStock. Khám phá trang web chính thức của iStock để có hàng triệu tệp tin sẵn có độc quyền, trả phí bản quyền một lần. Tìm kho ảnh hoàn hảo cho dự án của bạn một cách nhanh chóng. Tìm kiếm ngay bây giờ.",
+      "text": "82567379, Martin Poole",
+      "image_captions": []
+    }
+  ],
+  "evidence_count": 2,
+  "crawled_at": "2026-04-23T17:15:14.679049+00:00"
+}

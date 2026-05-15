@@ -1,0 +1,119 @@
+{
+  "sample_id": "false_293",
+  "image_url": "https://i.dailymail.co.uk/i/pix/2011/05/10/article-1385131-0BF94B7A00000578-556_964x632.jpg",
+  "visual_entities": [
+    {
+      "description": "Russia",
+      "score": 1.07445
+    },
+    {
+      "description": "Victory Day Parades",
+      "score": 0.8025
+    },
+    {
+      "description": "",
+      "score": 0.7163
+    },
+    {
+      "description": "Military parade",
+      "score": 0.6799
+    },
+    {
+      "description": "2008 Russian military reform",
+      "score": 0.6651
+    },
+    {
+      "description": "Moscow Victory Day Parade",
+      "score": 0.53085
+    },
+    {
+      "description": "Police of Russia",
+      "score": 0.4877
+    },
+    {
+      "description": "Russian Armed Forces",
+      "score": 0.445
+    },
+    {
+      "description": "Army officer",
+      "score": 0.4337
+    },
+    {
+      "description": "",
+      "score": 0.4152
+    }
+  ],
+  "best_guess_labels": [
+    "russian military"
+  ],
+  "similar_image_urls": [
+    "https://i2-prod.mirror.co.uk/incoming/article127630.ece/ALTERNATES/s1200b/image-1-for-editorial-pics-10-may-2011-gallery-417985697.jpg",
+    "https://i2-prod.mirror.co.uk/incoming/article127630.ece/ALTERNATES/s1200f/image-1-for-editorial-pics-10-may-2011-gallery-417985697.jpg",
+    "http://img-fotki.yandex.ru/get/6610/40919701.107/0_a9e3d_548b3f33_orig.jpg",
+    "http://file.instiz.net/data/file/20120817/e/d/c/edc48ba449c80c0e2a74ebe0691d3a06",
+    "http://i.imgur.com/YcbatsY.jpg",
+    "https://fashionhub.decorexpro.com/images/article/orig/2019/11/voennye-professii-dlya-devushek-1.jpg",
+    "https://external-preview.redd.it/russian-womens-military-parade-reposted-from-r-pics-v0-Kn06Sw2DTfjhQoNxEHapQ-tkhYQi65aRoU_P4ZfpoOs.jpg?auto=webp&s=94c9ac32e7640c1651e354e04145bc98a9641e97",
+    "https://journals.openedition.org/pipss/4016?file=1",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=185725611605989",
+    "http://upload.inven.co.kr/upload/2013/05/17/bbs/i2631741104.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.hudson.org/national-security-defense/the-state-of-the-russian-military",
+      "page_title": "The State of the Russian Military | Hudson Institute",
+      "title": "The State of the Russian Military",
+      "description": "I have had the opportunity to participate in the first Defense and Security section meeting of the Valdai International Discussion Club in Moscow from May 25-27. The discussions focus on the modernization of Russia's Armed Forces and cooperation in international security. The meeting was co-organized by Russian government RIA Novosti news agency, the independent Council on Foreign and Defense Policy think tank, and the Center for Analysis of Strategies and Technology (CAST) research institute.",
+      "text": "I have had the opportunity to participate in the first Defense and Security section meeting of the Valdai International Discussion Club in Moscow from May 25-27. The discussions focus on the modernization of Russia's Armed Forces and cooperation in international security. The meeting was co-organized by Russian government RIA Novosti news agency, the independent Council on Foreign and Defense Policy think tank, and the Center for Analysis of Strategies and Technology (CAST) research institute. According to its website, \"the Valdai Discussion Club provides a global forum for the world's leading and best-informed experts on Russia to engage in a sustained dialogue about the country's political, economic, social and cultural development.\"\nThe participants included about a dozen foreign military experts from Belarus, France, Germany, Norway, Turkey, and the United States. Almost a dozen other participants came from various Russian organizations.\nOn May 25, the first program day, we traveled an hour outside Moscow by bus to visit the 5th Guards Independent Motor Rifle Brigade. The acting commander led us on a tour of what was formerly known as the Division Tamanskaya. We first learned about the history of the unit through an hour-long tour of its museum. The unit was formed as the 127th Infantry Division in Kharkov on July 8, 1940. It achieved full combat readiness the following year, only two weeks after NAZI Germany launched its surprise attack on Stalin's underprepared Red Army. The unit fought with distinction throughout the war. It also served in the North Caucasus in the late 1990s, helping to \"restore constitutional order to Chechnya.\" In line with the current Russian military reform program, the division was restructured as a brigade in the last few years.\nAfter the museum tour, we then visited a barracks for the enlisted personnel. We also toured the gym and ate a decent meal in the canteen. Everything looked very nice though the question naturally arises how representative the facilities on display are of conditions in other parts of the Russian military. The brigade is special in at least one respect: the Russian Army uses the unit to test new tactics, techniques, and procedures.\nThe most interesting part of the tour was the live fire drill. The acting commander explained to us that new recruits undergo three stages of combat training. First, they study theoretical topics in the form of academic lectures. Then they go to the practicing ground near the dormitory to undertake small-scale simulated training. The final stage involves live-fire training in an open field.\nWe had the opportunity to watch them engage in the latter two stages of live-fire drills. It was quite a show, with loud explosions and fireworks simulating various combat conditions at the practicing ground. We saw units practice artillery attacks, small unit assaults, medical operations, and even nuclear, biological, and chemical decontamination of a tank with soldiers in personnel protection suits. All the soldiers were male conscripts except for a few male officers and technical specialists.\nWe then saw an exhibition of some of the most modern equipment of the Russian Army. For example, we were given a detailed briefing on the T-90 main battle tank. The commander said that the T-90 had no equivalent in the world. Unlike the M-1 Abrams, which uses a gas turbine engine, the T-90 uses a diesel engine, which is easier to upkeep and more suitable for Russian winters. The T-90 is also much smaller than the Abrams. We also saw the BTR-80 [GAZ 5903] Armored Personnel Carrier, the 2S6 Tunguska integrated air defense system (armed with cannons as well as surface to air missiles), and other combat systems as well as the Ural system of trucks. We also were able to handle a number of small arms and light weapons as well as uniforms and other military equipment.\nWe then went back to downtown Moscow to visit the RIA Novosti press club for a discussion on recent Russian military reforms, introduced by Sergey Karaganov, chairman of the \"Valdai\" Club. I had the opportunity to work with Sergey in the mid-1990s, when I was a post-doc at the Center for Science and International Affairs (CSIA) at Harvard University's John F. Kennedy School of Government. The CSIA, then led by Graham Allison, collaborated with Karaganov's Institute on several security projects, sometimes in collaboration with a European institution.\nAt RIA Novosti, Ruslan Pukhov, the head of CAST, reviewed some of the key Russian military reforms. According to his briefing, the Russian army before the reform process began a few years suffered from several major flaws.\nThese defects included excessively large command and administrative structures given the number of 100,000 combat-ready troops; a disproportionate number of officers and warrant officers, who comprised approximately half of Russia's military personnel; less than 13 percent of units being fully manned and combat ready; and hardly any procurement of modern weapons. Several other contextual factors drove the reform process, including a radical transformation in Russia's military-political situation due to the declining probability of large-scale wars and the growing prospects of Russian military involvement in regional conflicts, insurgencies, and counterterrorism operations.\nIn addition, modern warfare had evolved with network-centric operations and tactics replacing those for deep attacks, resulting in a rising relative importance of the Air Force and cyber systems and decreasing need for traditional conventional ground forces.\nOne of the main elements of the reform included transitioning from a mass-mobilization army to a smaller number of better trained and effective permanent combat readiness forces, with the undermanned (\"cadre\") units consolidated into a smaller number of fully manned and combat ready brigades. Most of the personnel cuts were directed against the officer corps, which was to be reduced by more than half, from 355,000 to 150,000, with all warrant officers eliminated and a new noncommissioned officer corps replaced. The main administrative unit was to change from divisions and regiments to smaller and more flexible brigades. The number of Army units was to decrease from 1,890 to 172 units, the number of Air Force units from 340 to 180, and the number of Navy units from 240 to 123.\nThe reform also envisaged an end to efforts to replace all conscripts with professional contract soldiers because conscript soldiers are cheaper, provided a large well-trained reserve component after they leave active service, and represent a practice more in harmony with Russian history and tradition.\nThe problem is that the length of the conscription, 12 months, does not provide sufficient time to train soldiers in modern combat operations. The reforms sought to improve the conditions of conscription by allowing them to serve close to their homes in some cases, by establishing a five-day work week (with two days off), and some less pleasant non-combat tasks (such as cleaning and cooking) outsourced to contractors.\nThus far, the reforms have achieved mixed results. Critics complain they have been proceeding too rapidly, with insufficient development and planning. The Russian government's ability to provide adequate financial and other resources to the reform process has also been questioned. The transformation of the units has been criticized for having insufficient command, reconnaissance, logistics, and rear services components. The ability of civilians to replace so many military personnel is also uncertain. The Ministry of Defense has also not yet made clear how it plans to train and maintain the reserve component.\nKonstantin Makienko of CAST delivered a report on \"State Armament Program 2011-2020.\" The reforms have sought to increase the large-scale acquisition and procurement of modern military equipment. Most of this equipment is Russian-made, but some foreign systems are being imported from foreign countries to help keep the Russian defense industries, not wishing to lose their domestic market, competitive. In contrast, the large size of the State Armament Program (SAP) 2011-2020 means that Russian defense industries will now give priority to providing weapons to the Russian military rather than manufacturing systems for exports.\nThe SAP aims to increase the proportion of modern weaponry in service with the Russian military to 30 per cent by 2015, and to 70 percent (up to 100 per cent for some types of weapons) by 2020. The Ministry of Defense (MOD) will spend 19.5 trillion roubles for its share of the program, with other security services paying smaller sums for their orders. The Ministry's priority procurement areas will be strategic nuclear forces, high-precision conventional weapons, and command, control, computers, and Command, Control, Communications, Computers, Intelligence, Surveillance and Reconnaissance (C4ISR) systems. Military research and development spending will decrease considerably from current levels to 10 per cent of overall spending, while 80 per cent of the MOD SAP will now go to buying new weapons, with the remaining 10 per cent paying for the repair and upgrade of existing equipment.\nUnder the SAP 2011-2020, the Air Force will procure up to 70 fifth-generation T-50 Fighters, 96 multirole Su-35S fighters, as many as 100 Su-34 frontline bombers, up to 20 An-124 heavy transports, 50-90 Il-476 transports, and as many as 120 Yak-130 advanced jet trainers. The Air Force will also order 900-1000 helicopters, which includes 250 Mi-28N attack helicopters, as many as 120 Ka-52A and Ka-52K attack helicopters, 22 Mi-35M attack helicopters, and as many as 200 air defense systems.\nMeanwhile, the Navy will procure 6-8 Project 955A and 955U strategic ballistic missile submarines, 150 R-30 Bulava submarine-launched ballistic missiles (SLBMs), about 40 R-29RMU-2 Sineva SLBMs, 6 Project 885/885M nuclear-powered submarines, 2 Project 677 diesel-electric submarines, 3 Project 06363 diesel-electric submarines, and 2 foreign-made landing helicopter docks (perhaps France's Mistral-class ships), 8 Project 22350 frigates, 6 Project 11356M frigates, 1 Project 11661K frigate, and 35 corvettes, including at least 4 of the advanced Project 20381/20385. The Navy will also receive 26 MiG-29K carrier-based fighter planes. The SAP will also finance the repair and upgrade of the Project 11435 heavy aircraft carrying cruiser and the Project 11442 heavy nuclear-powered guided missile cruiser.\nThe main threat to the fulfillment of the SAP is Russia's uncertain macroeconomic situation. Another problem could be the persistent weaknesses in some elements of Russia's military-industrial complex, which has yet to fully recover from the break-up of the integrated Soviet complex in which defense orders received priority resources. The problems with the development program for the Bulava SLBM are particularly indicative of the problem Russian defense firms have in integrating complex weapons systems when a number of small sub-contractors are responsible for developing and manufacturing key components.",
+      "image_captions": [
+        "Caption A digital display stock index is seen in Lujiazui, China, on March 9, 2026. (Getty Images)",
+        "Iranian President Masoud Pezeshkian sits beside Iranian officials and other leaders during his swearing-in ceremony in Tehran on July 30, 2024. On the first row, second to the left, is Georgian Prime Minister Irakli Kobakhidze. (Getty Images)",
+        "Bryan Clark New Report March 16",
+        "Sailors stand watch in U.S. Naval Forces Central Command’s (NAVCENT) maritime operations center in Manama, Bahrain, Jan. 29. NAVCENT/U.S. 5th Fleet’s area of operations encompasses about 2.5 million square miles of water area and includes the Arabian Gulf, Red Sea, Gulf of Oman, Gulf of Aden, Arabian Sea and parts of the Indian Ocean. This expanse, comprising 21 nations, includes three critical choke points at the Strait of Hormuz, the Suez Canal and the Bab al-Mandeb. (U.S. Navy photo by Mass Communicatio",
+        "Can Kasapoglu Hudson Institute"
+      ]
+    },
+    {
+      "url": "https://journals.openedition.org/pipss/4016",
+      "page_title": "The Journal of Power Institutions in Post-Soviet Societies - Pipss.org",
+      "title": "Making sure you're not a bot!",
+      "description": "",
+      "text": "Making sure you're not a bot!\nLoading...\nYou are seeing this because the administrator of this website has set up Anubis to protect the server against the scourge of AI companies aggressively scraping websites. This can and does cause downtime for the websites, which makes their resources inaccessible for everyone.\nAnubis is a compromise. Anubis uses a Proof-of-Work scheme in the vein of Hashcash, a proposed proof-of-work scheme for reducing email spam. The idea is that at individual scales the additional load is ignorable, but at mass scraper levels it adds up and makes scraping much more expensive.\nUltimately, this is a placeholder solution so that more time can be spent on fingerprinting and identifying headless browsers (EG: via how they do font rendering) so that the challenge proof of work page doesn't need to be presented to users that are much more likely to be legitimate.\nPlease note that Anubis requires the use of modern JavaScript features that plugins like JShelter will disable. Please disable JShelter or other such plugins for this domain.",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.mirror.co.uk/news/uk-news/russian-police-cadets-on-victory-day-127632",
+      "page_title": "Russian police cadets on Victory Day parade past Kremlin - The Mirror",
+      "title": "Russian police cadets on Victory Day parade past Kremlin",
+      "description": "WOMEN police cadets march through St Petersburg as part of yesterday’s Victory Day parades.",
+      "text": "WOMEN police cadets march through St Petersburg as part of yesterday’s Victory Day parades.\nMore than 20,000 military and veterans in Russia helped mark the end of the Second World War.\nWOMEN police cadets march through St Petersburg as part of yesterday’s Victory Day parades.\nMore than 20,000 military and veterans in Russia helped mark the end of the Second World War.",
+      "image_captions": [
+        "Russian police female cadets (pic: Getty)"
+      ]
+    },
+    {
+      "url": "https://www.standardmedia.co.ke/entertainment/article/2000125968/russian-policewomen-to-be-punished-for-wearing-short-skirts",
+      "page_title": "Russian policewomen to be punished for wearing short skirts",
+      "title": "Russian policewomen to be punished for wearing short skirts",
+      "description": "Linda Okello raised temperatures and tempers when her shapely figure redefined the Kenyan police uniform as we knew it.",
+      "text": "The Standard Group Plc is a\nmulti-media organization with investments in media platforms spanning newspaper\nprint operations, television, radio broadcasting, digital and online services. The\nStandard Group is recognized as a leading multi-media house in Kenya with a key\ninfluence in matters of national and international interest.\nLinda Okello raised temperatures and tempers when her shapely figure redefined the Kenyan police uniform as we knew it. While she faced disciplinary charges from the force, Kenyans stood by her arguing that Linda’s only crime was having such an amazing body.\nHowever, Russians will not have a voice on that because their Interior Ministry has launched a crackdown on the increasing trend of short skirts in the police force.\nPremium Article\nGet Full Access for Ksh299/Week.\nFact-first reporting that puts you at the heart of the newsroom. Subscribe for full access.\n🔥 Easter Sale Ends Tonight!\nSubscribe now and enjoy 50% off monthly and annual plans. Offer ends in…\nStand With Bold Journalism.\nStand With The Standard.\nJournalism can't be free because the truth demands investment.\nAt The Standard, we invest time, courage and skills to bring you accurate,\nfactual and impactful stories. Subscribe today and stand with us in the\npursuit of credible journalism.",
+      "image_captions": [
+        "The Standard Group PLC",
+        "Russian female police",
+        "Pope defends meeting 'authoritarian' leaders after Africa trip",
+        "Court freezes appointment of Kenyatta University Vice Chancellor",
+        "Fake Canadian embassy official pocketed sh51 million in visa scam, court told"
+      ]
+    },
+    {
+      "url": "https://forum.lowyat.net/topic/2773871/all",
+      "page_title": "Russian policewomen - Lowyat forum",
+      "title": "Russian policewomen",
+      "description": "what do you think?",
+      "text": "Lowyat.NET Kopitiam Garage Sales\nLowyat.NET Rules and Regulations FAQ HelpSearchMembers\nWelcome Guest ( Log In | Register )\nOutline · [ Standard ] · Linear+\nRussian policewomen",
+      "image_captions": []
+    }
+  ],
+  "evidence_count": 5,
+  "crawled_at": "2026-04-23T18:53:22.742018+00:00"
+}

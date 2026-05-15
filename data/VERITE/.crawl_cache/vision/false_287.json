@@ -1,0 +1,82 @@
+{
+  "sample_id": "false_287",
+  "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2020/11/27/e2659f50-f2ca-47f6-a4fd-0d028cc57bb1/thumbnail/1200x630/8165829fee440abf5d5f183365951865/1606437501277.png",
+  "visual_entities": [
+    {
+      "description": "Daniel P. Driscoll",
+      "score": 8.9895
+    },
+    {
+      "description": "United States Army",
+      "score": 0.974
+    },
+    {
+      "description": "Best Warrior",
+      "score": 0.80340004
+    },
+    {
+      "description": "",
+      "score": 0.701
+    },
+    {
+      "description": "Army National Guard",
+      "score": 0.701
+    },
+    {
+      "description": "Soldier",
+      "score": 0.6715027
+    },
+    {
+      "description": "Army officer",
+      "score": 0.6514462
+    },
+    {
+      "description": "United States Secretary of the Army",
+      "score": 0.6269
+    },
+    {
+      "description": "Sergeant Major of the Army",
+      "score": 0.5871
+    },
+    {
+      "description": "United States Armed Forces",
+      "score": 0.5865
+    },
+    {
+      "description": "First lieutenant",
+      "score": 0.5453
+    },
+    {
+      "description": "",
+      "score": 0.5176
+    },
+    {
+      "description": "United States Army Reserve",
+      "score": 0.5176
+    }
+  ],
+  "best_guess_labels": [
+    "army"
+  ],
+  "similar_image_urls": [
+    "https://assets3.cbsnewsstatic.com/hub/i/r/2020/11/27/e2659f50-f2ca-47f6-a4fd-0d028cc57bb1/thumbnail/1200x630/8165829fee440abf5d5f183365951865/1606437501277.png"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.cbsnews.com/news/u-s-troops-in-syria-mark-thanksgiving-with-kebabs-and-soccer/",
+      "page_title": "U.S. troops in Syria mark Thanksgiving with kebabs and soccer",
+      "title": "U.S. troops in Syria mark Thanksgiving with kebabs and soccer",
+      "description": "While this Thanksgiving celebration was very different from past ones at home, U.S. service members say there's still plenty to feel grateful for.",
+      "text": "U.S. troops in Syria mark Thanksgiving with kebabs and soccer\nSyria — U.S. troops faced off against Syrians on Thursday morning in a friendly Thanksgiving soccer match. These Syrians are American allies – fighters who battled against ISIS extremists. With the same grit, they won Thursday's game 2-1.\n\"More or less it's just enjoying the game than competing,\" said Corporal Jose Lazo, a paratrooper from Arlington, Virginia.\nLazo is spending Thanksgiving away from his family for the first time. Back home, he played for the U.S. Army soccer team.\n\"It's a language of its own,\" he said. \"You don't really necessarily have to speak the same language, but football speaks for itself.\"\nThe American mission at the desert camp is to help bring security and stability to this corner of war-torn Syria. It's an effort, in part, to win hearts and minds as CBS News saw Wednesday on patrol with a platoon from the 82nd Airborne Division. U.S. troops showed children the convoy and handed out candy.\nBack on base, a flock of resident turkeys has given the place a flavor of Thanksgiving, but they're not for eating. Instead, they keep the spiders there under control.\nThanksgiving lunch was Syrian style, including kebabs and rice cooked by local chefs. It's very different from home, but for Specialist Tashara Williams, from Brunswick, Georgia, there's still plenty to feel grateful for.\n\"I would like to be home of course, but … circumstances, I have to be here so, I mean, it's not that bad,\" she said. \"Just gotta roll with the punches.\"",
+      "image_captions": [
+        "U.S. service members take part in a Thanksgiving celebration in Syria on November 26, 2020.",
+        "How U.S. troops are spending Thanksgiving in Syria01:54",
+        "U.S. troops in Syria eat Thanksgiving meal",
+        "screen-shot-2021-01-01-at-11-52-04-am.png",
+        "axelrod-618294-640x360.jpg"
+      ]
+    }
+  ],
+  "evidence_count": 1,
+  "crawled_at": "2026-04-23T18:51:59.373103+00:00"
+}

@@ -1,0 +1,97 @@
+{
+  "sample_id": "true_35",
+  "image_url": "https://preview.redd.it/1aoj282bry461.jpg?width=640&crop=smart&auto=webp&s=0030b0c73aa5a745ded75f5e3f074ed7f51cb2c1",
+  "visual_entities": [
+    {
+      "description": "Wernher von Braun",
+      "score": 11.0805
+    },
+    {
+      "description": "Apollo 11",
+      "score": 1.05915
+    },
+    {
+      "description": "Operation Paperclip",
+      "score": 0.71924996
+    },
+    {
+      "description": "Moon",
+      "score": 0.6411
+    },
+    {
+      "description": "Moon landing",
+      "score": 0.6106
+    },
+    {
+      "description": "NASA",
+      "score": 0.5829
+    },
+    {
+      "description": "",
+      "score": 0.5829
+    },
+    {
+      "description": "V-2 rocket",
+      "score": 0.5681
+    },
+    {
+      "description": "United States",
+      "score": 0.52709997
+    },
+    {
+      "description": "Rocket",
+      "score": 0.5137
+    },
+    {
+      "description": "Saturn V",
+      "score": 0.434
+    },
+    {
+      "description": "Spaceflight",
+      "score": 0.3738
+    }
+  ],
+  "best_guess_labels": [
+    "von braun on the moon"
+  ],
+  "similar_image_urls": [
+    "https://i.redd.it/zimflnqgr34g1.jpeg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=838347648795546",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10173672064365537",
+    "https://preview.redd.it/wernher-von-braun-in-the-apollo-11-first-moon-landing-v0-zimflnqgr34g1.jpeg?auto=webp&s=158aef345062a46015fc4d8345ea8192740e1f73",
+    "https://preview.redd.it/wernher-von-braun-in-the-apollo-11-first-moon-landing-v0-zimflnqgr34g1.jpeg?width=1080&crop=smart&auto=webp&s=56182dec02896946f0db2f046902b2b1d35b44c8",
+    "https://i.redd.it/g8i6af3i2r9g1.jpeg",
+    "https://preview.redd.it/wernher-von-braun-in-the-apollo-11-first-moon-landing-v0-g8i6af3i2r9g1.jpeg?auto=webp&s=d7c7a22f854225224680b84bbfe642bf13ed2c37",
+    "https://i.redd.it/1aoj282bry461.jpg",
+    "https://preview.redd.it/can-someone-please-explain-this-picture-of-wernher-von-v0-1aoj282bry461.jpg?auto=webp&s=42d5455a85039fe6083f09f70f50d61b1cdfcfee",
+    "https://preview.redd.it/wernher-von-braun-in-the-apollo-11-first-moon-landing-v0-g8i6af3i2r9g1.jpeg?width=640&crop=smart&auto=webp&s=21b05c2c7d4d24fdae4b35f6cba7279b40ee4519"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.flickr.com/photos/mrdanbeaumont/16223633006",
+      "page_title": "Wernher von Braun in the Apollo 11 First Moon Landing exhi… | Flickr",
+      "title": "Wernher von Braun in the Apollo 11 First Moon Landing exhibition, Atlanta, September 25, 1969",
+      "description": "PHOTO REMASTERED by Dan Beaumont UPI press agency: Atlanta, Dr., one of leaders in America's space flight program, took a walk on the moon. Dr. Von Braun strolled through an exact replica of the Apollo 11 moon landing mission after officially opening the exhibition at Atlanta's South eastern Fair. (AJPO92502) Dan Beaumont Space Museum INFO: www.flickr.com/photos/mrdanbeaumont/15112993063/sizes/o/ Von Braun, NASA documents and biography: history.msfc.nasa.gov/vonbraun/ Wernher von Braun: \"Missile to Moon\", documentary. PBS (2012) VIDEO: www.youtube.com/watch?v=4Ch0OgkkJKI Wernher von Braun rocket scientist VIDEO COLLECTION: www.youtube.com/playlist?list=PL-HsE-FedVRg3kVyyhy5ohjoNV...",
+      "text": "Dan Beaumont Space Museum\nWernher von Braun in the Apollo 11 First Moon Landing exhibition, Atlanta, September 25, 1969\nPHOTO REMASTERED by Dan Beaumont\nUPI press agency: Atlanta, Dr., one of leaders in America's space flight program, took a walk on the moon. Dr. Von Braun strolled through an exact replica of the Apollo 11 moon landing mission after officially opening the exhibition at Atlanta's South eastern Fair. (AJPO92502)\nDan Beaumont Space Museum INFO: www.flickr.com/photos/mrdanbeaumont/15112993063/sizes/o/\nVon Braun, NASA documents and biography: history.msfc.nasa.gov/vonbraun/\nWernher von Braun: \"Missile to Moon\", documentary. PBS (2012) VIDEO: www.youtube.com/watch?v=4Ch0OgkkJKI\nWernher von Braun rocket scientist VIDEO COLLECTION: www.youtube.com/playlist?list=PL-HsE-FedVRg3kVyyhy5ohjoNV...\nWernher von Braun in the Apollo 11 First Moon Landing exhibition, Atlanta, September 25, 1969\nPHOTO REMASTERED by Dan Beaumont\nUPI press agency: Atlanta, Dr., one of leaders in America's space flight program, took a walk on the moon. Dr. Von Braun strolled through an exact replica of the Apollo 11 moon landing mission after officially opening the exhibition at Atlanta's South eastern Fair. (AJPO92502)\nDan Beaumont Space Museum INFO: www.flickr.com/photos/mrdanbeaumont/15112993063/sizes/o/\nVon Braun, NASA documents and biography: history.msfc.nasa.gov/vonbraun/\nWernher von Braun: \"Missile to Moon\", documentary. PBS (2012) VIDEO: www.youtube.com/watch?v=4Ch0OgkkJKI\nWernher von Braun rocket scientist VIDEO COLLECTION: www.youtube.com/playlist?list=PL-HsE-FedVRg3kVyyhy5ohjoNV...",
+      "image_captions": [
+        "Wernher von Braun in the Apollo 11 First Moon Landing exhibition, Atlanta, September 25, 1969 | by Dan Beaumont Space Museum"
+      ]
+    },
+    {
+      "url": "https://www.shazam.com/artist/steven-gerblecki/1703563221",
+      "page_title": "Steven Gerblecki - Shazam",
+      "title": "Steven Gerblecki - Shazam",
+      "description": "Discover more about Steven Gerblecki on Shazam! View top songs, latest releases, music videos, similar artists and more!",
+      "text": "Get the app\nConcerts\nCharts\nRadio Spins\nFast Forward '26\nConnect\nDownload Shazam\nGet the app\nConcerts\nCharts\nRadio Spins\nFast Forward '26\nHelp\nAlternative\nSteven Gerblecki\nMost Streamed Songs by Steven Gerblecki\nNATAS (Never a Straight Answer) [Version I]\nSteven Gerblecki\nAbout Steven Gerblecki\nGenre\nAlternative\nArtist Links\nSimilar to: Steven Gerblecki\nDiscover more music and artists similar to Steven Gerblecki, like Scarred By Beauty, Lebush, Zen Meadows\nScarred By Beauty\nLebush\nZen Meadows\nIllicit\nTwoFree\nPKA\nIC-40\nLiquid\nSugar Bear\nThe Gilded Bats\nShazam Footer\nFollow Us\n© Copyright 2026 Apple Inc. and its affiliates\n|\nSupplier Responsibility\ninstagram\nShare\nPath\nic_arrow_out\nGoogle\ncopy\nLoading...\nAll Releases\nShow All\nAll\nAlbums\nAll\nAlbums\nShow All\nAlbum\n2023\nNATAS (Never a Straight Answer) [Version I]\nSteven Gerblecki",
+      "image_captions": [
+        "Listen to Steven Gerblecki, watch music videos, read bio, see tour dates & more!",
+        "Listen to NATAS (Never a Straight Answer) [Version I] by Steven Gerblecki, see lyrics, music video & more!",
+        "Listen to Scarred By Beauty, watch music videos, read bio, see tour dates & more!",
+        "Listen to Lebush, watch music videos, read bio, see tour dates & more!",
+        "Listen to Zen Meadows, watch music videos, read bio, see tour dates & more!"
+      ]
+    }
+  ],
+  "evidence_count": 2,
+  "crawled_at": "2026-04-23T16:55:27.690442+00:00"
+}

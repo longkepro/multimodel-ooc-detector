@@ -1,0 +1,83 @@
+{
+  "sample_id": "true_160",
+  "image_url": "https://nypost.com/wp-content/uploads/sites/2/2017/11/171128-strongest-man-guinness-records-feature-1.jpg?quality=75&strip=all",
+  "visual_entities": [
+    {
+      "description": "Horse",
+      "score": 1.12455
+    },
+    {
+      "description": "Equestrian",
+      "score": 0.5218
+    },
+    {
+      "description": "Strongman",
+      "score": 0.4813
+    },
+    {
+      "description": "Riding horse",
+      "score": 0.4261
+    },
+    {
+      "description": "Horse racing",
+      "score": 0.4248
+    },
+    {
+      "description": "Stallion",
+      "score": 0.4194
+    },
+    {
+      "description": "Draft horse",
+      "score": 0.4099
+    },
+    {
+      "description": "Horseshoe",
+      "score": 0.3894
+    },
+    {
+      "description": "Pony",
+      "score": 0.3245
+    }
+  ],
+  "best_guess_labels": [
+    "strongman carrying horse"
+  ],
+  "similar_image_urls": [
+    "https://preview.redd.it/how-far-is-louis-cyr-making-it-in-the-bakiverse-v0-683elonz0l3d1.jpeg?auto=webp&s=6f2ec28a3ce737de413cf7b9c74d952daf6eff83",
+    "https://i.redd.it/683elonz0l3d1.jpeg",
+    "https://cdn.bartarinha.ir/thumbnail/GU4M2M3NTY5Z/8HO7M3X68rptoakAQ3xaeOODdRwOaPMqrz_bYzvOfwsqOU1euh6PZh1L8OdHrJbnVTJfg7bORrI,/GU4M2M3NTY5Z.jpg",
+    "https://nypost.com/wp-content/uploads/sites/2/2017/11/171128-strongest-man-guinness-records-feature-1.jpg?quality=75&strip=all&w=1200",
+    "https://preview.redd.it/how-far-is-louis-cyr-making-it-in-the-bakiverse-v0-683elonz0l3d1.jpeg?width=1080&crop=smart&auto=webp&s=49ec53f95d21d4509acf46e3a614ace91b2d06ed",
+    "https://nypost.com/wp-content/uploads/sites/2/2017/11/171128-strongest-man-guinness-records-feature-1.jpg?quality=75&strip=all&w=1024",
+    "https://epirusonline.gr/wp-content/uploads/2021/03/%CE%91%CE%9D%CE%A4%CE%A1%CE%91%CE%A3-%CE%91%CE%9B%CE%9F%CE%93%CE%9F.jpg",
+    "https://www.in.gr/wp-content/uploads/2021/03/strongest-man-1024x682.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWdFOM6A9rccmvhS4loRpmMIsWc3swvH5cyLGVZH7CQWK7l_MDY0HxNwdT_mvYie4oI5546BuoODLPfQVPgSKzSz__lV-H-I3b4cP2mhELM8pfsSxfmVxLmHxV0eWFVHs6bqepfgrZqKg/s1600/ilmu+gagah.jpg",
+    "https://www.mstar.com.my/image/830/553?url=https%3A%2F%2Fclips.mstar.com.my%2Fimages%2Fblob%2FC69E26E0-C1DF-4E50-914E-7DF997ACA6A1"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.odditycentral.com/news/ukrainian-strongman-makes-a-name-for-himself-by-carrying-horses-on-his-back.html",
+      "page_title": "Ukrainian Strongman Makes a Name for Himself by Carrying Horses ...",
+      "title": "Category:",
+      "description": "",
+      "text": "Skip to content\nAbout\nContribute\nSubscribe\nContact\nMeniu\nAbout\nContribute\nSubscribe\nContact\n‹\nAnimals\nArchitecture\nArt\nAuto\nEvents\nFoods\nFunny\nNews\nPics\nTech\nTravel\nVideos\nWTF\n›\nTap to search\n⌘K\nCategory:\nAll posts\nIt seems we can’t find what you’re looking for.",
+      "image_captions": []
+    },
+    {
+      "url": "https://nypost.com/2017/11/28/man-carries-horse-bites-through-metal-to-prove-his-strength/",
+      "page_title": "Man carries horse, bites through metal to prove his strength",
+      "title": "Man carries horse, bites through metal to prove his strength",
+      "description": "A hulking Ukrainian “Superman” gives new meaning to the term “hard as nails.” In a remarkable video to surface online, Dmytro Khaladzhi performs extraordinary feats of stren…",
+      "text": "A hulking Ukrainian “Superman” gives new meaning to the term “hard as nails.”\nIn a remarkable video to surface online, Dmytro Khaladzhi performs extraordinary feats of strength including bending a metal rod with his teeth and carrying a fully grown horse.\nThe Ukrainian strongman and former circus performer, 38, also deadlifts a saloon car and allows a truck to run him over.\nLittle is known about the eastern European giant but a dubious Wikipedia page dedicated to him claims he holds 63 Guinness World Records.\nThey are said to include lifting a 335-pound stone with one hand, binding six 20cm nails in 90 seconds and lying down on a bed of nails while three concrete blocks weighing over 1,500 pounds were smashed with sledgehammers on his chest.\nWinning the bench press competition at the first Ukrainian Drug Free Powerlifting Federation event is also listed as one of his many achievements.\nHis almost mythical cult status has led bodybuilding websites including Generation Iron to proclaim Khaladzi the “world’s strongest giant.”\nKhaladzi, whose weight and height are unknown, is said to have performed in the Donetsk circus.\nHe went on to take part in Ukraine’s got talent where he reached the final of the popular show, according to the Ukrainian based Telekritika website.",
+      "image_captions": [
+        "Read the Latest on Page Six",
+        "Costco's new checkout limits will affect stores across the US under new bill",
+        "NYC parents outraged at new 2026-27 school calendar — with kids in latest-ever return this fall",
+        "Experts say there are 10 types of terrible bosses — here's how to know if you're one of them",
+        "Do I need to forgive my abusive parents?"
+      ]
+    }
+  ],
+  "evidence_count": 2,
+  "crawled_at": "2026-04-23T17:37:49.568259+00:00"
+}

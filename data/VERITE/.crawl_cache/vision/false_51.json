@@ -1,0 +1,101 @@
+{
+  "sample_id": "false_51",
+  "image_url": "https://i.pinimg.com/originals/2a/41/bc/2a41bc32c3fee1eed1c42d8aceeccb99.jpg",
+  "visual_entities": [
+    {
+      "description": "Street art",
+      "score": 0.7345
+    },
+    {
+      "description": "Mural",
+      "score": 0.7191
+    },
+    {
+      "description": "Art",
+      "score": 0.718
+    },
+    {
+      "description": "COVID-19",
+      "score": 0.7102
+    },
+    {
+      "description": "Painting",
+      "score": 0.7032
+    },
+    {
+      "description": "Artist",
+      "score": 0.6259
+    },
+    {
+      "description": "Artwork",
+      "score": 0.5475
+    },
+    {
+      "description": "Visual Arts",
+      "score": 0.5286
+    },
+    {
+      "description": "Public art",
+      "score": 0.5201
+    },
+    {
+      "description": "Graffiti",
+      "score": 0.5199
+    },
+    {
+      "description": "Mural painting",
+      "score": 0.4915
+    },
+    {
+      "description": "Coronavirus",
+      "score": 0.3856
+    }
+  ],
+  "best_guess_labels": [
+    "covid 19 street art"
+  ],
+  "similar_image_urls": [
+    "https://images.squarespace-cdn.com/content/v1/55a80922e4b0c355c5cf1948/1589206715970-7ZMWTAKG4VCL8A2Q09VY/Healthcare+Hero.jpg",
+    "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2286070561556955007",
+    "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2288727125472542904",
+    "https://i.pinimg.com/originals/e6/15/31/e61531442732e2b5162c51d0d0ee50ed.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10225229378620500",
+    "https://westcoastnow.ca/wp-content/uploads/2023/02/116872975_3810658882283990_439240616237002945_n.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10159265691780715",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=577301629598348",
+    "https://i.pinimg.com/736x/e6/15/31/e61531442732e2b5162c51d0d0ee50ed.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3742175689179658"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.du.edu/news/du-coach-expresses-gratitude-through-art",
+      "page_title": "DU Coach Expresses Gratitude Through Art | University of Denver",
+      "title": "DU Coach Expresses Gratitude Through Art | University of Denver",
+      "description": "Austin Zucchini Fowler, a coach of DU’s Hilltoppers club swimming team, wanted to make public his appreciation for those on the front lines of the COVID-19 pandemic. Fowler, who attended DU’s School of Art and Art History from 2007 to 2011, spray-painted a series of large-scale murals on building walls throughout downtown Denver featuring teachers, health care workers, first responders and others on the front lines. “The first responder piece is particularly meaningful to me because my oldest brother is not only a doctor, but he’s also in the U.S. Army,” Fowler says. “The piece represents some of the cool stuff that he’s done over the past couple of years.” Fowler created his first mural — a nurse with wings and boxing gloves — in April on a blank wall on East Colfax Avenue. The response took him by surprise. “I was getting the most incredible e-mails from health care workers,” he says. “The coolest thing they were giving me feedback on was that it boosted morale in the hospital. It was something to talk about, something to visit. A lot of them would go and take pictures in front of it — and they felt empowered. They were so grateful for the message.” Encouraged by the feedback — and the business owners who began asking him to create similar artwork on their walls — Fowler decided to create a series of murals to express the gratitude of an entire city. “I love the community aspect of public work. I wanted the thank you and gratitude not just to come from me, but from the community,” he says. “I’m not the only one who is feeling grateful right now. It was cool to send a message that a lot of people are feeling and represent the community as a whole in that way.”",
+      "text": "DU Coach Expresses Gratitude Through Art\nAustin Zucchini Fowler, a coach of DU’s Hilltoppers club swimming team, wanted to make public his appreciation for those on the front lines of the COVID-19 pandemic. Fowler, who attended DU’s School of Art and Art History from 2007 to 2011, spray-painted a series of large-scale murals on building walls throughout downtown Denver featuring teachers, health care workers, first responders and others on the front lines.\n“The first responder piece is particularly meaningful to me because my oldest brother is not only a doctor, but he’s also in the U.S. Army,” Fowler says. “The piece represents some of the cool stuff that he’s done over the past couple of years.”\nFowler created his first mural — a nurse with wings and boxing gloves — in April on a blank wall on East Colfax Avenue. The response took him by surprise.\n“I was getting the most incredible e-mails from health care workers,” he says. “The coolest thing they were giving me feedback on was that it boosted morale in the hospital. It was something to talk about, something to visit. A lot of them would go and take pictures in front of it — and they felt empowered. They were so grateful for the message.”\nEncouraged by the feedback — and the business owners who began asking him to create similar artwork on their walls — Fowler decided to create a series of murals to express the gratitude of an entire city.\n“I love the community aspect of public work. I wanted the thank you and gratitude not just to come from me, but from the community,” he says. “I’m not the only one who is feeling grateful right now. It was cool to send a message that a lot of people are feeling and represent the community as a whole in that way.”",
+      "image_captions": [
+        "Individuals talking in a hallway",
+        "table settings for banquet",
+        "DU Logo on Campus Bridge",
+        "Make Yourself At Home",
+        "Group of students on Pearl Street"
+      ]
+    },
+    {
+      "url": "https://aeon.co/videos/a-massive-art-installation-attempts-to-put-the-covid-19-deaths-in-perspective",
+      "page_title": "A massive art installation attempts to put the COVID-19 deaths in ...",
+      "title": "A massive art installation attempts to put the COVID-19 deaths in perspective | Aeon Videos",
+      "description": "Can art help mourners bridge the gap between the mind-boggling COVID-19 death statistics and the individual humans gone?",
+      "text": "It’s hard to contemplate the massive numbers cited in COVID-19 death statistics. It’s even harder to fathom that every one of the more than 6 million dead from the disease worldwide was a real person, with their own distinct personality and internal world. For her art installation In America: Remember, which ran on the National Mall in Washington, DC from 17 September to 3 October 2021, the artist Suzanne Brennan Firstenberg attempted to bridge the gap between the death statistics and the individuals lost. The installation coated the Mall with some 700,000 small white flags – each one representing a person who had died of COVID-19 in the US. The director Jamie Meltzer further humanises the display in his affecting short documentary Not Even For a Moment Do Things Stand Still, which captures intimate moments of visitors taking in Firstenberg’s exhibition, remembering loved ones lost, and attempting to come to terms with the immense scope of the tragedy that’s still unfolding, with the US death toll now at more than 1 million people.\nA massive art installation attempts to put the COVID-19 deaths in perspective\nDirector: Jamie Meltzer\nProducers: Annie Marr, Suzanne Brennan Firstenberg\nvideoGlobal history\nAt the 9/11 Memorial, grief, confusion and remembrance take countless shapes\n18 minutes\nvideoValues and beliefs\nA funeral director takes in bodies that social stigma leaves unclaimed\n11 minutes\nvideoArt\nLooted artefacts are reborn as ‘ghosts’ in an artist’s protest against colonisation\n12 minutes\nvideoIllness and disease\nHumanity eradicated smallpox 45 years ago. It’s a story worth remembering\n25 minutes\nvideoWar and peace\nWhen Barack Obama speaks after mass shootings, the moments of silence say the most\n1 minute\nvideoMood and emotion\nGrieving Kobe Bryant, Conor wonders: why do untimely celebrity deaths hit so hard?\n6 minutes\nvideoCognition and intelligence\nA father forgets his child’s name for the first time in this poetic reflection on memory\n4 minutes\nvideoBiography and memoir\nAs her world unravels, Pilar wonders at the ‘sacred geometry’ that gives it structure\n20 minutes\nvideoLife stages\nGrief, healing and laughter coexist at a unique retreat for widows and widowers\n15 minutes",
+      "image_captions": [
+        "A woman kneels among thousands of white flags in a grassy field, with a white tent and trees in the background.",
+        "A man in a light jacket and backpack with head bowed at the National September 11 Memorial and Museum in New York.",
+        "A person in black clothing and rubber gloves preparing a coffin adorned with a floral arrangement.",
+        "A painting of an Egyptian-style figure with a bird’s head made from a collage of colourful papers on a pink background.",
+        "Engraving of a classroom with children sewing, some highlighted in red, teachers stand at the front with windows above."
+      ]
+    }
+  ],
+  "evidence_count": 2,
+  "crawled_at": "2026-04-23T17:00:53.793395+00:00"
+}

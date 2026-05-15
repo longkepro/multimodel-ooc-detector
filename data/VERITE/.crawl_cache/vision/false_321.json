@@ -1,0 +1,97 @@
+{
+  "sample_id": "false_321",
+  "image_url": "https://images05.military.com/sites/default/files/styles/full/public/2019-05/mightwarnotlove1800.jpg",
+  "visual_entities": [
+    {
+      "description": "Larry Wayne Chaffin",
+      "score": 5.7345
+    },
+    {
+      "description": "Vietnam",
+      "score": 1.08105
+    },
+    {
+      "description": "Motorcycle Helmet",
+      "score": 0.81705004
+    },
+    {
+      "description": "Helmet",
+      "score": 0.7211
+    },
+    {
+      "description": "",
+      "score": 0.7207
+    },
+    {
+      "description": "Helmet cover",
+      "score": 0.4683
+    },
+    {
+      "description": "",
+      "score": 0.4128
+    },
+    {
+      "description": "Photograph",
+      "score": 0.3837
+    },
+    {
+      "description": "Image",
+      "score": 0.3805
+    },
+    {
+      "description": "Hat",
+      "score": 0.3719
+    },
+    {
+      "description": "Flight helmet",
+      "score": 0.3634
+    },
+    {
+      "description": "Stock photography",
+      "score": 0.3474
+    }
+  ],
+  "best_guess_labels": [
+    "vietnam helmets"
+  ],
+  "similar_image_urls": [
+    "https://images05.military.com/sites/default/files/2019-05/mightwarnotlove1800.jpg",
+    "https://i.imgur.com/KqKWedA.png",
+    "https://external-preview.redd.it/cpl-michael-wynn-vietnam-1967-1800-1200-v0-PbA8ElEJHYAlUqs8Qp9DaimCWHYkhrh0fuSn9LOH-zk.png?auto=webp&s=7165a2d915e9eb283df950c521515c4f4e03d8ab",
+    "https://upload.forumfree.net/i/ff8875483/3_1.jpg",
+    "https://external-preview.redd.it/cpl-michael-wynn-vietnam-1967-1800-1200-v0-PbA8ElEJHYAlUqs8Qp9DaimCWHYkhrh0fuSn9LOH-zk.png?width=1080&crop=smart&auto=webp&s=9099e289a82355e463842d298f7c38c5854635b7",
+    "https://geex.x-kom.pl/wp-content/uploads/2021/06/czas-apoklipsy.jpg",
+    "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F08%2Fsupreme-fall-winter-2019-emile-de-antonio-inspiration-1.jpg?w=960&cbr=1&q=90&fit=max",
+    "https://suburbano.net/wp-content/uploads/2021/06/Vietnam.jpg",
+    "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F08%2Fsupreme-fall-winter-2019-emile-de-antonio-inspiration-1-1.jpg?q=75&w=800&cbr=1&fit=max",
+    "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2019%2F08%2Fsupreme-fall-winter-2019-emile-de-antonio-inspiration-0.jpg?fit=max&cbr=1&q=90&w=750&h=500"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.gettyimages.com/photos/vietnam-war-helmet",
+      "page_title": "856 Vietnam War Helmet Images and Stock Photos",
+      "title": "Getty Images",
+      "description": "Getty Images. Find high resolution royalty-free images, editorial stock photos, vector art, video footage clips and stock music licensing at the richest image search photo library online.",
+      "text": "Yaroslav Kushta\n873850194\nUser validation",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.walmart.com/c/kp/vietnam-helmet",
+      "page_title": "Vietnam Helmet - Walmart",
+      "title": "Robot or human?",
+      "description": "",
+      "text": "Robot or human?\nActivate and hold the button to confirm that you’re human. Thank You!",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.gettyimages.com/photos/vietnam-helmet",
+      "page_title": "2088 Vietnam Helmet Stock Photos, High-Res Pictures, and Images",
+      "title": "Getty Images",
+      "description": "Getty Images. Find high resolution royalty-free images, editorial stock photos, vector art, video footage clips and stock music licensing at the richest image search photo library online.",
+      "text": "Yaroslav Kushta\n873850194\nUser validation",
+      "image_captions": []
+    }
+  ],
+  "evidence_count": 3,
+  "crawled_at": "2026-04-23T19:02:00.148259+00:00"
+}

@@ -1,0 +1,121 @@
+{
+  "sample_id": "false_6",
+  "image_url": "https://favorflav.com/images/troep-park.jpg",
+  "visual_entities": [
+    {
+      "description": "Waste",
+      "score": 0.7388
+    },
+    {
+      "description": "Recycling",
+      "score": 0.7125
+    },
+    {
+      "description": "Stock photography",
+      "score": 0.6936
+    },
+    {
+      "description": "Rubbish Bin",
+      "score": 0.6718
+    },
+    {
+      "description": "Photography",
+      "score": 0.5779
+    },
+    {
+      "description": "Image",
+      "score": 0.5718
+    },
+    {
+      "description": "Waste management",
+      "score": 0.5415
+    },
+    {
+      "description": "household waste",
+      "score": 0.5411
+    },
+    {
+      "description": "Landfill",
+      "score": 0.5337
+    },
+    {
+      "description": "Photograph",
+      "score": 0.5251
+    },
+    {
+      "description": "Municipal solid waste",
+      "score": 0.5128
+    },
+    {
+      "description": "Plastic",
+      "score": 0.5105
+    },
+    {
+      "description": "",
+      "score": 0.5054
+    },
+    {
+      "description": "Getty Images",
+      "score": 0.5054
+    },
+    {
+      "description": "Plastic bottle",
+      "score": 0.4894
+    }
+  ],
+  "best_guess_labels": [
+    "waste"
+  ],
+  "similar_image_urls": [
+    "https://res.cloudinary.com/gb-cache/image/upload/f_auto/prod/h0rfa9yj42kowo9dzayuumgh",
+    "https://media.gettyimages.com/id/643890408/it/foto/dirty-ground-of-a-green-space-after-street-drinking-madrid-spain.jpg?s=612x612&w=gi&k=20&c=TCqXRebjWLUo7MJwGFfRFGUzU0xTKC1gvJ3IWkt6zd0=",
+    "https://media.gettyimages.com/id/643890408/photo/dirty-ground-of-a-green-space-after-street-drinking-madrid-spain.jpg?s=612x612&w=gi&k=20&c=rRmE9xRnYXvkNbkAwfSGO3Ifd253BPoZhjagRo_-iyE=",
+    "https://favorflav.com/images/troep-park-539x360.jpg",
+    "https://media.gettyimages.com/id/643890408/photo/dirty-ground-of-a-green-space-after-street-drinking-madrid-spain.jpg?s=170667a&w=gi&k=20&c=kFwRNI3GiRlZd4DWNMJ6Y-Al_2QPUQmtgxeb226nG9U=",
+    "https://media.gettyimages.com/id/964929850/nl/foto/rubbish-left-on-the-ground-a-public-park-of-madrid-spain-jpg.jpg?s=612x612&w=gi&k=20&c=2bpFTwyCOayvws15-iTlAMf9nttLaGFltp29YduxfHQ="
+  ],
+  "evidence": [
+    {
+      "url": "https://www.gettyimages.co.uk/photos/plastic-bag-trash-can",
+      "page_title": "984 Plastic Bag Trash Can Images and Stock Photos",
+      "title": "Getty Images",
+      "description": "Getty Images UK. Find high resolution royalty-free images, editorial stock photos, vector art, video footage clips and stock music licensing at the richest image search photo library online.",
+      "text": "Michael Fitzsimmons\n627453756\nUser validation",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.gettyimages.co.uk/photos/garbage-bin-in-park",
+      "page_title": "2448 Garbage Bin In Park Images and Stock Photos",
+      "title": "Getty Images",
+      "description": "Getty Images UK. Find high resolution royalty-free images, editorial stock photos, vector art, video footage clips and stock music licensing at the richest image search photo library online.",
+      "text": "Michael Fitzsimmons\n627453756\nUser validation",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.gettyimages.ae/photos/plastic-bag-fashion",
+      "page_title": "2155 Plastic Bag Fashion Images and Stock Photos",
+      "title": "Getty Images",
+      "description": "Getty Images UAE. Find high resolution royalty-free images, editorial stock photos, vector art, video footage clips and stock music licensing at the richest image search photo library online.",
+      "text": "Yaroslav Kushta\n873850194\nUser validation",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.gettyimages.in/photos/earth-pollution",
+      "page_title": "34703 Earth Pollution Stock Photos, High-Res Pictures, and Images",
+      "title": "Getty Images",
+      "description": "Getty Images India. Find high resolution royalty-free images, editorial stock photos, vector art, video footage clips and stock music licensing at the richest image search photo library online.",
+      "text": "Michael Fitzsimmons\n627453756\nUser validation",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.gettyimages.com/photos/beer-bottles-trash",
+      "page_title": "549 Beer Bottles Trash Stock Photos, High-Res Pictures, and Images",
+      "title": "Getty Images",
+      "description": "Getty Images. Find high resolution royalty-free images, editorial stock photos, vector art, video footage clips and stock music licensing at the richest image search photo library online.",
+      "text": "ViewStock\n886771796\nUser validation",
+      "image_captions": []
+    }
+  ],
+  "evidence_count": 5,
+  "crawled_at": "2026-04-23T16:17:17.212194+00:00"
+}

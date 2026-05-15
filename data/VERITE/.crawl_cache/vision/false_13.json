@@ -1,0 +1,135 @@
+{
+  "sample_id": "false_13",
+  "image_url": "https://media.vanityfair.com/photos/5e596cd119d7b700089fdaf2/5:3/w_1469,h_881,c_limit/come-and-see-restoration-a.jpg",
+  "visual_entities": [
+    {
+      "description": "Elem Klimov",
+      "score": 10.7655
+    },
+    {
+      "description": "Come and See",
+      "score": 1.4991
+    },
+    {
+      "description": "Aleksei Kravchenko",
+      "score": 1.06785
+    },
+    {
+      "description": "The Ascent",
+      "score": 0.75105
+    },
+    {
+      "description": "",
+      "score": 0.7023
+    },
+    {
+      "description": "War",
+      "score": 0.7023
+    },
+    {
+      "description": "Belarusfilm",
+      "score": 0.538
+    },
+    {
+      "description": "Mosfilm",
+      "score": 0.531
+    },
+    {
+      "description": "frightening",
+      "score": 0.4319
+    },
+    {
+      "description": "disturbing",
+      "score": 0.4216
+    },
+    {
+      "description": "future",
+      "score": 0.4178
+    },
+    {
+      "description": "Horrors Of War",
+      "score": 0.4087
+    },
+    {
+      "description": "Cinema of the Soviet Union",
+      "score": 0.3892
+    }
+  ],
+  "best_guess_labels": [
+    "Come and See"
+  ],
+  "similar_image_urls": [
+    "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1O3AzL.img?w=2880&h=1440&m=4&q=79",
+    "https://static0.colliderimages.com/wordpress/wp-content/uploads/2022/11/Come-and-See.jpeg",
+    "https://soundvenue.com/wp-content/uploads/2022/11/comeandsee1-2192x1233.jpg",
+    "https://i.redd.it/z0f84ptlr0eg1.jpeg",
+    "https://preview.redd.it/best-war-movie-ever-v0-z0f84ptlr0eg1.jpeg?auto=webp&s=641c85f00856b6ef0713e51d568333fef89bea93",
+    "https://img.buzzfeed.com/buzzfeed-static/static/2021-04/1/17/asset/39ed26f86be0/sub-buzz-651-1617298909-24.jpg",
+    "https://i.redd.it/nwqz1mp86vyf1.png",
+    "https://www.thedigitalfix.com/wp-content/sites/thedigitalfix/2023/07/best-war-movies-come-and-see.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=914509968195811",
+    "https://preview.redd.it/has-your-country-ever-committed-genocide-v0-byrxqjgrxkfg1.jpeg?width=1920&format=pjpg&auto=webp&s=0e8cf63225d5bc16790f10e25981b0654d53c947"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.americancinematheque.com/now-showing/come-and-see-6-6-25/",
+      "page_title": "COME AND SEE - American Cinematheque",
+      "title": "COME AND SEE - American Cinematheque",
+      "description": "",
+      "text": "FRI JUN 6, 2025 3:00 PM COME AND SEE $10.00 (member) ; $15.00 (general admission) Ticket prices include a $2.00 online booking fee. Aero Theatre | Introduction by film editor Josh Ethier, ACE 40th Anniversary ‘Bleak Week: Cinema of Despair – Year 4’ This event has passed Your RSVP is being held for 1 minute, please fill out your contact info to complete the RSVP. * All fields are required First Name * Last Name * Email * Quantity * Subscribe to our newsletter FINISH\nABOUT THE FILM: In Belarusian, Russian and German with English subtitles. This widely acclaimed film from Soviet director Elem Klimov is a stunning, senses-shattering plunge into the dehumanizing horrors of war. As Nazi forces encroach on his small village in present-day Belarus, teenage Flyora (Aleksei Kravchenko, in one of the screen’s most searing depictions of anguish since Renée Falconetti’s JOAN OF ARC) eagerly joins the Soviet resistance. Rather than the adventure and glory he envisioned, what he finds is a waking nightmare of unimaginable carnage and cruelty—rendered with a feverish, otherworldly intensity by Klimov’s subjective camerawork and expressionistic sound design. Nearly suppressed by Soviet censors who took eight years to approve its script, COME AND SEE is perhaps the most visceral, impossible-to-forget antiwar film ever made. FORMAT: DCP DISTRIBUTOR: Janus Films COUNTRY: Soviet Union",
+      "image_captions": [
+        "LA County Arts & Culture logo",
+        "American Cinematheque Logo"
+      ]
+    },
+    {
+      "url": "https://www.vanityfair.com/hollywood/2020/03/come-and-see-war-film-restoration",
+      "page_title": "There's No Other War Movie as Horrifying, or Vital, as Come and See",
+      "title": "There’s No Other War Movie as Horrifying, or Vital, as Come and See",
+      "description": "Nazi atrocities take center stage in Elem Klimov’s unflinching, recently restored masterpiece.",
+      "text": "No one who has watched Come and See, Elem Klimov’s legendary 1985 anti-war film, can forget the horrors at its climax. The entire movie is memorable: a nightmare manifested into reality, or rather, history reemerging into the present as the nightmare that it always was. But the scene in question belongs to a category unto itself. It is distinctly unfathomable—awe-inspiring, in the original, terrifying sense of the word. You can sum it up in an image: a boarded-up farmhouse full of living, screaming people, barraged with Nazi bullets and set aflame.\nThe film, which is now playing in New York in a restored print (and will be touring through major U.S. cities through July) is a classic—a blunt and unforgettable testament to the power of cinema. The conflagration at the film’s peak, which doesn't break the heart so much as render it completely without function, is hardly the only proof.\nCome and See—adapted by Klimov, with Ales Adamovich, from the 1978 book I Am from the Fiery Village—is a war narrative about a teenage boy, Flyora (Aleksey Kravchenko), who digs a discarded gun out of a sandy trench with the intention of joining the Soviet partisans gathering in his village. The setting is Nazi-occupied Belarus, 1943. As a local man warns and as Flyora’s own mother pleads, merely digging up the gun is a dangerous idea; it will raise suspicions among the Nazis. Their fear is not abstract. Soon, the boy is conscripted into the partisan forces and launched, like a damned man supplicated to a foregone fate, into an encounter with unthinkable evil. Soon, most everyone the boy knows is dead.\nThe movie was a hit in its time for Soviet audiences, commemorating, as it did, the 40th anniversary of Soviet victory in World War II—a convergence of film and history that would not have played out so neatly if Klimov had been able to make the movie eight years prior, as he intended. (Soviet censors got in the way.) But what emerged was a masterpiece of war filmmaking: one of the rare war movies whose design, whose extreme attention to forms of violence that challenge and defy what we think film is capable of, surpasses mere depiction.\nThis is a film that argues for and thoroughly understands the urgent, present-tense, shifting surreality of war. It is not merely a narrative reimagining of that experience. Klimov, who was born in Stalingrad in 1933 and evacuated that city with his family in 1942—at the start of the notorious Battle of Stalingrad—knows the Eastern European experience of Nazi occupation firsthand.\nIt is clear that he grafted those memories onto this film, honoring them by resisting the temptation to manufacture a narrative. Come and See is rife with running Steadicam shots and deliberately unsettling compositions. Actors are constantly performing directly to camera, confronting us head-on with their terror. Only five months ago, Oscar-winning cinematographer Roger Deakins praised the film on his blog: “I think I am right in saying that 'Come and See' utilized Steadicam in a way than had not been done up to that time.” He has cited it as one of his favorite films.\nWatching Come and See evokes the sense that the violence we’re seeing is alive, real—that the screen isn’t a barrier, and neither is historical distance. Kravchenko’s very face wizens as the film bears on and his initial travails spin beyond his control. You would never call this a documentary in the journalistic sense—yet few war movies made before or since have so accurately seemed the capture the feeling of being there.\nPerhaps it helps that this is, in part, a tale about lost innocence, firmly rooted in the cowering perspective of a guileless teenage boy. But these are peculiar words to apply to Klimov’s film, in which that innocence—the cocksure smile of a kid ignoring the warnings of the adults of the room—feels grotesque from the start.\nYou could say, I guess, that the boy learns his lesson. You see it on his face by the end of the film—well before the end, actually, which is what upsets the easy through-line other directors would have wanted to draw in a film like this. Flyora is a character, but this film is not about his character, in the moral or personal sense—even as it sets him up to feel, distressingly, that his irresponsibilities have resulted in the deaths of others. To believe that would be to believe that atrocity is guided by consequence or reason.\nThis isn’t that kind of movie. I’ve seen the film more than once, and I still can’t accurately sum up its impact in terms of what I’ve “learned” from it, though Come and See has taught me very much: it has defined my sense of what Nazi occupation felt like in the realms other movies have tended to ignore. I can point to specific images that have shaken me to the core each time: a Nazi woman cracking open a crab leg as that farmhouse burns, for example, or a guilt-ridden Flyora sticking his head in the mud, or his companion turning, unexpectedly, to find a pile of dead bodies stacked up against a wall: Flyora’s family.\nKlimov was hardly the first survivor of WWII to make a film about it. But with Come and See, he became and remains one of its most worthy chroniclers. This film endures because it obscures nothing. Its title was inspired by Chapter 6 of The Apocalypse of John—an invitation to see what hell the Four Horsemen of the Apocalypse hath wrought. You will want to turn away from this hell. But through Klimov, you are forced to live it.\n— Why Eminem performed “Lose Yourself” at the 2020 Oscars\n— The Crown announces its new Queen Elizabeth II—and confirms its last season\n— Legendary Oscar winner Lee Grant on the blacklist, sex, sexism, and the treatment of Renée Zellweger\n— Hanging with Bill Murray on the set of Ghostbusters: Afterlife\n— Inside the 2020 Vanity Fair Oscar party\n— There’s a blank space at the center of Taylor Swift’s Miss Americana\n— From the Archive: How director Bong Joon Ho’s Parasite marched toward Oscar night—and changed everything along the way\nLooking for more? Sign up for our daily Hollywood newsletter and never miss a story.",
+      "image_captions": [
+        "Photograph by Gina LeVay.Annie Warriner, 13, Madison, WIHer greatest fear: “That my education will be destroyed and I will no longer be allowed to attend colleges that I would like to, or that their quality will go down because of budget cuts, and stuff like that.”",
+        "Image may contain Human Person Military Military Uniform Army Armored Officer Face Soldier and People",
+        "Image may contain Clothing Apparel Human Person Symbol Flag Crowd Cap Hat and Beanie",
+        "Image may contain Clothing Apparel Human Person Sweater Sweatshirt Hood Glasses Accessories Accessory and Face",
+        "This image may contain Skin Human Person Crowd and Tattoo"
+      ]
+    },
+    {
+      "url": "https://www.paristheaternyc.com/film/come-and-see-bleak-week",
+      "page_title": "Come and See - Paris Theater",
+      "title": "Paris Theater - Come and See",
+      "description": "40th Anniversary | Part of \"Bleak Week\"",
+      "text": "LAST SHOWN 06/14/2025\nTue Jun 10 - Sat Jun 14, 2025\nCome and See\n40th Anniversary | Part of \"Bleak Week\"\n- DIRECTOR\n- Elem Klimov\n- CAST\n- Aleksei Kravchenko, Olga Mironova\nSYNOPSIS\n40th Anniversary! Its title drawn from a chilling passage in the Book of Revelation, this nightmarish, fact-based WWII drama is told through the eyes of 14-year-old Florya (Aleksey Kravchenko), a Belarusian boy eager to join the fight against Nazi invaders. But Florya’s dreams of heroics are quickly replaced by the litany of horrors he witnesses from the moment he joins the army to the film’s unforgettable conclusion. “One of the most devastating films ever about anything. … I have rarely seen a film more ruthless in its depiction of human evil.” – Roger Ebert.\nScreening previous in Bleak Week 2024; previous guest appearance by Ari Aster (filmmaker of Beau Is Afraid, Hereditary) on June 9, 2024.",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.latimes.com/entertainment-arts/movies/story/2020-03-06/come-and-see-review-war-film",
+      "page_title": "Review: Why you must see 'Come and See' on the big screen",
+      "title": "Review: 'Come and See,' the most surreally devastating of war films, remains a must-see on the big screen",
+      "description": "Elem Klimov's emotionally shattering 1985 masterpiece returns to theaters in a vital new restoration.",
+      "text": "‘Come and See,’ the most surreally devastating of war films, remains a must-see on the big screen\n- Share via\n“Come and See,” Elem Klimov’s 1985 masterpiece of hallucinatory realism, was originally conceived under the title “Kill Hitler,” and with good reason. Unsparing in its vision of the atrocities committed by Nazi forces in the Soviet republic of Byelorussia (now Belarus), and climaxing with its own indescribable Führer-murdering fantasy, it remains one of the greatest of war films and one of the most unshakably damning. The actual title, no less direct in its charge to the viewer, hails from the Book of Revelation: As the first four seals of God’s judgment are opened, one of the four living beasts declares, “Come and see.” The words beckon you with a chill; they’re like an invitation to the end of the world.\nIt’s an invitation you should accept. (A brilliant 2K restoration, courtesy of Janus Films, begins screening this weekend at the Laemmle Monica Film Center.) If you do, know that what awaits you is more than just another meticulously choreographed spectacle of war. This soul-scarring movie unfolds as though under a trancelike spell of its own making, one that disorients as much as it hypnotizes. What do we see in “Come and See,” and through whose eyes are we seeing it? The silent, off-screen deity invoked by the allusion to Revelation? Or perhaps Klimov and his cowriter, Ales Adamovich, who both drew on their memories of the Nazi invasion as young men?\nIt isn’t always clear. From time to time the perspective merges with that of the story’s young protagonist, Flyora (Aleksei Kravchenko), a 14-year-old Byelorussian villager who becomes our increasingly traumatized guide to this circle of earthly hell. It begins, in 1943, with a scene of impish play, as Flyora and a friend search for weapons amid the remnants of an earlier battle while German warplanes soar ominously overhead. Flyora digs up a rifle, which enables him to join the partisan fighters defending their country.\nBut the sense of an elaborate game, of a fundamental disconnect with reality, persists later at home when the partisans arrive to cart him off to battle. “Come and See” is about what happens when a young man’s coming-of-age merges with the coming of war. Flyora grins and makes faces at his two adorable younger sisters, even as his mother (Tatyana Shestakova), horrified at being abandoned, thrusts an ax at him and demands that he kill them all on the spot. He may think it’s a joke, but she’s deadly serious; she knows what’s coming.\nAnd in time, so do we. Explosions rip through the forest where the soldiers have left Flyora behind to keep watch. Hitler’s troops descend on parachutes, and their reign of terror commences. Flyora flees back to his home village with another teenager, Glasha (Olga Mironova), who becomes his partner in a kind of dance of madness, as they begin to grasp — but also try to deny — the evil that has been unleashed. What Flyora sees and doesn’t see is crucial; at one point Glasha confirms the absolute worst with a quick, sidelong glance, but Flyora doesn’t look. He could be willing himself into obliviousness.\nThere are entire set-pieces that seem predicated, visually and thematically, on the sheer impossibility of facing the inexplicable. You will not soon forget the devastating sight and sounds of Flyora dragging Glasha through a muddy bog, insisting that he knows where to find his family, even as she knows they are beyond finding. The chaos of human destruction — a field of landmines, an eruption of flares — throws the natural world into a kind of uncomprehending paralysis: A wandering bird and a shell-shocked cow are scarcely the least memorable of the movie’s many characters.\nWe realize, at a certain point, that we have arrived on a strange new plane of cinematic consciousness. The sound design screams and reverberates with otherworldly effects; the camera hurtles this way and that, sometimes pulling back in a futile attempt to make sense of it all, and sometimes plunging us headlong into terror and confusion. (The stunning, nearly square-framed cinematography is by Aleksei Rodionov.) Kravchenko’s silent scream of a performance is almost entirely reactive, and extraordinary; by the end of this ordeal, Flyora’s cherubic blond features seem to have aged an eternity.\n“Come and See” is a paradox: a visceral freefall into barbarism, but also a controlled, sometimes contemplative descent. It doesn’t flinch from its own horrors, but it’s still sufficiently restrained, even distanced, for you to process them. And it builds, inexorably, to a conflagration that tests your limits and those of the medium itself, of what depths of suffering can and cannot be dramatized. Klimov draws out the tension, the anticipatory dread, to an unendurable degree. Perhaps the most ghastly thing is that at a certain point, you find yourself longing for release, for the terrible relief that only the finality of death can bring.\nKlimov, who died in 2003, never made another film after this one, though not for want of trying. You can understand why. The closing passage, like much of what we see, is ripped from the ravages of history; at the end the film tells us that the Nazis burned 628 Byelorussian villages. The statistic defeats the imagination even as this movie reawakens it.\n‘Come and See’\nNot rated\n(In Belarusian, Russian and German with English subtitles)\nRunning time: 2 hours, 26 minutes\nPlaying: Laemmle Monica Film Center, Santa Monica",
+      "image_captions": [
+        "Rian Johnson, Benny Safdie, and Mona Fastvold bottom row left to right, Nia DaCosta, Jon M. Chu and Guillermo del Toro",
+        "the Warner Bros. Studios water tower",
+        "Chatsworth, CA - April 20, 2026: Haleigh Le Moine re-stocks VHS tapes at Video Hero VHS in Chatsworth, CA on Monday, April 20, 2026. (Brian Feinzimer / For The Times)",
+        "Janet Jackson, left, and Paris Jackson.",
+        "a man with bloody bandages covering his face on a hospital bed"
+      ]
+    },
+    {
+      "url": "https://www.americancinematheque.com/now-showing/come-and-see-the-ascent-6-3-22/",
+      "page_title": "COME AND SEE / THE ASCENT - American Cinematheque",
+      "title": "COME AND SEE / THE ASCENT - American Cinematheque",
+      "description": "",
+      "text": "FRI JUNE 3, 2022 7:30 PM COME AND SEE / THE ASCENT $8.00 (member) ; $13.00 (general admission) Ticket prices include a $2.00 online booking fee. Aero Theatre | Introductions by filmmaker Josh Ethier. ‘BLEAK WEEK: Cinema of Despair’ Series This event has passed Your RSVP is being held for 1 minute, please fill out your contact info to complete the RSVP. * All fields are required First Name * Last Name * Email * Quantity * Subscribe to our newsletter FINISH\nABOUT THE FILMS: COME AND SEE, 1985, Janus Films, 140 min, Soviet Union, Dir: Elem Klimov. Its title drawn from a chilling passage in the Book of Revelation, this nightmarish, fact-based WWII drama is told through the eyes of 14-year-old Florya (Aleksey Kravchenko), a Belarusian boy eager to join the fight against Nazi invaders. But Florya’s dreams of heroics are quickly replaced by the litany of horrors he witnesses from the moment he joins the army to the film’s unforgettable conclusion. “One of the most devastating films ever about anything. … I have rarely seen a film more ruthless in its depiction of human evil.” – Roger Ebert. FORMAT: DCP THE ASCENT, 1977, Janus Films, 111 min, Soviet Union, Dir: Larisa Shepitko. Larisa Shepitko’s emotionally overwhelming final film won the Golden Bear at the 1977 Berlin Film Festival and has been hailed around the world as the finest Soviet film of its decade. Set during World War II’s darkest days, THE ASCENT follows the path of two peasant soldiers, cut off from their troop, who trudge through the snowy backwoods of Belarus seeking refuge among villagers. Their harrowing trek leads them on a journey of betrayal, heroism and ultimate transcendence. FORMAT: DCP",
+      "image_captions": [
+        "LA County Arts & Culture logo",
+        "American Cinematheque Logo"
+      ]
+    }
+  ],
+  "evidence_count": 5,
+  "crawled_at": "2026-04-23T16:48:34.863812+00:00"
+}

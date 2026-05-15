@@ -1,0 +1,105 @@
+{
+  "sample_id": "true_144",
+  "image_url": "https://i2-prod.dailystar.co.uk/incoming/article27056213.ece/ALTERNATES/s615b/1_CHINA-OUT-Chinese-police-show-of-a-group.jpg",
+  "visual_entities": [
+    {
+      "description": "China",
+      "score": 0.867
+    },
+    {
+      "description": "Death",
+      "score": 0.5828
+    },
+    {
+      "description": "",
+      "score": 0.578
+    },
+    {
+      "description": "Sentence",
+      "score": 0.5328
+    },
+    {
+      "description": "Crime",
+      "score": 0.4442
+    },
+    {
+      "description": "Lethal injection",
+      "score": 0.4041
+    },
+    {
+      "description": "Law",
+      "score": 0.3331
+    },
+    {
+      "description": "",
+      "score": 0.3331
+    },
+    {
+      "description": "Convict",
+      "score": 0.3261
+    }
+  ],
+  "best_guess_labels": [
+    "china executions in stadium"
+  ],
+  "similar_image_urls": [
+    "https://image.volkskrant.nl/113080337/width/2480/massaproces-in-de-oost-chinese-havenstad-wenzhou-elf-verdachten",
+    "https://caliber.az/media/photos/original/97bf263202110c046f791b895ffb4a18.webp",
+    "https://static.polityka.pl/_resource/res/path/e8/8b/e88b463c-9ba5-403d-888c-6b1a91dec6d9",
+    "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3867719792774973883",
+    "https://i2-prod.mirror.co.uk/incoming/article34908625.ece/ALTERNATES/s1200c/0_CHINA-OUT-Chinese-police-show-of-a-group.jpg",
+    "https://i2-prod.mirror.co.uk/article34908625.ece/ALTERNATES/s1200c/0_CHINA-OUT-Chinese-police-show-of-a-group.jpg",
+    "https://image.volkskrant.nl/113080337/feature-crop/1200/1200/massaproces-in-de-oost-chinese-havenstad-wenzhou-elf-verdachten",
+    "https://dabegad.com/wp-content/uploads/2018/07/3236807.jpg",
+    "https://dabegad.com/wp-content/uploads/2018/07/3236807.jpg.webp",
+    "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/NINTCHDBPICT000634338211.jpg?quality=80&strip=all&w=723"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.gettyimages.com/photos/china-death-penalty",
+      "page_title": "471 China Death Penalty Images and Stock Photos",
+      "title": "Getty Images",
+      "description": "Getty Images. Find high resolution royalty-free images, editorial stock photos, vector art, video footage clips and stock music licensing at the richest image search photo library online.",
+      "text": "d3sign\n818362142\nUser validation",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.gettyimages.in/photos/china-death-penalty",
+      "page_title": "464 China Death Penalty Images and Stock Photos",
+      "title": "Getty Images",
+      "description": "Getty Images India. Find high resolution royalty-free images, editorial stock photos, vector art, video footage clips and stock music licensing at the richest image search photo library online.",
+      "text": "ViewStock\n886771796\nUser validation",
+      "image_captions": []
+    },
+    {
+      "url": "https://scroll.in/latest/861862/china-10-people-sentenced-to-death-as-thousands-watch-trial-in-a-public-stadium",
+      "page_title": "China: 10 people sentenced to death as thousands watch trial in a ...",
+      "title": "China: 10 people sentenced to death as thousands watch trial in a public stadium",
+      "description": "They were convicted for drug-related crimes, murder and robbery and taken away soon after to be executed.",
+      "text": "China: 10 people sentenced to death as thousands watch trial in a public stadium\nThey were convicted for drug-related crimes, murder and robbery and taken away soon after to be executed.\nThousands of people watched as a court in China sentenced 10 people to death for drug-related crimes, murder and robbery, in a public sports stadium in the city of Lufeng, The Guardian reported. They were all taken away soon after to be executed, the South China Morning Post reported.\nSeven of the 10 were convicted for drug-related crimes, the others of murder and robbery.\nLocal media reported that an official notice on social media invited residents from the area to attend the sentencing. The accused men were brought to the stadium in police trucks. They were made to stand on a stage with four police officers behind each of them, the South China Morning Post report said.\nAcross the stadium, posters with slogans of the country’s campaign against drugs were put up.\nWhile China carries out several executions a year, such public trials and sentencing were rare, until a few years ago, The Guardian report said. Five months ago, eight people were sentenced to death for drug crimes and executed, after a similar public trial in the same town. Lufeng has become the focus of a drug crackdown, after a large drug bust in 2014 when the police confiscated three tonnes of crystal meth, the report said.",
+      "image_captions": [
+        "India is a ‘hellhole’: Trump shares commentator’s views questioning US birthright citizenship",
+        "Rush Hour: Voter turnout in Bengal crosses 90%, Trump shares post calling India a ‘hellhole’ & more",
+        "What a $600 meal at a fancy French restaurant taught an Indian chef about dining right",
+        "Bengal goes to the polls today, but lakhs of voters, including my family, don’t count",
+        "India’s per capita GDP estimated below Bangladesh in 2026: IMF"
+      ]
+    },
+    {
+      "url": "https://www.digitaljournal.com/world/chinese-convicts-executed-after-stadium-trial/article/510285",
+      "page_title": "Chinese convicts executed after stadium trial - Digital Journal",
+      "title": "Chinese convicts executed after stadium trial",
+      "description": "- Thousands of spectators filled a stadium in China to watch 10 suspects be sentenced to death for crimes ranging from drug-dealing to homicide before they were taken away to be executed at the weekend.An online video of the rare public trial, held in southern Guangdong province on Saturday, showed the handcuffed suspects paraded around […]",
+      "text": "Thousands of spectators filled a stadium in China to watch 10 suspects be sentenced to death for crimes ranging from drug-dealing to homicide before they were taken away to be executed at the weekend.\nAn online video of the rare public trial, held in southern Guangdong province on Saturday, showed the handcuffed suspects paraded around a track by uniformed police officers as onlookers watched from the sidelines.\nThe convicts also stood on a podium as their sentences were read over loudspeakers, while officials sat on a stage flanked by military guards.\nRights groups say China executes more people than any other country, but Beijing does not give figures on the death penalty, regarding the statistics as state secrets.\nA public announcement last week from Lufeng City People's Court had invited citizens to sit in on the \"open-air stadium trial\", as it was dubbed by the state-run Global Times.\nBeijing News, which circulated the trial video along with several other Chinese media outlets, criticised the court for making a spectacle of the sentences.\nTen of 12 suspects were handed the death penalty and taken away for immediate execution while curious locals, including many young people in school uniform, looked on.\n\"Places may hold public trials in order to intimidate criminals and raise society's sense of security, but they should not violate the basic humanity of the law,\" a Beijing News commentary said Monday.\nThe column noted that \"from a legal standpoint, the death penalty should not be enacted immediately after the final ruling... the local court deliberately put together this scene for dramatic effect.\"\nAccording to Global Times, an open-air trial for drug trafficking was also held in Lufeng in 2015, with 10,000 people in the audience.\nThe city is one of the country's largest producers of methamphetamine.\nThousands of spectators filled a stadium in China to watch 10 suspects be sentenced to death for crimes ranging from drug-dealing to homicide before they were taken away to be executed at the weekend.\nAn online video of the rare public trial, held in southern Guangdong province on Saturday, showed the handcuffed suspects paraded around a track by uniformed police officers as onlookers watched from the sidelines.\nThe convicts also stood on a podium as their sentences were read over loudspeakers, while officials sat on a stage flanked by military guards.\nRights groups say China executes more people than any other country, but Beijing does not give figures on the death penalty, regarding the statistics as state secrets.\nA public announcement last week from Lufeng City People’s Court had invited citizens to sit in on the “open-air stadium trial”, as it was dubbed by the state-run Global Times.\nBeijing News, which circulated the trial video along with several other Chinese media outlets, criticised the court for making a spectacle of the sentences.\nTen of 12 suspects were handed the death penalty and taken away for immediate execution while curious locals, including many young people in school uniform, looked on.\n“Places may hold public trials in order to intimidate criminals and raise society’s sense of security, but they should not violate the basic humanity of the law,” a Beijing News commentary said Monday.\nThe column noted that “from a legal standpoint, the death penalty should not be enacted immediately after the final ruling… the local court deliberately put together this scene for dramatic effect.”\nAccording to Global Times, an open-air trial for drug trafficking was also held in Lufeng in 2015, with 10,000 people in the audience.\nThe city is one of the country’s largest producers of methamphetamine.",
+      "image_captions": [
+        "What does this really mean?",
+        "One of the most climate-threatened corners of the planet, scientists fear Tuvalu will be uninhabitable within the next 80 years",
+        "From 2012 to 2021 the number of humpbacks fell 20 percent from some 33,000 individuals to just over 26,600",
+        "Australia's arts sector has accused Anthropic and other AI companies of pushing to loosen copyright laws so chatbots can be trained on local songs and books",
+        "Alberta Innovates CEO, Mike Mahon at Inventures 2025. – Photo by Jennifer Friesen, Digital Journal"
+      ]
+    }
+  ],
+  "evidence_count": 4,
+  "crawled_at": "2026-04-23T17:33:37.066673+00:00"
+}

@@ -1,0 +1,42 @@
+{
+  "sample_id": "false_199",
+  "image_url": "https://www.womensrunning.com/wp-content/uploads/2016/05/Jami-Marseille.jpeg?width=730",
+  "visual_entities": [
+    {
+      "description": "Surgery",
+      "score": 0.696
+    },
+    {
+      "description": "",
+      "score": 0.4829
+    },
+    {
+      "description": "Leg",
+      "score": 0.441
+    },
+    {
+      "description": "Boston Marathon bombings",
+      "score": 0.3477
+    }
+  ],
+  "best_guess_labels": [
+    "bilateral amputee women"
+  ],
+  "similar_image_urls": [
+    "https://cdn.womensrunning.com/wp-content/uploads/2016/05/Jami-Marseille.jpeg"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.womensrunning.com/culture/first-bilateral-amputee-finish-boston/",
+      "page_title": "First Female Bilateral Amputee To Complete Boston Shares Her Story",
+      "title": "First Female Bilateral Amputee To Complete Boston Shares Her Story",
+      "description": "She says her friend, a Boston Marathon bombing survivor and fellow amputee, is her \"soul sister.\"",
+      "text": "When I lost my legs, I could have never imagined I would become a world-class runner who thrives by choosing the path of exercise.\nIn a story of sheer endurance and survival, I emerged from an unthinkable 11 days, stranded in a car with a friend, during a terrible snowstorm in a desolate area of Northern Arizona. Finally rescued by snowmobilers, I lost both my legs below the knee due to frostbite. I was 19 when this happened, a sophomore at Arizona State University. My future was uncertain; I had not chosen a major and was “enjoying” the college life. My life path completely changed as I was faced with hunger, dehydration and almost death.\nUpon rescue, amputation was not even a thought in my mind; I felt frostbite was something I could take a hot shower and wash away. I knew nothing about prosthetics; let alone how to say that word. The doctor expressed to me the decision to amputate was in my best interest. My body was trying to heal, but my feet were getting sicker. I needed to sign the amputation paperwork (I was 19, a legal adult) for surgery. The surgeons answered all my questions before surgery and even shared a video with me of a young woman walking and removing her prosthetic leg. When surgery was scheduled, the physical therapists immediately had me in the gym to strengthen my upper body. For someone who NEVER worked out, I was not happy, but I listened to them and came to discover I loved how exercise made me feel.\nRelated: Why This Double Amputee Is Totally Amazing\nI am the oldest grandchild on my mom’s side. I shared a very special bond with my Poppy, Seymour Cohen—he was the patriarch of my family who always led with a strong work ethic combined with family first. He provided me with “tough love” while in the hospital. I was complaining how hard the exercise was, and he reminded me how important it is for my future.\nIn the fall of 1996 I watched video of the Paralympics in Atlanta and was impressed to watch amputees like myself run and run fast. When my Poppy passed away shortly after watching the Paralympics, I began running, and it really was his legacy that pushed me to run. His strong belief in exercise was instilled in me now.\nRunning has taken me to heights I never could have imagined where my life would lead. I traveled around the world while competing against other woman amputees running in track meets. Meeting other amputees, especially woman, opened my world to beautiful friendships that are a huge part of my life today. I wrote my autobiography in 2001: Up and Running: The Jami Goldman Story. My story is powerful and shares with readers how I chose to live my life without limitations.\nRelated: She’s Back To Run The Boston Marathon After Losing Her Leg\nI ran with The United States Paralympic Team from 1997-2000. Unfortunately, I did not make the team for the 2000 Sydney Paralympics. Since then, I’ve been doing distance running. I have run five half marathons, two full marathons, and various 5K and 10K races. Running gives me a sense of freedom, power, confidence and overall security to hold my head in the world.\nIn 2013, after the Boston Marathon bombings happened, I was introduced to Celeste Corcoran through the Challenged Athletes Foundation, a non-profit that supports physically challenged athletes with financial grants, mentoring and training so they can get involved and stay involved in sports. Celeste, a victim of the bombings, lost both of her legs, and I helped mentor her. In April 2016, I took on the challenge of becoming the first woman bilateral amputee to complete the Boston Marathon. Finishing the Boston Marathon has forever changed my life. There was so much love, joy, laughter, compassion, tears and overall incredible support from my family and friends. My heart is full of gratitude for all those that guided me to the finish line, especially my soul sister in Boston, Celeste, who exemplifies strength and resiliency. It was Celeste who provided me the motivation to get through the 26.2 miles waiting for me at the finish line.\nI am proud of the life my husband and I have created for our two beautiful children. I am proud of my dedication to teaching and my passion for living a life full of love. I am proud to be the recipient of the IDEA Fitness Inspiration Award. I was honored with the distinguished alumni award from CSULB in 2001.\nLIVE, LOVE LAUGH\nJami Marseilles",
+      "image_captions": [
+        "Jami and Celeste are the two runner-amputees on the left."
+      ]
+    }
+  ],
+  "evidence_count": 1,
+  "crawled_at": "2026-04-23T17:48:44.716868+00:00"
+}

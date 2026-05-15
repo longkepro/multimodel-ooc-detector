@@ -1,0 +1,71 @@
+{
+  "sample_id": "true_133",
+  "image_url": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2018/10/caravan-1.jpg",
+  "visual_entities": [
+    {
+      "description": "Horror anthology",
+      "score": 0.7223
+    },
+    {
+      "description": "Snopes",
+      "score": 0.709
+    },
+    {
+      "description": "Photograph",
+      "score": 0.4992
+    },
+    {
+      "description": "Short",
+      "score": 0.4572
+    },
+    {
+      "description": "Horror fiction",
+      "score": 0.4448
+    },
+    {
+      "description": "Anthology",
+      "score": 0.3184
+    }
+  ],
+  "best_guess_labels": [
+    "horror"
+  ],
+  "similar_image_urls": [
+    "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2018/10/caravan-1.jpg",
+    "https://mediaproxy.snopes.com/width/600/https://media.snopes.com/2018/10/caravan-1.jpg",
+    "https://media.wfmynews2.com/assets/WFMY/images/607008354/607008354_750x422.jpg",
+    "https://media.wfmynews2.com/assets/WFMY/images/607008354/607008354_1140x641.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.snopes.com/tag/mexico/?pagenum=3",
+      "page_title": "Mexico Articles | Page 3 | Snopes.com",
+      "title": "Fox News Graphic Says Trump Cut U.S. Aid to '3 Mexican Countries'",
+      "description": "",
+      "text": "Snopes\nNow available in the app store!\nOpen\nLog in to activate your ad-free access.\nIt looks like you might have a Snopes membership! Log in to enjoy your ad-free experience.\nLog In\nYou're browsing with fewer ads for the next 24 hours, thanks to our sponsor\n1440 Newsletter\n.\nLearn More\nSnopes Membership\nSearch\nMy Profile\nLogout\nSubmit a Rumor\nLatest\nTrending\nNews & Politics\nEntertainment\nFact Checks\nQuiz\nSections\nLatest\nTrending\nFact Checks\nNews\nCollections\nMore\nContact Us\nSubmit a Rumor\nArchives\nQuiz\nFactBot\nSubmit a Tip\nSnopes App\nNewsletters\nAbout Us\nCategories\nNews & Politics\nEntertainment\nScience & Technology\nLifestyle\nSnopes Membership\nLogin\nMy Profile\nLogout\nDonald Trump\nAI-generated Content\nPope Leo XIV\nJeffrey Epstein\nMelania Trump\nMexico\nFox News Graphic Says Trump Cut U.S. Aid to '3 Mexican Countries'\nWritten by:\nDavid Mikkelson\nMarch 31, 2019\nThe \"Fox & Friends Weekend\" show issued an apology after displaying an embarrassingly inaccurate ...\nRead More\nTrump Denied He Said Mexico Would Write a Check for the Wall — But He Did\nWritten by:\nBethania Palma\nJan. 11, 2019\nPresident Trump's comments on how border wall construction would be funded shifted as it became ...\nRead More\nDid Mexican Authorities Arrest and Torture a U.S. Marine for Accidentally Crossing the Border?\nWritten by:\nDan MacGuill\nDec. 5, 2018\nA viral tweet over-simplified a complicated 2014 episode in the context of the 2018 \"migrant car ...\nRead More\nIs Mexico Providing Charter Buses to Transport Caravan Migrants to the Border?\nWritten by:\nBethania Palma\nNov. 12, 2018\nSketchy reports claimed the thousands-strong migrant caravan was being chartered to the U.S. bor ...\nRead More\nDid the Whole Migrant Caravan Turn Down Mexico's Offer of Jobs, Medical Care and Education?\nWritten by:\nBethania Palma\nNov. 7, 2018\nSome members of the caravan accepted the offer, some spurned it, and some returned home.\nRead More\nWere These Mexican Police Officers Brutalized by Members of a Migrant Caravan?\nWritten by:\nDan Evon\nOct. 22, 2018\nA series of photographs showing injured police officers are genuine, but they are several years ...\nRead More\nThe Truth About 'Earthquakes' Caused By Jubilant Sports Fans\nWritten by:\nAlex Kasprak\nJune 19, 2018\nHeadlines regarding the seismic potential of sports fans are largely meaningless from a scientif ...\nRead More\nDo People Really Wear Live, Jewel-Encrusted Beetles as Brooches?\nWritten by:\nDavid Emery\nJune 5, 2018\nA viral video shows people wearing jewelry consisting of what appear to be live beetles decorate ...\nRead More\nIs This Sign at the United States-Mexico Border Real?\nWritten by:\nDan Evon\nMay 2, 2018\nAn image purportedly showing a U.S. border sign saying \"lots of free stuff ahead\" is — you guess ...\nRead More\nDid President Donald Trump Slap the Mayor of Mexico City?\nWritten by:\nDan Evon\nMarch 26, 2018\nA video of Trump slapping World Wrestling Entertainment executive director Vince McMahon at an e ...\nRead More\nDoes Christina Hagan's Campaign Ad Show the Mexico-United States Border?\nWritten by:\nArturo Garcia\nMarch 16, 2018\nAn Ohio Republican candidate recycles a misrepresentation of the border used by President Donald ...\nRead More\nDid Nancy Pelosi Say Building a Wall Will Violate the Rights of 'Millions of Illegals'?\nWritten by:\nDan Evon\nJan. 23, 2018\nA quote from the House Minority Leader about how building a wall on the Mexican border would vio ...\nRead More\nDid Michele Bachmann Say Banning Mexican Food Would 'End Illegal Border Crossings'?\nWritten by:\nDan MacGuill\nDec. 28, 2017\nA parody Facebook page comes up with yet another fake quote attributed to the former lawmaker.\nRead More\nWere 50 Dead Bodies Found on a Beach in Cancun?\nWritten by:\nArturo Garcia\nDec. 7, 2017\nA disreputable web site devoted to \"viral\" stories turned two Spanish journalists' work into a s ...\nRead More\nMeth-Laced 7Up Reportedly Found in Mexico\nWritten by:\nDavid Mikkelson\nSept. 23, 2017\nU.S. health authorities have issued a travel warning for Mexico after several people were sicken ...\nRead More\nHurricane Irma Floods Miami International Airport?\nWritten by:\nDan Evon\nSept. 11, 2017\nThe White House's social media director mistook a video showing heavy flooding at the Mexico Cit ...\nRead More\nDid a Man Die After 'Holding in Farts' at His Girlfriend's House?\nWritten by:\nDan MacGuill\nAug. 4, 2017\nA satirical web site republished in English a fake story that had appeared in both Spanish and P ...\nRead More\nProminent Mexican Journalist Shot and Killed in Daylight Attack\nWritten by:\nArturo Garcia\nMay 15, 2017\nJavier Valdez Cárdenas won international honors and accolades for his extensive coverage of Mexi ...\nRead More\nMexico's President Cancels Meeting with United States President Donald Trump\nWritten by:\nBrooke Binkowski\nJan. 26, 2017\nThe move came after Trump signed an executive order on a controversial border wall to be built b ...\nRead More\nTrump Threatened Military Action Against Mexico?\nWritten by:\nDan Evon\nDec. 27, 2016\nAn image purportedly showing a tweet in which Donald Trump threatened military action against Me ...\nRead More\nPrevious\nNext\nPage: 3",
+      "image_captions": [
+        "Mexico fans celebrating.",
+        "Former Minnesota Congresswoman Michele Bachmann (R)",
+        "Javier Valdez Cardeas"
+      ]
+    },
+    {
+      "url": "https://www.snopes.com/author/dan/?pagenum=96",
+      "page_title": "Dan Evon, Author at Snopes.com Page 96",
+      "title": "Was Mail Bombing Suspect Cesar Sayoc a Registered Democrat?",
+      "description": "The definitive Internet reference source for researching urban legends, folklore, myths, rumors, and misinformation.",
+      "text": "Dan Evon\nDan Evon worked at Snopes between October 2014 and July 2022. Evon is a Chicago-based writer who has been sifting through the sludge of social media since 2009. Prior to joining the editorial staff at Snopes.com, he was the editor-in-chief of Social News Daily, a senior writer for The Inquisitr, and covered motorcycle racing for All About Bikes Magazine.",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.snopes.com/latest/?pagenum=855",
+      "page_title": "What's New | Page 855 | Snopes.com",
+      "title": "Is This a Real Photograph of a Man Holding a 'Homeless N*****s Go Back to Africa' Sign?",
+      "description": "All the latest rumors, urban legends, myths and misinformation gathered together in one nifty list.",
+      "text": "Snopes\nNow available in the app store!\nOpen\nLog in to activate your ad-free access.\nIt looks like you might have a Snopes membership! Log in to enjoy your ad-free experience.\nLog In\nYou're browsing with fewer ads for the next 24 hours, thanks to our sponsor\n1440 Newsletter\n.\nLearn More\nSnopes Membership\nSearch\nMy Profile\nLogout\nSubmit a Rumor\nLatest\nTrending\nNews & Politics\nEntertainment\nFact Checks\nQuiz\nSections\nLatest\nTrending\nFact Checks\nNews\nCollections\nMore\nContact Us\nSubmit a Rumor\nArchives\nQuiz\nFactBot\nSubmit a Tip\nSnopes App\nNewsletters\nAbout Us\nCategories\nNews & Politics\nEntertainment\nScience & Technology\nLifestyle\nSnopes Membership\nLogin\nMy Profile\nLogout\nDonald Trump\nAI-generated Content\nPope Leo XIV\nJeffrey Epstein\nMelania Trump\nWhat's New\nThe latest fact checks and original reporting from Snopes' editorial team.\nIs This a Real Photograph of a Man Holding a 'Homeless N*****s Go Back to Africa' Sign?\nWritten by:\nDavid Emery\nOct. 30, 2018\nThe photograph is genuine, but the story behind it is significantly more complicated than it may ...\nRead More\nDid Pipe-Bombing Suspect Cesar Sayoc Attend Donald Trump Rallies?\nWritten by:\nDan MacGuill\nOct. 30, 2018\nVideo and photographic evidence establishes beyond doubt that Sayoc attended at least two Trump ...\nRead More\nDid Donald Trump Say Jewish People Were Committing Hate Crimes Against Themselves?\nWritten by:\nBethania Palma\nOct. 30, 2018\nNews reports from 2017 quoted the Pennsylvania attorney general recounting a conversation with t ...\nRead More\nDoes This Photograph Show a Car with a Message Supporting 'Public Executions' of Trump Critics?\nWritten by:\nArturo Garcia\nOct. 30, 2018\nPhotographs of the unidentified vehicle were posted online shortly after a suspect was arrested ...\nRead More\nCan President Trump Use Executive Order to End Birthright Citizenship?\nWritten by:\nBethania Palma\nOct. 30, 2018\nLess than a week from midterm elections, an executive order undermining the 14th Amendment could ...\nRead More\nThe Comically Flawed Attempt to Smear Robert Mueller, Explained\nWritten by:\nAlex Kasprak\nOct. 30, 2018\nA plot to accuse Special Counsel Robert Mueller of sexual assault has fallen apart in a truly re ...\nRead More\nWas Donald Trump the First President Since 1991 to Speak at the Future Farmers of America Convention?\nWritten by:\nDan MacGuill\nOct. 30, 2018\nA meme got the basic facts right about President Trump's visit to Indianapolis in October 2018.\nRead More\nDoes This Photograph Show Children Playing 'Pin the Molotov Cocktail on a Cop Car?'\nWritten by:\nDan Evon\nOct. 30, 2018\nIs this picture an example of how \"dangerously violent\" the left is? The timing and location ar ...\nRead More\nDid Patrick Henry Say the Constitution Is 'For the People to Restrain the Government?'\nWritten by:\nArturo Garcia\nOct. 30, 2018\nDespite repeated debunkings, social media users continue to share a quote falsely attributed to ...\nRead More\nDoes This Photograph Show Honduran Caravan Members Using an American Red Cross Tent?\nWritten by:\nAlex Kasprak\nOct. 30, 2018\nA photograph of a family resting in front of a tent labeled “Cruz Roja Mexicana” has, somehow, b ...\nRead More\nWas Amy Schumer Photographed Ripping Up a Fetus?\nWritten by:\nDan Evon\nOct. 30, 2018\nAmy Schumer's face was digitally added to a horror-themed photograph and shared online with a fa ...\nRead More\nDoes This Photograph Show a 110-Pound Squirrel?\nWritten by:\nDan Evon\nOct. 29, 2018\nForced perspective can give any rodent the appearance of an unusually large size.\nRead More\nDoes This Photograph Show Pipe-Bombing Suspect Cesar Sayoc With a 'Known Democrat,' Proving a Hoax Conspiracy?\nWritten by:\nDan MacGuill\nOct. 29, 2018\nEager conspiracy theorists wrenched a photograph of two former soccer teammates out of context, ...\nRead More\nWas Cesar Sayoc an Obama-Supporting Stripper Before Trump's Rise?\nWritten by:\nAlex Kasprak\nOct. 29, 2018\nCesar Sayoc, Jr., the alleged anti-Democrat mail bomber, was a stripper at various points in his ...\nRead More\nIs This a Photograph of Tree of Life Synagogue Shooting Victim Rose Mallinger?\nWritten by:\nBethania Palma\nOct. 29, 2018\nA Twitter user shared a photograph wrongly said to be the 97-year-old synagogue shooting victim.\nRead More\nWas Mail Bombing Suspect Cesar Sayoc a Registered Democrat?\nWritten by:\nDan Evon\nOct. 29, 2018\nA listing for the mail bomb suspect on MyLife.com underwent a series of edits after his arrest i ...\nRead More\nDoes This Video Show Water and a “Chemical” Turning Into “Milk”?\nWritten by:\nAlex Kasprak\nOct. 29, 2018\nNumerous substances are liquid, white, and opaque, and not all of them are milk.\nRead More\nWas Pittsburgh Synagogue Shooting Victim Rose Mallinger a Holocaust Survivor?\nWritten by:\nDavid Mikkelson\nOct. 28, 2018\nA mass shooting by a man who reputedly said he 'wanted all Jews to die' led some to place additi ...\nRead More\nDo Uncancelled Stamps Prove Mail Bombs Were Not Sent Through the USPS?\nWritten by:\nDavid Mikkelson\nOct. 27, 2018\nNot every standard procedure is an absolute, especially when it comes to the U.S. Postal Service.\nRead More\nAre Texas Voting Machines Switching People's Votes?\nWritten by:\nDavid Mikkelson\nOct. 27, 2018\nSocial media rumors report that voting machines in Texas are changing voters' selections to the ...\nRead More\nPrevious\nNext\nPage: 855",
+      "image_captions": []
+    }
+  ],
+  "evidence_count": 3,
+  "crawled_at": "2026-04-23T17:30:28.354096+00:00"
+}

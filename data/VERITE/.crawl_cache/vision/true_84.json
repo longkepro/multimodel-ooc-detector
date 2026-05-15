@@ -1,0 +1,75 @@
+{
+  "sample_id": "true_84",
+  "image_url": "https://storage.googleapis.com/afs-prod/media/afs:Medium:4512120002/512.jpeg",
+  "visual_entities": [
+    {
+      "description": "Le Marais",
+      "score": 0.79895943
+    },
+    {
+      "description": "",
+      "score": 0.6939
+    },
+    {
+      "description": "Saint-Germain-des-Prés",
+      "score": 0.5600183
+    },
+    {
+      "description": "Gare de Lyon",
+      "score": 0.5490376
+    },
+    {
+      "description": "Travel",
+      "score": 0.3836
+    },
+    {
+      "description": "Train",
+      "score": 0.38025004
+    },
+    {
+      "description": "Neighbourhood",
+      "score": 0.361
+    }
+  ],
+  "best_guess_labels": [
+    "slum area in paris"
+  ],
+  "similar_image_urls": [
+    "https://stat.ameba.jp/user_images/20230801/05/yoshino0716/54/74/j/o1280179815319509964.jpg",
+    "https://demotywatory.pl/uploads/201810/1540278549_pstt4o_fb_plus.jpg",
+    "https://demotywatory.pl/uploads/201806/1530293823_sfpgwp_fb_plus.jpg",
+    "https://afamilycdn.com/CwdCNlGdEBdaZpg6myisR0ixHNTowR/Image/2015/12/cau-chuyen-ve-nhung-khu-o-chuot-tai-phap_ed3a0878e6.jpg",
+    "https://cdn-ak.f.st-hatena.com/images/fotolife/d/darabro/20210312/20210312075945.jpg",
+    "https://pbs.twimg.com/media/Ew5n68TVIAUDC1x.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10156192877440255",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2296396900390114",
+    "https://img.joemonster.org/mg/albums/new/180621/smutne_ale_to_fotka_z_paryza.jpg",
+    "https://www.dogdrip.net/dvs/d/21/03/11/eec8409696217a1bb320934fe7c65cc9.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.dw.com/en/olympics-leave-mixed-legacy-in-paris-suburb-of-saint-denis/video-72899673",
+      "page_title": "Olympics leave mixed legacy in Paris suburb of Saint-Denis - DW.com",
+      "title": "Olympics leave mixed legacy in Paris suburb of Saint-Denis",
+      "description": "In the Paris suburb of Saint-Denis, stylish apartments are being built in underprivileged areas. Longtime residents of the district feel left behind.",
+      "text": "SocietyFranceOlympics leave mixed legacy in Paris suburb of Saint-DenisTo view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 videoSocietyFranceLisa Louis in Saint-Denis, France06/19/2025June 19, 2025In the Paris suburb of Saint-Denis, stylish apartments are being built in underprivileged areas. Longtime residents of the district feel left behind.https://p.dw.com/p/4vsXBAdvertisement",
+      "image_captions": [
+        "Participant displays sign reading \"I'm with her\" during a demonstration against sexualized violence against women at the town hall square in Hamburg, Germany 2026.",
+        "A cat walks in front of an empty bench in a square in Spain.",
+        "A person wearing glasses holds up a handful of a local currency. His hand is highlighted with a pink circle, and the title: \"better than €?\"",
+        "BdTD Kenia Corona-Krise erreicht Schnittblumen-Produktion",
+        "A sillouhette of a woman wearing hijab"
+      ]
+    },
+    {
+      "url": "https://www.alamy.com/view-over-a-slum-near-a-train-station-close-to-paris-france-in-november-1970-the-quarter-which-was-inhabited-mostly-by-immigrants-was-abandoned-photo-wilfried-glienke-usage-worldwide-image228366179.html",
+      "page_title": "View over a slum near a train station close to Paris, France ... - Alamy",
+      "title": "View over a slum near a train station close to Paris, France, in November 1970. The quarter, which was inhabited mostly by immigrants, was abandoned. Photo: Wilfried Glienke | usage worldwide Stock Photo - Alamy",
+      "description": "Download this stock image: View over a slum near a train station close to Paris, France, in November 1970. The quarter, which was inhabited mostly by immigrants, was abandoned. Photo: Wilfried Glienke | usage worldwide - R7EYAY from Alamy's library of millions of high resolution stock photos, illustrations and vectors.",
+      "text": "View over a slum near a train station close to Paris, France, in November 1970. The quarter, which was inhabited mostly by immigrants, was abandoned. Photo: Wilfried Glienke | usage worldwide\nCaptions are provided by our contributors.\nRMID:Image ID:R7EYAY\nImage details\nContributor:\ndpa picture allianceImage ID:\nR7EYAYFile size:\n91.3 MB (2.9 MB Compressed download)Releases:\nModel - no | Property - noDo I need a release?Dimensions:\n5618 x 5679 px | 47.6 x 48.1 cm | 18.7 x 18.9 inches | 300dpiDate taken:\n1 November 1970Photographer:\ndpaMore information:\nThis image could have imperfections as it’s either historical or reportage.",
+      "image_captions": []
+    }
+  ],
+  "evidence_count": 2,
+  "crawled_at": "2026-04-23T17:13:42.865462+00:00"
+}

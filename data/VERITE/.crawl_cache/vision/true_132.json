@@ -1,0 +1,72 @@
+{
+  "sample_id": "true_132",
+  "image_url": "https://pbs.twimg.com/media/ClkX5jPWMAEDkjT?format=jpg&name=900x900",
+  "visual_entities": [
+    {
+      "description": "Cleveland Cavaliers",
+      "score": 1.4997001
+    },
+    {
+      "description": "2016 NBA Finals",
+      "score": 1.1551651
+    },
+    {
+      "description": "NBA",
+      "score": 1.05945
+    },
+    {
+      "description": "2015–16 Cleveland Cavaliers season",
+      "score": 0.92235
+    },
+    {
+      "description": "Golden State Warriors",
+      "score": 0.8736
+    },
+    {
+      "description": "NBA Playoffs",
+      "score": 0.76455
+    },
+    {
+      "description": "2025–26 Cleveland Cavaliers season",
+      "score": 0.76320004
+    },
+    {
+      "description": "Cleveland",
+      "score": 0.70575
+    },
+    {
+      "description": "Larry O'Brien Championship Trophy",
+      "score": 0.5
+    },
+    {
+      "description": "Basketball Team",
+      "score": 0.3986
+    }
+  ],
+  "best_guess_labels": [
+    "cleveland 2026 cavs parade"
+  ],
+  "similar_image_urls": [
+    "http://gossiponthis.com/wp-content/uploads/2016/06/cavs-parade-aerial.jpg",
+    "https://dims.apnews.com/dims4/default/97cf7ef/2147483647/strip/true/crop/2048x1374+0+0/resize/599x402!/quality/90/?url=https%3A%2F%2Fstorage.googleapis.com%2Fafs-prod%2Fmedia%2Fmedia%3A05183432f6e54d35960ed604775515e2%2F2048.jpeg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10156171341794023",
+    "https://pbs.twimg.com/media/DH_2ihdXkAEQUEK.jpg?format=jpg&name=thumb"
+  ],
+  "evidence": [
+    {
+      "url": "https://gossiponthis.com/2016/06/23/cavaliers-championship-parade-wreaks-havoc-cleveland-chaos/",
+      "page_title": "Cavaliers Championship Parade Wreaks Havoc on Cleveland",
+      "title": "Cavaliers Championship Parade Wreaks Havoc on Cleveland",
+      "description": "Whenever a team wins the championship, it’s customary for the city to throw a parade to celebrate the trophy. When the team makes history by becoming the first to ever come back from being down 3-1 in the NBA finals, that parade becomes an all-out party. And when it’s the first championship the city has […]",
+      "text": "Whenever a team wins the championship, it’s customary for the city to throw a parade to celebrate the trophy. When the team makes history by becoming the first to ever come back from being down 3-1 in the NBA finals, that parade becomes an all-out party.\nAnd when it’s the first championship the city has seen in over 50 years — well, apparently shit gets crazy.\nCleveland held a parade to celebrate the Cavs’ 2016 NBA championship win over the Golden State Warriors Wednesday (Jun 22), and what should have been a jovial event turned into problems all over the city. More than a million fans crowded the streets and sidewalks, with some camping out the night before for the opportunity to spot the fabled trophy.\nBy 9:00 a.m., the crowding began to build as bars, coffee shops, and any open public areas were jammed with people. Things started to get dangerous when people began climbing onto bus shelters to get a view of the parade, causing at least one to collapse, sending four people to the hospital.\nhttps://twitter.com/thacelebritea/status/745659672435240960\nThe scene only got crazier outside of Mall B, the large outdoor area where the post-parade rally took place.\nPolice failed to contain the crowds that were 30 deep in some areas. Eventually, they broke through the barriers and ended up blocking traffic, causing large traffic jams in downtown. One poor concrete mixer driver needed officers’ help after he was cut off by pedestrians and forced to back up down the street to escape the crowds.\nBut the issues weren’t limited to ground-level. The party got so crazy that it started affecting air travel. Flights into Cleveland Hopkins International Airport were delayed as thousands of fans rushed the airport to catch trains into downtown.\nAnd amidst all of the chaos, there was at least one shooting. Cleveland Police are reporting on the shooting of a 13-year-old girl.\nWith over a million fans celebrating wildly, however, the parade itself was incredibly peaceful. Despite a few hiccups here and there, it was a great day for Cleveland fans and players who finally got to celebrate a home-town championship.\nAnd when you only get to do that once every 50 years, you have the right to go a little crazy.",
+      "image_captions": [
+        "Cleveland Cavaliers fans celebrate the Cavaliers 2016 NBA Championship in downtown Cleveland, Ohio, U.S. June 22, 2016.  REUTERS/Aaron Josefczyk",
+        "Aerial view of the Cleveland Cavaliers’ 2016 NBA Championship parade. See those little dots filling the street? Those are people.",
+        "cleveland-parade-aerial",
+        "Joseph Sikora and T.I."
+      ]
+    }
+  ],
+  "evidence_count": 1,
+  "crawled_at": "2026-04-23T17:29:56.098688+00:00"
+}

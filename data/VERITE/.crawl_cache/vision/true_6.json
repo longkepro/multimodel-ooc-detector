@@ -1,0 +1,105 @@
+{
+  "sample_id": "true_6",
+  "image_url": "https://pbs.twimg.com/media/FWP3qVCWIAAKpdI?format=jpg&name=medium",
+  "visual_entities": [
+    {
+      "description": "Glastonbury Festival 2015",
+      "score": 0.7779751
+    },
+    {
+      "description": "Glastonbury Festival 2025",
+      "score": 0.764445
+    },
+    {
+      "description": "Festival",
+      "score": 0.7014
+    },
+    {
+      "description": "Music Festival",
+      "score": 0.6808
+    },
+    {
+      "description": "Image",
+      "score": 0.4634
+    },
+    {
+      "description": "Boardmasters Festival",
+      "score": 0.44625002
+    },
+    {
+      "description": "",
+      "score": 0.3129
+    },
+    {
+      "description": "Photograph",
+      "score": 0.3002
+    }
+  ],
+  "best_guess_labels": [
+    "aftermath of glastonbury"
+  ],
+  "similar_image_urls": [
+    "https://pbs.twimg.com/media/FWPorJuWQAErCfl.jpg",
+    "https://pbs.twimg.com/media/FWQV_gHWIAERx8O.jpg",
+    "https://external-preview.redd.it/the-aftermath-of-glastonbury-where-they-all-cheered-in-v0-nL--QmnlmM4-v6Qk_qFkc5Fhj-X2QwVNQQ9Hw7yEihQ.jpg?auto=webp&s=c20ea132d7aeedab750fc8f0879fc16dfc3ecd0c",
+    "https://theethicalist.com/wp-content/uploads/2022/06/glastonbury.jpeg",
+    "https://images.squarespace-cdn.com/content/v1/6022a9539d165d34cf12af8f/1612981541117-Q2DIGO99JBOQ26QIKO1J/2A12E1DB00000578-3142856-image-a-19_1435566594892.jpg",
+    "https://www.fon.org.cn/Uploads/editor/20210423/1619169160604284.webp",
+    "https://pbs.twimg.com/media/GuyLxCJW4AADmfK.jpg",
+    "https://media.licdn.com/dms/image/v2/D4E22AQHfgcyhyTRlQQ/feedshare-shrink_800/B4EZfJmU5zHYAg-/0/1751433958419?e=2147483647&v=beta&t=DpqrL7G9DUn1HvklZlP3SyeCqAPvFvT-dWLZiopRHhI",
+    "https://external-preview.redd.it/the-aftermath-of-glastonbury-where-they-all-cheered-in-v0-nL--QmnlmM4-v6Qk_qFkc5Fhj-X2QwVNQQ9Hw7yEihQ.jpg?width=640&crop=smart&auto=webp&s=d955b896f941ed4c558c0661de944e87c0dc33aa",
+    "https://groups.google.com/group/youwentianxia12/attach/58dc277d368590d3/6(07-01-08-57-32).jpg?part=0.3"
+  ],
+  "evidence": [
+    {
+      "url": "https://theethicalist.com/greta-thunberg-calls-for-action-in-surprise-glastonbury-address/",
+      "page_title": "Greta At Glastonbury: Activist Warns Of Climate Catastrophe Fuelled ...",
+      "title": "Greta At Glastonbury: Activist Warns Of Climate Catastrophe Fuelled By Greed",
+      "description": "Activist Greta Thunberg made a surprise appearance at Glastonbury to warn festival goers of climate crisis",
+      "text": "Climate crisis activist Greta Thunberg warned Glastonbury festival-goers the world faces a ‘total natural catastrophe’ in a surprise appearance on the Pyramid Stage that was strewn with a mountain of litter after her speech.\nThe 19-year-old Swede led chants of ‘climate – justice’ and called for action saying the climate crisis is not ‘the new normal’ and that it would worsen ‘until we prioritise people and planet over profits and greed.’\nShe told the 200,000 revellers gathered at the first festival being held in three years because of the pandemic: ‘The forces of greed and profit and planetary destructions are so powerful that our fight for the natural world is limited to a desperate struggle to avoid a total natural catastrophe.\n‘We should be fighting for people and for nature, but instead we are fighting against those who are set on destroying it. Today our political leaders are allowed to say one thing then do the exact opposite.\n‘They can say we are in a climate emergency as they open up new coal mines, new oil fields, and new pipe lines. It has not only become socially acceptable for our leaders to lie, it is more or less what we expect them to do.’\nBut Greta, who is releasing a book in October, told the huge crowd that we should still all believe by working together we could achieve the impossible.‘Hope is not something that is given to you. It is something you have to earn, to create. It cannot be gained passively from standing by passively and waiting for someone else",
+      "image_captions": [
+        "Greta spoke at the Pyramid Stage. Festical goers have been criticised for strewing the area with litter.  Credit: Facebook",
+        "Ukrainian President, Volodymyr Zelensky, also delivered a video address to revellers.",
+        "greta thunberg on stage at glastonbury",
+        "Volodymyr Zelensky making a remote address"
+      ]
+    },
+    {
+      "url": "https://www.thequint.com/news/webqoof/glastonbury-festival-greta-thunberg-environment-fact-check",
+      "page_title": "This Photo Is From 2015 Glastonbury Music Festival, Not 2022",
+      "title": "This Photo Is From 2015 Glastonbury Music Festival, Not 2022",
+      "description": "Fact-Check | A photo of trash littered on an open ground is being shared on social media with the false claim that it shows the venue in Glastonbury where climate activist Greta Thunberg had delivered a speech.",
+      "text": "A photo of trash littered on an open ground is being shared on social media with a claim that it showed scenes from the Glastonbury music festival, where Swedish climate activist Greta Thunberg had delivered a speech on 25 June.\nAfter a three-year hiatus due to COVID-19, the five-day Glastonbury festival has resumed this year. The 19-year-old climate activist made a surprise appearance at the festival and delivered a speech from the Pyramid stage on climate crisis.\nHowever, we found that photo is from the 2015 Glastonbury festival at Worthy Farm in England's Somerset. As the festival drew to a close, revellers left all the trash, which included plastic bottles, beer cans, and sheets of unwanted tarpaulin, on the field across the Pyramid stage. The field was later cleared by hundreds of volunteers.\nWHAT WE FOUND\nWe conducted a reverse image search on the photo and found it published in Daily Mail on 29 June 2015.\nThe image was credited to David Hedges from SWNS, a news agency based out of the United Kingdom.\nWe looked with keywords and found several news reports about the 2015 Glastonbury festival.\nFurther, we also found similar images of the 2015 music festival held at the Worthy Farm on Getty Images and Associated Press.\nThe caption of the image on Getty Images read, \"Revellers are pictured in front of the Pyramid Stage surrounded by discarded litter at the Glastonbury Festival of Music and Performing Arts on Worthy Farm near the village of Pilton in Somerset, south west Eng",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.indiatoday.in/fact-check/story/greta-thunberg-pic-glastonbury-shared-with-older-photos-trash-strewn-festival-grounds-1967828-2022-06-28",
+      "page_title": "Fact Check: Greta Thunberg's pic from Glastonbury shared with ...",
+      "title": "Fact Check: Greta Thunberg’s pic from Glastonbury shared with older photos of trash-strewn festival grounds",
+      "description": "India Today AFWA probed photos showing ground littered with garbage after environmental activist Greta Thunberg’s appearance at the Glastonbury Festival in England.",
+      "text": "Fact Check: Greta Thunberg's pic from Glastonbury shared with older photos of trash-strewn festival grounds\nIndia Today AFWA probed photos showing ground littered with garbage after environmental activist Greta Thunberg's appearance at the Glastonbury Festival in England.\nDays after the Glastonbury Festival ended in England, a collage of four photos showing piles of trash on the grounds went viral on social media. One of the photos is that of celebrated environmental activist Greta Thunberg.\nWhile sharing this set of photos, people criticised Thunberg. They claimed that these photos were from around the Pyramid Stage in the Glastonbury Festival after Thunberg's “performance”.\nArchived versions of these posts can be seen here and here.\nAFWA found these posts to be misleading as some of the photos were more than a decade old and not related to the recent festival.\nLet us get into them one by one.\nThe first photo\nThe first image, which shows some abandoned chairs and plastics on the ground, is nearly nine years old. A reverse search took us to the stock image and photography website Alamy.\nWhile the Alamy link did not have many details, it said that the photo was taken on August 21, 2013. The photo’s title “20130821RocknHeimCamp” hinted that the photo was from Rock'n'Heim, a German music festival that was organised annually between 2013 and 2015. Thus, we concluded this had nothing to do with the Glastonbury Festival or Thunberg.\nThe second photo\nThe second photo featuring Thunb",
+      "image_captions": [
+        "Fact Check: Greta Thunberg’s pic from Glastonbury shared with older photos of trash-strewn festival grounds",
+        "Pakistan played the role of facilitator in Iran-US ceasefire: Hamid Mir",
+        "Tamil Nadu polls: Who will win the battle for Karaikudi?",
+        "Balance of power has changed after the war: Israel’s Envoy on Iran ceasefire",
+        "US military assets to remain in and around Iran until real agreement is reached: Trump"
+      ]
+    },
+    {
+      "url": "https://risefierce.com/blog/festival-season-green-boardmasters",
+      "page_title": "Festival Season // Green Boardmasters - Rise Fierce",
+      "title": "Festival Season // Green Boardmasters — Rise Calm",
+      "description": "I have a love-hate relationship with festivals. I normally see the line ups and am just reminded that I know nothing about the music industry. I'm ok with that part though, I know my active disengagement in some areas allows me to become focused elsewhere.",
+      "text": "Festival Season // Green Boardmasters\nI have a love-hate relationship with festivals. I normally see the line ups and am just reminded that I know nothing about the music industry. I'm ok with that part though, I know my active disengagement in some areas allows me to become focused elsewhere. I still love the festival vibes, despite never knowing the line ups, I love the atmosphere of live music, hearing new sounds, being outdoors, dancing, being surrounded by eccentric happy people and everything that’s on offer.\nThe issue that leaves me stuck at the checkout wondering whether to purchase the tickets, is that I'm not normally left with good memories of the music, but memories of the sea of crushed plastics underneath our feet. Memories of abandoned tents as far as your eyes can see. The plastic and waste in general left behind at festivals is heartbreaking if you open your sore eyes to see it.\nThe last big festival I attended in Ireland, I spent the day after the festival collecting tents, sleeping bags and wellington boots from the fields of devastation. There were a lot of them, some brand new, some unusable as they had been used as toilets (yes, really), most just left behind like disposable items. What we collected was then driven to Calais in an artic lorry by a friend to help with the refugee crisis. This was a logistical nightmare and not to mention an incredibly expensive mission. Leaving behind your tent and expecting someone else to pack it down and redistribute a",
+      "image_captions": [
+        "2A12E1DB00000578-3142856-image-a-19_1435566594892.jpg",
+        "BM18_Sustainability_Infographic_1200px_website_v5.jpg",
+        "BM18_Sustainability_Infographic_1200px_website_milestones.jpg",
+        "static1.squarespace-1.jpg"
+      ]
+    }
+  ],
+  "evidence_count": 4,
+  "crawled_at": "2026-04-23T16:17:09.750113+00:00"
+}

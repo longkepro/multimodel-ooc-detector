@@ -1,0 +1,111 @@
+{
+  "sample_id": "true_195",
+  "image_url": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2015/11/women-at-normandy.jpg",
+  "visual_entities": [
+    {
+      "description": "Normandy landings",
+      "score": 1.49325
+    },
+    {
+      "description": "Normandy",
+      "score": 1.0764
+    },
+    {
+      "description": "World War II",
+      "score": 1.05135
+    },
+    {
+      "description": "Operation Overlord",
+      "score": 0.83205
+    },
+    {
+      "description": "National D-Day Memorial",
+      "score": 0.70999503
+    },
+    {
+      "description": "1945",
+      "score": 0.6967
+    },
+    {
+      "description": "",
+      "score": 0.5496
+    },
+    {
+      "description": "1944",
+      "score": 0.4885
+    },
+    {
+      "description": "Battle",
+      "score": 0.4544
+    },
+    {
+      "description": "Invasion",
+      "score": 0.436
+    },
+    {
+      "description": "Nurse",
+      "score": 0.3566
+    },
+    {
+      "description": "",
+      "score": 0.3421
+    },
+    {
+      "description": "American women in World War II",
+      "score": 0.3368
+    }
+  ],
+  "best_guess_labels": [
+    "nurse normandie 1945"
+  ],
+  "similar_image_urls": [
+    "https://www.nj.com/resizer/v2/https%3A%2F%2Fimage.nj.com%2Fhome%2Fnjo-media%2Fwidth2048%2Fimg%2Fledgerupdates_impact%2Fphoto%2F2017%2F08%2F09%2F23204194-large.jpg?auth=3a94db13c549f2d44ffa188cb34da54a1cb206ee2b00130aa7cefda403854f8d&width=1280&smart=true&quality=90",
+    "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2015/11/women-at-normandy.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2601844853162228",
+    "https://nebula.wsimg.com/82ba19c7a371729ac26b195c6052d620?AccessKeyId=867C324947D38D2A0B0A&disposition=0&alloworigin=1",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10152135698586752",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=908086572641479",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=856343364415687",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10233334746933567",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100042134474570",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1394262114042257"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.snopes.com/fact-check/red-cross-nurse-normandy-beach/",
+      "page_title": "Are These Red Cross Nurses on the Beaches of Normandy on D-Day?",
+      "title": "FACT CHECK: Are These Red Cross Nurses on the Beaches of Normandy on D-Day?",
+      "description": "While female nurses did provide vital medical aid during World War II, a viral photograph does not show them arriving on the beaches of Normandy in 1944.",
+      "text": "A photograph showing a group of Red Cross nurses disembarking onto a beach from a military ship is frequently shared online, along with the claim that it pictures the woman arriving in Normandy during (or shortly after) after the D-Day invasion of Nazi-occupied France by the Allies in June 1944.\nWhile the image seen here is indeed a vintage photograph of Red Cross nurses taken during World War II, the specific time and place (Normandy in 1944) commonly assigned to it are wrong. According to Corbis Images, this photograph was snapped on 15 January 1945 (seven months after D-Day) and was taken in the French Riviera area of southern France, not the Normandy region of northern France:\nOriginal caption: \"Ladies Day\" on the Riviera. Southern France. Time for Yanks in the coastal region of Southern France to sit up and take notice — lady visitors have arrived. As the ramp of this Coast Guard-manned landing barge swings down, American Red Cross women, carrying small packs and bags, jump out on the beach. Brought by Coast Guard transport from the US, they are prepared to carry out their duties and keep high the spirits of Yank fighting men.\nIncorrect details of this photograph aside, women nonetheless did play an important role in the D-Day invasion. In fact, according U.S. Army Center of Military History, the first nurses arrived at Normandy just four days after the initial invasion date of 6 June 1944:\nMore than 59,000 American nurses served in the Army Nurse Corps during World War II. Nurses worked closer to the front lines than they ever had before. Within the \"chain of evacuation\" established by the Army Medical Department during the war, nurses served under fire in field hospitals and evacuation hospitals, on hospital trains and hospital ships, and as flight nurses on medical transport planes. The skill and dedication of these nurses contributed to the extremely low post-injury mortality rate among American military forces in every theater of the war. Overall, fewer than 4 percent of the American soldiers who received medical care in the field or underwent evacuation died from wounds or disease.\nBy June 1945 the number of Army nurses in the European theater of the war reached a peak of 17,345. The first nurses to arrive in Normandy were members of the 42d and 45th Field Hospitals and the 91st and 128th Evacuation Hospitals. They landed on the beachhead four days after the initial invasion in June 1944.",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.snopes.com/news/2025/06/06/remembering-d-day-81st-anniversary/",
+      "page_title": "10 D-Day rumors we've fact-checked to mark 81st anniversary",
+      "title": "10 D-Day rumors we've fact-checked to mark 81st anniversary",
+      "description": "A turning point in WWII, the Normandy invasion also became the source of persistent online rumors.",
+      "text": "Widely seen as a turning point in World War II, the June 6, 1944, invasion of Normandy, often referred to as D-Day, has long been the subject of viral rumors with varying levels of legitimacy. As the world marks its 81st anniversary, we revisit some of the most notable claims we've investigated about that historic day.\nOne pertains to a mysterious photograph that was widely shared on social media in 2021. According to its caption, half the image depicted paratroopers who landed in France in 1944, and the other half supposedly showed a modern image of them in the same airplane 65 years later.\nThat caption was far from the truth. While it was possible some of the men on the left parachuted into France on D-Day decades before that photograph was taken, they were not the same men as those pictured in the accompanying black-and-white image.\nAnother popular online photograph was said to show Red Cross nurses on the beaches of Normandy on D-Day. However, it was actually taken in 1945, seven months after D-Day, in the French Riviera area.\nIt's worth noting not all photographs related to D-Day that we have fact-checked had incorrect captions.\nFor instance, the photograph below of three massive coils of pipe was genuine and depicted an actual D-Day invention.\nOther D-Day-related fact checks referred to tweets by high-profile people.\nFor example, in 2022, former White House Press Secretary Sean Spicer indeed tweeted, \"Today is Dday,\" on Dec. 7, which is National Pearl Harbor Remembrance Day. Years earlier, in 2018, U.S. Rep. Drew Ferguson, a Republican lawmaker from Georgia, drew attention online by including a picture of Nazi soldiers in a tweet to commemorate the D-Day anniversary.\nSome fact checks pertained to U.S. presidents.\nFor instance, in 2011, a misleading claim about a congressional bill targeted then-President Barack Obama. The bill was proposed in Congress to add a plaque of Franklin D. Roosevelt's D-Day prayer to the national World War II Memorial, but after receiving House approval, the proposal didn't pass the Senate. Months later, Snopes fact-checked a misleading rumor spread alleging that Obama's administration had \"killed\" the measure.\nIn a fact check the following year, we addressed a claim about presidents, specifically Obama, visiting D-Day monuments. Then, in June 2021, Snopes confirmed the legitimacy of claims that U.S. President Joe Biden failed to acknowledge the 77th anniversary of D-Day on or around that year's date.\nAnother viral rumor pertained to D-Day's death toll. In 2019, a claim alleged that gun violence in the U.S. killed more people in nine weeks than the total number of U.S. combatant deaths on D-Day. The assertion was mostly accurate. When we looked at the numbers, 2,487 gun-related deaths took place between Jan. 1, 2019, and March 6, 2019, which was close to the 2,501 U.S. soldiers known to have died on D-Day.\nWe also fact-checked a tale supposedly recounting the heroic feats of James Doohan, who is best known for his role as Scotty in the original \"Star Trek\" television series, that was shared on Facebook in 2018.\nAccording to a meme, Doohan was shot six times on D-Day. It turned out most of that story was true. He was one of thousands of Canadian soldiers who landed in Normandy on June 6, 1944, and it was true that at one point, a cigarette case stopped a bullet from wounding him during the invasion. However, it's unknown how many times he was shot.\nWith the anniversary of D-Day in June, the Snopes newsroom will continue monitoring rumors about the historic day. When you encounter suspicious claims while scrolling on social media, send them to us and we'll consider them for fact-checking.\nSnopes' archives contributed to this report.",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.snopes.com/news/2023/06/04/dday-fact-checks/",
+      "page_title": "D-Day 79th Anniversary: 10 Viral Rumors About the Historic Day",
+      "title": "D-Day 79th Anniversary: 10 Viral Rumors About the Historic Day",
+      "description": "These internet claims about the WWII D-Day invasion of Normandy have ranging levels of legitimacy.",
+      "text": "For years, Snopes has addressed various rumors about D-Day with ranging levels of legitimacy. To mark the 79th anniversary of the WWII invasion of Normandy on June 6, 1944, we dug through that collection of archives, uncovering 10 fact checks about the historic day.\nOne pertains to a mysterious photograph that was wildly shared on social media in 2021. According to its caption, half of the image depicted paratroopers who landed in France in 1944, and the other half supposedly showed a modern image of them in the same airplane 65 years later.\nThat alleged caption was far from the truth. While it was possible some men on the left parachuted into France on D-Day decades before that photograph was taken, they were not the same individuals as those pictured in the accompanying black-and-white image.\nAnother viral photograph was said to show Red Cross nurses on the beaches of Normandy on D-Day. However, it was actually taken in 1945, seven months after D-Day, in the French Riviera area of France.\nIt's worth noting not all photographs related to D-Day that we have fact checked had incorrect captions.\nFor instance, the below-displayed photograph of three massive coils of pipe was genuine and depicted an actual D-Day invention.\nOther D-Day-related fact checks referred to tweets by high-profile people.\nFor example, in 2022, former White House Press Secretary Sean Spicer indeed tweeted, \"Today is Dday,\" on Dec. 7, which is National Pearl Harbor Remembrance Day. Years earlier, in 2018, Rep. Drew Ferguson, a Republican lawmaker from Georgia, drew attention online by including a picture of Nazi soldiers in a tweet to commemorate the D-Day anniversary.\nSome fact checks pertained to U.S. presidents.\nFor instance, in 2011, a misleading claim about a congressional bill targeted former U.S. President Barack Obama. The bill was proposed in Congress to add a plaque of Franklin D. Roosevelt's D-Day prayer to the national World War II Memorial, but, after receiving House approval, the proposal didn't pass the Senate. Months later, Snopes fact-checked a misleading rumor spread alleging that Obama's administration had \"killed\" the measure.\nIn a fact check the following year, we addressed a claim about presidents, specifically Obama, visiting D-Day monuments. Then, in June 2021, Snopes confirmed the legitimacy of claims that U.S. President Joe Biden failed to acknowledge the 77th anniversary of D-Day on or around that year's date.\nAnother viral rumor pertained to D-Day's death toll. In 2019, a claim alleged that gun violence in the U.S. killed more people in nine weeks than the total number of U.S. combatant deaths on D-Day. The assertion was mostly accurate. When we looked at the numbers, 2,487 gun-related deaths took place between Jan 1, 2019, and March 6, 2019, which was close to the 2,501 U.S. soldiers known to have died on D-Day.\nWe also fact-checked a tale supposedly recounting the heroic feats of James Doohan, who is best known for his role as \"Scotty in the original \"Star Trek\" television series, which was shared on Facebook in 2018.\nAccording to a viral meme, Doohan was shot six times on D-Day. It turned out, most of that story was true. He was one of thousands of Canadian soldiers who landed in Normandy on June 6, 1944, and it was true that, at one point, a cigarette case stopped a bullet from penetrating him during the invasion. However, it was unknown, exactly, how many times he was shot.\nWith the anniversary of D-Day in June, the Snopes newsroom will continue its monitoring of rumors about the historic day. When you encounter suspicious rumors while scrolling on social media, send them to us, and we'll consider them for fact-checking.\n— Snopes' archives contributed to this report.",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.snopes.com/news/2024/06/06/d-day-80th-anniversary/",
+      "page_title": "This Day in History: Fact-Checking D-Day Rumors on Its 80th ...",
+      "title": "This Day in History: Fact-Checking D-Day Rumors on Its 80th Anniversary",
+      "description": "Here are some of our deep cuts about the WWII invasion of Normandy.",
+      "text": "The invasion of Normandy is credited for changing the tides of World War II. For years, Snopes has addressed various wild rumors and claims about the June 6, 1944 event, often referred to as D-Day. To mark its 80th anniversary, we dug through our archives, uncovering 10 fact-checks about the historic day.\nOne pertains to a mysterious photograph that was wildly shared on social media in 2021. According to its caption, half of the image depicted paratroopers who landed in France in 1944, and the other half supposedly showed a modern image of them in the same airplane 65 years later.\nThat alleged caption was far from the truth. While it was possible some men on the left parachuted into France on D-Day decades before that photograph was taken, they were not the same men as those pictured in the accompanying black-and-white image.\nAnother viral photograph was said to show Red Cross nurses on the beaches of Normandy on D-Day. However, it was actually taken in 1945, seven months after D-Day, in the French Riviera area.\nIt's worth noting not all photographs related to D-Day that we have fact-checked had incorrect captions.\nFor instance, the photograph below of three massive coils of pipe was genuine and depicted an actual D-Day invention.\nOther D-Day-related fact checks referred to tweets by high-profile people.\nFor example, in 2022, former White House Press Secretary Sean Spicer indeed tweeted, \"Today is Dday,\" on Dec. 7, which is National Pearl Harbor Remembrance Day. Years earlier, in 2018, U.S. Rep. Drew Ferguson, a Republican lawmaker from Georgia, drew attention online by including a picture of Nazi soldiers in a tweet to commemorate the D-Day anniversary.\nSome fact checks pertained to U.S. presidents.\nFor instance, in 2011, a misleading claim about a congressional bill targeted then-President Barack Obama. The bill was proposed in Congress to add a plaque of Franklin D. Roosevelt's D-Day prayer to the national World War II Memorial, but, after receiving House approval, the proposal didn't pass the Senate. Months later, Snopes fact-checked a misleading rumor spread alleging that Obama's administration had \"killed\" the measure.\nIn a fact check the following year, we addressed a claim about presidents, specifically Obama, visiting D-Day monuments. Then, in June 2021, Snopes confirmed the legitimacy of claims that U.S. President Joe Biden failed to acknowledge the 77th anniversary of D-Day on or around that year's date.\nAnother viral rumor pertained to D-Day's death toll. In 2019, a claim alleged that gun violence in the U.S. killed more people in nine weeks than the total number of U.S. combatant deaths on D-Day. The assertion was mostly accurate. When we looked at the numbers, 2,487 gun-related deaths took place between Jan 1, 2019, and March 6, 2019, which was close to the 2,501 U.S. soldiers known to have died on D-Day.\nWe also fact-checked a tale supposedly recounting the heroic feats of James Doohan, who is best known for his role as Scotty in the original \"Star Trek\" television series, which was shared on Facebook in 2018.\nAccording to a viral meme, Doohan was shot six times on D-Day. It turned out, most of that story was true. He was one of thousands of Canadian soldiers who landed in Normandy on June 6, 1944, and it was true that, at one point, a cigarette case stopped a bullet from wounding him during the invasion. However, it was unknown, exactly, how many times he was shot.\nWith the anniversary of D-Day in June, the Snopes newsroom will continue its monitoring of rumors about the historic day. When you encounter suspicious rumors while scrolling on social media, send them to us, and we'll consider them for fact-checking.\n— Snopes' archives contributed to this report.",
+      "image_captions": [
+        "Two soldiers stand near the right corner of an image that showed a beach. Smoke comes up from the middle of the beach, where you can see other soldiers."
+      ]
+    }
+  ],
+  "evidence_count": 4,
+  "crawled_at": "2026-04-23T17:47:12.426063+00:00"
+}

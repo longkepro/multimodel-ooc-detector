@@ -1,0 +1,83 @@
+{
+  "sample_id": "false_187",
+  "image_url": "https://townsquare.media/site/385/files/2020/09/mcspca11.jpg?w=980&q=75",
+  "visual_entities": [
+    {
+      "description": "Barbecue",
+      "score": 1.07085
+    },
+    {
+      "description": "Grill",
+      "score": 0.7468
+    },
+    {
+      "description": "Grilling",
+      "score": 0.6812
+    },
+    {
+      "description": "Cooking",
+      "score": 0.5449
+    },
+    {
+      "description": "outdoor",
+      "score": 0.5449
+    },
+    {
+      "description": "Kitchen",
+      "score": 0.5366
+    },
+    {
+      "description": "Oven",
+      "score": 0.5316
+    },
+    {
+      "description": "Kamado Joe Joe Karbon Steel Griddle",
+      "score": 0.4949
+    },
+    {
+      "description": "Disposable grill",
+      "score": 0.4769
+    },
+    {
+      "description": "Griddle",
+      "score": 0.4482
+    },
+    {
+      "description": "Baking",
+      "score": 0.4223
+    },
+    {
+      "description": "Weber Griddle Keep Warm Rack 6784",
+      "score": 0.4015
+    },
+    {
+      "description": "homemade",
+      "score": 0.3618
+    },
+    {
+      "description": "Smoker",
+      "score": 0.3603
+    }
+  ],
+  "best_guess_labels": [
+    "outdoor grill rack & topper"
+  ],
+  "similar_image_urls": [
+    "https://townsquare.media/site/385/files/2020/09/mcspca1.jpg",
+    "https://townsquare.media/site/385/files/2020/09/mcspca11.jpg?w=780&q=75"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.barbecueequipmentnice.com/collections/outdoor-grill-racks-toppers/",
+      "page_title": "Outdoor Grill Racks & Toppers Archives",
+      "title": "Outdoor Grill Racks & Toppers Archives - Top Rated BBQ Grills & Best Deals | Premium Grilling Equipment, BBQ Accessories & Outdoor Grills Online Store",
+      "description": "",
+      "text": "FREE SHIPPING ON ORDERS OVER $50\nSkip to navigation\nSkip to content\nShop\nGas Ranges\nBBQ Tools & Accessories\nBBQ Seasonings & Rubs\nOutdoor Grill Accessories\nLogin / Register\nimage/svg+xml\n0\nFilter\nShowing all 3 results\nDefault sorting\nSort by popularity\nSort by latest\nSort by price: low to high\nSort by price: high to low\n-70%\nWeber Griddle Keep Warm Rack\n$\n31.99\nOriginal price was: $31.99.\n$\n9.60\nCurrent price is: $9.60.\nimage/svg+xml\nAdd to cart\n-70%\nWeber Crafted Dual Sided Sear Grate\n$\n99.99\nOriginal price was: $99.99.\n$\n30.00\nCurrent price is: $30.00.\nimage/svg+xml\nAdd to cart\n-75%\nKamado Joe Classic Joe Karbon Steel Griddle\n$\n199.99\nOriginal price was: $199.99.\n$\n50.00\nCurrent price is: $50.00.\nimage/svg+xml\nAdd to cart\nSearch for:>\nSearch\nShop\nGas Ranges\nBBQ Tools & Accessories\nBBQ Seasonings & Rubs\nOutdoor Grill Accessories\nLogin / Register\nType to search\nSearch for:>\nSearch\nShopping cart\n0\nimage/svg+xml\nNo products in the cart.\nContinue Shopping",
+      "image_captions": [
+        "Top Rated BBQ Grills & Best Deals | Premium Grilling Equipment, BBQ Accessories & Outdoor Grills Online Store"
+      ]
+    }
+  ],
+  "evidence_count": 1,
+  "crawled_at": "2026-04-23T17:45:40.773701+00:00"
+}

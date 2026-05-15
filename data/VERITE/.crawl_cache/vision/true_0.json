@@ -1,0 +1,74 @@
+{
+  "sample_id": "true_0",
+  "image_url": "https://mediaproxy.snopes.com/width/600/https://media.snopes.com/2022/12/a_video_shot_in_china_showed_people_being_forcibly_dragged_to_covid_quarantine_in_2020_and_not_2022.jpg",
+  "visual_entities": [
+    {
+      "description": "Beyoncé",
+      "score": 7.0245004
+    },
+    {
+      "description": "Paul Wall",
+      "score": 0.81824994
+    },
+    {
+      "description": "Girl",
+      "score": 0.7044
+    },
+    {
+      "description": "Beck",
+      "score": 0.57044995
+    },
+    {
+      "description": "2022",
+      "score": 0.5193
+    },
+    {
+      "description": "The Peoples Champ",
+      "score": 0.4979
+    },
+    {
+      "description": "Girl",
+      "score": 0.4446
+    },
+    {
+      "description": "Girl",
+      "score": 0.406
+    },
+    {
+      "description": "",
+      "score": 0.3603
+    },
+    {
+      "description": "YouTube",
+      "score": 0.3553
+    },
+    {
+      "description": "",
+      "score": 0.3553
+    },
+    {
+      "description": "Curzon",
+      "score": 0.3355
+    }
+  ],
+  "best_guess_labels": [
+    "girl"
+  ],
+  "similar_image_urls": [
+    "https://mediaproxy.snopes.com/width/600/https://media.snopes.com/2022/12/a_video_shot_in_china_showed_people_being_forcibly_dragged_to_covid_quarantine_in_2020_and_not_2022.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.snopes.com/fact-check/china-covid-quarantine-video/",
+      "page_title": "Video Shows Police in China Enforcing Quarantine in 2020, Not 2022",
+      "title": "Video Shows Police in China Enforcing Quarantine in 2020, Not 2022",
+      "description": "An old video shot near the beginning of the COVID-19 pandemic was reshared in late 2022 as if it had just been recorded.",
+      "text": "In November 2022, a TikTok user posted a video that included a misleading caption and quite the dramatic remix of Johnny Cash singing \"I hear the train a comin'\" from \"Folsom Prison Blues.\" The video was recorded in China and showed officials in white protective hazmat suits forcibly dragging and carrying people down a hallway, apparently to be quarantined.\nFirst off, yes, the video was real. However, the caption included with the TikTok video claimed it was recorded recently, which was false. TikTok users likely believed the video was recent due to the fact that China was implementing a \"zero COVID\" policy (including a large number of quarantine centers) in late 2022.\nThe hashtags in the TikTok caption asked \"#areyouready\" and \"#whatisgoingon,\" even calling what was shown in the video the \"#endtimes.\"\nCommenters appeared to largely believe the video was brand new. One user posted the false claim, \"They know something the rest of the world doesn't know.\" That comment alone received more than 30,000 likes.\nAnother commenter said, \"Again, [China is] preparing for something the rest of us don't know about yet.\" The remark received nearly 10,000 likes, despite the fact that it was completely misleading.\nThe truth was that this video was recorded no later than February 2020, possibly on Feb. 3. Here's how NBC News reported on the video back on Feb. 8 of that year:\nThe video was taken in the city of Kunshan, Jiangsu Province, at the home of a family who had returned from Hubei Prov",
+      "image_captions": [
+        "A video shot in China showed people being forcibly dragged to COVID quarantine in 2020 and not 2022."
+      ]
+    }
+  ],
+  "evidence_count": 1,
+  "crawled_at": "2026-04-23T16:10:59.792328+00:00"
+}

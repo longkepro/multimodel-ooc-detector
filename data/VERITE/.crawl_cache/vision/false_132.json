@@ -1,0 +1,50 @@
+{
+  "sample_id": "false_132",
+  "image_url": "https://i.ytimg.com/vi/UzKQdUWR-Tc/maxresdefault.jpg",
+  "visual_entities": [
+    {
+      "description": "Toronto Raptors",
+      "score": 1.4992499
+    },
+    {
+      "description": "2019 NBA Finals",
+      "score": 1.167705
+    },
+    {
+      "description": "NBA",
+      "score": 1.0654501
+    },
+    {
+      "description": "Championship",
+      "score": 0.4707
+    },
+    {
+      "description": "Victory parade",
+      "score": 0.4571
+    },
+    {
+      "description": "NBA championship ring",
+      "score": 0.4345
+    }
+  ],
+  "best_guess_labels": [
+    "raptors championship parade"
+  ],
+  "similar_image_urls": [
+    "https://i.ytimg.com/vi/UzKQdUWR-Tc/maxresdefault.jpg",
+    "https://i.ytimg.com/vi/UzKQdUWR-Tc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAZzcs7GqC0sSMKhnj6uQtdgM0Q2Q",
+    "https://i.ytimg.com/vi/UzKQdUWR-Tc/mqdefault.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.smoothmanpower.com/?g=86414821001370",
+      "page_title": "Nick Nurse Waves To Fans From Inside Truck",
+      "title": "Smooth Manpower Supply Services | Smooth Company Dubai-UAE",
+      "description": "Smooth Manpower Company UAE delivers expert manpower supply services in Dubai and across the UAE. Reliable staffing solutions for every industry.",
+      "text": "Payroll Bureau Services\nPayroll Management is often complex and involves tons of paperwork. When you outsource its management to us, you have a dedicated expert in finance, accounting and taxation at your disposal, at all times.\nSMOOTH MANPOWER SUPPLIES was established in 2005 and has maintained an excellent track record in the field of contracting and manpower services in several different sectors ranging from blue collar to white collar workers. We have a wide, diverse and dedicated workforce that hail from different parts of the world – India, Sri Lanka, Pakistan, Ghana and Nigeria\nWe operate a tailored extension of your HR with compliant and efficient solutions for ...\nOur unique approach and understanding of our clients’ business allows us to ...\nPayroll Management is often complex and involves tons of paperwork. When you outsource its management to us, you have a dedicated expert in finance, accounting and taxation at your disposal, at all times.\nNo quota limitations.\nMinistry of labour authorized company.\nDedicated delivery teams with local and global experience.\nProject-Managed transitions.\nQuicker delivery at lower costs.\nExclusive partnerships and access to global networks.\nSmooth Manpower Supply Services has been a valuable partner, providing exceptional support to our projects. We look forward to working with them on future projects should an opportunity arise. We wish Smooth and its team all the very best in their future endeavors.\nSmooth Manpower Supply Services has provided exceptional support to our joinery factory and key projects like Bab Al Shams, Bulgari, Dorchester DMCC, and Atlantis. Their dedication and professionalism are truly appreciated.\nSmooth Manpower Supply Services has been a reliable support to our projects at Dubai Hills and Palm Jumeirah. Their dedication and professionalism have been commendable, and we truly appreciate their efforts. We look forward to future collaborations\n404, Al Mazrouei Building Al A'sam Street, Al NahyanAbu DhabiUAE\nAl Majaz Jamal Abdul Nasser Street Ground Floor (G-1) Sharjah",
+      "image_captions": []
+    }
+  ],
+  "evidence_count": 1,
+  "crawled_at": "2026-04-23T17:30:00.788871+00:00"
+}

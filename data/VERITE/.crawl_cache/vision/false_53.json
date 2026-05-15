@@ -1,0 +1,100 @@
+{
+  "sample_id": "false_53",
+  "image_url": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/07/02/15/hawaii-blackface.jpg?width=1200",
+  "visual_entities": [
+    {
+      "description": "Jose Mari Chan",
+      "score": 5.6145
+    },
+    {
+      "description": "Blackface",
+      "score": 0.5657
+    },
+    {
+      "description": "Sound Effect",
+      "score": 0.4136
+    },
+    {
+      "description": "Court",
+      "score": 0.3434
+    },
+    {
+      "description": "Sound Effects Voices",
+      "score": 0.3306
+    }
+  ],
+  "best_guess_labels": [
+    "senior citizen"
+  ],
+  "similar_image_urls": [
+    "https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/07/02/15/hawaii-blackface.jpg?width=1200",
+    "https://us-tuna-sounds-images.voicemod.net/344f878d-8cb6-40e3-bcd7-af59dda064ea-1672498407828-thumbnailM.jpg",
+    "https://us-tuna-sounds-images.voicemod.net/344f878d-8cb6-40e3-bcd7-af59dda064ea-1672498407828.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.independent.co.uk/news/world/americas/blackface-road-rage-attacker-mark-char-hawaii-a8984546.html",
+      "page_title": "Man wears blackface in court then launches bizarre rant about being ...",
+      "title": "Man wears blackface in court then launches bizarre rant about being 'treated like a black man'",
+      "description": "Mark Char stabbed three in road rage confrontation",
+      "text": "Man wears blackface in court then launches bizarre rant about being ‘treated like a black man’\nMark Char stabbed three in road rage confrontation\n- Bookmark\n- CommentsGo to comments\nA man who was recently convicted in a violent road rage incident turned up to court with a blacked up face for his sentencing hearing before delivering a bizarre racially-charged rant.\nMark Char, who is not black, claimed he was wearing blackface because he was being “treated like a black man” by the court in Honolulu, Hawaii.\nHe was found guilty of attempted murder and assault in March over a triple stabbing in a road rage confrontation.\nOne victim was knifed five times and taken to hospital in a critical condition after the attack, which Char claimed was in self-defence.\nAt his sentencing hearing, Char hit out at his lawyer, who he said was “incompetent”.\nHe said: “Now this kangaroo court is trying to give me a life sentence for me trying to protect and defend myself against the attack from three guys ― in essence, treating me like a black man.\n“And today, the reason why I’m like this is because I prepared myself to play my part in your kangaroo court, treating me like a black man, so today I’m going to be a black man.”\nChar is thought to have used a black-coloured permanent marker to darken his face, according to local media.\nDespite his unusual behaviour, state documents showed the court was satisfied that he had understood the proceedings of the trial and was fit to be sentenced.\nHis appearance drew strong criticism from Judge Todd Eddins, who later sentenced him to life in prison with the possibility of parole.\n“This continues a pattern of disruptive behaviour designed to undermine the administration of justice,” he said.\nHe added: “What you need to do is look in the mirror. And if you look in the mirror, Mr Char, you’re not going to see a black person, you’re going to see a menace to society.”\nJoin our commenting forum\nJoin thought-provoking conversations, follow other Independent readers and see their replies\nComments",
+      "image_captions": [
+        "Road rage attacker accuses judge of treating him 'like a black man' so wore blackface in court"
+      ]
+    },
+    {
+      "url": "https://tuna.voicemod.net/sound/344f878d-8cb6-40e3-bcd7-af59dda064ea",
+      "page_title": "José Feliciano - Feliz Navidad Meme Sound Effect ... - Voicemod Tuna",
+      "title": "José Feliciano - Feliz Navidad Meme Sound Effect Button for Soundboard by McSploiter | Voicemod Tuna",
+      "description": "Download José Feliciano - Feliz Navidad meme sound by McSploiter in Voicemod Tuna. Play, download or share sound effects easily!",
+      "text": "José Feliciano - Feliz Navidad - Meme Sound Effect Button for Soundboard\nby @McSploiter\nAnother song I took from YouTube :V\nReport this sound00:0000:45\n803\n- 265\nJosé Feliciano Feliz Navidad (Official Audio)\nDiffusionIntensiveSidechain20791\n- 5.2K\nfeliz navidad\nBoomySquareExciter406\n- 1.8K\nFELIZ NAVIDAD BEATBOX\nIntensiveWaveformExpander11156\n- 1.1K\nJos Feliciano Feliz Navidad OFFICIAL DRILL REMIX Prod ewancarte\ncrankyhead\n- 100\nFeliz Navidad\nDOMSLAYER8\n- 100\nFeliz Navidad (Indian Christmas Remix)\nMultiBandAnalogDecay81639\n- 1.8K\nFELIZ NAVIDAD BEATBOX\nOctaveGraphicOscillator98371\n- 158\nfurina feliz navidad\nv0ixyz\n- 2K\nArcangel Feliz Navidad 8\nGhostDogASCC\n- 100\nFeliz navidad (copy)\nPlateFrequencyGraphic36727\n- 376\nFeliz Navidad Instrumental Guitar\nBusSquareLive76705\n- 415\nJose Vocal\nGatedHighParallel64335",
+      "image_captions": [
+        "José Feliciano - Feliz Navidad - Sound",
+        "José Feliciano Feliz Navidad (Official Audio)",
+        "FELIZ NAVIDAD BEATBOX",
+        "Jos Feliciano Feliz Navidad OFFICIAL DRILL REMIX Prod ewancarte",
+        "Feliz Navidad (Indian Christmas Remix)"
+      ]
+    },
+    {
+      "url": "https://www.independent.co.uk/news/world/americas/mark-char-blackface-court-sentence-trial-attempted-murder-parole-a8986351.html",
+      "page_title": "Man who wore blackface to court jailed for life | The Independent",
+      "title": "Man who wore blackface to court jailed for life",
+      "description": "‘You’re a menace to the public,’ judge tells Mark Char",
+      "text": "Man who wore blackface to court jailed for life\n‘You’re a menace to the public,’ judge tells Mark Char\n- Bookmark\n- CommentsGo to comments\nA man who painted his face black with a marker for his sentencing hearing has been ordered to serve life in prison.\nMark Char was told he would serve a mandatory life prison term with possible parole for attempted murder.\nHonolulu Circuit Court Judge Todd Eddins also sentenced the 60-year-old to five years in prison for second-degree assault and one year for third-degree assault.\nAttorney Keith Shigetomi, who withdrew as Char’s defence lawyer after the hearing, said it was Char’s choice to appear with his face and head blackened.\n“You treating me like a black man, so today I am a black man,” Char told the judge.\nChar continued talking and laughing after he told Eddins that he was done with his pre-sentencing statement.\nA state jury found Char guilty in March of stabbing three people in a road rage incident on a freeway in August 2016.\nChar repeatedly braked in front of Jesther Marlang’s car before they both pulled onto a median. Char reversed and crashed into Marlang’s car, police said.\nChar then used pepper spray against Marlang and his passenger, Deion Anunciacion, and stabbed them. During the struggle Char bit and nearly severed two of Marlang’s fingers, authorities said.\nHe also stabbed a passing motorist, Jene Winn, who tried to stop the confrontation, police said.\nChar claimed he acted in self-defence and called his trial a kangaroo court.\n“You’re a menace to the public,” the judge said. “This is not a kangaroo court; you got a fair trial.”\nJoin our commenting forum\nJoin thought-provoking conversations, follow other Independent readers and see their replies\nComments",
+      "image_captions": [
+        "Road rage attacker accuses judge of treating him 'like a black man' so wore blackface in court"
+      ]
+    },
+    {
+      "url": "https://tuna.voicemod.net/sound/4d19724b-2af7-42eb-9fb7-784aef6e10d5",
+      "page_title": "Volcan apagado - Meme Sound Effect Button for Soundboard",
+      "title": "Volcan apagado Meme Sound Effect Button for Soundboard by ElSoldado7 | Voicemod Tuna",
+      "description": "Download Volcan apagado meme sound by ElSoldado7 in Voicemod Tuna. Play, download or share sound effects easily!",
+      "text": "Volcan apagado - Meme Sound Effect Button for Soundboard\nby @ElSoldado7\nVOLCAN APAGADO- JOSE JOSE\nReport this sound00:0000:15\n100\n- 212\nPreso\nSubHarmonicOscillatorHertz19153\n- 100\nMi Vecino Jose\nParallelMajorTransient94504\n- 100\nJosé Diogo Franguinho\nDigitalBandwidthGate9654\n- 164\nQue Vas A Hacer Nivel Codiciado & Jose Mejia part 2\nchito574\n- 654\nJose Mari Chan Christmas In Our Hearts (Karaoke Version)\nbyel\n- 803\nJosé Feliciano - Feliz Navidad\nMcSploiter\n- 347\nMi vecino Jose\nAnonymous\n- 354\nbUTI HELLDIVER\nSpectrumMeterFader45150\n- 1K\nJose Mari Chan Christmas In Our Hearts\nDynamicDecibelBandwidth6656\n- 100\nCasi todos sabemos querer Jose Jose (copy)\ncabezaDeYucatecoMuyBonitoDePanteon\n- 227\nQue Vas A Hacer Nivel Codiciado & Jose Mejia part 3\nchito574\n- 272\nQue Vas A Hacer Nivel Codiciado & Jose Mejia end\nchito574",
+      "image_captions": [
+        "Volcan apagado - Sound",
+        "José Diogo Franguinho",
+        "Que Vas A Hacer Nivel Codiciado & Jose Mejia part 2",
+        "Jose Mari Chan Christmas In Our Hearts (Karaoke Version)",
+        "José Feliciano - Feliz Navidad"
+      ]
+    },
+    {
+      "url": "https://tuna.voicemod.net/sound/c0ee3cc1-f2ee-4ec5-88c1-49a6844622d9",
+      "page_title": "Feliz Navidad (EARRAPE EXTREMELY LOUD BASS BOOSTED)",
+      "title": "Feliz Navidad (EARRAPE EXTREMELY LOUD BASS BOOSTED) Meme Sound Effect Button for Soundboard by Robo047 | Voicemod Tuna",
+      "description": "Download Feliz Navidad (EARRAPE EXTREMELY LOUD BASS BOOSTED) meme sound by Robo047 in Voicemod Tuna. Play, download or share sound effects easily!",
+      "text": "Feliz Navidad (EARRAPE EXTREMELY LOUD BASS BOOSTED) - Meme Sound Effect Button for Soundboard\nby @Robo047\nr\nReport this sound00:0000:45\n3K\n- 5.2K\nfeliz navidad\nBoomySquareExciter406\n- 100\nFeliz Navidad\nDOMSLAYER8\n- 1.8K\nFELIZ NAVIDAD BEATBOX\nOctaveGraphicOscillator98371\n- 1.8K\nFELIZ NAVIDAD BEATBOX\nIntensiveWaveformExpander11156\n- 158\nfurina feliz navidad\nv0ixyz\n- 2K\nArcangel Feliz Navidad 8\nGhostDogASCC\n- 100\nFeliz navidad (copy)\nPlateFrequencyGraphic36727\n- 803\nJosé Feliciano - Feliz Navidad\nMcSploiter\n- 376\nFeliz Navidad Instrumental Guitar\nBusSquareLive76705\n- 12.7K\nloud bass boosted music\nBraninurdraws\n- 100\nExtremely loud 808\nSpexfr\n- 100\nLoud Bass Boosted Beat\ndanteshotu",
+      "image_captions": [
+        "Feliz Navidad (EARRAPE EXTREMELY LOUD BASS BOOSTED) - Sound",
+        "FELIZ NAVIDAD BEATBOX",
+        "Arcangel Feliz Navidad 8",
+        "José Feliciano - Feliz Navidad",
+        "Feliz Navidad Instrumental Guitar"
+      ]
+    }
+  ],
+  "evidence_count": 5,
+  "crawled_at": "2026-04-23T17:01:40.508491+00:00"
+}

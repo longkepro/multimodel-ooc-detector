@@ -1,0 +1,100 @@
+{
+  "sample_id": "false_156",
+  "image_url": "https://i.dailymail.co.uk/i/pix/2016/02/03/10/30D6B71100000578-0-image-a-37_1454495919807.jpg",
+  "visual_entities": [
+    {
+      "description": "Lion",
+      "score": 1.5839235
+    },
+    {
+      "description": "Lion hunting",
+      "score": 0.7006
+    },
+    {
+      "description": "Cheetah",
+      "score": 0.51705
+    },
+    {
+      "description": "Chicago Cubs",
+      "score": 0.4755
+    },
+    {
+      "description": "Wildlife",
+      "score": 0.4646
+    },
+    {
+      "description": "Deer",
+      "score": 0.4041228
+    },
+    {
+      "description": "Zebra",
+      "score": 0.4013
+    },
+    {
+      "description": "Antelope",
+      "score": 0.38953647
+    },
+    {
+      "description": "Safari",
+      "score": 0.3774
+    },
+    {
+      "description": "other",
+      "score": 0.3658
+    }
+  ],
+  "best_guess_labels": [
+    "lion cubs hunting"
+  ],
+  "similar_image_urls": [
+    "https://i.dailymail.co.uk/i/pix/2016/02/03/10/30D6B71100000578-0-image-a-37_1454495919807.jpg",
+    "https://cdn.fararu.com/thumbnail/OTY0MTU07n54/fCohl8MdDeqLuUiNxwx9X4gYrgKL9XBZBWdbZWUJQbHweEbOeibJ3lKhwCXPcymMenByfMSSpsbh46ioIqLjxbHMRm21_h7HQpcPeRTlTup9Fg2BIMEOf3jclM_4J6zeNSYMgfXaohsWpX4vmFF5bzB-TlxrgjHR/OTY0MTU07n54.jpg",
+    "https://i.dailymail.co.uk/i/pix/2016/02/03/10/30D6B71100000578-0-image-a-36_1454495919806.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.pbs.org/video/desert-lion-cubs-hunt-at-night/",
+      "page_title": "Desert Lion Cubs Hunt at Night | Season 43 | Episode 4 - PBS",
+      "title": "Nature | Desert Lion Cubs Hunt at Night | Season 43 | Episode 4",
+      "description": "After discovering an oasis, the orphan lions develop an unusual hunting strategy.",
+      "text": "Desert Lion Cubs Hunt at Night\nClip: Season 43 Episode 4 | 3m 27sVideo has Closed Captions\nAfter discovering an oasis, the orphan lions develop an unusual hunting strategy.\nChased by their aunt into an unhospitable part of the desert, the cubs found an oasis where they developed new hunting strategies and became bird hunters -- previously unheard of among lions.\nProblems playing video? | Closed Captioning Feedback\nProblems playing video? | Closed Captioning Feedback\nMajor support for NATURE is provided by The Arnhold Family in memory of Henry and Clarisse Arnhold, Sue and Edgar Wachenheim III, The Fairweather Foundation, Charles Rosenblum, Kathy Chiao and...\nDesert Lion Cubs Hunt at Night\nClip: Season 43 Episode 4 | 3m 27sVideo has Closed Captions\nChased by their aunt into an unhospitable part of the desert, the cubs found an oasis where they developed new hunting strategies and became bird hunters -- previously unheard of among lions.\nProblems playing video? | Closed Captioning Feedback\nHow to Watch Nature\nNature is available to stream on pbs.org and the free PBS App, available on iPhone, Apple TV, Android TV, Android smartphones, Amazon Fire TV, Amazon Fire Tablet, Roku, Samsung Smart TV, and Vizio.\nBuy Now\nExplore More Ways to Watch\nBring the beauty and wonders of wildlife and natural history into your home with classic NATURE episodes.- [Narrator] These cormorants hunt fish at sea, but roost and breed at the oasis in the dunes.\nIt provided a great hunting ground for the orphan sisters.\n(wings flapping) (cormorants honking) (water splashing) But trying to catch prey with wings was no easy feat, especially in daytime.\n(water splashing) (cormorants honking) [Philip] They quickly realized that the birds congregated in very particular areas at night, and they would devise their hunting strategy around that.\n(cormorants honking) (birds singing) (water splashing) - [Narrator] The orphans learned to wait for nightfall before they would strike again.\nPhilip's own strategy to monitor them in the dark had to be unobtrusive and invisible.\n- [Philip] Once I had the right night-vision equipment, their world reopened, and I was able to follow and observe them in great detail.\n- [Narrator] By using a thermal camera, the heat radiating from warm bodies painted an extraordinary scene, normally concealed in the dark of night.\n- [Philip] And as it got dark, they emerged in stalking mode.\nLions that grow up in a normal environment wouldn't look twice at a bird.\n- [Narrator] In the desert, the young orphans' drive of starvation revealed an unusual behavior from deep within.\nTheir survival instinct would take them to new heights.\nThe fortune of hunting in a roosting spot, your prey keeps coming back.\nBut to truly take advantage of this bonanza, they needed to step out of their comfort zone.\nWater evokes fear in most cats, but to hunt wetland birds, the sisters had to take the plunge.\n(water splashing) - [Philip] I remember feeling so optimistic because they'd become bird hunters.\nAnd that was the beginning of a whole new life for them.\n- Science and Nature\nExplore scientific discoveries on television's most acclaimed science documentary series.\nSupport for PBS provided by:\nMajor support for NATURE is provided by The Arnhold Family in memory of Henry and Clarisse Arnhold, Sue and Edgar Wachenheim III, The Fairweather Foundation, Charles Rosenblum, Kathy Chiao and...",
+      "image_captions": [
+        "Desert Lion Cubs Hunt at Night",
+        "Explore More Ways to Watch",
+        "America Outdoors with Baratunde Thurston",
+        "Walking with Dinosaurs",
+        "Crash Course Astronomy"
+      ]
+    },
+    {
+      "url": "https://www.dailymail.co.uk/news/article-3429745/Taught-kill-mummy-Lion-cub-shown-hunt-lioness-wounds-prey-lets-youngster-finish-off.html",
+      "page_title": "Lion cub is shown how to hunt by lioness after it wounds the prey",
+      "title": "Taught to kill... by mummy: Lion cub is shown how to hunt by lioness",
+      "description": "The red hartebeest calf had been left behind in long grass on Kwandwe Private Game Reserve, South Africa, after its herd - and mother - fled due to the presence of the lions.",
+      "text": "Taught to kill... by mummy: Lion cub is shown how to hunt by lioness after it wounds prey and lets the youngster finish it off\n- The pack of lions, photographed in South Africa, were seen teaching a young cub how to catch and kill its prey\n- Adult lions would repeatedly catch the hartebeest calf before setting it free for the cub to chase down and bite\n- Spectators on the safari described the rare moment of lion training as a 'traumatic but fascinating' experience\nThis unfortunate hartebeest became the target of a hunting lesson when a lioness decided to use it as killing practise for her cubs.\nThe red hartebeest calf had been left behind in long grass on Kwandwe Private Game Reserve, South Africa, after its herd - and mother - fled due to the presence of the lions.\nBut when the distressed calf emerged, it ran blindly into the path of the lioness, who decided to use it as an opportunity to show her cubs one of nature's most important lessons.\nScroll down for video\nThe lion cub attempts to take the down the hartebeest calf by clutching it around the neck and trying to bite its throat\nWith its mother watching closely nearby, the cub chases the poor calf in a long and torturous game of cat and mouse\nThe calf managed to escape the cub's clutches, but was repeatedly recaptured by the adult lions and turned free for the cub\nThe red hartebeest calf is caught by the adult lion after it found itself separated from its hartebeest herd on the plains of South Africa\nThe cruel game continued for a long time as the adults lions tried to teach the cub a lesson in hunting and killing its prey\nTwo adult lions and the cub stand guard over the hartebeest after successfully pinning the creature down during the savage hunt\nAfter the lioness managed to catch the calf, she released it for her cub to chase - and when it managed to escape too far, it would be recaptured again by the adults.\nThe scene was witnessed by Graeme Mann, the general manager at Kwandwe Private Game Reserve and the images taken by Nico Brits, 26, one of the reserve's guides.\nMr Mann said: 'The tiny red hartebeest had been hiding in the long grass, unbeknownst to the lions or even the people watching from afar.\n'Although the lioness managed to capture the calf with ease, they had to be careful not to injure or harm it too much so that the cubs could learn how to tackle it.\n'It was a traumatic but fascinating experience as although the scene was brutal, it was interesting to see how the lion cubs learned to hunt. In the eight years that I have been a safari guide, I have seen perhaps four scenes like this.\n'There was no doubt that this was an important part of the calf's education and that it was getting good hands on experience. It was pure luck that we came across this and takes a good knowledge of the animals' specific territories to be able to find an incident like this.'\nAlthough the hartebeest calf was able to escape from the lion cub's clutches, it was no match for the adult lions watching on\nThe adult lion catches the hartebeest in an attempt to demonstrate to its cub how to hunt effectively and efficiently\nWitnesses said the adult lions were easily able to capture the calf, but had to be careful not to injure it as it would ruin the hunting lesson\nEvery time the calf escaped, it was swiftly recaptured by the adults then set loose for the calf to continue attempting to kill it\nThe hartebeest became the object of the lesson after it emerged from a hiding place it was sheltering in when the rest of the herd fled\nMost watched News videos\n- Moment woman is killed after she was struck in the head by statue\n- The Big Question: Is this the moment Keir Starmer loses control?\n- Conductor hits £1million violin into the air mid-concert\n- Trump calls out CNBC for 'promise' to secure his interview\n- Terrifying moment gunman opens fire on top of famous Mexican pyramid\n- Moment car crashes into Aussie dad and child in Thailand\n- Moment police arrest suspected kidnapper who took teen from bus stop\n- PM asked to 'take responsibility and go' in brutal PMQs bashing\n- Russell Brand admits to 'exploitative' sex with 16-year-old girl\n- Harry asks Meghan to 'calm down' while hugging hunky lifeguard\n- Young girl has her egg stall destroyed by teenage yobs\n- Brits fight with German after chanting about 'winning world wars'",
+      "image_captions": [
+        "Daily Mail - news, sport, celebrity, science and health stories",
+        "The lion cub attempts to take the down the hartebeest calf by clutching it around the neck and trying to bite its throat",
+        "With its mother watching closely nearby, the cub chases the poor calf in a long and torturous game of cat and mouse",
+        "The calf managed to escape the cub's clutches, but was repeatedly recaptured by the adult lions and turned free for the cub",
+        "The red hartebeest calf is caught by the adult lion after it found itself separated from its hartebeest herd on the plains of South Africa"
+      ]
+    },
+    {
+      "url": "https://fararu.com/fa/news/615445/%D9%88%DB%8C%D8%AF%D8%A6%D9%88-%D8%AA%D8%AC%D8%B1%D8%A8%D9%87-%D8%A7%D9%88%D9%84%DB%8C%D9%86-%D8%B4%DA%A9%D8%A7%D8%B1-%D8%A8%DA%86%D9%87-%D8%B4%DB%8C%D8%B1-%D9%87%D8%A7-%D8%A8%D8%A7-%DA%A9%D8%B1%D9%87-%DA%AF%D9%88%D8%B1%D8%AE%D8%B1-%D8%A8%D9%88%D9%81%D8%A7%D9%84%D9%88%DB%8C-%D9%86%DA%AF%D9%88%D9%86-%D8%A8%D8%AE%D8%AA",
+      "page_title": "(ویدئو) تجربه اولین شکار بچه شیر‌ها با کره گورخر و بوفالوی نگون بخت",
+      "title": "(ویدئو) تجربه اولین شکار بچه شیرها با کره گورخر و بوفالوی نگون بخت",
+      "description": "این ویدئو اولین تجربه توله شیرها و شیرهای جوان را به تصویر میکشد و نشان میدهد که این شکارچیهای تازه کار چگونه کره گورخر و بوفالو را به کام مرگ میبرند.",
+      "text": "(ویدئو) تجربه اولین شکار بچه شیرها با کره گورخر و بوفالوی نگون بخت\nاین ویدئو اولین تجربه توله شیرها و شیرهای جوان را به تصویر میکشد و نشان میدهد که این شکارچیهای تازه کار چگونه کره گورخر و بوفالو را به کام مرگ میبرند.\nاین ویدئو اولین تجربه توله شیرها و شیرهای جوان را به تصویر میکشد و نشان میدهد که این شکارچیهای تازه کار چگونه کره گورخر و بوفالو را به کام مرگ میبرند.\nبیشتر بدانید:\nگورخر و بوفالوبقایی گفت: بیش از دو دهه است که جهان با روایت “بمب هستهای ایران” ترسانده میشود؛ در حالی که این موضوع بیش از آنکه…\nرویترز با انتشار تصاویری از تهران نوشت: «ساکنان پایتخت ایران با ادامه آتشبس و بدون هیچ نشانهای از از سرگیری مذاکرات…\nزیدآبادی در کانال تلگرامی خود نوشت اگر بجای تصمیم گیران کشور بود در مقابل لغو صفر تا صد تحریمها از غنیسازی چشم پوشی می…\nخبرنگار العربیه در اسلام آباد گزارش داد که مقامات پاکستان همچنان تلاش های خود را برای برگزاری دور دوم مذاکرات ایران و…\nآتشبس شکننده میان ایران و ایالات متحده، نهتنها پایان تدریجی یک درگیری پرهزینه را رقم زده، بلکه نشانه آغاز بازآرایی…\nبارشهای اخیر در حوضه آبریز دریاچه ارومیه چهره نیمه جان نگین فیروزه ای ایران را جانی دوباره بخشیده است. تراز آبی…\nدونالد ترامپ با انتشار پستی تهدید کرد نیروی دریایی آمریکا قایقهای مین گذار ایرانی را هدف قرار خواهد داد\nمعاون ارتباطات شرکت مخابرات ایران در پاسخ به ابهامات برخی کاربران اینترنت مخابرات در عدم دسترسی به موتور جستجوی گوگل…\nشبکه خبری سیانان گزارش داد، استفاده آشکار ایران از قایقهای تندرو برای متوقف کردن دو کشتی تجاری در روز چهارشنبه نشان…\nوزارت جنگ آمریکا در اطلاعیهای مدعی شد که نیروهای این کشور روز گذشته در اقیانوس هند یک کشتی تحریمشده که در حال حمل…\nاحمد زیدآبادی در خصوص جلب افکار عمومی در دوره های خاص از سوی نهادهای سیاسی و دولتی هشدار داد و ان را پدیده ای سیال خوان…\nاسرائیل در سایه احتیاط؛ تلاش برای حفظ مسیر تقابل\nآیا ترامپ از گزینه جنگ فاصله گرفته است؟این گزارش نشان میدهد تمدید آتشبس از سوی آمریکا، نشانه ترجیح موقت دیپلماسی بر جنگ بوده، اما بنبست مذاکرات بهدلیل رد…\nمحسن چاوشی به یاد شهید نوجوان ماکان نصیری این استوری را منتشر کرد\nهمزمان با افزایش ۱۲ هزار تومانی هر گرم طلا، سکه امامی ۵۲۰ هزار تومان گران شد\nبرگزاری جشن پیوند زوج اهوازی در تجمع شبانه. یک زوج جوان اهوازی همزمان با برگزاری تجمعات شبانه مردمی در منطقه گلستان…\nدلار در بازار آزاد در کانال ۱۵۴ هزار تومان معامله میشود\nشیائومی YU۷ قویترین تیپ این خودرو برقی در جهان است که از یک موتور با ۶۸۱ اسب بخار قدرت بهرهمند است\nمجوز جنگ؛ ابزار کنترل یا چراغ سبز برای ادامه\nچرا جمهوریخواهان از ادامه جنگ آمریکا با ایران حمایت میکنند؟این گزارش نشان میدهد با نزدیک شدن جنگ ایران به مهلت ۶۰روزه، کنگره آمریکا زیر فشار تعیین تکلیف قرار گرفته است.…\nیک کارشناس انرژی میگوید ظرفیت ذخیرهسازی نفت فقط به جزیره خارک محدود نیست و شبکهای از مخازن و نفتکشها فشار را…\nعضو هیئترئیسه شورای ملی زعفران با اشاره به کاهش ۲۰ تا ۶۰ درصدی تولید زعفران در کشور گفت قیمت زعفران به کیلویی ۱۶۰ تا…\nخرید ارزانترین گوشی از برند شیائومی و سامسونگ به۱۷ تا ۲۰ میلیون تومان بودجه نیاز دارد\nخودروی ریرا در بازار آزاد با جهش قیمت ۴۵۰ میلیونی از مرز سه میلیارد گذشت و در سوی دیگر کوییک که از سواریهای اقتصادی…\nروزنامه فایننشال تایمز روز چهارشنبه گزارش داد که یک نماینده عالی رتبه «دونالد ترامپ»، رئیس جمهور آمریکا، از فیفا…\nجنگ منطقهای و نوسانات نفت، برنامههای توسعهای محمد بنسلمان را به چالش کشیده است\nاین گزارش، ترامپ را رئیسجمهوری تصویر می کشد که با تکیه بر قدرت نظامی، حمایت شبکههای الیگارشیک و همسویی راهبردی با…",
+      "image_captions": [
+        "تصاویر؛ متن و حاشیه مراسم چهلمین روز درگذشت حمید هیراد",
+        "آیا آمریکا و اسرائیل دوباره به ایران حمله می‌کنند؟",
+        "نقشه بعدی آمریکا بعد از تمدید آتش‌بس چیست؟",
+        "(ویدئو) تجربه اولین شکار بچه شیر‌ها با کره گورخر و بوفالوی نگون بخت",
+        "باخت عجیب دونده ماراتن در خط پایان"
+      ]
+    }
+  ],
+  "evidence_count": 3,
+  "crawled_at": "2026-04-23T17:37:01.336040+00:00"
+}

@@ -1,0 +1,71 @@
+{
+  "sample_id": "false_213",
+  "image_url": "https://static.timesofisrael.com/www/uploads/2022/02/ucth7lgo9b-rotated.jpeg",
+  "visual_entities": [
+    {
+      "description": "Smuggling",
+      "score": 0.737
+    },
+    {
+      "description": "Arms trafficking",
+      "score": 0.7236
+    },
+    {
+      "description": "Crime",
+      "score": 0.5877
+    },
+    {
+      "description": "Organized crime",
+      "score": 0.5035
+    },
+    {
+      "description": "smuggler",
+      "score": 0.4675
+    },
+    {
+      "description": "Law enforcement",
+      "score": 0.4385
+    },
+    {
+      "description": "Gun",
+      "score": 0.3978
+    },
+    {
+      "description": "Use of force",
+      "score": 0.3844
+    }
+  ],
+  "best_guess_labels": [
+    "gun smugglers"
+  ],
+  "similar_image_urls": [
+    "https://palsawa.com/uploads/images/2023/09/pfFZQ.jpg",
+    "https://cdn.i24news.tv/uploads/44/ab/24/15/da/24/a7/ac/f0/2f/44/d7/c3/c0/9a/4e/44ab2415da24a7acf02f44d7c3c09a4e.jpg?width=996",
+    "https://cdn.i24news.tv/uploads/44/ab/24/15/da/24/a7/ac/f0/2f/44/d7/c3/c0/9a/4e/44ab2415da24a7acf02f44d7c3c09a4e.jpg",
+    "https://hakolhayehudi.co.il/Uploads/2022/05/CJVdtPbEloDvMN.png",
+    "https://media.reshet.tv/image/upload/v1645787744/uploads/2022/902894322.jpg",
+    "https://media3.reshet.tv/image/upload/t_image_article_800/v1645787744/uploads/2022/902894322.webp",
+    "https://static-cdn.toi-media.com/www/uploads/2022/02/ucth7lgo9b-rotated.jpeg",
+    "https://assets.nn.najah.edu/CACHE/images/uploads/weblog/2023/09/19/pffzq/7f481192fb8eb485d1e4e3637b3a4903.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.i24news.tv/en/news/israel/defense/1645793770-israeli-forces-thwart-weapons-smuggling-attempt-at-jordan-border",
+      "page_title": "Israeli Forces Thwart Weapons Smuggling Attempt At Jordan Border",
+      "title": "i24NEWS",
+      "description": "",
+      "text": "You have to enable JavaScript to run this app.",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.dailymotion.com/video/x8gjs8h",
+      "page_title": "How firearms smuggling actually works, according to a weapons ...",
+      "title": "Dailymotion",
+      "description": "",
+      "text": "Skip to player\nSkip to main content\nWatch fullscreen\nFont",
+      "image_captions": []
+    }
+  ],
+  "evidence_count": 2,
+  "crawled_at": "2026-04-23T17:52:35.323398+00:00"
+}

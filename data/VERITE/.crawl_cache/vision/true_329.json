@@ -1,0 +1,115 @@
+{
+  "sample_id": "true_329",
+  "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2017/04/25/a6bb626a-4062-4c05-b22d-5cc5e61b67a5/thumbnail/620x408/af021a0ba9dd14a5b877ef2136ef380e/gettyimages-667811004.jpg",
+  "visual_entities": [
+    {
+      "description": "Firmenich",
+      "score": 0.7606
+    },
+    {
+      "description": "",
+      "score": 0.7477
+    },
+    {
+      "description": "Firmenich",
+      "score": 0.7301
+    },
+    {
+      "description": "Perfume",
+      "score": 0.502
+    },
+    {
+      "description": "Perfumer",
+      "score": 0.4638
+    },
+    {
+      "description": "Geneva",
+      "score": 0.42284998
+    },
+    {
+      "description": "DSM-Firmenich",
+      "score": 0.4002
+    },
+    {
+      "description": "FarmTell Beef Feedlot",
+      "score": 0.3541
+    }
+  ],
+  "best_guess_labels": [
+    "logo dsm firmenich branco"
+  ],
+  "similar_image_urls": [
+    "https://content.linkedin.com/content/dam/me/global-design-assets/etta/backgrounds/bkg-10-FAFAF9.svg.original.svg",
+    "https://www.nightline.fr/themes/custom/nightline/images/logo-white.svg",
+    "https://learning-agreement.eu/themes/custom/ola_theme/logo.png",
+    "https://www.programmepause.fr/wp-content/uploads/2023/12/CDF-1.png",
+    "https://cdn.amazon.science/ce/51/a0ecec814b0894e11c0f22dbcc17/amazonscience-white.svg",
+    "https://2029.ref.ac.uk/wp-content/themes/ref2028/assets/images/sfc-logo_white.png",
+    "https://site.adform.com/media/aojhkt1o/1.png",
+    "https://www.dbpedia.org/wp-content/themes/dbpedia_underscore/page-customs/assets/images/placeholder/responsive-1290_1-1.png",
+    "https://international.cvut.cz/wp-content/themes/theme-international/images/icons/globe.svg",
+    "https://datacite.org/wp-content/uploads/2025/05/DOI_registrations.svg"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.dsm-firmenich.com/en/home.html",
+      "page_title": "DSM-Firmenich",
+      "title": "Home",
+      "description": "Innovators in nutrition, health, and beauty. Together, we bring progress to life by combining the essential, the desirable, and the sustainable.",
+      "text": "The countdown is on to tackle the world’s biggest problems and meet consumers’ ever-evolving needs. As the leading co-creation and innovation partner in nutrition, health, and beauty, we love a challenge. We work at the crossroads of what’s essential for life, desirable for society, and sustainable for our planet – always driven by our purpose of bringing progress to life.",
+      "image_captions": [
+        "Taste, Texture & Health",
+        "Health, Nutrition & Care"
+      ]
+    },
+    {
+      "url": "https://our-company.dsm-firmenich.com/en/our-company.html",
+      "page_title": "Our Company - DSM-Firmenich",
+      "title": "Our Company",
+      "description": "Discover how we bring progress to life through purpose-led science, sustainable solutions, building on our 150-year heritage, and leading by example.",
+      "text": "Our newsroom\nRead more about news from dsm-firmenich and its businesses\nThis is what 150+ years of cutting-edge innovation looks like\nProgress: it’s the reason we get up in the morning. Discover how we bring progress to life each day by combining the essential, the desirable, and the sustainable – purposefully\nSales from Continuing Operations\nAdj. EBITDA margin\npassionate, talented and diverse people in our global team\nOur nutrition, health, and beauty solutions build on years of work: over a century of cutting-edge science, breakthrough innovation, and passionate co-creation, to be precise. With our rich heritage of scientific discovery and research, we know more than a little about creating the solutions people need to thrive – and helping millions around the world live life to the full.\nWe know sustainability. In fact, you could say it’s our (delicious and nutritious) bread and (sustainably produced) butter. From natural fragrances to feed ingredients that cut emissions from farm to fork, we know the recipe for delivering breakthroughs that address the most pressing needs of people, climate, and nature – today and tomorrow. Better yet, we’ll be raising the bar with our new sustainability ambitions and targets. Stay tuned …\nLearn more about dsm-firmenich Codes, SpeakUp, position statements, and policies to follow the relevant laws and regulations.\nAn ambitious company like ours deserves leadership to match. Our Executive Committee and Board of Directors represent the diversity, skillset, and values of dsm-firmenich.\nWe have deep roots and a bright future, with shared strengths and unrivaled expertise that drive positive impact in everything we do.\nOur rich history is paving the way to a bright future. More than a century in the making, dsm-firmenich is the story of two innovators in nutrition, health, and beauty – but there’s much more to it than that.\nRead more about news from dsm-firmenich and its businesses\nWe are fully committed to good corporate governance. Our principles and rules on corporate governance are laid down in the articles of association and the organizational regulations, among other documents.\nFour complementary businesses, all powered by purpose, people, and pioneering science. A winning formula across nutrition, health, and beauty.",
+      "image_captions": [
+        "Taste, Texture & Health",
+        "Health, Nutrition & Care",
+        "Cute smiling young small boy looks through the bottle neck at camera. One cunning peeping eye of boy looks into hole in plastic container",
+        "Girl by hay bale on farm",
+        "Older woman and boy hanging laundry on an outdoor clothesline"
+      ]
+    },
+    {
+      "url": "https://our-company.dsm-firmenich.com/en/our-company/ventures.html",
+      "page_title": "dsm-firmenich Ventures",
+      "title": "Ventures",
+      "description": "The venture capital arm of dsm-firmenich is committed to investing in innovation with purpose. Explore our approach to ventures.",
+      "text": "Our portfolio\nBrowse our portfolio of investee startups – accelerating innovation in nutrition, health, and beauty.\nFor over two decades dsm-firmenich Ventures has been helping to power cutting-edge innovation, create impactful collaboration, and tackle some of the world’s toughest challenges.\nIn fact, since 2001, we’ve invested in more than 100 startups across a wide range of industries and sectors. Today, as part of dsm-firmenich, we connect founders and entrepreneurs to the financing, expertise, and technology they need to succeed.\nOur venture capital philosophy is fully aligned with dsm-firmenich’s purpose of bringing progress to life. In other words, commercial success is essential – but so is delivering meaningful positive impact for people and planet. Now that’s what we call a good return on investment.\ndsm-firmenich is a global leader in nutrition, health, and beauty – and our Ventures arm is always on the lookout for startups with the potential to accelerate innovation and make an impact together.\nWe’re on the ground in North America and Europe, where we engage with and invest in ambitious, promising startups. They’re all unique, but they all have one thing in common: their work is a strategic fit with our innovation ambitions for (at least) one of the three dsm-firmenich business units:\nIn addition, our scope includes technology platforms and digital tools that serve across sectors.\nWe support inventors and entrepreneurs with everything from ideation to operating a sustainable business. We enable founders to thrive as independent entrepreneurs, but we’ll always be there to guide and advise, playing an active role in startup activities at the board level.\nBut it’s not just our team’s decades of collective venture capital experience that our investees and partners can rely on. We can also draw on the impressive scientific, technological, and commercial resources of dsm-firmenich – to foster fruitful collaboration and bring progress to life.\nWe typically invest between €500k and €5m with additional capital reserved for follow-on investments.\nWe take minority ownership stakes, usually 5–25%.\nWe can lead investment rounds or follow another investor’s lead; either way, we prefer to syndicate deals to ensure there’s sufficient working capacity for future rounds.\nWe invest in early-stage and growth-stage companies, supporting founders from creation to successful market exit.\nWe are strategic capital, we seek to accompany every financial investment with strategic collaborations.\nWe are active partners, often serving as advisors to and board members of the startups we invest in.\nBrowse our portfolio of investee startups – accelerating innovation in nutrition, health, and beauty.\nMeet the experienced global team behind dsm-firmenich’s venture capital activities – and discover our expertise in investment with a positive impact.\nGet in touch with different departments and functions in dsm-firmenich",
+      "image_captions": [
+        "Taste, Texture & Health",
+        "Health, Nutrition & Care"
+      ]
+    },
+    {
+      "url": "https://our-company.dsm-firmenich.com/en/our-company/legal-privacy/privacy-policy.html",
+      "page_title": "Privacy notice - DSM-Firmenich",
+      "title": "Privacy notice",
+      "description": "",
+      "text": "This Privacy Notice covers how dsm-firmenich handles your personal data when you interact with us or when you visit the dsm-firmenich.com website.\nPlease read it in full, to understand our policy and your rights.\nThis Privacy Notice may be modified from time to time to keep up with local and international laws and regulations. In case of conflict between this Privacy Notice and local legislation and/or regulations, the latter will prevail.\nThis Privacy Notice applies to all business partners, suppliers, customers, investors, and visitors of the dsm-firmenich website, and also when you buy our products, solutions, or services, subscribe to our newsletter or contact us.\nIn this Privacy Notice, “dsm-firmenich”, “we”, “us”, “our”, “Group”, each refers to DSM-Firmenich AG, a company established at Wurmisweg 576, 4303 Kaiseraugst, Switzerland, with trade register number CH-400.3.451.111-0 – as well as its group companies.\nWhen we talk about “personal data” we mean any information related to you as an individual. With this data, we could potentially identify you directly (e.g. your name) or indirectly by matching that information with other information we may already hold.\nWhile doing business with you, we may process your personal data through registration, completion of forms, community discussions, surveys, e-mails, or other situations in which you have chosen to provide personal data to us.\nThese include, for example:\nThese include, for example:\nFor more information, please scroll down to our cookies paragraph\nOther information\nFor example:\nWe use your personal data for one or more of the following purposes:\nFor the activities described above, we have the following legal basis for processing your personal data:\nAccess within dsm-firmenich\ndsm-firmenich will access your personal data only to the extent necessary for the realization of the purposes listed above. Relevant personnel (e.g. from the Marketing and Communications team) can use it to carry out their jobs in line with the purposes of collection (e.g. promotion, communications, or surveys, etc.).\nSince we are a global company, some of our employees in different locations may need to access your personal data in order to deliver to you better services. A list of our affiliates and locations can be viewed on the website.\nAccess by other authorized companies\nWe may share certain personal data also outside of dsm-firmenich with so-called third parties and if we do, these parties are required to keep your personal data confidential and secure, and must only use your personal data as instructed by dsm-firmenich.\nSuch third parties may include:\nIn case you access other websites from links you find on dsm-firmenich.com, please remember that the privacy and cookie notices of these companies are applicable, not ours.\nPlease note that we do not sell your personal data to any third parties.\nAnalytics providers: We may share your internet or other electronic network activity information with our analytics providers so they may perform auditing related to a current interaction with the consumer and concurrent transactions, including, but not limited to, counting ad impressions to unique visitors, verifying positioning and quality of ad impressions, and auditing compliance with this specification and other standards.\ndsm-firmenich protects your rights and only stores in, and transfers your personal data to, countries with established appropriate safeguards and ensures that your data is treated securely and in accordance with this Privacy Notice. Such safeguards include a recognized legal adequacy mechanism, our intra-company rules (those are called Binding Corporate Rules for Customer and Supplier Personal Data and have been adopted to build a safe data transfer within the company) or standard contractual clauses with third parties or dsm-firmenich companies.\nWe use cookies or pixels, or similar technologies, when you interact with and use the dsm-firmenich.com website and its sub-sites, click on our ads/banners on social media pages or in our emails. In most cases, we will not be able to identify you directly from the information we collect using these technologies.\nWe store cookies on your computer in compliance with the latest regulations, on the basis of your consent with our Cookie Management Tool (the banner on the website’s initial page), which will pop-up during your first visit on our website. By doing so, the website will function at its best and fastest. dsm-firmenich will be able to improve its user-friendliness and adjust the website visualization, promotion, and product display to your interests.\nYou can always withdraw your consent by clicking on the button at the bottom of the page “COOKIE PREFERENCES” and selecting different options. By changing your settings, you can also determine that your browser will not accept cookies from this website. Be aware that in such events, you may no longer be able to use all the possibilities and features of our website. For example, videos and animations remember some settings between sessions.\nRequired cookies\nThese cookies are necessary for our website to function and cannot be rejected or switched off, such as language selection, privacy settings, or login information.\nFunctional and analytics cookies\nThese cookies allow us to analyze the behavior of users on our website so we can\ncount visits and traffic sources to measure and improve the performance of our site. They help us to know which pages are the most and least popular and see if we can better or ease users’ interaction with the site.\nAdvertisement cookies\nThese cookies are used to serve you with advertising relevant to your interests, either within or outside our website.\nFor further information about the use of cookies and your choices regarding cookies, opting out or change settings, please scroll down to the bottom of the page and click here:\nand select “Advanced Settings”, to access the complete list and description of the cookies utilized on dsm-firmenich.com and its sub-sites and to set your preferences.\nWe will keep your personal data only for the time required to serve the purposes for which it was obtained (and/or to comply with legal requirements). Afterwards, your personal data will be removed, deleted, or de-identified as soon as possible.\nPlease note that we may need to retain certain information for record-keeping purposes and that there may also be residual information that will remain within our databases and other records, which will not be removed.\ndsm-firmenich handles your personal data with the utmost care. We have taken various technical and organizational measures to protect your personal data against loss or alteration, unauthorized disclosure, or misuse. In this way, we secure our systems according to the applicable security controls from information security standards. Additionally, we make sure that these measures comply with applicable data protection and data security laws.\nThe dsm-firmenich websites do not target and are not intended to be used by persons under the age of sixteen (16).\nYou can, at any time, unsubscribe or opt out from receiving electronic communications from dsm-firmenich. If you no longer want to receive marketing-related emails, you can click the unsubscribe button at the bottom of each promotional email you receive from us.\nIn addition, you have the following rights in relation to your personal data:\nIf you wish to exercise any of these rights, please send an email to: data.privacy@dsm-firmenich.com. When exercising your rights, the more specific you are, the better we can assist you with your request.\nIf you are concerned about the way we handle your data, please contact us and we will investigate your query. Please also remember that you have the right to lodge a complaint against us with a supervisory authority competent for your country or region. We would, however, appreciate the chance to deal with your concerns before you approach your local supervisory authority so please contact us in the first instance.\nIf you are a California Consumer, you have certain rights with respect to the collection, use, transfer, and processing of your “Personal Information”, as defined by the California Privacy Rights Act (CPRA). We reserve the right to limit these rights where permitted under applicable law, including where your identity cannot be reasonably verified or to the extent your rights adversely affect the rights and freedoms of others. To exercise any of the rights below, please contact us via the contact information below. Only you or a person registered with the California Secretary of State that you authorize to act on your behalf, may make a verifiable consumer request related to your Personal Information.\nIndividual Rights\nRight to know\nYou have the right to request that dsm-firmenich disclose the Personal Information it collects, uses, and discloses about you to third parties.\nThere are two types of “Right to Know” requests you can make:\n1. Right to know (Abbreviated Request): If you make an Abbreviated Request, you will receive – if available- the following information about you:\na. Category of Personal Information collected in the past twelve months,\nb. Categories of sources from which that information was collected,\nc. The business or commercial purpose(s) for which the information was collected,\nd. The categories of third parties with whom Personal Information has been shared, and\ne. The business or commercial purpose for which dsm-firmenich sold or disclosed the category of Personal Information.\n2. Right to Know (Specific Pieces of Information Request): If you make a Specific Pieces of Information Request, you will receive – if available- the following information about you:\na. Specific pieces of Personal Information collected about you.\nThis information will be provided to you free of charge, unless we believe that your request is manifestly unfounded or excessive. You may request this information twice in a 12-month period.\nRight of Deletion\nYou have the right to request that dsm-firmenich and our service providers delete any Personal Information about yourself that we collected from you upon receipt of a verifiable request. This right is subject to exceptions.\nRight to opt out of the sale of Information\nCalifornia Consumers have the right to opt out of the sale of Personal Information by a business that sells Personal Information. You can click on the link provided on the cookie banner to exercise this right.\nSubmitting Requests\nYou may submit a request through email at data.privacy@dsm-firmenich.com\nVerifying Requests\nWe provide Californian consumers with the ability to submit requests through our email addresses. However, we must verify that the person requesting information or deletion is the Californian consumer about whom the request relates to process the request. To verify a Californian consumer’s identity, we may request up to three pieces of personal information about you when you make a request to compare against our records. We cannot respond to your request or provide you with Personal Information if we cannot verify your identity. Making a verifiable consumer request does not require you to create an account with us. We will only use Personal Information provided in your request to verify your identity and will delete any information you provide after processing the request. dsm-firmenich reserves the right to take additional steps as necessary to verify the identity of Californian consumers where we have reason to believe a request is fraudulent.\nAuthorized Agent\nConsumers may use an authorized agent to submit their requests. The authorized agent must be registered with the California Secretary of State and be authorized to submit requests on behalf of a consumer. If you are an authorized agent and a consumer has given you signed permission to submit a request on his or her behalf, please send a copy of your signed permission by the consumer to dsm-firmenich. Failure to submit proof of signed permission may result in dsm-firmenich denying the consumer’s request. We will require the consumer to verify his or her identity and directly confirm with us that the consumer has provided you with permission to submit the request.\nIf you have a question about dsm-firmenich’s use of your personal data or about this Privacy Notice, we invite you to send an email to our Privacy Office at data.privacy@dsm-firmenich.com\nResidents of Germany: We have appointed a local data protection officer in Germany, as required by law. The German data protection officer can be contacted at: DSB-Firmenich@intersoft-consulting.com.\nYou can access our recruitment privacy notice on this page here. with other company policies.",
+      "image_captions": [
+        "Taste, Texture & Health",
+        "Health, Nutrition & Care",
+        "Advanced Cookie settings"
+      ]
+    },
+    {
+      "url": "https://www.firmenich.com/en-cn/node/2971",
+      "page_title": "FIRMENICH UNVEILS THIRD WHITE BIOTECH INGREDIENT Z11",
+      "title": "FIRMENICH UNVEILS THIRD WHITE BIOTECH INGREDIENT Z11",
+      "description": "",
+      "text": "dsm-firmenich\nInnovators in nutrition, health and beauty. Read more about our new company at dsm-firmenich.com or continue here to read more on the incredible solutions and services that we offer.\nInnovators in nutrition, health and beauty. Read more about our new company at dsm-firmenich.com or continue here to read more on the incredible solutions and services that we offer.",
+      "image_captions": [
+        "Firmenich - for good naturally"
+      ]
+    }
+  ],
+  "evidence_count": 5,
+  "crawled_at": "2026-04-23T19:04:17.062025+00:00"
+}

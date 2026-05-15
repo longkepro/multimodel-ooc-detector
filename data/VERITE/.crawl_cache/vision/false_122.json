@@ -1,0 +1,91 @@
+{
+  "sample_id": "false_122",
+  "image_url": "https://external-preview.redd.it/vqYk_kGWFL53szsxR8_FRycmf4R7klmIrxRK5gliRkU.jpg?auto=webp&s=dc5d4c9e5f0fc964c9378389bae398285cfe40e9",
+  "visual_entities": [
+    {
+      "description": "Cat",
+      "score": 1.1122501
+    },
+    {
+      "description": "Dog",
+      "score": 1.0675501
+    },
+    {
+      "description": "Felidae",
+      "score": 0.90690005
+    },
+    {
+      "description": "Deer",
+      "score": 0.55859995
+    },
+    {
+      "description": "Kitten",
+      "score": 0.5168
+    },
+    {
+      "description": "Cat–dog relationship",
+      "score": 0.47
+    },
+    {
+      "description": "Tabby cat",
+      "score": 0.4386
+    },
+    {
+      "description": "Leash",
+      "score": 0.4165
+    },
+    {
+      "description": "Meow",
+      "score": 0.4064
+    },
+    {
+      "description": "Claw",
+      "score": 0.3806
+    },
+    {
+      "description": "Dog grooming",
+      "score": 0.3711
+    },
+    {
+      "description": "Personal grooming",
+      "score": 0.3578
+    },
+    {
+      "description": "lovemeow.com",
+      "score": 0.3563
+    }
+  ],
+  "best_guess_labels": [
+    "cat friends with deer"
+  ],
+  "similar_image_urls": [
+    "https://i.imgur.com/71ooTrZ.jpg",
+    "https://external-preview.redd.it/my-cat-met-a-baby-deer-today-v0-Ic2se0dgqYAfltZMMKCb0Kzc0n8RDXuGqs48OAIJor4.jpg?auto=webp&s=56244fb4586c05426a1ee120b1b72e3b792a056c",
+    "https://www.tiktok.com/api/img/?itemId=7217226388057885998&location=3&aid=1988&index=1",
+    "https://external-preview.redd.it/my-cat-met-a-baby-deer-today-v0-Ic2se0dgqYAfltZMMKCb0Kzc0n8RDXuGqs48OAIJor4.jpg?width=1080&crop=smart&auto=webp&s=5aaf5a14e74141bfffbb861de9700cfcf6da8432",
+    "https://up.gc-img.net/post_img/2022/10/vGXPwTFx6AlbrRi_Xwdgq_39.jpeg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1264049387059217",
+    "https://image.idntimes.com/post/20241029/6-93bda385963db80e8617981d768790d2-fb10510119cd001dae3fd09497de2e4a.jpg",
+    "https://i.chzbgr.com/full/9577790208/hF0245768/cat",
+    "https://i.pinimg.com/736x/13/9a/17/139a1741712e2bb715a2e042dce9f448.jpg",
+    "https://kreativcsirke.hu/wp-content/uploads/2019/07/20-57.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://brightside.me/articles/21-cats-and-dogs-that-can-raise-the-level-of-happiness-in-your-body-548410/",
+      "page_title": "21 Cats and Dogs That Can Raise the Level of Happiness in Your ...",
+      "title": "21 Cats and Dogs That Can Raise the Level of Happiness in Your Body - 07/05/2018",
+      "description": "If all cats and dogs disappeared from the planet, our lives would become empty — or at least they wouldn’t be filled with so much unconditional love anymore. Our pets have magic skills that can increase our good moods and cause us to have tender emotions or bursts of laughter. And it doesn’t matter whether they’re fooling around or simply sleeping — they can make any gloomy day bright.",
+      "text": "If all cats and dogs disappeared from the planet, our lives would become empty — or at least they wouldn’t be filled with so much unconditional love anymore. Our pets have magic skills that can increase our good moods and cause us to have tender emotions or bursts of laughter. And it doesn’t matter whether they’re fooling around or simply sleeping — they can make any gloomy day bright.\nBright Side has collected another set of photos of dogs and cats that will make your day better for sure.\n“My cat met a baby deer today.”\nThis seems to be the most peaceful cat in the world.\nThis good boy doesn’t actually look that good — or maybe he simply needs to sneeze. Anyway, there is no one who would dare to check.\n“Stop doing what you’re doing and start loving me.”\n“My dog trying acupuncture”\nCats look sad when they’re being washed because water reveals their true form.\n“Dennis is cross-eyed but we love him anyway.”\nThere’s no place you can hide from a cat’s devotion.\nHe’s definitely a mama’s boy.\nThe best solution on a hot day:\nMore evidence that cats consist of 99% liquid\n“This is Rudy. Rudy loves me. Rudy is not my cat.”\n“I can’t believe she is playing with another cat on the TV set. But what about me?”\nWhen your friend can also be a comfortable mat for meditations:\nOne of these pillows is not a pillow at all. Can you see it?\nWhen there’s nothing that can disturb you from a deep meditation:\nThis dog can look suspicious within a couple of seconds.\n“This is Gus. We can’t touch or come within 2 meters of him, but we still love him.”\n“This cat seems to have come to us from another universe. And here are her first impressions.”\nDo you have pets? Please share their photos in the comments! We will be glad to see them.",
+      "image_captions": [
+        "21 Cats and Dogs That Can Raise the Level of Happiness in Your Body",
+        "12 Stories of Compassion and Kindness From In-Laws That Can Restore Your Faith",
+        "10 Moments That Prove Kindness Turns Rejection Into Happiness",
+        "12 Moments That Show Quiet Kindness Is What Happens When Love Meets Compassion",
+        "12 Acts of Kindness That Prove Compassion Is the Light That Holds Love Together"
+      ]
+    }
+  ],
+  "evidence_count": 1,
+  "crawled_at": "2026-04-23T17:25:03.024709+00:00"
+}

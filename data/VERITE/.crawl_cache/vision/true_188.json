@@ -1,0 +1,93 @@
+{
+  "sample_id": "true_188",
+  "image_url": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2016/01/plane.jpg",
+  "visual_entities": [
+    {
+      "description": "Airplane",
+      "score": 1.1076
+    },
+    {
+      "description": "Flight",
+      "score": 1.05975
+    },
+    {
+      "description": "Aircraft",
+      "score": 0.96465003
+    },
+    {
+      "description": "737-900",
+      "score": 0.89414996
+    },
+    {
+      "description": "Minneapolis-Saint Paul International Airport",
+      "score": 0.8865
+    },
+    {
+      "description": "Snow",
+      "score": 0.721
+    },
+    {
+      "description": "Airport",
+      "score": 0.6679
+    },
+    {
+      "description": "Chicago O'Hare International Airport",
+      "score": 0.6579
+    },
+    {
+      "description": "Landing",
+      "score": 0.5995
+    },
+    {
+      "description": "Aviation",
+      "score": 0.5224
+    },
+    {
+      "description": "Winter",
+      "score": 0.4905
+    },
+    {
+      "description": "Aircraft spotting",
+      "score": 0.461
+    },
+    {
+      "description": "Runway",
+      "score": 0.4448
+    },
+    {
+      "description": "Delta Air Lines",
+      "score": 0.4337
+    },
+    {
+      "description": "",
+      "score": 0.4337
+    }
+  ],
+  "best_guess_labels": [
+    "plane under snow"
+  ],
+  "similar_image_urls": [
+    "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2016/01/plane.jpg",
+    "https://mediaproxy.snopes.com/width/1200/height/900/https://media.snopes.com/2016/01/plane.jpg",
+    "https://app.aws.org/mwf/attachments//52/272452/PlanesatJFKduringtheblizzard.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1028822893827963",
+    "https://mediaproxy.snopes.com/width/400/https://media.snopes.com/2016/01/12494869_1028822893827963_2160752866913399302_n.jpg",
+    "https://www.tunoticiapr.com/noticias/263550255/tm2/1810284784.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.snopes.com/fact-check/jetblue-snow-blizzard-photo/",
+      "page_title": "MISCAPTIONED: JetBlue Plane Buried by Snow | Snopes.com",
+      "title": "MISCAPTIONED: JetBlue Plane Buried by Snow",
+      "description": "A photograph that purportedly shows a JetBlue airliner buried in snow is actually the product of a tricky camera angle.",
+      "text": "As Winter Storm Jonas bore down on the northeast in January 2016, a photograph purportedly showing a JetBlue airliner buried in snow went viral on social media. This image was viewed by thousands of social media users after it was posted to the Facebook page of Tri-State Weather on 23 January 2016, and tweet from ESPN reporter Darren Rovell featuring the image was also widely shared:\nRovell's tweet, as well as several other subsequent messages, pointed to Dan Linden, global head of social media for ABC News, and Don Uselmann, general manager of airport operations of John F. Kennedy International Airport, as the source of the photograph. The original message, however, has been deleted:\nWhile this photograph is \"real\" in the sense that it did not undergo significant digitial editing, it does not show a JetBlue airliner covered in a massive snow drift — instead, it uses forced perspective in order to make it seem as if the plane were covered in snow. The photographer likely took the picture from behind a small pile of snow that hid the body of the plane, as shown in an illustration by\nCTV News Toronto's aviation photographer Tom Podolec:\nJetBlue has not commented on this viral image, but they did share another photograph of one of their planes on the runway:\nAlthough we prefer to keep our planes in the air, Jonas is being pretty stubborn about keeping us on the ground. #Blizzard2016\nJohn F. Kennedy International Airport did record its snowiest single day total during the Winter Storm Jonas, and JetBlue did cancel several flights due to the wintry conditions, but the photograph showing a JetBlue airliner buried in snow is the result of photographic legerdemain and not a massive snowdrift.",
+      "image_captions": [
+        "Screenshot 2016-01-24 at 5.45.16 PM",
+        "Screenshot 2016-01-24 at 5.50.45 PM",
+        "12510473_10153514152546843_7737985114042653204_n"
+      ]
+    }
+  ],
+  "evidence_count": 1,
+  "crawled_at": "2026-04-23T17:45:44.036860+00:00"
+}

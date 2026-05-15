@@ -1,0 +1,108 @@
+{
+  "sample_id": "true_8",
+  "image_url": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2022/05/whites-only-green-book-sign-1.jpg",
+  "visual_entities": [
+    {
+      "description": "Sundown town",
+      "score": 0.741
+    },
+    {
+      "description": "The Moody Blues",
+      "score": 0.5998
+    },
+    {
+      "description": "future",
+      "score": 0.5125
+    },
+    {
+      "description": "Universal Music Operations Limited",
+      "score": 0.4098
+    },
+    {
+      "description": "The Night",
+      "score": 0.3565
+    },
+    {
+      "description": "",
+      "score": 0.316
+    },
+    {
+      "description": "Universal Music Group",
+      "score": 0.316
+    },
+    {
+      "description": "The Night: Nights in White Satin",
+      "score": 0.3075
+    }
+  ],
+  "best_guess_labels": [
+    "night"
+  ],
+  "similar_image_urls": [
+    "https://mediaproxy.snopes.com/width/1200/height/900/https://media.snopes.com/2022/05/whites-only-green-book-sign-1.jpg",
+    "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2022/05/whites-only-green-book-sign-1.jpg",
+    "https://mediaproxy.snopes.com/width/600/https://media.snopes.com/2022/05/whites-only-green-book-sign-1.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.imdb.com/video/embed/vi3845719065/",
+      "page_title": "NIGHT | IMDb",
+      "title": "Night - NIGHT | IMDb",
+      "description": "NIGHT follows a night in the life of Omar Jaminson. A man with many sexual secrets some of which will begin to eat away at his conscious and by the end of night, a decision must be made.",
+      "text": "Back to top",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.snopes.com/latest/?pagenum=458",
+      "page_title": "What's New | Page 458 | Snopes.com",
+      "title": "Does Fox News' Peter Doocy Live in a 'Luxurious' Barn?",
+      "description": "All the latest rumors, urban legends, myths and misinformation gathered together in one nifty list.",
+      "text": "Snopes\nNow available in the app store!\nOpen\nLog in to activate your ad-free access.\nIt looks like you might have a Snopes membership! Log in to enjoy your ad-free experience.\nLog In\nYou're browsing with fewer ads for the next 24 hours, thanks to our sponsor\n1440 Newsletter\n.\nLearn More\nSnopes Membership\nSearch\nMy Profile\nLogout\nSubmit a Rumor\nLatest\nTrending\nNews & Politics\nEntertainment\nFact Checks\nQuiz\nSections\nLatest\nTrending\nFact Checks\nNews\nCollections\nMore\nContact Us\nSubmit a Rumor\nArchives\nQuiz\nFactBot\nSubmit a Tip\nSnopes App\nNewsletters\nAbout Us\nCategories\nNews & Politics\nEntertainment\nScience & Technology\nLifestyle\nSnopes Membership\nLogin\nMy Profile\nLogout\nDonald Trump\nAI-generated Content\nPope Leo XIV\nJeffrey Epstein\nMelania Trump\nWhat's New\nThe latest fact checks and original reporting from Snopes' editorial team.\nDoes Fox News' Peter Doocy Live in a 'Luxurious' Barn?\nWritten by:\nJordan Liles\nMay 13, 2022\nAn online advertisement showed a picture of the White House correspondent and led to a 223-page ...\nRead More\nWas Baby Formula Shipped to US-Mexico Border Amid Shortage?\nWritten by:\nDan Evon\nMay 13, 2022\nBorder officials are required by law to provide food for any minors in their custody.\nRead More\nIs Twitter's 'Home' Icon a Birdhouse?\nWritten by:\nNur Ibrahim\nMay 13, 2022\nFile this under \"Things we just realized.\"\nRead More\nNo, Military Didn't Find Pesticides in Moderna Vaccines\nWritten by:\nDavid Emery\nMay 13, 2022\nIs it \"satire,\" or gaslighting the public with potentially dangerous medical misinformation? You ...\nRead More\nWas the Snapchat Crying Filter Inspired by Amber Heard?\nWritten by:\nNur Ibrahim\nMay 13, 2022\nAnother rumor about the Depp v. Heard case makes the rounds.\nRead More\nIs Gmail 'Actively Suppressing' Emails from Republicans?\nWritten by:\nMadison Dapcevich\nMay 12, 2022 (Updated: May 13, 2022)\nOr could it be a simple switch of spam settings?\nRead More\nWhat Was That Underwater 'Yellow Brick Road' Scientists Found?\nWritten by:\nBethania Palma\nMay 12, 2022\nThe formation looks eerily like something that could have been made by human hands.\nRead More\nDid Oprah Winfrey Suffer a 'Tragedy' and Endorse Keto Weight Loss Gummies?\nWritten by:\nJordan Liles\nMay 12, 2022\nWe looked into text messages that appeared to claim that Oprah Winfrey had died, displaying the ...\nRead More\nDid Karine Jean-Pierre Say Fox News Is 'Racist'?\nWritten by:\nJordan Liles\nMay 12, 2022\nThe alleged quote was cited in May 2022, just after it was announced that Jean-Pierre would take ...\nRead More\nDid Trey Gowdy Praise '2000 Mules'?\nWritten by:\nDan Evon\nMay 12, 2022\nAccording to a viral meme, Gowdy attended a viewing of the film purporting to prove the 2020 pre ...\nRead More\nBehind the 'Size of the Donut Hole Down Through the Years' Meme\nWritten by:\nBethania Palma\nMay 11, 2022\nWe finally tracked down the origins of this mystery picture, which has confounded the internet d ...\nRead More\nDoes This NASA Photo Show a 'Portal' and 'Wall' on Mars?\nWritten by:\nMadison Dapcevich\nMay 11, 2022\nIt's either a door leading to another celestial dimension ... or part of a rock.\nRead More\nRoe Leak: No, Justices Didn't Argue Against Abortion to Boost 'Domestic Supply of Infants'\nWritten by:\nDan MacGuill\nMay 11, 2022\nAbortion-rights activists responded with outrage to a footnote from the draft opinion overturnin ...\nRead More\nDid 'Ninja' Tweet 'My Braless Wife Brings Me a Sandwich'?\nWritten by:\nJordan Liles\nMay 11, 2022\nTwitter users celebrated the first anniversary of the original tweet by reposting the message to ...\nRead More\n'#DoxxPsaki': Facebook Group Seeks Jen Psaki's Home Address\nWritten by:\nSnopes Staff\nMay 11, 2022\nOne user in the pro-Trump Facebook group commented, \"We've been too reasonable for too long. You ...\nRead More\nIs 'New Profile Pic' App a Russian Malware Scam?\nWritten by:\nDan Evon\nMay 11, 2022 (Updated: May 13, 2022)\nThere's little evidence to suggest that this app is any more invasive in its collection of user ...\nRead More\nRoe v. Wade Overturned: What's Next for US, Supreme Court\nWritten by:\nDan MacGuill\nMay 11, 2022 (Updated: June 24, 2022)\nNow that the landmark abortion ruling has been overturned, expect a patchwork of state laws gove ...\nRead More\nDid Hitler Say He'd 'Put an End to the Idea That a Woman's Body Belongs to Her'?\nWritten by:\nAlex Kasprak\nMay 10, 2022\n\"Nazi ideals demand that the practice of abortion shall be exterminated with a strong hand,\" the ...\nRead More\nWhy Is There a Baby Formula Shortage?\nWritten by:\nDan Evon\nMay 10, 2022\nHere's what we know about the current baby formula shortage in the United States.\nRead More\nNo, NASA Does Not Plan To Send 'Nude Pics' into Space\nWritten by:\nMadison Dapcevich\nMay 10, 2022\nSnopes spoke with NASA and the lead author of a popularly cited study to clarify.\nRead More\nPrevious\nNext\nPage: 458",
+      "image_captions": [
+        "An online ad claimed that Fox News White House correspondent Peter Doocy lives in a luxurious barn or on a farm.",
+        "baby formula at u.s. mexico border",
+        "is twitter home button a birdhouse?",
+        "did military find pesticides in moderna vaccines?",
+        "gmail filtering emails"
+      ]
+    },
+    {
+      "url": "https://www.snopes.com/tag/signs/",
+      "page_title": "Signs Articles | Snopes.com",
+      "title": "Denver Communists stall featured 'Charlie Kirk had it coming, change my mind' sign at 'No Kings' protest",
+      "description": "",
+      "text": "Snopes\nNow available in the app store!\nOpen\nLog in to activate your ad-free access.\nIt looks like you might have a Snopes membership! Log in to enjoy your ad-free experience.\nLog In\nYou're browsing with fewer ads for the next 24 hours, thanks to our sponsor\n1440 Newsletter\n.\nLearn More\nSnopes Membership\nSearch\nMy Profile\nLogout\nSubmit a Rumor\nLatest\nTrending\nNews & Politics\nEntertainment\nFact Checks\nQuiz\nSections\nLatest\nTrending\nFact Checks\nNews\nCollections\nMore\nContact Us\nSubmit a Rumor\nArchives\nQuiz\nFactBot\nSubmit a Tip\nSnopes App\nNewsletters\nAbout Us\nCategories\nNews & Politics\nEntertainment\nScience & Technology\nLifestyle\nSnopes Membership\nLogin\nMy Profile\nLogout\nDonald Trump\nAI-generated Content\nPope Leo XIV\nJeffrey Epstein\nMelania Trump\nsigns\nDenver Communists stall featured 'Charlie Kirk had it coming, change my mind' sign at 'No Kings' protest\nWritten by:\nLaerke Christensen\nOct. 23, 2025\nThe group said the signs invited \"dozens of conversations\" during the \"No Kings\" protest in Denver.\nRead More\nDon't fall for photo of vandalized Charlie Kirk Memorial Highway sign in Florida\nWritten by:\nJordan Liles\nOct. 8, 2025\nThe image allegedly showed a defaced sign memorializing the slain conservative activist and Turn ...\nRead More\nDon't fall for Exxon sign that says 'Free gas any day Trump doesn't say something stupid'\nWritten by:\nJoey Esposito\nMay 19, 2025\nThe purported sign making the rounds on social media was created with a once-popular meme genera ...\nRead More\nExxon sign promoting 'Free gas any day Trump doesn't say something stupid' was made with meme generator\nWritten by:\nJoey Esposito\nMay 14, 2025\nThe purported sign has been circulating on the internet since at least 2018, created with a now- ...\nRead More\nSan Francisco Erected Street Sign Reading 'Stolen Goods Must Remain Under $950'?\nWritten by:\nNick Hardinges\nOct. 15, 2024\nSocial media users believed the city put up a street sign outside a Louis Vuitton store telling ...\nRead More\nNo, MTG Didn't Hold a Sign Saying 'Honk If You Want a Bloodbath'\nWritten by:\nTaija PerryCook\nMarch 18, 2024\nThe sign appears to reference comments made by Trump on March 16 in which he said there would be ...\nRead More\nReal Store Sign Listing Beer, Pizza, Guns, and Bibles In One Aisle?\nWritten by:\nJordan Liles\nAug. 26, 2023\n\"Just found the America aisle at the supermarket,\" someone commented.\nRead More\nDid Berry Global Forbid Employees from Eating Lunch in Their Cars?\nWritten by:\nJordan Liles\nOct. 6, 2022\nReddit users discussed a picture of a sign that displayed a curious policy about taking breaks a ...\nRead More\nIs Austria Home to a Town Named Fucking?\nWritten by:\nDavid Mikkelson\nMay 30, 2000\nLet's take a look at photographic evidence.\nRead More\nIs the 'Inventor of Autocorrect Died' Sign Real?\nWritten by:\nDan Evon\nJuly 8, 2022\nThe funnel will be held tomato. Rest in peas.\nRead More\nIs This a Real 'Sundown Town' Sign Photographed in 2022?\nWritten by:\nDan Evon\nMay 3, 2022\nRacial discrimination is still a problem for Black drivers, but this sign?\nRead More\nDid Marjorie Taylor Greene Pose by 'Fort Pelosi' Sign Outside US Capitol?\nWritten by:\nBethania Palma\nApril 2, 2021\nThe congresswoman was criticized for posting the picture after a driver crashed through a fence ...\nRead More\nWas This Sign Commenting on Trump's Wives Real?\nWritten by:\nBethania Palma\nApril 1, 2021\nA sign outside a Vermont hardware store sparked more than one wave of internet outrage.\nRead More\nIs This a Real Photograph of a Man Holding a 'Homeless N*****s Go Back to Africa' Sign?\nWritten by:\nDavid Emery\nOct. 30, 2018\nThe photograph is genuine, but the story behind it is significantly more complicated than it may ...\nRead More\nDid a Middle School Display the Words 'F*ck Kavanaugh' on Their School Sign?\nWritten by:\nDan Evon\nOct. 10, 2018\nA North Carolina middle school's sign was targeted by vandals, not \"socialist teachers\" trying t ...\nRead More\nDid This Protest Sign Suggest the Mass Killing of White People in Order to End White Supremacy?\nWritten by:\nDan Evon\nOct. 9, 2018\nSocial media users express vehement distaste for fake protest signs -- without realizing they're ...\nRead More\nDoes This Grocery Store Have an Aisle for Lonely Single People?\nWritten by:\nDan Evon\nOct. 8, 2018\nAn image of a grocery store aisle sign is often shared with jokes about single and lonely people.\nRead More\nWas a Racist Sign Displayed at Rollman Farms in Shawneetown, Illinois?\nWritten by:\nDan Evon\nSept. 10, 2018\nAn image purportedly showing a racist sign at Rollman Farms in southern Illinois has not been ve ...\nRead More\nIs This 'Trump Made America the Best Country in the Nation' Sign Real?\nWritten by:\nDan Evon\nAug. 21, 2018\nAn image purportedly showing a logically challenged sign in support of President Trump is actual ...\nRead More\nDid a Sign for Starbucks Racial Bias Training Single Out White People?\nWritten by:\nDan Evon\nJune 1, 2018\nA sign informing Starbucks customers that stores would be closed in order to \"educate white peop ...\nRead More\nPrevious\nNext\nPage: 1",
+      "image_captions": [
+        "The Berry Global company posted a sign that expressed a policy forbidding employees from taking their breaks and lunches in their cars, according to a picture posted to r/antiwork on Reddit.",
+        "A town in Austria named Fucking was renamed to Fugging.",
+        "The inventor of autocorrect died. The funnel will be held tomorrow.",
+        "Text, Driving License, Document",
+        "grocery-store-shopping-hanukkah-ham-865"
+      ]
+    },
+    {
+      "url": "https://www.snopes.com/fact-check/sundown-town-sign-2022/",
+      "page_title": "Is This a Real 'Sundown Town' Sign Photographed in 2022?",
+      "title": "Is This a Real 'Sundown Town' Sign Photographed in 2022?",
+      "description": "Racial discrimination is still a problem for Black drivers, but this sign?",
+      "text": "While unofficial \"sundown towns,\" a term for a town that prohibits Black people after dark, still reportedly exist in the United States, a viral image of a sign reading \"Whites only within city limits after dark\" was taken from a scene in the movie \"Green Book.\"\nFact Check\nIn May 2022, an image went viral that supposedly showed a sign in a modern-day \"sundown town\" that read \"whites only within city limits after dark.\"\nWhile the assertion that sundown towns still exist in America is generally accurate, the above-displayed example does not show sign on display in the United States in 2022. This still shot actually comes from the 2018 movie \"Green Book,\" which was set in 1962.\n\"Green Book\" takes its title from a travel guide book published between 1936 and 1966 called \"The Negro Motorist Green Book\" that helped Black people avoid particularly hostile areas, such as sundown towns, as they drove through the country.\n\"Green Book\" was inspired by the true story of a 1962 concert tour by African American pianist Don Shirley (played by Mahershala Ali). The sign can be seen in a scene where Shirley's driver, played by Viggo Mortensen, drives their car through a sundown town:\nWhile sundown town signs are no longer a prevalent feature on America's roadways, racial discrimination can still be an obstacle for Black drivers. As noted in this video report from The Associated Press, there are several places in the United States that still operate as hidden sundown towns:\nBuzzfeed News reported on the continued existence of sundown towns in 2021:\nIn 2017, the NAACP issued a travel warning for the entire state of Missouri, a first for the organization. The decision was in response to a bill designed to limit discrimination lawsuits by making changes to the Missouri Human Rights Act. Senate Bill No. 43 would require employees prove that their protected characteristics were a \"motivating factor\" for being discriminated against when previously the requirement was that simply showed it was a \"contributing factor.\"\nThe NAACP also referenced anecdotal examples of hate crimes, and data which showed Black motorists were 75% more likely to be pulled over and stopped and searched by police enforcement than their white counterparts. (The state of Missouri offered no public response to the NAACP but did make a Black woman the face of its tourism campaign last year.)\nAnd in 2020, a group called the Defund San Antonio Police Department Coalition issued a travel warning for San Antonio, labeling the city as a sundown town. \"A travel advisory has been issued to warn that any Black people in or traveling to San Antonio use increased caution when visiting the city due to the city's policing policies that put Black Lives in danger,\" wrote organizers in a press release.\nWhile sundown towns still effectively exist in the United States, a viral image used to illustrate that point came from a movie that was set in the 1960s.",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.snopes.com/author/dan/?pagenum=5",
+      "page_title": "Dan Evon, Author at Snopes.com Page 5",
+      "title": "Is the Lowest Crime in US on Mother's Day?",
+      "description": "The definitive Internet reference source for researching urban legends, folklore, myths, rumors, and misinformation.",
+      "text": "Dan Evon\nDan Evon worked at Snopes between October 2014 and July 2022. Evon is a Chicago-based writer who has been sifting through the sludge of social media since 2009. Prior to joining the editorial staff at Snopes.com, he was the editor-in-chief of Social News Daily, a senior writer for The Inquisitr, and covered motorcycle racing for All About Bikes Magazine.",
+      "image_captions": [
+        "Amber Heard Johnny Depp defamation trial",
+        "Beverage, Drink, Glass",
+        "Clothing, Apparel, Person",
+        "did ian mckellen visit ukraine?",
+        "secretary of agriculture tom vilsack"
+      ]
+    }
+  ],
+  "evidence_count": 5,
+  "crawled_at": "2026-04-23T16:47:00.930731+00:00"
+}

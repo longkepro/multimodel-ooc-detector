@@ -1,0 +1,106 @@
+{
+  "sample_id": "false_257",
+  "image_url": "https://i.pinimg.com/originals/b8/cd/95/b8cd958b24e27a3af431adafac51336d.jpg",
+  "visual_entities": [
+    {
+      "description": "Moscow Cathedral Mosque",
+      "score": 1.810281
+    },
+    {
+      "description": "Congregational prayer",
+      "score": 0.6419
+    },
+    {
+      "description": "Grand Mufti of Kazakhstan",
+      "score": 0.5589
+    },
+    {
+      "description": "Friday prayer",
+      "score": 0.5357
+    },
+    {
+      "description": "Piously",
+      "score": 0.5357
+    },
+    {
+      "description": "",
+      "score": 0.4637
+    },
+    {
+      "description": "Eid al-Fitr",
+      "score": 0.4123
+    },
+    {
+      "description": "Eid prayers",
+      "score": 0.3853
+    }
+  ],
+  "best_guess_labels": [
+    "muslim rusia sholat diatas salju"
+  ],
+  "similar_image_urls": [
+    "https://static.republika.co.id/uploads/images/inpicture_slide/muslim-rusia-shalat-berjamaah-di-udara-dingin-_120427085733-198.jpg",
+    "https://georgiapoliticalreview.com/wp-content/uploads/2016/09/russia-muslims.jpg",
+    "https://static.republika.co.id/uploads/images/headline_slide/muslim-rusia-shalat-berjamaah-di-udara-dingin-_120427085733-198.jpg",
+    "https://www.islam.gr/wp-content/uploads/2022/08/2.jpg",
+    "https://trouvetamosquee.fr/wp-content/uploads/2010/10/priere-neige-Kazakhstan-5.jpg",
+    "https://cdn.grid.id/crop/0x0:0x0/smart/filters:format(webp):quality(100)/photo/2022/03/10/9jpg-20220310011714.jpg",
+    "https://static.republika.co.id/uploads/images/kanal_slide/muslim-kazakhstan-saat-menjalankan-shalat-jumat-_130723141435-800.jpg",
+    "http://sun9-66.userapi.com/s/v1/ig1/bJqjVYehmXd59MdJSPPS6rH9FCPILOfdydv98qPG9dc-2YBDt6v2jViGgzBMzV5ntYBhMTmS.jpg?quality=96&as=32x22,48x33,72x49,108x74,160x110,240x164,360x246,480x329,540x370,640x438,675x462&from=bu&cs=640x0",
+    "https://i.ytimg.com/vi/WIsu8Dz9AzQ/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGGUgXShUMA8=&rs=AOn4CLB_uf1TjcvkTP_VeE0JL6v01IiyXQ",
+    "https://i.pinimg.com/236x/67/7a/bf/677abf23c5fa3f19fa1b9d9012bb8039.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://georgiapoliticalreview.com/the-changing-face-of-islam-in-russia/",
+      "page_title": "The Changing Face of Islam in Russia - Georgia Political Review",
+      "title": "The Changing Face of Islam in Russia",
+      "description": "",
+      "text": "Recent support of ISIL in Syria and concurrent terrorism in and around Russia have painted a picture of Russian Islamic radicalism most resembling that seen in the Middle East. Indeed, radicals in the North Caucasus region, including Chechnya, Dagestan, and Ingushetia, seem to be increasingly active. In larger cities, public opinion of Muslims is changing, while the actions of militants in the south are seemingly pulling away from their native Russian identity into religious extremism brought by radicals from the Middle East. This tension between militant and non-militant Muslims has manifested itself in both the global media’s portrayal of Islam and more secularized Muslims’ attempts to change negative stereotypes within their local communities.\nThese growing violent trends in Russia are heavily connected to the tumultuous history of Islam. As one of the oldest and fastest growing religions in Russia, Islam has heavily influenced parts of Russian culture, but does not receive the same kind of respect that other historical forces, such as Orthodox Christianity, are granted.\nHistory & Background\nIslam has been an active force in Russia since the early seventh century, when Muslim missionaries from the Middle East brought this rapidly growing religion to the Caucasus region in the southern part of the country. Orthodox Christianity became dominant in Russia when Catherine the Great came to power in 1762, ushering in systematic persecution that would plague Muslims for hundreds of years to come.\nLike all other religions during the Soviet era, Islam was banned for the majority of the 20th century. Ethnic Russian Muslims were forcibly sequestered to labor camps in regions such as Tatarstan. When the Soviet Union dissolved in 1991 and religion began to find its way back into Russian society, the frequency of religiously-motivated violence skyrocketed as Muslims’ feelings of victimization by the Russian government finally reached a breaking point.\nSince the fall of the USSR in the early 1990s, the North Caucasus region has experienced increasing religiously-motivated violence. Inspired by the liberation of the other Soviet republics in 1991, Chechnya and Tatarstan declared their autonomy as Muslim states shortly thereafter. This declaration did not come without conflict, as the North Caucasus region remained in a state of war for the remainder of the 1990s and into the early 2000s.\nIn 2013, the Tsarnaev brothers were named responsible for the gruesome Boston bombing. Both men were of Chechen heritage and had ties to jihadist groups. While it is not unusual for Chechen nationals to instigate instances of violence motivated by Islamic extremism, Russian jihadi sentiments do not often extend into countries such as the United States. Much of the radicalism in Russia is motivated by open resentment of the Russian government, so the Tsarnaev brothers likely aligned more with Islamic radicalist ideology from the Middle East rather than the anti-nationalist strain of Islam that came out of the Caucasus region.\nEarlier this year, a nanny in Moscow received international attention when she paraded around a metro station brandishing the severed head of a child in her care. While her Islamic faith and apparent disdain of the Russian government directed many to associate her actions with radicalism, officials are calling her actions “those of someone who is mentally unwell” rather than an example of terrorism motivated by jihad.\nThe stories that make international headlines are largely not the ones truly indicative of the current state of extremism in Russia. While these stories certainly bring attention to broader issues of unrest among ethnically Russian Muslims, the constant state of conflict in the North Caucasus are often not analyzed on the international media stage.\nAnalysts often attribute this consistent unrest as a symptom of a larger cultural problem of forced modernization. Geographically isolated from the rest of the country, the Caucuses had preserved a medieval societal structure that bristled at the assertion that they should adopt any other sort of lifestyle. However, with the ushering in of a new regime and national outlook, the region was given little choice in their future, and guarded their Islamic cultural heritage as everything around them was transformed. The cultural and moral friction that resulted from rapid modernization and the instability of post-Soviet Russia no doubt played a large role in the spark that set off the most recent string of religious-related violence.\nCurrent Cultural Face\nEven today, Muslims are still victims of xenophobia and marginalization in Russia. When asked, about 40 percent of Russians associate words such as “untrustworthy” and “terrorist” with Islam in general. However, only 12 percent have a negative view of ethnically Russian Muslims themselves.\nOn a day-to-day basis, Muslims in Russia experience discrimination, whether on the grounds of wearing overtly Islamic attire or for simply attending services at a mosque. Any time a mosque is planned to be built, many turn out to protest perceived threats of violence.\nPerhaps the most significant proponent of Russian Muslims in the government is none other than Vladimir Putin himself. Since his first term as prime minister in the early 2000s, Putin has spoken out about the value of Islam in Russia, citing it as “‘a source of enlightenment [and] the spread of humane ideas’” and “a bastion of ‘traditional’ [Russian] values.” While his praise of Islam may just be a political ploy, Putin has fostered close ties with Islamic leadership in Russia, giving Muslims a louder voice in the political arena than ever before.\nChanges in Russia’s treatment of Muslims are not just present in the Kremlin, but also in the streets of the country’s major cities. Moscow, one of the largest and most westernized cities in Russia, is home to the largest number of Russian Muslims outside of the Caucasus. Here, many Muslims have lived their entire lives viewed as lesser than the overwhelming majority of Orthodox Christians, but some of them have started taking peaceful steps toward establishing a more tolerant society and a more widespread, educated understanding of Islam.\nOne person who has been relatively successful in transforming Russia’s view of Islam is Rezeda Suleyman, a young Muslim woman from Kyrgyzstan who started a self-titled fashion line that produces dresses and hijabs targeted towards Muslim and non-Muslim women alike. While her original demographic was strictly Muslim women, Suleyman discovered that her company had the unique opportunity to market modest dresses to non-Muslim women in an attempt to integrate Islam into everyday Russian life as an acceptable and vital part of Russian culture. This has already affected some positive change in Islam finding its place in mainstream Russian society, as non-Muslim Russian celebrities and women have begun purchasing and wearing Suleyman’s designs.\nCurrently, domestic Russian attitudes toward Muslims are only just beginning to change in more cosmopolitan cities. This gradual development towards acceptance of Muslims will likely continue to be the trend for years to come, as the frequency of extremist activity continues to increase, and public opinion of Muslims continues to be tied to media portrayals of extremism. While Putin appears to be attempting to act in favor of the Muslim population, the decades-long conflicts in the Caucuses will likely not be completely eradicated within the foreseeable future without some sort of radical cultural change.",
+      "image_captions": [
+        "Credit: passionislam.com",
+        "(Credit: Wikipedia)",
+        "Credit: Daily Mail UK",
+        "Credit: Rezeda Suleyman"
+      ]
+    },
+    {
+      "url": "https://mnmrussia.wordpress.com/2012/02/15/far-from-home-muslims-in-russia/",
+      "page_title": "Far From Home: Muslims in Russia",
+      "title": "Far From Home: Muslims in Russia",
+      "description": "Check out this short, new video with great photography about Muslims in Russia: Far From Home: Muslims in Russia Then, please take a minute to pray for the needs you hear about and the faces you se…",
+      "text": "Check out this short, new video with great photography about Muslims in Russia:\nFar From Home: Muslims in Russia\nThen, please take a minute to pray for the needs you hear about and the faces you see in the video.\nPhoto courtesy of :\nCheck out this short, new video with great photography about Muslims in Russia:\nFar From Home: Muslims in Russia\nThen, please take a minute to pray for the needs you hear about and the faces you see in the video.\nPhoto courtesy of :",
+      "image_captions": []
+    },
+    {
+      "url": "https://internasional.republika.co.id/berita/m3484p/muslim-rusia-tak-ingin-pengadilan-syariah",
+      "page_title": "Muslim Rusia tak Ingin Pengadilan Syariah | Republika Online",
+      "title": "Muslim Rusia tak Ingin Pengadilan Syariah |Republika Online",
+      "description": "<p>REPUBLIKA.CO.ID, MOSKOW -- Ide pembentukan pengadilan Syariah di Rusia tak mendapat persetujuan dari pimpinan komunitas muslim Rusia. Menurut konstitusi, agama dipisahkan dari negara di Rusia, komentar Kepala Dewan Pusat Spiritual Muslim, Talgat Tajuddin, seperto dikutip onislam.net, Jumat (27/4).<br /><br />Talgat mengatakan Rusia memiliki sistem peradilan sendiri dan muslim menjalankan sistem tersebut seperti warga negara Rusia lainnya. Menurut dia apa yang dihadapi muslim Rusia telah ditangani dengan baik oleh Mufti Rusia. <br /><br />Ia pun menyarankan kepada setiap muslim yang memiliki pertanyaan tentang agama, keluarga atau warisan dapat menghubungi lembaga keagamaan di sekitar mereka Tidak seperti 30-40 tahun lalu, kini muslim dapat dengan bebas menjalankan agama mereka di Rusia, kata Talgat.<br /><br />Ketua Dewan Muslim Moscow, Albir Krganov mengatakan Rusia adalah negara sekuler dan muslim terdahulu telah tahu bagaimana menyatukan sistem hukum agama dan sekuler. Sebagai contoh, Dewan Pusat Spritual Muslim memiliki lembaga kadi, sebuah lembaga yang menjawab pertanyaan muslim tentang Islam selama lebih dari satu abad, ungkapnya<br /><br />Krganov berpendapat pengadilan syariah lebih cocok untuk negara penganut teokrasi seperti Iran, Arab Saudi dan Qatar. Sementara, keberadaan pengadilan syariah di Rusia akan memicu persepsi negatif.<br /><br />Kita masih ingat bagaimana eksekusi hukuman di muka umum terjadi di Kaukasus. Faktanya, mereka sebenarnya tidak boleh melakukannya, kata dia.<br /><br />Kepala Badan Kepresidenan bidang Hak Asasi Manusia (HAM), Mikhail Fedotov mengatakan ide untuk pembentukan pengadilan syariah di Rusia tidak dapat diterima. Tidak ada negara sipil dapat memiliki dua sistem pengadilan yang berbeda. Sebab, hal itu bakal merusak tata hukum yang ada.<br /><br />Juru Bicara Gereja Ortodoks Rusia, Vsevold Chaplin, mengatakan muslim Rusia tidak boleh kehilangan identitasnya. Karena itu, pengadilan syariah dapat dibentuk meski berada dibawah hukum Rusia.<br /><br />Sebelumnya, pengacara Cechnya, Dagir Hasavov mengutarakan ide tersebut dalam sebuah wawancara. Menurutnya, Rusia sudah selayaknya pengadilan syariah karena bukan tempat yang asing bagi Muslim. Mungkin anda merupakan orang asing. Padahal kami berada di rumah, kata dia.<br /><br />Rusia adalah rumah bagi sekitar 23 juta Muslim. Sebagian besar muslim berada di Chechnya, Ingushetia dan Dagestan. Islam adalah agama terbesar kedua Rusia yang mewakili sekitar 15 persen dari 145 juta penduduk.</p>",
+      "text": "REPUBLIKA.CO.ID, MOSKOW -- Ide pembentukan pengadilan Syariah di Rusia tak mendapat persetujuan dari pimpinan komunitas muslim Rusia. \"Menurut konstitusi, agama dipisahkan dari negara di Rusia,\" komentar Kepala Dewan Pusat Spiritual Muslim, Talgat Tajuddin, seperto dikutip onislam.net, Jum'at (27/4).\nTalgat mengatakan Rusia memiliki sistem peradilan sendiri dan muslim menjalankan sistem tersebut seperti warga negara Rusia lainnya. Menurut dia apa yang dihadapi muslim Rusia telah ditangani dengan baik oleh Mufti Rusia.\nIa pun menyarankan kepada setiap muslim yang memiliki pertanyaan tentang agama, keluarga atau warisan dapat menghubungi lembaga keagamaan di sekitar mereka \"Tidak seperti 30-40 tahun lalu, kini muslim dapat dengan bebas menjalankan agama mereka di Rusia, kata Talgat.\nKetua Dewan Muslim Moscow, Albir Krganov mengatakan Rusia adalah negara sekuler dan muslim terdahulu telah tahu bagaimana menyatukan sistem hukum agama dan sekuler. \"Sebagai contoh, Dewan Pusat Spritual Muslim memiliki lembaga kadi, sebuah lembaga yang menjawab pertanyaan muslim tentang Islam selama lebih dari satu abad,\" ungkapnya\nKrganov berpendapat pengadilan syariah lebih cocok untuk negara penganut teokrasi seperti Iran, Arab Saudi dan Qatar. Sementara, keberadaan pengadilan syariah di Rusia akan memicu persepsi negatif.\n\"Kita masih ingat bagaimana eksekusi hukuman di muka umum terjadi di Kaukasus. Faktanya, mereka sebenarnya tidak boleh melakukannya,\" kata dia.\nKepala Badan Kepresidenan bidang Hak Asasi Manusia (HAM), Mikhail Fedotov mengatakan ide untuk pembentukan pengadilan syariah di Rusia tidak dapat diterima. Tidak ada negara sipil dapat memiliki dua sistem pengadilan yang berbeda. Sebab, hal itu bakal merusak tata hukum yang ada.\nJuru Bicara Gereja Ortodoks Rusia, Vsevold Chaplin, mengatakan muslim Rusia tidak boleh kehilangan identitasnya. Karena itu, pengadilan syariah dapat dibentuk meski berada dibawah hukum Rusia.\nSebelumnya, pengacara Cechnya, Dagir Hasavov mengutarakan ide tersebut dalam sebuah wawancara. Menurutnya, Rusia sudah selayaknya pengadilan syariah karena bukan tempat yang asing bagi Muslim. \"Mungkin anda merupakan orang asing. Padahal kami berada di rumah,\" kata dia.\nRusia adalah rumah bagi sekitar 23 juta Muslim. Sebagian besar muslim berada di Chechnya, Ingushetia dan Dagestan. Islam adalah agama terbesar kedua Rusia yang mewakili sekitar 15 persen dari 145 juta penduduk.",
+      "image_captions": [
+        "Muslim Rusia shalat berjamaah di udara dingin",
+        "Menengok Masjid Paling Utara Sedunia",
+        "Putin Ucapkan Selamat Idul Adha kepada Muslim Dunia",
+        "Nurd Kamal, Masjid Paling Utara di Dunia",
+        "Kisah Gadis Rusia Menemukan Hidayah"
+      ]
+    },
+    {
+      "url": "https://khazanah.republika.co.id/berita/mv1ymb/menanti-kebangkitan-islam-di-rusia",
+      "page_title": "Menanti Kebangkitan Islam di Rusia | Republika Online",
+      "title": "Menanti Kebangkitan Islam di Rusia |Republika Online",
+      "description": "<p>REPUBLIKA.CO.ID, MOSKOW--Tak keliru bila ada pendapat yang mengatakan populasi Muslim tumbuh dengan cepat. Peneliti dan Sejarawan asal AS, Daniel Pipes membenarkan hal itu.<br /><br />Saat ini, rata-rata warga Rusia dan Eropa memiliki 1.4 anak-anak. Di Moskow, rata-rata keluarga Rusia memiliki 1.1 anak. Di kalangan Muslim, rata-rata 2.3 anak dengan angka aborsi yang sangat kecil, kata dia seperti dilansir PanArmenian.net, Selasa (22/10).<br /><br />Menurut Pipes, selain angka kelahiran kenaikan populasi Muslim juga disebabkan kedatangan imigran asal negara-negara bagian bekas Uni Soviet seperti Azerbaijan dan Kazakstan. Kecenderungan tersebut membuat populasi Kristen turun 0.6 persen per tahun, sementara Muslim mengalami kenaikan dengan persentase yang sama, kata dia.<br /><br />Beberapa analis memperkirakan Muslim menjadi mayoritas di Rusia pada abad ke-21.Sebuah revolusi demografi yang secara fundamental akan mengubah karakter negara . Komunitas Muslim mulai bangga menggunakan istilah Muslim Rusia, dan Anda tahu setengah tentara wajib militer Rusia berasal dari kalangan Muslim, kata dia.<br /><br />Namun, kata Pipes, Muslim Rusia seperti di Inggris dan Swedia akan menghadapi situasi anti-Islam yang lebih buruk. Ini yang menjadi pekerjaan rumah umat Islam di Rusia.</p>",
+      "text": "REPUBLIKA.CO.ID, MOSKOW--Tak keliru bila ada pendapat yang mengatakan populasi Muslim tumbuh dengan cepat. Peneliti dan Sejarawan asal AS, Daniel Pipes membenarkan hal itu.\n\"Saat ini, rata-rata warga Rusia dan Eropa memiliki 1.4 anak-anak. Di Moskow, rata-rata keluarga Rusia memiliki 1.1 anak. Di kalangan Muslim, rata-rata 2.3 anak dengan angka aborsi yang sangat kecil,\" kata dia seperti dilansir PanArmenian.net, Selasa (22/10).\nMenurut Pipes, selain angka kelahiran kenaikan populasi Muslim juga disebabkan kedatangan imigran asal negara-negara bagian bekas Uni Soviet seperti Azerbaijan dan Kazakstan. \"Kecenderungan tersebut membuat populasi Kristen turun 0.6 persen per tahun, sementara Muslim mengalami kenaikan dengan persentase yang sama,\" kata dia.\nBeberapa analis memperkirakan Muslim menjadi mayoritas di Rusia pada abad ke-21.Sebuah revolusi demografi yang secara fundamental akan mengubah karakter negara . \"Komunitas Muslim mulai bangga menggunakan istilah Muslim Rusia, dan Anda tahu setengah tentara wajib militer Rusia berasal dari kalangan Muslim,\" kata dia.\nNamun, kata Pipes, Muslim Rusia seperti di Inggris dan Swedia akan menghadapi situasi anti-Islam yang lebih buruk. Ini yang menjadi pekerjaan rumah umat Islam di Rusia.",
+      "image_captions": [
+        "Muslim Rusia shalat berjamaah di udara dingin",
+        "Menengok Masjid Paling Utara Sedunia",
+        "Terungkap Islam Agama Paling Cepat Berkembang di Dunia, ‘Kalahkan’ Agama-Agama Lain",
+        "Survei Terbaru: Populasi Muslim Dunia Meroket Satu Dekade Belakangan",
+        "Putin Ucapkan Selamat Idul Adha kepada Muslim Dunia"
+      ]
+    }
+  ],
+  "evidence_count": 4,
+  "crawled_at": "2026-04-23T18:05:51.296570+00:00"
+}

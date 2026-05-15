@@ -1,0 +1,87 @@
+{
+  "sample_id": "false_129",
+  "image_url": "https://images.theconversation.com/files/283571/original/file-20190710-44437-l2rz7v.jpg?ixlib=rb-1.1.0&rect=0%2C1%2C1326%2C651&q=20&auto=format&w=320&fit=clip&dpr=2&usm=12&cs=strip",
+  "visual_entities": [
+    {
+      "description": "Glastonbury Festival",
+      "score": 0.8406
+    },
+    {
+      "description": "Lightning in a Bottle",
+      "score": 0.8028
+    },
+    {
+      "description": "Music Festival",
+      "score": 0.7426
+    },
+    {
+      "description": "Festival",
+      "score": 0.7349
+    },
+    {
+      "description": "Joshua Tree Music Festival",
+      "score": 0.7134
+    },
+    {
+      "description": "Electronic dance music",
+      "score": 0.5782
+    },
+    {
+      "description": "Waste",
+      "score": 0.5317
+    },
+    {
+      "description": "Concert",
+      "score": 0.5019
+    },
+    {
+      "description": "Musical ensemble",
+      "score": 0.453
+    },
+    {
+      "description": "BBC Music",
+      "score": 0.3865
+    },
+    {
+      "description": "Song",
+      "score": 0.348
+    },
+    {
+      "description": "Municipal Waste",
+      "score": 0.3276
+    }
+  ],
+  "best_guess_labels": [
+    "waste at music festivals"
+  ],
+  "similar_image_urls": [
+    "https://images.theconversation.com/files/283571/original/file-20190710-44437-l2rz7v.jpg?ixlib=rb-4.1.0&rect=0%2C1%2C1326%2C651&q=45&auto=format&w=1356&h=668&fit=crop",
+    "https://images.theconversation.com/files/283571/original/file-20190710-44437-l2rz7v.jpg?ixlib=rb-4.1.0&rect=295%2C0%2C982%2C655&q=75&auto=format&w=768&h=512&fit=crop&dpr=1"
+  ],
+  "evidence": [
+    {
+      "url": "https://theconversation.com/the-environmental-cost-of-abandoning-your-tent-at-a-music-festival-120198",
+      "page_title": "The environmental cost of abandoning your tent at a music festival",
+      "title": "The environmental cost of abandoning your tent at a music festival",
+      "description": "Festival-goers increasingly treat tents as disposable, imagining they are put to good use when discarded. They’re wrong.",
+      "text": "After years of depressing images of huge fields strewn with abandoned tents and rubbish in the aftermath of music festivals, it was heartening to hear Glastonbury Festival organisers claim that 99% of festival-goers’ tents were picked up after the festival. For a festival of 200,000 people this is a huge achievement. But really it should be normal. Hopefully this bodes well for future years, because the Association of Independent Festivals estimates that a quarter of a million so called “single-use” tents are abandoned at music festivals across the UK each year.\nThere is a popular belief that most tents left behind after festivals are collected and sold by charities or sent to good causes. But this is wishful thinking: most of it end up in landfill. The practical and cost overheads for festival organisers and charities of collecting thousands of tents are just too much. All the elements of the tents – pegs, poles, sheets and bags – need to be present, undamaged, and the tent sufficiently clean and functional to be reused.\nAfter a festival, security typically flatten those tents still standing to insure no one has been left behind, or even – as this year – to discover whether anyone has died during the event. This makes it harder to easily identify the tents that are potentially reusable in a field full of them. It’s also likely they’ll be damaged in the process.\nIt’s been reported that tents make up 17% of waste from UK festivals that ends up in landfill. Cheap tents are often made out of polyester or nylon with a coating of silicone or acrylic polyurethane, with poles made of carbon fibre and pegs made of aluminium. Synthetic fibres such as nylon and polyester are polymers derived from fossil fuels and generally do not biodegrade. Polymers have exceptionally high stability and durability, which is precisely why such materials are so popular and so suitable for making tents.\nThe concentration of plastic waste in landfills results in the release of contaminants into the environment. While well-regulated landfills minimise the impact on the surrounding environment, there are still long-term contamination risks to the soil and groundwater. As it is, the UK is fast running out of landfill capacity – a recent report estimated that England has less than seven years capacity for non-hazardous landfill.\nThe cost of single-use tents\nEven before accounting for disposal, tents take a fair amount of energy to make. Based on estimations by consultancy Julie’s Bicycle, the manufacture of typical 3.5kg tent emits the equivalent of as much as 25kg of carbon dioxide, and contains the equivalent of around 8,750 straws or 250 pint cups of plastic. This is about the same amount of CO2 emitted by a car driving 100 miles – without even taking into account the additional energy it takes transport the tent to shops, or to transport it to landfill.\nToday, tents and pegs made out of biodegradable materials such as cardboard and biodegradable plastics are available. But these products are sometimes less portable, less resilient to the deluges so common at British festivals, and may sometimes take years to actually biodegrade – especially in tightly packed landfill sites with limited oxygen supply.\nAt the time of writing, Argos, Aldi, Tesco and Halfords all sell tents for £20 or less – hardly a major investment – especially when seen against the price of festival tickets in the UK that are often around £200. Outdoor equipment – and tents in particular – are often produced in sweatshop conditions. Standing in a sunny field it is easy to forget the inhumane working and living conditions of the workers half a world away that have toiled to make these tents.\nRegardless of what it’s made of, using a tent repeatedly is more environmentally friendly than one discarded after a single use. By dumping their tents, festival-goers help normalise this type of wasteful behaviour. People are social animals that tend to copy their flock, so festival-goers observing others leaving tents behind are much more likely to leave their own. On the other hand, a clean field of the sort captured by Emily Eavis’s drone in the image above should help nudge even tired festival-goers to take home the equipment they brought with them.\nThe images of abandoned tents are more than just a comment on the environmental and ethical impacts of the festival itself. They are a visually dramatic symbol of our throwaway culture – just as images of clean fields at Glastonbury are a refreshing vision of hope for what could be.",
+      "image_captions": [
+        "Abandoned tents after a festival: definitely not going to charity.lionheartphotography,CC BY",
+        "Taking nothing but pictures, leave nothing but footprints.Anthony Devlin/PA",
+        "University of East London"
+      ]
+    },
+    {
+      "url": "https://www.spreaker.com/episode/what-happens-when-the-music-stops-the-environmental-cost-of-festivals-getting-it-right--71173752",
+      "page_title": "The Environmental Cost of Festivals - Getting It Right - Spreaker",
+      "title": "What Happens When the Music Stops — The Environmental Cost of Festivals - Getting It Right",
+      "description": "AI host Ezra Wade explores how festivals like Roskilde, Outside Lands, and Glastonbury are tackling waste and emissions through simple design—reusable cups, s",
+      "text": "What Happens When the Music Stops — The Environmental Cost of Festivals - Getting It Right\nDownload and listen anywhere\nDownload your favorite episodes and enjoy them, wherever you are! Sign up or log in now to access offline listening.\nDescription\nAI host Ezra Wade explores how festivals like Roskilde, Outside Lands, and Glastonbury are tackling waste and emissions through simple design—reusable cups, staffed composting stations, and carpool incentives. With festival...\nshow moreLoved this episode? Discover more original shows from the Quiet Please Network at QuietPlease.ai, explore our curated favorites here amzn.to/42YoQGI, and catch just a slice of our AI hosts in action on Instagram at instagram.com/claredelish and YouTube at youtube.com/@DIYHOMEGARDENTV\nThis content was created in partnership and with the help of Artificial Intelligence AI\nInformation\nCopyright 2026 - Spreaker Inc. an iHeartMedia Company",
+      "image_captions": [
+        "What Happens When the Music Stops — The Environmental Cost of Festivals - Getting It Right"
+      ]
+    }
+  ],
+  "evidence_count": 2,
+  "crawled_at": "2026-04-23T17:29:07.344249+00:00"
+}

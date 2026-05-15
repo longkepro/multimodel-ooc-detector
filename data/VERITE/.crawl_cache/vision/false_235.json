@@ -1,0 +1,86 @@
+{
+  "sample_id": "false_235",
+  "image_url": "https://www.denverpost.com/wp-content/uploads/2016/05/20160510__CD10DPSGUNS___CHM7408p1.jpg?w=620",
+  "visual_entities": [
+    {
+      "description": "School",
+      "score": 0.7347
+    },
+    {
+      "description": "Student",
+      "score": 0.7294
+    },
+    {
+      "description": "Elementary student",
+      "score": 0.7076
+    },
+    {
+      "description": "Bayside High School",
+      "score": 0.69015
+    },
+    {
+      "description": "Gun",
+      "score": 0.6807
+    },
+    {
+      "description": "Denver County School District 1",
+      "score": 0.63435
+    },
+    {
+      "description": "Brooklyn High School",
+      "score": 0.61800003
+    },
+    {
+      "description": "Secondary school",
+      "score": 0.5432
+    },
+    {
+      "description": "High school student",
+      "score": 0.5109
+    },
+    {
+      "description": "Uncommon Schools North Star Academy West Side Park Elementary & Middle",
+      "score": 0.508
+    },
+    {
+      "description": "Primary school",
+      "score": 0.4596
+    },
+    {
+      "description": "Handgun",
+      "score": 0.4188
+    }
+  ],
+  "best_guess_labels": [
+    "student school gun"
+  ],
+  "similar_image_urls": [
+    "https://www.denverpost.com/wp-content/uploads/2016/05/20160510__CD10DPSGUNS___CHM7408p1.jpg?w=620"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.cbsnews.com/miami/video/student-brings-loaded-gun-onto-margate-school-campus-police-say/",
+      "page_title": "Student brings loaded gun onto Margate school campus, police say",
+      "title": "Student brings loaded gun onto Margate school campus, police say",
+      "description": "CBS News Miami's Joan Murray has the latest on the 18-year-old's arrest and bond court appearance.",
+      "text": "Latest\nU.S.\nIran War\nCrypto Fraud\nWorld\nPolitics\nEntertainment\nHealthWatch\nMoneyWatch\nCrime\nSpace\nSports\nBrand Studio\nThe Free Press\nLocal News\nAtlanta\nBaltimore\nBay Area\nBoston\nChicago\nColorado\nDetroit\nLos Angeles\nMiami\nMinnesota\nNew York\nPhiladelphia\nPittsburgh\nSacramento\nTexas\nLive\nCBS News 24/7\nBaltimore\nBay Area\nBoston\nChicago\nColorado\nDetroit\nLos Angeles\nMiami\nMinnesota\nNew York\nPhiladelphia\nPittsburgh\nSacramento\nTexas\n48 Hours\n60 Minutes\nShows\n48 Hours\n60 Minutes\nCBS Evening News\nCBS Mornings\nCBS Morning News\nCBS Reports\nCBS Saturday Morning\nThe Daily Report\nThe Dish\nFace the Nation\nSunday Morning\nThe Takeout\nThings That Matter\nThe Uplift\nCBS News Investigates\nCBS News Confirmed\nPodcasts\nNewsletters\nDownload Our App\nCBS News Team\nExecutive Team\nBrand Studio\nParamount+\nJoin Our Talent Community\nRSS Feeds\nMiami\n|\nNews\nWeather\nSports\nVideos\nYour Reporters\nLocal News\nPolitics\nConsumer\nHealth\nEntertainment\nTech\nLottery News\nNeighbors 4 Neighbors\nU.S.\nWorld\nNEXT Weather\nTracking The Tropics\nHurricane Preps\nAll Sports\nCBS Sports HQ\nDolphins\nHeat\nPanthers\nMarlins\nMiami FC\nInter Miami FC\nCanes\nHigh School Sports\nOdds\nMeet Your Reporters\nMiami-Dade County News\nBroward County News\nMonroe County News\nMeet The Team\nContact Us\nStation Info\nNews Tips\nCBS Miami Shows\nJim Berry's Absolutely Not\nLiving With Parkinson's\nMiami Proud\nContests & Promotions\nGalleries\nAdvertise\nDownload the App\nJobs\nTV Schedule\nWatch CBS News\nStudent brings loaded gun onto Margate school campus, police say\nCBS News Miami's Joan Murray has the latest on the 18-year-old's arrest and bond court appearance.\nView CBS News In\nCBS News App\nOpen\nChrome\nSafari\nContinue",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.denverpost.com/2016/05/10/denver-cops-ask-students-can-you-differentiate-real-gun-from-a-fake/",
+      "page_title": "Denver cops ask students: Can you differentiate real gun from a fake?",
+      "title": "Denver cops ask students: Can you differentiate real gun from a fake?",
+      "description": "Denver cops ask students: Can you differentiate real gun from a fake?",
+      "text": "With a table full of fake guns that looked all too real in front of her, South High School interim principal Deborah Blair-Minter told a library of students that the days of playing cops and robbers with toy guns were over.\n“Those weapons that were truly toys are not what they used to look like,” she said. “They could be perceived as the real deal, and we’ve seen a loss of life behind that.”\nBlair-Minter cited a national conversation stemming from shootings in which kids have been shot by law enforcement officers when playing with a toy gun as one of the reasons why Tuesday’s event was important.\nDenver police and Denver Public Schools teamed up to present a slew of counterfeit guns to students and pose the question: “If you were in the position of law enforcement, would you know the difference between a real gun and a fake gun?”\nSouth High senior Nathan Carter, 18, and his peers approached the display of replica guns apprehensively, cautiously reaching out to handle the imitation weapons that they treated as if they could go off any moment.\n“This is fake?” one student asked. “That’s crazy.”\nThe differences between real weapons and toy weapons (such as airsoft or BB guns) often are indistinguishable until an officer can get close and handle the weapon, said Denver police Cmdr. Magen Dodge.\nAnd because officers must make split-second decisions to protect their environment, the time to better inspect the weapon often is not available, Dodge said.\nIn addition to the distinctions between what’s fake and what’s real, Carter said it was impossible not to recognize the differences in reaction based on who was holding the toy gun.\n“I definitely think it has a race aura to it,” Carter told The Denver Post. “You won’t see a Caucasian kid in an AP class with a replica gun. You’re more likely to see a minority kid who goes home to a different environment and gets a hold of a replica gun get shot by law enforcement. It’s the elephant in the room.”\nCarter and his classmates have been working with Denver police in a program to facilitate better relationships between police and youths. Carter said he dropped by police academy training to observe a simulation where recruits are asked to make instant decisions during scenarios such as shooting.\n“I saw that they have to think ahead and do what’s best for the environment,” Carter said.\nThe issue has so far been skirted at South High since Blair-Minter’s principal position began in December with no fake or real guns on campus, but DPS chief of security Michael Eaton said other schools around the district have seen lockdowns because of toy guns.\nIn December, an East High student was arrested on a charge of aggravated robbery in connection with using a replica gun in a robbery.\nDepending on the situation, a student caught with a fake gun could face charges ranging from wrongful acts to robbery to felony menacing, Dodge said.\nWith real charges and potentially deadly consequences, Carter stressed that pretend guns aren’t just fun and games.\n“I need to inform more of my youth,” Carter said. “I need them to know this stuff so they can be safe.”\nElizabeth Hernandez: 303-954-1223, ehernandez@denverpost.com or @ehernandez",
+      "image_captions": [
+        "DENVER, CO - MAY 10: South High School in Denver...",
+        "Members of the Student Senate at South High School in...",
+        "Elizabeth Hernandez in Denver on Tuesday, Jan. 14, 2025. (Photo by Hyoung Chang/The Denver Post)",
+        "Franci Stagi center, speaks with a Durango Police Department officer early Oct. 28, 2025, after an immigration officer allegedly assaulted her in Durango, Colorado. (Scout Edmondson/Durango Herald via AP)",
+        "FILE – This March 28, 2017, photo provided by the New York State Sex Offender Registry shows Jeffrey Epstein. (New York State Sex Offender Registry via AP, File)"
+      ]
+    }
+  ],
+  "evidence_count": 2,
+  "crawled_at": "2026-04-23T17:58:28.617917+00:00"
+}

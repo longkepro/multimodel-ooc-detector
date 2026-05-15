@@ -1,0 +1,95 @@
+{
+  "sample_id": "true_170",
+  "image_url": "http://3.bp.blogspot.com/-HswMdLtVQ8k/T2Q5MYHs7wI/AAAAAAAABTM/DRbuK4HNYvA/s1600/scarecrow8.JPG",
+  "visual_entities": [
+    {
+      "description": "Scarecrow",
+      "score": 0.7136
+    },
+    {
+      "description": "Cadaver",
+      "score": 0.5133
+    },
+    {
+      "description": "Human",
+      "score": 0.47939998
+    },
+    {
+      "description": "frightening",
+      "score": 0.4114
+    },
+    {
+      "description": "create",
+      "score": 0.3292
+    },
+    {
+      "description": "Moving",
+      "score": 0.3114
+    },
+    {
+      "description": "Talented",
+      "score": 0.3084
+    },
+    {
+      "description": "loved",
+      "score": 0.3032
+    }
+  ],
+  "best_guess_labels": [
+    "corpse as a scarecrow"
+  ],
+  "similar_image_urls": [
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3084141255179948",
+    "http://3.bp.blogspot.com/-HswMdLtVQ8k/T2Q5MYHs7wI/AAAAAAAABTM/DRbuK4HNYvA/s1600/scarecrow8.JPG",
+    "https://www.recreoviral.com/wp-content/uploads/2017/01/espantap%C3%A1jaros.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=834810168667997",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10229079188629458",
+    "https://4tololo.ru/sites/default/files/images/20142204140539.jpg",
+    "https://karapaia.com/wp-content/uploads/2014/05/f44d42a0.jpg",
+    "https://bugaga.ru/uploads/posts/2014-04/1398174464_zhutkoe-pugalo-2.jpg",
+    "https://i3.ruliweb.com/img/5/4/A/0/54A014D53A27C8002F",
+    "https://www.gadoo.com.br/wp-content/uploads/2017/03/4107.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://klyker.com/creepy-scarecrow-5-photos/",
+      "page_title": "Creepy Scarecrow In The Middle Of The Field (5 photos)",
+      "title": "Creepy Scarecrow In The Middle Of The Field (5 photos) | KLYKER.COM",
+      "description": "I hope it's not a real dead body.",
+      "text": "I hope it’s not a real dead body.\nklyker.com is a great source of funny pictures, perfectly timed photos, wtf pictures, rare historical photos, pictures of hot girls, funny animal pics, celeb pics, epic fails, fun facts and much more. Awesome stuff, updated daily!\nKlyker.com does not claim ownership of any images displayed on this site unless otherwise noted. All images are collected from the internet and are believed to be in the public domain or used under fair use for commentary, criticism, or educational purposes. If you are the copyright owner of any image and wish it to be removed or credited, please contact us.",
+      "image_captions": [
+        "Creepy Scarecrow In The Middle Of The Field (5 photos) 2",
+        "Creepy Scarecrow In The Middle Of The Field (5 photos)",
+        "Follow Me on Pinterest",
+        "Klyker Picdump #1969 (44 photos)",
+        "Hot Fit Girls #46 (21 photos)"
+      ]
+    },
+    {
+      "url": "http://marrowhouse.blogspot.com/2012/03/skeleton-country.html",
+      "page_title": "Skeleton Country - The House of Marrow",
+      "title": "Skeleton Country",
+      "description": "",
+      "text": "Mar 17, 2012\n24 comments:\nWould you happen to have a tutorial of how to make this? I work and help set up a haunted house and would love to know what all is involved in making this super creepy scarecrow.\nReplyDeleteIt was this scarecrow that motivated me to try making my own Halloween props this year! I can't believe I finally found the source! I was guessing how to make it and initially thought paper mache and cheesecloth, but then I wasn't sure how that would hold up in inclement weather and wasn't sure hot to properly fit and tatter it, so I decided to try plastic wrap even though that's obviously not what you used. Aside from your materials, what I'm really dying to know is how you got that aged, weathered color!\nReplyDelete\nSubscribe to:\nPost Comments (Atom)",
+      "image_captions": [
+        "blogspot visit counter"
+      ]
+    },
+    {
+      "url": "https://4tololo.ru/content/5209",
+      "page_title": "Адское пугало, способное напугать кого угодно - Умкра",
+      "title": "Адское пугало, способное напугать кого угодно",
+      "description": "В новой Зеландии живёт талантливый 17-летний парень по имени Теодор Холмстэд-Скотт (Theodore Holmstead-Scott),который увлекается всем, что связано с Хэллоуином, любит мрачные инсталляции и сам же их создает, а также ведёт тематический блог и снимает пугающие короткометражки. Это жуткое пугало из мешковины и папье-маше его рук дело! Такой скелет наведёт страху не только на местных ворон, но и заставит любого прохожего обходить стороной ближайшие окрестности...",
+      "text": "В новой Зеландии живёт талантливый 17-летний парень по имени Теодор Холмстэд-Скотт (Theodore Holmstead-Scott),который увлекается всем, что связано с Хэллоуином, любит мрачные инсталляции и сам же их создает, а также ведёт тематический блог и снимает пугающие короткометражки. Это жуткое пугало из мешковины и папье-маше его рук дело! Такой скелет наведёт страху не только на местных ворон, но и заставит любого прохожего обходить стороной ближайшие окрестности...",
+      "image_captions": [
+        "жуткое пугало, the house of marrow, Теодор Холмстэд-Скотт Theodore Holmstead-Scott",
+        "11 самых кровожадных маньяков и серийных убийц в истории России",
+        "Наталья Огрызко, бодибилдинг пауэрлифтинг, спортсменка, которую невозможно отличить от мужчины",
+        "Безмозглые мамаши, делающие откровенные фото при своих детях",
+        "Список знаменитых российских артистов-евреев"
+      ]
+    }
+  ],
+  "evidence_count": 3,
+  "crawled_at": "2026-04-23T17:40:32.001112+00:00"
+}

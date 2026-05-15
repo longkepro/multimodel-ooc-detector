@@ -1,0 +1,93 @@
+{
+  "sample_id": "false_260",
+  "image_url": "https://i.ytimg.com/vi/1TiYNS6twPA/maxresdefault.jpg",
+  "visual_entities": [
+    {
+      "description": "Lake Natron",
+      "score": 1.08735
+    },
+    {
+      "description": "Helicopter",
+      "score": 1.0644
+    },
+    {
+      "description": "Aircraft",
+      "score": 0.88815004
+    },
+    {
+      "description": "Lake Washington",
+      "score": 0.8382
+    },
+    {
+      "description": "Airplane",
+      "score": 0.79845
+    },
+    {
+      "description": "Lake",
+      "score": 0.6706
+    },
+    {
+      "description": "Water",
+      "score": 0.56145
+    },
+    {
+      "description": "Gene Coulon Memorial Beach Park",
+      "score": 0.4644
+    },
+    {
+      "description": "Flamingos",
+      "score": 0.38489997
+    },
+    {
+      "description": "Military helicopter",
+      "score": 0.35452765
+    }
+  ],
+  "best_guess_labels": [
+    "lake natron incident"
+  ],
+  "similar_image_urls": [
+    "https://i.ytimg.com/vi/1TiYNS6twPA/maxresdefault.jpg",
+    "https://i.ytimg.com/vi/1TiYNS6twPA/mqdefault.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.dailymotion.com/video/x8matmx",
+      "page_title": "What If You Jumped Into Lake Natron? - video Dailymotion",
+      "title": "What If You Jumped Into Lake Natron?",
+      "description": "",
+      "text": "Skip to player\nSkip to main content\nWatch fullscreen\nWHAT IF\nWhat If You Jumped Into Lake Natron?",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.fox13seattle.com/news/man-drowns-in-lake-washington-officials-say",
+      "page_title": "Man drowns in Lake Washington, officials say - FOX 13 Seattle",
+      "title": "Man drowns in Lake Washington, officials say",
+      "description": "",
+      "text": "Man drowns in Lake Washington, officials say\nRENTON, Wash. -- Divers recovered a man's body Sunday afternoon from Lake Washington.\nMercer Island police said he and another man were at Gene Coulon Memorial Beach Park on Saturday. They said alcohol was possibly involved and the victim either fell into Lake Washington or walked in near the loading ramps.\nThe victim was not reported missing until nearly 24 hours later, according to Renton fire officials.\nThe victim's identity has not been released. Police are investigating.",
+      "image_captions": [
+        "On your phone. On your TV.",
+        "West Seattle homeless encampment swept despite mayor's promise",
+        "Off-roading for a cause, Thurston Co. Sheriff’s Jeep Patrol looking for volunteers",
+        "All aboard! Seattle's cruise season starts Friday",
+        "Seattle to see first 8 PM sunset Friday, warmer this weekend"
+      ]
+    },
+    {
+      "url": "https://www.witn.com/video/2026/04/20/chief-ironman-drowning-normally-no-swimming-lake/",
+      "page_title": "Chief on Ironman drowning: Normally no swimming in lake - WITN",
+      "title": "Chief on Ironman drowning: Normally no swimming in lake",
+      "description": "Firefighters said the swimmer sank about 10 feet. (KTRK)",
+      "text": "Updated: 6 minutes ago\n|A change in the Canada's citizenship laws has prompted a rush of Americans to explore their ancestry and file paperwork seeking dual citizenship. (AP video by Mark Vancleave)\nUpdated: 11 minutes ago\nUpdated: 50 minutes ago\nUpdated: 51 minutes ago\nUpdated: 59 minutes ago\n|Much of the contiguous United States is experiencing drought. (Source: CNN)",
+      "image_captions": [
+        "Firefighters said the swimmer sank about 10 feet. (KTRK)",
+        "A change in the Canada's citizenship laws has prompted a rush of Americans to explore their...",
+        "Corolla Wild Horse Fund says first four foals seen along Outer Banks this year",
+        "Crews move into new Morehead City fire station funded through $2 million grant",
+        "Three rescued at Corolla Beach after strong winds cause floats to drift offshore"
+      ]
+    }
+  ],
+  "evidence_count": 3,
+  "crawled_at": "2026-04-23T18:06:52.359474+00:00"
+}

@@ -1,0 +1,60 @@
+{
+  "sample_id": "false_91",
+  "image_url": "https://i.guim.co.uk/img/media/0bacc1f2c6f6bca38377d239c2f8c33db7db39a3/0_207_3837_2303/master/3837.jpg?width=465&quality=85&dpr=1&s=none",
+  "visual_entities": [
+    {
+      "description": "",
+      "score": 0.7239
+    },
+    {
+      "description": "Central Zone of São Paulo",
+      "score": 0.55323017
+    },
+    {
+      "description": "City",
+      "score": 0.4952
+    },
+    {
+      "description": "United States",
+      "score": 0.42374998
+    },
+    {
+      "description": "Southern Hemisphere",
+      "score": 0.41189998
+    },
+    {
+      "description": "Desired",
+      "score": 0.3652
+    },
+    {
+      "description": "São Paulo",
+      "score": 0.32204348
+    },
+    {
+      "description": "different",
+      "score": 0.3105
+    }
+  ],
+  "best_guess_labels": [
+    "brazil sao paulo people"
+  ],
+  "similar_image_urls": [
+    "https://i.guim.co.uk/img/media/0bacc1f2c6f6bca38377d239c2f8c33db7db39a3/0_207_3837_2303/500.jpg?quality=85&auto=format&fit=max&s=915363957f3e4a7a40a87a06fa444777",
+    "https://i.guim.co.uk/img/media/0bacc1f2c6f6bca38377d239c2f8c33db7db39a3/0_207_3837_2303/master/3837.jpg?width=465&dpr=1&s=none&crop=none"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.theguardian.com/world/2022/may/09/sao-paulo-reportedly-plans-campsite-increase-homelessness",
+      "page_title": "São Paulo reportedly plans homeless camp following 30% rise in ...",
+      "title": "São Paulo reportedly plans homeless camp following 30% rise in rough sleepers",
+      "description": "Homeless population in city of 12 million grew rapidly during the pandemic, in what activists say is a humanitarian emergency",
+      "text": "Latin America’s largest city, São Paulo, is reportedly planning to open a campsite for rough sleepers in response to a Covid-fuelled homelessness crisis that has forced thousands on to the streets.\nThe homeless population in Brazil’s economic capital, which has about 12 million residents, grew by more than 30% during the coronavirus pandemic in what activists have called a humanitarian emergency.\nOn Saturday morning one of São Paulo’s 31,000-plus homeless residents stood outside the city’s Museum of Sacred Art with a tatty sign that spoke to the scale of the social catastrophe. “Estou comendo do lixo,” it read. “I’m eating from the trash.”\nAccording to a report in one local newspaper on Monday, the city hall is now planning to create a campground where São Paulo’s homeless can erect tents and be given access to bathroom and laundry facilities. “The mayor has said that, given the acuteness of the city’s circumstances, money would not be an obstacle,” the city’s new human rights and citizenship secretary, Soninha Francine, told the Folha de São Paulo.\nFrancine said it was an emergency that so many families were having to sleep rough because they could no longer afford to pay rent or for cooking gas.\nOfficial statistics reveal a dramatic situation in Brazil’s biggest city: according to São Paulo’s city hall, there were people living in tents and wooden shacks in nearly 6,800 different areas last year, compared with only about 2,000 two years earlier. Their inhabitants reportedly include a growing number of women, families and elderly citizens.\nSpeaking in São Paulo on Saturday, Brazil’s former left-wing president Luiz Inácio Lula da Silva denounced the social calamity blighting the country he governed from 2003 to 2011, with inflation soaring and 12 million unemployed. “Hunger has returned,” said Lula, as he announced his intention to challenge the incumbent, Jair Bolsonaro, in October’s presidential election.\nBrazil’s hunger crisis was exposed last year by heart-wrenching photographs of down-and-outs scavenging through a heap of animal carcasses in a middle-class Rio de Janeiro neighbourhood, just a few minutes’ drive from its most famous beaches.\n“A governor who is incapable of shedding a single tear when there are humans rummaging through rubbish trucks for food, isn’t worthy of the title,” Lula said on Saturday, in reference to those shocking images.\nBrazil is not the only Latin American country grappling with the social fallout from a coronavirus pandemic that has plunged millions of citizens back into extreme poverty. The number of people living in extreme poverty in Latin America and the Caribbean rose from from 81 million to 86 million between 2020 and 2021, according to the United Nations.",
+      "image_captions": [
+        "A young woman watches an operation to remove tents used by homeless people in downtown Sao Paulo, Brazil on 4 April 2022.Photograph: André Penner/AP",
+        "A young woman watches an operation to remove tents used by homeless people in downtown Sao Paulo, Brazil on 4 April 2022."
+      ]
+    }
+  ],
+  "evidence_count": 1,
+  "crawled_at": "2026-04-23T17:15:40.768126+00:00"
+}

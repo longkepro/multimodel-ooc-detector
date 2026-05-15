@@ -1,0 +1,133 @@
+{
+  "sample_id": "true_142",
+  "image_url": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2018/09/cooperike.jpg",
+  "visual_entities": [
+    {
+      "description": "Anderson Cooper",
+      "score": 8.2890005
+    },
+    {
+      "description": "Mike Seidel",
+      "score": 6.903
+    },
+    {
+      "description": "Hurricane Florence",
+      "score": 1.05225
+    },
+    {
+      "description": "Flood",
+      "score": 0.7412
+    },
+    {
+      "description": "Journalist",
+      "score": 0.7186
+    },
+    {
+      "description": "The Weather Channel",
+      "score": 0.5827
+    },
+    {
+      "description": "",
+      "score": 0.5827
+    },
+    {
+      "description": "Tropical Cyclone",
+      "score": 0.5717
+    },
+    {
+      "description": "",
+      "score": 0.5219
+    },
+    {
+      "description": "Flood warning",
+      "score": 0.5158
+    },
+    {
+      "description": "Rain",
+      "score": 0.4652
+    },
+    {
+      "description": "CNN",
+      "score": 0.4518
+    },
+    {
+      "description": "Correspondent",
+      "score": 0.4501
+    }
+  ],
+  "best_guess_labels": [
+    "reporter flood fake"
+  ],
+  "similar_image_urls": [
+    "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2018/09/cooperike.jpg",
+    "https://mediaproxy.snopes.com/width/1200/height/675/https://media.snopes.com/2018/09/cooperike.jpg",
+    "https://cdn.adh.reperio.news/image-e/e4f94580-f3b0-4d8d-a75d-4fb9bed3a842/index.jpeg",
+    "https://pbs.twimg.com/media/Embi0DqXMAAWToH.jpg",
+    "https://pbs.twimg.com/media/DnPwKAmXoAYoEza.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10123717047154415",
+    "http://p9.itc.cn/q_70/images03/20201107/3be25f4386c14443915665593ecb5752.png",
+    "http://k.sinaimg.cn/n/sinakd20201108s/517/w865h452/20201108/b30b-kcpxnww4927698.png/w700d1q75cms.jpg",
+    "https://mediaproxy.snopes.com/width/600/https://media.snopes.com/2018/09/cooperike.jpg",
+    "https://i.4cdn.org/lgbt/1775897362219696.png"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.wsfa.com/video/2018/09/18/anderson-cooper-debunks-florence-fake-news-claims/",
+      "page_title": "Anderson Cooper debunks Florence fake news claims - WSFA",
+      "title": "Anderson Cooper debunks Florence fake news claims",
+      "description": "Anderson Cooper said the idea he was kneeling in water to make it look deep is idiotic. (Source: CNN)",
+      "text": "Updated: 17 minutes ago\nWill Roberts is fighting for his life against stage 4 bone cancer. A Facebook post he made is getting national attention.\nUpdated: 25 minutes ago\n|Much of the contiguous United States is experiencing drought. (Source: CNN)\nUpdated: 2 hours ago\nJoining us in studio this morning is personal injury attorney Stewart Vance of the Vance Law Firm, ready to take your legal questions live.\nUpdated: 2 hours ago\nThe Annual Pike Road Crawfish Boil Returns This Season, May 2. Bring the family out for good fun and fun!\nUpdated: 2 hours ago\nApril 25, Prattville is hosting its annual event 'Bark in the Park\", a fundraiser to help the Prattville/Autauga Humane Society.\nUpdated: 2 hours ago\nPersonal injury attorney Stewart Vance of the Vance Law Firm is in studio with us this morning, ready to answer your legal questions live on the air.",
+      "image_captions": [
+        "Anderson Cooper said the idea he was kneeling in water to make it look deep is idiotic.  (Source: CNN)",
+        "Will Roberts is fighting for his life against stage 4 bone cancer. A Facebook post he made is...",
+        "Much of the contiguous United States is experiencing drought. (Source: CNN)",
+        "Joining us in studio this morning is personal injury attorney Stewart Vance of the Vance Law...",
+        "The Annual Pike Road Crawfish Boil Returns This Season, May 2. Bring the family out for good..."
+      ]
+    },
+    {
+      "url": "https://www.kcbd.com/video/2018/09/18/anderson-cooper-debunks-florence-fake-news-claims/",
+      "page_title": "Anderson Cooper debunks Florence fake news claims - KCBD",
+      "title": "Anderson Cooper debunks Florence fake news claims",
+      "description": "Anderson Cooper said the idea he was kneeling in water to make it look deep is idiotic. (Source: CNN)",
+      "text": "Anderson Cooper said the idea he was kneeling in water to make it look deep is idiotic. (Source: CNN)",
+      "image_captions": [
+        "Anderson Cooper said the idea he was kneeling in water to make it look deep is idiotic.  (Source: CNN)",
+        "Much of the contiguous United States is experiencing drought. (Source: CNN)",
+        "Thousands of portable generators are being recalled over safety concerns."
+      ]
+    },
+    {
+      "url": "https://www.snopes.com/fact-check/anderson-cooper-hurricane/",
+      "page_title": "Is This Anderson Cooper Standing in a Ditch While Reporting ...",
+      "title": "Is This Anderson Cooper Standing in a Ditch While Reporting Hurricane Florence?",
+      "description": "It's not uncommon for reporters to call upon dramatic skills in the course of conveying the perils of extreme weather phenomena.",
+      "text": "When Hurricane Florence hit the Carolinas in September 2018, it brought the spectacle of a Weather Channel reporter seemingly engaging in a bit of staged acting to exaggerate the strength of winds for dramatic effect (as seen in the bottom right-hand square below).\nIt also brought similar online claims that CNN's Anderson Cooper had deceptively reported on the hurricane while standing in a ditch, creating the misleading impression that he was filming amidst waist-deep floodwaters -- as his camera crew stood out of frame a few feet away in waters that barely reached above their ankles:\nBut as some viewers recalled, the pictures of Cooper dated from ten years earlier, during the aftermath of Hurricane Ike, and had nothing to do with Hurricane Florence:\nIt was actually from a special that he ran the day after Hurricane Ike. He is standing in a ditch and during the special he also walked around in order to show the variations of depths in the water. Even if that wasn't what he was doing EVERYONE looks for the best shot!\n— MMackie (@mackiem68) September 15, 2018\nThat timing was corroborated by websites with archived information and clips from a September 2008 edition of \"Anderson Cooper 360\" which featured multiple reporters capturing sights from around Texas on the day after Hurricane Ike, including Cooper himself at one point standing in waist-deep water.\nHowever, the various available clips of the program document that the waters in the immediately surrounding area were both fairly deep and quite variable. As Anderson noted during that broadcast, his taking two steps backwards from where he was standing would have caused him to sink in neck-deep water:\nCooper also noted that the floodwaters had actually receded significantly before he began his report, and that although he could have stood in a higher-level adjacent roadway where he might have remained drier, he would have risked interfering with emergency vehicles and others attempting to traverse flooded roads.\nSo while Cooper might have been able to find a somewhat drier spot to report from and instead chose one that provided a visually dramatic appearance, he wasn't misrepresenting or \"lying\" about the general state of the flood as seen in the finished program. And his positioning seems \"fake\" only when contrasted with that of the camera crew's, who obviously could not operate under the same conditions as Cooper and had to be situated either on higher ground or on platforms that kept them and their equipment above water.\nOn the 17 September 2018 edition of \"Anderson Cooper 360,\" Cooper went over the coverage in question point-by-point and explained in detail the circumstances and the reasoning behind the coverage choices made:",
+      "image_captions": []
+    },
+    {
+      "url": "https://globalnews.ca/video/4456865/weather-channel-reporter-mocked-for-overly-dramatic-hurricane-florence-coverage",
+      "page_title": "Weather Channel reporter mocked for 'overly dramatic' Hurricane ...",
+      "title": "Weather Channel reporter mocked for ‘overly dramatic’ Hurricane Florence coverage | Watch News Videos Online",
+      "description": "Watch Weather Channel reporter mocked for ‘overly dramatic’ Hurricane Florence coverage Video Online, on GlobalNews.ca",
+      "text": "Weather Channel reporter mocked for ‘overly dramatic’ Hurricane Florence coverage\nVideos\nWeather Channel reporter mocked for ‘overly dramatic’ Hurricane Florence coverage\nDescription\nSeptember 17, 2018\nThe Weather Channel is defending its coverage of Hurricane Florence after a widely criticized video went viral showing a reporter who appears to be struggling to stay upright in high winds while two people are seen casually walking in the background.\nWeather Channel reporter mocked for ‘overly dramatic’ Hurricane Florence coverage\nDescription\nSeptember 17, 2018\nThe Weather Channel is defending its coverage of Hurricane Florence after a widely criticized video went viral showing a reporter who appears to be struggling to stay upright in high winds while two people are seen casually walking in the background.\nNational News\n-\nCarney has “reset” tone of Canada-US relations, O’Toole says5:236 hours ago\n-\nCarney unveils new housing projects in his own riding of Nepean1:206 hours ago\n-\nFlight cuts, rising fuel costs disrupt summer travel plans6:4918 hours ago\n-\nU.K. proposes generational tobacco ban. Could Canada follow?6:3318 hours ago\n-\nAir Canada jet has a near-miss at New York’s JFK airport0:5120 hours ago\n-\nNew walking route connects London’s historic landmarks along River Thames2:5520 hours ago\n-\nWater levels stabilize in Quebec, but flood threat continues2:0620 hours ago\n-\nCarney says U.S. won’t dictate terms of CUSMA trade talks2:115 hours ago\n-\nQuebec man faces terrorism charges linked to 764 extremist network1:5820 hours ago\n-\nIran attacks 3 ships in Strait of Hormuz amid ceasefire2:0020 hours ago\nAdvertisement\nTop News\n-\nBusiness Matters: Iran war impacting price of consumer goods2:181 day ago\n-\nHealth Matters: U.K. lawmakers approve lifetime smoking ban for people born after 20082:091 day ago\n-\nIran seizes 2 vessels for ‘maritime violations’ in Strait of Hormuz5:491 day ago\n-\nBizarre development in case of Trina Hunt3:391 day ago\n-\nHow U.K. is marking late Queen Elizabeth’s 100th birthday1:511 day ago\n-\nTrump extends U.S. ceasefire with Iran indefinitely2:061 day ago\n-\nCanadian witness recalls terrifying Mexican mass shooting2:031 day ago\n-\nMadonna offers reward for missing vintage clothing after Coachella performance0:221 day ago\n-\nBusiness Matters: WestJet cuts flight capacity due to rising jet fuel costs2:162 days ago\n-\nU.K. PM Starmer rejects renewed calls to step down over Mandelson appointment1:542 days ago\nSponsored Content\nGlobal National\n-\nGlobal National: April 2222:3721 hours ago\n-\nGlobal National: April 2122:102 days ago\n-\nGlobal National: April 2022:223 days ago\n-\nGlobal National: April 1922:334 days ago\n-\nGlobal National: April 1821:465 days ago\n-\nGlobal National: April 1622:057 days ago\n-\nGlobal National: April 1521:401 week ago\n-\nGlobal National: April 1421:531 week ago\n-\nGlobal National: April 1321:481 week ago\n-\nGlobal National: April 1221:562 weeks ago\nTrending\nCanada\n-\nCarney has “reset” tone of Canada-US relations, O’Toole says5:236 hours ago\n-\nCarney says Canada looking for trade reciprocity with U.S.0:471 day ago\n-\nFord says Ontario sold controversial private jet back to Bombardier at no loss1:351 day ago\n-\nAir Transat prepares to cut hundreds of flights amid jet fuel shortage0:321 day ago\n-\nDrake’s publicity stunt prompts large police presence2:171 day ago\n-\nLiberals to seek control of House committees, Steven MacKinnon says amid Liberal majority0:421 day ago\n-\nMichael Kovrig warns against relying on China as alternative to U.S.0:531 day ago\n-\nCanada pursuing sovereign space launches1:431 day ago\n-\nCarney unveils advisory council for Canada-U.S. trade ahead of CUSMA review2:051 day ago\n-\nAlberta’s next power shift: Pricing electricity by the hour2:011 day ago\nU.S. News\n-\nFlorida launches criminal probe into OpenAI, ChatGPT after mass shooting at university2:061 day ago\n-\nU.S. labor secretary 3rd cabinet member to step down from Trump administration since March0:352 days ago\n-\nTim Cook to step down as Apple CEO this fall, successor named0:402 days ago\n-\nSinger D4vd charged with murder of 14-year-old found in trunk, could face death penalty5:393 days ago\n-\nHero principal who tackled, restrained gunman within seconds of entering school crowned homecoming king1:503 days ago\n-\nTrio sentenced for insurance fraud scam involving bear costume0:453 days ago\n-\n8 children dead in Louisiana shooting, police say it was domestic dispute2:314 days ago\n-\n‘Your hearts lifted our hearts’: Artemis II crew still over the moon after historic lunar mission1:507 days ago\nAdvertisement\nWorld\n-\nEx-Philippine president Rodrigo Duterte to stand trial on ‘crimes against humanity’ charges0:335 hours ago\n-\nNew walking route connects London’s historic landmarks along River Thames2:5520 hours ago\n-\nIran attacks 3 ships in Strait of Hormuz amid ceasefire2:0020 hours ago\n-\nFormer British soldier who fought in Ukraine brings speaking tour to Edmonton5:361 day ago\n-\nBusiness Matters: Iran war impacting price of consumer goods2:181 day ago\n-\nHealth Matters: U.K. lawmakers approve lifetime smoking ban for people born after 20082:091 day ago\n-\nIran seizes 2 vessels for ‘maritime violations’ in Strait of Hormuz5:491 day ago\n-\nHow U.K. is marking late Queen Elizabeth’s 100th birthday1:511 day ago\n-\nCanada pursuing sovereign space launches1:431 day ago\n-\nTrump extends U.S. ceasefire with Iran indefinitely2:061 day ago\nPolitics\n-\nRM of Sherwood interim reeve says goal is to hold more AI data centre info sessions5:404 hours ago\n-\nCarney says Canada not ‘taking notes’ from Americans as it prepares for US trade talks4:396 hours ago\n-\nCarney has “reset” tone of Canada-US relations, O’Toole says5:236 hours ago\n-\nErin O’Toole appointed to Economic Advisory Committee5:237 hours ago\n-\nMunicipal Matters: Who’s going to cover clean-up costs for Drake’s ice?4:427 hours ago\n-\nU.K. proposes generational tobacco ban. Could Canada follow?6:3318 hours ago\n-\nCalgary’s emergency management agency taking steps to create an urban wildfire plan2:0818 hours ago\n-\nB.C. premier says NDP MLA is very ill1:1420 hours ago\n-\nFreedom of Information changes criticized1:5720 hours ago\n-\nCarney says U.S. won’t dictate terms of CUSMA trade talks2:115 hours ago\nHealth and Wellness\n-\nB.C. Nurses’ Union bargaining reaches impasse1:481 day ago\n-\nHealth Matters: Former MB chief psychiatrist challenges law allowing 72-hour detention of people high on drugs2:322 days ago\n-\nFertility Awareness Week with the author of ‘Chasing Baby’3:492 days ago\n-\nChanging the conversation around diabetes6:014 days ago\n-\nMentorship in Medicine program stitches together future doctors2:155 days ago\n-\nHealth Matters: Ontario looks to change medical residency priority rules2:236 days ago\n-\nPost-pandemic hospitalizations for respiratory diseases surge, CIHI report says2:036 days ago\n-\nQEII emergency department pharmacist shares details on new research grant5:276 days ago\nAdvertisement\nInvestigative News\n-\nReport: Lytton wildfire rebuild lacked framework2:151 month ago\n-\nDeportation hearing begins for alleged Iranian regime official1:381 month ago\n-\nQuestions about how Tumbler Ridge shooter had access to guns2:302 months ago\n-\nDeportation hearing for suspected high-ranking Iranian official living in Canada held behind closed doors0:452 months ago\n-\nBattling extortion violence in Surrey7:133 months ago\n-\nFighting the addictions crisis in northern Manitoba’s Nisichawayasihk Cree Nation5:024 months ago\n-\n‘They can shoot me’: Fear-stricken Ontario family speaks after Bishnoi gang violence in Canada2:514 months ago\n-\nGovernment responds to allegations of widespread fraud at Social Development and Poverty Reduction ministry3:305 months ago\n-\nOntario’s landfill crisis: The cost of inaction2:535 months ago\n-\nRussian snipers using Canadian rifles in Ukraine despite sanctions2:386 months ago\nNews Bloopers\n-\n‘Amoosing’ cow leaves Global News Morning crew in stitches1:594 months ago\n-\n‘Can’t use that on TV’: Watch a Global News reporter jump from the highest bungee jump in Canada0:3712 months ago\n-\nBlack bear in tree has rough landing after being tranquilized at Halifax-area park0:4919 months ago\n-\nEdmonton, B.C. morning show hosts settle NHL playoff bet3:0523 months ago\n-\n‘You can’t make this stuff up:’ Loud clap of thunder interrupts live TV segment at pivotal moment0:2531 months ago\n-\nFun times? Global News personalities help clear snow in search of ‘fun’ story2:0042 months ago\n-\n‘Buzzworthy moment’: Colin D’Mello recaps Doug Ford accidentally swallowing a bee1:5744 months ago\n-\n‘Did you just call me daddy?’: Morning show hosts can’t hold back laughter after on-air mixup1:1545 months ago\n-\nB.C. dad hoping to see his cloud photo on TV get his wish following viral TikTok campaign2:1248 months ago\n-\nBloopers: Phil Darlington slips, slides and falls in these Our Winter City outtakes1:3842 months ago",
+      "image_captions": [
+        "Click to play video: 'Weather Channel reporter mocked for ‘overly dramatic’ Hurricane Florence coverage'",
+        "Carney has “reset” tone of Canada-US relations, O’Toole says",
+        "Carney unveils new housing projects in his own riding of Nepean",
+        "Flight cuts, rising fuel costs disrupt summer travel plans",
+        "U.K. proposes generational tobacco ban. Could Canada follow?"
+      ]
+    },
+    {
+      "url": "https://www.snopes.com/tag/hurricane-florence/",
+      "page_title": "Hurricane Florence Articles | Snopes.com",
+      "title": "Does This Picture Show a Shark Swimming Down a Highway After a Hurricane?",
+      "description": "",
+      "text": "Snopes\nNow available in the app store!\nOpen\nLog in to activate your ad-free access.\nIt looks like you might have a Snopes membership! Log in to enjoy your ad-free experience.\nLog In\nYou're browsing with fewer ads for the next 24 hours, thanks to our sponsor\n1440 Newsletter\n.\nLearn More\nSnopes Membership\nSearch\nMy Profile\nLogout\nSubmit a Rumor\nLatest\nTrending\nNews & Politics\nEntertainment\nFact Checks\nQuiz\nSections\nLatest\nTrending\nFact Checks\nNews\nCollections\nMore\nContact Us\nSubmit a Rumor\nArchives\nQuiz\nFactBot\nSubmit a Tip\nSnopes App\nNewsletters\nAbout Us\nCategories\nNews & Politics\nEntertainment\nScience & Technology\nLifestyle\nSnopes Membership\nLogin\nMy Profile\nLogout\nDonald Trump\nAI-generated Content\nPope Leo XIV\nJeffrey Epstein\nMelania Trump\nHurricane Florence\nDoes This Picture Show a Shark Swimming Down a Highway After a Hurricane?\nWritten by:\nDavid Mikkelson\nAug. 28, 2011\nA much-repurposed photograph of a shark swimming down a flooded highway after a hurricane is a fake.\nRead More\nDoes This Photograph Show a Stretch of I-40 in North Carolina Underwater?\nWritten by:\nDan Evon\nSept. 18, 2018\nA photograph documents that a portion of Interstate 40 in North Carolina was completely underwat ...\nRead More\nAre These Pictures of Pigs on a Farm Flooded by Hurricane Florence?\nWritten by:\nDan Evon\nSept. 17, 2018\nPhotographs showing a group of pigs on a flooded farm are real, but they were not taken after Hu ...\nRead More\nIs This Anderson Cooper Standing in a Ditch While Reporting Hurricane Florence?\nWritten by:\nDavid Mikkelson\nSept. 16, 2018\nIt's not uncommon for reporters to call upon dramatic skills in the course of conveying the peri ...\nRead More\nWeather Channel Reporter Braces in Storm That Leaves Others Unaffected\nWritten by:\nDavid Mikkelson\nSept. 15, 2018\nA video clip of a report captured during Hurricane Florence appeared to show some very selective ...\nRead More\nU.S. Coast Guard Member Removed from Hurricane Response Team Over Hand Gesture\nWritten by:\nDavid Mikkelson\nSept. 15, 2018\n\"These types of actions are not reflective of the core values of the Coast Guard.”\nRead More\nDid a Man Die from Shooting a Gun at Hurricane Florence?\nWritten by:\nDan MacGuill\nSept. 14, 2018\nA report that a Facebook event encouraging people to \"shoot guns at Hurricane Florence\" had caus ...\nRead More\nWas the Georgia State Line 'Blocked Off' Because of Hurricane Florence?\nWritten by:\nArturo Garcia\nSept. 14, 2018\nA Facebook user's bogus claim about hurricane escape routes was spread online even by people who ...\nRead More\nDid a Clerk Refuse to Sell Gas to a Man Fleeing a Hurricane Over a Trump Bumper Sticker?\nWritten by:\nDan Evon\nSept. 13, 2018\n\"\njunk\n\" --\nnoun\n: \"old or discarded articles that are considered useless or of lit ...\nRead More\nDoes Hurricane Florence Now Contain Sharks?\nWritten by:\nDan Evon\nSept. 7, 2017\nAn image of a news ticker reading \"Hurricane Florence now contains sharks\" is a recycled fake.\nRead More\nPage: 1",
+      "image_captions": []
+    }
+  ],
+  "evidence_count": 5,
+  "crawled_at": "2026-04-23T17:33:05.514205+00:00"
+}

@@ -1,0 +1,125 @@
+{
+  "sample_id": "true_136",
+  "image_url": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2018/10/flooded_airport.jpg",
+  "visual_entities": [
+    {
+      "description": "Airport",
+      "score": 1.0961004
+    },
+    {
+      "description": "George Bush Intercontinental Airport",
+      "score": 0.81045
+    },
+    {
+      "description": "Aircraft",
+      "score": 0.73665
+    },
+    {
+      "description": "Airplane",
+      "score": 0.7314
+    },
+    {
+      "description": "Northwest Florida Beaches International Airport",
+      "score": 0.72615004
+    },
+    {
+      "description": "Runway",
+      "score": 0.5491
+    },
+    {
+      "description": "Flood",
+      "score": 0.48
+    },
+    {
+      "description": "Airport terminal",
+      "score": 0.4531
+    },
+    {
+      "description": "Boeing 767",
+      "score": 0.4037965
+    },
+    {
+      "description": "Airport apron",
+      "score": 0.3984
+    },
+    {
+      "description": "Flight",
+      "score": 0.37739998
+    },
+    {
+      "description": "Hurricane Harvey",
+      "score": 0.37395
+    }
+  ],
+  "best_guess_labels": [
+    "flooded airport runway"
+  ],
+  "similar_image_urls": [
+    "https://mediaproxy.snopes.com/width/1200/height/900/https://media.snopes.com/2018/10/flooded_airport.jpg",
+    "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2018/10/flooded_airport.jpg",
+    "https://mediaproxy.snopes.com/width/600/https://media.snopes.com/2018/10/flooded_airport.jpg",
+    "https://i2-prod.coventrytelegraph.net/article13544650.ece/ALTERNATES/s1200d/zhurricanefakephoto1.jpg",
+    "https://i2-prod.cambridge-news.co.uk/incoming/article13544650.ece/ALTERNATES/s615b/zhurricanefakephoto1.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1430291433733062",
+    "https://img.sinchew.com.my/2018-10/19/Florida-131722.jpg",
+    "https://imagenes.elpais.com/resizer/v2/2DRUKG3GFDZKUE3J3ZD4RYS6YM.jpg?auth=d60e48db4fa719533177a918a559fe13d04a167a652f6246b476e162811defe9&width=1960",
+    "https://www.vol.at/2017/08/Unbenannt-3-16-9-0172609343-609x343.png"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.snopes.com/fact-check/florida-airport-flooded-michael/",
+      "page_title": "Is This a Photograph of a Florida Airport Flooded During Hurricane ...",
+      "title": "Is This a Photograph of a Florida Airport Flooded During Hurricane Michael?",
+      "description": "As Hurricane Michael weakened into a tropical storm, internet users and reporters shared extraordinary images of the devastation it caused.",
+      "text": "Hurricane Michael made landfall at Mexico Beach, Florida, on 10 October 2018, slamming the Gulf Coast with winds of up to 155 miles per hour and causing widespread property destruction and power outages, as well as two deaths in Florida and Georgia.\nAs Michael weakened into a tropical storm, internet users and reporters shared extraordinary images of the devastation it caused:\nAmong those images was one viral photograph which purported to show airplanes almost covered in flood waters at Northwest Florida Beaches International Airport:\nThe photograph is a fake. It does not show Northwest Florida Beaches International Airport; rather, it was taken from a larger, digitally-edited image created by the artist Nickolay Lamm and used to illustrate the effect that unchecked climate change could have on coastal parts of the United States.\nThe simulated photograph was used by the website Climate Central in 2013 with the caption: \"What LaGuardia [New York] could look like at high tide with 25 feet of sea level rise, an amount that would require a worst-case scenario involving melting of large parts of Greenland and Antarctica\":\nThe same simulation was shared during Hurricane Harvey in August 2017, with social media users falsely reporting that it showed an airport in Houston, Texas:\nHouston airport is now the new Houston port! pic.twitter.com/JdOr4coqIb\n— isi (@GutierrezIsi) August 28, 2017\nOn 11 October 2018, officials at Northwest Florida Beaches International Airport announced that commercial flights had been suspended in and out of the airport but that it was \"operational,\" offering further proof that the viral \"flooded runway\" photograph did not, in fact, show the Panama City airport in the aftermath of Hurricane Michael:",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.cambridge-news.co.uk/news/uk-world-news/houston-airport-hurricane-harvey-flood-13544559",
+      "page_title": "Don't share fake photo of flooded airport after Hurricane Harvey",
+      "title": "Don't share fake photo of flooded airport after Hurricane Harvey",
+      "description": "Someone has taken advantage of the tragedy and shared a doctored photo on Twitter",
+      "text": "Don't share this widespread fake photo of flooded Houston airport after Hurricane Harvey\nSomeone has taken advantage of the tragedy and shared a doctored photo on Twitter\nHurricane Harvey ravaged Houston, Texas, over the weekend, dumping 30 inches of rain in three days.\nMany people lost all of their belongings after the downpours flooded and destroyed their homes.\nPictures and stories of the floods have spread on social media but one photo should not be believed.\nSeveral Twitter accounts, including meteorologists, posted a photo of airplanes on a tarmac almost submerged in floodwater.\nA breaking news account shared the image with the caption: \"BREAKING: Look at this amazing picture from Houston airport. The flooding planes.\"\nThey were quickly alerted to the fact the photo was a fake and warned not to share images like these without checking, The Mirror reported.\nThe image is actually taken from the Climate Central website, which created a projection of what La Guardia airport in New York would look like at high tide with five feet of sea level rise.\nClimate Central claim this could be reality by the year 2100.\nBut it hasn't just been lifted from the site and shared with incorrect information relating to Houston.\nSomebody appears to have digitally manipulated the image further, lifting the water level up to obscure the planes.\nThe AirLive Twitter account replied to the image, saying: \"Be careful, it’s a fake from an older picture in La Guardia.\"\n@CNN @FoxNews Houston airport freezing their customers. This woman is one of the lucky ones. They won't let me get my luggage and come back pic.twitter.com/rvHE5hDVZO— alschuch (@alschuch) August 27, 2017\nOther pictures taken inside the airport show that the floor is dry, but passengers are complaining that it is 'freezing' inside the building.\nHouston has been devastated by flash floods after Hurricane Harvey brought torrential downpours of 30 inches of rain in three days.\nA TV crew spotted one man trapped inside an 18-wheeler truck in rising floodwaters during their live report.\nWhile the camera was still rolling, a reporter alerted police with a rescue boat who successfully saved the man.",
+      "image_captions": [
+        "Do not pass along this false photo(Image: Twitter)"
+      ]
+    },
+    {
+      "url": "https://www.coventrytelegraph.net/news/uk-world-news/fake-flooded-houston-airport-picture-13545571",
+      "page_title": "This fake picture is being widely shared after Hurricane Harvey",
+      "title": "This fake picture is being widely shared after Hurricane Harvey",
+      "description": "Pictures and stories of the floods have spread on social media but one photo should not be believe",
+      "text": "This fake flooded Houston airport picture is being widely shared after Hurricane Harvey\nPictures and stories of the floods have spread on social media but one photo should not be believe\nOfficials fear the death toll from flooding in Texas sparked by Hurricane Harvey could soar once the water recedes from one of America's most sprawling metropolitan centres.\nCrews have been overwhelmed by thousands of rescue calls during one of the heaviest downpours in US history and have had little time to search for potential victims.\nMore than three days after the storm ravaged the Texas coastline as a Category 4 hurricane, authorities had confirmed only three deaths, including a woman killed when heavy rain dislodged a large tree on to her trailer home in the small town of Porter, but unconfirmed reports of others missing or presumed dead are growing.\nPictures and stories of the floods have spread on social media but one photo should not be believed.\nSeveral Twitter accounts, including meteorologists, posted a photo of airplanes on a tarmac almost submerged in floodwater.\nA breaking news account shared the image with the caption: \"BREAKING: Look at this amazing picture from Houston airport. The flooding planes.\"\nThey were quickly alerted to the fact the photo was a fake and warned not to share images like these without checking, The Mirror reported\nThe image is actually taken from the Climate Central website, which created a projection of what La Guardia airport in New York would look like at high tide with five feet of sea level rise.\nClimate Central claim this could be reality by the year 2100.\nBut it hasn't just been lifted from the site and shared with incorrect information relating to Houston.\nSomebody appears to have digitally manipulated the image further, lifting the water level up to obscure the planes.\nThe AirLive Twitter account replied to the image, saying: \"Be careful, it’s a fake from an older picture in La Guardia.\"\nREAD MORE: EE apologises to customers left without internet connectionOther pictures taken inside the airport show that the floor is dry, but passengers are complaining that it is 'freezing' inside the building.\nHouston has been devastated by flash floods after Hurricane Harvey brought torrential downpours of 30 inches of rain in three days.\nA TV crew spotted one man trapped inside an 18-wheeler truck in rising floodwaters during their live report.\nDownload our all-new mobile app to get the latest news, sport and what's on.\nOne quick sync and you can read our content on the move without being online.\nGet regular news alerts straight to your mobile and keep up with the latest traffic and travel or breaking events as they happen via our daily live blogs.\nIt's completely customisable to your own specific interests.\nDownload it today by clicking here for iPhone and here for Android",
+      "image_captions": [
+        "Do not pass along this false photo(Image: Twitter)",
+        "Coventry Telegraph Icon"
+      ]
+    },
+    {
+      "url": "https://www.snopes.com/tag/flood/",
+      "page_title": "Floods Articles | Snopes.com",
+      "title": "Rumor has it Hells Angels saved 23 kids from flooded school bus. Here's the truth",
+      "description": "",
+      "text": "Snopes\nNow available in the app store!\nOpen\nLog in to activate your ad-free access.\nIt looks like you might have a Snopes membership! Log in to enjoy your ad-free experience.\nLog In\nYou're browsing with fewer ads for the next 24 hours, thanks to our sponsor\n1440 Newsletter\n.\nLearn More\nSnopes Membership\nSearch\nMy Profile\nLogout\nSubmit a Rumor\nLatest\nTrending\nNews & Politics\nEntertainment\nFact Checks\nQuiz\nSections\nLatest\nTrending\nFact Checks\nNews\nCollections\nMore\nContact Us\nSubmit a Rumor\nArchives\nQuiz\nFactBot\nSubmit a Tip\nSnopes App\nNewsletters\nAbout Us\nCategories\nNews & Politics\nEntertainment\nScience & Technology\nLifestyle\nSnopes Membership\nLogin\nMy Profile\nLogout\nDonald Trump\nAI-generated Content\nPope Leo XIV\nJeffrey Epstein\nMelania Trump\nFloods\nRumor has it Hells Angels saved 23 kids from flooded school bus. Here's the truth\nWritten by:\nJordan Liles\nSept. 28, 2025\nAccording to the story, floodwaters trapped 23 kindergarteners inside the bus and their \"terrifi ...\nRead More\nOnly 2 remain missing in Kerr County floods after many confirmed safe\nWritten by:\nTaija PerryCook\nJuly 21, 2025\nFlooding on the Fourth of July weekend killed at least 136 people in central Texas.\nRead More\nBeware of AI-generated clips shared as footage of Texas floods\nWritten by:\nEmery Winter\nJuly 17, 2025\nPeople on social media are sharing dramatic videos of rushing flood waters as if they're footage ...\nRead More\nVideo shows intense July 2025 flooding in NYC subway station?\nWritten by:\nTaija PerryCook\nJuly 15, 2025\nAt least two people died in regional flash floods.\nRead More\n13 Texas flood claims Snopes has investigated\nWritten by:\nMegan Loe\nJuly 12, 2025\nRumors about National Weather Service cuts, cloud seeding, rescues and more spread online follow ...\nRead More\nDebunking claim Rainmaker cloud seeding caused Texas floods\nWritten by:\nMegan Loe\nJuly 12, 2025\nA weather modification technique called cloud seeding was not to blame for the deadly Texas floo ...\nRead More\nDid Jelly Roll donate $50 million or travel to Texas to help flood victims?\nWritten by:\nJordan Liles\nJuly 11, 2025\nUsers shared stories saying that the famous singer and rapper not only donated money to victims ...\nRead More\nChecking claim Bruce Springsteen paid for funerals of Texas flood victims\nWritten by:\nJoey Esposito\nJuly 10, 2025\nOnline claim that Springsteen \"stepped in\" to help Texas flood victims is just the latest in a d ...\nRead More\nTexas man Deshawn Miller arrested for boat rescues during flooding?\nWritten by:\nMegan Loe\nJuly 10, 2025\nPosts claimed the 42-year-old man rescued at least nine elderly residents trapped in a retiremen ...\nRead More\nUnraveling claims cloud seeding caused deadly Texas floods in 2025\nWritten by:\nMegan Loe\nJuly 8, 2025\nSome people online suggested cloud seeding conducted by the company Rainmaker Technology Corpora ...\nRead More\nReal Photo of Cars Piled Up After Floods in Spain?\nWritten by:\nNur Ibrahim\nOct. 31, 2024\nThe flash floods resulted in at least 95 deaths in late 2024.\nRead More\nDid President Trump Save Two Cats After Hurricane Harvey?\nWritten by:\nDan Evon\nSept. 5, 2017\nIs President Trump enough of a feline lover to go wading out into floodwaters to rescue a pair o ...\nRead More\nThis Is Not a Real Pic of an Orca in a Flooded City Street\nWritten by:\nDavid Emery\nSept. 28, 2022\nThis fabricated photo was making the rounds well before anyone claimed it was taken during Hurri ...\nRead More\nIs This a Photograph of a Florida Airport Flooded During Hurricane Michael?\nWritten by:\nDan MacGuill\nOct. 11, 2018\nSome social media users recycled an old, digitally-edited photograph that misled viewers in Octo ...\nRead More\nDid Floodwaters in Southeast Texas Test Positive for Several Diseases After Harvey?\nWritten by:\nDan MacGuill\nSept. 13, 2017\nThere is no evidence to support a viral Facebook warning about certain cities, but the public sh ...\nRead More\nOnly 60 of 1,566 Churches in Houston Opened to Help Hurricane Harvey Victims?\nWritten by:\nDan Evon\nBethania Palma\nAug. 31, 2017\nA meme claiming that only 4 percent of churches in Houston opened their doors to Hurricane Harve ...\nRead More\nJoel Osteen Sails Luxury Yacht Through Flooded Houston to Pass out Copies of His Book?\nWritten by:\nKim LaCapria\nAug. 29, 2017\nA Christian satire site's claim about the popular televangelist using a luxury yacht to promote ...\nRead More\nFake Photographs: Harvey Edition\nWritten by:\nDan Evon\nAug. 28, 2017\nAs usual, fake and misleading images were circulated on social media in the wake of a storm that ...\nRead More\nDid California Divert Dam Repair Funds to Programs for 'Illegals'?\nWritten by:\nBethania Palma\nFeb. 16, 2017\nMoney for the state's dam infrastructure does not come from the same fund as programs that would ...\nRead More\nDoes This Picture Show Daytona International Speedway Flooded?\nWritten by:\nDan Evon\nOct. 7, 2016\nIf you've seen one hurricane picture online, you've seen them all.\nRead More\nPrevious\nNext\nPage: 1",
+      "image_captions": [
+        "Screenshot of video containing AI-generated clips supposedly of Texas floods. Video text says: \"Texas - 13.07.2025. No sirens. No alerts. Just silence... then chaos.\"",
+        "A person in military-style clothing stands in the foreground, observing a flooded area where two heavily damaged SUVs are partially submerged and wedged against trees. One vehicle is tilted on its side and a small overturned boat is also caught among the trees. The scene shows the aftermath of a severe flood, with fast-moving water and debris scattered around.",
+        "Trees emerge from flood waters along the Guadalupe River in Kerrville, Texas.",
+        "A Black man is pictured wearing a Black T-shirt. Overlaid text reads: \"Texas Man Arrested After Rescuing Seniors With His Own Boat During Flood.\"",
+        "Two rescue workers in bright yellow and black gear with red helmets navigate floodwaters on an inflatable boat. They are surrounded by tree branches and debris, with a bridge supported by tall concrete columns in the background."
+      ]
+    },
+    {
+      "url": "https://www.snopes.com/category/photos/?pagenum=54",
+      "page_title": "Fauxtography Archives | Page 54 - Snopes.com",
+      "title": "Is This a Photograph of Nazi SS Troops Shooting a Child?",
+      "description": "Numerous photographs and videos circulate on the Internet. Some are real. Some are fake. Some are real, but have been given false backstories.",
+      "text": "Snopes\nNow available in the app store!\nOpen\nLog in to activate your ad-free access.\nIt looks like you might have a Snopes membership! Log in to enjoy your ad-free experience.\nLog In\nYou're browsing with fewer ads for the next 24 hours, thanks to our sponsor\n1440 Newsletter\n.\nLearn More\nSnopes Membership\nSearch\nMy Profile\nLogout\nSubmit a Rumor\nLatest\nTrending\nNews & Politics\nEntertainment\nFact Checks\nQuiz\nSections\nLatest\nTrending\nFact Checks\nNews\nCollections\nMore\nContact Us\nSubmit a Rumor\nArchives\nQuiz\nFactBot\nSubmit a Tip\nSnopes App\nNewsletters\nAbout Us\nCategories\nNews & Politics\nEntertainment\nScience & Technology\nLifestyle\nSnopes Membership\nLogin\nMy Profile\nLogout\nDonald Trump\nAI-generated Content\nPope Leo XIV\nJeffrey Epstein\nMelania Trump\nFauxtography\nNumerous photographs and videos circulate on the Internet. Some are real. Some are fake. Some are real, but have been given false backstories.\nIs This a Photograph of Nazi SS Troops Shooting a Child?\nWritten by:\nDan Evon\nOct. 11, 2018\nA chilling historical image was used to illustrate a political point, but it was taken from a ci ...\nRead More\nIs This a Photograph of a Florida Airport Flooded During Hurricane Michael?\nWritten by:\nDan MacGuill\nOct. 11, 2018\nSome social media users recycled an old, digitally-edited photograph that misled viewers in Octo ...\nRead More\nDoes This Video Show Muslims Being Herded Into a Mobile Gas Chamber?\nWritten by:\nDan Evon\nOct. 10, 2018\nA truly horrifying scene, but fortunately one that was staged for cameras and not captured in re ...\nRead More\nDid a Middle School Display the Words 'F*ck Kavanaugh' on Their School Sign?\nWritten by:\nDan Evon\nOct. 10, 2018\nA North Carolina middle school's sign was targeted by vandals, not \"socialist teachers\" trying t ...\nRead More\nIs This a Photograph of Tom Hanks Wearing an Anti-Trump T-Shirt?\nWritten by:\nDavid Mikkelson\nOct. 10, 2018\nBuy a fact check scorecard, because you can't always tell celebrities apart by the shirts they wear.\nRead More\nDid This Protest Sign Suggest the Mass Killing of White People in Order to End White Supremacy?\nWritten by:\nDan Evon\nOct. 9, 2018\nSocial media users express vehement distaste for fake protest signs -- without realizing they're ...\nRead More\nDoes This Grocery Store Have an Aisle for Lonely Single People?\nWritten by:\nDan Evon\nOct. 8, 2018\nAn image of a grocery store aisle sign is often shared with jokes about single and lonely people.\nRead More\nIs This a Photograph of a 'Rainbow Butterfly'?\nWritten by:\nDan Evon\nOct. 8, 2018\nIf this were a new brand of candy, we'd definitely give it a try.\nRead More\nIs This a 'Lava Moon' Melting into a Waterfall?\nWritten by:\nDan Evon\nOct. 5, 2018\nA photograph of the moon and a waterfall seemingly align just right to create a \"lava moon\" melt ...\nRead More\nIs This a Picture of Christine Blasey Ford in 1982?\nWritten by:\nDan Evon\nOct. 5, 2018\nA picture said to be one of a 15-year-old Christine Blasey Ford has been proffered as \"evidence\" ...\nRead More\nDid President Trump Board Air Force One with Paper Stuck to His Shoe?\nWritten by:\nDan MacGuill\nOct. 4, 2018\nA mildly embarrassing moment on the president's trip to Minnesota was greeted with amusement and ...\nRead More\nDid This Dog Sleep by His Master's Grave Every Night for 7 Years?\nWritten by:\nDan Evon\nOct. 4, 2018\nA story about a dog sleeping next to his owner's grave originated with a news story, but the vir ...\nRead More\nDoes This Photograph Show Barack Obama Holding a 'Michelle Obama 2020' Shirt?\nWritten by:\nDan Evon\nOct. 3, 2018\nWording displayed on t-shirts is one of the easiest and most common targets for digital image ma ...\nRead More\nIs This 'Back to the Future' Image Comparison with President Trump Real?\nWritten by:\nDan Evon\nOct. 3, 2018\nAn image comparison featuring Donald Trump and Biff Tannen from the movie \"Back to the Future\" h ...\nRead More\nWas the Arch of Baal Erected in Washington Before Christine Blasey Ford's Testimony?\nWritten by:\nDan Evon\nOct. 2, 2018\nThe Arch of Palmyra appeared on the National Mall, but its relationship to Senate Judiciary Comm ...\nRead More\nIs This a Photograph of Donald Trump's Mother?\nWritten by:\nDan Evon\nOct. 1, 2018\nAlthough some claim that Donald Trump wears a wig, an image of his mother Mary suggests that the ...\nRead More\nIs This a Photograph of Donald Trump with Tupac Shakur?\nWritten by:\nDan Evon\nOct. 1, 2018\nTwo legends, one photo -- but not necessarily a photograph that showed them in the same place at ...\nRead More\nIs This a Photograph of a Wasted Brett Kavanaugh?\nWritten by:\nAlex Kasprak\nSept. 28, 2018\nThe only similarity between the men in these two pictures is what appears to be a shared love of ...\nRead More\nIs This a Photograph of Christine Blasey Ford's Lawyer with Hillary Clinton?\nWritten by:\nDan Evon\nSept. 26, 2018\nMore purported evidence that all of Brett Kavanaugh's accusers can somehow be linked to every pr ...\nRead More\nDo These Photographs Show a Homeless Veteran Dying Under a Bush?\nWritten by:\nDan Evon\nSept. 26, 2018\n\"We want to discard the parts of society we don’t want, but like plastic, it’s never going to go ...\nRead More\nPrevious\nNext\nPage: 54",
+      "image_captions": [
+        "grocery-store-shopping-hanukkah-ham-865"
+      ]
+    }
+  ],
+  "evidence_count": 5,
+  "crawled_at": "2026-04-23T17:31:13.917740+00:00"
+}

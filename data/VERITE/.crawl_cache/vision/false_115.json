@@ -1,0 +1,97 @@
+{
+  "sample_id": "false_115",
+  "image_url": "https://i.ytimg.com/vi/lqnxP_2zyDc/maxresdefault.jpg",
+  "visual_entities": [
+    {
+      "description": "Golden Retriever",
+      "score": 1.21605
+    },
+    {
+      "description": "Nova Scotia Duck Tolling Retriever",
+      "score": 0.928191
+    },
+    {
+      "description": "Labrador Retriever",
+      "score": 0.90405154
+    },
+    {
+      "description": "West Highland White Terrier",
+      "score": 0.8633955
+    },
+    {
+      "description": "Duck",
+      "score": 0.7241
+    },
+    {
+      "description": "Mallard",
+      "score": 0.72104996
+    },
+    {
+      "description": "Dog lover",
+      "score": 0.7012
+    },
+    {
+      "description": "Hunting dog",
+      "score": 0.5916
+    },
+    {
+      "description": "Husky",
+      "score": 0.5841
+    },
+    {
+      "description": "Retriever",
+      "score": 0.5741
+    },
+    {
+      "description": "Dog Food",
+      "score": 0.563
+    },
+    {
+      "description": "Bark",
+      "score": 0.5171
+    }
+  ],
+  "best_guess_labels": [
+    "duck and dog"
+  ],
+  "similar_image_urls": [
+    "https://i.ytimg.com/vi/lqnxP_2zyDc/maxresdefault.jpg",
+    "https://images.squarespace-cdn.com/content/v1/52c62b4be4b0ca96fb3cfcba/1551800814407-GLDXLZ4RKE9FFW5HAHW7/result_15.jpg",
+    "https://i.redd.it/1is6trl1arjb1.jpg",
+    "https://i.redd.it/kpe3oxhvihz01.jpg",
+    "https://preview.redd.it/dog-dog-goose-v0-kpe3oxhvihz01.jpg?auto=webp&s=7b269e10a8b099ec51651dd26dc738f24aa6921e",
+    "https://preview.redd.it/donald-and-goofy-in-quadratum-v0-1is6trl1arjb1.jpg?width=1080&crop=smart&auto=webp&s=8bbc5b04b02b566e17a5d568fe4916a2fdedbcd8",
+    "https://preview.redd.it/dog-dog-goose-v0-kpe3oxhvihz01.jpg?width=1080&crop=smart&auto=webp&s=ca397950e32558b5c336cc347854818764717ddf",
+    "https://images.squarespace-cdn.com/content/v1/52c62b4be4b0ca96fb3cfcba/1551800814407-GLDXLZ4RKE9FFW5HAHW7/result_15.jpg?format=1000w",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10230682099168698",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10235401171142548"
+  ],
+  "evidence": [
+    {
+      "url": "https://reductress.com/post/adorable-this-female-dog-and-male-duck-are-best-friends-but-nothing-more-because-she-values-their-friendship/",
+      "page_title": "Aww! This Female Dog and Male Duck Are Best Friends but Nothing ...",
+      "title": "Aww! This Female Dog and Male Duck Are Best Friends but Nothing More Because She Values Their Friendship",
+      "description": "She’s a seven-year-old golden retriever; he’s an eight-year-old Peking duck. And as unlikely as it sounds, the two of them are the best of friends, but that’s it. A dog and a duck can just be friends, you know. Friendship is important too. Despite having several dogs and ducks over the years",
+      "text": "She’s a seven-year-old golden retriever; he’s an eight-year-old Peking duck. And as unlikely as it sounds, the two of them are the best of friends, but that’s it. A dog and a duck can just be friends, you know. Friendship is important too.\nDespite having several dogs and ducks over the years, owner Susan Blazek has never seen a pair like Bella and Waddles.\n“They’re inseparable. They walk with each other. They eat with each other. They sleep with each other,” said Blazek, adding, “I mean that they sleep in the same bed. But not like … you know. It’s not like that.”\nWaddles has been following Bella around since the day she arrived. “I remember looking out my kitchen window and there he was, chasing after her in the yard. Picking leaves out of her fur. Bringing her food,” Blazek said. “He probably came on a little strong, but I think she likes the attention.”\n“Before I adopted Bella, Waddles had tried hanging out with a bunch of the hens but they weren’t interested,” adds Blazek. “He followed around my mare, Duchess, for awhile, but again, she really didn’t want to complicate things since they live on the same farm and all.”\nLuckily for Waddles, Bella seems to enjoy his company well enough. “Sometimes Bella will bat him around a bit, but he doesn’t seem to mind much,” said Blazek. “I think he’s still surprised she lets him hang around at all.”\nWhen asked if she thought their friendship could ever turn into anything more, Blazek was hesitant to answer. “Listen, Bella loves Waddles,” said Blazek, “She just doesn’t need anything more than a good friend right now. He’s like a brother to her.”\n“And it definitely doesn’t have anything to do with his weird, corkscrew dick.”",
+      "image_captions": [
+        "Face Shape - Reductress"
+      ]
+    },
+    {
+      "url": "https://www.boredpanda.com/animal-friends-dog-barclay-pekin-duck-rudy/",
+      "page_title": "This Surprising Dog And Duck Friendship Shows That Animals Pick ...",
+      "title": "This Surprising Dog And Duck Friendship Shows That Animals Pick Friends Not By Their Looks",
+      "description": "Meet Barclay, the Golden Retriever and his best friend, a four-year-old Pekin duck Rudy, who both have a thing or two to teach you about friendship. Animals",
+      "text": "This Surprising Dog And Duck Friendship Shows That Animals Pick Friends Not By Their Looks\nMeet Barclay, the Golden Retriever and his best friend, a four-year-old Pekin duck Rudy, who both have a thing or two to teach you about friendship.\nAs great animal friendships go, this one had a rather bumpy start, when Barclay discovered just how tasty the stolen duck chow is. Rudy, being the alpha duck of his group, would chase Barclay away from it. But soon, the Retriever became such a frequent visitor in the coop that it was just a matter of time before these adorable animals clicked. As the owner, Pam Ishiguro explained to Daily Mail: “When they are together, somebody is always chasing or jumping on someone else, but when they are apart, they’re always calling for each other.”\nBy now, these unlikely friends have developed a healthy relationship, where everybody is getting something out of it. For example: “[Barclay] likes to drink their bath water and, if he happens to be stealthy enough, he loves to sniff a little duck butt.” And as for Rudy, he’s become a fan of dog climbing: “Now Rudy has to ‘claim’ Barclay every once in a while by climbing on top of him. Barclay doesn’t seem to mind terribly because that gives him the opportunity to sniff Rudy’s butt – win-win!”\nAlthough not even a cute animal family is without its quirks, this one seems to solve their disputes with cuddling and to play together: “Rudy and Barclay need each other – I think that’s why they have such a strong bond, they’re like brothers from another mother. No one else will play with them, so lucky for them, they found each other and formed this unusual friendship.” (h/t)\nMeet Rudy, the Pekin duck, and his best friend Barclay, the Golden Retriever\nImage credits: Pam Ishiguro, Bancroft Images\nAs great friendships go, this one had a rather bumpy start, when Barclay discovered just how tasty the stolen duck chow is\nImage credits: Pam Ishiguro, Bancroft Images\nRudy, being the alpha duck of his group, would chase Barclay away\nImage credits: Pam Ishiguro, Bancroft Images\nBut soon the Retriever became such a frequent visitor in the coop that it was just a matter of time before these guys clicked\nImage credits: Pam Ishiguro, Bancroft Images\nNow they have developed a healthy relationship, where everybody is getting something out of it\nImage credits: Pam Ishiguro, Bancroft Images\n“[Barclay] likes to drink their bath water and, if he happens to be stealthy enough, he loves to sniff a little duck butt”\nImage credits: Pam Ishiguro, Bancroft Images\n“Now Rudy has to ‘claim’ Barclay every once in a while by climbing on top of him. Barclay doesn’t seem to mind terribly because that gives him the opportunity to sniff Rudy’s butt – win-win!”\nImage credits: Pam Ishiguro, Bancroft Images\n“When they are together, somebody is always chasing or jumping on someone else, but when they are apart, they’re always calling for each other”\nImage credits: Pam Ishiguro, Bancroft Images\nAlthough no family is without its quirks, this one seems to solve their disputes with cuddling and playing together\nImage credits: Pam Ishiguro, Bancroft Images\n“Rudy and Barclay need each other – I think that’s why they have such a strong bond, they’re like the oddballs on the playground”\nImage credits: Pam Ishiguro, Bancroft Images\n“No one else will play with them, so lucky for them, they found each other”\n222Kviews\nShare on FacebookRudy is not only the Alpha Male, but also the Pack Leader as well. That's why Barclay falls into step around him. He knows who is in charge, and Rudy keeps reminding him.\nSounds like words you would use to describe \"rankings\" in wolf packs... not flocks of ducks...\nLoad More Replies...Rudy is not only the Alpha Male, but also the Pack Leader as well. That's why Barclay falls into step around him. He knows who is in charge, and Rudy keeps reminding him.\nSounds like words you would use to describe \"rankings\" in wolf packs... not flocks of ducks...\nLoad More Replies...",
+      "image_captions": [
+        "This Surprising Dog And Duck Friendship Shows That Animals Pick Friends Not By Their Looks",
+        "animal-friends-dog-barclay-pekin-duck-rudy-3",
+        "animal-friends-dog-barclay-pekin-duck-rudy-7",
+        "animal-friends-dog-barclay-pekin-duck-rudy-6",
+        "animal-friends-dog-barclay-pekin-duck-rudy-17"
+      ]
+    }
+  ],
+  "evidence_count": 2,
+  "crawled_at": "2026-04-23T17:22:34.561771+00:00"
+}

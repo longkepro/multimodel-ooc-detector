@@ -1,0 +1,53 @@
+{
+  "sample_id": "false_109",
+  "image_url": "https://flyingfarther.files.wordpress.com/2008/04/bible3.jpg",
+  "visual_entities": [
+    {
+      "description": "Old Testament",
+      "score": 0.66015005
+    },
+    {
+      "description": "La Guerra Santa y la Biblia",
+      "score": 0.6075
+    },
+    {
+      "description": "Urim and Thummim",
+      "score": 0.4329
+    },
+    {
+      "description": "Religious Text",
+      "score": 0.4304
+    },
+    {
+      "description": "Book of Joshua",
+      "score": 0.3501
+    }
+  ],
+  "best_guess_labels": [
+    "biblia ensangrentada"
+  ],
+  "similar_image_urls": [
+    "https://www.fastcheck.cl/wp-content/uploads/2022/06/bible3.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3211273212470528",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2345197662288283",
+    "https://miro.medium.com/v2/resize:fit:1358/format:webp/1*xZrzQwXtSccr52qik3zdBw@2x.jpeg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=5231118890445886",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1415179772275812"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.fastcheck.cl/tag/biblia/",
+      "page_title": "Biblia archivos — Fast Check",
+      "title": "Biblia archivos",
+      "description": "",
+      "text": "Circula en redes sociales una fotografía de Kristi Noem, Secretaria de Seguridad Nacional de Estados Unidos, afirmando que Jesús escribió la Biblia en inglés. Fast Check califica esta información como #Falso. No existen registros oficiales ni declaraciones públicas que vinculen a la funcionaria con dicha frase. Asimismo, desde una perspectiva histórica, la Biblia fue redactada siglos antes de la existencia del idioma inglés.\nEn redes sociales se viralizó un registro afirmando que Joe Biden prohibió la Biblia y que el Nuevo Testamento pasa a considerarse antisemita. Sumado a esto, se indica que los que no cumplan esto arriesgan 8 años de prisión. Esto es falso debido a que no se ha aprobado ninguna ley en Estados Unidos que prohíba estos textos o los catalogue de antisemitas.\nEl domingo 5 de junio hubo una lamentable masacre en una iglesia en Nigeria, en donde se contabilizó 50 víctimas fatales. Para graficar el hecho, se han compartido distintas imágenes pero, en realidad, las fotografías corresponden a otros eventos.",
+      "image_captions": [
+        "Lee más sobre el artículo Kristi Noem dijo que “Jesús escribió la biblia en ingles”: #Falso",
+        "Lee más sobre el artículo “El presidente Joe Biden prohíbe hablar de la Biblia”: #Falso",
+        "Lee más sobre el artículo (Imágenes) “Hombres desconocidos abren fuego adentro de una iglesia en Nigeria”: #Engañoso"
+      ]
+    }
+  ],
+  "evidence_count": 1,
+  "crawled_at": "2026-04-23T17:20:54.521112+00:00"
+}

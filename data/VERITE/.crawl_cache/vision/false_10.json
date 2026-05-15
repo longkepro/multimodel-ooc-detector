@@ -1,0 +1,140 @@
+{
+  "sample_id": "false_10",
+  "image_url": "https://safety4sea.com/wp-content/uploads/2016/01/Prestige.jpg",
+  "visual_entities": [
+    {
+      "description": "Prestige oil spill",
+      "score": 1.0587
+    },
+    {
+      "description": "Oil tanker",
+      "score": 0.7239
+    },
+    {
+      "description": "Tanker",
+      "score": 0.7075
+    },
+    {
+      "description": "Oil spill",
+      "score": 0.7038
+    },
+    {
+      "description": "Petroleum",
+      "score": 0.6296
+    },
+    {
+      "description": "Ship",
+      "score": 0.60975003
+    },
+    {
+      "description": "MV Prestige",
+      "score": 0.4898
+    },
+    {
+      "description": "Merchant ship",
+      "score": 0.4355
+    },
+    {
+      "description": "gCaptain",
+      "score": 0.4282
+    },
+    {
+      "description": "Pollution",
+      "score": 0.4152
+    },
+    {
+      "description": "2002",
+      "score": 0.3879
+    },
+    {
+      "description": "Container ship",
+      "score": 0.3394
+    },
+    {
+      "description": "",
+      "score": 0.3108
+    }
+  ],
+  "best_guess_labels": [
+    "prestige oil spill 2002"
+  ],
+  "similar_image_urls": [
+    "https://media.ouest-france.fr/v1/pictures/MjAxODEyMjJlYTJiMjVkMjA3ZTRmODExN2NkZGFmZmM4M2U3MDQ?width=1260&height=708&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=4440805f5e32a8352d80a2a9e4364914f711f8aa4785aae3eeef6d6e6513b989",
+    "https://i1.prth.gr/images/1168x656/2/jpg/files//2013/11/12/poloio.jpg",
+    "https://media.sudouest.fr/6558207/1200x-1/so-5fb6570066a4bdf832fbc41b-ph0.jpg",
+    "https://media.sudouest.fr/6558207/1200x600/so-5fb6570066a4bdf832fbc41b-ph0.jpg",
+    "https://media.sudouest.fr/6558207/1000x625/so-5fb6570066a4bdf832fbc41b-ph0.jpg",
+    "https://safety4sea.com/wp-content/uploads/2016/01/Prestige.jpg",
+    "https://img.rts.ch/articles/2012/image/mdqfcf-27877695.image?w=640&h=360",
+    "https://i0.wp.com/votaniki.gr/wp-content/uploads/2019/09/Prestige.jpg?fit=1200%2C718",
+    "https://i0.wp.com/votaniki.gr/wp-content/uploads/2019/09/Prestige.jpg?fit=1200%2C718&w=640",
+    "https://preview.redd.it/sinking-of-%F0%9D%99%88%F0%9D%99%91-%F0%9D%99%8B%F0%9D%99%8D%F0%9D%99%80%F0%9D%99%8E%F0%9D%99%8F%F0%9D%99%84%F0%9D%99%82%F0%9D%99%80-on-19-november-2002-about-210-v0-mlmo68m7ovof1.jpg?width=640&crop=smart&auto=webp&s=f19e000c54a3a42a96da52365d97955e71deef3b"
+  ],
+  "evidence": [
+    {
+      "url": "https://safety4sea.com/cm-learn-from-the-past-prestige-sinking-one-of-the-worst-oil-spills-in-europe/",
+      "page_title": "Learn from the past: Prestige sinking, one of the worst oil spills in ...",
+      "title": "Learn from the past: Prestige sinking, one of the worst oil spills in Europe",
+      "description": "In 2002, the Greek-owned and Bahamas-operated tanker ‘Prestige’ encountered heavy weather during a routine voyage and eventually sank off the coast of Spain, causing the worst environmental disaster in the country and one of the greatest oil spills in Europe.",
+      "text": "In 2002, the Greek-owned and Bahamas-operated tanker ‘Prestige’ encountered heavy weather during a routine voyage and eventually sank off the coast of Spain, causing the worst environmental disaster in the country and one of the greatest oil spills in Europe.\nThe incident\nOn 13 November 2002, the Prestige was en route from Ventspils, Latvia to Gibraltar, carrying 77,000 metric tons of two different grades of heavy fuel oil, when it encountered inclement weather off Costa de la Muerte, in Galicia, northwestern Spain, and started to take on water from high waves, which caused a 50-foot hole on the starboard side. The Filipino crew was evacuated with rescue helicopters and the ship drifted within four miles of the Spanish coast already leaking oil.\nAs French, Spanish and Portuguese governments constantly refused to allow the ship to dock, in order to avoid pollution of their coastlines, and after several days of sailing adrift, the vessel split in half on 19 November in Portuguese waters. It eventually sank only about 250 kilometers from the Spanish coast, releasing over 17 million US gallons (76,000 m3) of oil into the water. As the oil leak continued after the sinking, 20 million US gallons (76,000 m3) of oil were spilled in total.\nEnvironmental consequences\nAlthough there was no loss of life, the significance of the Prestige casualty is attributed to the magnitude of the resulted pollution of the Spanish and French coasts. The Prestige oil spill remains Spain’s and Portugal’s worst ecological disaster until today, causing significant damage to wildlife, environment, as well as the local fishing industry.\nPhotographs of the vessel taken on the 14th of November, after the ship had been taken in tow, clearly show oil escaping from the hull in the region of the starboard manifold.\nAfter the sinking, the wreck continued to leak approximately 125 tons of oil a day, polluting the seabed and contaminating the coastline, especially along the territory of Galicia.\nThe environmental damage was most severe on the coast of Galicia. The affected area is an important ecological region, supporting coral reefs and many species of sharks and birds, and the fishing industry. Pictures of fishermen, using their own hands to pick up fuel oil, made their way around the world.\nProbable cause\nThe official report by the Bahamas Maritime Authority stated that the probable cause of the initial breach in the hull was a large wave revealing a weakness in 3 Starboard wing tank. This weakness was probably a combination of two or more of the following:\n- ship-to-ship transfer damage sustained at St. Petersburg where the ship underwent storage operations;\n- fatigue;\n- stresses due to large quantities of new metal being attached to old steelwork; and/or\n- corrosion\nInvestigation has concluded that there was a leakage into 3 Starboard wing tank and 2 Starboard after wing tank, which were both originally empty, causing the starboard list. There is additional evidence that the side shell plating above the waterline in way of 3 Starboard wing tank was deformed and that the deck was set down, this being consistent with the observed damage to the starboard side hose rail and the drip tray.\nLiabilities\nThe immediate legal consequence of the disaster was the arrest of the captain, who was convicted of recklessness resulting in catastrophic environmental damage and was sentenced to two years in prison by Spain’s Supreme Court in January 2016.\nThe decision was condemned by the industry, while the precedent Galician Provincial Court judgment had found the Captain innocent as he had fulfilled his professional duty in attempting to save his ship.\nConfronted with a refusal by the Spanish authorities to give the damaged ship a place of refuge (where an oil spill could have been contained), not only the Master but also the Chief Engineer and the Chief Officer remained on board the vessel, whilst the risk of capsize was dramatically increasing,\n…BMA underlines in the official report.\nThey had spent the time trying their best to help save their ship and cooperating with the shore authorities, despite believing that many of the decisions being taken by the shore authorities were wrong…Looking at the charge of causing pollution, it is difficult to blame the Master for the initial damage to his ship.\nIn November 2017, the Spanish court ordered the regional government of Galicia, off whose coast the Prestige tanker sank, to be compensated 1.8 million euros and neighbouring France, which was affected as well, 61 million euros. Also, the court said the ship’s insurers to pay one billion dollars which is the maximum limit fixed by the company in its contract for the ship.\nLessons learned\nBMA report highlights that, during the Annual Survey of the ship six months before the incident, an internal survey should have been carried out because it was classed as a ballast tank and was adjacent to cargo tanks fitted with a means of heating. This was not done because the surveyor was not aware that a means of heating was fitted in the adjacent tanks. However, the tank in which the incident originated, 3 Starboard wing tank, was classed as a cargo tank for survey purposes and therefore was not due for inspection.\nGiven the above conclusions, there is a need to consider carefully current repair and survey practices to try to identify ways in which presently hidden sources of weakness can be revealed.\n….BMA noted.\nAnother special area of focus should be given on the aspect of response. Experts on the aftermath of the accident noted that the overall reaction from the Spanish government was too slow and that a biggest focus was given on guilt rather than actual response. During the first days, the governments of both Spain and Portugal argued over who was responsible for cleaning up the spill, before the actual sinking. Consequently, more time was spent figuring out how not to get involved in the crisis than in trying to find a faster solution.\nIn crisis situations, the hard part is facing up to them. The problem doesn’t lie in the technical part of communicating but in the psychology of facing up to a crisis when you are responsible,\n…emphasized at that time Antonio Cobelo, vice-rector of academic planning at the Universidad Antonio de Nebrija.\nNotable is that when the Master asked to be taken to a place of refuge and was refused by Spanish authorities to do so, ‘the ship was close to the coast, there was only a limited breach in any of the cargo tanks, the leakage from the Butterworth openings had ceased, the ship was only listing about 5o and was under tow, and the main engine would have been available for manoeuvring’.\nThe provision of a place of refuge could well have resulted in a much more favourable outcome and prevented the subsequent large scale pollution of a long stretch of coastline.\nIronically January 2016 saw the launch of Europe’s new guidelines on places of refuge (PoR), developed jointly with the shipping industry and with the specific aim of resolving the issues surrounding the granting of a PoR. The proper implementation of these guidelines is intended to avoid repeating mistakes made during the Prestige and MSC Flaminia incidents.",
+      "image_captions": [
+        "artificial intelligence and mental health",
+        "The Strait of Hormuz on a digital map. Strategic location of Iran. Geopolitical oil shipping route. / Image Credit: Shutterstock",
+        "Learn from the past: Prestige sinking, one of the worst oil spills in Europe",
+        "Scandinavian Star ferry",
+        "By Bundesarchiv, DVM 10 Bild-23-61-17 / CC-BY-SA 3.0, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=5371980"
+      ]
+    },
+    {
+      "url": "https://gcaptain.com/prestige-trial-wraps-up-in-spain/",
+      "page_title": "Prestige Oil Spill Trial Wraps Up in Spain - gCaptain",
+      "title": "Prestige Oil Spill Trial Wraps Up in Spain",
+      "description": "Hearings in the trial over the 2002 Prestige oil spill, one of Europe's worst oil spills, wrapped up in Spain this week after eight months of testimony.",
+      "text": "Insurer Ordered to Pay $1 Billion Over 2002 Prestige Oil Spill\nA Spanish court has ordered a British P&I insurer to pay a whopping $1 billion fine over the 2002 Prestige oil spill. The single-hulled oil tanker Prestige broke in half...\nHearings in the trial over the 2002 Prestige oil spill, one of Europe’s worst oil spills, wrapped up in Spain this week after eight months of testimony.\nThe Prestige was a single-hulled Liberian-owned, Bahamas-flagged oil tanker, which sank off the coast of Galicia, Spain on November 19, 2002 after suffering from catastrophic hull failure. The resulting oil spill, estimated at some 20 million gallons of heavy fuel oil, wreaked havoc along coastlines of Spain, France, and Portugal. The spill was the largest environmental disaster in the history of both Spain and Portugal.\nProsecutors are seeking a 12 year prison sentence for the Greek captain, Apostolos Mangouras. Two of the Prestige’s other officers and the former director general of the Spanish merchant marine are also on trial. The prosecution has also demanded more than $5 billion in damages overall, the AFP reports.\nMangouras blames the disaster on Spanish authorities who ordered the ship out to sea with a cracked hull.\nA verdict in the trial is not due for at least two months.\nSign up for gCaptain’s newsletter and never miss an update\nSubscribe to gCaptain Daily and stay informed with the latest global maritime and offshore news\nEssential news coupled with the finest maritime content sourced from across the globe.\nSign Up",
+      "image_captions": [
+        "Prestige Oil Spill Trial Wraps Up in Spain",
+        "Prestige-Oil-Spill-300x200",
+        "Spain to Appeal Prestige Oil Spill Ruling"
+      ]
+    },
+    {
+      "url": "https://safety4sea.com/prestige-insurer-must-pay-spanish-claim-over-oil-spill-eu-court-decides/",
+      "page_title": "\"Prestige\" insurer must pay Spanish claim over oil spill, EU Court ...",
+      "title": "\"Prestige\" insurer must pay Spanish claim over oil spill, EU Court decides",
+      "description": "Spain won support from Europe's top court in its mutlimillion euros damage claim against The London Steam-Ship Owners Mutual Insurance Association for a massive oil spill on its northwestern coast two decades ago.",
+      "text": "Spain won support from Europe’s top court in its mutlimillion euros damage claim against The London Steam-Ship Owners Mutual Insurance Association for a massive oil spill on its northwestern coast two decades ago.\nThe 2002 sinking of the Greek oil tanker Prestige, which was sailing to Gibraltar, released an estimated 63,000 tones of foul-smelling black fuel along the Galicia coast and forced the closure of Spain’s richest fishing grounds.\nIt also led to a lengthy dispute between The London Steam-Ship Owners’ Mutual Insurance Association Limited, the insurer of the vessel, and Spain. The latter took its case to a Spanish court which subsequently ordered the insurer to pay compensation, capped at $1 billon, for the damage.\nThe London Steam-Ship Owners’ Mutual Insurance Association Limited in turn initiated arbitration proceedings in London, which resulted in a ruling that Spain could only seek damages claims through arbitration in London under English law.\nSpain then asked a UK court to enforce the Spanish ruling and got its backing in 2019. The insurer appealed, prompting the UK High Court to seek guidance from the Luxembourg-based Court of Justice of the European Union (CJEU). The CJEU took Madrid’s side.\nAccording to Reuters, the judges said that:\nThe arbitration proceedings initiated in the United Kingdom cannot block the recognition of the Spanish judgment ordering the insurer to pay compensation for the damage caused by the oil spill",
+      "image_captions": [
+        "artificial intelligence AI",
+        "&#8220;Prestige&#8221; insurer must pay Spanish claim over oil spill, EU Court decides",
+        "Above image is used for illustration purposes only / Credit: Nippon Foundation",
+        "Performance appraisals"
+      ]
+    },
+    {
+      "url": "https://gcaptain.com/tag/prestige-oil-spill/",
+      "page_title": "prestige oil spill Archives - gCaptain",
+      "title": "prestige oil spill Archives",
+      "description": "Prestige Oil Spill: Causes, Consequences & Cleanup | Dive into details of Prestige oil spill disaster. Explore articles, analysis & updates on the causes.",
+      "text": "Aging Shadow Fleet Carrying Russian Oil Poses Disaster Risk\nBy Asad Zulfiqar Mar 26, 2023(Bloomberg) –The oil tanker Turba normally should have been melted down by now. The 26-year-old vessel hasn’t\nBy Asad Zulfiqar Mar 26, 2023(Bloomberg) –The oil tanker Turba normally should have been melted down by now. The 26-year-old vessel hasn’t\nBy Foo Yun Chee BRUSSELS, June 20 (Reuters) – Spain on Monday won backing from Europe’s top court in its mutli-million euros damage claim\nSpain’s Supreme Court upheld Thursday a lower court’s ruling that Spain is to be paid 1.6 billion euros in damages over the 2002 Prestige oil\nA Spanish court has ordered a British P&I insurer to pay a whopping $1 billion fine over the 2002 Prestige oil spill. The single-hulled oil tanker\nBy Captain George Livingstone One of the great ‘maritime’ authors of the 20th century is Jan de Hartog, born in Holland, his seagoing career spanned the\nThe International Transport Workers’ Federation (ITF) has issued a strongly worded statement against Spain’s decision to sentence the former\nMADRID, Jan 26 (Reuters) – Spain’s Supreme Court sentenced the captain of the Prestige oil tanker, which sank off Spain’s northwestern coast\nThe Spanish government on Monday announced its plans to appeal part of a recent court ruling that cleared all three defendants, including the Captain and Chief\nThe insurer of the Prestige oil tanker says it is \"extremely surprised and disappointed\" that the charge against the Captain for disobeying government\nA Spanish court on Wednesday found the crew and the government not guilty of criminal responsibility in the 2002 sinking of the Prestige oil tanker, Spain's\nHearings in the trial over the 2002 Prestige oil spill, one of Europe's worst oil spills, wrapped up in Spain this week after eight months of\nEssential news coupled with the finest maritime content sourced from across the globe.\nSign Up",
+      "image_captions": [
+        "Aging Shadow Fleet Carrying Russian Oil Poses Disaster Risk",
+        "Spain’s Supreme Court Upholds 1.6 Billion Euro Prestige Oil Spill Ruling",
+        "hurricane-ships=aground-bridge",
+        "Spain to Appeal Prestige Oil Spill Ruling",
+        "prestige tanker sinks"
+      ]
+    },
+    {
+      "url": "https://english.elpais.com/elpais/2013/11/13/inenglish/1384345343_305910.html",
+      "page_title": "Prestige judge finds “no criminal responsibility” for huge oil disaster",
+      "title": "Prestige judge finds “no criminal responsibility” for huge oil disaster",
+      "description": "78-year-old captain, Apostolos Mangouras, handed light sentence Magistrate absolves Aznar government of blame for Spain’s worst-ever spill",
+      "text": "Prestige judge finds “no criminal responsibility” for huge oil disaster\n78-year-old captain, Apostolos Mangouras, handed light sentence Magistrate absolves Aznar government of blame for Spain’s worst-ever spill\nEleven years after Spain’s biggest environmental catastrophe, a judge in A Coruña on Wednesday acquitted the captain of the Prestige oil tanker, the former director of the Merchant Marine during the Aznar administration and the ship’s chief engineer, all of whom had been charged for their involvement in the mammoth oil spill.\nReading from a lengthy sentence, presiding Judge Juan Luis Pía also said that the then government of Popular Party (PP) Prime Minister José María Aznar should not be held responsible for the November 13, 2002 incident, in which some 63,000 tons of crude were spilled into the Atlantic, polluting Spain’s northwestern coastline, parts of the Portuguese coast and reaching as far as France.\n“No one knows exactly what caused the disaster,” Pía said on Wednesday, which marked the 11th anniversary of the disaster. “There is no criminal responsibility.”\nApostolos Mangouras, the Greek captain of the tanker, José Luis López Sors, the former Merchant Marine chief, and Nikolaos Argyropoulos, the chief engineer, were the only defendants facing charges of committing environmental crimes. A third defendant, Ireneo Maloto, the first officer on the tanker, never showed up for trial and his whereabouts are unknown.\nNevertheless, Mangouras, now 78, was given a nine-month sentence for “serious disobedience” for initially refusing to allow the tanker to be towed for a three-hour period. Because of his age and the short nature of his sentence, he is not expected to serve any time.\nIn the sentence, the A Coruña provincial court judge recognized the serious economic consequences from the breaking up of the oil tanker. Besides the crude that was spilled, toxic waste also escaped, with a total of 2,900 kilometers of shoreline and 1,177 beaches affected by the resulting pollution.\n“From the time the tanker broke and sunk, 115 hours had passed,” he said. “The only thing that could be concluded was that there were structural problems [in the 26-year-old ship].”\nThe ruling also backed the decision taken at the time by the Aznar government to try to move the tanker far away from shore before it broke in half. Nevertheless, the court formally admonished Mangouras, for not “formally advising” the Merchant Marine of what had occurred. The court also stated that the nine-month sentence for disobedience stemmed from the captain of the Prestige refusing for three hours to allow the ship to be towed away from Galicia’s shores, “an unacceptable delay.”\nMangouras, Argyropoulos and López Sors were in the dock for nine months. The trial ended in July after an eight-year investigation of the case. Two additional years also passed before the case went to trial, making it one of the longest litigations in modern Spanish history.\nThe judge placed responsibility on the American Bureau of Shipping (ABS), the powerful US classification society that authorized the aging tanker to transport the petroleum. The Spanish government had tried to sue ABS in the United States, but that case was dismissed. Had Mangouras been sentenced to 12 years, as prosecutors had requested, the Spanish government had planned to seek 4.328 billion euros in damages from the British insurer of the vessel, The London Steam-Ship Owners Mutual Insurance, which is the only company involved in the convoluted line of ownership of the Prestige to be successfully implicated in the case. However, the court ruled that no civil liability for the disaster exists.\nThe prestige finally succumbed to the sea some 130 nautical miles from the coast of Galicia. It was the third disaster of its kind to strike Spain’s northern coastline after the tankers Mar Egeo went down in 1992 and the Urquiola in 1976. In the inquiries into those spills, the Spanish government was held responsible.",
+      "image_captions": [
+        "The 'Prestige' sinking in 2002."
+      ]
+    }
+  ],
+  "evidence_count": 5,
+  "crawled_at": "2026-04-23T16:47:44.449162+00:00"
+}

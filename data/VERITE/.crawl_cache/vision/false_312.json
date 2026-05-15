@@ -1,0 +1,81 @@
+{
+  "sample_id": "false_312",
+  "image_url": "https://people.com/thmb/ZYPs46fJWXrwtUIQFIQSHBvwlZk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(614x219:616x221)/south-africa-deadly-wave-122022-f66ae233e1f543e0aa7986a1545429e9.jpg",
+  "visual_entities": [
+    {
+      "description": "Thompson Bay Rock Pool",
+      "score": 1.2734041
+    },
+    {
+      "description": "Durban Beach",
+      "score": 0.9520644
+    },
+    {
+      "description": "Bay of Plenty Beach Durban Promenade",
+      "score": 0.82442147
+    },
+    {
+      "description": "Beach",
+      "score": 0.7044
+    },
+    {
+      "description": "Durban Beach Front",
+      "score": 0.6847597
+    },
+    {
+      "description": "Sea",
+      "score": 0.5875
+    },
+    {
+      "description": "Coast",
+      "score": 0.5154
+    },
+    {
+      "description": "New Beach",
+      "score": 0.46172392
+    }
+  ],
+  "best_guess_labels": [
+    "man drowns in durban beach"
+  ],
+  "similar_image_urls": [
+    "https://nypost.com/wp-content/uploads/sites/2/2022/12/wave-221219-18-1.jpg",
+    "https://people.com/thmb/ZYPs46fJWXrwtUIQFIQSHBvwlZk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(614x219:616x221)/south-africa-deadly-wave-122022-f66ae233e1f543e0aa7986a1545429e9.jpg",
+    "https://static.independent.co.uk/2022/12/18/16/South_Africa_Durban_Beach_Deaths_64272.jpg?width=1200&height=800&crop=1200:800",
+    "https://cdn.editorji.com/1671426332382/639ff11c5d38e_int-massive-wave-hits-durban-beach-in-south-africa-3-dead-bhavya_img.0000000.jpg",
+    "https://nypost.com/wp-content/uploads/sites/2/2022/12/wave-221219-18-1.jpg?quality=75&strip=all&w=1024",
+    "https://dims.apnews.com/dims4/default/fd55844/2147483647/strip/true/crop/3000x1999+0+84/resize/980x653!/quality/90/?url=https%3A%2F%2Fstorage.googleapis.com%2Fafs-prod%2Fmedia%2Fcaa7e936758547db95860a177f82fbeb%2F3000.jpeg",
+    "https://cdn.wionews.com/sites/default/files/2022/12/20/319449-durban.png",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=556390446501675",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=536088588451885",
+    "https://dims.apnews.com/dims4/default/1cdb005/2147483647/strip/true/crop/3000x2167+0+0/resize/295x213!/quality/90/?url=https%3A%2F%2Fstorage.googleapis.com%2Fafs-prod%2Fmedia%2Fcaa7e936758547db95860a177f82fbeb%2F3000.jpeg"
+  ],
+  "evidence": [
+    {
+      "url": "https://apnews.com/article/south-africa-durban-e91ebd7540f96d424686ca73b7170c9b",
+      "page_title": "Massive wave hits Durban beach in South Africa; 3 dead - AP News",
+      "title": "Massive wave hits Durban beach in South Africa; 3 dead",
+      "description": "South Africa’s coastal city of Durban has closed its North Beach after three people died when they were caught in a freak wave.",
+      "text": "Massive wave hits Durban beach in South Africa; 3 dead\nJOHANNESBURG (AP) — South Africa’s coastal city of Durban has closed its North Beach after three people died when they were hit by a large wave, emergency officials said on Sunday.\nThe Emergency Medical Services “responded to reports of a freak wave that swept a group of beachgoers against the pier causing multiple injuries,” EMS spokesman Njabulo Dlungele said. “Unfortunately three people, including a teenager, were declared deceased at the scene.”\nAt least 17 people were also taken to various medical facilities for treatment after being injured by the wave, Nlungele said.\nMore than 35 lifeguards participated in rescue efforts, attending to more than 100 people affected by the massive wave, according to the municipality. An investigation has been launched into the incident, the municipality said.\nDurban is usually a hive of activity around the holiday season, attracting local and international tourists to its beaches.\nThis year’s festive season is expected to attract many travelers eager to return to the beaches after the years when COVID-19 lockdowns and precautions reduced tourism in Durban.\nThe port city on South Africa’s eastern Indian Ocean coast has been gradually reopening its beaches after some were closed due to high levels of E. coli following devastating floods in parts of the KwaZulu-Natal province earlier this year.",
+      "image_captions": [
+        "Paramedics carry a person on a stretcher on the Bay of Plenty Beach in Durban, South Africa, Saturday, Dec. 17, 2022. South Africa’s coastal city of Durban has closed its North Beach after three people died when they were caught in a freak wave. Emergency services spokesman Njabulo Dlungele said on Sunday that a freak wave swept a group of beachgoers against a pier, causing the deaths. (AP Photo)"
+      ]
+    },
+    {
+      "url": "https://www.independent.co.uk/news/world/africa/south-africa-freak-wave-durban-b2247926.html",
+      "page_title": "Three dead after scores of beachgoers hit by 'freak wave' in South ...",
+      "title": "South Africa: Massive ‘freak wave’ at Durban beach catches at least 100 beachgoers, leaving 3 dead",
+      "description": "",
+      "text": "Three dead after scores of beachgoers hit by ‘freak wave’ in South Africa\nMany of those injured were swept against a pier\n- Bookmark\n- CommentsGo to comments\nA large wave has killed three people and injured over a dozen in South Africa’s coastal Durban city, sparking an abrupt closure of the beach and an investigation into the cause of what authorities called a “freak” accident.\nThe incident took place on Saturday at around 5pm at Durban’s North Beach when a massive wave washed the shore, emergency services officials told local media outlets.\nThe beach was busy with people relaxing when the “freak wave” hit, leaving many injured.\nMedical services say they “responded to reports of a freak wave that swept a group of beachgoers against the pier causing multiple injuries,” EMS spokesman Njabulo Dlungele said.\n“Unfortunately three people, including a teenager, were declared deceased at the scene.”\nAt least 17 people were also taken to various medical facilities for treatment after being injured by the wave, Mr Nlungele said.\nMore than 35 lifeguards rescued over 100 people caught in the massive wave, according to local authorities.\nAn investigation has been launched into the incident, the municipality said.\nIt was not immediately clear what led to the wave but the incident has been described as “uncommon” by authorities. Something similar was reported to have occurred after the devastating floods in parts of the KwaZulu-Natal province earlier this year.\nThe beaches in Durban are seeing an influx of visitors during the busy festive season and as beaches reopen on South Africa’s eastern Indian Ocean coast after being shut due to flooding.\nDurban has also relaxed rules for visitors this year after two years of Covid-19 pandemic-related restrictions, as local businesses look forward to welcoming more visitors.\nA number of local and international visitors were present at the spot when the massive wave arrived. It is not yet clear how many, if any, of the injured are international tourists.\nAdditional reporting by agencies\nJoin our commenting forum\nJoin thought-provoking conversations, follow other Independent readers and see their replies\nComments",
+      "image_captions": [
+        "Paramedics carry a person on a stretcher on the Bay of Plenty Beach in Durban, South Africa(AP)",
+        "Paramedics carry a person on a stretcher on the Bay of Plenty Beach in Durban, South Africa",
+        "Search for Johannesburg worshippers swept by flood; 14 dead",
+        "Nigeria floods 80 times more likely with climate change",
+        "COP27: African political leaders call for action to stop young people’s “futures being stolen from them”"
+      ]
+    }
+  ],
+  "evidence_count": 2,
+  "crawled_at": "2026-04-23T18:59:28.791992+00:00"
+}

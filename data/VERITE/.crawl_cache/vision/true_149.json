@@ -1,0 +1,109 @@
+{
+  "sample_id": "true_149",
+  "image_url": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2018/08/handcuffs2.jpg",
+  "visual_entities": [
+    {
+      "description": "",
+      "score": 0.7284
+    },
+    {
+      "description": "Ice",
+      "score": 0.7284
+    },
+    {
+      "description": "United States Immigration and Customs Enforcement",
+      "score": 0.7241
+    },
+    {
+      "description": "Immigration",
+      "score": 0.6404
+    },
+    {
+      "description": "Law enforcement",
+      "score": 0.5799
+    },
+    {
+      "description": "Detention",
+      "score": 0.4323
+    },
+    {
+      "description": "",
+      "score": 0.4287
+    },
+    {
+      "description": "Law",
+      "score": 0.4287
+    },
+    {
+      "description": "Crime",
+      "score": 0.3536
+    },
+    {
+      "description": "Warrant",
+      "score": 0.3489
+    }
+  ],
+  "best_guess_labels": [
+    "ice arresting kids"
+  ],
+  "similar_image_urls": [
+    "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2018/08/handcuffs2.jpg",
+    "https://mediaproxy.snopes.com/width/600/https://media.snopes.com/2018/08/handcuffs2.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=539453401",
+    "https://marilynyork.net/wp-content/uploads/2020/08/pic02505.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1551808651629213",
+    "https://www.tiktok.com/api/img/?userId=7530295096748000262&location=2&aid=1988&userAvatarTypeEnum=4"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.cbsnews.com/minnesota/video/ice-arrests-four-children-in-same-minnesota-school-district/",
+      "page_title": "ICE arrests four children in same Minnesota school district - CBS News",
+      "title": "ICE arrests four children in same Minnesota school district",
+      "description": "School district officials in Columbia Heights, Minnesota, say their sense of security is shaken and their hearts shattered after four students from the district have recently been taken by ICE.",
+      "text": "ICE arrests four children in same Minnesota school district\nSchool district officials in Columbia Heights, Minnesota, say their sense of security is shaken and their hearts shattered after four students from the district have recently been taken by ICE.",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.cbsnews.com/sanfrancisco/video/at-least-15-people-including-4-children-arrested-by-ice-in-san-francisco/",
+      "page_title": "At least 15 people, including 4 children, arrested by ICE in San ...",
+      "title": "At least 15 people, including 4 children, arrested by ICE in San Francisco",
+      "description": "At least 15 people, including a 3-year-old child, was arrested by ICE in San Francisco.",
+      "text": "Latest\nU.S.\nIran War\nCrypto Fraud\nWorld\nPolitics\nEntertainment\nHealthWatch\nMoneyWatch\nCrime\nSpace\nSports\nBrand Studio\nThe Free Press\nLocal News\nAtlanta\nBaltimore\nBay Area\nBoston\nChicago\nColorado\nDetroit\nLos Angeles\nMiami\nMinnesota\nNew York\nPhiladelphia\nPittsburgh\nSacramento\nTexas\nLive\nCBS News 24/7\nBaltimore\nBay Area\nBoston\nChicago\nColorado\nDetroit\nLos Angeles\nMiami\nMinnesota\nNew York\nPhiladelphia\nPittsburgh\nSacramento\nTexas\n48 Hours\n60 Minutes\nShows\n48 Hours\n60 Minutes\nCBS Evening News\nCBS Mornings\nCBS Morning News\nCBS Reports\nCBS Saturday Morning\nThe Daily Report\nThe Dish\nFace the Nation\nSunday Morning\nThe Takeout\nThings That Matter\nThe Uplift\nCBS News Investigates\nCBS News Confirmed\nPodcasts\nNewsletters\nDownload Our App\nCBS News Team\nExecutive Team\nBrand Studio\nParamount+\nJoin Our Talent Community\nRSS Feeds\nBay Area\n|\nNews\nWeather\nSports\nVideo\nBay Area Top News\nSF/Peninsula News\nEast Bay News\nSouth Bay News\nNorth Bay News\nBay Area Crime\nTech\nHealth\nPolitics\nLGBTQ\nEntertainment\nKPIX Special Reports\nFirst Alert Weather\nRadars & Maps\nAll Sports\nCBS Sports HQ\nSan Francisco 49ers\nSan Francisco Giants\nGolden State Warriors\nGolden State Valkyries\nSan Jose Sharks\nCal\nStanford\nCollege Sports\nStation Info\nKPIX\nWhat's On KPIX\nContests & Promotions\nAdvertise With Us\nContact Us\nDownload the App\nGalleries\nMemorials\nWatch CBS News\nAt least 15 people, including 4 children, arrested by ICE in San Francisco\nAt least 15 people, including a 3-year-old child, was arrested by ICE in San Francisco.\nView CBS News In\nCBS News App\nOpen\nChrome\nSafari\nContinue",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.snopes.com/fact-check/ice-arresting-children-photo/",
+      "page_title": "Does This Photograph Show ICE Arresting Small Children?",
+      "title": "Does This Photograph Show ICE Arresting Small Children?",
+      "description": "Although a photograph of handcuffed children is shared with the claim the youngsters were arrested by ICE, the image is unrelated to immigration.",
+      "text": "An image circulated on Facebook shows small children in handcuffs being led into a law enforcement vehicle, along with claims that the pictured children were immigrants who had been taken by U.S. Immigration and Customs Enforcement (ICE) as part of the Trump administration's controversial \"zero tolerance\" policy. Under that policy, migrant parents caught crossing the U.S.-Mexico border between ports of entry were criminally charged and their children taken from them:\nAlthough hundreds of immigrant children, including some infants, were taken from their parents, the image seen here is unrelated to that activity. The photograph has been online since 2009 and is associated with a Tea Party protest in West Palm Beach, Florida, during which parents brought their kids for a mock arrest to demonstrate how they are being saddled with debt from government spending.\nThe alternate weekly newspaper Broward Palm Beach New Times featured the image in a 14 April 2014 story about the demonstration under the caption \"Hopefully the cops won't mistake the protesters for real criminals.\" The New Times reported of the event that:\nIf you have children, and you'd like to exploit those children for your political gains, and if you have the money to rent those children prison uniforms, you should totally bring them to downtown West Palm Beach on Wednesday. That's when people protesting government spending will bring 20-30 children dressed in prison uniforms and put them in fake debtor jails. It's meant to show how children will have to pay for wasteful government spending of today. And it's also a great way to ensure continued work for psychologists of tomorrow.\nThe event is part of a nationwide Tea Party demonstration put on by Libertarians, Republicans, and others who think economic stimulus bills are a good occasion to put our children into fake debtor jails.\nSid Dinerstein, chairman of the Republican Party of Palm Beach County and an organizer of the event, said the fake jails will be two dimensional, meaning the kids won't actually be held captive at any point. Except by the government's excessive debt.\nThis same photograph was similarly used outside its original context as part of a meme in 2012, but that time it was employed to scare parents about the looming \"police state\" as behavioral issues in school were being treated as crimes:",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.snopes.com/collections/ice-immigration-rumors-collection/",
+      "page_title": "20 rumors involving US immigration authorities, fact-checked",
+      "title": "20 rumors involving US immigration authorities, fact-checked",
+      "description": "Rumors with varying degrees of truth are swirling amid U.S. President Donald Trump's sweeping immigration crackdown.",
+      "text": "Cho, Eunice Hyunhye. \"ICE's Lack of Transparency about COVID-19 in Detention Will Cost Lives | ACLU.\" American Civil Liberties Union, 22 May 2020, www.aclu.org/news/immigrants-rights/ices-lack-of-transparency-about-covid-19-in-detention-will-cost-lives. Accessed 8 Apr. 2025.\nChristensen, Laerke. \"What We Know about Reports That Puerto Rican Family Was Detained after Speaking Spanish in Store.\" Snopes, Snopes.com, 30 Jan. 2025, www.snopes.com/news/2025/01/30/puerto-rico-family-detained-spanish/. Accessed 8 Apr. 2025.\nDekker, Annette M., et al. \"A Call for Increased Transparency and Accountability of Health Care Outcomes in US Immigration and Customs Enforcement Detention Centers.\" The Lancet Regional Health - Americas, vol. 36, Elsevier BV, Aug. 2024, pp. 100825–25, https://doi.org/10.1016/j.lana.2024.100825.\nDeng, Grace. \"Coca-Cola Is Accused of Calling ICE on Immigrant Workers — but There's No Evidence of It.\" Snopes, Snopes.com, 11 Feb. 2025, www.snopes.com/news/2025/02/11/coca-cola-ice-raid/. Accessed 8 Apr. 2025.\n---. \"Trump Promised Mass Arrests of Undocumented Migrants 'on Day 1.' Here's What Has Happened.\" Snopes, Snopes.com, 23 Jan. 2025, www.snopes.com/news/2025/01/23/ice-raids-what-we-know/. Accessed 8 Apr. 2025.\n---. \"What We Know about Alleged Deportation of 10-Year-Old U.S. Citizen Recovering from Brain Tumor.\" Snopes, Snopes.com, 14 Mar. 2025, www.snopes.com/news/2025/03/14/child-brain-cancer-deported/. Accessed 8 Apr. 2025.\nFiorillo, Victor. \"ICE Raid Rumors Swirl in Philly's Migrant Community.\" Philadelphia Magazine, 21 Jan. 2025, www.phillymag.com/news/2025/01/21/ice-raids-philadelphia-deportation-immigration/. Accessed 8 Apr. 2025.\nHughes, Trevor. \"Trump Cancels Hundreds of Student Visas, Forcing Rapid Departures.\" USA TODAY, 8 Apr. 2025, www.usatoday.com/story/news/nation/2025/04/08/trump-international-student-visas-revoked/82989535007/. Accessed 8 Apr. 2025.\nIbrahim, Nur. \"ICE Detained Canadian 'American Pie' Actor Jasmine Mooney for 12 Days.\" Snopes, Snopes.com, 21 Mar. 2025, www.snopes.com/fact-check/canadian-actress-detained-by-ice/. Accessed 8 Apr. 2025.\nIzzo, Jack. \"Yes, ICE Arrested Palestinian Activist Mahmoud Khalil, a Lawful Permanent Resident of US.\" Snopes, Snopes.com, 11 Mar. 2025, www.snopes.com/fact-check/ice-arrested-deported-mahmoud-khalil/. Accessed 8 Apr. 2025.\nKunzelman, Michael. \"Appeals Court Won't Halt Order barring Trump Administration from Deportations under Wartime Law.\" AP News, 26 Mar. 2025, apnews.com/article/trump-judge-boasberg-venezuelan-immigrants-e7cca03d3c47b7b443d5374679ff290b. Accessed 8 Apr. 2025.\nLamb, Jonah Owen. \"Chaos, Fear, and Thousands of Calls: Inside the Network Verifying ICE Raid Rumors.\" The San Francisco Standard, 5 Feb. 2025, sfstandard.com/2025/02/05/ice-rapid-response-network-san-francisco/. Accessed 8 Apr. 2025.\nRascouët-Paz, Anna. \"We Checked Reports That ICE Is Detaining Native Americans in Deportation Raids.\" Snopes, Snopes.com, 29 Jan. 2025, www.snopes.com/news/2025/01/29/ice-detaining-native-americans-in-raids/. Accessed 8 Apr. 2025.\nTaija PerryCook. \"A Running List of Trump's Executive Orders.\" Snopes, Snopes.com, 5 Mar. 2025, www.snopes.com/tracker/trump-executive-orders-list/. Accessed 8 Apr. 2025.\nTellez, David, et al. \"The United States Detention System for Migrants: Patterns of Negligence and Inconsistency.\" Journal of Migration and Health, vol. 6, Oct. 2022, p. 100141, https://doi.org/10.1016/j.jmh.2022.100141. Accessed 8 Apr. 2025.\nTeres-Martinez, Andrea. \"ICE Raid Rumors on Social Media Stir Fear in Colorado Mountain Towns. Here's How Advocacy Groups Are Fighting Back.\" Aspentimes.com, AspenTimes.com, 20 Feb. 2025, www.aspentimes.com/news/ice-raid-rumors-on-social-media-stir-fear-in-colorado-mountain-towns. Accessed 8 Apr. 2025.\nThe White House. \"Protecting the American People against Invasion – the White House.\" The White House, 20 Jan. 2025, www.whitehouse.gov/presidential-actions/2025/01/protecting-the-american-people-against-invasion/. Accessed 8 Apr. 2025.",
+      "image_captions": [
+        "The back of an ICE officer wearing a vest which says \"POLICE ICE\" on it. Police lights and another official arresting someone is visible in the blurred background.",
+        "A white woman wearing a black top looks over her left shoulder towards the camera.",
+        "A picture of a young girl, with her face blurred out, in front of a hospital bed. She has a single brown braid and is wearing a light blue t-shirt that says \"God blessed me with the best medical staff and second chance at..\" (the t-shirt is cut off in the image there)",
+        "A Hispanic girl smiles in front of a wall. Someone stands to her right.",
+        "Bottles of Coca-Cola, with red caps and red Coca-Cola labels with white lettering, in a row."
+      ]
+    },
+    {
+      "url": "https://www.snopes.com/latest/?pagenum=873",
+      "page_title": "What's New | Page 873 | Snopes.com",
+      "title": "Facts Behind the Arrest of an Immigrant Accompanying His Pregnant Wife to the Hospital Remain Unclear",
+      "description": "All the latest rumors, urban legends, myths and misinformation gathered together in one nifty list.",
+      "text": "Facts Behind the Arrest of an Immigrant Accompanying His Pregnant Wife to the Hospital Remain Unclear\nWritten by:\nArturo Garcia\nBethania Palma\nAug. 21, 2018 (Updated: Sept. 4, 2018)\nAfter making a controversial arrest in San Bernardino, ICE said Joel Arrona-Lara was wanted in M ...",
+      "image_captions": [
+        "Lights on a police car"
+      ]
+    }
+  ],
+  "evidence_count": 5,
+  "crawled_at": "2026-04-23T17:34:54.080107+00:00"
+}

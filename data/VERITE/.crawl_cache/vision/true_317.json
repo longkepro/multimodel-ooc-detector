@@ -1,0 +1,109 @@
+{
+  "sample_id": "true_317",
+  "image_url": "https://www.wildthingsfood.co.uk/wp-content/uploads/2021/08/long-boi.png",
+  "visual_entities": [
+    {
+      "description": "Mallard",
+      "score": 1.0764
+    },
+    {
+      "description": "Indian Runner duck",
+      "score": 0.96975
+    },
+    {
+      "description": "University of York",
+      "score": 0.83745
+    },
+    {
+      "description": "Long Boi",
+      "score": 0.7371
+    },
+    {
+      "description": "Duck",
+      "score": 0.7183
+    },
+    {
+      "description": "Birds",
+      "score": 0.48299998
+    },
+    {
+      "description": "Speculum feathers",
+      "score": 0.4133
+    },
+    {
+      "description": "BBC Radio 1",
+      "score": 0.4061
+    },
+    {
+      "description": "Breed",
+      "score": 0.3858
+    },
+    {
+      "description": "Derwent College - York",
+      "score": 0.38115
+    },
+    {
+      "description": "Newsflare",
+      "score": 0.3811
+    }
+  ],
+  "best_guess_labels": [
+    "long boi duck"
+  ],
+  "similar_image_urls": [
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2931278547114239",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=679269070875503",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2635950626541794",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10102392481659425",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1612251322305390",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2943062549357452",
+    "https://i.redd.it/erpc6gva0wv61.jpg",
+    "https://preview.redd.it/the-tallest-mallard-duck-to-have-ever-lived-since-records-v0-xvk9ujolucxa1.jpg?width=1080&crop=smart&auto=webp&s=a1e54a4f6676c4c0b5a1f6cfc34f7ea3a1ce53ad",
+    "https://preview.redd.it/the-tallest-mallard-duck-to-have-ever-lived-since-records-v0-erpc6gva0wv61.jpg?width=1080&crop=smart&auto=webp&s=eb48359997f2313ab4d2aac0f6356e8b3a3652ec",
+    "https://i.redd.it/xvk9ujolucxa1.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.wildthingsfood.co.uk/news/meet-celebrity-duck-long-boi-who-was-named-the-uks-tallest-duck/",
+      "page_title": "Meet celebrity duck, Long Boi, who was named the UK's “tallest duck”",
+      "title": "Meet celebrity duck, Long Boi, who was named the UK’s “tallest duck” - Wildthings",
+      "description": "We had the pleasure of catching up with Zoe Duffin, who manages the Instagram account of the spectacular ‘Long Boi’....",
+      "text": "Meet celebrity duck, Long Boi, who was named the UK’s “tallest duck”\n5th August 2021\nWe had the pleasure of catching up with Zoe Duffin, who manages the Instagram account of the spectacular ‘Long Boi’. This feathery bad boy has made a huge splash on social media, amassing more than 30,000 Instagram followers amazed by his size. Long Boi, who lives on the University of York campus, waddled onto Twitter and Reddit when users spotted him and believed him to be the tallest mallard duck to have ever lived.According to Long Boi’s Instagram, he is a cross between a Mallard and an Indian runner, which is why he has grown to 70cm tall.\nWe chatted to Zoe to find out more:\nWhat makes Long Boi so special?\nLong Boi really does stand out from the crowd. He’s unusually tall and towers over all the other ducks on campus. He’s the only ‘long duck’ on campus so he’s very unique. He has always been loved by both staff and students here at the university, but his fame has sky-rocketed in recent weeks and he now has fans all over the world!\nHow did you first discover Long Boi and what made you set up his Instagram page?\nI first saw Long Boi in my first year of university. My accommodation block at the time was situated in front of the campus lake and I began noticing him on a regular basis. Some friends and I coined the name ‘Long Boi’ due to his stature and regularly went out to feed him and take pictures of him. We decided to make him his own Instagram account as we realised that he was a very unique looking duck. The resident waterfowl are a huge part of university life here at York, so we hoped that he would be popular with other students!\nI have always had an interest in animals and have had pet ducks of my own, so I recognised that Long Boi was part Indian Runner duck. This is a domestic breed, meaning that it’s likely he was left on campus as an unwanted pet. Luckily, we have a fantastic grounds team on campus, who ensure that all the ducks and geese are well cared for, no matter how short or tall they may be. Long Boi and his friends are big fans of WildThings Swan & Duck Food!\nWe see Long Boi now has his own range of merch! What does the future hold for him?\nLong Boi does indeed have his own merch, ranging from Long Boi themed stickers and badges, to branded t-shirts and socks! I designed all the artwork for Long Boi’s merch line myself and I’m always trying to come up with new artwork ideas. In the future, perhaps Long Boi will look beyond merch towards bigger aspirations…his fans think he should star in his own movie!\nHow do you think Long Boi can inspire people to get more involved with their local wildlife?\nDue to his internet fame, Long Boi has definitely encouraged people to get outdoors and involved with their local wildlife. I’ve seen a lot of people coming to campus (which is open to the public and a lovely spot for walks!) specifically to see him, not only from the York area, but from all over the country! Whilst looking on campus for Long Boi, people are able to enjoy the beautiful natural surroundings and are able to meet some of our other resident waterfowl, including ducks, geese, moorhens, coots, swans and much more! Long Boi’s growing online presence has the potential to educate his followers about nature and other wild birds, and hopefully encourage people to visit their local parks and wildlife areas to see if they can spot their own ‘Long Boi’.\nIf you’re heading out to find your local ‘Long Boi’ why not take some WildThings Swan & Duck Food with you? It’s a tasty and nutritional alternative to bread!",
+      "image_captions": []
+    },
+    {
+      "url": "https://thetab.com/2026/04/01/university-of-york-to-replace-graduation-caps-with-long-boi-hats-designed-by-greg-james",
+      "page_title": "Greg James designs Long Boi hats for University of York graduation",
+      "title": "University of York to replace graduation caps with long boi hats designed by Greg James",
+      "description": "The long boi hats will be worn alongside traditional grey gowns",
+      "text": "University of York to replace graduation caps with long boi hats designed by Greg James\nThe long boi hats will be worn alongside traditional grey gowns\nThe long boi hats will be worn alongside traditional grey gowns\nThe University of York will replace traditional graduation caps with “long boi” hats at upcoming ceremonies, designed by Radio 1 DJ Greg James.\nThe redesigned graduation headwear, featuring an extended vertical structure, will be introduced as part of a wider refresh of ceremony attire across the university.\nGreg James has described the concept as inspired by his well-known love of long boi, aiming to give graduation day a more distinctive and recognisable look.\nThe Radio 1 DJ has described the concept as inspired by his long-running affinity for Long Boi.\nHis public admiration for the duck began back in 2023, when Long Boi shot to fame due to his extraordinary long neck. After his passing in 2023, Greg travelled north to host the Long Boi memorial, as well as unveil the Long Boi statue on University of York campus.\nGreg even designed a range of Long Boi merch with Radio 1, a bucket hat and t-shirt for sale at Radio 1 Big Weekend 2024.\nSpeaking about the new cap design, Greg said: “It’s something that stands out straight away. Graduation photos all start to look the same after a while – this makes them a bit more memorable.”\nThe long boi hats will be worn alongside traditional gowns, with the extended design intended to create a more striking visual during ceremonies and the customary cap toss.\nReaction among students has been mixed, with some welcoming the change as a fun addition to an otherwise formal occasion.\nSecond year student Mike Take said: “It’s a bit random, but it does make graduation feel less standard. I’d be interested to see what it actually looks like in practice.”\nOthers have raised questions about practicality, particularly in crowded ceremony settings.\nFinal year student Tom Richards said: “I’m not sure how comfortable that would be for a full ceremony, especially if you’re sat behind someone with one.”\nThe University of York has not commented on the change at the time of publication.\nGreg added: “It’s still a graduation hat – just a taller, quacking great one.”\nYou should probably check the date, you April fools!\nWe’re talking tens of thousands\nJoel called the dinners ‘worse than f**king dog food’\nThe former Burger King located on Cheapside of the city centre is now in the process of becoming a new coffee chain\nManchester Metropolitan previously told the press there was no RAAC on campus\nThere are just so many awful people to pick from\nIlka said she’s ‘kind of erratic and careless with money’\nIt took six months for him to be arrested\nAlthough Navodya transferred her tuition fees before the deadline, a processing delay derailed everything\nBillboards outside the building drop clue about its future\nYou’ll be kicking yourself\nBristol Uni reportedly spent £8,700 on alerts about protests\nShould I Marry A Murderer? is out next week\nIt’s going to be absolute chaos\nKatie Owen said she now earns about half her previous salary\nXbox is coming for the competition\nAre you even studying at King’s if you’ve never been to the Great Hall?\nThis is way better advice than the experts have given\n21 UK universities welcomed arms companies onto their committees\nIt’s so wholesome",
+      "image_captions": [
+        "long boi graduation york",
+        "mafs australia 2026 dinner parties",
+        "mafs australia 2026 villains ranking",
+        "protesters from several london unis russell group unis student protesters",
+        "A trauma therapist talks about Gia on MAFS Australia 2026"
+      ]
+    },
+    {
+      "url": "https://www.standard.co.uk/news/uk/indian-instagram-reddit-peter-crouch-york-b932677.html",
+      "page_title": "University student 'very proud' after tall duck named Long Boi goes ...",
+      "title": "University student ‘very proud’ after tall duck named Long Boi goes viral",
+      "description": "It is believed that the very large duck is a cross between a Mallard and an Indian Runner duck.",
+      "text": "A York university student has said she is “very proud” after a campus duck named Long Boi went viral due to his impressive stature.\nThe duck became famous after a Reddit post incorrectly described him as “the tallest mallard duck to have ever lived… over 1m tall”.\n“I think everyone at York can say we are all very proud of Long Boi, our waterfowl are very loved and central to the university experience here at York,” Ms Duffin told the PA news agency.\nThe third year biology student, who runs the account along with second year biology student Liam Foskett, said they started the Instagram dedicated to the duck when he turned up on campus in 2018.\n“We believed that he had been dumped as an unwanted pet,” Ms Duffin told PA.\n“We started feeding and taking photos of him, coining the name Long Boi due to his tall stature!\n“We did feel a bit sorry for him, as he didn’t fit in with all the other ducks and was being shunned by them, he seemed quite lonely.\n“Over time he’s grown quite a following with York students, he’s quite a campus celebrity, and has since flourished and integrated with the other waterfowl.”\nThe tall duck has now reached over 15,000 followers on Instagram, and was tweeted about by footballer Peter Crouch – who stands at 6ft 7in – who called Long Boi “my kind of duck”.\nMs Duffin said she was “completely blown away” by Long Boi’s sudden rise to fame.\nShe told PA: “I can’t quite believe it! My one aspiration for Long Boi’s account was to reach 10k followers, he’s reached and passed that in just a matter of hours, which is incredible.\n“I’m loving seeing all the memes, and hearing how much joy he’s spreading to others.”",
+      "image_captions": [
+        "Add Evening Standard as a preferred source"
+      ]
+    },
+    {
+      "url": "https://www.thesun.co.uk/news/14820788/tall-duck-towers-even-has-his-own-instagram-account/",
+      "page_title": "Duck named Long Boi towers over his pals at an impressive 70cm tall",
+      "title": "Verifying Device",
+      "description": "",
+      "text": "Verifying your device, please wait\nVerification failed. Please try again.\nTry Again\nVerification failed. Please try again.",
+      "image_captions": []
+    }
+  ],
+  "evidence_count": 4,
+  "crawled_at": "2026-04-23T19:00:19.199039+00:00"
+}

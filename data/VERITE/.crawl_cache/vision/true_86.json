@@ -1,0 +1,97 @@
+{
+  "sample_id": "true_86",
+  "image_url": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2019/09/Featured-Photo-Blur-7.png",
+  "visual_entities": [
+    {
+      "description": "Wall",
+      "score": 0.8345781
+    },
+    {
+      "description": "Accent wall",
+      "score": 0.7053
+    },
+    {
+      "description": "Mural",
+      "score": 0.6496
+    },
+    {
+      "description": "Wall Mural",
+      "score": 0.5667
+    },
+    {
+      "description": "Wallpaper",
+      "score": 0.5162
+    },
+    {
+      "description": "Floor",
+      "score": 0.3951
+    },
+    {
+      "description": "Image",
+      "score": 0.3884
+    },
+    {
+      "description": "Painting",
+      "score": 0.3881
+    },
+    {
+      "description": "Turning Point - It's Always Darkest Before The Dawn",
+      "score": 0.377
+    },
+    {
+      "description": "Building",
+      "score": 0.3723
+    },
+    {
+      "description": "Roof",
+      "score": 0.3668
+    },
+    {
+      "description": "Interior design",
+      "score": 0.3627
+    },
+    {
+      "description": "Photo printing",
+      "score": 0.3594
+    },
+    {
+      "description": "Artwork",
+      "score": 0.3445
+    }
+  ],
+  "best_guess_labels": [
+    "wall"
+  ],
+  "similar_image_urls": [
+    "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2019/09/Featured-Photo-Blur-7.png",
+    "https://pbs.twimg.com/media/FE3qZlBVEAYgFSo.jpg?format=jpg&name=thumb",
+    "https://www.ebookzone.net/wp-content/uploads/2023/08/Sastra-Menggambarkan-Masa-Lalu-Dan-Masa-Depan-Mengerikan.jpg",
+    "https://i.etsystatic.com/21008028/c/1851/1471/71/102/il/b54960/4033879923/il_340x270.4033879923_9tfj.jpg",
+    "https://www.echoroukonline.com/wp-content/uploads/2022/05/279320080_709653667037068_3856827715587934001_n.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100006749700454",
+    "https://i.discogs.com/3Z1Fr5vO0Tbuj7Asjr5LqkSrAVtV8gD0NrAvkQ4frsM/rs:fill/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LXVzZXItYXZhdGFy/cy9VLTc0MjU1NS0x/NTA1MjE2MTY3Lmpw/ZWc.jpeg",
+    "https://i.etsystatic.com/iap/22d9db/6416519585/iap_640x640.6416519585_3ecqayk8.jpg?version=0",
+    "https://www.tiktok.com/api/img/?itemId=7579391516616019213&location=0&aid=1988",
+    "https://i.ytimg.com/vi/ZE9Bqpknyi4/hqdefault.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://vimeo.com/233828588",
+      "page_title": "WALL (Trailer) | Videos & Movies on Vimeo",
+      "title": "WALL (Trailer)",
+      "description": "Wall is a feature-length animated film written by and starring playwright and two-time Academy Award® nominee for screenwriting (The Hours, The Reader) David Hare, whom The Washington Post referred to as “the premiere political dramatist writing in English.” Hare’s body of work spans 35 years and deftly explores socio-political issues at home and abroad. The 80-minute film follows Hare on a trip to the Middle East to examine the impact the wall separating Israel and Palestine has had on the people of the region. Using advanced animation tools and 3D motion-capture footage, filmmaker Cam Christiansen employs a distinctive handcrafted approach that conveys the reality of the 708-kilometre barrier as no film has before. Rich with rhythmic, raw imagery, Wall explores the “fence” that has forever united, divided and changed communities, while brilliantly capturing the emotions surrounding this massive reminder of unrest. Revealing and passionate insights from renowned Israeli novelist David Grossman, Professor Neill Lochery of London University, Professor Sari Nusseibeh of Al-Quds University, and Ramallah-based attorney Raja Shehadeh are all framed by Hare’s journey, as both his heart and mind are shaken by the incongruities and contradictions of life in the shadow of the wall. Wall is a National Film Board of Canada production, produced by David Christensen and Bonnie Thompson.",
+      "text": "Verify to continue\nTo continue, please confirm that you're a human (and not a spambot).\nChecking if the site connection is secure\nvimeo.com needs to review the security of your connection before\nproceeding.\nTo continue, please confirm that you're a human (and not a spambot).",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.walmart.com/browse/home-improvement/wall-murals-wallpaper/wall-ah-/1072864_7141380_1044050_5884100/YnJhbmQ6V2FsbC1BaCEie",
+      "page_title": "Wall-Ah! Wall Murals Wallpaper in Wallpaper - Walmart.com",
+      "title": "Robot or human?",
+      "description": "",
+      "text": "Robot or human?\nActivate and hold the button to confirm that you’re human. Thank You!",
+      "image_captions": []
+    }
+  ],
+  "evidence_count": 2,
+  "crawled_at": "2026-04-23T17:14:07.297128+00:00"
+}

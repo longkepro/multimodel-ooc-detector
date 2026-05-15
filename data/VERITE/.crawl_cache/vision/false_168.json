@@ -1,0 +1,109 @@
+{
+  "sample_id": "false_168",
+  "image_url": "https://nypost.com/wp-content/uploads/sites/2/2022/01/school-food-12.jpg?quality=80&strip=all&w=878",
+  "visual_entities": [
+    {
+      "description": "School meal",
+      "score": 0.7354
+    },
+    {
+      "description": "Meal",
+      "score": 0.7114
+    },
+    {
+      "description": "Lunch",
+      "score": 0.7105
+    },
+    {
+      "description": "School lunch in Japan",
+      "score": 0.7034
+    },
+    {
+      "description": "School",
+      "score": 0.702
+    },
+    {
+      "description": "Cafeteria",
+      "score": 0.642
+    },
+    {
+      "description": "Dinner",
+      "score": 0.5144
+    },
+    {
+      "description": "Lunch lady",
+      "score": 0.5008
+    },
+    {
+      "description": "Snack",
+      "score": 0.4654
+    },
+    {
+      "description": "Student",
+      "score": 0.4621
+    },
+    {
+      "description": "Eating",
+      "score": 0.4467
+    },
+    {
+      "description": "Middle school",
+      "score": 0.4298
+    },
+    {
+      "description": "Chicken",
+      "score": 0.4248
+    },
+    {
+      "description": "Middle schooler",
+      "score": 0.4165
+    }
+  ],
+  "best_guess_labels": [
+    "bad school lunch"
+  ],
+  "similar_image_urls": [
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=7435622763166680",
+    "https://www.elcalce.com/resizer/hYLrRzeeiZSn7kqNcD-D4Le223E=/arc-photo-metroworldnews/arc2-prod/public/MTV7DTHZ7VCUTEOAUPD2TDYZCI.jpg",
+    "https://cloudfront-us-east-1.images.arcpublishing.com/metroworldnews/MTV7DTHZ7VCUTEOAUPD2TDYZCI.jpg",
+    "https://nypost.com/wp-content/uploads/sites/2/2022/01/ny-school-lunch-viral-feat-image.jpg?quality=90&strip=all",
+    "https://nypost.com/wp-content/uploads/sites/2/2022/01/school-food-12.jpg?quality=90&strip=all&w=1756",
+    "https://laopcion.com.mx/__export/sites/laopcion/img/2022/01/20/ryMTKP9CaZGSV5kR.jpg",
+    "https://nypost.com/wp-content/uploads/sites/2/2022/01/ny-school-lunch-viral-feat-image.jpg?quality=75&strip=all&w=1024",
+    "https://nypost.com/wp-content/uploads/sites/2/2022/01/school-food-12.jpg?quality=80&strip=all&w=878",
+    "https://jcdn.xhby.net/dams-res/editing/image/202311/19/6559d66ee4b0c0ddd8122d0c.png?image_process=resize,w_800/format,jpg",
+    "https://img.bjd.com.cn/p/2022/01/20/1e2e0bbb5491660cb89ae166eea807cd.png"
+  ],
+  "evidence": [
+    {
+      "url": "https://nypost.com/2022/01/20/the-worst-school-lunches-caught-on-camera/",
+      "page_title": "The worst school lunches caught on camera - New York Post",
+      "title": "The worst school lunches caught on camera",
+      "description": "These might be the most paltry, gross and just plain nasty school lunches ever captured on camera.",
+      "text": "Chris Vangellow, whose children attend the Parishville-Hopkinton Central School District, New York, shared photos to Facebook blasting the unsavory-looking meal, which consisted of a few scrimpy chicken nuggets, some off-color carrots and a small side of white rice.\nChris Vangellow\n2 of 18\nChris Vangellow’s son has been sending him pictures of the lunches he has been served at school.\nChris Vangellow\n3 of 18\nChris Vangellow’s son complained that lunch was “not enough.”\nChris Vangellow\n4 of 18\nZellie Thomas, who teaches in the Paterson Public School District, posted a photo last year on Twitter blasting the unappetizing piece of turkey and carrots offered to students.\nZellie Thomas\n5 of 18\nOne Paterson Schools lunch consisted of a slice of turkey with a small amount of carrots.\nZellie Thomas\n6 of 18\nCritics slammed the New Jersey school for its lunches that are reminiscent of the Fyre Fest debacle.\nZellie Thomas\n7 of 18\nOther images of school meals across america have left much to be desired.\nZellie Thomas",
+      "image_captions": [
+        "Chris Vangellow, whose children attend the Parishville-Hopkinton Central School District, New York, shared photos to Facebook blasting the unsavory-looking meal, which consisted of a few scrimpy chicken nuggets, some off-color carrots and a small side of white rice.Chris Vangellow",
+        "Chris Vangellow’s son has been sending him pictures of the lunches he has been served at school.Chris Vangellow",
+        "Chris Vangellow’s son complained that lunch was “not enough.”Chris Vangellow",
+        "Zellie Thomas, who teaches in the Paterson Public School District, posted a photo last year on Twitter blasting the unappetizing piece of turkey and carrots offered to students.Zellie Thomas",
+        "One Paterson Schools lunch consisted of a slice of turkey with a small amount of carrots.Zellie Thomas"
+      ]
+    },
+    {
+      "url": "https://nypost.com/2022/01/19/ny-dad-goes-viral-after-posting-photo-of-sons-school-meal/",
+      "page_title": "Upstate dad goes viral after posting photo of son's paltry school meal",
+      "title": "Upstate dad goes viral after posting photo of son’s paltry school meal",
+      "description": "An upstate New York school has prompted outrage after a father shared a photo of his son’s meager cafeteria offerings.",
+      "text": "Upstate dad goes viral after posting photo of son’s paltry school meal\nEven Rikers Island has better food than this.\nAn upstate New York school has prompted outrage after a father shared a photo of his son’s meager cafeteria offerings.\nChris Vangellow, whose children attend the Parishville-Hopkinton Central School District, shared a photo to Facebook blasting the unsavory-looking meal, which consisted of a few scrimpy chicken nuggets, some off-color carrots and a small side of white rice.\n“I got this photo today. It really is ridiculous. Don’t come at me with the ‘you get what you pay for’ or ‘just send them with food’ crap either,” the Potsdam father of four wrote on Facebook.\n“The problem is that not all families can do that. We don’t live in a very rich area. Some kids may not get much or anything when at home and this is what they have to survive on.”\nJailhouse sources on Rikers Island took a look at Vangellow’s photos Wednesday and said even the inmates are eating better than that.\n“Jail is better, but not by much,” a source quipped.\n“It’s sad and pathetic, but typical of government,” they said of the school’s poor offerings.\nSources said detainees receive three meals a day that are more substantial than what the kids are getting and detailed some typical jailhouse fare.\nA typical lunch at the infamous jail complex could be cold cuts, rice, juice, steamed vegetables and whole wheat bread while dinner offerings include items such as baked chicken, Jamaican beef patties, fish, beef stew, mashed potatoes, juice and more whole wheat bread.\n“It’s better than school lunch,” another source quipped. “It tastes like the KFC baked chicken.”\nA pair of Brooklyn high schoolers blasted their own school lunches prepared at city public schools and said they often choose to go without over noshing on “mad hard” chicken and “old” bread.\n“I personally don’t eat school lunch because it’s not appealing to me at all. I feel like it’s disgusting,” Hawafadima Camara, a 16-year-old junior at Achievement First Brooklyn High School in Crown Heights, told The Post Wednesday after class.\nOne Big Apple student took a photo of a lunch stuffed into a plastic bag that was given Wednesday at the NEST+m public school on the Lower East Side, which consisted of a cheese sandwich, apple sauce and a random snack.\n“Yes, they may be low on budget, but at least give us something that’s hot and fresh,” Camera said.\nJayden Villega, an 18-year-old senior at the Williamsburg High School for Architecture and Design, lamented the poor nutritional value of the meals his school serves.\n“It seems to be very mediocre and not really promoting a healthy diet as it’s advertised to do,” Villega said.\n“It’s often hamburgers and fries or chicken nuggets and fries.”\nIn response to the backlash upstate, Parishville-Hopkinton Central School District Superintendent William Collins apologized for the frugal meals and said he’s created a new working group called “Reimagining School Lunches” to address the issues.\n“In fairness to the cafeteria, students are allowed one more serving of fruits or vegetables and one additional nugget than appeared in the photograph; however, this doesn’t alter the message that many students and parents are dissatisfied with school lunches,” Collins wrote on Facebook.\n“The Cafeteria Manager and I are creating a group to address the dissatisfaction with school meals,” he said. “This group will explore ways to make school meals more appetizing while still meeting the strict USDA requirements of the National School Lunch Program.”",
+      "image_captions": [
+        "A father is sparking conversation on Facebook after sharing a photo of his teenager’s cafeteria lunch.Facebook",
+        "Chris Vangellow’s children attend the Parishville-Hopkinton Central School District.Parishville-Hopkinton Central Sc",
+        "Chris Vangellow’s son has been sending him pictures of the lunches he has been served at school.Facebook / Chris Vangellow",
+        "The school contracts through the Boards of Cooperative Educational Services for its food.Courtesy Chris Vangellow",
+        "The not-so-appealing “mad hard” chicken.Hawafadima Camara"
+      ]
+    }
+  ],
+  "evidence_count": 2,
+  "crawled_at": "2026-04-23T17:39:43.082548+00:00"
+}

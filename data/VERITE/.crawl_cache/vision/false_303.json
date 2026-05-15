@@ -1,0 +1,109 @@
+{
+  "sample_id": "false_303",
+  "image_url": "https://cdn.prod.www.spiegel.de/images/d23a146d-0001-0004-0000-000000065186_w1200_r1_fpx45.34_fpy50.jpg",
+  "visual_entities": [
+    {
+      "description": "Waste",
+      "score": 0.7369
+    },
+    {
+      "description": "Naples waste management crisis",
+      "score": 0.7095
+    },
+    {
+      "description": "Landfill",
+      "score": 0.706
+    },
+    {
+      "description": "Trash removal & disposal",
+      "score": 0.5726
+    },
+    {
+      "description": "Waste management",
+      "score": 0.5567
+    },
+    {
+      "description": "Toxic waste",
+      "score": 0.5093
+    },
+    {
+      "description": "Waste collection",
+      "score": 0.451
+    },
+    {
+      "description": "Naples",
+      "score": 0.43469998
+    },
+    {
+      "description": "Waste treatment",
+      "score": 0.3793
+    },
+    {
+      "description": "Garbage",
+      "score": 0.363
+    },
+    {
+      "description": "Rubbish Bin",
+      "score": 0.3481
+    },
+    {
+      "description": "Dumpster",
+      "score": 0.3379
+    }
+  ],
+  "best_guess_labels": [
+    "naples trash problem"
+  ],
+  "similar_image_urls": [
+    "https://cdn.prod.www.spiegel.de/images/d23a146d-0001-0004-0000-000000065186_w1200_r1_fpx45.34_fpy50.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3988745674539818",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=122151358982810535",
+    "https://cdn.prod.www.spiegel.de/images/d23a146d-0001-0004-0000-000000065186_w288_r1_fpx45.34_fpy50.jpg",
+    "https://cdn.prod.www.spiegel.de/images/d23a146d-0001-0004-0000-000000065186_w520_r1.33_fpx45.34_fpy50.jpg",
+    "https://www.vijesti.me/data/images/2019/02/21/00/3666544_20190221030232_5c6e0dc0b7896802b07b6891jpeg_ls-s.jpg",
+    "https://cdn.wiadomosci.onet.pl/1/H-5k9lLaHR0cDovL29jZG4uZXUvaW1hZ2VzL3B1bHNjbXMvT0RBN01EQV8vYTJlMjJmYTI4NDA2NWVkODMyYjY4ZTA5NGUzN2YxNDUuanBnkpUDAETNDOTNB0CTBc0JYM0E7N4AAqEwB6ExBA",
+    "https://cdn.wiadomosci.onet.pl/1/EdOk9lLaHR0cDovL29jZG4uZXUvaW1hZ2VzL3B1bHNjbXMvT0RBN01EQV8vYTJlMjJmYTI4NDA2NWVkODMyYjY4ZTA5NGUzN2YxNDUuanBnkZMFzQLQzQHg3gACoTAHoTEE",
+    "https://www.vijesti.me/data/images/2019/02/21/00/3666544_20190221030232_5c6e0dc0b7896802b07b6891jpeg_share.jpg",
+    "https://cdn.prod.www.spiegel.de/images/d23a146d-0001-0004-0000-000000065186_w960_r1.5_fpx45.34_fpy50.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.spiegel.de/international/europe/the-garbage-of-naples-how-the-mafia-helped-send-italy-s-trash-to-germany-a-681469.html",
+      "page_title": "The Garbage of Naples: How the Mafia Helped Send Italy's Trash to ...",
+      "title": "The Garbage of Naples: How the Mafia Helped Send Italy's Trash to Germany",
+      "description": "German courts have been dealing with an unusual problem. More than 100,000 tons of Italian trash were shipped to eastern Germany, saving a waste treatment plant from bankruptcy. But what could have been a solution to Naples' notorious garbage crisis ran afoul of the law.",
+      "text": "The Garbage of Naples How the Mafia Helped Send Italy's Trash to Germany\nPlastic bags filled with garbage covered the Piazza del Plebiscito in Naples. In the suburbs, piles of garbage grew like tumors along arterial roads, and at night the air was heavy with the pungent odor of burning dumps. More than 1,100 tons of new waste was being added to the piles every day.\nThe garbage had to be removed. But how? And where would it go? That was the question that worried Lorenzo Miracle, the manager of an Italian logistics company.\nMeanwhile, the streets were spic and span in Großpösna, a town in the eastern German state of Saxony. It is the site of the Cröbern Central Waste Treatment Plant, a monument to German thoroughness that cost at least €100 million ($135 million) to build and includes sewage treatment basins and a decorative pond. It is one of Europe's most advanced facilities, a garbage dump for the 21st century.\nBut the Cröbern treatment plant was apparently bigger than it needed to be. Residents of the state were not producing enough garbage to keep the plant running at full capacity. It needed more waste. But who was going to provide it? That was the problem faced by Konrad Doruch, the waste treatment plant's chief solid-waste procurer.\nEach of the two men, Mr. Miracle and Mr. Doruch, had something the other man wanted. They reached an agreement, and beginning in April 2007, freight trains loaded with waste from Naples started running north to Großpösna almost daily.\n'Unprecedented'\nIt was an arrangement that seemed to benefit both sides. The only problem was that it apparently involved several illegal activities, including the unauthorized handling of hazardous waste, bribery and the establishment of a criminal organization.\nUnfortunately for Doruch, the solid-waste procurer in Saxony, the Italian police targeted him in a large-scale investigation dubbed \"Operation Ecoballe.\" The investigators, hoping to get the better of the Neapolitan Mafia, known as the Camorra, intercepted hundreds of phone calls. Companies tied to the Camorra arrange for the transport and illegal disposal of waste, both in Italy and abroad.\nIn late November, the Italian investigators expanded their efforts to German soil. Prosecutors and police officers searched the waste processing plant in Großpösna and other waste processing and recycling companies in Saxony and the neighboring state of Saxony-Anhalt. The authorities were looking for anything associated with solid waste coming from Italy, including shipping documents, contracts and invoices. The investigation revolved around 150,000 tons of solid waste that had been transported to Germany in 200 freight trains, which apparently should never have been allowed to cross the Alps.\nThe Italian-German solid-waste profiteering scandals provide insights into a booming industry. According to investigations by Germany's Federal Criminal Police Office (BKA), up to two million tons of household waste have already been dumped illegally in German waste dumps and former landfills. \"The extent of the solid-waste profiteering activities is quantitatively and qualitatively unprecedented,\" and has been completely underestimated by government agencies and politicians, according to an internal BKA study conducted with the goal of putting shady solid-waste deals on the agenda at the next conference of environment ministers in June.\nIllegal Household Waste\nThe case of the Cröbern treatment plant shows that it is not always shady demolition companies and landfill operators who are treating law and order the way they treat waste. Even semi-governmental businesses have been suspected of acting illegally in extreme circumstances.\nThe circumstances were indeed extreme in April 2006, when local politicians in the eastern city of Leipzig met to discuss the crisis faced by the treatment plant operator, the Western Saxon Waste Disposal and Recycling Company (WEV). The company, a majority of which is owned by the city of Leipzig and the surrounding counties, was \"in acute economic difficulties, which could ultimately jeopardize its continued existence,\" the agenda of the meeting reads.\nThe WEV lost €4.5 million in 2005 alone, and it was time for management to come up with a plan. Decision-makers were in demand, men like Konrad Doruch, a Saxon with a pronounced dialect who has made a career for himself in the waste management business. At first, he was in charge of safety and fire protection at the waste treatment plant, and he was later promoted to the job of sales director.\nBetween 2003 and 2006, Doruch successfully arranged to have more than 200,000 tons of solid waste shipped from Italy. It was premium material for the plant in Großpösna, including slag from an aluminum plant in Novara and insulation material containing asbestos from Verona. State authorities had granted the Cröbern treatment plant special permission to dispose of the hazardous waste.\nThe WEV, losing money and lacking enough solid waste to keep its plant running efficiently, sent Doruch back to Italy. This time, however, he didn't procure industrial waste from the north, but household waste from the south, from Naples and the surrounding Campania region, where the Camorra all but controls the waste disposal business.\nIf what the investigators claim is true, that was when the WEV's methods became illegal. Household garbage from Campania cannot simply be exported to Germany like olive oil or wine.\nAfoul of German Treatment Laws\nSince 2005, even German domestic household garbage can no longer be dumped into landfills. Instead, it has to be incinerated or subjected to a complicated procedure, which involves sorting and crushing the garbage, and then removing as much bacteria as possible. German authorities only approve garbage imports if the waste has been properly treated first.\nDespite these restrictions, the Saxon and Italian solid-waste dealers tried anyway. Beginning in April 2007, freight trains filled with household waste began departing from the Maddaloni-Marcianise depot about 30 kilometers (19 miles) north of Naples, to be unloaded the next day in Großpösna, 1,500 kilometers away.\nMinor incidents like the one that happened on April 26, when a special unit of the Carabinieri, Italy's national police force, ordered foul-smelling containers opened, could not put a stop to the German-Italian garbage connection.\nAccording to the freight documents, the containers were supposed to contain pre-treated waste, or intermediate products in the recycling chain. Instead, the Carabinieri found ordinary household waste from southern Italian kitchens, and seized eight containers. But by the next day, the trains were running again.\nUnder this system, the contents of 7,500 containers ended up in eastern Germany. It was apparently an extremely lucrative arrangement for the WEV, which is said to have been paid €16 million, or €86 per ton. The politicians from Leipzig and the surrounding areas must have been pleased, now that their prestigious project was finally paying off. Their company, almost bankrupt a year ago, was in the black.\nIt appears that authorities in Saxony were not particularly interested in the nature of the solid waste being processed in their treatment plants. Investigators believe they can prove that Sales Director Doruch simply lied about the contents of many shipments and promptly shipped the bulk of the waste, a total of 107,000 tons, to treatment facilities run by Andreas Böhme in neighboring Saxony-Anhalt. Böhme, an automotive body specialist by trade, did not have a permit to process solid waste from Italy, but he did own a waste shredder. In Saxony-Anhalt, the solid waste from Naples was apparently re-classified once again, this time as \"sorted mineral waste,\" which qualified it for disposal.\n'A Fixed Group' of Criminals\nSome of it wound up in a landfill in the town of Freyburg-Zeuchfeld, in Saxony-Anhalt, which was all but shut down in the spring of 2009, after state environmental inspectors had found 300,000 tons of illegally dumped waste at the landfill.\nThe prosecutors believe they know who is behind the garbage shipments. From the very beginning, says one investigator, \"a fixed group of German and Italian criminals\" planned to \"dispose of the garbage from Campania illegally, because most of it was untreated, in the region of Saxony-Anhalt.\"\nBöhme denies this. His attorney, Steffen Segler, says that his client treated the solid waste from the WEV \"properly.\" Konrad Doruch also rejects accusations that he was involved in illegal garbage profiteering. Doruch, like his former boss at WEV, has since left the company.\nThe new man at the head of the waste treatment plant has hired an auditing firm to conduct an internal investigation, the results of which will be presented to the WEV Supervisory Board in mid-March. It's still unclear whether, and when, prosecutors in Leipzig and Halle (the state capital of Saxony-Anhalt) will file charges.\nTheir counterparts in Naples appear to be further along in prosecuting the case. In the fall of 2008, they presented Lorenzo Miracle with an arrest warrant, and two dozen other managers at the treatment plant and officials were temporarily arrested. They all stand accused of being involved in illegal garbage profiteering.\nIt almost seemed as if these efforts had put an end to the international garbage dealers' work. But that impression is deceptive. In December, another 100 tons of fresh garbage was discovered in a waste dump in Saxony-Anhalt. It was from Italy.",
+      "image_captions": [
+        "An ongoing problem with waste disposal reached a crisis point in Naples in 2008.Foto: A1809 epa ansa Ciro Fusco/ dpa",
+        "An ongoing problem with waste disposal reached a crisis point in Naples in 2008.",
+        "Öffnen Sie das Spiel Wordle",
+        "Öffnen Sie das Spiel Viererkette",
+        "Öffnen Sie das Spiel Solitär"
+      ]
+    },
+    {
+      "url": "https://www.italymagazine.com/featured-story/tensions-mount-trash-strewn-naples",
+      "page_title": "Tensions mount in trash-strewn Naples | ITALY Magazine",
+      "title": "Tensions mount in trash-strewn Naples",
+      "description": "",
+      "text": "Tensions threatened to explode in the Naples suburb of Pianura on Thursday as authorities struggled to find a temporary solution to the area's umpteenth trash crisis.\nEscorted by police, officials tasked with resolving the rubbish emergency forced their way past angry locals and into a closed refuse dump which is now expected to be prepared for re-opening.\nWith an estimated 100,000 tons of trash lying in the streets of Naples and the surrounding area, the European Union has warned it could act against Italy unless it resolved the problems quickly.\nThe situation ''worries the Commission and it will monitor events closely in the coming weeks,'' a spokeswoman for EU Environment Commissioner Stavros Dimas on Thursday.\nThe special commissioner appointed by the government to deal with the Campania trash crisis decided to ease the situation by taking the refuse to the Pianura site, making the old trash dump the focal point of the current emergency.\nLocal people, who want the site to stay closed, have mobilised to challenge the decision. About 100 protestors guarded the main entrance to the site during the night in a bid to stop authorities entering it.\nOn Thursday more demonstrators blocked local roads and rail lines.\nMeanwhile, in the rest of Naples, residents exasperated by the continued presence of smelly bags of rubbish outside their homes set fire to overflowing bins again on Wednesday night.\nThis action - which forced fire-fighters to make 75 separate outings during the night - only worsened the health risk as the burning trash released poisonous dioxins into the air.\nThe latest emergency comes after two refuse storage sites in the Campania region were closed over the New Year because they were saturated.\nAuthorities, who face public protests every time they select new sites, have been unable to find replacement landfills and treatment plants.\nA failure to organise recycling schemes, coupled with the problems finding new destinations for the Campania region's rubbish, has meant the area has faced recurrent trash emergencies over the last decade.\nCentre-right politicians lambasted the regional and national government on Thursday for failing to find a solution.\n''The latest warning from the EU to the government sets the seal on its failure over the last two years,'' said Antonio Martusciello of Forza Italia, adding that two billion euros had been spent in recent years in a bid to resolve trash disposal problems.\n''The issue of rubbish in Campania must be treated as a national issue because, on top of the drama it creates for the local population, it also seriously damages the country's image,'' said Roberto Della Seta of the centre-left Democratic Party.",
+      "image_captions": [
+        "Tensions mount in trash-strewn Naples",
+        "Charming Villa with private tennis court",
+        "Total Tuscany & Amazing Amalfi:  Hosted Luxury Italy Retreats: Tuscany & Amalfi Coast Experiences 1",
+        "Living Like Locals: A Tuscan & Umbrian Cooking & Wine Adventure 2",
+        "Alice in Wonderome | Custom Italy Tours & Travel Experiences 4"
+      ]
+    },
+    {
+      "url": "https://www.timesargus.com/news/naples-trash-piles-up-mayor-says-stay-calm/article_5be0d368-575f-5aa2-b12d-4a0a930a9ec3.html",
+      "page_title": "Naples' trash piles up; mayor says stay calm | News | timesargus.com",
+      "title": "Naples' trash piles up; mayor says stay calm",
+      "description": "NAPLES, Italy The mayor of Naples appealed to angry residents Saturday to stay calm in the city's two-week-old garbage crisis, and the prime minister called it an emergency that",
+      "text": "NAPLES, Italy The mayor of Naples appealed to angry residents Saturday to stay calm in the city's two-week-old garbage crisis, and the prime minister called it an emergency that must to be tackled quickly. Scattered clashes between youths and police continued, news reports said, as garbage accumulated in stinking mountains in the city. Collectors stopped picking up trash Dec. 21 because there is no more room for it at dumps. Premier Romano Prodi told journalists in his hometown of Bologna that Naples' garbage problems had to be solved \"once and for all,\" and that government ministers would meet on Monday to come up with a strategy. \"Everybody's watching us, and I don't want Italy to give off this negative image,\" Prodi said. \"It's an emergency we must tackle rapidly.\" Garbage pileups due to shortage of space in dumps have plagued the port city sporadically for several years. Although citizens are angered by the uncollected trash, they have also blocked plans to open new dumps in the Naples area. Groups of youths with their faces largely covered threw stones and pieces of metal at police in several parts of the Pianura neighborhood before dashing away, some of them on motor scooters, the Italian news agency Apcom reported from Naples. Naples Mayor Rosa Russo Iervolino said she was appealing to the \"overwhelming majority\" of law-abiding citizens in the Pianura neighborhood, where work has begun to reopen a long-closed dump. \"Respect the law,\" the mayor was quoted as saying by the Italian news agency ANSA. In Pianura, the heart of the protests, residents tossed tree trunks on roads and spread oil on streets to try to thwart the arrival of police. Officials have blamed organized crime infiltration of garbage collection services and disorganized bureaucracy for the piles of trash, on the city's outskirts and lining streets in Naples' historic center. Italian President Giorgio Napolitano has said he was alarmed by the situation and called on officials to take up their responsibilities in resolving the problem. Residents have taken to burning the trash, unleashing clouds of smoke in the city.",
+      "image_captions": []
+    }
+  ],
+  "evidence_count": 3,
+  "crawled_at": "2026-04-23T18:56:17.849440+00:00"
+}

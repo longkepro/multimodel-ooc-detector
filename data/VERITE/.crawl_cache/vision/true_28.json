@@ -1,0 +1,119 @@
+{
+  "sample_id": "true_28",
+  "image_url": "https://archive.vn/YE2OS/f860aa8163938853b0c5b58b61a653a566e36949.jpg",
+  "visual_entities": [
+    {
+      "description": "Immigration",
+      "score": 0.7361
+    },
+    {
+      "description": "",
+      "score": 0.7254
+    },
+    {
+      "description": "Family",
+      "score": 0.7254
+    },
+    {
+      "description": "Family separation",
+      "score": 0.6422
+    },
+    {
+      "description": "Immigration law",
+      "score": 0.6255
+    },
+    {
+      "description": "Human migration",
+      "score": 0.5248
+    },
+    {
+      "description": "Trump administration family separation policy",
+      "score": 0.5231
+    },
+    {
+      "description": "Legal separation",
+      "score": 0.4992
+    },
+    {
+      "description": "United States Citizenship and Immigration Services",
+      "score": 0.4852
+    },
+    {
+      "description": "",
+      "score": 0.4852
+    },
+    {
+      "description": "Family reunification",
+      "score": 0.4672
+    },
+    {
+      "description": "Parent",
+      "score": 0.4513
+    },
+    {
+      "description": "Family support",
+      "score": 0.4175
+    },
+    {
+      "description": "",
+      "score": 0.4118
+    }
+  ],
+  "best_guess_labels": [
+    "immigrant families reuniting"
+  ],
+  "similar_image_urls": [
+    "https://www.dailykos.com/wp-content/uploads/sites/2/images/759201/original/AP_20023314203609.jpg",
+    "https://www.theledger.com/gcdn/authoring/2020/01/23/NLED/ghows-LK-0ccbd35e-76c4-46b1-9ea4-c4c556292932-1018b4e5.jpeg",
+    "https://img.buzzfeed.com/buzzfeed-static/static/2021-01/26/23/asset/ea044536773e/sub-buzz-876-1611704001-1.jpg",
+    "https://st1.uvnimg.com/6a/d4/cb98b8f046f98807ec761d548149/ap-20023314203609.jpg",
+    "https://s.yimg.com/ny/api/res/1.2/qSZOwcbBL.pUBe6gIBB16A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0MDA7aD0xNzgwO2NmPXdlYnA-/https://media.zenfs.com/en/sheknows_79/2ae3598d509d5bf4c810900ffc462124",
+    "https://gcp-na-images.contentstack.com/v3/assets/bltea6093859af6183b/blt70d0c5d2638fa40b/698a207a09208f90d3418a44/separated-family-reunited-immigration.jpg?branch=production",
+    "https://s.hdnux.com/photos/01/26/77/02/22802562/4/rawImage.jpg",
+    "https://www.aljazeera.com/wp-content/uploads/2020/10/AP_20023314203609.jpg?resize=1920%2C1440",
+    "https://whyy.org/wp-content/uploads/2021/01/AP20338121440826.jpg",
+    "https://www.theledger.com/gcdn/authoring/2020/01/23/NLED/ghows-LK-0ccbd35e-76c4-46b1-9ea4-c4c556292932-1018b4e5.jpeg?width=1733&height=1285&fit=crop&format=pjpg&auto=webp"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.restorationimmigration.org/stories/reuniting-families",
+      "page_title": "Reuniting Families - Restoration Immigration Legal Aid",
+      "title": "Reuniting Families — Restoration Immigration Legal Aid",
+      "description": "Many RILA families know the searing pain of being separated from each other. Human trafficking, persecution and the threat of imminent harm and danger often tears families apart–leaving parents, children and siblings separated from one another with hundreds of miles and international borders between",
+      "text": "Reuniting Families\nMany RILA families know the searing pain of being separated from each other. Human trafficking, persecution and the threat of imminent harm and danger often tears families apart–leaving parents, children and siblings separated from one another with hundreds of miles and international borders between them. After persevering through long and tedious immigration journeys, we are able to help some families reunite and live together in safety. At RILA, we have the privilege of sharing in the indescribable joy of parents, children and siblings seeing each other again.\nOne such client is Alma* who, along with her oldest child, was trafficked into the United States in 2019, separating her from her two younger children. She says, “My son was 4 years old, and my daughter was 9 years old. Leaving them in Honduras felt like I was losing a part of myself because not a day went by without me thinking and worrying about them. I always carried with me those feelings of wanting to see and hug my children.”\nIn 2022, RILA helped Alma obtain legal status as a survivor of human trafficking. After securing status for Alma and her son, we began to work on petitions for her two younger children. Finally, after nearly five years of being apart, Alma and her son were reunited with her younger children just this past May. “It was an incredibly beautiful and overwhelming experience. I was filled with happiness and surprise to see how much they had grown. My daughter is now a fifteen-year-old teenager, and my son is nine years old. Both have grown up so much.”\n“When we first started living together as a family, I noticed that my children were quite shy around me. However, as time went by, they began to open up and trust me more. I hope to continue working hard to give my children everything they need to continue their studies and become professionals in this country. I am extremely grateful to the RILA organization for the support and assistance they have provided me. Thanks to them, I now have my children with me.”\n*Name has been changed for safety.",
+      "image_captions": [
+        "Restoration Immigration Legal Aid"
+      ]
+    },
+    {
+      "url": "https://whyy.org/articles/watchdog-doj-bungled-zero-tolerance-immigration-policy/",
+      "page_title": "Watchdog: DOJ bungled 'zero tolerance' immigration policy - WHYY",
+      "title": "Watchdog: DOJ bungled 'zero tolerance' immigration policy",
+      "description": "The policy resulted in over 3,000 family separations during “zero tolerance” and caused lasting emotional damage to children who were taken from their parents at the border.",
+      "text": "Watchdog: DOJ bungled ‘zero tolerance’ immigration policy\nThe policy resulted in over 3,000 family separations during “zero tolerance” and caused lasting emotional damage to children who were taken from their parents at the border.\nJustice Department leaders under President Donald Trump knew their 2018 “zero tolerance” border policy would result in family separations but pressed on with prosecutions even as other agencies became overwhelmed with migrants, a government watchdog report released Thursday has found.\nThe report from the inspector general for the Justice Department found that leadership failed to prepare to implement the policy or manage the fallout, which resulted in more than 3,000 family separations during “zero tolerance” and caused lasting emotional damage to children who were taken from their parents at the border. The policy was widely condemned by world leaders, religious groups and lawmakers in the U.S. as cruel.\nFormer Attorney General Jeff Sessions, along with other top leaders in the Trump administration, were bent on curbing immigration. The “zero tolerance” policy was one of several increasingly restrictive policies aimed at discouraging migrants from coming to the Southern border. Trump’s administration also vastly reduced the number of refugees allowed into the U.S. and all but halted asylum at the border, through a combination of executive orders and regulation changes.\nPresident-elect Joe Biden has said Trump’s restrictive immigration policies are harmful, but it’s not clear yet what he will do when he gets in office to alter the system. About 5,500 children have been separated from their parents since Trump took office, and many of those parents were deported without their children. Advocates for the families have called on Biden to allow those families to reunite in the United States.\nThe American Civil Liberties Union sued to stop the separations and a federal judge ordered the families to be reunited, but some are still not. Attorney Lee Gelernt, who has been working for years on the issue, said the practice was “immoral and illegal.”\n“At a minimum, Justice Department lawyers should have known the latter,” Gelernt said. “This new report shows just how far the Trump administration was willing to go to destroy these families. Just when you think the Trump administration can’t sink any lower, it does.”\nThe “zero tolerance” policy meant that any adult caught crossing the border illegally would be prosecuted for illegal entry. Because children cannot be jailed with their family members, families were separated and children were taken into custody by Health and Human Services, which manages unaccompanied children at the border. The policy was a colossal mess; there was no system created to reunite children with their families. The watchdog report found that it led to a $227 million funding shortfall.\nAccording to the report, department leaders underestimated how difficult it would be to carry out the policy in the field and did not inform local prosecutors and others that children would be separated. They also failed to understand that children would be separated longer than a few hours, and when that was discovered, they pressed on.\nThe policy began April 6, 2018, under an executive order that was issued without warning to other federal agencies that would have to manage the policy, including the U.S. Marshals Service and Health and Human Services. It was halted June 20, 2018.\nThe watchdog report found that judges, advocacy groups and even federal prosecutors raised concerns over the policy. But Sessions and others wrongly believed that arrests at the border would not result in prolonged separation and ignored the difficulty in reuniting families.\nNotes from a conference call Sessions had with U.S. attorneys from border districts record the former attorney general saying in part: “We need to take away children; if you care about kids, don’t bring them in.”\nJustice leadership looked at a smaller version of the policy enacted in 2017 in West Texas, but ignored some of the same concerns raised by judges and prosecutors at that time. Top leaders were focused solely on increased illegal activity and didn’t seek information that would have shown concerns over the family separations that would result.\nThe report follows other scathing investigations of the policy, adding to evidence that Trump administration officials knew a zero-tolerance policy would result in family separations and inflict trauma on immigrant parents and children.\nA watchdog report from the Department of Health and Human Services found that children separated at the border, many already distressed by their life in their home countries or by their journey, showed more fear, feelings of abandonment and post-traumatic stress symptoms than children who were not separated. The chaotic reunification process only added to their ordeal.\nIn a November 2017 email, a top Health and Human Services official wrote that there was a shortage of “beds for babies” as an apparent result of separations in and around El Paso, Texas, that occurred months before the national policy began. Other emails suggest the Department of Homeland Security did not tell HHS officials about the pilot program, even as government facilities for minors run by HHS saw an uptick in children who had been taken from their parents. The emails were released by congressional Democrats in an October 2020 report.\nGet daily updates from WHYY News!\nWHYY is your source for fact-based, in-depth journalism and information. As a nonprofit organization, we rely on financial support from readers like you. Please give today.",
+      "image_captions": [
+        "FILE - In this Wednesday, Jan. 22, 2020, file photo, David Xol-Cholom, of Guatemala, hugs his son Byron at Los Angeles International Airport as they reunite after being separated during the Trump administration's wide-scale separation of immigrant families, in Los Angeles. A court-appointed committee has yet to find the parents of 628 children separated at the border early in the Trump administration. (AP Photo/Ringo H.W. Chiu, File)",
+        "Today, Explained is Vox's daily explainer podcast. Hosts Sean Rameswaram and Noel King will guide you through the most important stories of the day.",
+        "Fresh Air opens the window on contemporary arts and issues with guests from worlds as diverse as literature and economics. Terry Gross hosts this multi-award-winning daily interview and features program.",
+        "President Trump leaves the Diplomatic Room of the White House.",
+        "Advocates and community members hold a vigil outside of Norristown Municipal Hall condemning ICE's actions in Montgomery County."
+      ]
+    },
+    {
+      "url": "https://www.cbsnews.com/news/immigration-family-separations-reparations-lawsuits/",
+      "page_title": "Migrant families separated under Trump face elusive quests for ...",
+      "title": "Migrant families separated under Trump face elusive quests for reparations under Biden",
+      "description": "Dozens of families separated along the U.S.-Mexico border under Trump are seeking reparations in federal court, but the Biden administration has sought to dismiss their lawsuits.",
+      "text": "Migrant families separated under Trump face elusive quests for reparations under Biden\nFernando Arredondo was fighting both his deportation and suicidal thoughts. He had developed a urinary tract infection and hives, lost eight pounds and fallen into a deep depression.\nArredondo was detained at an Immigration and Customs Enforcement facility in Georgia after being separated from his then 12-year-old daughter Andrea along the U.S.-Mexico border, where they had tried to seek asylum at a port of entry following the murder of his 17-year-old son in their native Guatemala.\n\"I cried every day. I asked God, 'What's going to happen to me? What's going to happen to my family?'\" Arredondo recently told CBS News in Spanish. Like hundreds of other parents, he spent months in U.S. immigration detention before being deported to Guatemala in August 2018 without his family.\nBecause of a court order, Arredondo was able to return to the U.S. in January 2020 to reunite with Andrea, his wife and their other daughters in Los Angeles, where an immigration judge is reviewing the family's request for asylum. If approved, they will be allowed to live in the U.S. permanently.\nBut last week, lawyers representing Arredondo and Andrea, now 16, sued the Biden administration, demanding millions of dollars in reparations from the government for their forcible separation and the trauma it caused.\nThere are now at least 22 pending lawsuits in federal courts across the U.S. on behalf of more than 80 parents and children seeking financial compensation for the trauma they endured after being separated by U.S. border officials during the Trump administration, according to a CBS News review of legal filings.\nLast year, the Biden administration agreed to negotiate with lawyers for migrant families seeking reparations to forge a compensation settlement for affected families. But in October 2021, the Wall Street Journal reported that $450,000 payouts were being considered, triggering intense Republican backlash.\nAmid the political fallout, the Biden administration in December ended the compensation negotiations. The talks' collapse means families seeking compensation must sue the government to seek damages — if they can find pro-bono lawyers willing to take up their costly and time-consuming cases.\nIn December, the Justice Department said, \"While the parties have been unable to reach a global settlement agreement at this time, we remain committed to engaging with the plaintiffs and to bringing justice to the victims of this abhorrent policy.\"\nBut a review of court records and interviews with four attorneys working on these cases show the Justice Department under President Biden has sought to dismiss lawsuits filed by migrant families requesting reparations, and is not settling individual cases to give families compensation it deems just.\nInstead, lawyers representing the Biden administration have argued to federal judges that families seeking financial redress over Trump-era border separations are not eligible for compensation under the Federal Tort Claims Act, citing the discretion U.S. officials have over the detention and processing of migrants.\n\"This discretion necessarily entails decisions regarding with whom noncitizens are detained, including decisions regarding whether adults and minors can be detained in the same facility and whether to detain family members together,\" the Justice Department wrote in a January request to dismiss a suit on behalf of three migrant families separated in 2018.\nThat dismissal request was denied on Tuesday by U.S. Magistrate Judge Kandis Westmore, who rejected the Justice Department's arguments and allowed the three families to continue seeking compensation.\n\"The fact that the Government is now attempting to evade liability for a policy that is still being unwound, as some children are still waiting to be reunited with their families, is not legally defensible,\" Westmore wrote in her opinion.\nThe Justice Department declined to comment on these reparation cases or say how it is fulfilling its December pledge of \"bringing justice\" to families split up during the Trump administration.\n\"Political double-speak\"\nAttorneys representing migrant families seeking financial compensation over their separations said the Biden administration should restart global settlement negotiations or seek to settle individual lawsuits.\n\"Not only would settling these cases on a global basis be the most efficient cost-saving means of proceeding for the government, but it would save the Biden administration from continuing to appear in case after case defending the legality of denying these families a single penny for the brutal harm they suffered,\" said Lee Gelernt, the American Civil Liberties Union lawyer who challenged the migrant separation policy in 2018.\nDuring a presidential debate in 2020, Mr. Biden forcefully condemned the separation of approximately 4,000 migrant children from their parents during the Trump administration, calling it \"criminal.\"\nMore than 200 migrant children have been reunited with their parents in the U.S. thanks to a task force Mr. Biden created during his second week in office, according to the Department of Homeland Security (DHS), which estimates that another 1,000 children remain separated from their families.\n\"Out of those 1,000 children, the Task Force has contacted over 500 parents and nearly 400 children are now in the reunification process,\" a DHS spokesperson told CBS News this week. \"We anticipate these families being reunified and making contact with additional families in the coming months.\"\nIn a meeting last summer with families affected by the separations, DHS Secretary Alejandro Mayorkas apologized on behalf of the U.S. government. DHS officials are also asking Congress for $20 million in funds to continue the task force's work and provide additional services to families.\nAttorneys noted they appreciate the Biden administration's efforts to reunite separated families, but said the ongoing attempts by the Justice Department to throw out lawsuits filed by parents and children requesting redress for the trauma inflicted upon them by the government tarnish those efforts.\n\"The government is wrong, morally and legally,\" said Bree Bernwanger, a Lawyers' Committee for Civil Rights attorney in San Francisco tracking the compensation lawsuits. \"They should return to the negotiating table. A failure to do so is engaging in political double-speak. You can't disavow a policy and then defend it in court.\"\nThe failure to provide reparations to parents and children who were separated will exacerbate some challenges faced by those who have recently reunited, including housing insecurity, financial instability and scarce access to mental health and medical services, according to two U.S.-based groups assisting them.\nUsing private donations, the organizations Together and Free and Seneca Family of Agencies said they are offering temporary housing, rental assistance, clothing, case management and other services to about 180 migrant parents and children who recently reunited in the U.S. after separations in 2017 and 2018.\n\"Only once families have stable housing and food on the table can they really start addressing the trauma and harm caused by family separation,\" said Kate Wheatcroft, executive director of Together and Free.\nA November 2021 qualitative study by Physicians for Human Rights clinicians found that separated families showed signs of severe psychological distress and recommended monetary restitution.\nThe lawsuit filed on behalf of Arredondo and his daughter Andrea said they both continue to suffer from \"severe emotional distress,\" even after their reunification in early 2020. Arredondo and Andrea have both been diagnosed with post-traumatic stress disorder, according to the lawsuit.\n\"For any reader of any political stripe, it should shock the conscience that this is what our government did to this family that lawfully approached our country to ask for asylum,\" said Linda Dakin-Grimm, a pro-bono attorney for the law firm Milbank who filed the lawsuit on behalf of Arredondo and Andrea.\nAs a policy matter, Republicans have argued against reparations, saying the U.S. should not be giving compensation to migrants who entered the country illegally. Some migrant families, including Arredondo's, were separated after asking for asylum at a port of entry, which is legal under U.S. law.\nArredondo said financial compensation will help his family, especially his young daughters. But he stressed that no amount of money will erase the memories from the day U.S. border agents separated him from Andrea, his months in detention, his deportation and the nearly two-year separation from his family.\nIt also won't erase the painful reason why his family journeyed north: his son's killing.\n\"You don't forget it. You don't forget it,\" Arredondo said, choking up.",
+      "image_captions": [
+        "Fernando Arredondo of Guatemala reunites with his daughters Andrea, left, Keyli, right, and Alison, second from left, at Los Angeles International Airport after being separated during the Trump administration's wide-scale separation of immigrant families, Wednesday, January 22, 2020.Ringo H.W. Chiu / AP",
+        "CBSN Exclusive: Separated family's emotional return to U.S.07:04",
+        "David Xol-Cholom, of Guatemala, hugs his son Byron at Los Angeles International Airport in January 2020 as they reunite after being separated during the Trump administration's wide-scale separation of immigrant families.Ringo H.W. Chiu / AP",
+        "Migrant families separated by Trump-era policy fighting for restitution04:53",
+        "Camilo  Montoya-Galvez"
+      ]
+    }
+  ],
+  "evidence_count": 3,
+  "crawled_at": "2026-04-23T18:30:48.256352+00:00"
+}

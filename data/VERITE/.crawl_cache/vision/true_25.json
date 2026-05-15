@@ -1,0 +1,123 @@
+{
+  "sample_id": "true_25",
+  "image_url": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2021/02/frozen-boat.jpg",
+  "visual_entities": [
+    {
+      "description": "Ship",
+      "score": 1.48185
+    },
+    {
+      "description": "Boat",
+      "score": 0.77472293
+    },
+    {
+      "description": "Yacht",
+      "score": 0.6047
+    },
+    {
+      "description": "Icebreaker",
+      "score": 0.5383
+    },
+    {
+      "description": "Watercraft",
+      "score": 0.521
+    },
+    {
+      "description": "Lake Erie",
+      "score": 0.46678504
+    },
+    {
+      "description": "Cruise ship",
+      "score": 0.416
+    },
+    {
+      "description": "Ice",
+      "score": 0.4098
+    },
+    {
+      "description": "Marina",
+      "score": 0.3994
+    },
+    {
+      "description": "Iceboat",
+      "score": 0.3793
+    },
+    {
+      "description": "Lake",
+      "score": 0.3036
+    }
+  ],
+  "best_guess_labels": [
+    "boat frozen in ice"
+  ],
+  "similar_image_urls": [
+    "https://www.esys.org/rev_info/Italien/Bise_Boot_Eis-hq.jpg",
+    "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2021/02/frozen-boat.jpg",
+    "https://images.squarespace-cdn.com/content/v1/59c274973e00be59ca48a4c2/1507996714399-HXSTHVQLDWJN63FQJQ1W/Geneva%2C_Frozen_boats_due_to_%5Equot%2Cbise%5Equot%2C_wind_-_panoramio.jpg?format=750w",
+    "https://mediaproxy.snopes.com/width/600/https://media.snopes.com/2021/02/frozen-boat.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.foxweather.com/watch/fmc-h9o287srg00n9pzq",
+      "page_title": "Watch: US Coast Guard frees boat stuck in ice in St. Mary's River",
+      "title": "Watch: US Coast Guard frees boat stuck in ice in St. Mary's River | Latest Weather Clips | FOX Weather",
+      "description": "A US Coast Guard boat helped free a 1,000-foot vessel that became trapped in ice in early February 2026 in the St. Mary's River in the Great Lakes.",
+      "text": "02:11 Watch: Wildfires leave trail of damage across southern Georgia amid historic drought Extreme Weather 34 mins ago\n06:31 Wildfires burning across southeastern Georgia with thousands of acres scorched and dozens of homes destroyed Extreme Weather 1 hour ago\n07:33 Protecting the world's rarest fish during extreme heat in Death Valley National Park Weather News\n02:44 Severe weather 'marathon' targets Plains, Mid-South, with threats of large hail, possible strong tornadoes this weekend Weather News",
+      "image_captions": [
+        "Fox Weather App on an iPhone, Fox Weather logo overlapping",
+        "Watch: US Coast Guard frees boat stuck in ice in St. Mary's River",
+        "Watch: Wildfires leave trail of damage across southern Georgia amid historic drought",
+        "Wildfires burning across southeastern Georgia with thousands of acres scorched and dozens of homes destroyed",
+        "Watch: Brown bear charges at hikers in California"
+      ]
+    },
+    {
+      "url": "https://www.foxweather.com/watch/fmc-v235l1ralif20nn3",
+      "page_title": "Extravagant boat trapped in ice near Antartica | Latest Weather Clips",
+      "title": "Extravagant boat trapped in ice near Antartica | Latest Weather Clips | FOX Weather",
+      "description": "The U.S. Coast Guard rescued a luxury cruise ship that was stuck in thick sheets of ice near Antarctica. It took two passes to break the boat out of the ice.",
+      "text": "02:11 Watch: Wildfires leave trail of damage across southern Georgia amid historic drought Extreme Weather 34 mins ago\n06:31 Wildfires burning across southeastern Georgia with thousands of acres scorched and dozens of homes destroyed Extreme Weather 1 hour ago\n07:33 Protecting the world's rarest fish during extreme heat in Death Valley National Park Weather News\n02:44 Severe weather 'marathon' targets Plains, Mid-South, with threats of large hail, possible strong tornadoes this weekend Weather News",
+      "image_captions": [
+        "Fox Weather App on an iPhone, Fox Weather logo overlapping",
+        "Extravagant boat trapped in ice near Antartica",
+        "Watch: Wildfires leave trail of damage across southern Georgia amid historic drought",
+        "Wildfires burning across southeastern Georgia with thousands of acres scorched and dozens of homes destroyed",
+        "Watch: Brown bear charges at hikers in California"
+      ]
+    },
+    {
+      "url": "https://www.snopes.com/fact-check/uss-al-gore-stuck-in-ice/",
+      "page_title": "Did the 'USS Al Gore' Get Stuck in Ice? | Snopes.com",
+      "title": "Did the 'USS Al Gore' Get Stuck in Ice?",
+      "description": "The truth about this meme may be inconvenient.",
+      "text": "Origin\nIn February 2021, as much of the United States was experiencing unusually cold weather, a photograph started circulating on social media that supposedly showed a \"global warming research vessel\" dubbed the USS Al Gore frozen in ice:\nThis is a genuine photograph but it does not show a ship called the \"USS Al Gore.\" It should also be noted that the premise of this joke — a global warming research vessel encountering cold weather — is based on a common and persistent misunderstanding of climate change.\nWhile Al Gore, who served as the 45th vice president of the United States during U.S. President Bill Clinton's administration, has been warning people about climate change since at least 2006 when he released his documentary \"An Inconvenient Truth,\" there is no global warming research vessel in the United States navy that bears his name.\nThis photograph, too, is several years old. While we have not been able to find a definitive source for this picture, it appears that it was taken in Geneva, Switzerland, in 2005. In other words, this photo has nothing to do with Gore.\nThis meme also appears to confuse climate with weather. Kevin Petty, director of science and forecast operations for The Weather Company, explained the difference between these two terms in an article published by the Weather Channel:\n\"When we talk about weather, we're simply talking about what occurs on a daily basis, what do you see outside your window right now. However, when we talk about climate, climate is the average weather that we get over a long period of time,\" Kevin Petty, director of science and forecast operations for The Weather Company, an IBM company, said in an interview Friday. \"And when people are referring to climate change, they're referring to how those averages are going to change over a long period of time.\"\n\"Global warming\" is another term that causes some confusion. While the data shows that average global temperatures have been climbing for decades, that does not mean that wintry weather is a thing of the past. In fact, the cold snap in the United States in February 2021 may actually show the impact of climate change:\nPBS NewsHour reporter Amna Nawaz talked to Dev Niyogi, a professor at the Department of Geological Sciences at the University of Texas, Austin, about this issue:\nNawaz: One of the arguments about climate change, though, is, people will say, well, it's actually been making winters milder overall. Sol, how would it be leading to the severe cold temperatures?\"\nNiyogi: Great point on that. We talk about climate change and global warming sometimes with the thinking that it means our temperatures ought to be warmer and warmer.\nBut one factor that we also highlight is what we will be seeing is these wild swings, both in terms of temperature, rainfall, also in terms of the manner in which storms are coming. So, this kind of weather event, which is unprecedented in the context of how things are being spanning, spatially, as well as in time, is exactly the kind of thing, unfortunately, that a change in climate has — been predicted.\nWhether this is just climate change, or whether this is seasonal interactions or weather event, that will be a topic that will be debated. But what is really important is to understand that this is happening now.",
+      "image_captions": [
+        "Watercraft, Vessel, Transportation"
+      ]
+    },
+    {
+      "url": "https://www.lifesaport.com/home/2017/10/9/winter-on-board-whats-going-to-happen",
+      "page_title": "Winter on board, what's going to happen? Part 1 - Lifesaport",
+      "title": "Winter on board, what's going to happen? Part 1 — Lifesaport Articles",
+      "description": "Nothing beats the excitement of spring and summer when living aboard. As fall throws it's first nips of cold weather, it's time to get serious about winter. So, if steaming south for the winter isn't going to be in the cards. Here's some ways to comfortably live aboard through the harsher",
+      "text": "Winter on board, what's going to happen? Part 1\nNothing beats the excitement of spring and summer when living aboard. But, as fall throws it's first nips of cold weather, it's time to get serious about old man winter coming. So, if steaming south for the winter isn't in the cards. Here's some ways to comfortably live aboard through the harsher months if you're docked up north. These are broken into two sections, Protecting Your Boat and Protecting Yourself.\nThis post will have some purchase links to the items we use. These won't be right for everyone but if you decide to go with any of the products listed, clicking through our link will help support the Improbable Fund and this site. Thanks\nProtecting Your Boat from freezing\nThe biggest concern for your boat during the winter is freezing water. Whether it's the water in your boat or under. We all learned in basic chemistry that water expands when it freezes. If it's trapped in a sealed space or compartment the freezing action will blow that space apart. Inside a boat this can be in the freshwater pipes or tanks, in the engine cooling passages, the water in the bilge and even the water in your holding tank. Outside the boat, this can happen in water drains, wet bar and water spigots, coolers, in water logged coring like discussed in \"don't spend money on a survey just yet...\" or any area that water cannot drain away from. Under the boat is nothing but water. Which this water isn't trapped but is capable of trapping your boat and squeezing it like a beer can. Let's break these down into three fronts that need to be defended.\nWe'll start from the bottom up with the water under your boat.\nNow, if you plan to haul out for the winter this won't be an issue and you can skip on to the next section. If you're docked in a place where there's a good chance the water in the marina is going to freeze you need to get a De-Icer. This is nothing but a water tight electrical motor with a little propeller attached. The theory behind it is two fold. Moving water is less likely to freeze and generating a water flow around your boat's hull will help make an ice free barrier. This isn't fool proof though because ice sheets that are already formed can float over the rushing water and cap it off allowing more ice to form. Enter geothermal heat. Water near the bottom is kept warmer than the top layers by the heat of the Earth. Propelling this water up to surround your boat's hull will act to melt the ice. Compounding the two properties can save you from having your boat trapped and the running gear twisted in the ice. Below is an example of the de-icer from Kasco that we use. We suspend it from the bow and using a third rope that I've attached to the bottom with a large worm gear clamp. Doing so I'm able to aim the water flow at a 45% angle while splitting it across the bow for protection on both sides of the hull.\nOne of the problems with using a de-icer like this one is operating costs. Leaving it running all the time can be expense, not to mention wasteful. Kasco does make a thermostat for their de-icer. We opted not to go with it because it measures the temperature of the air and not the water. There can be fluctuations between the two. Which can cause the de-icer to activate or deactivate at the wrong times. Below is the thermostat that we use. It's not a \"marine\" product but it works just fine.\nNote: There seems to be a lot of cross over of good stainless steel parts and equipment from the home beer brewing industry like this one. Its always a good idea to see if there's an equivalent item from a different industry when searching for parts. You can save lots of money this way.\nUsing the probe; secure it to a lifeline or railing on your boat so that the probe just touches the water. That way it'll activate the de-icer based on the water temperature and not the air. This will save you even more on electricity. This unit can activate based on rising temperatures too. Although, I haven't found a use for that yet. Another bonus is that this thermostat is 40% of the cost of the Kasso one. Note: if the probe lead is too short to reach the water, you can purchase an extension cable with 3.5mm headphone style jack ends to give you more reach.\nOn to the outside of the boat.\nBefore it gets too cold you'll want to give your boat a good scrubbing. This way you can check that all the drains are clear and get the dirt off the fiberglass to prevent winter from grinding it in. Make sure to turn off any water lines that pass through unheated areas to the outside. Such as wet bars, transom showers, or water spigots. If the factory didn't install shut offs to these you can either cut the pipe and install your own valve or wrap the pipe in a foam rubber pipe insulator. The alternative to this is creating a greenhouse like bubble around the boat using shrink wrapping. The sun will heat the inside of the bubble to tropical conditions.\nShrink wrapping can be done by yourself. But, I'd recommend paying someone to do it the first go and watching them to learn how it comes together. You need to pay special attention to building the entrance way, inner structure and how to tie it down so it doesn't blow away. In the picture you can see that this guy built a door into the shrink wrap frame work. Pretty crafty! We haven't tried shrink wrapping as of yet.\nProtecting the inside of your boat from freezing\nI'm going to approach this from a liveaboard point of view. Meaning this is what you want to do to keep everything from freezing but still functional. Non-liveaboards planning to do a full \"winterizing\", e.g. shutting down all functionality, leaving the boat allowing cabin temperatures to drop into the freezing, should reconsider the following and research \"how to completely winterize your boat\" on Google.\nYour source of cabin heat, whether electrical, propane or diesel fired air heater or a hydronic system is the front line against freezing inside the boat. Electrical is the most inefficient of these. Be it an a/c & heat pump unit that uses the water from outside the boat or regular old space heaters you're going to subjected to poor performance at a high price. Heat pumps found on boats will not work if the incoming water temp is below 45 degrees. Using electric space heaters to supplement the heat pump can tax your electrical system to the max. Potentiality becoming a fire hazard. Worst part is they really can only handle heating the room that they're placed in. If you have 5 rooms/areas and 5 heaters racing at 1500 watts, you're putting a 7500 watt load on your system. Using ohm's law, you can calculate that a boat equipped with 50 amp service can handle only 6000 watts. Seeing a bit of a shortage here? Using electric heat isn't a good long term plan. Especially in a marina prone to power failures.\nDiesel, gas or propane fired forced air heaters are many steps up from electric heat in cost savings and effectiveness. We use 2 Webasto 55 EVO diesel heaters. Keeping our boat above 70 degrees when it's 15 degrees outside is not an issue. Fuel usage is 10-15 gallons a week without using any type of insulation and maintaining a constant temperature. I installed the system myself and looking back I think I could have made it even more efficient. Forced air systems like this are good but don’t do well in the residual heat department and only work in areas with output vents. Engine rooms and bilges can go wanting. Here's an install trick: Piping the forced air unit to take in cold air from outside to heat instead of recirculating cabin air has the effect of positive internal pressure on the inside of the cabin. Meaning the pressure of the hot air will always be greater than the outside cold. Thus the heated air will always be pushing it's way out instead of the cold air pushing in. Don't make the mistake of thinking your boat is perfectly sealed...far from it.\nThe ultimate heater is the Hydronic heater. It runs on fuel similar to the forced air units but heats water instead of air. Just like a boiler in a house, hot water is pumped through pipes all over the boat. Including registers that have fans that blow air across little radiators to heat rooms. The hot water can be pumped through the engine blocks to keep them warm and even through a specialty hot water heater for your freshwater system. The warm pipes running through the boat's unfinished areas and bilge will heat these areas too. This system is more fuel efficient than a hot air heater system. However, it is the most complicated system to retrofit into a boat.\nAs I noted above one of the advantages to a hydronic heater is heating the engine blocks. If you're stuck heating the other ways this is something that needs to be addressed. There are a few ways to do it. One is the old fashion way of flushing the engines with freshwater antifreeze. This is fine if you have zero plans of taking your boat out. Once you winterize your engine, firing them up will de-winterize them by pumping the freshwater antifreeze out of the exhaust in a matter of seconds. No big deal but you'll need to re-winterize them before it freezes again. Alternatively, you can do like we do and heat the engine room. To do this properly, you'll need to plug up the engine vents on the side or top of the boat using closed cell foam (cushion foam of mattress topper foam). This will form an air pocket of the engine room that can be heated. We use an oil filled electric heater on the lowest setting. These are the most efficient of the electric heaters. Still a bit wasteful but doing this allows use to easily take the boat to the fuel dock to fill up or run the grass off the bottom. It keeps everything in the engine room lukewarm to the touch. A side effect of this is that it'll heat the floor above the engine room too. A nice touch if your engine room is below the salon.\nBeing able to use either the hydronic or forced air heaters provides some other bonuses; Running the temperature up in your boat hot enough to melt snow and ice on the deck is entirely possible. This is one of the reasons I haven't shrink wrapped yet. We had an early snow last year and I noticed that there wasn't any sticking to the deck. I could feel the warmth on the deck with my hand. Massively inefficient I know but still a plus. Plus, if the power at the marina goes out during a bad storm these types of heaters run on 12v batteries and can sustain quite a while on your house batteries before having to fire up the generator.\nDoing these things will keep your boat nice, toasty and unfrozen during the winter. Now, the dock is another story. On a icy dock you're taking your life into your own hands. Slipping and falling off the dock into icy water at 5am, on the way to work, when no one else is around to see you go in, could be the end of your story. Not to worry, where there's a will there's a way. In the next article I'll address how to keep yourself warm and safe all winter.\nCheers,\nMike\nLife's a port\nEDIT: After I posted this I realized that I didn't address icing of the boat like you see in the article picture. This type of icing can occur when it's cold enough to freeze and the wind is whipping up sea spray. Scary enough is that this process can take place in only a few hours. The ice itself doesn't hurt anything but it will weigh the boat down. This can become the hazard. As the boat's hull sinks deeper into the water the chances of a non underwater, non- valved thru-hull dipping below the water line increase. Ice can form in the hose attached to the thru hull and crack it. Possibly allowing enough water to enter the boat to cause it to sink. However, if you're a liveaboard and have your heaters running most likely ice won't form to the deck like in the picture. The lack of insulation in the boat's hull will work for you in this case. Never the less, stay vigilant and shed what ice you can without damaging anything. And, you can never have too many bilge pumps....just in case.",
+      "image_captions": [
+        "Seen here is an example of an elaborate heat shrink job to maximize deck space during the winter.  Note the wood and pipe work frame that was put up to create space around the deck walks.  Using clear wrap will provide you more daylight while capturing more heat instead of the industry standard white.  PVC piping is the most cost effective way to build a structure.  Wood is a second choice.",
+        "Winter on board, what's going to happen?  Part 1",
+        "quit playing with your dinghy! part 2, inflatables, RIBs &amp; hard sides",
+        "Silverton 410 Sport Bridge",
+        "Herring Bay looking West into the Sunset"
+      ]
+    },
+    {
+      "url": "https://www.nbcnews.com/nightly-news/video/a-freight-ship-stuck-in-ice-on-lake-erie-is-finally-free-230276677782",
+      "page_title": "A freight ship stuck in ice on Lake Erie is finally free - NBC News",
+      "title": "A freight ship stuck in ice on Lake Erie is finally free",
+      "description": "A freight ship stuck for days in ice on Lake Erie is finally free. Coast Guard ships from the U.S. and Canada circled it, helping break up the ice. NBC News' Jose Diaz Balart reports.",
+      "text": "Iran attacks and seizes commercial ships after Trump extends ceasefire\n02:22\nTerrifying rescue of 7 tourists from cliff in Australia\n00:52\nSpirit Airlines nears deal with Trump administration\n01:04\nTwo CIA officers killed in car crash after Mexico drug raid\n01:25\nHHS Secretary RFK Jr. grilled on Capitol Hill\n02:17\nTrump extends ceasefire deadline with Iran as talks stall\n02:47\nLAUSD votes to restrict screen time at school\n01:48\nNursing profession sees major boom\n01:46\nAirlines slash summer flights\n01:48\nAmericans injured in deadly Mexico pyramid shooting\n01:41\nClose call at JFK Airport as two regional jets come dangerously close\n01:26\nTrump ‘unlikely’ to extend ceasefire as deadline for deal approaches\n02:08\nFBI says it is looking into whether cases of missing and dead scientists are linked\n01:30\nDeadly shooting at Mexico tourist site\n00:59\nHigh school principal crowned prom king after stopping gunman\n01:12\nInside look at Jeffrey Epstein’s ranch in New Mexico\n02:20\nNightly News\nA freight ship stuck in ice on Lake Erie is finally free\n00:41\nCopied\nA freight ship stuck for days in ice on Lake Erie is finally free. Coast Guard ships from the U.S. and Canada circled it, helping break up the ice. NBC News' Jose Diaz Balart reports.Jan. 26, 2025",
+      "image_captions": []
+    }
+  ],
+  "evidence_count": 5,
+  "crawled_at": "2026-04-23T16:52:14.968904+00:00"
+}

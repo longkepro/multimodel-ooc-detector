@@ -1,0 +1,105 @@
+{
+  "sample_id": "false_230",
+  "image_url": "https://i.guim.co.uk/img/media/84f03422461b7fcf28d1a7a8b6423c75ae2ede6d/0_50_4000_2400/master/4000.jpg?width=1200&quality=85&auto=format&fit=max&s=49ad50cc3bd32dabd5058618de785e9e",
+  "visual_entities": [
+    {
+      "description": "The Sound of the Crowd",
+      "score": 0.5625
+    },
+    {
+      "description": "Brazil",
+      "score": 0.5049
+    },
+    {
+      "description": "future",
+      "score": 0.4724
+    },
+    {
+      "description": "The Human League",
+      "score": 0.4617
+    },
+    {
+      "description": "The Crowd",
+      "score": 0.4016
+    },
+    {
+      "description": "Crowd of Chairs",
+      "score": 0.3592
+    },
+    {
+      "description": "",
+      "score": 0.3366
+    },
+    {
+      "description": "Crowd",
+      "score": 0.30662823
+    }
+  ],
+  "best_guess_labels": [
+    "crowd"
+  ],
+  "similar_image_urls": [
+    "https://www.aljazeera.com/wp-content/uploads/2021/05/AP21149569473938.jpg",
+    "https://www.srherald.com/wp-content/uploads/2021/06/31e90e27-9640-1c92-9eaa-f15df4215e0e-e1622577023677.jpg",
+    "https://i.guim.co.uk/img/media/84f03422461b7fcf28d1a7a8b6423c75ae2ede6d/0_50_4000_2400/master/4000.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=df6ca75fd6ead1c0639f98dd13898ed8",
+    "https://www.aljazeera.com/wp-content/uploads/2021/05/AP21149569473938.jpg?fit=1170%2C780&quality=80",
+    "https://i.guim.co.uk/img/media/84f03422461b7fcf28d1a7a8b6423c75ae2ede6d/0_50_4000_2400/master/4000.jpg?width=1200&quality=85&auto=format&fit=max&s=49ad50cc3bd32dabd5058618de785e9e",
+    "https://images.24ur.com/media/images/1106xX/May2021/6484d2cb8281b648aa4c_62568235.jpg.webp?v=9229",
+    "https://image.hkhl.hk/f/1024p0/0x0/100/none/4f11e5d10bf2a00dcf1c2a7a925327cc/images/_2021053010314472883.jpg",
+    "https://wtop.com/wp-content/uploads/2021/05/Virus_Outbreak_Brazil_73938-480x320.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.aljazeera.com/gallery/2021/5/30/in-pictures-brazilians-stage-nationwide-protests",
+      "page_title": "In Pictures: Tens of thousands protest Bolsonaro's COVID moves",
+      "title": "In Pictures: Tens of thousands protest Bolsonaro’s COVID moves",
+      "description": "Demonstrators in Brazilian cities rally against President Bolsonaro's chaotic coronavirus response.",
+      "text": "In Pictures\nIn Pictures: Tens of thousands protest Bolsonaro’s COVID moves\nThousands march in Brazilian cities and towns against President Bolsonaro’s COVID response.\nTens of thousands of people in Brazil staged another day of protests against President Jair Bolsonaro, in particular for his chaotic handling of the pandemic, which has killed more than 461,000 people in the country.\nIn downtown Rio de Janeiro, some 10,000 people wearing masks marched through the streets with some chanting “Bolsonaro genocide” and “Go away Bolsovirus”.\nSimilar rallies were held in other major cities, the latest in a wave of anger against Bolsonaro that began months ago. After the United States, Brazil has the world’s second-highest coronavirus death toll.\nAt the outset of the pandemic, the far-right president dismissed COVID-19 as “a little flu” and, as the death toll rose steadily, he went on to infuriate people in other ways, opposing stay-at-home measures and masks, touting ineffective medications, refusing offers of vaccines, and failing to anticipate oxygen shortages that left patients to suffocate.\nOne of the themes of the rallies on Saturday was how many lives might have been saved if the Bolsonaro government started Brazil’s vaccination drive earlier. The effort is going slowly and has sputtered frequently for lack of supplies.\n“We must stop this government. We must say ‘enough is enough’,” businessman Omar Silveira told the AFP news agency at the Rio rally.\nOf Bolsonaro, he added: “He is a murderer, a psychopath. He has no feelings. He does not feel as we do. He cannot perceive the disaster that he is causing.”\nDemonstrators also assailed Bolsonaro for allowing deforestation of the Amazon and land seizures from Indigenous people and said he encourages violence and racism.",
+      "image_captions": [
+        "Demonstrators take part in a protest against Brazil's President Jair Bolsonaro in Brasilia, Brazil. [Ueslei Marcelino/Reuters]",
+        "Brazilians staged protests against President Jair Bolsonaro's handling of the COVID-19 pandemic in at least 16 cities across the country on Saturday. [Nelson Almeida/AFP]",
+        "Bolsonaro's popularity has plummeted during the coronavirus crisis, which has killed more than 460,000 Brazilians. [Ricardo Moraes/Reuters]",
+        "The Brazilian national flag smeared with red paint is seen during a protest against Brazil's president. [Ueslei Marcelino/Reuters]",
+        "Bolsonaro has remained defiant despite the criticism and continues to reject coronavirus-related restrictions. [Amanda Perobelli/Reuters]"
+      ]
+    },
+    {
+      "url": "https://www.theguardian.com/world/2021/may/29/tens-of-thousands-of-brazilians-march-to-demand-bolsonaros-impeachment",
+      "page_title": "Tens of thousands of Brazilians march to demand Bolsonaro's ...",
+      "title": "Tens of thousands of Brazilians march to demand Bolsonaro’s impeachment",
+      "description": "Protests in over 200 cities and towns in Brazil sparked by president’s handling of the Covid pandemic",
+      "text": "Tens of thousands of protesters have poured on to the streets of Brazil’s largest cities to demand the impeachment of President Jair Bolsonaro over his catastrophic response to a coronavirus pandemic that has claimed nearly half a million Brazilian lives.\nThe demonstrators turned out in more than 200 cities and towns for what is the biggest anti-Bolsonaro mobilisation since Brazil’s Covid outbreak began\n“Today is a decisive milestone in the battle to defeat Bolsonaro’s genocidal administration,” said Silvia de Mendonça, 55, a civil rights activist from Brazil’s Unified Black Movement as she led a column of protesters through Rio’s dilapidated city centre.\nOsvaldo Bazani da Silva, a 48-year-old hairdresser who lost his younger brother to Covid-19, said: “We can’t lose any more Brazilian lives. We need to hit the streets every single day until this government falls.”\nIn Rio many marchers carried homemade placards remembering loved ones they have lost to an epidemic that has killed nearly 460,000 Brazilians, the world’s second largest official death toll after the US. “I’m here in his memory,” said Luiz Dantas, 18, clutching a photograph of his grandfather, Sebastião, who died in February aged 75.\n“The culprit has a first and a second name,” Dantas claimed, in reference to his country’s far-right president who has repeatedly trivialised the coronavirus as a “little flu” and sabotaged containment efforts such as social distancing or lockdowns.\n“I want justice,” the teenager added, shedding tears as he spoke.\nIrene Grether, a 69-year-old psychoanalyst who was also at the demo, said two relatives had died as a result of her government’s inaction. “This government is more dangerous than the virus,” she said as thousands of protesters gathered near a statue remembering the anti-slavery resistance leader Zumbi dos Palmares.\nGrether’s niece, a 46-year-old economist called Ana Paula Carvalho said she believed Bolsonaro should be brought before the international criminal court in The Hague “for crimes against the Brazilian people”. “He fosters death and destruction,” she said. “Bolsonaro is a Brazilian tragedy.”\nBolsonaro has defended his response to the pandemic, claiming his dogged opposition to lockdown is designed to project Brazilian livelihoods and jobs. But Carvalho said that by allowing the uncontrolled spread of the virus – and failing to acquire sufficient vaccines – Bolsonaro had destroyed the economy, as well as lives. “Today the Brazilian people have a choice between dying from the virus or of hunger,” she said.\nSaturday’s demonstrations – which also took place in major cities including São Paulo, Belo Horizonte, Recife and the capital Brasília, as well as scores of smaller towns – come with Bolsonaro at arguably his lowest ebb since he took office in January 2019.\nPolls suggest growing anger at the rightwing populist’s handling of Covid, with 57% of the population now backing his impeachment. A congressional inquiry is currently dissecting Bolsonaro’s calamitous response to the public health crisis with damaging revelations about his government’s conduct being broadcast each night on the news.\nBolsonaro appears particularly rattled by the reemergence of his political rival Luiz Inácio Lula da Silva, the former leftist president who looks poised to challenge him for the presidency in next year’s election. In a recent interview with the Guardian Lula, whose political rights were recently restored, said he had no doubt the Brazilian people would “free themselves” from Bolsonaro in 2022. “He could have avoided half of these deaths,” Lula said of Bolsonaro’s reaction to Covid.\nRoberto Anderson, 67-year-old university professor and environmentalist who was at Saturday’s march, said he felt encouraged by the large turnout that suggested the tide was finally turning against Brazil’s radical rightwing leader.\n“People are waking up. Lots of people who voted for Bolsonaro are now wobbling … and the politicians who support him still are opportunists – the moment they see the people organising they will switch sides too,” Anderson claimed.",
+      "image_captions": [
+        "'No to dictatorship': thousands of Brazilians rally against Bolsonaro – video",
+        "Demonstrators kick a head prop depicting Brazil’s president, Jair Bolsonaro, during a protest in Rio de Janeiro on Saturday.Photograph: Pilar Olivares/Reuters",
+        "The civil rights activist Silva de MendonçaPhotograph: Handout",
+        "Demonstrators protest against Jair Bolsonaro in front of Monumento Zumbi in Rio de Janeiro on Saturday.Photograph: Pilar Olivares/Reuters",
+        "Luiz Dantas, 18, who lost his grandfatherPhotograph: Handout"
+      ]
+    },
+    {
+      "url": "https://smoothmanpower.com/?g=109022371051370",
+      "page_title": "Ses Ar Disc Buy Enve Wheels ENVE SES AR Disc Wheelset Excel ...",
+      "title": "Smooth Manpower Supply Services | Smooth Company Dubai-UAE",
+      "description": "Smooth Manpower Company UAE delivers expert manpower supply services in Dubai and across the UAE. Reliable staffing solutions for every industry.",
+      "text": "Payroll Bureau Services\nPayroll Management is often complex and involves tons of paperwork. When you outsource its management to us, you have a dedicated expert in finance, accounting and taxation at your disposal, at all times.\nSMOOTH MANPOWER SUPPLIES was established in 2005 and has maintained an excellent track record in the field of contracting and manpower services in several different sectors ranging from blue collar to white collar workers. We have a wide, diverse and dedicated workforce that hail from different parts of the world – India, Sri Lanka, Pakistan, Ghana and Nigeria\nWe operate a tailored extension of your HR with compliant and efficient solutions for ...\nOur unique approach and understanding of our clients’ business allows us to ...\nPayroll Management is often complex and involves tons of paperwork. When you outsource its management to us, you have a dedicated expert in finance, accounting and taxation at your disposal, at all times.\nNo quota limitations.\nMinistry of labour authorized company.\nDedicated delivery teams with local and global experience.\nProject-Managed transitions.\nQuicker delivery at lower costs.\nExclusive partnerships and access to global networks.\nSmooth Manpower Supply Services has been a valuable partner, providing exceptional support to our projects. We look forward to working with them on future projects should an opportunity arise. We wish Smooth and its team all the very best in their future endeavors.\nSmooth Manpower Supply Services has provided exceptional support to our joinery factory and key projects like Bab Al Shams, Bulgari, Dorchester DMCC, and Atlantis. Their dedication and professionalism are truly appreciated.\nSmooth Manpower Supply Services has been a reliable support to our projects at Dubai Hills and Palm Jumeirah. Their dedication and professionalism have been commendable, and we truly appreciate their efforts. We look forward to future collaborations\n404, Al Mazrouei Building Al A'sam Street, Al NahyanAbu DhabiUAE\nAl Majaz Jamal Abdul Nasser Street Ground Floor (G-1) Sharjah",
+      "image_captions": []
+    },
+    {
+      "url": "https://wtop.com/latin-america/2022/02/mummies-of-children-unearthed-in-peru-they-were-likely-sacrificed/",
+      "page_title": "Mummies of children unearthed in Peru. They were likely sacrificed.",
+      "title": "Mummies of children unearthed in Peru. They were likely sacrificed. - WTOP News",
+      "description": "Six mummified children thought to have been sacrificed hundreds of years ago, have been unearthed in a tomb of a nobleman near Lima, archaeologists reported.",
+      "text": "▶ Watch Video: Researchers discover ancient Egyptian mummy was pregnant\nSix mummified children thought to have been sacrificed hundreds of years ago, apparently to accompany a dead nobleman to the afterlife, have been unearthed in a tomb near Lima, archaeologists reported.\nThe tiny skeletons, wrapped tightly in cloth, were found in the grave of an important man, possibly a political figure, discovered last November at the dig site of Cajamarquilla about 15 miles east of Lima.\n“The children could be close relatives and were placed… in different parts of the entrance of the tomb of the (nobleman’s) mummy, one on top of the other,” archaeologist Pieter Van Dalen, in charge of the dig, told AFP.\n“The children, according to our working hypothesis, would have been sacrificed to accompany the mummy to the underworld,” says Van Dalen.\nCajamarquilla was a city built out of mud in about 200 BC, in the pre-Inca period, and occupied until about 1500. It could have been home to 10,000-20,000 people.\nVan Dalen said the mummies were about 1,000 to 1,200 years old.\nNearby, the team also found the bones of seven adults who had not been mummified, as well as the remains of llama-like animals, and earthenware.\nThe remains of the supposed nobleman were found last year in a tomb some three meters long and 1.4 meters deep in Cajamarquilla, one of the largest archaeological complexes near Lima.\nHe had been about 20 when he died and was entombed with his hands covering his face, and tied up with rope.\nIn 2018, archaeologists in Peru found evidence of the biggest-ever sacrifice of children, uncovering the remains of more than 140 youngsters who were slain alongside 200 llamas as part of a ritual offering some 550 years ago.\nResearchers determined that the children were between the ages of five and 14, although most were between eight and 12 when they died, with their bodies buried facing west — out to sea, National Geographic reported.\n“It is ritual killing, and it’s very systematic,” said John Verano, a physical anthropologist from Tulane University in New Orleans.",
+      "image_captions": [
+        "Peruvian archeologists work at an excavation site to recover the remains of 14 pre-Incan mummies, six children and eight adults, at the archeological complex in Cajamarquilla, Peru Feb. 13, 2022. (STRINGER / REUTERS)",
+        "A mummy is seen at Cajamarquilla archeological site on February 13, 2022, where six mummies of children were found estimated to be between up to 1,200 years old has been unearthed. (GUADALUPE PARDO/AFP via Getty Images)",
+        "Peruvian archeologists work at an excavation site to recover the remains of 14 pre-Incan mummies, six children and eight adults which are nearly 1000 years old, at the archeological complex in Cajamarquilla",
+        "PERU-ARCHAELOGY-CAJAMARQUILLA",
+        "This country calls time on the ‘war on drugs’"
+      ]
+    }
+  ],
+  "evidence_count": 4,
+  "crawled_at": "2026-04-23T17:57:22.177815+00:00"
+}

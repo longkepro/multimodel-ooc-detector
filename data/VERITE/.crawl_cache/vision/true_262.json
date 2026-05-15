@@ -1,0 +1,50 @@
+{
+  "sample_id": "true_262",
+  "image_url": "https://pbs.twimg.com/media/EUXflmRWAAg5OGL?format=jpg&name=medium",
+  "visual_entities": [
+    {
+      "description": "Transport",
+      "score": 0.5403
+    },
+    {
+      "description": "Empire Electronics",
+      "score": 0.4459
+    },
+    {
+      "description": "Cargo",
+      "score": 0.3242
+    }
+  ],
+  "best_guess_labels": [
+    "transportistas en oracion"
+  ],
+  "similar_image_urls": [
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=122217802670230760",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1279245293571185",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=122236335872084162",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1251547583645074",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=775523133231241",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1311846162354870",
+    "https://media.licdn.com/dms/image/v2/C5622AQGS3kW0oIVGlw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1585364183273?e=2147483647&v=beta&t=IwLb5PHXfok-22QjXUjvmfc7JG7hRfeHKB0_Sl2tfp0",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1256096384844820",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=4128924973891469",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=122177337770564444"
+  ],
+  "evidence": [
+    {
+      "url": "https://larepublica.pe/verificador/2025/08/13/claudia-sheinbaum-imagen-de-un-circulo-de-oracion-hecho-por-choferes-no-fue-tomada-en-mexico-en-2025-446615",
+      "page_title": "Imagen de un círculo de oración hecho por choferes no fue tomada ...",
+      "title": "Imagen de un círculo de oración hecho por choferes no fue tomada en México en 2025",
+      "description": "La escena fue asociada con una reciente encuesta sobre la sensación de seguridad de los mexicanos en las carreteras. Sin embargo, no es actual y obedece a otro contexto.",
+      "text": "Una encuesta publicada el último 24 de julio por el Instituto Nacional de Estadística y Geografía (INEGI) de México dio a conocer que, a junio del presente año, el 63,2% de la población de 18 años y más consideró que era inseguro vivir en su ciudad, lo que representó un aumento de 1,3% con respecto a la anterior medición hecha en marzo. Entre otros detalles, sobre la percepción de inseguridad en ambientes físicos concretos, el 65,0% de la ciudadanía declaró sentirse insegura en el transporte público, mientras que el 63,7% compartió esa opinión en la calle y el 57,9% en la carretera.\nEn este contexto, circula en redes sociales una imagen que muestra a un grupo de transportistas de rodillas, formando un círculo y tomadas de las manos, reflejando así una cadena de oración. Según las características del lugar, el hecho ocurrió en un estacionamiento o área exterior pavimentada, con un camión cisterna grande visible al fondo.\nPUEDES VER: ¿Beber agua tibia con bicarbonato ayuda a combatir el cáncer?\nSolo en X, la fotografía alcanzó más de 20.500 reacciones, 6.300 reposteos y cerca de 608.000 visualizaciones. Sin embargo, no corresponde a una noticia de México ni es de data reciente.\nDesinformación sobre México. Foto: captura de X\nMediante una búsqueda inversa en Google Lens, encontramos un registro antiguo de la instantánea en una publicación realizada el 30 de marzo de 2020 por el Instituto Hondureño de Transporte Terrestre en Facebook. Compuesta por 4 fotografías, la institución destacó en su descripción el acto religioso protagonizado por los conductores de transporte, así como la labor cotidiana de ellos en la distribución de productos a lo largo de Honduras.\nEn verde, la imagen viral, que fue publicada por primera vez en marzo de 2020. Foto: captura de Facebook\nDe igual modo, otro de los resultados expone un posteo del mismo día, efectuado por el medio Hondudiario. Con una información explicativa similar a la del caso anterior, confirma que el hecho tuvo lugar en el país centroamericano.\nNueva evidencia de la imagen viral en marzo de 2020. Foto: captura de X\nAl respecto, el diario hondureño La Prensa compartió la escena en una nota publicada en la mencionada fecha. Lleva como título “Encomendándose a Dios inician jornada laboral conductores de transporte pesado” y abordó acerca de la situación de los transportistas durante la cuarentena decretada por el gobierno del entonces presidente Juan Orlando Hernández, a causa de la pandemia de la covid-19. Sobre ellos, subrayó que estaban \"exentos\" de la medida extraordinaria, toda vez que estaban a cargo del reparto conjunto de productos de primera necesidad en las distintas ciudades de la nación.\nLa imagen viral ya había sido utilizada anteriormente, en febrero de 2022, para describir gráficamente una supuesta oración llevada a cabo en aquella fecha por un convoy de camioneros en la frontera entre Estados Unidos y Canadá. Esta situación fue desmentida por el medio estadounidense Snopes, quien precisó, de igual forma, la ubicación original del archivo en Honduras.\nLa escena difundida no es reciente ni fue captada en México. Según las búsquedas correspondientes, fue publicada por primera vez a finales de marzo de 2020 y tuvo lugar en Honduras. Además, su contexto se centró en la pandemia de la covid-19, declarada como tal por la OMS en aquella fecha. Por lo tanto, calificamos el posteo viral como falso.\n*Si deseas saber si una publicación en las redes sociales es cierta o falsa, puedes pedirle a Verificador de La República que compruebe la información. Envía tu solicitud al apartado Contacto o escríbenos al WhatsApp del número +51 997 883 271. Recuerda que también puedes recibir nuestras verificaciones más importantes en tu celular suscribiéndote a nuestro canal de WhatsApp Verificador LR.",
+      "image_captions": [
+        "Imagen de un círculo de oración hecho por choferes no fue tomada en México en 2025",
+        "<em>Desinformación sobre México. Foto: captura de X</em>",
+        "<em>En verde, la imagen viral, que fue publicada por primera vez en marzo de 2020. Foto: captura de Facebook</em>",
+        "<em>Nueva evidencia de la imagen viral en marzo de 2020. Foto: captura de X</em>"
+      ]
+    }
+  ],
+  "evidence_count": 1,
+  "crawled_at": "2026-04-23T18:07:31.379794+00:00"
+}

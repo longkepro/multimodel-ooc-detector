@@ -1,0 +1,113 @@
+{
+  "sample_id": "false_67",
+  "image_url": "https://i.ytimg.com/vi/g4AEzcI4HuA/hqdefault.jpg",
+  "visual_entities": [
+    {
+      "description": "Great Dane",
+      "score": 0.88931525
+    },
+    {
+      "description": "Asinus",
+      "score": 0.79215
+    },
+    {
+      "description": "Alaunt",
+      "score": 0.740647
+    },
+    {
+      "description": "Canis Panther",
+      "score": 0.7123659
+    },
+    {
+      "description": "Belgian Shepherd",
+      "score": 0.6916965
+    },
+    {
+      "description": "East-European shepherd",
+      "score": 0.65697277
+    },
+    {
+      "description": "Working animal",
+      "score": 0.4954969
+    },
+    {
+      "description": "Giant dog breed",
+      "score": 0.45530003
+    },
+    {
+      "description": "Breed",
+      "score": 0.4368
+    },
+    {
+      "description": "Dog Breed",
+      "score": 0.4051
+    },
+    {
+      "description": "mule",
+      "score": 0.4005
+    }
+  ],
+  "best_guess_labels": [
+    "burro"
+  ],
+  "similar_image_urls": [
+    "https://pbs.twimg.com/media/EZtP-_ZXQAACN9R.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=482018215333353&get_thumbnail=1",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=680951165901431",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=378280405673695",
+    "https://i3.ruliweb.com/img/21/07/21/17ac73f803d538dc3.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=277371119123931&get_thumbnail=1"
+  ],
+  "evidence": [
+    {
+      "url": "https://burrogoods.com/collections/all?page=101",
+      "page_title": "Products – Page 101 - Burro Goods",
+      "title": "Products",
+      "description": "Burro carries an eclectic, thoughtful selection of everything you need to live a well-styled California life.",
+      "text": "JOIN OUR EMAIL LIST AND GET 10% OFF OPEN DAILY 10:30AM - 6PM SHOP ONLINE + PICK UP IN VENICE\nUse coupon code WELCOME10 for 10% off your first order.\nYour Cart is Empty\nSushi Roll Birthday Card\nSuzie Collection Bracelet\nSwan Baby Card\nSwan | White\nSwedish Candy | Sour Blackberry Fish\nSwedish Candy | Sour Gummy Worms\nSwedish Candy | Sour Heart Gummies\nSwedish Candy | Sour Juicy Bottles\nSwedish Candy | Sour Mix\nSwedish Candy | Sour Peach Fish\nSwedish Candy | Sour Wild Strawberry Fish\nSwedish Candy | Sweet Mix\nSwedish Candy | Sweet Wild Strawberry Fish\nSweet Cherries Birthday Card\nSweet Cherries Love Card\nSweet Cherries Thank You Card\nSweet Laurel Savory\nSweet Peaches Thank You Card\nSweet Sixteen Bug Birthday Card\nSweetest Mom Card\nSwim + Sun | A Monocle Guide\nSwing Socks | Black\nSwing Socks | Cajun Spice\nSwitch-Eroo Color Changing Markers | Set Of 12",
+      "image_captions": [
+        "sushi roll birthday card"
+      ]
+    },
+    {
+      "url": "https://burrogoods.com/collections/all?page=90",
+      "page_title": "Products – Page 90 - Burro Goods",
+      "title": "Products",
+      "description": "Burro carries an eclectic, thoughtful selection of everything you need to live a well-styled California life.",
+      "text": "JOIN OUR EMAIL LIST AND GET 10% OFF OPEN DAILY 10:30AM - 6PM SHOP ONLINE + PICK UP IN VENICE\nUse coupon code WELCOME10 for 10% off your first order.\nYour Cart is Empty\nRound Enamel Tray | Festival of Flowers\nRound Enamel Tray | Swan\nRouted West | Twentieth-Century African American Quilts in California\nRoyal Cinnamon Baklava | Chocolate Covered Dates\nRubberwood Salt + Pepper Mill\nRubberwood Scalloped Frame | 5x7\nRuched Satin Scrunchies | Coastal\nRuffled Hugger Socks | Black\nRuss + Daughters | 100 Years of Appetizing\nRusty Floral Thanks Card\nSafety Matches in a Box\nSafety Pin Hoop Earrings | 18K GV\nSaguaro Wedding Card\nSailboat Dad Card\nSalina Card Case | Arancio Pontormo\nSalina Card Case | Bronze\nSalina Card Case | Gianduia\nSalina Card Case | Platino\nSalina Card Case | Red\nSalina Card Case | Tortora\nSalt Fat Acid Heat\nSalted Caramel Chocolate Bar\nSalve-All\nSanctuary",
+      "image_captions": [
+        "Salted Caramel Chocolate Bar"
+      ]
+    },
+    {
+      "url": "https://burrogoods.com/collections/all?page=112",
+      "page_title": "Products – Page 112 - Burro Goods",
+      "title": "Products",
+      "description": "Burro carries an eclectic, thoughtful selection of everything you need to live a well-styled California life.",
+      "text": "JOIN OUR EMAIL LIST AND GET 10% OFF OPEN DAILY 10:30AM - 6PM SHOP ONLINE + PICK UP IN VENICE\nUse coupon code WELCOME10 for 10% off your first order.\nYour Cart is Empty\nWater Resistant Pouch | Blue Stripe\nWatercolor Paint Set\nWatercolors Field Sketch Box | 12 Colors\nWatermelon Slice | Pink\nWave Ribbon Stemmed Glass | Assorted\nWaving from California Card\nWay To Go Grad Wavy Card\nWe'll Be Alright Card\nWedding Bubbles Champagne Tower Card\nWedding Cake Card\nWedding Rainbow Cake Card\nWedding Ribbons Card\nWedding Rings Card\nWeeee Wish You a Happy Birthday Card\nWeiner Dog Stud Earrings | 18K GV\nWelcome Baby Quilt Card\nWelcome Kid Baby Card\nWelcome Little One Quilt Card\nWelcome Sweet Wonder Baby Card\nWelcome To The World Card\nWelcome To This Weird Wild World Card\nWelcome, Baby\nWell Done You Card\nWell Plated Every Day",
+      "image_captions": [
+        "Wedding Rainbow Cake Card"
+      ]
+    },
+    {
+      "url": "https://burrogoods.com/collections/all?page=94",
+      "page_title": "Products – Page 94 - Burro Goods",
+      "title": "Products",
+      "description": "Burro carries an eclectic, thoughtful selection of everything you need to live a well-styled California life.",
+      "text": "JOIN OUR EMAIL LIST AND GET 10% OFF OPEN DAILY 10:30AM - 6PM SHOP ONLINE + PICK UP IN VENICE\nUse coupon code WELCOME10 for 10% off your first order.\nYour Cart is Empty\nSingle Stem Dahlia | Evening Dew\nSingle Stem Fern | Soft Green\nSingle Stem Masterwort Flowers\nSingle Stem Peony | Evening Dew\nSingle Stem Succulent Bunch | Green\nSingle Stem Sweet Pea\nSingle Stem Wild Cosmo Flowers\nSingle Wish Sparkler\nSip Sip Hooray Truffle Bar\nSisal Wash Cloth\nSix Seasons\nSkateboarding Dogs Birthday Card\nSkater Cat Birthday Card\nSkeleton Birthday Card\nSketchbook | DIY Cover\nSkinny Wave Barrette | Periwinkle\nSky Anniversary Card\nSky Floral Congratulations Card\nSkywriting Airplane Anniversary Card\nSleigh Bells\nSlides | Wavy Cream + Black\nSlim Taper Candles | Set of 12\nSloth Birthday Card\nSlow Blink Cat Card",
+      "image_captions": []
+    },
+    {
+      "url": "https://bbs.ruliweb.com/etcs/board/300780/read/53059445",
+      "page_title": "이건 가장 흔한 노새야 들어봐 - 루리웹",
+      "title": "이건 가장 흔한 노새야 들어봐",
+      "description": "들어 봐아아아아으악 당나귀지만",
+      "text": "[{\"keyword\":\"\\ud2b8\\ub9ad\\uceec\",\"rank\":0},{\"keyword\":\"\\ube14\\ub8e8\\uc544\\uce74\",\"rank\":0},{\"keyword\":\"\\ubc84\\ud29c\\ubc84\",\"rank\":1},{\"keyword\":\"\\ub2c8\\ucf00\",\"rank\":-1},{\"keyword\":\"\\ub9bc\\ubc84\\uc2a4\",\"rank\":1},{\"keyword\":\"\\ubaa8\\uc218\",\"rank\":\"new\"},{\"keyword\":\"\\uac74\\ub2f4\",\"rank\":1},{\"keyword\":\"\\uc57c\\uad6c\",\"rank\":1},{\"keyword\":\"\\uba85\\uc870\",\"rank\":1},{\"keyword\":\"\\ubd89\\uc740\\uc0ac\\ub9c9\",\"rank\":-3},{\"keyword\":\"\\ub864\",\"rank\":-6},{\"keyword\":\"\\uc5d4\\ub4dc\\ud544\\ub4dc\",\"rank\":3},{\"keyword\":\"\\ub9d0\\ub538\",\"rank\":6},{\"keyword\":\"\\ub358\\ud30c\",\"rank\":-3},{\"keyword\":\"@\",\"rank\":3},{\"keyword\":\"\\uc6d0\\uc2e0\",\"rank\":4},{\"keyword\":\"\\uc720\\ud76c\\uc655\",\"rank\":-4},{\"keyword\":\"\\uc2a4\\ud0c0\\ub808\\uc77c\",\"rank\":-6},{\"keyword\":\"\\uc774\\ud658\",\"rank\":\"new\"},{\"keyword\":\"\\u3147\\u3147\\u3131\",\"rank\":-3},{\"keyword\":\"\\uc18c\\uc8042\",\"rank\":-5},{\"keyword\":\"\\uc778\\ubc29\",\"rank\":-1}]",
+      "image_captions": [
+        "이건 가장 흔한 노새야~ 들어봐_1.jpg"
+      ]
+    }
+  ],
+  "evidence_count": 5,
+  "crawled_at": "2026-04-23T17:08:21.518491+00:00"
+}

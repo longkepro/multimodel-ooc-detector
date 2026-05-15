@@ -1,0 +1,121 @@
+{
+  "sample_id": "false_241",
+  "image_url": "https://images04.military.com/sites/default/files/styles/full/public/2020-08/uss-durham-sunk-exercise-1800.jpg?itok=4ujntT0L",
+  "visual_entities": [
+    {
+      "description": "Ship",
+      "score": 1.07385
+    },
+    {
+      "description": "Navy",
+      "score": 0.7157
+    },
+    {
+      "description": "Naval ship",
+      "score": 0.7149
+    },
+    {
+      "description": "United States Navy",
+      "score": 0.7044
+    },
+    {
+      "description": "",
+      "score": 0.7044
+    },
+    {
+      "description": "RIMPAC",
+      "score": 0.7042
+    },
+    {
+      "description": "Royal Malaysian Navy",
+      "score": 0.649
+    },
+    {
+      "description": "Commanding officer",
+      "score": 0.6017
+    },
+    {
+      "description": "Patrol boat",
+      "score": 0.5863105
+    },
+    {
+      "description": "Amphibious warfare ship",
+      "score": 0.5632041
+    },
+    {
+      "description": "Warship",
+      "score": 0.5606
+    },
+    {
+      "description": "Frigate",
+      "score": 0.5373
+    },
+    {
+      "description": "Naval Inactive Ship Maintenance Facility",
+      "score": 0.5263
+    },
+    {
+      "description": "SINKEX",
+      "score": 0.5
+    }
+  ],
+  "best_guess_labels": [
+    "navy ship sinking"
+  ],
+  "similar_image_urls": [
+    "https://images04.military.com/sites/default/files/2020-08/uss-durham-sunk-exercise-1800.jpg",
+    "https://kvirispalitra.ge/media/uploads/2022/05-29/34-1653833536.jpg",
+    "https://images04.military.com/sites/default/files/styles/full/public/2020-08/uss-durham-sunk-exercise-1800.jpg",
+    "https://media.defense.gov/2020/Aug/31/2002487414/1088/820/0/200830-N-NO842-1002.JPG",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3233377773436286",
+    "https://news.clearancejobs.com/wp-content/uploads/2024/08/SINKEX.jpg",
+    "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/1200/675/USS-Durham-2-US-Navy-DVIDS.jpg?ve=1&tl=1",
+    "https://news.clearancejobs.com/wp-content/uploads/2024/08/SINKEX-720x460.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1000298858999942"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.14news.com/2025/02/06/former-navy-ship-sinks-near-owensboro/",
+      "page_title": "Former Navy ship sinks near Owensboro - WFIE",
+      "title": "Former Navy ship sinks near Owensboro",
+      "description": "Boaters have been talking about the vessel for months, and they say it’s been there since before the airshow in September.",
+      "text": "Former Navy ship sinks near Owensboro\nOWENSBORO, Ky. (WFIE) - An ex-Navy ship sank in the Ohio River near Owensboro.\nBoaters have been talking about the vessel for months, and they say it’s been there since before the airshow in September.\nAround that same time, the YP-675 was listed for sale on Facebook Marketplace by a Robby Palmer. It was listed for $25,000.\nRoger Green works in the area and sent us several photos.\nHe says the ship was moored near the Blue Bridge but had to be moved east, to the area near Castlen Steel, because it was it the way.\nGreen says it started taking on water about a month ago, and over the past few days, it’s nearly disappeared.\nThe Navy’s YPs are yard patrol ships used in training and research.\nWe’ve tried reaching out to the coast guard to see if they can tell us anything.\nWe’ve also left a message for Palmer.\nCopyright 2025 WFIE. All rights reserved.",
+      "image_captions": [
+        "Former Navy ship sinks near Owensboro",
+        "YP-675 sinking in Owensboro(Roger Green)",
+        "YP-675 sinking in Owensboro",
+        "Jeffrey Gibson and Kayla Gibson",
+        "Car crashes into Evansville bank"
+      ]
+    },
+    {
+      "url": "https://news.clearancejobs.com/2024/08/13/that-sinkex-feeling-the-u-s-air-force-has-been-sinking-warships-in-planned-exercises/",
+      "page_title": "That SINKEX Feeling – The U.S. Air Force Has Been Sinking ...",
+      "title": "That SINKEX Feeling – The U.S. Air Force Has Been Sinking Warships in Planned Exercises",
+      "description": "In the past month, the United States Air Force has sunk three warships – but this wasn't part of an ongoing military campaign. Rather, the Air Force - Military",
+      "text": "In the past month, the United States Air Force has sunk three warships – but this wasn’t part of an ongoing military campaign. Rather, the Air Force worked alongside the United States Navy in what is known as a SINKEX, a carefully coordinated exercise that involves a retired vessel that is used as a target.\n“SINKEX, short for ‘sink at-sea live-fire training exercises’, is a program run by the United States Navy that arranges for decommissioned Naval warships to be used in live-fire training. This gives Navy personnel the opportunity to use real ammunition on practical targets and apply what they learn to future conflict, practicing gunnery, missile drills, torpedo accuracy, and even special warfare operations,” explained the U.S. Department of Transportation’s Maritime Administration (MARAD).\nThe most recent SINKEX took place in the Gulf of Mexico, in the waters near Eglin Air Force Base (AFB), where it was actually the Air Force that sent a retired cargo vessel to the bottom – where it will become an artificial reef. In that exercise, the U.S. Air Force employed a QUICKSINK, which employs a guidance kit integrated with a new seeker on an air-launched weapon; in this case, a modified GBU-31 JDAM (Joint Direct Attack Munition) 2,000-pound precision-guided bomb.\nAir Force and Navy Working on Anti-Ship Weapons\nThe Air Force Research Laboratory Munitions Directorate at Eglin AFB in partnership with the Navy has been working to develop anti-ship air-launched weapons as part of the ongoing joint Maritime Weapons Program.\n“The development of this technology helps deliver technological superiority to ensure the United States can defend our interests, maintain freedom of action, and seize the initiative over large maritime areas,” explained Col. Matthew Caspers, director of the AFRL Munitions Directorate.\nThe United States military continues to transition to a great power competition, which comes as China has greatly increased its naval capabilities, and it is seeking new ways to ensure it can retain an edge in naval warfare – especially as there are concerns that Beijing could mount an amphibious assault on Taiwan and other islands in the Indo-Pacific.\n“The men and women of the Munitions Directorate consistently find ways to solve our nation’s greatest challenges,” Caspers added. “QUICKSINK is an answer to an urgent need to neutralize maritime threats to freedom around the world. This program is unique in that it can provide capabilities to modify existing and future Department of Defense weapons systems, giving combatant commanders and our national leaders new ways to defend against maritime threats.”\nSINKEX From a Spirit in the Sky\nIt was last month, during the recently concluded Exercise Rim of the Pacific (RIMPAC) two retired U.S. Navy warships were sunk in waters 15,000 feet deep, more than 50 nautical miles off the northern coast of the Hawaiian island of Kauai.\nThe decommissioned ex-USS Dubuque (LPD-8) – an Austin-class amphibious transport dock – was sunk by U.S. Air Force Lockheed Martin B-2 Spirit bombers; while the amphibious assault ship ex-USS Tarawa (LHD-1) was also sunk by U.S. Navy Boeing F/A-18 Super Hornets armed with the AGM-158C Long Range Anti-Ship Missile (LRASM).\nThe latter missile was developed by the Defense Advanced Research Projects Agency (DARPA), the research and development agency of the United States Department of Defense, and based on the AGM-148B Joint Air-to-Surface Standoff Missile – Extended Range (JASSM-ER).\n“The sinking of the ex-Tarawa included the employment of a Long-Range Anti-Ship Missile (LRASM) from a U.S. Navy F/A-18F Super Hornet. As a precise, stealthy, and survivable cruise missile, LRASM provides multi-service, multi-platform, and multi-mission capabilities for offensive anti-surface warfare,” the U.S. Navy said in a statement announcing the successful SINKEX during RIMPAC 2024. “During the SINKEXs, participating units from Australia, Malaysia, the Netherlands, the Republic of Korea, and the U.S. Air Force, Army and Navy gained proficiency in tactics, targeting and live firing against surface ships at sea.”\nThe U.S. Navy had been preparing the ex-LHA-1 for use in the SINKEX since at least 2022, while her sister ship, the ex-USS Peleliu (LHA-5) could also be used as a future floating target. The ex-USS Belleau Wood (LHA-3) was sunk in 2006, while five of the seven Iwo Jima-class amphibious assault ships – which preceded the Tarawa class – were also sunk in past RIMPAC SINKEXs. The ex-USS New Orleans was the last one to be sent to the bottom of the Pacific at the 2010 iteration of the exercise, TheWarZone reported.\nSINKEX Turn Old Warships Into Floating Targets\nConsiderable effort is put into the U.S. Navy’s SINKEX. The aforementioned MARAD developed an agreement with the U.S. Navy that requires the safe disposal of retired warships.\nIt requires that all environmentally hazardous materials be removed from the vessels before they are sunk in accordance with Environmental Protection Agency (EPA) guidelines. This includes the removal of all liquid polychlorinated biphenyls (PCBs) from a ship’s transformers, large capacitors, and small capacitors, while petroleum is drained and then cleaned from the vessel’s tanks, pipes, and reservoirs. In addition, all trash, floatable materials, mercury, and fluorocarbon materials are also removed. Simply put, the ship is about as clean as it likely was at any point during its existence.\n“The EPA and Navy have identified and agreed upon those materials to be removed from a vessel prior to any SINKEX exercise,” MARAD further noted “Procedures are also in place to ensure that vessels sink quickly to the ocean floor and remain there permanently without hindering marine navigation in the area. In addition, all sinkings are conducted in water of at least 6,000 feet (1,000 fathoms) and 50 nautical miles from land.”\nAccording to the U.S. Navy, “SINKEXs are conducted only after the area has been surveyed for the presence of people, marine vessels, aircraft, and marine species. SINKEXs are fully compliant with the National Environmental Policy Act, Marine Mammal Protection Act, Endangered Species Act, and a general permit under the Marine Protection, Research, and Sanctuaries Act.”\nWhile all efforts are meant to ensure that a SINKEX is carried out accordingly, it remains a form of training that can’t be easily replicated.\n“Sinking exercises give us a chance to sharpen our skills, learn from one another, and get real-world experience,” said U.S. Navy Vice Adm. John Wade, RIMPAC 2024 Combined Task Force Commander. “Using advanced weapons and seeing the professionalism of our teams during these drills shows our commitment to keeping the Indo-Pacific region safe and open.”",
+      "image_captions": [
+        "eMerge National Security Demo Day",
+        "Air Force Clerical Error Causes Confusion",
+        "Download on the App Store",
+        "Get it on Google Play"
+      ]
+    },
+    {
+      "url": "https://www.foxnews.com/politics/navy-sinks-warship-during-rim-of-the-pacific-exercise-video-shows",
+      "page_title": "Navy sinks warship during Rim of the Pacific exercise, video shows",
+      "title": "Navy sinks warship during Rim of the Pacific exercise, video shows",
+      "description": "As part of the annual U.S.-led Rim of the Pacific exercise, the Navy sank the USS Durham, a decommissioned amphibious cargo ship, as seen on video.",
+      "text": "As part of the annual U.S.-led Rim of the Pacific exercise, the Navy sank the USS Durham, a decommissioned amphibious cargo ship, as seen on video.\nThe Durham, named after the city in North Carolina, was commissioned in 1969 and served during the Gulf War. It was pulled out of service in February 1994.\nFootage of the sinking showed a trio of anti-ship cruise missiles gliding across the water’s surface before shooting into the port side of the Durham.\n“Simulation is a critical part of our training but there is nothing better than to conduct live-fire training,” Royal Australian Navy Capt. Phillipa Hay, commander of RIMPAC 2020 Task Force One, said in a statement.\n“Sinking exercises are an important way to test our weapons and weapons systems in the most realistic way possible. It demonstrates as a joint force we are capable of high-end warfare.”\nTen nations, 22 surface ships, one submarine, and approximately 5,300 personnel participated in RIMPAC between Aug. 17 to 31 in the waters surrounding Hawaii, Task & Purpose reported.\nCHINA PLANNING TO DOUBLE ITS STOCKPILE OF NUCLEAR WARHEADS: PENTAGON\nThis year’s RIMPAC exercises are \"designed to foster and sustain cooperative relationships, critical to ensuring the safety of sea lanes and security in support of a free and open Indo-Pacific region,\" according to the U.S. Navy's 3rd Fleet.\n\"The exercise is a unique training platform designed to enhance interoperability and strategic maritime partnerships,\" it added.\nCHINA CLAIMS US SPY PLANE ENTERED NO-FLY ZONE\nThe focus on a free Indo-Pacific region comes as the Pentagon released a report on China’s plans to assert hegemony over the region by building up its military forces and nuclear arsenal. Beijing views the U.S.’ relationships in the Indo-Pacific as “destabilizing and irreconcilable” with the People’s Republic of China’s sovereignty in the region, according to the report.\nCLICK HERE TO GET THE FOX NEWS APP\n\"Not only has Beijing clearly been excluded again this year, but RIMPAC 2020 itself seems to be a stage for the Pacific navies to simulate their China scenarios,\" the Asia Review reported.",
+      "image_captions": [
+        "James Comer's new bills could curb federal fraud in Minnesota and California",
+        "Colorado DA pursues assault charge against federal immigration officer, DHS condemns 'political stunt'",
+        "'Queen of DEI' running for Congress ripped her rural state as 'backwards' on podcast",
+        "Google engineer stole AI secrets for China, Senate hears in explosive testimony",
+        "Pat Fallon launches bid for House Oversight Committee chairman as James Comer's term limit nears"
+      ]
+    }
+  ],
+  "evidence_count": 3,
+  "crawled_at": "2026-04-23T18:00:38.482087+00:00"
+}

@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "multimodal-ooc-detector"
+version = "0.1.0"
+description = "Hybrid S-V-O + Multi-Agent OOC Misinformation Detection"
+authors = ["Quang Kien"]
+python = "^3.11"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+openai = "^1.40.0"
+instructor = "^1.5.0"
+pydantic = "^2.8.0"
+python-dotenv = ">=1.0.1"
+newspaper3k = ">=0.2.8"
+duckduckgo-search = ">=6.0.0"
+sentence-transformers = ">=3.0.0"
+langgraph = "^0.2"
+Pillow = ">=10.0.0"
+tqdm = ">=4.66.0"

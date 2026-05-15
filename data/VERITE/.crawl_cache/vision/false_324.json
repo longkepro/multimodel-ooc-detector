@@ -1,0 +1,94 @@
+{
+  "sample_id": "false_324",
+  "image_url": "https://cdn.vox-cdn.com/thumbor/NKuwAAGgsV0OLYyExrZ_ghz7csg=/0x0:3000x2400/1200x0/filters:focal(0x0:3000x2400):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21765802/GettyImages_2716338.jpg",
+  "visual_entities": [
+    {
+      "description": "Emmeline Pankhurst",
+      "score": 1.077
+    },
+    {
+      "description": "Suffragette",
+      "score": 0.7405
+    },
+    {
+      "description": "Women's suffrage",
+      "score": 0.7368
+    },
+    {
+      "description": "United Kingdom",
+      "score": 0.732
+    },
+    {
+      "description": "Women's rights",
+      "score": 0.6615
+    },
+    {
+      "description": "Feminist movement",
+      "score": 0.5891
+    },
+    {
+      "description": "Suffrage",
+      "score": 0.5821
+    },
+    {
+      "description": "Women's suffrage in the United Kingdom",
+      "score": 0.5384
+    },
+    {
+      "description": "Activism",
+      "score": 0.5045
+    },
+    {
+      "description": "",
+      "score": 0.488
+    },
+    {
+      "description": "",
+      "score": 0.4858
+    }
+  ],
+  "best_guess_labels": [
+    "suffragette movement"
+  ],
+  "similar_image_urls": [
+    "https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/21765802/GettyImages_2716338.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3699684503635160457",
+    "https://cdn.drukarnia.com.ua/643bcadf1272bd9066a469e5/images/articles/6537b5a44e72162e15fc0000/lssz537715.4810543963.jpeg",
+    "https://estaticos-cdn.prensaiberica.es/clip/19bbe39e-9edd-4b0f-9c6c-79589b49d0f6_alta-libre-aspect-ratio_320w_0.jpg",
+    "https://estaticos-cdn.prensaiberica.es/clip/19bbe39e-9edd-4b0f-9c6c-79589b49d0f6_alta-libre-aspect-ratio_640w_0.jpg",
+    "https://www.radiofrance.fr/pikapi/images/83486366-86a2-4dee-a475-c3a5a833f43d/2048",
+    "https://elcomercio.pe/resizer/OCEUjiaW26YDLuoCycd6T2jN1og=/624x478/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/SPJJ4RYYQVBS7GEBCPCFWCVLTE.jpg",
+    "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/size/w600/hyperallergic-newspack-s3-amazonaws-com/uploads/2022/09/097-pankhurst-1200x909-1.jpg",
+    "https://imageio.forbes.com/specials-images/imageserve/638784337004ad46d575b8e9/Pankhurst-Arrested/0x0.jpg?height=538&width=480&fit=bounds",
+    "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/size/w1200/hyperallergic-newspack-s3-amazonaws-com/uploads/2022/09/097-pankhurst-1200x909-1.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://theconversation.com/how-17-000-petitions-helped-deliver-votes-for-women-91093",
+      "page_title": "How 17,000 petitions helped deliver votes for women",
+      "title": "How 17,000 petitions helped deliver votes for women",
+      "description": "The women’s suffrage campaign shows the advantages of petitioning, even when demands are rejected.",
+      "text": "In the 50 years before women gained the vote in 1918, almost 17,000 petitions for women’s suffrage were sent to the House of Commons, containing over 3.3m signatures. Other petitions were sent to the House of Lords, the king, and the prime minister.\nMost people know about the famous examples of suffragette activity, such as window breaking and street demonstrations. By contrast, petitions show a different side of the campaign: the patient, behind the scenes activity that helped deliver votes for women.\nThe suffrage campaign was, itself, founded by a petition signed by over 1,500 women, including leading activists Barbara Bodichon and Emily Davies. This was presented to the House of Commons by the liberal philosopher John Stuart Mill on June 7 1866.\nAs the right to vote was linked to property, the petition claimed that propertied women had a right to the franchise. Though a limited demand that did not include married women (who could not own property at this time), the petition provided a rallying point for a new movement.\nWhile women (and the majority of men) could not vote at this time, all British subjects had the right to petition. Petitioning was one of the few political rights women possessed and had proved an effective strategy in earlier campaigns. Women had been active both as petitioners and canvassers who collected signatures in the movement for the abolition of slavery, for example. So when suffrage bills were debated in parliament in the 1870s and 1880s, the National Society for Women’s Suffrage encouraged petitions in support.\nThe architect of the movement’s petitioning strategy was the Manchester feminist Lydia Becker. In Ireland, the Dublin Women’s Suffrage Association, led by Anna Haslam, orchestrated petitioning activity.\nPetitions were a good way of raising public awareness, getting media coverage and keeping suffrage on the political agenda. For example, in the 1890s, campaigners organised a “special appeal” for the vote, signed by 257,000 women. This was one of the largest petitions of the 19th century. The appeal was displayed to MPs in a special exhibition in May 1896.\nAt the January 1910 general election, suffragists organised petitions from male voters in many constituencies. This was an attempt to use petitions to hold an unofficial referendum on women’s suffrage. During the 1913 “pilgrimage”, which saw women gradually descend on London after starting from different locations, pilgrims sent petitions along their way.\nPatience and results\nThe groups fighting for women’s suffrage did not, however, see eye to eye on the role petitions should play. Suffragette leaders Emmeline and Christabel Pankhurst believed that petitioning a parliament of men was a waste of time. The failure of traditional constitutional tactics showed that new, militant methods of campaigning were necessary.\nBut suffragettes never entirely abandoned petitioning. In May 1914 Emmeline Pankhurst was arrested on her way to presenting a petition to the king, generating one of the iconic suffrage images.\nAt a time when women were excluded from parliament and voting, petitions were a way to directly engage with male politicians. For Irish suffragists, petitioning allowed them to challenge the British Parliament as well as supporting the wider campaign. Women asserted their right to citizenship through petitions, while petitioning demonstrated their capacity for political participation.\nMany of the petitions called for the right to vote to be extended to women on the same terms “as it is, or may be” given to men. But suffrage petitions addressed other issues too. For example, the 1902 petition signed by women undergraduates argued that the vote was the only way to ensure the equal educational status of women.\nIn response to anti-suffragist claims that women didn’t want the vote, petitions showed that there was in fact popular support for suffrage. They came from men and women and became a way to organise and mobilise a broad, diverse, popular coalition for women’s suffrage. Petitions came from all over the UK and from different types of people, such as women university students in 1902, or women farmers in 1883. Getting people to sign petitions was a first step to recruiting them as active members of the movement. Suffragists preferred to work at local level, gradually spreading their message through the process of gathering signatures.\nThe modern petition\nThese days, e-petitioning has emerged as a popular form of political engagement. Critics complain that the lack of impact of e-petitions shows that they are pointless. Others have argued that e-petitions encourage a lazy, disengaged clicktivism in the place of real, active political engagement.\nBut as the history of suffrage petitioning shows us, focusing on the lack of immediate results misses the point of petitioning. The majority of petitions throughout history have been unsuccessful. Petitioning has remained a popular form of political activity because of the numerous advantages it has, even if authorities reject or ignore the demands of petitioners. Petitions keep a topic on the political agenda even when politicians would rather avoid the issue. Petitioning raises public awareness and attracts media coverage. Petitions identify support and channel it behind a national campaign, and can act as a first step for further activity on an issue.\nThe suffrage movement also suggests that petitioning is most effective when it is embedded within, rather than divorced from, other forms of political activity, such as such as public meetings, demonstrations, or elections.",
+      "image_captions": [
+        "Emmeline Pankhurst is arrested in London.Wikipedia",
+        "Men fought for the cause too.LSE library"
+      ]
+    },
+    {
+      "url": "https://curriculumforlifegm.co.uk/politics-citizenship-rights/meet-annie-kenney-the-suffragette-who-transformed-history/",
+      "page_title": "Meet Annie Kenney, the suffragette who transformed history",
+      "title": "Meet Annie Kenney, the suffragette who transformed history - Curriculum for Life",
+      "description": "The inspirational story of the suffragette from Oldham who changed the lives of women and caved a pathway in history.",
+      "text": "Meet Annie Kenney, the suffragette who transformed history\nThe story of the Suffragette from Oldham who changed the lives of women and caved a pathway in history. Her story is an inspiration to people with her advocacy for women and her experiences as an LGBTQ+ person.\nWho was Annie Kenney?\nAnnie was born on the 13th of September 1879, in Springhead, Oldham. Her loving parents Nelson Kenney and Anne Wood taught Annie and her six other siblings the importance of education, reading and debating. Although she was still in education as a child, by the age of 10 she began working in a cotton mill. By 13, she began working a full-time job to help support her family. Her background as a working-class woman soon became central to her socialist-feminist approach to the suffrage movement.\nShe remained in the cotton mill for 15 years but was heavily relevant in trade-union actions around Manchester and remained informed by different socialist ideas written within the socialist newspaper ‘The Clarion’. It wasn’t until 1905 when Annie became involved in the Women’s Social and Political Union (WSPU) when she heard Teresa Billington-Greig and Christabel Pankhurst speak at the Clarion Vocal Club. It was this event that blossomed the feminist bud of Kenney; beginning her journey to change the patriarchal notions of our political system.\nWhat was her significance in history?\nFrom 1905, Kenney began to participate in campaigns for the enfranchisement of women. During the Free Trade Hall political meeting of October 1905, Kenney interrupted Winston Churchill declaring: “Will the Liberal government give votes to women?” while displaying a banner that declared “Votes for Women”. From these movements, Kenney was arrested 13 times throughout her advocation. In 1907, she was officially appointed as part of the WSPU and left her work at the cotton mill.\nShe began to take her campaigns nationally in areas like London, Aberdeen and Bristol while engaging in various forms of protests like hunger strikes. It was these radical movements that held the Liberal government accountable and disrupted everyday life to bring attention to her cause. Her rise to the top as a member of the senior hierarchy gave her the status in the WSPU to arrange meetings with politicians like David Lloyd George about the representation of working-class women. This attention to the poor working conditions and poor payment women received exposed a reality these elite politicians were sheltered to. Without activists like Kenney, the everyday realities of the working class and women would continue to be overlooked. Ironically, even the pay to be an advocate for the WSPU was low (£2 a week), thus showing the continuous class struggle she endured.\nHow did she shape the narrative as an LGBTQ+ person?\nAs well as a colleague and friend to Christabel Pankhurst, from supposed contemporary diary entries, they were also lovers. Many claim that Christabel was “an object of desire for several suffragettes” one being for Kenney. There was rumours of short-lived sexual desires between the two that took place during Annie’s visits to Eagle House, Bath. Though at the time, Christabel was involved with Mary Blathwayt. It was Mary who reported that Annie had “someone else” in her bed during these visits. This someone supposedly being Christabel. Though the clandestine relationship was never fully revealed, Annie’s illicit affairs with women before marrying her husband, James Taylor, opens up the heteronormative values oppressed onto women.\nIt’s significant to understand Kenney’s story as a sacrifice – her time, energy and life to the suffrage movement shaped British democracy to the present. Yet she still fell victim to the patriarchal values of matrimony and heteronormativity she fought so hard to reject.\nThe fight doesn’t end here: the importance of social action\nThis is why social action doesn’t just belong in the 1910s. It is a movement that needs to surround our everyday lives to help make the world a better place. February is LGBTQ+ awareness month. It is important to remember LGBTQ+ figures like Annie Kenney to understand and advocate for the rights and freedoms within this community they couldn’t necessarily embrace. We need to use the past and the figures who shaped it to understand and shape our future. Social action is for everyone. It can appear in various forms such as protests, rallies, boycotts, art, music, literature, theatre, campaigning and more. Around the UK, there are various opportunities available that allows you to advocate and get involved in the causes that you are passionate about. The following resources are a few of them, get in touch with these companies and start your campaign journey today. You never know, you could pave the path of history just like Annie Kenney did.\nFind out more:\nThe Proud Trust – Home of the LGBT+ Youth: Brings about awareness training, education, resources and support for LGBT young people around the UK\nCity of Social Action: Focuses on big issues young people are passionate about, such as climate change, to get young people involved in decision making that involves their future.\nGreater Manchester Youth Network: Youth Voice: Focuses on opportunities for young people to transform their community.\nI Will Movement: Gives young people the opportunity to make a difference in any issues they feel passionate about.\nBrighter Futures Together: MY Social Action: Empowers young people to learn about their community and contribute to changes within their community.\nSuffragette Stories – Annie Kenney: More stories from Annie Kenney’s life as a suffragette.\nThe Guardian – Mary’s Diary Entries: Entries from Mary’s diary recount key members of the suffragettes finding lovers within their own ranks.\nRelated\nWhat are unions and why do people join them?\n[rt_reading_time...\nWhy you should shop locally this Small Business Saturday\n[rt_reading_time...",
+      "image_captions": [
+        "Penelope Spencer-Simpson",
+        "An off-white flag that reads \"votes for women\" in yellow writing",
+        "An image of Annie Kenney<br />",
+        "An image of Annie Kenney being arrested",
+        "What are unions and why do people join them?"
+      ]
+    }
+  ],
+  "evidence_count": 2,
+  "crawled_at": "2026-04-23T19:02:46.614877+00:00"
+}

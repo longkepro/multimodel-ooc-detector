@@ -1,0 +1,122 @@
+{
+  "sample_id": "false_62",
+  "image_url": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/05/16/17/hyde-park-protest3.jpg?width=1200",
+  "visual_entities": [
+    {
+      "description": "2020 United States anti-lockdown protests",
+      "score": 0.6843
+    },
+    {
+      "description": "Crowd",
+      "score": 0.6334853
+    },
+    {
+      "description": "United Kingdom",
+      "score": 0.5826
+    },
+    {
+      "description": "COVID-19 protests in the United Kingdom",
+      "score": 0.51629996
+    },
+    {
+      "description": "The Sound of the Crowd",
+      "score": 0.5083
+    },
+    {
+      "description": "COVID-19",
+      "score": 0.458
+    },
+    {
+      "description": "The Human League",
+      "score": 0.4547
+    },
+    {
+      "description": "Demonstration",
+      "score": 0.4111
+    },
+    {
+      "description": "Universal Music Group",
+      "score": 0.3998
+    },
+    {
+      "description": "",
+      "score": 0.3998
+    },
+    {
+      "description": "",
+      "score": 0.3884
+    },
+    {
+      "description": "2020",
+      "score": 0.3515
+    }
+  ],
+  "best_guess_labels": [
+    "crowd"
+  ],
+  "similar_image_urls": [
+    "https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/05/16/17/hyde-park-protest3.jpg",
+    "https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/05/16/17/hyde-park-protest3.jpg?width=1200",
+    "https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/05/16/17/hyde-park-protest3.jpg?width=1200&height=900&fit=crop",
+    "https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/05/16/17/hyde-park-protest3.jpg?quality=75&width=230&crop=3%3A2%2Csmart&auto=webp"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.independent.co.uk/news/uk/home-news/trafalgar-square-protest-coronavirus-lockdown-5g-conspiracy-qanon-vaccine-b499619.html",
+      "page_title": "Conspiracy theorists clash with police at anti-lockdown protest",
+      "title": "Trafalgar Square protest: Conspiracy theorists clash with police at anti-lockdown demonstration",
+      "description": "",
+      "text": "Trafalgar Square protest: Conspiracy theorists clash with police at anti-lockdown demonstration\nCrowd cheers as speaker claims that coronavirus is ‘made up’ as cases rise\n- Bookmark\n- CommentsGo to comments\nHundreds of conspiracy theorists have gathered in central London to protest against coronavirus restrictions in the UK as infections worsen.\nScuffles broke out as police moved in on demonstrators in Trafalgar Square, who formed human blockades in an attempt to prevent arrests and initially forced officers to move back.\nDemonstrators advanced on police while shouting “choose your side” and some were seen throwing objects at officers during a largely peaceful demonstration on Saturday afternoon.\nAt around 3pm, the Metropolitan Police announced that it would be dispersing protesters and making arrests after trying to “explain, engage and encourage them to leave throughout” the day.\nFootage showed several lines of officers in riot gear near the National Gallery, with mounted police on standby, as police repeatedly told people to leave the rally.\nThe Resist And Act For Freedom rally was the latest in a series of protests by a wide-ranging coalition of groups who oppose lockdown restrictions.\nSupporters of the QAnon theory, which centres on claims that Satan-worshiping paedophiles are running a global child sex-trafficking ring, could be seen in the crowd.\nSeveral people held up signs opposing vaccinations and 5G technology, while others waved St George flags.\nThe crowd cheered as a speaker told them that coronavirus was a “novel coronavirus, like a novel, like a story – it’s all made up”. Another woman claimed that 5G “grows cancer”.\nOne protester held a banner calling for the government’s Sage scientific advisers to be sacked, while another’s declared Covid-19 a “hoax”.\nMetropolitan Police Superintendent Emma Richards said: \"We remain in the middle of a public health crisis, and by gathering in large numbers - such as today's protest - puts others at risk. We advised those in attendance to leave but many refused to do so.\n\"The amount of hostility shown towards officers, who were simply there to keep people safe, is unacceptable. More than 30 people were arrested and they remain in custody.\"The protest had been advertised by organisers as an “medic-focused event with expert speakers, NHS and police whistleblowers. Protecting our families, our elderly and our children”.\nThe speakers included high-profile conspiracy theorists who have been speaking at a number of similar rallies in recent months.\nA lead organiser is a nurse whose registration was suspended by the Nursing and Midwifery Council in July for spreading false information about coronavirus and vaccines.\nOther speakers included the chair of the right-wing Irish Freedom Party, a Republican politician from Minnesota and prolific anti-5G campaigner Mark Steele, who was jailed for shooting a teenage girl in the head in the 1990s.\nIt comes amid concern that the spread of disinformation on coronavirus and potential vaccines will worsen the pandemic.\nPolice had appealed for the public to adhere to restrictions and social distancing over the weekend, as some forces mounted extra patrols to enforce the law.\nA further 16 people who tested positive for coronavirus have died in hospital in England, bringing the total number of confirmed reported deaths in hospitals to 29,735, NHS England said on Saturday.\nProfessor Neil Ferguson, whose modelling led the government to order the lockdown in March, urged ministers to act “sooner rather than later” as cases rise.\nBoris Johnson is to consider new restrictions across England after the latest figures showed new infections doubling every week, with the R rate between 1.1 and 1.4.\n“We are now seeing a second wave coming in. We are seeing it in France, in Spain, across Europe – it has been absolutely, I’m afraid, inevitable we were going to see it in this country,” he said on Friday.\nThe “rule of six” came into force on Monday to restrict private social gatherings, but protests are exempt if they are organised in accordance with guidelines.\nMinisters are thought to be looking at a temporary two-week “circuit break” in an attempt to break the chain of virus transmission.\nThe move could see pubs and restaurants ordered to close or face a 10pm curfew, while socialising between households could be banned.\nTougher new restrictions have already been imposed in large parts of England’s north west, West Yorkshire and the Midlands.\nJoin our commenting forum\nJoin thought-provoking conversations, follow other Independent readers and see their replies\nComments",
+      "image_captions": [
+        "Protesters clash with police at anti-lockdown demonstration in Trafalgar Square",
+        "Anti-lockdown, anti-vaccine and anti-mask protesters crowd London's Trafalgar Square",
+        "Anti-lockdown protests in US may have helped spread coronavirus, phone data suggests",
+        "Coronavirus: Inside the UK’s biggest anti-lockdown protest",
+        "New forms of terrorism inspired by conspiracy theories may emerge after pandemic, warns EU counter-terror chief"
+      ]
+    },
+    {
+      "url": "https://www.independent.co.uk/news/uk/home-news/coronavirus-lockdown-protests-uk-london-hyde-park-5g-conspiracy-theories-a9518506.html",
+      "page_title": "Coronavirus: Inside the UK's biggest anti-lockdown protest",
+      "title": "Inside the UK's biggest anti-lockdown protest",
+      "description": "Lizzie Dearden meets the conspiracy theorists happy to break the law to oppose what they see as the ‘tyranny’ of coronavirus restrictions",
+      "text": "Coronavirus: Inside the UK’s biggest anti-lockdown protest\nLizzie Dearden meets the conspiracy theorists happy to break the law to oppose what they see as the ‘tyranny’ of coronavirus restrictions\n- Bookmark\n- CommentsGo to comments\n“They are controlling the narrative and they are not allowing the people to speak about anything else other than what they claim is the truth,” shouts a man to a crowd of protesters.\n“We’ve unpicked everything to do with this creation, this supposed virus.”\nNext to him, a woman holding a sign calling coronavirus a “fake pandemic” nods appreciatively while police warily look on.\nIn the surrounding crowd, people wave placards linking the outbreak with 5G technology, Microsoft founder Bill Gates and the “new world order”.\nThis is the largest anti-lockdown protest yet seen in the UK, seeing around 100 people gather in London’s Hyde Park.\nAs the UK’s coronavirus death toll neared 36,000, demonstrators had no qualms about violating social distancing to show their contempt for public health measures.\nWhile some cast doubt on the existence of the illness, others were voicing beliefs that the virus had been created as a weapon and was being spread deliberately, while fellow protesters took aim at the “tyrannical” lockdown.\nChants of “freedom” regularly broke out throughout the protest on a sunny Saturday afternoon, which was allowed to proceed by police despite a small number of arrests.\nThe demonstration centred on Speakers’ Corner, a bastion of British debate, where a more conventional speaker was laughed at for asking participants to stay two metres apart.\nFew attendees were wearing masks, and those that were seemed to be doing it for the benefit of police officers and television cameras.\n“I will not be masked, tracked, chipped or vaccinated,” read one woman’s sign. “This will not be my new normal. I do not consent.”\nOne man held a sign displaying a photo of British conspiracy theorist David Icke and supporting his theories, shouting: “He speaks the truth, he’s being silenced. It’s tyranny.”\nAt one point, a man apologised for bumping into a woman, only to be pulled into a hug.\n“Don’t worry, we’re all here because we don’t mind,” she told him.\nA large number of police officers supervised the combative crowd, who repeatedly chanted “shame on you” and booed as demonstrators including Jeremy Corbyn’s brother were arrested.\nPiers Corbyn, an astrophysicist, had used a megaphone to claim the pandemic was a “pack of lies to brainwash you and keep you in order”, shouting: “Vaccination is not necessary”.\nLike many of the protesters, he claimed coronavirus was linked to 5G technology, adding: “5G enhances anyone who’s got illness from Covid, so they work together.“\nThe vast majority of the crowd opposed vaccinations, with one sign calling them a “bioweapon”.\nAt several points, people sang “shove your vaccinations up your arse”.\nOthers were calling for “freedom” against the so-called “tyranny” of the lockdown.\nTwo women walked through the crowd wafting incense, while another insistently gave out copies of the Universal Declaration of Human Rights.\nThe crowd was bolstered by bemused passers-by who chanced upon the demonstration while walking through Hyde Park.\nSome attempted to challenge the conspiracy theorists, with little success.\nThe “mass gathering” attracted a range of people, from young families, to groups of friends, elderly women and middle-aged men in suits.\nOne man was walking around with Kermit the Frog on his shoulder, while another wore a red “Make America Great Again” cap.\nNo signs displaying allegiance to extremist groups were visible but at least one man present, and sipping from a can of super-strength lager, previously protested with the far-right UK yellow vests.\n“We’re all here no matter what we believe – people are unhappy about different things,” said a woman holding a sign calling the BBC, ITV, CNN and Sky “deadly viruses”.\nSeveral protesters discussed the “fake news”, with one man speaking with pride about he did not read the mainstream media or own a television.\nAs the afternoon wore on, demonstrators retreated from Speakers’ Corner to spread out on the grass in the warm sunshine.\nIt was the largest of at least 60 “mass gathering” protests called by a loose collective calling itself the UK Freedom Movement.\nFlyers were distributed through a since-deleted Facebook group urging people to “be part of the largest mass gathering since the lockdown”.\nThey said: “We say no to the coronavirus bill, no to mandatory vaccines, no to the new normal and no to the unlawful lockdown.”\nThe leaflet called for people to “bring a picnic, some music and [have] some fun and say yes to life”.\nNever has a slogan felt more ironic.\nJoin our commenting forum\nJoin thought-provoking conversations, follow other Independent readers and see their replies\nComments",
+      "image_captions": [
+        "Police speak to a protester as conspiracy theorists gather at Hyde Park Corner on 16 May 2020 in London(Getty)",
+        "Conspiracy theorists at Hyde Park Corner on 16 May 2020 in London(Getty)",
+        "Police speak to a protester as conspiracy theorists gather at Hyde Park Corner on 16 May 2020 in London",
+        "Video Player Placeholder",
+        "Conspiracy theorists at Hyde Park Corner on 16 May 2020 in London"
+      ]
+    },
+    {
+      "url": "https://www.independent.co.uk/news/uk/home-news/anti-lockdown-protest-london-police-arrests-coronavirus-conspiracy-theorists-b1286036.html",
+      "page_title": "Police make arrests at London anti-lockdown protest after risk ...",
+      "title": "Police make arrests at London anti-lockdown protest after risk assessment violated",
+      "description": "",
+      "text": "Police make arrests at London anti-lockdown protest after risk assessment violated\nPolice say demonstration was no longer exempt from coronavirus laws banning gatherings\n- Bookmark\n- CommentsGo to comments\nArrests have been made at an anti-lockdown protest in London after demonstrators broke the terms of a risk assessment.\nThe “Stop the New Normal” rally ended in Trafalgar Square on Saturday afternoon after marching from Hyde Park to Westminster.\nIt was the latest weekly demonstration organised by conspiracy theorists, including anti-vaxxers.\nPiers Corbyn, the brother of former Labour leader Jeremy, was among the speakers despite awaiting trial for allegedly breaking coronavirus laws at two previous protests in May. He denies the charges.\nShortly before 4pm, police moved in to clear protesters after finding that they violated an agreement that allowed the event to go ahead despite tier two coronavirus restrictions in the capital.\nA spokesperson for the Metropolitan Police said protesters had “failed to comply with the terms of their risk assessment, government guidelines and were not maintaining social distancing”.\n“The officer in charge determined their protest is no longer exempt from the regulations and is an illegal gathering,” a statement added.\nThe force said officers would ask demonstrators to leave and use enforcement as a last resort.\nAt least 10 arrests have so far been made. One man appeared to be wearing a tin foil hat and fake beard, while a woman shouted at passers-by “they are arresting me for nothing, make a video”.\nAnother man repeated “coronavirus is a lie … it’s fake, it doesn’t exist” as he was carried away.\nThere was disruption on Westminster Bridge as a small number of protesters who had been cleared from Trafalgar Square sat in the road and blocked traffic.\nSmall scuffles broke out as police, who were wearing masks and were not in riot gear, tried to move them before they dispersed.\nEarlier in the day, protesters had marched to landmarks including Buckingham Palace, Oxford Street and New Scotland Yard.\nThey called for an end to the “tyranny” of pandemic restrictions, and many voiced their opposition to vaccines and belief in conspiracy theories, with some questioning the existence of Covid-19.\nAt one point, a group of protesters standing outside the Houses of Parliament sang a song with a chorus of: “You can stick your phoney virus up your arse.”\nCurrent restrictions in London ban outdoor gatherings of more than six people, and protests are only exempt if protective measures are put in place.\nAhead of the event, police had warned that demonstrators who deliberately ignore instructions and put other people at risk from coronavirus would be subject to enforcement action.\nCommander Ade Adelekan said: “Everybody has a personal responsibility to stick to the regulations and help prevent the transmission of coronavirus.\n“We will not allow the health of Londoners to be put at risk and officers and we will take action against those groups or individuals who flagrantly and dangerously breach these rules.”\nJoin our commenting forum\nJoin thought-provoking conversations, follow other Independent readers and see their replies\nComments",
+      "image_captions": [
+        "Anti-lockdown protesters clash with police in Dublin",
+        "Police shut down anti-lockdown rally in London",
+        "Piers Corbyn charged with breaking coronavirus laws",
+        "Inside the UK’s biggest anti-lockdown protest"
+      ]
+    },
+    {
+      "url": "https://www.independent.co.uk/news/uk/home-news/covid-conspiracy-theories-antivaxxers-restrictions-b2023493.html",
+      "page_title": "'Pandora's box' of conspiracy theories unleashed by Covid cannot ...",
+      "title": "‘Pandora’s box’ of conspiracy theories unleashed by Covid cannot be shut, experts warn",
+      "description": "",
+      "text": "‘Pandora’s box’ of conspiracy theories unleashed by Covid cannot be shut, experts warn\n‘No one is under the illusion that this is going to be solved by the dropping of restrictions,’ researcher says\n- Bookmark\n- CommentsGo to comments\nThe “Pandora’s box” of conspiracy theories unleashed by the pandemic will not fade away after the lifting of restrictions, experts have warned. The past two years have seen an unprecedented rise in protests and online activism spreading claims ranging from 5G causing Covid to the virus being a “new world order” plot to reduce the population.\nAnti-lockdown and anti-vax movements exploded, creating a melting pot of extremists alongside ordinary members of the public with genuine concerns. Researchers warn that many people who were exposed to Covid conspiracy theories early in the pandemic will now have consumed a wider range of material that could feed into extremist viewpoints.\nCounterterror police have raised concerns that conspiracy theories were being used by vocal far-right activists and Islamists to draw in young and vulnerable people on social media, before exposing them to more extreme narratives.\nMilo Comerford, who has been tracking anti-vaxxers at the Institute for Strategic Dialogue (ISD), said “no one is under the illusion that this is going to be solved by the dropping of restrictions”.\n“For some people, life will go on and as things go back to normal, some of those fellow travellers will go back into the woodwork,” he told The Independent.\n“This will be impacting our lives in different ways for years and years – there’s a huge amount of overlap between Covid and discussion about the environment, migration, government and tyranny and those will continue.\n“The pandemic provided the platform and opportunity to mainstream ideas to a wider audience. Pandora’s box has been opened.”\nAnti-vax activism was once a fringe movement in the UK, but since the pandemic began some protests have been attended by thousands of people.\nThousands more have conducted campaigns online, organising efforts to pressure hospitals, schools and employers on the encrypted messaging app Telegram.\nJacob Davey, the ISD’s head of research for hate movements, said it was a “movement of the likes we have never seen before”, adding that “it makes for weird bedfellows but the old rivalries have been put aside for this great resistance”.\nAnti-vax protests in London have seen left-wing human rights demonstrators mixing with 5G conspiracy theorists, far-right activists and “natural remedy” fanatics.\nMr Davey said that despite the obvious differences, the groups share a deep suspicion of the establishment and an affinity with conspiracy theories.\n“Not everyone who is concerned about lockdown or restrictions is an extremist or a hardened conspiracy theorist but what we’ve seen consistently is this coming together of quite loose communities, which manage to bridge the gap between extremist movements on the right, established conspiracy theorist movements and the anti-vax community, and the left,” he said.\nAs the pandemic progressed, broader talking points emerged over government control of individual rights, corruption and perceived “elites”. Mr Davey said that anti-vaxxers are now “consistently engaged in a number of harmful activities”, including threats and intimidation towards people who administer jabs, and medical staff and volunteers.\nMr Comerford said politicians were increasingly becoming targets, following abuse hurled at Sir Keir Starmer, Michael Gove and other MPs by anti-vax protesters.\nA report released by the Commission for Countering Extremism in July 2020 warned that the pandemic was being exploited by extremists to sow division. It said far-right activists had been encouraging followers to “deliberately infect” Jews and other minority groups, while Islamists were propagating anti-western narratives, claiming Covid was divine punishment for “degeneracy”.\nThe report said that 5G conspiracy theories had led to attacks on masts and telecoms engineers. Mr Davey said conspiracy theorist groups on the encrypted Telegram app “consistently see the spread of far-right and hateful talking points”, such as antisemitic conspiracy theories.\nHe added: “There is a fusion of ideas and the real risk is it potentially means you’ve got conspiracy theorists borrowing ideas from the far right, and the far right borrowing ideas from conspiracy theorists when they’re looking at what’s successful on the other side.”\nAnd Mr Comerford said the pandemic appears to have accelerated a “breaking down of traditional ideological buckets”. The most recent figures for the Prevent counter-radicalisation scheme show that more than half of referrals are now classed as “mixed, unstable or unclear ideology”.\nThe category includes people who are drawing from multiple ideologies, or have “undetermined” or “conflicted” beliefs that often include conspiracy theories. The number of “mixed, unstable or unclear” cases referred onwards into the Channel intervention programme rose by 65 per cent in a year, and is expected to continue rising.\nJoin our commenting forum\nJoin thought-provoking conversations, follow other Independent readers and see their replies\nComments",
+      "image_captions": [
+        "Demonstrators argue with police in Trafalgar Square, London(AFP/Getty)",
+        "Sir Keir Starmer was recently mobbed by anti-vaxx protesters, who also shouted about Jimmy Savile and paedophile-related conspiracy theories(YouTube)",
+        "Demonstrators argue with police in Trafalgar Square, London",
+        "Kate Shemirani: Covid conspiracy theorist investigated by police over doctor hanging comments",
+        "Coronavirus: Inside the UK’s biggest anti-lockdown protest"
+      ]
+    }
+  ],
+  "evidence_count": 4,
+  "crawled_at": "2026-04-23T17:06:41.696002+00:00"
+}

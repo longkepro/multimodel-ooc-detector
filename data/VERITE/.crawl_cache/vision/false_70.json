@@ -1,0 +1,58 @@
+{
+  "sample_id": "false_70",
+  "image_url": "https://i.pinimg.com/736x/39/c2/7f/39c27f60913dcdcaac3397fbb3fcc35a.jpg",
+  "visual_entities": [
+    {
+      "description": "Coyote",
+      "score": 1.6118851
+    },
+    {
+      "description": "Canidae",
+      "score": 1.056
+    },
+    {
+      "description": "Howling",
+      "score": 0.7072
+    },
+    {
+      "description": "Wildlife",
+      "score": 0.5774
+    },
+    {
+      "description": "Dog",
+      "score": 0.57555
+    },
+    {
+      "description": "Urban coyote",
+      "score": 0.5027
+    },
+    {
+      "description": "Bark",
+      "score": 0.4694
+    },
+    {
+      "description": "Scavenger",
+      "score": 0.3969
+    }
+  ],
+  "best_guess_labels": [
+    "coyote"
+  ],
+  "similar_image_urls": [
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigF0fag2z4lOodWuvaM2xVf7ve22IcT8F5qgqXOXuitQSXNpX3ExhvT6y89IbA3SAR14hxtxj0H-1kCefaOMEHnOCWct00dP1fBYiiC7zHv0BAfJjRoiIKamWgVVpHvG_6cFmU/s1600/golden-jackal.jpg",
+    "https://welovedogz.hu/media/images/2024_02_gettyimages-521413332-1.format-jpeg.max-370x278.jpg",
+    "https://dam.production02.nmh.nmheagle.sk/api/image/1680x945/7b8/7b8fdee6-1b9a-11ef-b315-ca36e7882062.webp"
+  ],
+  "evidence": [
+    {
+      "url": "https://frederick.forestryboard.org/nature-notes/animals/mammals/coyote",
+      "page_title": "Coyote - Forestry Board",
+      "title": "Coyote",
+      "description": "The coyote (Canis latrans) is a medium-sized canine that has a grayish brown coat with a white stripe on the throat and belly. The name coyote comes from an Aztec word meaning trickster. Coyote’s are native to North America; their range extends from Central America to Alaska and across the US. The",
+      "text": "The coyote (Canis latrans) is a medium-sized canine that has a grayish brown coat with a white stripe on the throat and belly. The name coyote comes from an Aztec word meaning trickster. Coyote’s are native to North America; their range extends from Central America to Alaska and across the US. The southern population of this animal is smaller (20 – 40 lbs.) than its northern cousins (40 – 60 lbs.). Coyotes mature in one season, and the female can bear 5 pups at birth. Coyotes are mostly nocturnal. They have a diverse diet, preferring fresh meat but eating carrion and plants as well. Coyotes are opportunistic feeders that prefer small mammals such as rabbits, mice, squirrels, groundhogs, etc., but they will also hunt pets, livestock, deer, and fox. They sometimes hunt in packs and can run up to 45 miles per hour.\nThe coyote is an animal that has thrived in the presence of humans. Originally this animal lived in the open plains and dessert between the Mississippi River and Rocky Mountains. Once settlers began clearing land, raising livestock and killing grey wolves and cougars (the main predator of the coyote), the very adaptable coyote responded by increasing both in numbers and distribution. As the coyote moved through the Lake States, it began mating with timber wolves; a hybrid animal developed that is larger than a coyote with a bigger skull and teeth. The coyote also began hybridizing with the native red wolf in the south and nearly caused the extinction of this species by breeding the pure strain out of existence. The US Fish and Wildlife Service captured genetically pure red wolves and developed a small population that they introduced into a large wildlife refuge in North Carolina where coyote were absent. This introduction of red wolf was successful, and a small population of about 100 wolves developed in this reserve. Unfortunately coyote moved into this area as well. Given the present circumstances, experts believe that the wild strain of red wolf may hybridize out of existence in about 12 – 24 years unless they are separated from coyote. Coyotes will also mate with dogs, creating a coy dog. This hybrid possesses the coyote’s hunting instincts, but it is not as timid as a wild animal and is more likely to attack livestock and pets as a result. Coy dogs are a particular problem in Texas and Oklahoma where warmer weather makes it more probable that this hybridization will take place. The first documented sighting of coyote in Maryland was in 1972; Maryland and Delaware were the last states to be colonized by this opportunistic animal.\nNow coyote are found in every county in Maryland and are designated as “furbearer” meaning that they can be hunted and trapped in season in our state. Recent studies in Virginia indicate that both the pure strain and hybrid coyote are present, with their populations increasing at an annual rate of 29%. Coyote are a primary predator in this area, and they have few natural enemies. The increasing coyote population has hurt red fox and feral cat numbers since both species occupy roughly the same habitat. Gray fox and bobcat numbers are declining somewhat in the presence of coyotes as well.\nCoyotes will sometimes form small packs comprised of the mated pair and a few generations of offspring, but they can also be solitary animals. Human attacks are fairly rare, averaging about 20 attacks per year across the county. Attacks usually occur when the coyote is defending its food or young. Coyotes are responsible for about 60% of the reported livestock attacks in the United States.\nArticle by FCFCDB member\nNature Notes for 8/26/2018",
+      "image_captions": []
+    }
+  ],
+  "evidence_count": 1,
+  "crawled_at": "2026-04-23T17:09:25.572777+00:00"
+}

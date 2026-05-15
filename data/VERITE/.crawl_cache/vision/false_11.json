@@ -1,0 +1,83 @@
+{
+  "sample_id": "false_11",
+  "image_url": "https://blog.qagoma.qld.gov.au/wp-content/media/QAG_APT7_2_InstallationProcess_20121130_msherwood_024_72dpix600w_72dpix570.jpg",
+  "visual_entities": [
+    {
+      "description": "Boa constrictor",
+      "score": 1.1589601
+    },
+    {
+      "description": "Titanoboa",
+      "score": 1.08225
+    },
+    {
+      "description": "Anaconda",
+      "score": 1.03815
+    },
+    {
+      "description": "Boas",
+      "score": 0.89775
+    },
+    {
+      "description": "Snake skeleton",
+      "score": 0.453
+    },
+    {
+      "description": "disturbing",
+      "score": 0.4114
+    },
+    {
+      "description": "Garter snake",
+      "score": 0.3291
+    }
+  ],
+  "best_guess_labels": [
+    "titan no boa"
+  ],
+  "similar_image_urls": [
+    "https://i.redd.it/aq8euf1l1fh01.png",
+    "https://preview.redd.it/42ft-titanoboa-skeleton-replica-v0-aq8euf1l1fh01.png?auto=webp&s=a8b106e6412df435125247c9d718a8283b5d7637",
+    "https://preview.redd.it/42ft-titanoboa-skeleton-replica-v0-aq8euf1l1fh01.png?width=640&crop=smart&auto=webp&s=2055d8c0b2284658a3ca73f44aa3b44a185a7743",
+    "https://histoiredelartai2.wordpress.com/wp-content/uploads/2017/11/ressort.jpg?w=1000",
+    "https://static.wikia.nocookie.net/the-age-of-trilogy/images/0/0e/Titanoboa_skeleton.jpg/revision/latest/scale-to-width-down/570?cb=20220423162702",
+    "https://static.wikia.nocookie.net/dinosaurs-battle-world-championship/images/f/f8/Titanoboa_Skeleton.jpg.jpg/revision/latest?cb=20230802023137",
+    "http://i.imgur.com/sniBYEn.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2673055962739508",
+    "https://cdn.sanity.io/images/m2obzhc2/production/848b9a890e77c81653df6c83f0e3711be0f3cfe5-570x570.jpg",
+    "https://static.wikia.nocookie.net/the-age-of-trilogy/images/0/0e/Titanoboa_skeleton.jpg/revision/latest?cb=20220423162702"
+  ],
+  "evidence": [
+    {
+      "url": "http://www.beanmuseum.org/2017/",
+      "page_title": "2017 - Bean Blog",
+      "title": "Bean Blog",
+      "description": "",
+      "text": "There’s a new animal on display at the museum; some might even call it a new monster! Its name is Titanoboa! Titanoboa cerrejonensis was a massive snake as long as a school bus. It lived fifty-eight million years ago in a swampy jungle in what is now Colombia. By this time, dinosaurs had gone extinct and the region was covered in familiar-looking, albeit monster-sized plants and animals. This snake looked a lot like a modern boa but acted a lot like a modern anaconda. Boa constrictors can grow up to fourteen feet long, and anacondas can reach lengths of twenty feet, but nothing compares to Titanoboa at 42 feet long. That's a long snake! Both boas and anacondas kill their prey by constricting - or squeezing - them to death. Titanaboa was also likely a constrictor, however, it could grow over forty feet long and weighed more than a ton! When constricting prey, it could exert 400 lbs of pressure per square inch. It also had more teeth than either kind of snake previously talked about. This might have helped it eat slippery fish even though it was large enough to chow down on alligators, dyrosaurids, and anything else that got in its way! Next time you’re wandering through the Paleocene jungle, watch out for these slithery reptiles!\nOn December 16, 2017, the new Titanoboa exhibit will open at the Monte L. Bean Life Science museum. The exhibit will feature a life-size replica of Titanoboa created by the Smithsonian; information about how this ancient snake was discovered in a Colombian coal mine; and interactive elements to help you learn about snakes. You might even be able to pet a real life snake! (One much friendlier than Titanoboa!) Come learn about our slithery, scaly friends!\"\nAlso keep your eye out for our Titanoboa bus ad, slithering its way around Utah and Salt Lake County!",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.qagoma.qld.gov.au/stories/huang-yong-ping-ressort-2012/",
+      "page_title": "Huang Yong Ping 'Ressort': A gigantic snake skeleton",
+      "title": "Huang Yong Ping ‘Ressort’: A gigantic snake skeleton – QAGOMA Stories",
+      "description": "[image block] The Gallery commissioned and acquired one of the signature works of The 7th Asia Pacific Triennial of Contemporary Art (APT7), Ressort 2012, a",
+      "text": "Huang Yong Ping ‘Ressort’: A gigantic snake skeleton\nThe Gallery commissioned and acquired one of the signature works of The 7th Asia Pacific Triennial of Contemporary Art (APT7), Ressort 2012, a sculpture by the Chinese–French artist Huang Yong Ping.\nThe gigantic aluminium snake skeleton that spirals 53 metres across the Watermall, Ressort 2012 was a fitting centrepiece for APT7. This is not only because it is a major work by one of the leading figures in Chinese contemporary art, but also because it embodies many of the ideas that drive the APT and the Gallery, with its emphasis on cross-cultural dialogue, its engagement with audiences, and its thoughtful response to site and context.\nHuang was born in Xiamen in southern China in 1954. Along with artists such as Zhang Xiaogang and Xu Bing, he was part of the first wave of students admitted to the newly reopened art academies following the Cultural Revolution (1966–76). While at the Zhejiang Academy of Fine Arts in the late 1970s and early 1980s, Huang gained access to Western art and philosophy books in Chinese translation, and became interested in French postmodern theory and the work of Marcel Duchamp, John Cage and Joseph Beuys. Huang found connections between Taoist and Zen Buddhist thought, with its embrace of constant change, and the deconstructive, dematerialising strategies of Dada. In 1986, he co-founded the influential avant-garde group Xiamen Dada, which staged several radical events that included burning paintings at the end of an exhibition, and installing construction materials in a gallery instead of art works.\nSince 1989, Huang has lived in Paris. As with many artists of his generation, he left China at the time of the Tiananmen Square crackdown, which registered an end to the increasingly open expression that had built since the end of the Cultural Revolution. Living in France enabled Huang to participate actively in the international art world, exhibiting widely and raising awareness of Chinese avant-garde art, particularly in Europe. It also encouraged him to shift his practice to address the interaction of different cultures in an increasingly globalised world. In Huang’s works since 1989, Chinese symbols and mythology are often intertwined with those of the West, overlaid with references to the locality where the work is shown.\nThis approach is clearly evident in Ressort, which was commissioned for APT7 and the Collection. Here Huang expands the form of the snake, a regular motif in his work, to a gigantic scale. ‘Ressort’ is French for ‘spring’, and can also mean energy or resilience, and the snake skeleton coils from the roof to the floor, as if coming down from the sky, with its skull floating just above the water. The coiled snake or dragon, a central figure in Chinese mythology since ancient times, is traditionally associated with water; the snake also represents knowledge and wisdom. The snake/dragon is also a key figure in other cultures, appearing in the Garden of Eden in the Bible, as the Naga in Southeast Asia, as the foe to Beowulf or Saint George in Anglo–Saxon mythology, and as the Rainbow Serpent in Australian Aboriginal culture. It is alternatively a symbol of fear, creation, desire, deception or good luck.\nRessort suggests movement through its sinuous loops, but the skeleton is static, like a dinosaur fossil in a museum. It is gigantic, larger than any snake could be, but scale is relative, according to Huang: what is huge in one context is tiny in another. The fluidity and ambiguity of the snake powerfully express the tensions that Huang Yong Ping likes to keep in play in his work. Nothing is certain, meaning is created through the interdependence of things rather than via fixed truths, and we are all subject to the forces of chance and change.\nRussell Storer is former Curatorial Manager, Asian and Pacific Art, QAGOMA",
+      "image_captions": [
+        "Toggle CaptionHuang Yong Ping, China/France 1954-2019 /Ressort2012 / Aluminium, stainless steel / Commissioned 2012 with funds from Tim Fairfax AM through the Queensland Art Gallery Foundation / Collection: Queensland Art Gallery | Gallery of Modern Art / © Estate of Huang Yong Ping / Photograph: Mark Sherwood © QAGOMA /View full image",
+        "Toggle CaptionHuang Yong Ping, China/France b.1954 /Ressort(installation view) 2012 / Aluminium, stainless steel / Commissioned 2012 with funds from Tim Fairfax AM through the Queensland Art Gallery Foundation / Collection: Queensland Art Gallery | Gallery of Modern Art / © Estate of Huang Yong Ping /View full image",
+        "Queensland Art Gallery | Gallery of Modern Art",
+        "Huang Yong Ping, China/France 1954-2019 / Ressort 2012 / Aluminium, stainless steel / Commissioned 2012 with funds from Tim Fairfax AM through the Queensland Art Gallery Foundation / Collection: Queensland Art Gallery | Gallery of Modern Art / © Estate of Huang Yong Ping / Photograph: Mark Sherwood © QAGOMA",
+        "Huang Yong Ping, China/France b.1954 / Ressort (installation view) 2012 / Aluminium, stainless steel / Commissioned 2012 with funds from Tim Fairfax AM through the Queensland Art Gallery Foundation / Collection: Queensland Art Gallery | Gallery of Modern Art / © Estate of Huang Yong Ping"
+      ]
+    },
+    {
+      "url": "http://www.beanmuseum.org/2017/12/titanoboa-monster-snake.html",
+      "page_title": "Titanoboa: Monster Snake - Bean Blog",
+      "title": "Titanoboa: Monster Snake",
+      "description": "There’s a new animal on display at the museum; some might even call it a new monster! Its name is Titanoboa! Titanoboa cerrejonensis wa...",
+      "text": "There’s a new animal on display at the museum; some might even call it a new monster! Its name is Titanoboa! Titanoboa cerrejonensis was a massive snake as long as a school bus. It lived fifty-eight million years ago in a swampy jungle in what is now Colombia. By this time, dinosaurs had gone extinct and the region was covered in familiar-looking, albeit monster-sized plants and animals. This snake looked a lot like a modern boa but acted a lot like a modern anaconda. Boa constrictors can grow up to fourteen feet long, and anacondas can reach lengths of twenty feet, but nothing compares to Titanoboa at 42 feet long. That's a long snake! Both boas and anacondas kill their prey by constricting - or squeezing - them to death. Titanaboa was also likely a constrictor, however, it could grow over forty feet long and weighed more than a ton! When constricting prey, it could exert 400 lbs of pressure per square inch. It also had more teeth than either kind of snake previously talked about. This might have helped it eat slippery fish even though it was large enough to chow down on alligators, dyrosaurids, and anything else that got in its way! Next time you’re wandering through the Paleocene jungle, watch out for these slithery reptiles!\nOn December 16, 2017, the new Titanoboa exhibit will open at the Monte L. Bean Life Science museum. The exhibit will feature a life-size replica of Titanoboa created by the Smithsonian; information about how this ancient snake was discovered in a Colombian coal mine; and interactive elements to help you learn about snakes. You might even be able to pet a real life snake! (One much friendlier than Titanoboa!) Come learn about our slithery, scaly friends!\"\nAlso keep your eye out for our Titanoboa bus ad, slithering its way around Utah and Salt Lake County!",
+      "image_captions": []
+    }
+  ],
+  "evidence_count": 3,
+  "crawled_at": "2026-04-23T16:47:59.686216+00:00"
+}

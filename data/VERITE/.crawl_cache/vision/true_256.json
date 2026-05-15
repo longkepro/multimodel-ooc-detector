@@ -1,0 +1,137 @@
+{
+  "sample_id": "true_256",
+  "image_url": "https://pbs.twimg.com/media/FO7V8lvVEAQXeha?format=jpg&name=large",
+  "visual_entities": [
+    {
+      "description": "Sukhoi Su-27",
+      "score": 1.455
+    },
+    {
+      "description": "Ukraine",
+      "score": 1.0655999
+    },
+    {
+      "description": "",
+      "score": 0.7104
+    },
+    {
+      "description": "Traffic sign",
+      "score": 0.7074
+    },
+    {
+      "description": "Intake",
+      "score": 0.5298
+    },
+    {
+      "description": "Road",
+      "score": 0.528
+    },
+    {
+      "description": "Airplane",
+      "score": 0.45299998
+    },
+    {
+      "description": "back",
+      "score": 0.4232
+    },
+    {
+      "description": "front",
+      "score": 0.4221
+    },
+    {
+      "description": "Ukrainian Air Force",
+      "score": 0.3825
+    },
+    {
+      "description": "Armed Forces of Ukraine",
+      "score": 0.3804
+    },
+    {
+      "description": "Highway",
+      "score": 0.3385
+    }
+  ],
+  "best_guess_labels": [
+    "ukrainian fighter road sign"
+  ],
+  "similar_image_urls": [
+    "https://i.imgur.com/YLkPzHa.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10166018814755440",
+    "https://i.pinimg.com/736x/6a/4e/2e/6a4e2e6220768eecc5e04e355f75f103.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3182552135323109",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10166210140945584",
+    "https://topwar.ru/uploads/posts/2020-08/1598677699_14683911.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=276981161273584",
+    "https://i.redd.it/8hsmbrldxhq81.jpg",
+    "https://mblogthumb-phinf.pstatic.net/MjAyMzA0MTVfMjM5/MDAxNjgxNTMyNzU3NTQ4.jJ7NQhLvMglMQApmxT1LZfArnUUZaTuBXtMA9KzdnW0g.hGWoyTYfL_RjcA--i8A4kGJ-UfvX-Fqcg46nWeyo_Hog.JPEG.sundin13/1598875965137.jpg?type=w800",
+    "https://preview.redd.it/what-is-that-thing-under-the-air-intake-v0-uerc8uuv117e1.jpeg?width=800&format=pjpg&auto=webp&s=cd8d75f6510020e744d5847242f2612643ef6fb4"
+  ],
+  "evidence": [
+    {
+      "url": "https://taskandpurpose.com/news/ukranian-air-force-su-27-fighter-jet-road-sign-video/",
+      "page_title": "Watch a Ukrainian fighter jet nail a road sign during a rough landing ...",
+      "title": "Watch a Ukrainian fighter jet nail a road sign during a rough landing outside Kiev",
+      "description": "A Ukrainian Air Force Sukhoi Su-27 fighter jet collided with a road sign on a highway outside of the country's capital of Kiev on Thursday",
+      "text": "Talk about a rough landing.\nA Ukrainian Air Force fighter jet collided with a road sign on a highway outside of the country’s capital of Kiev on Thursday, Defence Blog reports.\nThe jet, one of two UAF Sukhoi Su-27 heavy fighter jets dispatched to the region for military exercises, was practicing taking off and landing on improvised runways on Ukraine’s Highway M06 near the Hungarian border.\nDetails of the incident are scarce, but video that aired on Ukrainian television and began circulating on social media on Thursday, one of the fighters appears to miscalculate during a landing, tearing a road sign from the highway.\nBlink and you’ll miss it:\nHere it is again in slow motion thanks to a handy video from Defence Blog:\nAnd here’s a photo of the aftermath:\nThe Sukhoi Su-27 ‘Flanker’ is a twin-engine fighter jet designed to deploy heavy payloads and high speeds while remaining famously maneuverable. The UAF inherited around 70 SU-27s following the collapse of the Soviet Union.\nThis incident shouldn’t have happened, really: Highway’s M06’s bus stops and lamp posts were temporarily removed in the days leading up to the exercise, according to Defence Blog, likely to unsure that the Su-27’s 48-foot wingspan remained unhindered during practice landings.\nThen again, things could have been way worse. Additional video from the same exercise shows one of the jets nearly coming down right on top of spectators lining the highway:\nIf there’s one thing UAF pilots are known for, it’s ultra low passes — and in the case above, the pilot didn’t disappoint.",
+      "image_captions": [
+        "Students with Bravo Company, 1st Battalion, 507th Parachute Infantry Regiment, load a C-130 aircraft during jump week, May 20, 2025, at the Basic Airborne Course on Fort Benning, Georgia. (U.S. Army photo by Capt. Stephanie Snyder)",
+        "Sgt. Nathan Winter lifts a 40-lbs sandbag as part of the Army's new Combat Field Test at Joint Base Myer-Henderson Hall, Virginia.",
+        "The US may have postponed its massive European war games, but Russia sure as hell didn’t",
+        "A Dutch F-16 fighter shot itself with its own cannon",
+        "A civilian was ejected from a French fighter jet during takeoff"
+      ]
+    },
+    {
+      "url": "https://en.topwar.ru/174565-ukrainskij-su-27-sbil-dorozhnyj-znak.html",
+      "page_title": "Ukrainian Su-27 shot down a road sign - Military Review",
+      "title": "Ukrainian Su-27 shot down a road sign",
+      "description": "Shot - Ministry of Defense of Ukraine A video of the Ukrainian Air Force exercises in the Rivne region, where the pilots of the Su-27 fighters practiced landing on the Kiev-Chop route, appeared on the Web. The corresponding video on YouTube was published by the Ukrainian TV channel 2 + 2. As follows from the video, one of the Su-27 fighters at",
+      "text": "A video of the Ukrainian Air Force exercises in the Rivne region, where the pilots of Su-27 fighters practiced landing on the Kiev-Chop route, appeared on the Web. The corresponding video on YouTube was published by the Ukrainian TV channel 2 + 2.\nAs follows from the video, one of the Su-27 fighters, when practicing takeoff and landing on a highway, demolished a road sign when descending. The description for the video says that the fighter touched a road sign that informed about the recommended speed of 90 km / h, after which, together with its debris in the air intake, it rose into the sky. As follows from the video, the fighter was not damaged and was able to continue its flight. The road service of the Rivne region explained that the knocked down sign is not something new, several of them are demolished every year, but usually cars are engaged in this. They also promised to install a new sign soon.\nThe press service of the Center air command did not comment on this incident in any way, stating that the exercises on take-off and landing on the highway are an element of preparing and practicing tasks \"in order to protect the sovereignty and integrity of Ukraine and its citizens.\"\nAs previously reported, the Ukrainian Air Force conducted exercises on the Kiev-Chop highway section between the villages of Krupets and Mikhailovka, Radivilovsky district, Rivne region. Su-27 fighters from the Center air command of the Armed Forces of the Armed Forces took part in them.\nDear reader, to leave comments on the publication, you must sign in.\nRight Sector (banned in Russia), Ukrainian Insurgent Army (UPA) (banned in Russia), ISIS (banned in Russia), Jabhat Fatah al-Sham formerly Jabhat al-Nusra (banned in Russia), Al-Qaeda (banned in Russia), Anti-Corruption Foundation (banned in Russia), Navalny Headquarters (banned in Russia), Facebook (banned in Russia), Instagram (banned in Russia), Meta (banned in Russia), Misanthropic Division (banned in Russia), Azov (banned in Russia), Muslim Brotherhood (banned in Russia), Aum Shinrikyo (banned in Russia), AUE (banned in Russia), UNA-UNSO (banned in of Russia), the Mejlis of the Crimean Tatar People (banned in Russia), the Freedom of Russia Legion (an armed formation recognized as terrorist in the Russian Federation and banned), Kirill Budanov (included in the list of terrorists and extremists of Rosfinmonitoring), the International LGBT Public Movement and its structural divisions recognized as extremist (decision of the Supreme Court of the Russian Federation dated 30.11.2023/XNUMX/XNUMX), Hayat Tahrir al-Sham (recognized as a terrorist organization by the Supreme Court of the Russian Federation)\n\"Non-profit organizations, unregistered public associations or individuals performing the functions of a foreign agent\", as well as media outlets performing the functions of a foreign agent: Meduza; Voice of America; Realii; Current Time; Radio Liberty; Ponomarev Lev; Ponomarev Ilya; Savitskaya; Markelov; Kamalyagin; Apakhonchich; Makarevich; Dud; Gordon; Zhdanov; Medvedev; Fedorov; Mikhail Kasyanov; Dmitry Muratov; Mikhail Khodorkovsky; Sova; Alliance of Doctors; RCC; Levada Center; Memorial; Voice; Man and Law; Dozhd; Mediazona; Deutsche Welle; Kavkazsky Uzel news agency; Insider; Novaya Gazeta",
+      "image_captions": [
+        "Ukrainian Su-27 shot down a road sign",
+        "The leader of the Redskins"
+      ]
+    },
+    {
+      "url": "https://www.yahoo.com/news/ukraine-roads-company-removing-road-022207531.html",
+      "page_title": "Ukraine roads company removing road signs to confuse Russians",
+      "title": "Ukraine roads company removing road signs to confuse Russians",
+      "description": "A Ukrainian company in charge of building and maintaining roads said it was removing all road signs that could be used by invading Russian forces to find their way around the country.",
+      "text": "Ukraine roads company removing road signs to confuse Russians\n(Editor's note: contains language that some readers may find offensive, paragraph 3)\nMOSCOW (Reuters) - A Ukrainian company in charge of building and maintaining roads said it was removing all road signs that could be used by invading Russian forces to find their way around the country.\n\"The enemy has poor communications, they cannot navigate the terrain,\" the company Ukravtodor said in a Facebook update late on Friday. \"Let us help them get straight to hell.\"\nVideo: Ukrainians united in their resolve to stop Putin's war machine\nIt posted an edited photo of a standard road sign in which directions to nearby cities have been replaced with profanities that could be translated as \"Go fuck yourself\", \"Go fuck yourself again\" and \"Go fuck yourself back in Russia\".\n(Reporting by Olzhas Auyezov; Editing by William Mallard)",
+      "image_captions": [
+        "Download app from App Store",
+        "Download app from Google Play"
+      ]
+    },
+    {
+      "url": "https://www.tbsnews.net/world/ukraine-roads-company-removing-road-signs-confuse-russians-377011",
+      "page_title": "Ukraine roads company removing road signs to confuse Russians",
+      "title": "Ukraine roads company removing road signs to confuse Russians",
+      "description": "\"The enemy has poor communications, they cannot navigate the terrain,\" the company Ukravtodor said in a Facebook update late on Friday",
+      "text": "Ukraine roads company removing road signs to confuse Russians\n\"The enemy has poor communications, they cannot navigate the terrain,\" the company Ukravtodor said in a Facebook update late on Friday\nA Ukrainian company in charge of building and maintaining roads said it was removing all road signs that could be used by invading Russian forces to find their way around the country.\n\"The enemy has poor communications, they cannot navigate the terrain,\" the company Ukravtodor said in a Facebook update late on Friday.\n\"Let us help them get straight to hell.\"\nIt posted an edited photo of a standard road sign in which directions to nearby cities have been replaced with profanities that could be translated as \"Go fuck yourself\", \"Go fuck yourself again\" and \"Go fuck yourself back in Russia\".",
+      "image_captions": [
+        "The Business Standard",
+        "Ukraine’s road agency calls on citizens to ‘dismantle road signs’ with a profane message. The State Agency of Automobile Roads of Ukraine, Facebook via iNews",
+        "The Business Standard Google News",
+        "Shohagi Jahan Tonu. File photo: Collected",
+        "Logo of Bangladesh Police. Photo: Collected"
+      ]
+    },
+    {
+      "url": "https://meaww.com/ukraine-remove-change-road-sign-go-f-ck-yourself-truth-viral-photo-fact-check",
+      "page_title": "Did Ukraine really replace road signs to say 'Go F**k Yourself ...",
+      "title": "Did Ukraine really replace road signs to say 'Go F**k Yourself? Truth behind viral pics",
+      "description": "'The enemy has a miserable connection, they are not guided by the terrain. Let's help them get straight to hell'",
+      "text": "Did Ukraine really replace road signs to say 'Go F**k Yourself'? Truth behind viral pics\nThe photo of a Ukrainian road sign reading \"Go F**k Yourself\" has been doing rounds on social media, as it is being reported that the administration is 'updating' road signs to send a message to the Russian soldiers. However, not the entire claim happens to be true. While a Ukrainian road company is indeed removing crucial road signs and names to confuse Russian troops, the \"Go F**K Yourself\" message was a suggestion shared by Ukravtodor, the company which manages Ukraine's road system.\nIn a Facebook post on February 26, Ukravtodor shared an edited photo that showed messages like \"Go F**k Yourself\" and \"Go f**k yourself again\" and \"Go f**k yourself back in Russia.\" They wrote, \"URGENTLY We dismantle road signs on all roads of the country. Priority #1 — signs, names of settlements. We pass the collected signs to local authorities and road workers. The enemy has a miserable connection, they are not guided by the terrain. Let's help them get straight to hell.\"\nREAD MORE\nTruth behind viral pic of 'brave' Volodymyr Zelenskyy in combat gear\nWho is Ajmal Rahmani? Afghan man who fled to Ukraine for refuge forced to flee again\n\"Ukravtodor calls on all road organizations, territorial communities, local self-government bodies to immediately begin dismantling road signs nearby. NEHUI SHASTATY (Don't you f*** around)\" the post further noted.\nThe announcement prompted Ukrainians to alter or remove road signs as a foolproof strategy to stall Russian advances in their cities. On February 27, Russian troops took over the port city of Berdyansk near the Sea of Azov. They are also unleashing brutal warfare tactics to penetrate other Ukrainian towns and cities, particularly the capital city of Kyiv.\nThe post sparked huge appreciation among foreign nationals who lauded Ukraine's patriotism and courage in the face of Russian invasion. The inspiration for the 'Go F*** Yourself' photo perhaps came from the thirteen brave soldiers of the remote Snake Island, who told the Russian navy to go 'f**k' themselves before a vicious bout of bombing from the latter's end.\nThe video of them muttering the phrase for Russians also went viral on social media globally. Much to the delight and surprise of their fellow countrymen, the thirteen soldiers were found to be alive and well on February 28.\nIn another 'badass' instance from bravery from a Ukrainian, a man from Berdyansk was seen moving a land mine from the middle of the road with his bare hands, while casually puffing on a cigarette. He was hailed as a hero on social media for risking his own life to save others around him.\nIn the past few days, Ukraine saw civilians turning into heroes overnight, as one woman confronted Russian soldiers and asked them to \"Put sunflower seeds in your pockets so they grow on Ukraine soil when you die.\" Marine soldier Vitali Shakun made the ultimate sacrifice by blowing himself up along with a bridge, simply to buy some time for his battalion to regroup before Russian soldiers arrived. Another 80-year-old man was lauded for enlisting in the army to protect his grandkids.",
+      "image_captions": [
+        "A road sign in Ukraine saying 'Go F**k Yourself' to Russian troops (Facebook/Ukravtodor)",
+        "MEAWW Entertainment Logo",
+        "'Such a disgusting commercial': Super Bowl LVIII fans fume over Servant Foundation's 'foot washing' ad",
+        "Super Bowl LVIII: Pfizer faces backlash over controversial ad promoting their next health venture to find treatment for cancer",
+        "How much do Super Bowl  LVIII ads cost? Temu scores big as Chinese e-commerce app doubles up commercials"
+      ]
+    }
+  ],
+  "evidence_count": 5,
+  "crawled_at": "2026-04-23T18:05:16.620879+00:00"
+}

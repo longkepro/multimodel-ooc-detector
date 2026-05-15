@@ -1,0 +1,104 @@
+{
+  "sample_id": "false_58",
+  "image_url": "https://www.mercurynews.com/wp-content/uploads/2020/05/floyd4.jpg?w=1024",
+  "visual_entities": [
+    {
+      "description": "Derek Chauvin",
+      "score": 10.768499
+    },
+    {
+      "description": "George Floyd",
+      "score": 10.566
+    },
+    {
+      "description": "Murder of George Floyd",
+      "score": 1.09365
+    },
+    {
+      "description": "Death",
+      "score": 0.6134
+    },
+    {
+      "description": "Minneapolis Police Department",
+      "score": 0.534
+    },
+    {
+      "description": "I can't breathe",
+      "score": 0.5145
+    },
+    {
+      "description": "Minneapolis",
+      "score": 0.45615
+    },
+    {
+      "description": "Body camera",
+      "score": 0.4342
+    },
+    {
+      "description": "2020",
+      "score": 0.3271
+    }
+  ],
+  "best_guess_labels": [
+    "george floyd pulled over"
+  ],
+  "similar_image_urls": [
+    "https://cdn-free.tv2i.dk/e/d/i/editorial/0/9/c/09c91247-ff82-48d6-b448-905edeed6eaf?ixlib=js-3.8.0&w=1280&h=720&q=45&auto=format&fit=crop&rect64=MCwxMCw4ODIsNDk2&s=d3018ba3c885ac6934e62e98826128c4",
+    "https://www.mercurynews.com/wp-content/uploads/2020/05/floyd4.jpg?w=1024",
+    "https://cdn-free.tv2i.dk/e/d/i/editorial/0/9/c/09c91247-ff82-48d6-b448-905edeed6eaf?ixlib=js-3.8.0&w=624&h=351&q=45&auto=format&fit=crop&rect64=MCwxMCw4ODIsNDk2&s=9d663edb5ce2f896a1086425b0b80474",
+    "https://pbs.twimg.com/card_img/2041978606939762688/QAfoPzU7?format=jpg&name=orig",
+    "https://static01.nyt.com/images/2021/05/10/autossell/flyod-site-1-white-box/flyod-site-1-white-box-videoSixteenByNineJumbo1600.jpg?auto=webp&quality=30&disable=upscale&format=pjpg",
+    "https://img.internethaber.com/rcman/Cw160h90q95gc/storage/files/images/2020/07/06/basliksiz-1-Numg_cover.jpg",
+    "https://cdn0.celebritax.com/sites/default/files/styles/rectangle_blur_1200x900/public/1592671728-dan-libertad-condicional-segundo-policia-involucrado-muerte-george-floyd.jpg",
+    "https://static01.nyt.com/images/2021/05/10/autossell/flyod-site-1-white-box/flyod-site-1-white-box-videoSixteenByNineJumbo1600.jpg?auto=webp&quality=75",
+    "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3773203077494998439"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.nytimes.com/video/us/100000007159353/george-floyd-arrest-death-video.html",
+      "page_title": "How George Floyd Was Killed in Police Custody",
+      "title": "Video: How George Floyd Was Killed in Police Custody",
+      "description": "The Times has reconstructed the death of George Floyd on May 25, 2020. Security footage, witness videos and official documents show how a series of actions by officers turned fatal. (This video contains scenes of graphic violence.)",
+      "text": "new video loaded: How George Floyd Was Killed in Police Custody\ntranscript\nHow George Floyd Was Killed in Police Custody\nThe Times has reconstructed the death of George Floyd on May 25, 2020. Security footage, witness videos and official documents show how a series of actions by officers turned fatal. (This video contains scenes of graphic violence.)\nIt’s a Monday evening in Minneapolis. Police respond to a call about a man who allegedly used a counterfeit $20 bill to buy cigarettes. Seventeen minutes later, the man they are there to investigate lies motionless on the ground, and is pronounced dead shortly after. The man was 46-year-old George Floyd, a bouncer originally from Houston who had lost his job at a restaurant when the coronavirus pandemic hit. Crowd: “No justice, no peace.” Floyd’s death triggered major protests in Minneapolis, and sparked rage across the country. One of the officers involved, Derek Chauvin, has been arrested and charged with second-degree murder. The other three officers have been charged with aiding and abetting murder. The Times analyzed bystander videos, security camera footage and police scanner audio, spoke to witnesses and experts, and reviewed documents released by the authorities to build as comprehensive a picture as possible and better understand how George Floyd died in police custody. The events of May 25 begin here. Floyd is sitting in the driver’s seat of this blue S.U.V. Across the street is a convenience store called Cup Foods. Footage from this restaurant security camera helps us understand what happens next. Note that the timestamp on the camera is 24 minutes fast. At 7:57 p.m., two employees from Cup Foods confront Floyd and his companions about an alleged counterfeit bill he just used in their store to buy cigarettes. They demand the cigarettes back but walk away empty-handed. Four minutes later, they call the police. According to the 911 transcript, an employee says that Floyd used fake bills to buy cigarettes, and that he is “awfully drunk” and “not in control of himself.” Soon, the first police vehicle arrives on the scene. Officers Thomas Lane and J. Alexander Kueng step out of the car and approach the blue S.U.V. Seconds later, Lane pulls his gun. We don’t know exactly why. He orders Floyd to put his hands on the wheel. Lane reholsters the gun, and after about 90 seconds of back and forth, yanks Floyd out of the S.U.V. A man is filming the confrontation from a car parked behind them. The officers cuff Floyd’s hands behind his back. And Kueng walks him to the restaurant wall. “All right, what’s your name?” From the 911 transcript and the footage, we now know three important facts: First, that the police believed they were responding to a man who was drunk and out of control. But second, even though the police were expecting this situation, we can see that Floyd has not acted violently. And third, that he seems to already be in distress. Six minutes into the arrest, the two officers move Floyd back to their vehicle. As the officers approach their car, we can see Floyd fall to the ground. According to the criminal complaints filed against the officers, Floyd says he is claustrophobic and refuses to enter the police car. During the struggle, Floyd appears to turn his head to address the officers multiple times. According to the complaints, he tells them he can’t breathe. Nine minutes into the arrest, the third and final police car arrives on the scene. It’s carrying officers Tou Thao and Derek Chauvin. Both have previous records of complaints brought against them. Thao was once sued for throwing a man to the ground and hitting him. Chauvin has been involved in three police shootings, one of them fatal. Chauvin becomes involved in the struggle to get Floyd into the car. Security camera footage from Cup Foods shows Kueng struggling with Floyd in the backseat while Thao watches. Chauvin pulls him through the back seat and onto the street. We don’t know why. Floyd is now lying on the pavement, face down. That’s when two witnesses begin filming, almost simultaneously. The footage from the first witness shows us that all four officers are now gathered around Floyd. It’s the first moment when we can clearly see that Floyd is face down on the ground, with three officers applying pressure to his neck, torso and legs. At 8:20 p.m., we hear Floyd’s voice for the first time. The video stops when Lane appears to tell the person filming to walk away. “Get off to the sidewalk, please. One side or the other, please.” The officers radio a Code 2, a call for non-emergency medical assistance, reporting an injury to Floyd’s mouth. In the background, we can hear Floyd struggling. The call is quickly upgraded to a Code 3, a call for emergency medical assistance. By now another bystander, 17-year-old Darnella Frazier, is filming from a different angle. Her footage shows that despite calls for medical help, Chauvin keeps Floyd pinned down for another seven minutes. We can’t see whether Kueng and Lane are still applying pressure. Floyd: [gasping] Officer: “What do you want?” Bystander: “I’ve been —” Floyd: [gasping] In the two videos, Floyd can be heard telling officers that he can’t breathe at least 16 times in less than five minutes. Bystander: “You having fun?” But Chauvin never takes his knee off of Floyd, even as his eyes close and he appears to go unconscious. Bystander: “Bro.” According to medical and policing experts, these four police officers are committing a series of actions that violate policies, and in this case, turn fatal. They’ve kept Floyd lying face down, applying pressure for at least five minutes. This combined action is likely compressing his chest and making it impossible to breathe. Chauvin is pushing his knee into Floyd’s neck, a move banned by most police departments. Minneapolis Police Department policy states an officer can only do this if someone is, quote, “actively resisting.” And even though the officers call for medical assistance, they take no action to treat Floyd on their own while waiting for the ambulance to arrive. Officer: “Get back on the sidewalk.” According to the complaints against the officers, Lane asks him twice if they should roll Floyd onto his side. Chauvin says no. Twenty minutes into the arrest, an ambulance arrives on the scene. Bystander: “Get off of his neck!” Bystander: “He’s still on him?” The E.M.T.s check Floyd’s pulse. Bystander: “Are you serious?” Chauvin keeps his knee on Floyd’s neck for almost another whole minute, even though Floyd appears completely unresponsive. He only gets off once the E.M.T.s tell him to. Chauvin kept his knee on Floyd’s neck for over eight minutes, according to our review of the video evidence. Floyd is loaded into the ambulance. The ambulance leaves the scene, possibly because a crowd is forming. But the E.M.T.s call for additional medical help from the fire department. But when the engine arrives, the officers give them, quote, “no clear info on Floyd or his whereabouts,” according to a fire department incident report. This delays their ability to help the paramedics. Meanwhile, Floyd is going into cardiac arrest. It takes the engine five minutes to reach Floyd in the ambulance. He’s pronounced dead at a nearby hospital around 9:25 p.m. Preliminary autopsies conducted by the state and Floyd’s family both ruled his death a homicide. The widely circulated arrest videos don’t paint the entire picture of what happened to George Floyd. Crowd: “Floyd! Floyd!” Additional video and audio from the body cameras of the key officers would reveal more about why the struggle began and how it escalated. The city quickly fired all four officers. And Chauvin has been charged with second degree murder. Thomas Lane, J. Alexander Kueng and Tou Thao were charged with aiding and abetting murder. But outrage over George Floyd’s death has only spread further and further across the United States.\nHow George Floyd Was Killed in Police Custody\nThe Times has reconstructed the death of George Floyd on May 25, 2020. Security footage, witness videos and official documents show how a series of actions by officers turned fatal. (This video contains scenes of graphic violence.)Watch Today’s Videos\nMore in George Floyd Protests ›\nMinneapolis Removes Memorials From ‘George Floyd Square’\nMourners Pay Respects to George Floyd One Year Later\nFrom Rodney King to George Floyd: Reliving the Scars of Police Violence\nDefense Concludes With ‘Burden of Proof’ Argument in Chauvin Trial\nProsecutor Describes George Floyd’s Last Moments in Closing Statement\nDerek Chauvin Trial Judge Gives Instructions to Jury\nAdvertisement",
+      "image_captions": [
+        "Minneapolis Removes Memorials From ‘George Floyd Square’",
+        "Mourners Pay Respects to George Floyd One Year Later",
+        "From Rodney King to George Floyd: Reliving the Scars of Police Violence",
+        "Defense Concludes With ‘Burden of Proof’ Argument in Chauvin Trial",
+        "Prosecutor Describes George Floyd’s Last Moments in Closing Statement"
+      ]
+    },
+    {
+      "url": "https://www.cnn.com/videos/us/2020/05/29/george-floyd-arrest-video-minneapolis-dp-orig.cnn",
+      "page_title": "How the fatal arrest of George Floyd unfolded | CNN",
+      "title": "How the fatal arrest of George Floyd unfolded | CNN",
+      "description": "George Floyd was pronounced dead after Minneapolis police officers restrained him while he repeated, “I can’t breathe!” All four officers involved have been fired and have had charges filed against them.",
+      "text": "How the fatal arrest of George Floyd unfolded\nGeorge Floyd was pronounced dead after Minneapolis police officers restrained him while he repeated, \"I can't breathe!\" All four officers involved have been fired and have had charges filed against them.\n4:33\n• Source:\nCNN\nLatest Videos\n11 videos\nHow the fatal arrest of George Floyd unfolded\nOfficials say former police officer arrested for allegedly planning mass shooting at New Orleans festival\nOil spills from the Iran war are visible from space\nUS says it boarded vessel carrying Iranian oil\nSenator presses RFK Jr. over his promotional videos\nNavy Secretary abruptly leaves job\nFBI Director Patel publicly addresses allegations about his conduct\nVirginia voters will approve a map giving Democrats a chance at four more House seats, CNN projects\nBill Weir reports from the Arctic Ocean as sea ice drops to an alarming new low\nTrump says he will extend ceasefire with Iran\nChinese social media mocks Trump, touts China’s rise",
+      "image_captions": [
+        "minneapolis police surveillance",
+        "Christopher Gillum of Chapel Hill was arrested without incident by Okaloosa County Sheriff's office deputies.",
+        "CLEAN_RadfordHormuzConvert_digvid.00_02_11_05.Still002.jpg",
+        "119029_RFKJrHearing 16x9. Thumbnail.png",
+        "Secretary of the Navy John Phelan speaks, at President Donald Trump's Mar-a-Lago club, Monday, Dec. 22, 2025, in Palm Beach, Florida."
+      ]
+    },
+    {
+      "url": "https://www.nbcnews.com/video/new-video-appears-to-show-struggle-between-george-floyd-and-police-officers-inside-vehicle-84174917868",
+      "page_title": "New video appears to show struggle between George Floyd and ...",
+      "title": "New video appears to show struggle between George Floyd and police officers inside vehicle",
+      "description": "Newly released surveillance footage shows an additional angle of the George Floyd arrest where it appears Floyd is struggling with police officers while in the backseat of a Minneapolis police vehicle.",
+      "text": "Teacher accused of re-enacting George Floyd's death in Minnesota classroom\n01:57\nMinneapolis community marks third anniversary of George Floyd's death\n01:12\nFormer Minneapolis officer Tou Thao convicted in George Floyd's death\n01:36\nDerek Chauvin expected to appeal murder conviction in death of George Floyd\n04:08\nGeorge Floyd family members react to Thomas Lane sentencing\n03:07\nDefense argues officers charged with violating Floyd’s civil rights were rookies\n02:26\nJury selection begins in trial of 3 officers charged in George Floyd's death\n04:29\nFour ex-officers involved in George Floyd’s death to be arraigned in federal court\n03:17\nCommunity-led effort underway to dismantle parts of Floyd memorial in Minneapolis\n02:18\nGeorge Floyd’s family calls for police reform on 1-year anniversary of his death\n02:07\nU.S. police departments need ‘cultural changes’ to achieve reform, says former police chief\n07:08\nHouston rapper Bun B reflects on the impact of George Floyd’s death one year later\n03:06\nGeorge Floyd’s family set to meet with President Biden\n00:23\nNation marks 1 year since the death of George Floyd\n02:19\nPolice reform sweeping through the country one year after George Floyd’s death\n04:14\nLessons from an unparalleled year\n08:03\nDerek Chauvin, 3 others indicted on civil rights charges in George Floyd’s death\n00:34\nFull police reform roundtable: 'All the evidence says that nothing has changed'\n13:11\nAttorney for Roxie Washington, mother of Floyd's daughter, on DOJ opening probe into Minneapolis PD\n03:59\nRelief in Minneapolis crowd after Derek Chauvin found guilty\n03:36\nNBC News\nNew video appears to show struggle between George Floyd and police officers inside vehicle\n00:46\nCopied\nNewly released surveillance footage shows an additional angle of the George Floyd arrest where it appears Floyd is struggling with police officers while in the backseat of a Minneapolis police vehicle.June 1, 2020",
+      "image_captions": []
+    },
+    {
+      "url": "https://nyheder.tv2.dk/udland/2021-03-29-anklager-betjent-klemte-livet-ud-af-george-floyd",
+      "page_title": "Anklager: Betjent klemte livet ud af George Floyd - TV 2 - Nyheder",
+      "title": "Anklager: Betjent klemte livet ud af George Floyd",
+      "description": "Forsvarsadvokat beder nÃ¦vninger om at se bort fra de mange politiske og sociale aspekter i Floyd-sagen.",
+      "text": "Anklager: Betjent klemte livet ud af George Floyd\nForsvarsadvokat beder nÃ¦vninger om at se bort fra de mange politiske og sociale aspekter i Floyd-sagen.\nDen tidligere politimand Derek Chauvin klemte livet ud af George Floyd, da han sammen med andre betjente anholdt den 46-Ã¥rige sorte mand pÃ¥ gaden i Minneapolis i maj sidste Ã¥r.\nDet mener en af anklagerne i retssagen mod Chauvin, der blev indledt mandag.\nBetjentene aflÃ¦gger et lÃ¸fte om, at de aldrig vil bruge \"unÃ¸dvendig magt eller vold\", pÃ¥pegede anklageren, Jerry Blackwell. Men det lÃ¸fte brÃ¸d Chauvin ifÃ¸lge anklageren.\nBlackwell brugte en time pÃ¥ at forklare nÃ¦vningerne sagen, som anklagemyndigheden ser den. Han viste dem billeder af den hvide politibetjent, der pressede sit knÃ¦ mod Floyds hals.\nChauvin \"masede og knuste ham til det sidste Ã¥ndedrag\" og \"klemte livet ud af ham\", sagde Blackwell.\nOver ni minutter lang video\nHan afspillede en video, der viser George Floyd ligge pÃ¥ asfalten, mens Derek Chauvin sidder med et knÃ¦ pÃ¥ hans hals. Videoen, der er optaget af en tilskuer, er blevet delt pÃ¥ sociale medier over det meste af verden.\n- Ni minutter og 29 sekunder. SÃ¥ lÃ¦nge stod det pÃ¥, lÃ¸d det fra Blackwell.\nDerek Chauvin selv sad i retssalen og tog notater, mens optagelsen af Floyds gispende stemme og tilskuernes forfÃ¦rdede rÃ¥b fyldte salen.\nChauvins forsvarsadvokat Eric Nelson bad i sine indledende bemÃ¦rkninger nÃ¦vningerne om at forsÃ¸ge at ignorere de mange politiske og sociale aspekter i sagen.\nGeorge Floyds dÃ¸d udlÃ¸ste den stÃ¸rste protestbevÃ¦gelse, USA har set i Ã¥rtier. Millioner var sidste Ã¥r pÃ¥ gaden for at protestere mod politivold og den diskriminerende behandling, mange sorte hÃ¦vder at vÃ¦re udsat for fra politiets side.\n- Der findes ingen politisk eller social sag i dette retslokale, understregede Nelson.\nPÃ¥virket af stoffer\nForsvarsadvokaten tilfÃ¸jede, at Floyd var pÃ¥virket af stoffer, da han blev anholdt. Det er ventet, at Nelson vil forsÃ¸ge at pÃ¥vise, at det i hÃ¸jere grad var Ã¥rsag til Floyds dÃ¸d end Derek Chauvins knÃ¦ mod Floyds hals.\nEric Nelson beskrev ogsÃ¥ den kaotiske situation, der var omkring anholdelsen.\nRÃ¥b og skrig fra de mennesker, der havde samlet sig pÃ¥ stedet, var med til at distrahere betjentene og \"afledte deres opmÃ¦rksomhed fra behandlingen af hr. Floyd\", sagde Nelson.\n- Derek Chauvin gjorde prÃ¦cis, hvad han var trÃ¦net til at gÃ¸re i lÃ¸bet af sin 19-Ã¥rige karriere, sagde forsvareren til nÃ¦vningerne.\n- Brugen af magt er ikke tiltalende, men det er en nÃ¸dvendig del af politiarbejdet.\nRetssagen ses af mange i isÃ¦r Black Lives Matter-bevÃ¦gelsen som en test pÃ¥, om betjente bliver holdt ansvarlige for dÃ¸dsfald i politiets varetÃ¦gt.\nJuraeksperter peger pÃ¥, at det sÃ¥ godt som aldrig sker, at betjente dÃ¸mmes for drab pÃ¥ en borger i USA. Hvis det sker i denne sag, risikerer Derek Chauvin op til 40 Ã¥rs fÃ¦ngsel.",
+      "image_captions": []
+    }
+  ],
+  "evidence_count": 4,
+  "crawled_at": "2026-04-23T17:03:32.828165+00:00"
+}

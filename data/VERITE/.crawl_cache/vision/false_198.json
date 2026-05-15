@@ -1,0 +1,99 @@
+{
+  "sample_id": "false_198",
+  "image_url": "https://arthur.io/img/art/jpg/00001734518717ce7/patrick-demazeau/yellow-bench-in-nature/large/patrick-demazeau--yellow-bench-in-nature.jpg",
+  "visual_entities": [
+    {
+      "description": "Bench",
+      "score": 0.945503
+    },
+    {
+      "description": "Rep Fitness REP Nighthawk Adjustable Bench Nighthawk Adjustable Bench",
+      "score": 0.7084
+    },
+    {
+      "description": "Furniture",
+      "score": 0.5428
+    },
+    {
+      "description": "Outdoor Bench",
+      "score": 0.5084988
+    },
+    {
+      "description": "Moe's Home Collection Bent Bench Extra Small",
+      "score": 0.4481
+    },
+    {
+      "description": "Moe's Home Bent Bench Large",
+      "score": 0.4153
+    },
+    {
+      "description": "Contemporary art",
+      "score": 0.3498
+    },
+    {
+      "description": "Cushion",
+      "score": 0.3168
+    }
+  ],
+  "best_guess_labels": [
+    "bench"
+  ],
+  "similar_image_urls": [
+    "https://img.scoop.it/xRbs27Ef1qVVCAHOfZBqsDl72eJkfbmt4t8yenImKBVvK0kTmF0xjctABnaLJIm9",
+    "https://arthur.io/img/art/jpg/00001734518717ce7/patrick-demazeau/yellow-bench-in-nature/thumb/patrick-demazeau--yellow-bench-in-nature.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://bestbuy-furniture.com/collections/types?q=benches",
+      "page_title": "benches - Best Buy Furniture",
+      "title": "benches",
+      "description": "Shop Best Buy Furniture for luxury, modern & Ashley Furniture at unbeatable prices. Fast delivery, financing available & massive showroom in Philadelphia and New Jersey.",
+      "text": "Filter\n98 products\n1 Pieces Patio Wicker Side Foldable Bench Patio Backyard Conversation Bench Gray Wicker - Dark Gray\nRegular price\n$209.99\nSale price\nSale\n$209.99\nreg.\n$379.99\nUnit price\n/\nper\nFree Shipping\n6' Outdoor Steel Bench With Backrest\nRegular price\nFrom $389.99\nSale price\nSale\nFrom $389.99\nreg.\n$729.99\nUnit price\n/\nper\nFree Shipping\nAcacia Wood Outdoor Bench With Beautiful Slat Paneling - Dark Brown\nRegular price\n$289.99\nSale price\nSale\n$289.99\nreg.\n$529.99\nUnit price\n/\nper\nFree Shipping\nAngie - Bench Outdoor Seating Acacia Wood Faux Rattan - Teak\nRegular price\n$149.99\nSale price\nSale\n$149.99\nreg.\n$269.99\nUnit price\n/\nper\nFree Shipping\nAngie Bench Outdoor Seating Acacia Wood Faux Rattan - Teak\nRegular price\n$177.40\nSale price\nSale\n$177.40\nreg.\n$269.99\nUnit price\n/\nper\nFree Shipping\nArtisan - Handcrafted Mango Wood Bench Rustic Boho Style - Natural\nRegular price\n$169.99\nSale price\nSale\n$169.99\nreg.\n$299.99\nUnit price\n/\nper\nFree Shipping\nBeachcroft - Bench With Cushion\nRegular price\n$499.99\nSale price\nSale\n$499.99\nreg.\n$759.99\nUnit price\n/\nper\nFree Shipping\nBettina - Bench - Gray\nRegular price\n$329.99\nSale price\nSale\n$329.99\nreg.\n$609.99\nUnit price\n/\nper\nFree Shipping\nCambria - 3 Seater Bench - Teak\nRegular price\n$229.99\nSale price\nSale\n$229.99\nreg.\n$429.99\nUnit price\n/\nper\nFree Shipping\nCambria - Rustic 3 Seater Bench - Teak\nRegular price\n$229.99\nSale price\nSale\n$229.99\nreg.\n$429.99\nUnit price\n/\nper\nFree Shipping\nCarlisle - Dining Bench\nRegular price\nFrom $169.99\nSale price\nSale\nFrom $169.99\nreg.\n$309.99\nUnit price\n/\nper\nFree Shipping\nCarlisle Dining Bench\nRegular price\nFrom $227.32\nSale price\nSale\nFrom $227.32\nreg.\n$299.99\nUnit price\n/\nper\nFree Shipping\nCatriona - Bench - Teak\nRegular price\n$349.99\nSale price\nSale\n$349.99\nreg.\n$659.99\nUnit price\n/\nper\nFree Shipping\nCatriona Teak Bench\nRegular price\n$419.83\nSale price\nSale\n$419.83\nreg.\n$659.99\nUnit price\n/\nper\nFree Shipping\nCloud - Outdoor Bench With Acacia Wood Frame And Slat Panel Design\nRegular price\nFrom $169.99\nSale price\nSale\nFrom $169.99\nreg.\n$299.99\nUnit price\n/\nper\nFree Shipping\nCloud Outdoor Bench With Acacia Wood Frame And Slat Panel Design\nRegular price\nFrom $225.18\nSale price\nSale\nFrom $225.18\nreg.\n$289.99\nUnit price\n/\nper\nFree Shipping\nDining Bench (Set of 2) - Teak\nRegular price\n$326.63\nSale price\nSale\n$326.63\nreg.\n$459.99\nUnit price\n/\nper\nFree Shipping\nDining Bench (Set of 2) - Teak\nRegular price\n$249.99\nSale price\nSale\n$249.99\nreg.\n$459.99\nUnit price\n/\nper\nFree Shipping\nElite Park - Bench With Cushion - Gray\nRegular price\n$239.99\nSale price\nSale\n$239.99\nreg.\n$359.99\nUnit price\n/\nper\nFree Shipping\nFarmhouse Modern Solid Wood Rattan Bench Multi Functional Design 59\" Indoor & Covered Outdoor Bench - Walnut\nRegular price\n$149.99\nSale price\nSale\n$149.99\nreg.\n$259.99\nUnit price\n/\nper\nFree Shipping",
+      "image_captions": [
+        "1 Pieces Patio Wicker Side Foldable Bench Patio Backyard Conversation Bench Gray Wicker - Dark Gray",
+        "6' Outdoor Steel Bench With Backrest",
+        "Acacia Wood Outdoor Bench With Beautiful Slat Paneling - Dark Brown",
+        "Angie - Bench Outdoor Seating Acacia Wood Faux Rattan - Teak",
+        "Angie Bench Outdoor Seating Acacia Wood Faux Rattan - Teak"
+      ]
+    },
+    {
+      "url": "https://www.walmart.com/browse/home/all-benches/assorted/benches/4044_103150_6438879/Y29sb3I6QXNzb3J0ZWR8fGNhdGVnb3J5OkJlbmNoZXMie",
+      "page_title": "Benches All Benches in Furniture | Assorted - Walmart.com",
+      "title": "Robot or human?",
+      "description": "",
+      "text": "Robot or human?\nActivate and hold the button to confirm that you’re human. Thank You!",
+      "image_captions": []
+    },
+    {
+      "url": "https://arthur.io/art/patrick-demazeau/the-four-seasons-of-vivaldi",
+      "page_title": "The Four Seasons of Vivaldi - Patrick Demazeau - Arthur.io",
+      "title": "Patrick Demazeau - The Four Seasons of Vivaldi",
+      "description": "Discover the work of artist Patrick Demazeau on Arthur.io.",
+      "text": "Log in\nThe Four Seasons of Vivaldi\nPatrick Demazeau\nAdd to:\nYou don't have any lists or rooms\n———\nAbout Rooms & Lists\n———\n+ Create New List\n+ Create New Room\nShare\nEdit\nDownload\n© Patrick Demazeau\nUploaded on Jun 29, 2022 by Ana Lopez\nUploaded by:\nAna Lopez\nDimensions:\n449 x 402 px\nLookup image\nPatrick Demazeau\nartist\npsst\nArthur\ncoming soon\nAbout\nDonate\nHome\nJoin wait list\nDiscover\nAbout\nJoin wait list",
+      "image_captions": [
+        "Artwork Title: Isis la décroissance",
+        "Artwork Title: L'arrosoir de Rungis",
+        "Artwork Title: Mon coup de balai",
+        "Artwork Title: Verrières le buisson",
+        "Artwork Title: L'arbre des quatre vents"
+      ]
+    },
+    {
+      "url": "https://www.scoop.it/topic/art-installations?page=3&tag=landscape+installation+art",
+      "page_title": "Art Installations, Sculpture, Contemporary Art - Scoop.it",
+      "title": "Art Installations, Sculpture, Contemporary Art",
+      "description": "The diversity of approaches. You can see more at: https://fr.pinterest.com/alternatiview/installation-art-sculpture-contemporary-art/ or at: https://www.pinterest.fr/alternatiview/",
+      "text": "Your new post is loading...\nYour new post is loading...\nScooped by\nAnne Bak\nJanuary 29, 2013 5:50 AM\nKonstantin Dimopoulos: Blue trees, Burke-Gilman Regional Trail, Kenmore, Washington State, USA\n\"The Blue Trees is a social art action. Through colour I am making a personal statement about the spirituality of trees and their importance to our very survival: trees are the lungs of the planet.\nColour is a powerful stimulant, a means of altering perception and defining space and time. The fact that blue is a colour that is not naturally identified with trees suggests to the viewer that something unusual, something out of the ordinary has happened. It becomes a magical transformation.\nIn nature colour is used both as a defensive mechanism, a means of protection, and as a mechanism to attract. The Blue Trees attempts to waken a similar response from viewers. It is within this context that the blue denotes sacredness, something reverential.\nTrees are largely invisible in our daily lives, and it’s not until it’s too late that we realise how important they are to us both aesthetically and environmentally. Each year an area at least the size of Belgium of native forests is cleared from around the planet.\nYet while we do this we look at whether other planets can be inhabited, so we’ve got somewhere else to go once we’ve destroyed our own.\nThe colour used on the trees is biologically safe pigmented water. As an ephemeral artwork, the colour will naturally degrade and the trees gradually revert to their natural state.\" K.D.\nhttp://www.kondimopoulos.com /\nScooped by\nAnne Bak\nJanuary 29, 2013 5:25 AM\nScooped by\nAnne Bak\nJanuary 28, 2013 3:27 AM\nArt Installations's insight:\nDaniel Lyman: Sway’d, interactive public installation,1000 moly-filled nylon rods pitch themselves over ten feet into the air, 2011, Utah, USA\nhttp://www.daniellyman.com /\nScooped by\nAnne Bak\nJanuary 28, 2013 2:36 AM\nGeorge Zongolopoulos: \"Umbrellas\",1997, heigh: 13,00m, stainless metal, on the seafront of the city of Thessaloniki, Greece\nhttp://www.zongolopoulos.gr /\nScooped by\nAnne Bak\nJanuary 7, 2013 4:16 AM\nScooped by\nAnne Bak\nDecember 30, 2012 4:34 AM\nTom Orr: Cascade, 90\" x 288 \" x 36 \", powdered coated steel, 21st Exhibition of Contemporary Sculpture, Ube, Japon, 2005\nhttp://www.tomorr.net\nScooped by\nAnne Bak\nNovember 28, 2012 5:22 AM\nScooped by\nAnne Bak\nSeptember 30, 2012 7:51 PM\nScooped by\nAnne Bak\nSeptember 30, 2012 3:22 AM\nScooped by\nAnne Bak\nSeptember 29, 2012 7:10 AM\nMaya Lin’s outdoor installation,“Storm King Wavefield” in Mountainville, N.Y., is rows of rolling hills that change with the light and the season.\nwww.mayalin.com /\nScooped by\nAnne Bak\nSeptember 27, 2012 5:57 PM\nLandscape by Maya Ying Lin an American artist and architect and artist.\nwww.mayalin.com\nRescooped by\nAnne Bak\nfrom Art Installation\nSeptember 25, 2012 4:20 AM\nRescooped by\nAnne Bak\nfrom images in context\nApril 26, 2012 5:07 AM\nChristo's 'Over The River' project just took another step forward. On Tuesday, commissioners in Fremont County approved a permit for the fabric art project which proposes to hang 5.9 miles of aluminum coated fabric panels across a 42-mile stretch of the Arkansas River.\nhttp://www.christojeanneclaude.net /\nVia\nPhilippe Lejeune\nScooped by\nAnne Bak\nJanuary 29, 2013 5:32 AM\nKonstantin Dimopoulos: Pacific Grass, Kinetic sculpture, Wellington, 2001, 6m x 3m x 2.5m (3 sections) I 20 x 15 x 10 ft, high performance composites, concrete\nhttp://www.kondimopoulos.com /\nScooped by\nAnne Bak\nJanuary 28, 2013 3:51 AM\nLandscape sound art, \"Nature versus Synthetics\" by Ronald Van Der Meijs,2008, Materials: welding, chrome bicycle bell caps | \"The installation 'Nature' is a site specific composition from 5000 chrome bicycle bells that are swaying in the wind of the polder in a natural way, as a reed. Causing them to call each other in a rather subtle manner and cause a soft twinkling noise.\nhttp://www.ronaldvandermeijs.nl /\nScooped by\nAnne Bak\nJanuary 28, 2013 2:47 AM\nGeorge Zongolopoulos: \"Umbrellas\",1997, heigh: 13,00m, stainless metal, on the seafront of the city of Thessaloniki, Greece\nhttp://www.zongolopoulos.gr /\nScooped by\nAnne Bak\nJanuary 9, 2013 7:37 AM\nScooped by\nAnne Bak\nDecember 30, 2012 4:40 AM\nScooped by\nAnne Bak\nDecember 16, 2012 12:13 AM\n“Jurong 2142” is a bicephalous and semi-transparent work that rests on a mirror of water. The sculptural whole, which includes a cast metal shell, water and a pathway,…\nJean-Bernard Métais: Jurong 2142. Jurong (China)\nhttp://www.jbmetais.com /\nScooped by\nAnne Bak\nNovember 19, 2012 6:20 AM\nWela: \"The Whisperers\", permanent interactive audio installation, Copernicus Science Centre, Warsaw, 2011\nhttp://www.wela-art.com /\nScooped by\nAnne Bak\nSeptember 30, 2012 7:30 PM\nAnish Kapoor: Dismemberment Site I, 2003–09, PVC and steel, 25 × 25 x 84m, installation view, Gibbs Farm , Kaipara Bay, New Zealand,\nwww.anishkapoor.com /\nScooped by\nAnne Bak\nSeptember 30, 2012 2:53 AM\nScooped by\nAnne Bak\nSeptember 27, 2012 6:05 PM\nWaste Landscape, Bruno Munro has produced a landscape from thousands of cd abandoned. June 2010, Kilmington England, Munro uses to create 600,000 CD's \"CDSea\" (Sea cd) in a field, 2010\nhttp://www.brucemunro.co.uk /\nScooped by\nAnne Bak\nSeptember 27, 2012 5:51 PM\nKimihiko Okada has created an Aluminum Landscape that incorporates changes in nature into the installation. This public space project, located outside at the Museum of Contemporary Art in Tokyo, is a hollow structure of a thin membrane of aluminum supported by a system of metal posts. The result is an installation resembling a shiny mountain range, on a smaller scale. The sun and the sky are reflected; rain and wind have a physical impact.\nwww.ookd.jp /\nScooped by\nAnne Bak\nApril 28, 2012 11:10 PM\nVIDEO\nWela: \"Whisperers\", interactive audio installation, 2011, Copernicus Science Center, Discovery Park, Warsaw, Poland\nInstallation \"The Whisperers\" consists of 16 stainless steel columns put in the middle of the park of discovery. The columns are equipped with sensors and speakers in order to detect visitors and distribute natural sounds such as the whisper of a stream, rain, wind, volcano, etc. People can do real-time sound spatialization on the type of sound and played on the sound effects. The visual and sound installation, compared to contemporary organs, symbolizes a virtual-real time in which we live and transports the viewer to the fourth more spiritual dimension. The installation also shows the paradox of contemporary man desire to approach to nature by artificial means.\nhttp://www.wela-art.com /",
+      "image_captions": [
+        "Art Installations, Sculpture, Contemporary Art",
+        "Konstantin Dimopoulos: Blue Trees | Art Installations, Sculpture, Contemporary Art | Scoop.it",
+        "'Collapse-headland' by Fletcher Vaughan | Art Installations, Sculpture, Contemporary Art | Scoop.it",
+        "Daniel Lyman: Sway’d | Art Installations, Sculpture, Contemporary Art | Scoop.it",
+        "George Zongolopoulos: Umbrellas | Art Installations, Sculpture, Contemporary Art | Scoop.it"
+      ]
+    }
+  ],
+  "evidence_count": 4,
+  "crawled_at": "2026-04-23T17:48:28.678002+00:00"
+}

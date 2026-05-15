@@ -1,0 +1,57 @@
+{
+  "sample_id": "false_101",
+  "image_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/633F/production/_117670452_hi066371363.jpg",
+  "visual_entities": [
+    {
+      "description": "Presidency of Joe Biden",
+      "score": 0.6902
+    },
+    {
+      "description": "Detention",
+      "score": 0.4967
+    },
+    {
+      "description": "Immigration detention",
+      "score": 0.447
+    },
+    {
+      "description": "CCA",
+      "score": 0.444
+    },
+    {
+      "description": "",
+      "score": 0.444
+    },
+    {
+      "description": "CoreCivic",
+      "score": 0.4171
+    }
+  ],
+  "best_guess_labels": [
+    "biden detention centers"
+  ],
+  "similar_image_urls": [
+    "http://c.files.bbci.co.uk/15763/production/_117670978_hi066371363.jpg",
+    "https://preview.redd.it/leaked-footage-from-inside-of-a-ice-detention-facility-near-v0-xpsm2hn87r0g1.jpeg?width=1536&format=pjpg&auto=webp&s=c20fa5dd73c47cacc558f1c5f0ed1168db1460d6",
+    "https://assets.eleconomista.net/__export/1616469072109/sites/prensagrafica/img/2021/03/22/_117670452_hi066371363.jpg_554688468.jpg",
+    "https://assets.laprensagrafica.com/__export/1616469072109/sites/prensagrafica/img/2021/03/22/_117670452_hi066371363.jpg_554688467.jpg",
+    "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/16127/production/_117670409_hi066371363.jpg",
+    "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2025/01/13/6785436548426.jpeg",
+    "https://ichef.bbci.co.uk/news/1024/branded_somali/633F/production/_117670452_hi066371363.jpg",
+    "https://ichef.bbci.co.uk/news/1024/branded_afaanoromoo/16127/production/_117670409_hi066371363.jpg",
+    "https://ichef.bbci.co.uk/news/1024/branded_news/16127/production/_117670409_hi066371363.jpg",
+    "https://ichef.bbci.co.uk/news/1024/branded_portuguese/16127/production/_117670409_hi066371363.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.njspotlightnews.org/video/protesters-urge-biden-to-close-immigrant-detention-facility/",
+      "page_title": "Protesters urge Biden to close immigrant detention facility",
+      "title": "Protesters urge Biden to close immigrant detention facility | NJ Spotlight News",
+      "description": "It comes after a federal judge ruled to keep the state's final detention center open in Elizabeth, siding with the center’s private operator CoreCivic.",
+      "text": "Immigrant advocates took to the streets of Newark on Friday, calling for the Biden administration to close the privately run Elizabeth Detention Center. A federal judge ruled last month the center, which is used to house detainees for the Immigration and Customs Enforcement agency, could remain open despite a state law prohibiting the renewal of ICE contracts with private detention centers.\n“The place was marked by bad food, poor conditions, lack of medication,” said Juan Regalado, who was detained at the facility. “My body was marked for life while I was there due to the unsanitary conditions.”\nThe protesters accused President Biden of breaking a campaign promises by siding with the detention center’s owner CoreCivic in a lawsuit against New Jersey. “…we know that Biden says that he’s a friend of immigrants and for immigrant rights and justice. But here we’re seeing that in actuality, he’s not willing to come out for the side of justice,” said Mary Rizzo, a member of the North New Jersey Democratic Socialists of America.",
+      "image_captions": []
+    }
+  ],
+  "evidence_count": 1,
+  "crawled_at": "2026-04-23T17:18:12.383520+00:00"
+}

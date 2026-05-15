@@ -1,0 +1,119 @@
+{
+  "sample_id": "false_254",
+  "image_url": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/08/15/14/ap-20227651737552.jpg?quality=75&width=990&auto=webp&crop=982:726,smart",
+  "visual_entities": [
+    {
+      "description": "Belarus",
+      "score": 0.81420004
+    },
+    {
+      "description": "Police brutality",
+      "score": 0.5482
+    },
+    {
+      "description": "",
+      "score": 0.5428
+    },
+    {
+      "description": "Riot police",
+      "score": 0.5032
+    },
+    {
+      "description": "Surveillance",
+      "score": 0.4425
+    },
+    {
+      "description": "Baton",
+      "score": 0.4268
+    },
+    {
+      "description": "President of Belarus",
+      "score": 0.4077
+    },
+    {
+      "description": "Search and seizure",
+      "score": 0.4063
+    },
+    {
+      "description": "Criminal investigation",
+      "score": 0.4023
+    },
+    {
+      "description": "New York City Police Department",
+      "score": 0.3786
+    },
+    {
+      "description": "",
+      "score": 0.3786
+    }
+  ],
+  "best_guess_labels": [
+    "police beating"
+  ],
+  "similar_image_urls": [
+    "https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/08/15/14/ap-20227651737552.jpg",
+    "https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/08/15/14/ap-20227651737552.jpg?width=1200",
+    "https://a.storyblok.com/f/92911/1200x900/d34c3ad2b9/photo_2023-07-31_09-58-55.jpg",
+    "https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/08/15/14/ap-20227651737552.jpg?width=1200&height=900&fit=crop",
+    "https://images.theconversation.com/files/402514/original/file-20210525-18-blft1d.jpg?ixlib=rb-4.1.0&q=45&auto=format&w=754&fit=clip",
+    "https://s.rfi.fr/media/display/e1dc4ac6-30a9-11eb-870b-005056bff430/w:1024/AP20304640941591.jpg",
+    "https://images.hln.be/MWE5ZGJhNjQ5ZDVmNDNiZGM0ZWIvZGlvLzI1MjU3NTYwNi9maXQtd2lkdGgvODAw/archiefbeeld-politieagenten-schoppen-een-manifestant-tijdens-een-protest-in-minsk-10-08-20",
+    "https://premium.vgc.no/v2/images/0989ac55-3f6c-4571-9b2d-4a2fcd53e534?fit=crop&format=auto&h=1369&w=2048&s=9f08c358b592f72e3d3d814a196f207db75588a2",
+    "https://bi.im-g.pl/im/4b/ea/19/z27176267IBG,Czlonkowie-bialoruskich-sluzb-bezpieczenstwa-bijac.jpg",
+    "https://bi.im-g.pl/im/4b/ea/19/z27176267JR,Czlonkowie-bialoruskich-sluzb-bezpieczenstwa-bijac.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.cnn.com/2024/08/13/us/video/arkansas-police-officer-fired-beating-video-digvid",
+      "page_title": "Video shows police officer beating detainee in back of patrol car - CNN",
+      "title": "Video shows police officer beating detainee in back of patrol car | CNN",
+      "description": "An Arkansas police officer in the Jonesboro Police Department was fired after video showed him physically assaulting a handcuffed man in the back of a patrol car.",
+      "text": "Video Ad Feedback\nVideo shows police officer beating detainee in back of patrol car\nAn Arkansas police officer in the Jonesboro Police Department was fired after video showed him physically assaulting a handcuffed man in the back of a patrol car.\n1:42\n• Source:\nCNN\nLatest Videos\n11 videos\nVideo Ad Feedback\nVideo shows police officer beating detainee in back of patrol car\nVideo Ad Feedback\nOfficials say former police officer arrested for allegedly planning mass shooting at New Orleans festival\nVideo Ad Feedback\nOil spills from the Iran war are visible from space\nVideo Ad Feedback\nSenator presses RFK Jr. over his promotional videos\nVideo Ad Feedback\nFBI Director Patel publicly addresses allegations about his conduct\nVideo Ad Feedback\nVirginia voters will approve a map giving Democrats a chance at four more House seats, CNN projects\nVideo Ad Feedback\nBill Weir reports from the Arctic Ocean as sea ice drops to an alarming new low\nVideo Ad Feedback\nChinese social media mocks Trump, touts China’s rise",
+      "image_captions": [
+        "Christopher Gillum of Chapel Hill was arrested without incident by Okaloosa County Sheriff's office deputies.",
+        "CLEAN_RadfordHormuzConvert_digvid.00_02_11_05.Still002.jpg",
+        "119029_RFKJrHearing 16x9. Thumbnail.png",
+        "Secretary of the Navy John Phelan speaks, at President Donald Trump's Mar-a-Lago club, Monday, Dec. 22, 2025, in Palm Beach, Florida.",
+        "still_22560457_6412.103_still.jpg"
+      ]
+    },
+    {
+      "url": "https://www.nbcnews.com/video/seattle-police-officers-under-investigation-after-caught-on-camera-beating-212426309595",
+      "page_title": "Seattle police officers under investigation after caught-on-camera ...",
+      "title": "Seattle police officers under investigation after caught-on-camera beating",
+      "description": "Two Seattle police officers are under investigation after video surfaced showing them beating a man on with batons. KING's Cornelius Hocker reports.",
+      "text": "Bodycam footage shows Michigan police officers responding to church attack\n00:52\n'You're going to regret this!': Bodycam shows Rhode Island assistant attorney general's arrest\n01:39\nWashington deputy uses lasso to detain chainsaw-wielding man\n00:47\nGeorgia college student in ICE custody following mistaken traffic stop\n02:32\nVideo shows police pin teenage girl to pavement during ICE detention\n01:09\nICE agents smash car window during Massachusetts arrest\n01:11\nNo charges for woman dragged from Idaho town hall\n03:06\nWatch: California deputy rescues driver from submerged car\n01:44\nNew Orleans police release bodycam of Bourbon Street attack\n01:42\nOklahoma City officer charged in violent arrest of elderly man\n02:30\nVideo shows violent arrest that left elderly Oklahoma man hospitalized\n02:01\nOhio officer on administrative duty after punching student\n01:45\nVideo shows Phoenix police punching and tasing deaf Black man\n02:44\nMichigan deputy dives through window to stop out-of-control car\n02:19\nExclusive: Bodycam video shows more of Trump suspect's arrest\n01:26\nWashington police release bodycam footage of fatal shooting\n02:24\nOhio police release video of moments surrounding fatal U-Haul shooting\n00:58\nWatch: Missouri officer knocked to the ground during protests\n01:32\nOhio man's death in police custody ruled a homicide\n01:17\nArkansas officer fired after repeatedly punching restrained inmate\n02:52\nNBC News Channel\nSeattle police officers under investigation after caught-on-camera beating\n01:43\nCopied\nTwo Seattle police officers are under investigation after video surfaced showing them beating a man on with batons. KING's Cornelius Hocker reports.June 6, 2024",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.independent.co.uk/news/world/europe/belarus-election-protest-police-brutality-alexander-lukashenko-a9672206.html",
+      "page_title": "Protesters freed from Belarus jails recount extreme police brutality",
+      "title": "Protesters freed from Belarus jails recount brutal beatings by police",
+      "description": "Authorities free around 2,000 of 7,000 people pulled off streets by riot police after disputed election",
+      "text": "‘Beating me without mercy’: Protesters freed from Belarus jails recount extreme police brutality\nAuthorities free around 2,000 of 7,000 people pulled off streets by riot police after disputed election\n- Bookmark\n- CommentsGo to comments\nThey emerged dazed, shaken and in tears from the detention centre in Minsk, to be met by waiting relatives. They displayed the black-and-blue bruises on their bodies, saying police had beaten them mercilessly. One teenager asked his weeping mother to look away.\nAuthorities in Belarus have freed at least 2,000 of about 7,000 people who had been pulled off the streets by riot police in the days following a disputed election that kept the country’s iron-fisted leader, Alexander Lukashenko, in power.\nAs they reunited with loved ones early on Friday, they told of being struck repeatedly with truncheons, being threatened with gang rape and held amid harsh conditions and overcrowded cells. The accounts are fuelling outrage at home and have European countries weighing new sanctions against officials in Belarus.\n“They were beating me without mercy,” Alexei Shchitnikov told the AP upon his release, his face disfigured by bruises.\nThe company director displayed a cross drawn on his back, an apparent marking by police that he should be given rough treatment.\n“They were behaving like bandits and real beasts,” he added. “The people will remember Lukashenko’s ‘victory’ for a long time.”\nStudent Sasha Vilks showed a reporter his legs and his back deeply bruised from truncheon blows, but told his weeping mother not to look.\n“They called us terrorists and beat us severely on our legs and our backs,” the 19-year-old told the AP. “They would beat us first and then ask questions.”\nHe said he was kept lying face down for hours in handcuffs and didn’t see the faces of his tormentors, who wore balaclavas.\n“Some of them were walking around, saying: ‘Give me someone to beat.’ It was really scary,” he said, breaking into tears.\nTatyana, a 21-year-old bookseller who didn’t give her last name because she feared police reprisals, said she was threatened with gang rape.\n“It was a real hell,” she said. “When I was on a police bus, they threatened to rape me with a truncheon. The more I cried, the more they beat me. They kept repeating: ‘You love the president!”’\nShuddering, she added: “They were indiscriminately beating everyone there, men and women. On the police bus, I saw them break one man’s rib and he was crying in pain.”\nThe demonstrations began after officials announced that Mr Lukashenko, who has been in power for 26 years, had won 80 per cent of the vote in Sunday’s election — a result that protesters denounced as rigged. During the four nights that followed, black-clad riot police detained thousands of largely peaceful demonstrators in Minsk and other cities after firing tear gas, rubber bullets and stun grenades. At least one person was killed.\nThe graphic descriptions of savage beatings and other abuse by police has brought tens of thousands into the streets of the Belarusian capital in the biggest challenge in his tenure.\nYegor Martinovich, an award-winning journalist and the editor of the popular Nasha Niva independent online newspaper, was among those detained in the crackdown and said he was beaten ferociously while in custody.\n“They beat us all with truncheons and kicked us while putting us on and off police vehicles,” he told the AP. “They made us lie on the ground for half a day, our faces down. They were hounding us with dogs, insulting us and refusing to give us food. They had just one response to all of our pleas: ‘You’ve got your revolution!’”\nMr Martinovich said several people in his cell were covered with bruises from being hit over and over.\n“When the beaten people were suffering from thirst, a guard would give a bottle of tap water for all of us,” he said. “The authorities cracked down on peaceful protesters with all the repressive power of the authoritarian state, and the consequences of that could be unpredictable.”\nAs the jails filled quickly to capacity, police crammed more people into cells intended for only a few inmates.\nMr Martinovich said he and 27 others were put in a cell intended for 12 people, and they had to take turns sleeping. When he was released, guards put in 10 more. Others at a Minsk jail said dozens of men and women were packed into cells intended for only two inmates.\nMany others who were not taken into custody also were hurt.\nEduard Kukhterin, a 56-year-old publisher, was struck by rubber bullets in the back and arm while entering his apartment building near a street clash.\n“A police bus arrived and those black-clad thugs jumped on the pavement and started firing at people as if it were a shooting range,” he said. “It looked like a horror movie, but it’s Belarus today.”\nMr Kukhterin said he couldn’t go to a hospital for a bullet stuck in his arm because doctors warned him they would have to report it to police, who would detain him.\nThe national police chief later apologised to those who were targeted indiscriminately, and the Interior Ministry, which earlier shunned questions from anguished relatives trying to locate their loved ones, opened a hotline on Friday.\nMr Lukashenko, the president, blamed protesters for triggering the crackdown, saying some of them assaulted police, who were justified in their response.\nPolice also broke into apartments to seize protesters.\nStas Gorelik, who is working on a doctorate at George Washington University, was visiting his parents in Minsk when he was arrested by the Belarusian security agency, which still goes by its Soviet-era name, the KGB.\n“Stas’ face was broken and blood was dripping down his face when they took him away,” said his father, Lev Gorelik, who went to the apartment where his 32-year-old son was staying with his girlfriend. “His pillow was also drenched in blood.”\nHe said they couldn’t find him for three days until they learned he was at a KGB jail, facing charges of organising mass riots, punishable by up to 15 years in prison. The KGB has denied Mr Gorelik access to a lawyer.\n“It’s hard to explain such brutality – he was only doing science and never engaged in activism or politics,” the anguished father said.\nHuman rights activists are preparing an appeal to the UN Committee Against Torture over the violence against protesters and the abusive treatment of detainees.\n“All those detained were severely beaten before, during and after their arrest,” said Valiantsin Stefanovich of the Viasna rights centre. “We have documented massive abuse and torture – they were drawing crosses on people’s backs with truncheon blows, they were forcing people to engage in mass prayers and making them crawl on the ground naked.”\n“In 20 years of work as a human rights defender, I have never seen such abuses and humiliation,” he said, adding that “law enforcement agents have received a carte blanche for violence”.\nBy allowing the crackdown, observers say Mr Lukashenko appears to have burned his bridges to the West and made himself entirely dependent on law enforcement agencies.\n“The people from the KGB and other security agencies have played an increasingly important role in Lukashenko’s entourage, and they have been able to enforce their forceful scenario,” Mr Stefanovich said. “And the longer it goes, the less clear it becomes who depends on whom.”\nThe US and the European Union imposed some sanctions on Belarus in the early 2000s when Mr Lukashenko earned the nickname of “Europe’s last dictator” by stifling dissent, but some were later lifted. Throughout his rule, he has tried to blackmail Russia, his main ally and sponsor, by appearing to reach out to the West to win more subsidies.\nBut EU foreign ministers again are taking the first steps towards sanctions in light of the post-election crackdown.\n“This outburst of cruel and unmotivated violence has put Lukashenko back in the ‘Europe’s last dictator’ niche,” said Minsk-based independent analyst Alexander Klaskovsky. “The sanctions and the rising tensions inside the country will leave the president with very little room for manoeuvre.”\nAP\nJoin our commenting forum\nJoin thought-provoking conversations, follow other Independent readers and see their replies\nComments",
+      "image_captions": [
+        "Police officers kick a demonstrator during a protest of the disputed presidential election in Minsk, Belarus(AP)",
+        "Protesters give aid to a man injured by shrapnel from a smoke grenade during clashes with police(AP)",
+        "Police detain a protester as two women try to defend him during a demonstration(AP)",
+        "A man shows marks on his body he says are from a police beating after being released from a detention centre(AP)",
+        "Protesters carry a man wounded during clashes with police(AP)"
+      ]
+    },
+    {
+      "url": "https://www.theguardian.com/world/gallery/2020/aug/11/police-and-protesters-clash-in-minsk-belarus-in-pictures",
+      "page_title": "Police and protesters clash in Minsk, Belarus – in pictures",
+      "title": "Police and protesters clash in Minsk, Belarus – in pictures",
+      "description": "Police in Minsk use rubber bullets and stun grenades against protesters during second night of violence",
+      "text": "Police and protesters clash in Minsk, Belarus – in pictures\nThis article is more than 5 years old\nPolice in Minsk use rubber bullets and stun grenades against protesters during second night of violence\nTue 11 Aug 2020 11.08 BST\nLast modified on Thu 21 Jan 2021 17.06 GMTExplore more on these topics",
+      "image_captions": [
+        "Police officers surround a demonstrator. Photograph: Yauhen Yerchak/EPA",
+        "Riot police appear on the streets in the early eveningPhotograph: Misha Friedman/Getty ImagesShare",
+        "Police officers kick a demonstrator during a mass protest following the presidential election, in Minsk. Thousands of people have protested in Belarus for a second night after official results from weekend elections gave an overwhelming victory to President Alexander Lukashenko, extending his 26-year rulePhotograph: APShare",
+        "Riot police walk past two crying women during the protestPhotograph: Tatyana Zenkovich/EPAShare",
+        "Police officers detain a protesterPhotograph: Natalia Fedosenko/TASSShare"
+      ]
+    }
+  ],
+  "evidence_count": 4,
+  "crawled_at": "2026-04-23T18:04:44.004945+00:00"
+}

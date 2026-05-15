@@ -1,0 +1,71 @@
+{
+  "sample_id": "false_217",
+  "image_url": "https://api.army.mil/e2/c/-images/2009/05/26/39122/army.mil-39122-2009-05-27-060506.jpg",
+  "visual_entities": [
+    {
+      "description": "Memorial Amphitheater",
+      "score": 0.8296365
+    },
+    {
+      "description": "US President",
+      "score": 0.6995
+    },
+    {
+      "description": "Memorial Day",
+      "score": 0.4767
+    },
+    {
+      "description": "Memorial Day at Arlington National Cemetery",
+      "score": 0.40875
+    },
+    {
+      "description": "",
+      "score": 0.3704
+    },
+    {
+      "description": "Funeral",
+      "score": 0.3414
+    },
+    {
+      "description": "Soldier",
+      "score": 0.3311
+    },
+    {
+      "description": "Salute",
+      "score": 0.3252
+    }
+  ],
+  "best_guess_labels": [
+    "obama at arlington"
+  ],
+  "similar_image_urls": [
+    "https://api.army.mil/e2/c/-images/2009/05/26/39122/army.mil-39122-2009-05-27-060506.jpg",
+    "https://api.army.mil/e2/c/-images/2009/05/26/39122/size1-army.mil-39122-2009-05-27-060506.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://obamawhitehouse.archives.gov/photos-and-video/video/2015/11/11/president-obama-honors-veterans-arlington-national-cemetery",
+      "page_title": "President Obama Honors Veterans at Arlington National Cemetery",
+      "title": "President Obama Honors Veterans at Arlington National Cemetery",
+      "description": "President Obama lays a wreath at the Tomb of the Unknown Soldier to mark Veterans Day 2015, and thanks veterans for their service. November 11, 2015.",
+      "text": "President Obama Honors Veterans at Arlington National Cemetery\nNovember 11, 2015\n| 15:30\n| Public Domain\nPresident Obama lays a wreath at the Tomb of the Unknown Soldier to mark Veterans Day 2015, and thanks veterans for their service. November 11, 2015.\nDownload\nmp4 (569MB) |\nmp3 (38MB)",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.army.mil/article/21652/president_pays_respect_at_arlington_national_cemetery",
+      "page_title": "President pays respect at Arlington National Cemetery - U.S. Army",
+      "title": "President pays respect at Arlington National Cemetery",
+      "description": "Thousands of people gathered at Arlington National Cemetery's Memorial Amphitheater Monday morning to hear President Barack Obama speak at the 2009 National Memorial Day Observance.",
+      "text": "ARLINGTON, Va. (Army News Service, May 26, 2009) -- Neither the heat nor the threat of rain deterred thousands of people who gathered at Arlington National Cemetery's Memorial Amphitheater Monday morning for the 2009 National Memorial Day Observance.\nPresident Barack Obama spoke to the audience, made up of civilians, government officials, veterans, servicemembers and their Families after laying a wreath at the Tomb of the Unknowns.\nThe president said those buried at Arlington \"waged war so that we may know peace ... They were willing to give up everything for the defense of our freedom [and] were willing to sacrifice all for their country.\"\n\"They are the best of America,\" Obama said.\nObama spoke of the history represented in Arlington National Cemetery, where Confederate and Union Soldiers lie side by side, surrounded by men and women who fell while fighting in the hope their descendants wouldn't have to.\n\"We pay tribute to those who forged our history, but hold closely the memory of those so recently lost,\" the president said. \"And even as we gather here this morning, all across America people are pausing to remember, to mourn and to pray.\"\nHe lauded the members of the military, noting that he himself did not serve. His grandfather served in World War II. He hinted at current events, saying servicemembers --who are all volunteers -- stand above many of their fellow Americans because they \"answered a call\" to serve a purpose greater than themselves.\n\"Why in an age when so many have acted only in pursuit of narrowest self-interest have the Soldiers, Sailors, Airmen and Marines of this generation volunteered all that they have on behalf of others,\" he said. \"Why have they been willing to bear the heaviest burden'\"\n\"Whatever it is, they felt some tug ... they said 'I'll go.' That is what separates them from those who have not served in uniform, their extraordinary willingness to risk their lives for people they never met,\" Obama said.\nObama said, unlike the servicemembers, veterans and Family members in the audience, he cannot possibly know how it feels to march into battle, or what it's like to lose a child.\n\"I do know this: I am humbled to be the commander-in-chief of the finest fighting force in the history of the world,\" Obama said.\n\"I know that there is nothing I will not do to keep our country safe, even as I face no harder decision than sending our men and women to war, and no moment more difficult than writing a letter to the Families of the fallen,\" he added.\nThe president said he would do everything he could do to keep America's servicemembers out of harm's way. But when fighting is necessary, he said, he would be sure they had whatever tools they need to get the job done.\n(Ian Graham writes for the Pentagram newspaper at Fort Myer, Va.)",
+      "image_captions": [
+        "1 / 3Show Caption +Hide Caption –President Barack Obama speaks at Arlington National Cemetery’s Memorial Amphitheater during the National Memorial Day Observance. Behind him is Maj. Gen. Richard J. Rowe Jr., commanding general, Joint Force Headquarters-National Capital Region and Mi...(Photo Credit: U.S. Army)VIEW ORIGINAL",
+        "2 / 3Show Caption +Hide Caption –(Photo Credit: U.S. Army)VIEW ORIGINAL",
+        "3 / 3Show Caption +Hide Caption –President Barack Obama and Maj. Gen. Richard J. Rowe Jr., commanding general, Joint Force Headquarters-National Capital Region and Military District of Washington, salute the fallen at Arlington National Cemetery after laying a wreath at the Tomb of ...(Photo Credit: U.S. Army)VIEW ORIGINAL",
+        "Wreath of Remembrance",
+        "Previous image in slideshow"
+      ]
+    }
+  ],
+  "evidence_count": 2,
+  "crawled_at": "2026-04-23T17:53:33.641375+00:00"
+}

@@ -1,0 +1,95 @@
+{
+  "sample_id": "false_46",
+  "image_url": "https://images.seattletimes.com/wp-content/uploads/2018/08/urn-publicid-ap-org-f2cc819210f04ae0b5bf629663f150f4APTOPIX_Aretha_Franklin_59634.jpg?d=780x476",
+  "visual_entities": [
+    {
+      "description": "Aretha Franklin",
+      "score": 10.503
+    },
+    {
+      "description": "Al Sharpton",
+      "score": 10.2960005
+    },
+    {
+      "description": "Jesse Jackson",
+      "score": 7.575
+    },
+    {
+      "description": "Martin Luther King Jr.",
+      "score": 5.1585
+    },
+    {
+      "description": "Greater Grace Temple",
+      "score": 0.80784
+    },
+    {
+      "description": "Marcel West",
+      "score": 0.5961
+    },
+    {
+      "description": "Civil rights movement",
+      "score": 0.5529
+    },
+    {
+      "description": "National Action Network",
+      "score": 0.4867
+    },
+    {
+      "description": "The Temple of Praise⛪",
+      "score": 0.3991
+    },
+    {
+      "description": "just",
+      "score": 0.3381
+    },
+    {
+      "description": "African Americans",
+      "score": 0.3359
+    }
+  ],
+  "best_guess_labels": [
+    "Greater Grace Temple"
+  ],
+  "similar_image_urls": [
+    "https://andscape.com/wp-content/uploads/2018/09/AP_18243541859634.jpg",
+    "https://cloudfront-us-east-1.images.arcpublishing.com/gruponacion/VR6NILZJS5EHLBLML7SRCGFYIE.jpg",
+    "https://wjla.com/resources/media/cdeb8d43-292f-4aa2-96ef-c48cfbe570e4-AP18243541859634.jpg",
+    "https://www.nacion.com/resizer/8x_BSlJktBQEfpt0NS0yL_jvhjM=/arc-anglerfish-arc2-prod-gruponacion/public/VR6NILZJS5EHLBLML7SRCGFYIE.jpg",
+    "https://static-cdn.toi-media.com/blogs/uploads/2018/11/farrakhan_aretha.jpg",
+    "https://gdb.voanews.com/0e6e28c9-6b2b-48b2-862a-fc32f68798e0_w1080_r0_s.jpg",
+    "https://www.khaosodenglish.com/wp-content/uploads/2018/09/franklin.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=660686060978329",
+    "https://pagesix.com/wp-content/uploads/sites/3/2018/08/aretha_franklin-1.jpg?quality=75&strip=all&w=878",
+    "https://i.insider.com/5b8967983cccd170008b45a9?width=800&format=jpeg&auto=webp"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.businessinsider.com/aretha-franklin-funeral-celebrities-photos-2018-8",
+      "page_title": "Celebrities honor Aretha Franklin's legacy at her funeral",
+      "title": "Celebrities honor Aretha Franklin's legacy at her funeral — see the photos",
+      "description": "Aretha Franklin, also known as the \"Queen of Soul,\" died of pancreatic cancer on August 16, 2018. To honor the singer and put her body to rest, stars like Ariana Grande, Smokey Robinson, and Faith Hill gathered in Detroit, Michigan on Friday.",
+      "text": "- A funeral for Aretha Franklin was held at Detroit, Michigan's Greater Grace Temple on Friday.\n- Franklin's family, friends, and celebrities were in attendance to honor her.\n- Ariana Grande and Faith Hill performed, while Smokey Robinson recalled his days growing up with the late singer.\n- Franklin passed away on August 16, 2018 at age 76.\nAfter passing away at 76 years old, Aretha Franklin's body is being laid to rest.\nOn Friday, the \"Queen of Soul's\" funeral took place in her hometown of Detroit, Michigan. The event, which occurred at Greater Grace Temple, included friends, family members, and celebrities.\nTo honor Franklin's legacy, pink Cadillacs were lined up outside as an homage to her Grammy-winning song \"Freeway of Love,\" which includes the lyric: \"We're going riding on the freeway of love / In a pink Cadillac.\"\nKeep reading to see photos of the stars who attended the funeral.\nShirley Caesar, a gospel singer and friend of Franklin, arrived in a silver dress.\nLouis Farrakhan, Reverend Al Sharpton, Reverend Jesse Jackson, and Bill Clinton had front row seats at Greater Grace Temple.\nHillary Clinton was also present to pay her respects.\nBill even stopped to take photos with Ariana Grande and fiancé Pete Davidson.\nCountry singer Faith Hill performed a moving rendition of \"What a Friend We Have in Jesus.\"\nFellow powerhouse vocalist Grande took the the stage to perform Franklin's \"(You Make Me Feel Like) A Natural Woman.\"\nSmokey Robinson, a childhood friend of Franklin, gave a personal reflection and recalled fond memories from the first time he met the singer.\nBill later took the stage to give a speech and play one of Franklin's hit songs from his phone.\nChaka Khan delivered a passionate performance of \"Goin' Up Yonder.\"\nFantasia Barrino took off her heels before belting out the lyrics to \"Precious Lord, Take My Hand\" and \"You've Got a Friend.\"\nActress Cicely Tyson turned heads with her bold hat.\nActor, producer, and director Tyler Perry shared sweet sentiments about his late friend.\nJennifer Hudson's \"Amazing Grace\" rendition earned her a standing ovation from guests.\nAfter being \"gravely ill\" and battling pancreatic cancer, Franklin died in her Detroit home on August 16.\n\"In one of the darkest moments of our lives, we are not able to find the appropriate words to express the pain in our heart,\" said Franklin's family in a statement to press. \"We have lost the matriarch and rock of our family. The love she had for her children, grandchildren, nieces, nephews, and cousins knew no bounds.\"\nVisit INSIDER's homepage for more.",
+      "image_captions": [
+        "Aretha Franklin was an award-winning singer.Theo Wargo/Getty Images",
+        "Shirley Caesar is a Grammy-winning artist.Tony Dejak/AP",
+        "In 2017, Bill Clinton and Aretha Franklin attended Elton John's 25th annual AIDS Foundation gala.Paul Sancya/AP",
+        "Aretha Franklin won more than 15 Grammys.Scott Olson/Getty Images",
+        "Pete Davidson has a tattoo of Hilary Clinton, which was done by artist Jon Mesa.Paul Sancya/AP"
+      ]
+    },
+    {
+      "url": "https://andscape.com/features/aretha-franklin-funeral-detroit-biggest-legacy-wasnt-singing-it-was-social-justice/",
+      "page_title": "Aretha Franklin's biggest legacy wasn't singing; it was social justice",
+      "title": "Aretha Franklin’s biggest legacy wasn’t singing; it was social justice - Andscape",
+      "description": "DETROIT — Respectfully, the work that Aretha Franklin has done — those foundations that her friends, contemporaries, family members and heads of states marveled about during her nearly 11-hour viewing and funeral service — isn’t enough. Not now. And not moving forward. On Friday, in her hometown of Detroit, thousands of parishioners, many of them […]",
+      "text": "Aretha Franklin’s biggest legacy wasn’t singing; it was social justice\nIsiah Thomas, Bill Clinton, Al Sharpton, Cicely Tyson and more pay tribute to the Queen of Soul in Detroit\nDETROIT — Respectfully, the work that Aretha Franklin has done — those foundations that her friends, contemporaries, family members and heads of states marveled about during her nearly 11-hour viewing and funeral service — isn’t enough.\nNot now. And not moving forward.\nOn Friday, in her hometown of Detroit, thousands of parishioners, many of them as famous as the woman they were there to celebrate nodded their heads in agreement as luminaries regaled them — and the world, considering it was broadcast live on news networks and streamed online — with familiar stories and unknown tidbits about her lifelong fight for equality. Her homegoing service was something we quite possibly will never see again. In the pulpit, below a church choir that sang the entire roof off at one of Detroit’s most prestigious megachurches, sat a diverse cross section of people. Former President Bill Clinton sat up there with Hillary Clinton, Jesse Jackson, Smokey Robinson, Shirley Caesar, Michael Eric Dyson, Bishop T.D. Jakes, former Attorney General Eric Holder, former Detroit Pistons great Isiah Thomas and others.\nMany of them shared similar sentiments while standing at the podium in the pulpit, at times gazing down in the sanctuary, leaning over and looking down upon Franklin’s gold coffin, which was flanked by sprays of blush pink roses.\nAretha Franklin, in case you haven’t heard by now, didn’t just shut up and sing.\nSinging — and being considered one of the best singers of all time, with an impressive vocal range that has inspired and set afire the musical careers of some of the world’s greatest voices to come behind her — was what gave Franklin the platform. And what she did with her visibility was help to stamp out social injustices.\nAnd she wanted others to share her passion. And those who, too, had recognizable platforms? She wanted them to get in the game.\nPerhaps that point was best driven home by Thomas, the retired Hall of Famer who helped shepherd the Detroit Pistons into their Bad Boy era and bring this city two NBA championships. Initially, it felt like the duration of his 11-minute speech would primarily focus on the glitzier moments of his friendship with Franklin (like looking over off the court and seeing his beloved mother sitting between Franklin and Stevie Wonder courtside at the Palace of Auburn Hills), which began when he was 20 years old and newly drafted from Indiana University in 1981.\nAnd if he dared to teeter into the social justice spaces that largely helped define Franklin — and, quite frankly, were so much focused on during a daylong funeral service that was ruled by political overtones — it seemed like that part of her story from him would be nuanced.\nInstead, he provided one of the most sobering insights of Franklin.\nFighting back tears, Thomas told a story about when the legendary singer sat him down with Coleman A. Young, the late former Detroit mayor, and gathered him, set on talking with the young athlete about what he would do with his own burgeoning celebrity.\n“What do you want to do?” Thomas said Franklin asked of him.\nIt was the way he said it. The entire church at Greater Grace Temple on Detroit’s west side instantly understood Thomas’ interpretation of the Queen of Soul’s question.\nHe got it when she asked him. We got it when he relayed the story.\n“They taught me about Detroit,” he said, “and they gave me the courage to speak on race, class and gender while I was a champion.”\nAnd there it is. At her best, Franklin was a gifted teacher — and that’s her real legacy.\nAs much of a celebration of Franklin’s life as her daylong Friday services were, the funeral itself was a launching pad. It was a chance to remind the world, and teach the world in some cases, about how she used her voice — not just the one that collected 18 Grammys, the one that made politicians listen and take action — to help change the world.\nThe world got to learn about the Aretha Franklin who teamed up with Harry Belafonte to do an 11-city tour, not take any money from it and instead give it to Martin Luther King Jr. so that he could afford to pay his staff and, coincidentally, change America for black folks as we know it.\nAs Thomas shared: “Her voice … helped this nation … deal with its troubled past.”\nThis is more than the death of a legend, a woman who fought back against social injustices tirelessly for the entirety of her life and soundtracked much of that fight during the thick of the civil rights movement. This is the start of a new movement.\nAnd Friday was a call to arms.\nThe political overtones started long before Thomas took the stand — he was actually one of the last to speak about Franklin. MSNBC anchor Al Sharpton got that particular party started when he framed Franklin as a pillar of the civil rights movement and laughed at his own faux pas when he spoke of Franklin on his show shortly after her passing and misspelled the familiar spelling-out of the title of her signature track, “Respect.”\n“When word went out that Ms. Franklin passed, [President Donald] Trump said, ‘She used to work for me.’ No, she used to perform for you. She worked for us,” Sharpton said, immediately eliciting loud cheers and a standing ovation from mourners. “Aretha never took orders from nobody but God. She stood for something, she never shamed us, she never disgraced us … she represented the best in our community, and she fought for our community until the end.”\nHe also said: “You know, the other Sunday on my show, I misspelled ‘Respect,’ and a lot of y’all corrected me,” he said. “Now, I want y’all to help me correct President Trump to help teach him what it means.”\nThat carried through the entirety of her services — even Stevie Wonder, who just about closed out the funeral, mocked Trump’s campaign slogan, saying, “Make love great again.”\nThere were many knowing nods and even more outright proclamations that Franklin’s death would in fact be in vain if the legacy that she built, perhaps the legacy she was most proud of, died on the day the world learned it lost an icon.\nAnd on Friday, there was a lot of signifying from the Queen’s court.\nJackson, who talked about being in that same church years ago to pay homage to another civil rights icon, Rosa Parks, noted the long, impressive lines of fans to view the bodies of both impactful women — for Franklin, who was at the Charles H. Wright African American Museum for two days before moving to her father’s church, New Bethel Baptist Church, for viewing, people waited in lines that stretched out at least half a mile and wrapped around major streets. The former politician noted that the lines, however, were short in Detroit during the 2016 presidential election.\nHe said anyone who leaves the funeral and is not a registered voter “dishonors Aretha.”\nTaking his sentiments further? Anyone who understands the true Aretha Franklin legacy and doesn’t pick up the pieces and continue the work that she quite literally was doing until almost her dying breath? You, too, are disgracing her majesty.\nAnd before you do that, you better think: What are you gonna do?",
+      "image_captions": [
+        "Flowers adorn the casket of Aretha Franklin as it is laid to rest at Woodlawn Cemetery in Detroit, Friday, Aug. 31, 2018. Franklin died Aug. 16, 2018 of pancreatic cancer at the age of 76.AP Photo/Paul Sancya, Poo",
+        "Former Detroit Piston Isiah Thomas speaks at the funeral for Aretha Franklin at the Greater Grace Temple in Detroit on Friday. Franklin, 76, died at her home in Detroit on Aug. 16.Scott Olson/Getty Images",
+        "(From left) Louis Farrakhan, Rev. Al Sharpton, Rev. Jesse Jackson and former President Bill Clinton attend the funeral service for Aretha Franklin at Detroit’s Greater Grace Temple on Friday. Franklin died Aug. 16 of pancreatic cancer at the age of 76.AP Photo/Paul Sancya"
+      ]
+    }
+  ],
+  "evidence_count": 2,
+  "crawled_at": "2026-04-23T16:58:56.430319+00:00"
+}

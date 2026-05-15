@@ -1,0 +1,82 @@
+{
+  "sample_id": "false_8",
+  "image_url": "https://image.cnbcfm.com/api/v1/image/101580704-3420465.jpg?v=1532564506",
+  "visual_entities": [
+    {
+      "description": "Civil rights movement",
+      "score": 0.7739999
+    },
+    {
+      "description": "You’re the Only One for Me",
+      "score": 0.6783
+    },
+    {
+      "description": "White people",
+      "score": 0.6298
+    },
+    {
+      "description": "Barry & Glodean",
+      "score": 0.478
+    },
+    {
+      "description": "Image",
+      "score": 0.4052
+    },
+    {
+      "description": "Jim Crow laws",
+      "score": 0.3921
+    },
+    {
+      "description": "Separate",
+      "score": 0.3585
+    },
+    {
+      "description": "Critical race theory",
+      "score": 0.3163
+    }
+  ],
+  "best_guess_labels": [
+    "only for white"
+  ],
+  "similar_image_urls": [
+    "https://image.cnbcfm.com/api/v1/image/101580704-3420465.jpg?v=1532564506",
+    "https://images.squarespace-cdn.com/content/v1/64586b78772971286f71b77c/2ec5b64b-70b6-4f93-ac3e-53e48b635901/101580704-3420465.jpg",
+    "https://pbs.twimg.com/media/HGImJWpa0AAwgMC.jpg",
+    "https://nupost.it/wp-content/uploads/2020/06/101580704-3420465-1024x682.jpg",
+    "https://miro.medium.com/v2/resize:fit:556/0*Tpb-6lVc-Q83o0Nc",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=555504059958706",
+    "https://image.cnbcfm.com/api/v1/image/101580704-3420465.jpg?v=1532564506&w=1200&h=675",
+    "https://imageio.forbes.com/specials-images/imageserve/60ca840d46193ccd74923dbe/Separate-Waiting/0x0.jpg?format=jpg&width=480",
+    "https://image.cnbcfm.com/api/v1/image/101580704-3420465.jpg?v=1532564506&w=1200&h=1200",
+    "https://media.gettyimages.com/id/3420465/photo/a-police-sign-for-a-white-only-waiting-room-at-the-bus-station-in-jackson-mississippi-25th-may.jpg?s=612x612&w=gi&k=20&c=OaWmarcZBHymeT58jcI9kLP7bXRgJ-zTKM1OP9eDxig="
+  ],
+  "evidence": [
+    {
+      "url": "https://www.cnbc.com/2014/04/14/lily-white-workers-wanted-says-dutch-cleaning-company.html",
+      "page_title": "Lily-white workers wanted, says Dutch cleaning company - CNBC",
+      "title": "Lily-white workers wanted, says Dutch cleaning company",
+      "description": "In a job advertisement, a Dutch cleaning company is calling for white people only: \"Only whites need apply,\" stirring debate about the past.",
+      "text": "\"Only whites need apply.\" It's a phrase that would bring any American back to the memories of the segregated south.\nExcept this is a sentiment that was recently expressed in present-day Netherlands, and it was not meant to stir debate about the past. It was a job advertisement.\nThe owner of a Dutch cleaning company has been splashed across front pages this week after admitting on the company's Facebook account that he only wants white workers and calling other employers who think likewise, but say nothing, hypocrites.\nMore from The Christian Science Monitor:\nThink you know Europe? Take our geography quiz.\nTime to pitch in? Netherlands moves to the fore of rethinking welfare\nXenophobes unite? French, Dutch far-right weigh alliance\nWesley de Laat, owner of Budget Cleaning Brabant, has been lambasted for his \"whites only\" stance and his later defense. \"White workers are better than non-white workers,\" he told the media this week. \"I don't discriminate,\" he went on. \"I just don't invite them for interview. Poles, Moroccans, any non-whites are not going to be hired to work for this company. Ahmed and Ali are probably very good people, but I don't want them working for me.\"\nMr. de Laat's job announcement, which has since been removed from Facebook (though it is still viewable in Google's cache), is just the latest of several episodes to have shaken the Dutch sense of tolerance and cast a critical eye on growing xenophobia across Europe.\nRead More\nHis rant came in the same week that the government-funded Netherlands Institute for Human Rights released a report showing that inquiries about discrimination to their organization shot up by 75 percent between 2012 and 2013. Particularly worrisome was discrimination in the workplace.\nThe organization's Marysha Molthoff says the statistics are not a sign that discrimination is necessarily on the rise; rather, they show that the nature of discrimination is changing. \"It's becoming more visible, and people are being more open about it.\"\nThis trend has come hand-in-hand with the resurgence of anti-immigrant parties across the continent, poised to score historic wins at European parliamentary elections next month. In the Netherlands, it is Geert Wilders and his Freedom Party that have tapped into Dutch unease about immigration, particularly of Muslims.\nYet while the rise of such parties – some of which have been openly anti-immigrant, some anti-Semitic, and all nationalistic – has stirred panic in some corners of Europe, it's also forced a public debate on the realities of a changing Europe.\nRead MoreECB comments knock euro, but not much\nIn the Netherlands, Ms. Molthoff says that debates about discrimination kicked off in force with a report by the European Commission against Racism and Intolerance, released last October, that criticized the Netherlands. \"The settlement of Eastern Europeans in the Netherlands, as well as Islam and Muslims have been portrayed by politicians and media as a threat to Dutch society,\" it said.\nAnd the annual controversy over the Dutch Christmas tradition of \"Black Pete,\" the black-faced sidekick of St. Nicholas, grew to a crescendo this year after the United Nations waded into the debate – ultimately calling for more public discussion on whether the beloved figure is racist and whether the Dutch are racist for holding him so dear.\nRead More\nMr. Wilders continues to rail against the \"Islamization\" of the Netherlands and Europe at large – and more recently against the arrival of Romanians and Bulgarians to the country. But he is widely believed to have taken a step too far recently, by leading an anti-Moroccan chant at a political rally. It provoked a widespread backlash.\n\"Society said he has crossed a line,\" says Molthoff. Now, with the cleaning company, she says, \"this is also a moment when people say, 'this is not allowed.'\"\n—By Sara Miller Llana, The Christian Science Monitor",
+      "image_captions": [
+        "Should the Netherlands exit the EU?",
+        "California Consumer Privacy Act (CCPA) Opt-Out Icon"
+      ]
+    },
+    {
+      "url": "https://www.pbs.org/video/independent-lens-growing-white/",
+      "page_title": "Little White Lie: Growing Up White | Season 16 | Episode 10 - PBS",
+      "title": "Independent Lens | Little White Lie: Growing Up White | Season 16 | Episode 10",
+      "description": "Little White Lie premieres on PBS’s Independent Lens on Monday, March 23, 2015.",
+      "text": "Little White Lie: Growing Up White\nClip: Season 16 Episode 10 | 4m 22s\nLittle White Lie premieres on PBS’s Independent Lens on Monday, March 23, 2015.\nIn this excerpt from the Independent Lens documentary Little White Lie, filmmaker Lacey Schwartz looks back at her birth and childhood, through family photos and home movies. From a young age she’d begun to wonder why her skin was darker than other family and friends, and it became the one thing she wanted to change.\nProblems playing video? | Closed Captioning Feedback\nProblems playing video? | Closed Captioning Feedback\nLittle White Lie: Growing Up White\nClip: Season 16 Episode 10 | 4m 22s\nIn this excerpt from the Independent Lens documentary Little White Lie, filmmaker Lacey Schwartz looks back at her birth and childhood, through family photos and home movies. From a young age she’d begun to wonder why her skin was darker than other family and friends, and it became the one thing she wanted to change.\nProblems playing video? | Closed Captioning Feedback\nHow to Watch Independent Lens\nIndependent Lens is available to stream on pbs.org and the free PBS App, available on iPhone, Apple TV, Android TV, Android smartphones, Amazon Fire TV, Amazon Fire Tablet, Roku, Samsung Smart TV, and Vizio.\nSci-Fi's Take on Real Space Isolation\nFrom 2001: A Space Odyssey to Moon, Project Hail Mary and Star Trek's holodeck, explore the psychological challenges of astronaut loneliness found in sci-fi, drawing parallels to real-life ISS experiences and proposing solutions like virtual reality companionship and induced hibernation.Coming Soon to Independent Lens: Little White Lie\nPreview: S16 Ep10 | 30s | Little White Lie premieres on PBS’s Independent Lens on Monday, March 23, 2015. (30s)\nLittle White Lie: Family Origins\nClip: S16 Ep10 | 1m 35s | Little White Lie premieres on PBS’s Independent Lens on Monday, March 23, 2015. (1m 35s)\nLittle White Lie: Finding Her New Identity at Georgetown\nClip: S16 Ep10 | 3m 39s | Little White Lie premieres on PBS’s Independent Lens on Monday, March 23, 2015. (3m 39s)\nProviding Support for PBS.org\nLearn Moreabout PBS online sponsorshipSupport for PBS provided by:",
+      "image_captions": [
+        "Little White Lie: Growing Up White",
+        "Sci-Fi's Take on Real Space Isolation",
+        "Coming Soon to Independent Lens: Little White Lie",
+        "Little White Lie: Family Origins",
+        "Little White Lie: Finding Her New Identity at Georgetown"
+      ]
+    }
+  ],
+  "evidence_count": 2,
+  "crawled_at": "2026-04-23T16:47:07.586510+00:00"
+}

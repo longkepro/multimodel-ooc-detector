@@ -1,0 +1,118 @@
+{
+  "sample_id": "true_72",
+  "image_url": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2020/01/white_horse_feature.jpg",
+  "visual_entities": [
+    {
+      "description": "Horse",
+      "score": 1.11795
+    },
+    {
+      "description": "Miniature horse",
+      "score": 0.7044
+    },
+    {
+      "description": "Be • Brooklyn equine at Prospect Park Stable",
+      "score": 0.5333
+    },
+    {
+      "description": "Stable",
+      "score": 0.508
+    },
+    {
+      "description": "Apartment",
+      "score": 0.4372
+    },
+    {
+      "description": "Guide horse",
+      "score": 0.4299
+    },
+    {
+      "description": "House",
+      "score": 0.3833
+    },
+    {
+      "description": "Equestrian",
+      "score": 0.3463
+    },
+    {
+      "description": "used",
+      "score": 0.3118
+    }
+  ],
+  "best_guess_labels": [
+    "horse in apartment"
+  ],
+  "similar_image_urls": [
+    "https://preview.redd.it/video-agent-record-alice-thymefield-v0-ipdupotbvx5f1.png?width=1200&format=png&auto=webp&s=c3e700a27f50e67d6d32777c9c2c461015139150",
+    "https://i.redd.it/ipdupotbvx5f1.png",
+    "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2020/01/white_horse_feature.jpg",
+    "https://mediaproxy.snopes.com/width/600/https://media.snopes.com/2020/01/white_horse_feature.jpg",
+    "https://www.tiktok.com/api/img/?itemId=7293257405058665761&location=3&aid=1988&index=6",
+    "https://i.imgflip.com/a7x1ps.jpg",
+    "https://i.chzbgr.com/full/10504877824/hA1CBFE6C/f-is-lookin-at-springfield-massachusetts"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.snopes.com/fact-check/horse-living-in-apartment/",
+      "page_title": "Is This Horse Living in a Third-Floor Apartment? | Snopes.com",
+      "title": "Is This Horse Living in a Third-Floor Apartment?",
+      "description": "A horse needs a house, of course, of course.",
+      "text": "A photograph of a white horse standing at the window on the third floor of a brick building has long been circulated via social media, along with the claim that a tenant was discovered to have been keeping the equine in his apartment:\nThis picture has also become the subject of numerous humorous image macros, including the infamous \"Soon\" meme:\nBut this enigmatic horse was not spotted in Preston, Lancashire, or in many of the other locations attached to sightings of it. As documented by Google Street View, this horse was \"residing\" in Galena, Illinois (a town known for its well-preserved, 19th-century buildings and the home of Ulysses S. Grant just prior to the outbreak of the Civil War in 1861:\nMoreover, this horse does not \"live\" with a tenant in a Galena apartment. As more close-up photographs have revealed, the equine is simply a life-size statue, similar to ones seen here.\nhttps://www.shutterbug.com/content/white-horse-window",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.snopes.com/collections/debunker-01-11-2020/",
+      "page_title": "Did Mr. Ed Take Up Residence in an Apartment? | Snopes.com",
+      "title": "Did Mr. Ed Take Up Residence in an Apartment?",
+      "description": "Featured on Snopes today: Questions about a white horse in the window, a burned tree with a spaghetti pattern, and a woman flogged in Iran for drinking beer.",
+      "text": "In one of the weirder fact checks we've investigated, a photograph appears to reveal a white horse staring longingly out of a third-story apartment window, as if wishing to join passersby below. It’s been making the rounds on social media for years. The claim behind the photo was that the tenant was keeping the animal in his apartment.\nDavid Mikkelson is hot on the case.\nThe Daily Debunker delivers top stories from Snopes.com to your inbox. Subscribe.",
+      "image_captions": [
+        "Four people clinking beer bottles."
+      ]
+    },
+    {
+      "url": "https://www.snopes.com/tag/apartments/",
+      "page_title": "Apartments Articles | Snopes.com",
+      "title": "Is Costco building apartments over its stores? We inspected",
+      "description": "",
+      "text": "Snopes\nNow available in the app store!\nOpen\nLog in to activate your ad-free access.\nIt looks like you might have a Snopes membership! Log in to enjoy your ad-free experience.\nLog In\nYou're browsing with fewer ads for the next 24 hours, thanks to our sponsor\n1440 Newsletter\n.\nLearn More\nSnopes Membership\nSearch\nMy Profile\nLogout\nSubmit a Rumor\nLatest\nTrending\nNews & Politics\nEntertainment\nFact Checks\nQuiz\nSections\nLatest\nTrending\nFact Checks\nNews\nCollections\nMore\nContact Us\nSubmit a Rumor\nArchives\nQuiz\nFactBot\nSubmit a Tip\nSnopes App\nNewsletters\nAbout Us\nCategories\nNews & Politics\nEntertainment\nScience & Technology\nLifestyle\nSnopes Membership\nLogin\nMy Profile\nLogout\nDonald Trump\nAI-generated Content\nPope Leo XIV\nJeffrey Epstein\nMelania Trump\nApartments\nIs Costco building apartments over its stores? We inspected\nWritten by:\nEmery Winter\nJan. 1, 2026\nA Costco store being built in Los Angeles will have affordable apartments above it, but as of la ...\nRead More\nPosts claim Croatian nurse who died in apartment wasn't discovered for 42 years. They're mostly right\nWritten by:\nEmery Winter\nOct. 30, 2025\nHedviga Golik died in her apartment in Zagreb, now the capital of Croatia, between 1966 and 1973 ...\nRead More\nHakeem Jeffries received $1.2M luxury apartment from Mexican government?\nWritten by:\nJordan Liles\nMay 16, 2025\nAccording to the untrue rumor, the Mexican government gifted the apartment to the U.S. House Dem ...\nRead More\nObama didn't accept $22.9M donation from Venezuelan government to build apartment on top of presidential library\nWritten by:\nJordan Liles\nMay 14, 2025\nThis rumor circulated in May 2025 amid news of Qatar offering President Donald Trump's Departmen ...\nRead More\nPhotos Show Apartment Building in China With 30K Residents?\nWritten by:\nAleksandra Wrona\nOct. 20, 2024\nThe building was reportedly located in Qianjiang Century City, the central business district of ...\nRead More\nUnpacking 'Hysteria' Over Venezuelan Gang Members Allegedly Taking Over Colorado Apartment\nWritten by:\nJack Izzo\nSept. 5, 2024\nA video supposedly showing men holding guns at the complex spread widely on social media.\nRead More\nToddlers in 1920s Were Hung Outside Apartment Windows in Baby Cages for 'Proper Fresh Air'?\nWritten by:\nIzz Scott LaMagdeleine\nAug. 4, 2024\nThe \"portable baby cage\" was allegedly patented in 1922.\nRead More\n'Baby Cages' Suspended Toddlers Outside of Apartment Windows for 'Proper Fresh Air'?\nWritten by:\nIzz Scott LaMagdeleine\nJune 24, 2024\nSnopes has a history of investigating the origins of what appear to be bizarre inventions of the ...\nRead More\nReal Vintage 'Baby Cages' to Give Toddlers Fresh Air?\nWritten by:\nMadison Dapcevich\nNov. 7, 2023\nSaid to have been invented in 1922, the contraption housed babies several stories high in an enc ...\nRead More\nCould Jerry Seinfeld's Hallway Exist in the Real World?\nWritten by:\nDan Evon\nApril 26, 2021\nIf this conundrum blows your mind, do not, under any circumstances, research who played Jerry's ...\nRead More\nThat Time a Tiger Was Found in a Harlem Apartment\nWritten by:\nJordan Liles\nJune 11, 2021\nIn 2021, an old story resurfaced on Reddit. The tiger wasn't alone, either.\nRead More\nDid a Woman Find a 'Secret Room' Behind the Bathroom Mirror of Her Apartment?\nWritten by:\nBethania Palma\nMarch 10, 2021\nSamantha Hartsoe ignored the lesson learned by many a horror movie character and went in there.\nRead More\nWere Old Apartment Radiators Designed To Prevent Spread of the 1918 Pandemic?\nWritten by:\nBethania Palma\nDec. 9, 2020\nSurprising vestiges of the 1918 pandemic are suddenly relevant again.\nRead More\nIs This Horse Living in a Third-Floor Apartment?\nWritten by:\nDavid Mikkelson\nJan. 10, 2020\nA horse needs a house, of course, of course.\nRead More\nWas 85-Year-Old Widow Forced Out of Apartment for Religious Activities?\nWritten by:\nBethania Palma\nJune 10, 2019\nDiana Martin has filed a complaint with the California Department of Fair Employment and Housing.\nRead More\nDid Donald Trump Once Fight Against Installing Sprinklers in New York Apartment Buildings?\nWritten by:\nDan MacGuill\nApril 11, 2018\nA viral meme accurately describes the future president's lobbying efforts, but it leaves out the ...\nRead More\nDonald Trump Sold an Apartment to a Brutal Haitian Dictator?\nWritten by:\nAlex Kasprak\nJan. 16, 2018\nHe sold the Trump Tower apartment to Jean-Claude \"Baby Doc\" Duvalier through a Panamanian shell ...\nRead More\nDid a Pilot's Ex-Girlfriend Vengefully Cover His Apartment in Grass Seed?\nWritten by:\nBarbara Mikkelson\nMarch 22, 2008\nThis decades-old tale of infidelity and petty revenge might have actually originated in a more l ...\nRead More\nDog Jumps Out Apartment Window to Chase Tennis Ball\nWritten by:\nBarbara Mikkelson\nSept. 13, 2000\nA dog follows a thrown ball out a highrise apartment window.\nRead More\nPage: 1",
+      "image_captions": [
+        "A close up photo of Costco Wholesale branding on a store. The top half of the photo is a blue sky covered by out-of-focus leaves close to the camera",
+        "Screenshot of Facebook post. Has a photo of a young, brown-haired woman wearing glasses beneath text saying Hedviga Golik passed away alone in her apartment in 1966, and that her body went undiscovered for 42 years until found in 2008 during renovations",
+        "A black and white photo shows a nurse wearing a white coat looking at a baby in a wire cage attached to a window with blankets covering the bottom looking at them.",
+        "A tiger named Ming was found in a Harlem apartment in 2003 in this photo and the picture does not show the alligator that was also found.",
+        "Clothing, Apparel, Costume"
+      ]
+    },
+    {
+      "url": "https://www.snopes.com/fact-check/?pagenum=607",
+      "page_title": "Fact Checks Archive | Page 607 | Snopes.com",
+      "title": "Did a Coronavirus Bulletin Warn Against Unprotected Sex with Farm Animals?",
+      "description": "Rumors and questionable claims we have researched recently.",
+      "text": "Snopes\nNow available in the app store!\nOpen\nLog in to activate your ad-free access.\nIt looks like you might have a Snopes membership! Log in to enjoy your ad-free experience.\nLog In\nYou're browsing with fewer ads for the next 24 hours, thanks to our sponsor\n1440 Newsletter\n.\nLearn More\nSnopes Membership\nSearch\nMy Profile\nLogout\nSubmit a Rumor\nLatest\nTrending\nNews & Politics\nEntertainment\nFact Checks\nQuiz\nSections\nLatest\nTrending\nFact Checks\nNews\nCollections\nMore\nContact Us\nSubmit a Rumor\nArchives\nQuiz\nFactBot\nSubmit a Tip\nSnopes App\nNewsletters\nAbout Us\nCategories\nNews & Politics\nEntertainment\nScience & Technology\nLifestyle\nSnopes Membership\nLogin\nMy Profile\nLogout\nDonald Trump\nAI-generated Content\nPope Leo XIV\nJeffrey Epstein\nMelania Trump\nFact Checks\nRumors and questionable claims we have researched recently.\nDid a Coronavirus Bulletin Warn Against Unprotected Sex with Farm Animals?\nWritten by:\nDavid Mikkelson\nJan. 29, 2020\nYou can take the virus out of the farm, but you can't ...\nRead More\nIs This Kobe Bryant Playing 'Moonlight Sonata'?\nWritten by:\nDan Evon\nJan. 29, 2020\nKobe Bryant may have been best known for his basketball skills, but he was a man of many other t ...\nRead More\nDid Joe Biden Say He Doesn't Count Drunken Driving as a Felony?\nWritten by:\nBethania Palma\nJan. 28, 2020\nDuring a candidates forum in Iowa, the former vice president weighed in on the driving question ...\nRead More\nDid Trump Adviser Paula White Pray for All 'Satanic Pregnancies' to Be Terminated?\nWritten by:\nDan MacGuill\nJan. 28, 2020\nThe controversial televangelist engendered criticism and controversy for remarks she made during ...\nRead More\nDid a 2012 Tweet Predict Kobe's Death?\nWritten by:\nDan MacGuill\nJan. 28, 2020\nAn eerily prescient tweet gained prominence after the tragic demise of basketball legend Kobe Br ...\nRead More\nIs This a Photo of 'Tornadoes' Forming as Lava Hits Water?\nWritten by:\nDan Evon\nJan. 28, 2020\nThis is what (sometimes) happens when lava meets the ocean.\nRead More\nIs Virginia Criminalizing Dissent Against State Leaders?\nWritten by:\nBethania Palma\nJan. 28, 2020\nSome stories don't say what the headlines claim they do.\nRead More\nDid Kobe Suggest Trump Is Too Divisive to 'Make America Great Again'?\nWritten by:\nDan Evon\nJan. 28, 2020\nThe political quote was widely circulated after the NBA legend's death in January 2020.\nRead More\nWas a Woman With 'Chronic PMS' Arrested on Suspicion of 189 Murders?\nWritten by:\nSnopes Staff\nJan. 28, 2020\nA routine review of content labeled satire.\nRead More\nWere 30 Marines Just Killed in a Helicopter Crash?\nWritten by:\nDan Evon\nJan. 27, 2020\nA years-old news story recirculated in the wake of another deadly helicopter crash.\nRead More\nDid a Video Show a Fox Suckling Koalas Orphaned by Australia Fires?\nWritten by:\nDan MacGuill\nJan. 27, 2020\nA viral video was heartwarming enough without the wildly false framing added to it.\nRead More\nNo, This Isn't Video of the Crash That Killed Kobe Bryant\nWritten by:\nBethania Palma\nJan. 27, 2020\nThe basketball legend's death stunned the world.\nRead More\nNo, Bob Barker Did Not Die and Leave Fortune to 'Trump's Plan for USA'\nWritten by:\nSnopes Staff\nJan. 25, 2020\nA routine review of content labeled satire.\nRead More\nDoes a So-Called 'HPCD' Cause Your Car to Use More Fuel?\nWritten by:\nDavid Mikkelson\nJan. 24, 2020\nYou might need reins on horses ... but a \"horse power control device\" on your car?\nRead More\nIs Al Roker Leaving the 'Today' Show?\nWritten by:\nBethania Palma\nJan. 24, 2020\n\"Today\" show fans have been anxious that the popular co-host is leaving.\nRead More\nDoes This Video Show the White Island Volcano Eruption?\nWritten by:\nDan Evon\nJan. 24, 2020\nDespite an abundance of eyewitness videos, misinformation found a way to capture attention.\nRead More\nNo, Chick-fil-A Isn't Giving Away Free Meals on Facebook Messenger\nWritten by:\nBethania Palma\nJan. 24, 2020\nProbably best to ignore any strange links offering free merchandise.\nRead More\nAre FedEx 'Set Delivery Preferences' Text Messages Real?\nWritten by:\nDan MacGuill\nJan. 24, 2020\nIn January 2020, members of the public reported receiving suspect SMS messages from scammers pre ...\nRead More\nDid Hillary Clinton Post Condolences for Tulsi Gabbard's Suicide One Day Early?\nWritten by:\nSnopes Staff\nJan. 24, 2020\nA routine review of content labeled satire.\nRead More\nWere GOP Senators Overheard Saying 'We're Up Shit's Creek' About Impeachment?\nWritten by:\nBethania Palma\nJan. 23, 2020\nA tweet prompted some conversation about fake conversations.\nRead More\nPrevious\nNext\nPage: 607",
+      "image_captions": [
+        "kobe bryant tweet quote",
+        "30 marines killed helicopter",
+        "White Island volcano eruption",
+        "1 year free chick fil a coupon",
+        "republicans up shit creek tweet"
+      ]
+    },
+    {
+      "url": "https://imgflip.com/tag/horse?sort=latest&after=add268",
+      "page_title": "horse Memes & GIFs - Imgflip",
+      "title": "\"horse\" Memes & GIFs",
+      "description": "Images tagged \"horse\". Make your own images with our Meme Generator or Animated GIF Maker.",
+      "text": "Create\nMake a Meme\nMake a GIF or Short Video\nMeme Templates\nGIF Templates\nfun\nfun\ngaming\nrepost\nsports\nreactiongifs\nmore streams ›\nHot\nNew\nSort By:\nHot\nNew\nTop\npast 24 hours\nTop\npast 7 days\nTop\npast 30 days\nTop\nMarch\nTop\nFebruary\nTop\nJanuary\nTop\n2026\nTop\nDec. 2025\nTop\nNov. 2025\nTop\nOct. 2025\nTop\nSep. 2025\nTop\nAug. 2025\nTop\nJuly 2025\nTop\nJune 2025\nTop\nMay 2025\nTop\nApr. 2025\nTop\n2025\nTop\n2024\nTop\n2023\nTop\n2022\nTop\n2021\nTop\n2020\nTop\n2019\nTop\n2018\nTop\n2017\nTop\n2016\nTop\n2015\nTop\n2014\nTop\n2013\nTop\n21st Century\nmore\nNSFW\n\"horse\" Memes & GIFs\nMake a meme\nMake a gif\nImgflip Pro\nAI creation tools & better GIFs\nNo ads\nCustom 6x6 profile icon and new colors\nYour images jump to the top of approval queues\nGo Pro\nneigh means neigh\nby\nRoo42\n99 views\nshare\nneigh\nby\nRoadrunnerfromhell\n1,283 views, 10 upvotes, 3 comments\nshare\nCheck the NSFW checkbox to enable not-safe-for-work images\nNSFW\nby\nTanjaBosnjak\n48 views, 1 upvote\ndad legend\nby\nMahotokoruh\n272 views\nshare\nThink about it\nby\nBeingADude\n138 views, 1 upvote\nshare\nby\nPatat_man\n74 views\nshare\nCheck the NSFW checkbox to enable not-safe-for-work images\nNSFW\nby\nUniverseDaily\n25 views, 1 upvote, 1 comment\nThe Super's gonna be pissed\nby\nGiantsquonk\n327 views, 3 upvotes\nshare\nCheck the NSFW checkbox to enable not-safe-for-work images\nNSFW\nby\nMemesByBrad\n9 views\njuan's twin\nby\nalwynatorz_a_cxnt\n1,077 views, 4 upvotes\nshare\nlife\nlife | life | image tagged in gifs,gif,horse,depression,memes | made w/ Imgflip video-to-gif maker\nby\nX0r1tz\n597 views\nshare\nCheck the NSFW checkbox to enable not-safe-for-work images\nNSFW\nby\nMightyM4n\n11 views\nyour one to talk buddy boy\nby\nShinobii\n1,219 views, 11 upvotes, 3 comments\nshare\nHow do you think I did?\nby\nCrystalBat\n165 views, 1 comment\nshare\nFirst\nNext ›",
+      "image_captions": [
+        "neigh means neigh | image tagged in memes,funny,horse | made w/ Imgflip meme maker",
+        "neigh | \"Why imagine?\" | image tagged in horse,memes | made w/ Imgflip meme maker",
+        "dad legend | DAD, WHAT WERE YOU DOING DURING THE SUMMER VACATION WHEN YOU ARE YOUNG? I PLAYED UMA MUSUME: PRETTY DERBY ALL DAY LONG. WHAT A LEGEND! | image tagged in memes,horse,gaming | made w/ Imgflip meme maker",
+        "Think about it | YOU KNOW WHAT? I'M GONNA SAY IT; RUNAWAY HORSES ARE JUST BULLDOZERS BUT WITH LEGS | image tagged in you know what i'm about to say it,horse,memes,funny | made w/ Imgflip meme maker",
+        "MOOOOO\nI AM COW\nNO WORK; SHUT UP\nYOU HORS\nYOU WORK NOW | image tagged in horse | made w/ Imgflip meme maker"
+      ]
+    }
+  ],
+  "evidence_count": 5,
+  "crawled_at": "2026-04-23T17:10:06.883946+00:00"
+}

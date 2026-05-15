@@ -1,0 +1,109 @@
+{
+  "sample_id": "false_112",
+  "image_url": "https://greekreporter.com/wp-content/uploads/2019/11/000_1KX1D2.jpg",
+  "visual_entities": [
+    {
+      "description": "Moria refugee camp",
+      "score": 1.0892999
+    },
+    {
+      "description": "Kara Tepe refugee camp",
+      "score": 1.0546501
+    },
+    {
+      "description": "Refugee camp",
+      "score": 0.7227
+    },
+    {
+      "description": "Refugee",
+      "score": 0.7088
+    },
+    {
+      "description": "",
+      "score": 0.6077
+    },
+    {
+      "description": "Human migration",
+      "score": 0.5217
+    },
+    {
+      "description": "Moria",
+      "score": 0.47571152
+    },
+    {
+      "description": "2015 European migrant crisis",
+      "score": 0.43620002
+    },
+    {
+      "description": "Human",
+      "score": 0.3984
+    },
+    {
+      "description": "Doctors Without Borders",
+      "score": 0.3821
+    },
+    {
+      "description": "",
+      "score": 0.3821
+    },
+    {
+      "description": "Asylum seeker",
+      "score": 0.3257
+    }
+  ],
+  "best_guess_labels": [
+    "moria griechenland"
+  ],
+  "similar_image_urls": [
+    "https://img.zeit.de/gesellschaft/zeitgeschehen/2020-07/moria-fluechtlingslager-lesbos-erstochen-toter-griechenland-krise-bild/wide__1300x731",
+    "https://media.lesechos.com/api/v1/images/view/5d937edad286c26af162bf67/1280x720/0601972433979-web-tete.jpg",
+    "https://img.zeit.de/gesellschaft/zeitgeschehen/2020-07/moria-fluechtlingslager-lesbos-erstochen-toter-griechenland-krise-bild/wide__1280x720",
+    "https://img.zeit.de/gesellschaft/zeitgeschehen/2020-07/moria-fluechtlingslager-lesbos-erstochen-toter-griechenland-krise-bild/wide__1000x562",
+    "https://img.zeit.de/gesellschaft/zeitgeschehen/2020-07/moria-fluechtlingslager-lesbos-erstochen-toter-griechenland-krise-bild/wide__822x462",
+    "https://versai.fr/wp-content/uploads/2023/09/784f6ec52c1851482b421c654907d38ef1389047.jpeg.webp"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.ndr.de/fernsehen/sendungen/panorama/aktuell/Aerzte-ohne-Grenzen-ueber-das-neue-Moria-Die-Zustaende-sind-schlimm,moria196.html",
+      "page_title": "Ärzte ohne Grenzen über das \"neue Moria\": \"Die Zustände sind ...",
+      "title": "Ärzte ohne Grenzen über das \"neue Moria\": \"Die Zustände sind schlimm\"",
+      "description": "Immer mehr Menschen im Flüchtlingslager auf Lesbos werden krank: Ärzte berichten von Erkältungen, Hautinfektionen und Entwicklungsschäden bei vielen der rund 2000 Kinder.",
+      "text": "Ärzte ohne Grenzen über das \"neue Moria\": \"Die Zustände sind schlimm\"\nImmer mehr Menschen im Flüchtlingslager auf Lesbos werden krank: Ärzte berichten von Erkältungen, Hautinfektionen und Entwicklungsschäden bei vielen der rund 2000 Kinder.\nAbdul Azim Sultani rollt eine Schlafmatte zusammen und presst. Kaltes Wasser rinnt aus dem Stoff. Es hat geregnet im Flüchtlingslager auf Lesbos. Auch die Bettdecke ist nass, unter der Sultani mit seiner Frau und seiner acht Monate alten Tochter schläft. Seine Frau hängt die Decke auf eine Leine, die zwischen ihrem Zelt und dem Nachbarzelt gespannt ist, wo sie mit einer weiteren, fünfköpfigen Familie gemeinsam schlafen.\n\"Ich habe versucht, eine Plastik-Plane zu bekommen, um sie über das Zelt zu ziehen. Aber auch die Hilfsorganisationen konnten mir keine geben. In Moria konnten wir uns wenigstens selbst aus Holz-Paletten einfache Hütten bauen. Auch das dürfen wir hier nicht mehr\", erzählt Sultani.\n\"Die Gesundheit der Menschen ist gefährdet\"\nTagelang hatte es geregnet. Teile des Flüchtlingslagers in Kara Tepe waren überschwemmt. Im Internet kursieren Bilder von Menschen, die bei starkem Wind durch kniehohes Wasser waten. Mehr als 7.500 Menschen leben hier, ein Drittel davon Kinder. Das Wasser konnte mittlerweile auch mithilfe der Behörden größtenteils abgepumpt werden. Doch der Winter fängt gerade erst an. Direkt am Meer gelegen, peitscht der Wind nachts immer häufiger durch die Zelte.\n\"Die Gesundheit der Menschen ist auf vielen verschiedenen Ebenen gefährdet\", sagt Katrin Glatz-Brubakk von \"Ärzte ohne Grenzen\" im Gespräch mit Panorama. Die Kälte und Nässe in den Zelten führten zwangsläufig zu Krankheiten. Typische Winter-Krankheiten, wie etwa Erkältungen oder auch Lungenentzündungen, gebe es hier eben noch häufiger. \"Dadurch, dass Corona auch eine Lungenerkrankung ist, befürchtet man natürlich, dass das noch schlimmer werden kann.\" Von einem effektiven Corona-Schutz könne keine Rede sein.\nHautkrankheiten und Angst vor der Kälte\nHinzu kommt, dass es nach drei Monaten immer noch kein warmes Wasser gibt. Lange konnten sich die Menschen im Meer waschen, doch das lassen die Temperaturen nicht mehr zu. \"Sanitäranlagen gibt es nicht. Es gibt Menschen im Lager, die seit drei Monaten nicht geduscht haben. Deswegen ist auch überall die Krätze.\" Auch Sultanis Tochter leidet seit Monaten unter einer Hautkrankheit, wahrscheinlich Krätze. Die Haut an ihrem Hinterkopf ist verkrustet. Nachts strampele sie und kratze sich, erzählt er.\nMehrere Menschen erfroren in den vergangenen Jahren im Winter in Moria. Jetzt kämpfen die Menschen verzweifelt gegen die Kälte. \"Viele versuchen mit den Gaskochern irgendwie ihr Zelt zu heizen. Es ist aber sehr eng. Sie stolpern über die Gasbrenner. Deswegen müssen wir auch zunehmend Brandwunden behandeln.\" Schon 2016 löste ein Gaskocher einen Brand in Moria aus, bei dem eine Frau und ein Kind starben.\nZeltlager nur ein Provisorium?\nDas Zeltlager Kara Tepe soll nur provisorisch sein. Doch ein neues Lager auf Lesbos ist erst für September 2021 angekündigt. Erstmals koordiniert dabei die EU offiziell die Unterbringung von Flüchtlingen auf einer griechischen Insel. Die Kommission verspricht, dass es \"kein neues Moria\" geben werde. Das neue Camp werde europäischen Standards genügen.\nDoch im Heute hilft das wenig. Im Zeltlager, in dem die Menschen überwintern werden, gibt es kein warmes Wasser, Strom nur an wenigen Generatoren, die immer wieder ausfallen und an denen sich die Menschen drängen, um Wasser zu kochen oder ihre Handys zu laden. Das Camp verlassen, etwa um einzukaufen, dürfen die Bewohner und Bewohnerinnen nur noch einmal in der Woche für vier Stunden. Es gibt nur wenige Straßenlampen. Ab 17 Uhr ist es stockfinster, in den Zelten und draußen.\nZudem liegt das Lager auf einem ehemaligen Militär-Übungsplatz. Regelmäßig finden die Bewohner und Bewohnerinnen hier Munition. Solche Schießplätze seien häufig mit Blei kontaminiert, warnt Belkis Wille von der Menschenrechtsorganisation Human Rights Watch: \"Tausende Migranten auf einen ehemaligen Schießplatz zu bringen, ohne vorab sicherzustellen, dass sie dort keinem giftigen Blei ausgesetzt sind, ist unverantwortlich.\" Das griechische Migrationsministerium teilt dagegen mit, dass im Lager keine Vergiftungsgefahr bestehe.\nHohe psychische Belastung für Kinder\nAll diese Umstände seien in hohem Maß belastend, erklärt Katrin Glatz-Brubakk, die als Kinderpsychologin für \"Ärzte ohne Grenzen\" schon neun Mal in den letzten Jahren zunächst in Moria und nun in Kara Tepe war. \"Ich habe die Entwicklung gesehen. Die Kinder, die ich jetzt treffe, denen geht es immer schlechter. Sie leiden unter Alpträumen, Panikattacken. Sie können nicht schlafen. Sie spielen nicht mehr. Ich habe gestern mit einem Mädchen gesprochen. Die hat ganz aufgehört zu reden und geht auch nicht mehr aus dem Zelt raus. Das schädigt die Entwicklung der Kinder, auch auf lange Sicht.\"\nIn Deutschland wären die Bundesländer bereit, mehr als doppelt so viele Geflüchtete aus Lesbos aufzunehmen wie die Bunderegierung zugesagt hat. 3.709 statt der bisher 1.553, wie aus einer Antwort der Bundesregierung auf eine Anfrage der Grünen hervorgeht. Doch Bundesinnenminister Seehofer (CSU) verweist darauf, dass Asylpolitik Sache des Bundes ist. Zu weiteren Aufnahmen aus Griechenland sei man nur bereit, wenn die EU gemeinsam vorgeht.",
+      "image_captions": [
+        "Flüchtlingslager in Kara Tepe",
+        "Kind in dem Flüchtlingslager in Kara Tepe",
+        ".Abdul Sultani mit Familie auf Lesbos",
+        "Ansammlung von Flüchtlingen und Einwanderern an der griechisch-türkischen Grenze bei Kastanies mit dem Versuch, Griechenland über die Grenzestelle zu erreichen.",
+        "Panorama 60 Jahre: Ein Mann steht hinter einer Kamera, dazu der Schriftzug \"Panorama\""
+      ]
+    },
+    {
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2020-07/moria-fluechtlingslager-lesbos-erstochen-toter-griechenland-krise",
+      "page_title": "Moria: Migrant in Flüchtlingslager auf Lesbos erstochen | DIE ZEIT",
+      "title": "Moria: Migrant in Flüchtlingslager auf Lesbos erstochen",
+      "description": "Immer wieder kommt es im völlig überfüllten Flüchtlingslager Moria auf der Insel Lesbos zu Gewalttaten. Seit Jahresbeginn wurden mindestens sieben Menschen erstochen.",
+      "text": "Im völlig überfüllten Flüchtlingslager von Moria auf der griechischen Insel Lesbos ist ein 21-jähriger Mann von einem 19-Jährigen erstochen worden. Der mutmaßliche Täter sei festgenommen worden, zwei andere junge Männer als mutmaßliche Mittäter, berichtete das Staatsradio ERT und beruft sich auf Polizeiangaben.\nVor allem im Satellitencamp, das wegen der Überfüllung des Hauptlagers von Moria entstand, gibt es immer wieder Gewalt. Seit Jahresbeginn wurden in dem Lager in Moria mindestens sieben Migranten bei Auseinandersetzungen erstochen, unter ihnen ein Minderjähriger und eine Frau. Zwölf weitere Menschen wurden verletzt.\nDie griechische Regierung hat seit Jahresbeginn mehr als 14.000 Migrantinnen und Migranten von der Insel Lesbos aufs Festland gebracht. Das soll das Flüchtlingslager entlasten. Zurzeit harren weitere 14.000 bis 17.000 Menschen in Moria aus. Ende März hatten dort noch knapp 19.000 Migranten gelebt. Eigentlich ist das Camp Moria für nur 2.700 Menschen ausgelegt.\nWieder viele Ankünfte über das Mittelmeer\nAuch an den Küsten Süditaliens kommen wieder Migranten in kleinen Booten an. Auf Lampedusa waren es in der Nacht zum Montag laut Berichten mehr als 100 Menschen, darunter viele Tunesier. Von Lampedusa wurden Menschen nach Protesten in andere Orte verlegt, doch der Zulauf dauert an. Im Juli kamen bisher fast 5.280 Migranten in Italien an – mehr als in den beiden Vorjahren. Auf Sizilien sind die Lager nach Angaben örtlicher Behörden überbelegt.\nIn Malta nahmen Sicherheitskräfte am Montag 95 Menschen auf, die in\nSeenot geraten waren. Offizielle Stellen in Valletta bestätigten die\nAnkunft einer Gruppe.\nDie Flüchtlinge müssen in Corona-Quarantäne. In und um die Unterkünfte gibt es immer wieder Zwischenfälle. Aus einer Unterkunft des Zivilschutzes am Hafen der Stadt Porto Empedocle auf Sizilien flohen am Montag etwa 520 Menschen, wie die Nachrichtenagentur Ansa meldete. Laut Bürgermeisterin Ida Carmina herrschen dort Hitze und Enge.\nSchon am Wochenende hatten sich 184 Migranten aus einem Camp in der sizilianischen Stadt Caltanissetta unerlaubt abgesetzt. Sicherheitskräfte hätten etwa 120 von ihnen bis Montag aufgespürt. Sie seien in die Quarantäne zurückgebracht worden. Bürgermeister Roberto Gambino kündigte an, er wolle an das Innenministerium schreiben: \"Ich fordere, dass niemand mehr nach Caltanissetta kommt.\" Das Lager sei ungeeignet.",
+      "image_captions": [
+        "Im Flüchtlingslager Moria leben derzeit etwa 14.000 Menschen, obwohl das Lager für viel weniger ausgelegt ist.© Angelos Tzortzinis/​AFP/​Getty Images",
+        "Moria: Im Flüchtlingslager Moria leben derzeit etwa 14.000 Menschen, obwohl das Lager für viel weniger ausgelegt ist.",
+        "Moria: Migrant in Flüchtlingslager auf Lesbos erstochen"
+      ]
+    },
+    {
+      "url": "https://versai.fr/%D9%85%D9%87%D8%A7%D8%AC%D8%B1%D8%AA-%D8%A8%D9%87-%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%87-%D8%A7%D8%B2-%D8%B7%D8%B1%DB%8C%D9%82-%D9%BE%D9%86%D8%A7%D9%87%D9%86%D8%AF%DA%AF%DB%8C/",
+      "page_title": "مهاجرت به فرانسه از طریق پناهندگی | موسسه مهاجرتی ورسای",
+      "title": "مهاجرت به فرانسه از طریق پناهندگی | موسسه مهاجرتی ورسای",
+      "description": "مهاجرت به فرانسه از طریق پناهندگی این روزها که افراد زیادی به دنبال این مسئله هستند بسیار داغ شده است. معمولا برای آن که بتوانید به این..",
+      "text": "مهاجرت به فرانسه از طریق پناهندگی این روزها که افراد زیادی به دنبال این مسئله هستند به عنوان یکی از راه های مهاجرت به فرانسه بسیار داغ شده است. معمولا برای آن که بتوانید به این کشور مهاجرت کنید روش های مختلفی وجود دارد اما استفاده از روش پناهندگی های سیاسی، دینی و… می تواند یکی از ساده ترین و در عین حال مشکل سازترین روش هایی باشد که وجود دارد. در ادامه این موضوع تلاش کرده ایم تا مهاجرت کردن به فرانسه از این راه را بررسی کنیم و نکات مهمی که در این زمینه وجود دارند را بیان کنیم.\nچه نکاتی در مهاجرت پناهندگی اهمیت دارد؟\nزمانی که قصد داریم تا از طریق پناهندگی به این کشور مهاجرت کنیم، یک سری نکات و موارد وجود دارند که باید حتما در نظر داشته باشیم. این نکات را در این قسمت بررسی کرده و جز به جز آن ها را مورد تجزیه و تحلیل قرار می دهیم.\n- مشورت کردن : اولین نکته مربوط به مشورت کردن با یک وکیل باتجربه و کارکشته است. مهاجرت با پناهندگی می تواند خطرات زیادی برای شما در پی داشته باشد. به همین خاطر هم باید پیش از هر اقدامی، مشورت های لازم در این زمینه را انجام دهید.\n- اثبات : به عنوان یک پناهجو باید بتوانید اثبات کنید که شما در کشور خودتان از نظر مذهبی، سیاسی و… در معرض خطر هستید و اگر مجددا به این کشور بازگردید با خطر مواجه خواهید شد. این موضوع را باید به افسر مهاجرتی ثابت کنید. در غیر این صورت امکان ریجکت شدن شما وجود دارد.\n- جمع آوری کامل مدارک : مورد و نکته بعدی در خصوص جمع اوری کردن مدارک است. باید حتما تمامی مدارکی که برای این کار نیاز دارید را جمع آوری کنید و به افسر مهاجرتی تحویل دهید. اگر حتی یک بخش از مدارک را نیز نداشته باشید، نمی توانید به خوبی اقدام به این کار نمایید و احتمال ریجکت شدن شما بسیار بالا می رود.\n- داشتن صداقت : زمانی که برای مصاحبه حضوری مراجعه می کنید، حتما سعی کنید که نهایت صداقت را در صحبت با افسر مهاجرتی داشته باشید. معمولا افسران مهاجرتی توانایی این موضوع را دارند که حرف های راست و دروغ شما را به خوبی از هم تشخیص دهند.\n- برگشت به کشور : اگر بنا به هر دلیلی درخواست پناهندگی شما ریجکت شد، باید حتما به کشور خودتان بازگردید. این مسئله به این خاطر است که پس از ریجکت شدن ویزای شما، ماندن شما در فرانسه غیر قانونی است و می تواند دردسرها و مشکلات زیادی را برای شما به همراه بیاورد.\nمراحل مهاجرت به فرانسه از طریق پناهندگی\nگاهی اوقات بنا به دلایل سیاسی، مذهبی و… افراد نمی توانند دقیقا این مراحل را طی کنند. با این وجود بهتر است مراحل این کار را بدانید و تا جایی که امکان دارد این مراحل را رعایت کنید.\nاطلاع از شرایط پناهندگی\nاولین نکته مربوط به دانستن تمامی شرایط پناهندگی در کشور فرانسه است. حتما در ابتدا بدانید که پناهجویان در کشور فرانسه چه شرایطی دارند و چگونه می توانید این شرایط را به نحو احسن به نفع خودتان استفاده کنید. گاهی اوقات یک شرایط یا موقعیت می تواند سبب شود که شما به طور کلی از انتخاب این روش پشیمان شوید.\nاما به طور کلی اگر بخواهیم بگوییم، بر اساس کنوانسیون ژنو، اگر فردی در کشور خودش بنا به یک سری از دلایل همچون مسائل مذهبی، نژادی، ملیتی، عقاید سیاسی و… در معرض خطرات جدی قرار بگیرد، می تواند درخواست پناهندگی را بدهد.\nتهیه مدارک\nپس از آن که به طور کامل شرایط و مدارک را بررسی کردید، باید بدانید که تهیه کردن مدارک نیز اهمیت بسیار زیادی دارد. تهیه کردن مدارک می تواند شامل پاسپورت، مدارک و ادله ای که اثبات آزار دیدن شما را می کند، مدارک مربوط به سفرتان به فرانسه و… شود.\nطی کردن مراحل درخواست پناهندگی\nزمانی که تمامی مدارک و موارد را فراهم کردید، باید به سراغ طی کردن مراحل درخواست پناهندگی بروید. چندین مرحله برای این کار وجود دارد. در ابتدا باید وارد خاک فرانسه شوید. پس از وارد شدن به خاک این کشور بلافاصله لازم است تا به اداره مهاجرت فرانسه مراجعه کنید و مدارک مربوط به پناهندگی خودتان را به آن ها ارائه کنید. پس از ارائه دادن مدارک مربوط به پناهندگی با یک افسر مهاجرتی صحبت خواهید کرد و درخواست شما بررسی می شود.\nطی کردن مدت زمان درخواست پناهندگی\nمورد و نکته بعدی در خصوص طی کردن مدت زمانی است که به دنبال بررسی پرونده شما مورد نیاز است. این موضوع ممکن است بین چند ماه تا حتی چند سال نیز طول بکشد. در تمام طول این مدت فرد باید در مرکزی که برای پناهجویان ترتیب داده شده است، زندگی کند.\nخطرات و ریسک های سفر به فرانسه\nمهاجرت به فرانسه از طریق پناهندگی یک سری ریسک ها و معایب را با خودش به همراه دارد. اگر قصدتان برای این کار جدی است، بهتر است خطرات مربوط به این موضوع را نیز بدانید.\nشرایط زندگی پناهجویان\nدر تمام طول مدتی که قرار است پرونده پناهجویی شما بررسی شود، باید در اقامتگاههای مشخص شده توسط دولت زندگی کنید. گاهی اوقات این پناهگاه ها شرایط خوبی ندارند و همین مسئله می تواند دردسرساز شود.\nاحتمال ریجکتی\nباید خودتان را به خاک فرانسه برسانید و سپس درخواست پناهندگی بدهید. گاهی اوقات درخواست افراد ریجکت می شود. در چنین شرایطی فرد می تواند شرایطی حتی بدتر از قبل را تجربه کند.\nشرایط زندگی سخت\nفردی که مهاجرت به فرانسه را از طریق پناهندگی انتخاب کرده باشد، حتی پس از پذیرفته شدن درخواست پناهندگی او، باید زندگی اش در کشور فرانسه را از صفر شروع کند. این موضوع می تواند دردسرهای زیادی داشته باشد و فرد را با مشکلات زیادی روبرو کند.\nکلام پایانی\nمهاجرت به فرانسه از طریق پناهندگی را می توانید خودتان انجام دهید و یا حتی می توانید این کار را با کمک و مشورت موسسات مهاجرتی انجام دهید. اگر قصد دارید تا این فرایند اقامت در فرانسه را به دقت طی کنید و در نهایت نیز نتایج خوبی از این مسئله بگیرید، حتما در نظر داشته باشید که مهاجرت از طریق پناهندگی نیاز به دقت زیادی دارد و پیش از هر تصمیم و عکس العملی حتما تمامی جوانب مثبت و منفی را بسنجید. موسسه مهاجرتی ما تمامی این کارها را به نحو احسن می تواند برای شما انجام دهد.",
+      "image_captions": [
+        "مهاجرت به فرانسه از طریق پناهندگی",
+        "شرایط درخواست ویزای دیجیتال نود اسپانیا",
+        "اثبات توانایی مالی در روش دیجیتال نومد اسپانیا",
+        "هزینه های زندگی دانشجویی در قرانسه",
+        "بهترین دانشگاه های کانادا برای پزشکی"
+      ]
+    }
+  ],
+  "evidence_count": 3,
+  "crawled_at": "2026-04-23T17:21:40.888277+00:00"
+}

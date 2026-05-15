@@ -1,0 +1,61 @@
+{
+  "sample_id": "false_150",
+  "image_url": "https://i0.wp.com/www.opindia.com/wp-content/uploads/2020/03/farmer-samadhi.jpeg?fit=1200%2C749&ssl=1",
+  "visual_entities": [
+    {
+      "description": "Sand",
+      "score": 1.0695001
+    },
+    {
+      "description": "Rock",
+      "score": 0.5364
+    },
+    {
+      "description": "Jaipur",
+      "score": 0.4768005
+    },
+    {
+      "description": "Beach",
+      "score": 0.3967
+    },
+    {
+      "description": "Nindar",
+      "score": 0.37026003
+    },
+    {
+      "description": "Silicon dioxide",
+      "score": 0.3521
+    }
+  ],
+  "best_guess_labels": [
+    "sand"
+  ],
+  "similar_image_urls": [
+    "https://www.opindia.com/wp-content/uploads/2020/03/farmer-samadhi.jpeg",
+    "https://www.opindia.com/wp-content/uploads/2020/03/farmer-samadhi-696x434.jpeg"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.pbslearningmedia.org/resource/93d3137b-d106-49bf-a3d1-607f26f5bd22/the-amazing-life-of-sand/",
+      "page_title": "The Amazing Life of Sand | Deep Look | PBS LearningMedia",
+      "title": "The Amazing Life of Sand | Deep Look | Grades 6-8, 9-12 Rock Cycle Teaching and Lesson Resources",
+      "description": "There's a story in every grain of sand: tales of life and death, fire and water. If you scooped up a handful of sand from every beach, you'd have a history of the world sifting through your fingers. From mountain boulders to the shells of tiny ocean creatures, follow the journey that sand takes through thousands of years across entire continents to wind up stuck between your toes.",
+      "text": "Loading...",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.opindia.com/2020/03/rajasthan-farmers-samadhi-bury-neck-deep-protests-congress/",
+      "page_title": "Rajasthan farmers take 'samadhi', bury themselves neck-deep in ...",
+      "title": "Rajasthan farmers take 'samadhi', bury themselves neck-deep in ground to protest",
+      "description": "Farmers in Nindar village in Rajasthan 'buried' themselves neck-deep in ground and took a 'samadhi' on Sunday to protest against land acquisition by Jaipur Development Authority (JDA) for a housing project. | OpIndia News",
+      "text": "Farmers in Nindar village in Rajasthan ‘buried‘ themselves neck-deep in ground and took a ‘samadhi’ on Sunday to protest against land acquisition by Jaipur Development Authority (JDA) for a housing project. As per reports, the farmers have been demanding that their land is acquired as per the amended provisions of the Land Acquisition Act and they are given compensation accordingly.\nAs many as 21 farmers, including five women took the ‘samadhi’. Earlier, the farmers had called ‘Zameen Samadhi Satyagraha’ in January but called off the protests after four days as Congress-led government in Rajasthan promised they would address the concerns in 50 days’ time. The farmers say that the Congress had earlier supported their protests but hasn’t agreed to their demands once forming the government.\nIn October 2017, too, the farmers had protested against land acquisition by JDA and even went on a hunger strike.\nAs per reports, the JDA took possession of 600 bighas of land and deposited Rs 60 crore in local court as compensation. However, the villagers refused to accept the amount stating that it is not commensurate with the current market price. The scheme was announced back in 2011 where about 10,000 houses were to be built.",
+      "image_captions": [
+        "Farmers in Rajasthan take 'samadhi' and bury themselves neck-deep in ground (image: thehindu.com)",
+        "Join OpIndia's official WhatsApp channel",
+        "Subscribe to OpIndia newsletter"
+      ]
+    }
+  ],
+  "evidence_count": 2,
+  "crawled_at": "2026-04-23T17:35:19.029428+00:00"
+}

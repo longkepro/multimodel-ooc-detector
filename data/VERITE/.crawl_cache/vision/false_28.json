@@ -1,0 +1,128 @@
+{
+  "sample_id": "false_28",
+  "image_url": "https://thumbnails.cbc.ca/maven_legacy/thumbnails/877/275/Reunion_airport.jpg?crop=1.777xh:h;*,*&downsize=510px:*510w",
+  "visual_entities": [
+    {
+      "description": "Bashar al-Assad",
+      "score": 8.478
+    },
+    {
+      "description": "2024 Syrian opposition offensives",
+      "score": 0.75915
+    },
+    {
+      "description": "",
+      "score": 0.7466
+    },
+    {
+      "description": "Fall of the Assad regime",
+      "score": 0.5709
+    },
+    {
+      "description": "Syrian opposition",
+      "score": 0.5389
+    },
+    {
+      "description": "Damascus International Airport",
+      "score": 0.5370585
+    },
+    {
+      "description": "Ahmed al-Sharaa",
+      "score": 0.51645
+    },
+    {
+      "description": "Russia",
+      "score": 0.4206
+    },
+    {
+      "description": "Refugee",
+      "score": 0.3665
+    },
+    {
+      "description": "Family",
+      "score": 0.3168
+    },
+    {
+      "description": "",
+      "score": 0.3168
+    },
+    {
+      "description": "Syrians",
+      "score": 0.3123
+    }
+  ],
+  "best_guess_labels": [
+    "syria reunion"
+  ],
+  "similar_image_urls": [
+    "https://i.cbc.ca/ais/1.3360255,1717180258174/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
+    "https://i.cbc.ca/ais/1.3360255,1717180258174/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D620"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.cbc.ca/news/canada/british-columbia/family-interrupted-syrian-refugees-story-of-torture-imprisonment-and-reunion-in-canada-1.3423981",
+      "page_title": "Family interrupted: Syrian refugees' story of torture, imprisonment ...",
+      "title": "\"I haven't woken up from the dream yet\": A family torn apart by Syria and reunited in Canada | CBC News",
+      "description": "When Yasin and Mamon AlHomsi embraced at YVR late last year, their tearful hug lasted more than a minute. Here's the story of imprisonment, torture and 15 years of separation that explains the joy of that reunion.",
+      "text": "Family interrupted: Syrian refugees' story of torture, imprisonment and reunion in Canada\nIt was a tearful, minute-long hug at Vancouver International Airport that was watched around the world.\nSyrian refugees Yasin and Majd Alhomsi were reunited with their father, Mamon Alhomsi, after 15 years of seperation.\n\"I don't have any words [that] can express this feeling,\" Yasin said at the time.\nSince that emotional December day, Yasin and Mamon have found their words. They recently sat down with CBC to tell their story of heartbreak, torture, imprisonment and love.\n1990: A year of big dreams\nIn 1990, anything seemed possible for Mamon Alhomsi. He had a new baby boy, Yasin, and he was elected an independent MP in Syria.\nMamon's political activism has earned him international attention: former U.S. President George W. Bush has described him as among the \"innocent advocates for a free Syria\".\n2001: The dream ends\nBut his views also earned him the ire of the Syrian regime.\nIn 2001, Mamon was arrested, and, along with another parliamentarian, eventually convicted of \"attempting to change the constitution by illegal means\" and \"inciting racial and sectarian strife,\" according to Human Rights Watch.\nWhen Mamon was released five years later, he feared for his life, and made the difficult decision to flee Syria.\n\"At around 3 a.m. I gathered my family members around,\" he said.\n\"Some of them I kissed while they were sleeping and I said goodbye to the older ones and left.\"\nYasin's voice falters when he recalls that night.\n\"I didn't see my father. Because I was asleep. It's very difficult when you wake up and you didn't see your hero.\"\n2011: History repeats itself\nIn November 2011, on his way home from university, Yasin was apprehended at a police checkpoint. He says he was blindfolded, handcuffed and taken to prison.\nIt was the beginning of a seven-month ordeal, during which Yasin says he was repeatedly interrogated and tortured.\nHe recalls his feet and legs being beaten with sticks.\n\"I cannot walk the first two months [unless] somebody helped me stand up.\"\nHe says the guards insisted that his father was giving him money to spread anti-government messages, or that he was a student leader in the university.\nMamon, who by this time had arrived in Canada as a refugee, learned of his son's disappearance.\n\"It was enormous pain. But I knew that when I clashed with the regime my entire family would be endangered.\"\n2012: A precarious freedom\nYasin couldn't believe it when he was finally dropped off at his mother's home.\nAnd at first, she didn't recognize her son — he'd lost about 50 kg (110 pounds) in prison, and his hair was shorn.\nYasin had been warned not to contact his father, but within an hour, he picked up the phone.\nThere was silence at the other end.\n\"I thought, it's maybe a problem in the cellular company,\" Yasin says. \"But after the two times, three times, he cannot talk.\"\n\"I was so happy when I was speaking to him I just couldn't express myself,\" explained Mamon. \"I just wanted to hear his voice, to believe that he is actually back home.\"\nThough he was free, Yasin lived under the constant threat of arrest and military service, amidst a worsening civil war.\nMeanwhile, Mamon was fighting for his sons to join him in Canada.\nHe says he was told it would take a few months. It took five years.\n2015: Together at last\nWhen Yasin and his brother Majd finally arrived at Vancouver International Airport on Dec. 10, 2015, their father was waiting for them.\nSo were their half-siblings Mustafa, 9, and Mariam, 4, who were born after Mamon fled Syria, and so had never met their older brothers.\nThat night, all four siblings slept on the floor of their small Burnaby apartment.\nYasin says he \"cannot believe\" the \"wonderful\" feeling of waking up next to his family.\n2016: Daring to dream again\nYasin and Majd have a long road ahead to build their lives in Canada.\nThey are enrolled in English courses at Vancouver Community College, and have begun a youth employment program through Work B.C.\nYasin says he'd eventually like to do a Master's degree in Finance.\nAs for his painful history, he says he's too happy now to dwell on the past.\n\"When I see my father, I forget a lot of things. A lot of bad things happened to me,\" he says.\nAnd two months after his sons arrived, Mamon says he feels like they've only been here for an hour.\n\"I haven't woken up from the dream yet.\"\nTo hear the full audio, click the link labelled: Finding refuge: a story of heartbreak, torture, imprisonment and love.\nWith translation help from Nihal Elwan",
+      "image_captions": [
+        "Yasin Alhomsi was born in 1991, the same year his father Mamon Alhomsi was elected an independent MP in Syria.(Handout)",
+        "Yasin Alhomsi says his friends used this image on their Facebook profiles after he was imprisoned in Syria in 2011.",
+        "Yasin Alhomsi says when he was released from seven months of prison in Syria, his family didn't recognize him. He'd lost about 50 kilograms.(Handout)",
+        "Mamon Alhomsi (left) cries with joy as he reunites with his sons at YVR.(CBC)",
+        "Yasin Alhomsi, centre, recently celebrated his 26th birthday with, from left, his father, Mamon, and his siblings Mustafa, Mariam and Majd.(Handout)"
+      ]
+    },
+    {
+      "url": "https://www.dw.com/en/syrians-imprisoned-under-assad-reunite-with-families/video-71208360",
+      "page_title": "Syrians imprisoned under Assad reunite with families - DW.com",
+      "title": "Syrians imprisoned under Assad reunite with families",
+      "description": "Under Bashar Assad, thousands disappeared into Syria's prison system. After a lightning rebel offensive toppled the regime, some Syrians were reunited with friends and family who had been detained for years.",
+      "text": "[Video transcript]\nA family reunited. Father, mother and son kept apart for years by a brutal regime. That brutality echoes here in their home in Damascus.\nMohamad al-Beek: \"I do not forgive them (the regime). Why would I forgive them? They treated us like animals, I hated going to visit my own son.\"\nZahra Askari: \"When he called me so his father could go pick him up, I could not believe it. They told me, 'It is your son, Ali.' I could not believe it.\"\nBashar al-Assad's authorities arrested Ali for deserting the Syrian Army, he tells us. They accused him of terrorism, he says, because he refused to attack fellow citizens.\nAli al-Beek, former prisoner under Assad regime: \"I could not do it. Syrians are my brothers, we are one people. The regime wanted me to stay with them and kill my people or be accused of what they accused me of. I left the regime when I saw what the regime was doing to the people. What did they do? They were asking for freedom. Some in the military shot back, some didn’t. I left because they forced me to beat and arrest people. I did not want to do that. My crime is that I walked away.\"\nFor that, they sentenced Ali to 20 years in the notorious Saydnaya prison.\nHe tells us they tortured him to the point where he wanted to die.\nWhen, in December, rebels overthrew the Assad regime, they opened the prison and freed those inside.\nAli al-Beek: \"We heard the sound of gunfire. We thought the army had come in to kill us. We started hiding and moving away from the door. Suddenly the door opened. They said, 'God is great. Bashar al-Assad has fallen and you are free.'\"\nElsewhere in Damascus, at a hospital morgue, Syrians gather looking for traces of loved ones who will not come home.\nFirst woman: \"He was arrested in 2017 and has not appeared yet. When we ask about him, they say 'we do not have him.' They do not tell us if he is imprisoned or not, nothing. We are waiting for him to come up, we hope.\"\nSecond woman: \"Motaz Adnan al-Qassar, this is the last photo of him. He got himself a passport and wanted to flee but someone reported him.\"\nThird woman: \"Isn't this a sin? She was just 35 years old. She had no children, no one, no family.\"\nAs Ali starts his new life in new Syria, he knows that he is lucky.\nHe says he wants justice for those who did not have his good fortune.",
+      "image_captions": [
+        "protesters in the US carrying placards saying No war on Iran and Stop bombing Iran",
+        "US President Donald Trump speaks in the State Dining Room of the White House in Washington, DC, US, on Tuesday, April 21, 2026.",
+        "Israel's Ambassador to Germany, Ron Prosor, speaks to DW. In the background, a German and an Israeli flag can be seen.",
+        "Split-screen composition with two separate portraits placed side by side, both depicting individuals wearing camouflage military-style uniforms.\nLeft side:\nThe left image shows a person outdoors in a forested environment. Snow or frost is visible on the ground and trees in the background, suggesting cold weather. The individual is wearing a camouflage jacket, a protective helmet or head covering, and a communication headset. The clothing appears bulky and layered, consistent with winter field conditions. The background is slightly blurred but clearly shows trees and a natural setting.\nRight side:\nThe right image shows another person indoors, standing against a plain, light-colored wall. This individual is also wearing a camouflage uniform, but without visible protective gear such as a helmet. The lighting is even and artificial, typical of an indoor setting. The uniform is clearly visible from the chest upward.",
+        "European Union foreign policy chief Kaja Kallas, second right, speaks with European foreign ministers during a meeting in Luxembourg."
+      ]
+    },
+    {
+      "url": "https://www.cbc.ca/news/canada/british-columbia/syrian-refugee-canada-1.3890270",
+      "page_title": "Syrian refugee reflects on first year in Canada | CBC News",
+      "title": "Syrian refugee reflects on first year in Canada | CBC News",
+      "description": "One year ago, Yasin Alhomsi arrived in Vancouver as a refugee from Syria. He was reunited with a father he had not seen in 15 years. Now, he's reflecting on the big changes that year has held for him.",
+      "text": "Syrian refugee reflects on first year in Canada\n'It's been a big dream for us to be together again in this great country'\nOne year ago today Yasin Alhomsi arrived in Vancouver as a refugee from Syria.\nAlhomsi had been imprisoned and tortured in his home country, as his father had been before him.\nBut now, Yasin, his brother, Majd, and father, Mamon, are together again after 15 years of being apart.\n- Syrian refugee celebrates 'amazing' 1st Canada Day in B.C.\n- Syrian refugees find work against the odds\n- Family interrupted: Syrian refugees' story of torture, imprisonment and reunion in Canada\n\"It's been a big dream for us to be together again in this great country,\" Yasin Alhomsi told On The Coast host Stephen Quinn. \"Now, I feel like it's the time to move on now.\"\nMamon Alhomsi was a politician opposed to the Assad regime and convicted of \"attempting to change the constitution by illegal means\" and \"inciting racial and sectarian strife.\"\nHe was imprisoned for five years in 2001 and fled to Canada after being released.\nWhen Yasin and Majd and their father were reunited in Canada on Dec. 10, 2015, it was an emotional moment.\nYasin thinks often of the people he has left behind in Syria. His mother and sister are still in Dasmascus.\n\"When I turn on here, the heater, because we have electricity,\" he said. \"[My mother] told me, 'it's very cold here, we don't have heaters, we don't have electricity, we don't have fuel.'\n\"I feel, like, guilty. I hope all of them [can] find something safe or a stable life, like me.\"\nYasin has spent the past year working at an electronics wholesaler's in Richmond. He's been able to work his way up to being an account manager in that time.\n\"I actually believed in myself and believed that in this country, … all people [have] equal opportunities,\" he said.\nWith files from CBC Radio One's On The Coast\nTo hear the full story, click the audio labelled: Syrian refugee reflects on first year in Canada",
+      "image_captions": [
+        "Syrian refugee Yasin Alhomsi (far right) celebrates his first Canada Day. He arrived in Vancouver one year ago after being separated from his father Mamon Alhomsi (centre) and siblings for nearly 15 years.(Bal Brach/CBC News)",
+        "It's been a big year in the life of Yasin Alhomsi and his family.(CBC)"
+      ]
+    },
+    {
+      "url": "https://www.cbc.ca/news/canada/british-columbia/bc-refugees-reunited-1.3360173",
+      "page_title": "Syrian refugee family reunited in Vancouver after more than 10 ...",
+      "title": "Syrian refugee family reunited in B.C. after more than 10 years apart | CBC News",
+      "description": "A Syrian man who has been waiting more than 10 years for his sons to join him in Canada had a tearful reunion with them at Vancouver International Airport on Thursday.",
+      "text": "Syrian refugee family reunited in Vancouver after more than 10 years apart\nIt was a tearful reunion for former Syrian MP Mamon Alhomsi and his two sons\nA Syrian man who has been waiting five years for his sons to join him in Canada was finally reunited with them on Thursday.\n\"It's been a long time since I've expressed any feelings of happiness,\" said Mamon Alhomsi. \"The Syrian dictatorship had wronged us for many years.\"\nAs soon as Alhomsi's sons, 25 year-old Yaseen and 23 year-old Majd, saw their father at the airport, they dropped their bags and ran to him, embracing the man they hadn't seen in more than 10 years.\nAlhomsi was an independent MP in Syria. He came to Vancouver in 2010 after the current Syrian regime arrested him and put him in jail for about five years.\nHe was told his sons would be able to join him soon after he arrived, but he said their refugee applications were held up by Ottawa. He said has been fighting to bring them here ever since he arrived, and that they had been physically abused and arrested in Syria just by virtue of being his sons.\n\"All Syrian people live an unfair life, and hope to finish this war,\" said Yaseen Alhomsi.\nThe sons also got to meet their half-brother Mustufa, 9, and half-sister Mariam, 4, whom they had never met because they were born after their father fled Syria.\nMamon Alhomsi said every time his young children saw a plane fly by, they asked if their brothers were in it. And when they found out their brothers were actually coming, they jumped up and down on the couch so hard that it broke.\n'Please help us'\nSons and father alike had a definitive message they wanted to share with the citizens of their new country.\n\"Please help us, help Syrians reunite with their families,\" said Mamon Alhomsi. \"It's something that we really need.\"\n\"Syrian people is a very good people ... We do not host any extreme ideas. We are moderates. We love life. Do not be afraid of Syrian people.\"\nMamon Alhomsi said he has gotten excellent support from social service agencies and his fellow Burnaby residents since his arrival.\n\"It really feels like Syria here, because of all the diversity that exists,\" he said. \"When I first moved to Burnaby, I felt like it was Damascus.\"\nAs many as 400 Syrian refugees are expected to arrive in B.C. by the end of the month, and another 1,500 are expected by the end of February.\nWith files from Catherine Rolfsen and Bal Brach",
+      "image_captions": [
+        "Mamon Alhomsi was an independent MP in Syria and was jailed for five years before he fled.(Mike McArthur/CBC)",
+        "Mustufa, 9, Mariam, 4, were very excited to meet their half-brothers from Syria for the first time.(Mike McArthur/CBC)",
+        "Yasin Alhomsi arrived in Canada as a Syrian refugee in 2015. He has mixed feelings about the missile attack in Syria by the U.S. government.(CBC)"
+      ]
+    },
+    {
+      "url": "https://www.aljazeera.com/video/witness/2025/3/19/rebuilding-syria-life-after-the-fall-of-the-assad-regime",
+      "page_title": "Rebuilding Syria: Life After the Fall of the Assad Regime - Al Jazeera",
+      "title": "Rebuilding Syria: Life After the Fall of the Assad Regime",
+      "description": "After al-Assad's fall, Alaa Yahya leads a humanitarian effort in Damascus to rebuild and reunite Syria.",
+      "text": "Rebuilding Syria: Life After the Fall of the Assad Regime\nAfter al-Assad’s fall, Alaa Yahya leads a humanitarian effort in Damascus to rebuild and reunite Syria.\nAfter years of displacement, Alaa Yahya returns to Damascus to rebuild his community, long neglected under the now-toppled al-Assad regime. But his return is bittersweet – he’s exhausted after 14 years of humanitarian work and unsure about his future.\nHaunted by memories of loss, Alaa recruits volunteers, works with local teams, and searches for a new office for his operations. As Alaa works to rebuild Syria, he strives to unite the people and heal his own wounds. But the journey ahead is uncertain. Can Alaa help lay the groundwork for change?\nRebuilding Syria is a documentary film by Abdulrahman Alkilany, Siraj Albasha, and Hamza Ateka.\nPublished On 19 Mar 2025",
+      "image_captions": [
+        "A Song for My Land - Witness Documentary",
+        "Child of Dust | Witness Documentary",
+        "Al Jazeera Media Network logo"
+      ]
+    }
+  ],
+  "evidence_count": 5,
+  "crawled_at": "2026-04-23T16:53:18.692923+00:00"
+}

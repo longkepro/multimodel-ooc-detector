@@ -1,0 +1,105 @@
+{
+  "sample_id": "false_79",
+  "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/220802024926-01-nancy-pelosi-in-malaysia.jpg?c=original",
+  "visual_entities": [
+    {
+      "description": "John Powell",
+      "score": 9.5789995
+    },
+    {
+      "description": "Andy Mineo",
+      "score": 8.484
+    },
+    {
+      "description": "Music video",
+      "score": 0.7227
+    },
+    {
+      "description": "Future: Government Official",
+      "score": 0.711
+    },
+    {
+      "description": "",
+      "score": 0.6227
+    },
+    {
+      "description": "YouTube",
+      "score": 0.6227
+    },
+    {
+      "description": "Streaming media",
+      "score": 0.5855
+    },
+    {
+      "description": "Government Official",
+      "score": 0.557
+    },
+    {
+      "description": "Perfect Government",
+      "score": 0.5038
+    },
+    {
+      "description": "Sony Music Entertainment",
+      "score": 0.4997
+    },
+    {
+      "description": "New Kids On The Block",
+      "score": 0.4612
+    },
+    {
+      "description": "YouTube",
+      "score": 0.4396
+    }
+  ],
+  "best_guess_labels": [
+    "official"
+  ],
+  "similar_image_urls": [
+    "https://media.cnn.com/api/v1/images/stellar/prod/220802024926-01-nancy-pelosi-in-malaysia.jpg?c=original",
+    "https://static.dw.com/image/62680572_804.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.cnn.com/2022/08/01/politics/nancy-pelosi-taiwan-visit",
+      "page_title": "Pelosi expected to visit Taiwan, Taiwanese and US officials say - CNN",
+      "title": "Pelosi expected to visit Taiwan, Taiwanese and US officials say | CNN Politics",
+      "description": "US House Speaker Nancy Pelosi is expected to visit Taiwan as part of her tour of Asia, according to a senior Taiwanese government official and a US official, despite warnings from Biden administration officials, who are worried about China’s response to such a high-profile visit.",
+      "text": "US House Speaker Nancy Pelosi is expected to visit Taiwan as part of her tour of Asia, according to a senior Taiwanese government official and a US official, despite warnings from Biden administration officials, who are worried about China’s response to such a high-profile visit.\nThe stop – the first for a US House speaker in 25 years – is not currently on Pelosi’s public itinerary and comes at a time when US-China relations are already at a low point.\nThe Taiwanese official added that she is expected to stay in Taiwan overnight. It is unclear when exactly Pelosi will land in Taipei.\nThe US official added that Defense Department officials are working around the clock on monitoring any Chinese movements in the region and securing a plan to keep her safe.\nPelosi arrived in Singapore on Monday for the first official stop of the Asia tour, where she met with the country’s president, prime minister and other top officials.\nOn Tuesday, Malaysia’s state media Bernama confirmed that Pelosi and a congressional delegation had arrived in the country and were scheduled to meet with the prime minister and parliament speaker.\nThe delegation’s itinerary includes stops in South Korea and Japan, but no official mention has been made of a visit to Taiwan.\nDuring a regular foreign ministry briefing Monday, China warned against the “egregious political impact” of Pelosi’s planned visit to the self-governing island that China claims as a part of its territory and reiterated that its military “won’t sit by idly” if Beijing feels its “sovereignty and territorial integrity” is being threatened.\n“We would like to tell the US once again that China is standing by, and the Chinese People’s Liberation Army will never sit idly by. China will take resolute responses and strong countermeasures to defend its sovereignty and territorial integrity,” Foreign Ministry spokesman Zhao Lijian told reporters, when asked about the fallout from Pelosi leading a congressional delegation to Taipei.\n“As for what measures, if she dares to go, then let’s wait and see,” Zhao added.\nThough China’s military did not mention Taiwan, the People’s Liberation Army’s Eastern Theater Command said it would “bury incoming enemies” in a video posted online Monday showing off its weaponry and fighting tactics. “Firmly stand by and ready for the fighting command; Bury all incoming enemies,” a message posted on Weibo said.\nSecretary of State Antony Blinken reiterated the administration’s line that it is Pelosi’s decision whether she visits, adding, “we do not know what Speaker Pelosi intends to do.”\n“Congress is an independent, coequal branch of government,” Blinken said at the United Nations on Monday afternoon. “The decision is entirely the Speaker’s.”\nBlinken said that such a visit has precedent, noting past speakers and members of Congress have visited Taiwan.\n“And so if the speaker does decide to visit and China tries to create some kind of crisis or otherwise escalate tensions, that would be entirely on Beijing,” Blinken said. “We are looking for them, in the event she decides to visit, to act responsibly and not to engage in in any escalation going forward.”\nNational Security Council coordinator for strategic communications John Kirby earlier on Monday that the Biden administration will support Pelosi on a trip to Taiwan.\n“We want to make sure that when she travels overseas, she can do so safely and securely and we’re going to make sure of that. There is no reason for the Chinese rhetoric. There is no reason for any actions to be taken. It is not uncommon for congressional leaders to travel to Taiwan,” Kirby told CNN’s Brianna Keilar on “New Day.”\n“We shouldn’t be as a country – we shouldn’t be intimidated by that rhetoric or those potential actions. This is an important trip for the speaker to be on and we’re going to do whatever we can to support her,” Kirby continued.\nAsked if the US was prepared for fallout with China over the visit, Kirby said that “there is no change to our policy. No change to our focus on trying to keep a free and safe and open Indo-Pacific.”\nThe issue of Taiwan remains one of the most contentious. President Joe Biden and his Chinese counterpart Xi Jinping discussed it at length in a two-hour-and-17-minute phone call on Thursday, as tensions mounted between Washington and Beijing.\n“The question of Taiwan is the most sensitive, important core issue in China-US relations,” said Chinese Ambassador to the US Qin Gang at the Aspen Security Forum in July.\nWhile Biden has said publicly the US military did not believe it was a good time Pelosi to visit Taiwan, he has stopped short of telling her directly not to go, according to two sources.\nAdministration officials have worked over recent weeks to apprise the House speaker of the risks of visiting the democratic, self-governing island of 24 million residents, including in briefings from Pentagon and other administration officials. But Biden did not believe it was his place to tell her she should not go, and he has avoided commenting publicly about her trip since his initial statement on July 21.\nBiden said last month that the US military opposed Pelosi visiting Taiwan, though since then has refused to elaborate on the warnings. The White House has said it is up to the House speaker where she travels.\nStill, Defense Secretary Lloyd Austin recently said he’d discussed a visit to Asia with Pelosi.\nThe administration takes extra care for Pelosi’s security when she travels overseas because she is in the presidential line of succession.\nAdministration officials are concerned Pelosi’s trip comes at a particularly tense moment, as Xi is expected to seek an unprecedented third term at the upcoming Chinese Communist Party congress. Chinese party officials are expected to begin laying the groundwork for that conference in the coming weeks, putting pressure on the leadership in Beijing to show strength.\nOfficials also believe the Chinese leadership doesn’t completely grasp the political dynamics in the United States, leading to a misunderstanding over the significance of Pelosi’s potential visit. The officials say China may be confusing Pelosi’s visit with an official administration visit, since she and Biden are both Democrats. Administration officials are concerned that China doesn’t separate Pelosi from Biden much, if at all.\nPelosi has long been a critic of the Chinese Communist Party. She has met with pro-democracy dissidents and the Dalai Lama – the exiled Tibetan spiritual leader who remains a thorn in the side of the Chinese government. In 1991, Pelosi unfurled a black-and-white banner in Beijing’s Tiananmen Square to commemorate victims of the 1989 massacre, which said, “To those who died for democracy.” In recent years, she voiced support for the pro-democracy protests in Hong Kong.\nThe Chinese embassy to the United States has objected to her expected trip, which was planned for April before Pelosi tested positive for Covid-19, urging members of Congress to tell the speaker not to make it.\n“I would say there’s been a full-court press from the Chinese embassy to discourage a trip to Taiwan,” Washington Democratic Rep. Rick Larsen, the co-chair of Congress’ US-China working group, told CNN. “I just don’t think it’s their business to tell us what we ought to be doing. That was my message back.”\nLiu Pengyu, spokesperson of the Chinese Embassy in the US, responded that his office is in “regular contact” with members of Congress, including Larsen.\n“On the Taiwan question, we have made our stance loud and clear,” Pengyu said. “The Embassy is making all our efforts to prevent the peace and stability across the Taiwan Strait and the stability of China-US relations being damaged by the potential visit of House Speaker Nancy Pelosi to Taiwan.”\n“We hope serious consequences could be avoided,” he added. “This is in the common interests of both China and the US.”\nMany Democrats and Republicans in Congress said it was Pelosi’s right to travel to Taiwan.\n“It is Speaker Pelosi’s decision alone on whether or not to travel to Taiwan, not any other country,” said Illinois Republican Rep. Darin LaHood, Larsen’s Republican counterpart on the US-China working group. “In our democratic system – we operate with separate but equal branches of government.”\n“It is inappropriate for foreign governments, including the Chinese government, to attempt to influence the ability or the right to travel for the speaker, members of Congress, or other US government officials to Taiwan or anywhere else around the world,” he added.\nOther members appeared to be more cautious about the diplomatically sensitive trip.\nCalifornia Democratic Rep. Judy Chu, the first Chinese American woman elected to Congress, said she has “always supported Taiwan.”\nBut when asked whether a Taiwan trip now would send the wrong message, Chu said, “You could look at it two ways. One is that the relationships are very strained right now. But on the other hand, you could say maybe that’s when Taiwan also needs to be shown the strength and the support.”\nWhen asked what she thought, she said, “I leave it up to those who are going to make that decision.”\nThis story has been updated with additional details Monday.\nCNN’s Jennifer Hansler, Nectar Gan, Yong Xiong, Hannah Ritchie, Chandelis Duster and Betsy Klein contributed to this report.",
+      "image_captions": [
+        "Fathin Suhaira/Bernama",
+        "Saul Loeb/AFP/Getty Images",
+        "Mohd Fyrol/Singapore Ministry of Communications and Information/AP",
+        "Alex Wong/Getty Images",
+        "China military Nancy Pelosi visit Taiwan ripley pkg intl hnk vpx_00004320.png"
+      ]
+    },
+    {
+      "url": "https://www.dw.com/zh-hant/%E4%BD%A9%E6%B4%9B%E8%A5%BF%E8%A8%AA%E5%8F%B0-%E4%B8%AD%E5%9C%8B%E7%B6%B2%E6%B0%91%E9%80%99%E9%BA%BC%E8%AA%AA/a-62682499",
+      "page_title": "佩洛西訪台中國網民這麼說 - DW.com",
+      "title": "佩洛西訪台 中國網民這麼說",
+      "description": "美國眾議院議長佩洛西是否會在本周二到訪台灣引起外界的高度關注，這也成了中國網民的熱議話題。有人高呼「統一中國」之時，也有人反對訴諸武力。至於北京對佩洛西赴台可能採取什麼樣的反制措施，民眾也議論紛紛。",
+      "text": "佩洛西訪台 中國網民這麼說\n2022年8月2日（德國之聲中文網）美國眾議院議長佩洛西此次亞洲之行可能到訪台灣，引發北京的強烈反對。本周二（8月2日），中國外交部發言人華春瑩表示，我們堅決反對「台獨」分裂和外部勢力干涉，絕不為任何形式的「台獨」勢力留下任何空間。就在昨日，八一建軍節的當天，中國外交部發言人趙立堅表示「如果她敢去，那就讓我們拭目以待」。中國官媒人民日報報導，趙立堅說：「我們要再次正告美方，中方正嚴陣以待，中國人民解放軍絕不會坐視不管……如果佩洛西眾議長訪問台灣，必將採取堅決應對和有力的反制措施捍衛自身的主權和領土完整，至於是什麼措施，如果她敢去，那就讓我們拭目以待吧。」\n中國官方多次做出回應，表達中方立場。中國人民大學教授金燦榮對近幾日的說法進行了總結：\n7月19日國台辦發言人：「停止任何玩火行徑」\n7月19日外交部發言人：「一切後果必須完全由美方負責」\n7月21日外交部發言人：「我們說到做到」\n7月25日外交部發言人：「我們正嚴陣以待」\n7月26日國防部發言人：「中國軍隊絕不會坐視不管」\n7月26日駐美大使：「如果有人試圖把台灣從中國分裂出去，如果有人執意挑戰中方底線，中國軍隊必將釆取堅決有力措施，堅定捍衛國家主權和領土完整。」\n7月27日外交部發言人：「若美方一意孤行，必遭堅決反制」。\n根據多家媒體報導以及台灣內部匿名消息人士透露，佩洛西可能周二晚間抵台，並於隔日上午與台灣總統蔡英文見面，隨後轉赴立法院。中國《環球時報》總編輯胡錫進當天在微博上表示：「今天是個敏感時間點，傳佩洛西將在今晚竄飛台灣，挑戰一個中國原則……我堅信中國政府一定會採取包括軍事行動在內的一系列反制措施。外交部、國防部都反復表示「嚴陣以待「」絕不會坐視不管」了，國家信譽在此，怎麼能不反制？所以讓我們稍安勿躁，對接下來會發生什麼拭目以待。」 他的言論也引來大批網友留言，有人說：「這太極打的，到底還擊落不擊落了」，還有人說：「老胡，你這語氣怎麼越來越萎了，一開始是打下來，剛剛是飛機飛越，現在這說的啥玩意，支持任何反制手段。。。」，也有人調侃說到：「可以給個紅碼她就去不了」。「從來沒有這麼關心過一個陌生女人在哪過夜 」。\n從微博熱搜榜上也可以看出，佩洛西計畫訪台是中國網民的熱議話題。本周二（8月2日），與佩羅西訪台相關的多個話題登上新浪微博熱搜，排在前幾位的包括「桃園機場收到爆裂物恐嚇信」，中國駐聯合國代表張軍表示「佩洛西訪問台灣是危險的」，「佩洛西此前所乘專機起飛」。網民們也議論紛紛，有人直呼要「肯定要打了」，統一中國」，「捍衛國家主權和領土完整！」 「氣氛都到這裡了，直接收復了吧」。「 也有人表達反戰立場，表示「一群網友盡說風涼話，說什麼我們外交團沒有膽量，只會打嘴炮，你這麼能這麼勇你趕緊的現在去刺殺啊，在這扛著鍵盤幹啥呢？中國現在軍事力量很強大，但仍然盡全力不走向戰爭這一步是保護廣大人民，如果戰爭真的來了，你以為你我他每一個中國人還都能安生麼？」\n也有一些網民分析若是佩洛西在台灣落地，北京可能採取的反制措施，有人說，派軍機對佩洛西乘坐的飛機「同飛」，並用軍機繞飛她降落的機場或居住飯店，以此宣誓主權。也有人說：「佩洛西的飛機過來我們軍機進行攔截。然後她飛向日本和韓國，對我們提出抗議。我們也是堅決捍衛。這樣雙方都有面子。「 一名叫做「孫玉良」的大V認為，中美未來會有一戰，但不是現在：「現在中國若與美國開戰，斗的也不只是武器裝備，而是戰略、戰術以及克敵制勝的軍魂，武器永遠是死的，人是活的。吹牛沒用，最後的勝利才是真的。」\n(綜合報導)\n© 2022年德國之聲版權聲明：本文所有內容受到著作權法保護，如無德國之聲特別授權，不得擅自使用。任何不當行為都將導致追償，並受到刑事追究。",
+      "image_captions": [
+        "馬來西亞之後，佩洛西的下一站是否是台北？圖片來源： Fathin Suhaira Abd Rahim/BERNAMA/dpa/picture alliance",
+        "Nancy Pelosi Asienreise | Malaysia Parlamentssprecher Azhar Azizan Harun",
+        "「我們不接受國際法遭破壞，也不會接受較大的國家違反國際法欺壓較小的鄰居。——這也適用於中國。」",
+        "England | Lockdownparty | Bericht von Sue Gray"
+      ]
+    },
+    {
+      "url": "https://www.dw.com/zh/%E4%BD%A9%E6%B4%9B%E8%A5%BF%E8%AE%BF%E5%8F%B0-%E4%B8%AD%E5%9B%BD%E7%BD%91%E6%B0%91%E8%BF%99%E4%B9%88%E8%AF%B4/a-62682499",
+      "page_title": "佩洛西访台中国网民这么说 - DW.com",
+      "title": "佩洛西访台 中国网民这么说",
+      "description": "美国众议院议长佩洛西是否会在本周二到访台湾引起外界的高度关注，这也成了中国网民的热议话题。有人高呼“统一中国”之时，也有人反对诉诸武力。至于北京对佩洛西赴台可能采取什么样的反制措施，民众也议论纷纷。",
+      "text": "佩洛西访台 中国网民这么说\n2022年8月2日（德国之声中文网）美国众议院议长佩洛西此次亚洲之行可能到访台湾，引发北京的强烈反对。本周二（8月2日），中国外交部发言人华春莹表示，我们坚决反对“台独”分裂和外部势力干涉，绝不为任何形式的“台独”势力留下任何空间。就在昨日，八一建军节的当天，中国外交部发言人赵立坚表示“如果她敢去，那就让我们拭目以待”。中国官媒人民日报报道，赵立坚说：“我们要再次正告美方，中方正严阵以待，中国人民解放军绝不会坐视不管……如果佩洛西众议长访问台湾，必将采取坚决应对和有力的反制措施捍卫自身的主权和领土完整，至于是什么措施，如果她敢去，那就让我们拭目以待吧。”\n中国官方多次做出回应，表达中方立场。中国人民大学教授金灿荣对近几日的说法进行了总结：\n7月19日国台办发言人：“停止任何玩火行径”\n7月19日外交部发言人：“一切后果必须完全由美方负责”\n7月21日外交部发言人：“我们说到做到”\n7月25日外交部发言人：“我们正严阵以待”\n7月26日国防部发言人：“中国军队绝不会坐视不管”\n7月26日驻美大使：“如果有人试图把台湾从中国分裂出去，如果有人执意挑战中方底线，中国军队必将采取坚决有力措施，坚定捍卫国家主权和领土完整。”\n7月27日外交部发言人：“若美方一意孤行，必遭坚决反制”。\n根据多家媒体报道以及台湾内部匿名消息人士透露，佩洛西可能周二晚间抵台，并于隔日上午与台湾总统蔡英文见面，随后转赴立法院。中国《环球时报》总编辑胡锡进当天在微博上表示：“今天是个敏感时间点，传佩洛西将在今晚窜飞台湾，挑战一个中国原则……我坚信中国政府一定会采取包括军事行动在内的一系列反制措施。外交部、国防部都反复表示“严阵以待”“绝不会坐视不管”了，国家信誉在此，怎么能不反制？所以让我们稍安勿躁，对接下来会发生什么拭目以待。” 他的言论也引来大批网友留言，有人说：“这太极打的，到底还击落不击落了”，还有人说：“老胡，你这语气怎么越来越萎了，一开始是打下来，刚刚是飞机飞越，现在这说的啥玩意，支持任何反制手段。。。”，也有人调侃说到：“可以给个红码她就去不了”。“从来没有这么关心过一个陌生女人在哪过夜 ”。\n从微博热搜榜上也可以看出，佩洛西计划访台是中国网民的热议话题。本周二（8月2日），与佩罗西访台相关的多个话题登上新浪微博热搜，排在前几位的包括“桃园机场收到爆裂物恐吓信”，中国驻联合国代表张军表示“佩洛西访问台湾是危险的”，“佩洛西此前所乘专机起飞”。网民们也议论纷纷，有人直呼要“肯定要打了”，统一中国”，“捍卫国家主权和领土完整！” “气氛都到这里了，直接收复了吧”。“ 也有人表达反战立场，表示“一群网友尽说风凉话，说什么我们外交团没有胆量，只会打嘴炮，你这么能这么勇你赶紧的现在去刺杀啊，在这扛着键盘干啥呢？中国现在军事力量很强大，但仍然尽全力不走向战争这一步是保护广大人民，如果战争真的来了，你以为你我他每一个中国人还都能安生么？”\n也有一些网民分析若是佩洛西在台湾落地，北京可能采取的反制措施，有人说，派军机对佩洛西乘坐的飞机“同飞”，并用军机绕飞她降落的机场或居住酒店，以此宣誓主权。也有人说：“佩洛西的飞机过来我们军机进行拦截。然后她飞向日本和韩国，对我们提出抗议。我们也是坚决捍卫。这样双方都有面子。“ 一名叫做“孙玉良”的大V认为，中美未来会有一战，但不是现在：“现在中国若与美国开战，斗的也不只是武器装备，而是战略、战术以及克敌制胜的军魂，武器永远是死的，人是活的。吹牛没用，最后的胜利才是真的。”\n(综合报道)\n© 2022年德国之声版权声明：本文所有内容受到著作权法保护，如无德国之声特别授权，不得擅自使用。任何不当行为都将导致追偿，并受到刑事追究。",
+      "image_captions": [
+        "马来西亚之后，佩洛西的下一站是否是台北？图像来源: Fathin Suhaira Abd Rahim/BERNAMA/dpa/picture alliance",
+        "Nancy Pelosi Asienreise | Malaysia Parlamentssprecher Azhar Azizan Harun",
+        "“我们不接受国际法遭破坏，也不会接受较大的国家违反国际法欺压较小的邻居。——这也适用于中国。”",
+        "England | Lockdownparty | Bericht von Sue Gray"
+      ]
+    }
+  ],
+  "evidence_count": 3,
+  "crawled_at": "2026-04-23T17:12:23.529832+00:00"
+}

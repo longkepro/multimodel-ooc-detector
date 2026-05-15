@@ -1,0 +1,85 @@
+{
+  "sample_id": "true_31",
+  "image_url": "https://pbs.twimg.com/media/Ert9uCyWMAUflIp?format=png&name=900x900",
+  "visual_entities": [
+    {
+      "description": "Christmas",
+      "score": 0.791332
+    },
+    {
+      "description": "Jim Acosta",
+      "score": 0.49934998
+    },
+    {
+      "description": "Abraham Lincoln",
+      "score": 0.4803
+    },
+    {
+      "description": "Holiday",
+      "score": 0.4353
+    },
+    {
+      "description": "US President",
+      "score": 0.42
+    },
+    {
+      "description": "The West Wing",
+      "score": 0.4164
+    },
+    {
+      "description": "Christmas Ornament",
+      "score": 0.36928427
+    },
+    {
+      "description": "Christmas Tree",
+      "score": 0.36187276
+    },
+    {
+      "description": "Christmas Eve",
+      "score": 0.35698175
+    },
+    {
+      "description": "past",
+      "score": 0.3045
+    }
+  ],
+  "best_guess_labels": [
+    "christmas"
+  ],
+  "similar_image_urls": [
+    "https://media.cnn.com/api/v1/images/stellar/prod/210115095055-03-white-house-move-out-screengrab.jpg?q=w_1920,h_1080,x_0,y_0,c_fill",
+    "https://pbs.twimg.com/media/Ert9uCyWMAUflIp.png",
+    "https://media.cnn.com/api/v1/images/stellar/prod/210115095055-03-white-house-move-out-screengrab.jpg?q=x_0,y_0,h_1080,w_1919,c_fill/w_800",
+    "https://pbs.twimg.com/media/Ert9uCyWMAUflIp?format=png&name=small",
+    "https://cdn.ngopibareng.id/imagecache/20210117125957donald-trump-patung.PNG"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.cnn.com/2021/01/15/politics/white-house-move-lincoln-bust-pheasant",
+      "page_title": "Taxidermy and a Lincoln bust among departing White House effects",
+      "title": "Taxidermy and a Lincoln bust among departing White House effects | CNN Politics",
+      "description": "A pheasant took flight from the White House Thursday afternoon.",
+      "text": "A pheasant took flight from the White House Thursday afternoon.\nToted by Debbie Meadows, wife of White House chief of staff Mark Meadows, the taxidermy bird was moved out of Meadows’ West Wing office, among other boxes and souvenirs from his time in the administration, and placed into the trunk of a waiting SUV.\nWith just days left in the Trump administration, the White House complex is abuzz with signs of the end of one presidency and the beginning of another, staffers pushing carts with empty and full boxes, aides bidding farewell to their departing colleagues, and some walking out with large framed photograph mementos – a jolting air of normalcy in the wake of last week’s deadly insurrection at the US Capitol and the anticipation of more violence around Wednesday’s inauguration.\nQuestions abounded Thursday after a trio of unidentified masked officials walked a bronze bust of President Abraham Lincoln outside the front door of the West Wing. To whom did it belong? And where, precisely, was it off to?\nItems such as the Lincoln sculpture were on loan from the official White House collection and part of a documented process wherein thousands of pieces of art, decorative art, sculpture, china, silver and other items are historically preserved.\nThese items are available for the incoming president and first lady to select at the start of a new term, as the Trumps did in 2017.\nAt move-out, there is a systematic return of the loaned items to the White House Historical Association, which, along with the chief usher and curator of the White House, collects the collection items.\n“To all concerned about media photos of items leaving the White House: The White House Chief Usher and the Curator have responsibility for managing and accounting for the White House Collection in every presidency. They are an exemplary team of career professionals and should have our confidence in carrying out their responsibility,” White House Historical Association president Stewart McLaurin, said in a statement.\nThe curator is Lydia Tederick, according to the White House Historical Association, who “has served in the Office of the Curator for over thirty years and is the eighth professional to hold this position.”\nTederick reports to chief usher Timothy Harleth, a former Trump Hotel employee who is now a career official. Harleth “essentially serves as the general manager of the White House residence and operations and oversees the Collection,” according to the association.\n“Be reminded that staff have items of their own that they brought to the White House and can take those items home as they wish. Some items are on loan to staff and offices from other collections and will be returned to those collections,” McLaurin said.\nHe added in a tweet that he had “reconfirmed” that information Thursday with Harleth in light of questions about the Lincoln bust’s departure.\nAs for Meadows’ majestic fowl, the pheasant is a personal effect and was previously in his Capitol Hill office, and, a source said, wasn’t the only piece of taxidermy in his West Wing office.\nSome staffers are also keeping the posters that have adorned the West Wing walls with images of key moments from the last four years, with some available for purchase from the White House photo office for $25, per a former White House official. Trade adviser Peter Navarro was spotted toting such an acquisition, a picture of President Donald Trump and Chinese President Xi Jinping.\nIt’s not unusual for departing White House staff to snag a souvenir or two on their way out. Bill Clinton staffers famously removed “W” keys from keyboards ahead of the George W. Bush inauguration.\nDuring previous departures, the anchor-emblazoned doorknobs of the Eisenhower Executive Office Building have disappeared before Inauguration Day, former Secret Service agent and CNN law enforcement analyst Jonathan Wackrow said.\nBut, Wackrow noted, US Secret Service Uniform Division officers are typically put on high alert over these next few days – checking bags to prevent the departure of any essential equipment.\nCNN’s Kate Bennett, Kaitlan Collins and Jim Acosta contributed to this report.",
+      "image_captions": [
+        "Jim Lo Scalzo/EPA//Bloomberg/Getty Images",
+        "Erin Scott/REUTERS",
+        "WASHINGTON, DC - JANUARY 12: U.S. President Donald Trump turns to reporters as he exits the White House to walk toward Marine One on the South Lawn on January 12, 2021 in Washington, DC. Following last week's deadly pro-Trump riot at the U.S. Capitol, President Trump is making his first public appearance with a trip to the town of Alamo, Texas to view the construction of the wall along the U.S.-Mexico border. (Photo by Drew Angerer/Getty Images)",
+        "Secretary of the Navy John Phelan speaks, at President Donald Trump's Mar-a-Lago club, Monday, Dec. 22, 2025, in Palm Beach, Florida.",
+        "119029_RFKJrHearing 16x9. Thumbnail.png"
+      ]
+    },
+    {
+      "url": "https://www.vg.no/nyheter/i/39qW2X/naa-flytter-de-ut-av-det-hvite-hus",
+      "page_title": "Nå flytter de ut av Det hvite hus - VG",
+      "title": "Nå flytter de ut av Det hvite hus",
+      "description": "Bilder av stabler med pappesker utenfor Det hvite hus er et synlig bevis på at Donald Trumps tid som president går mot slutten. Om fem dager flytter Joe Biden og hans team inn.",
+      "text": "Brune og hvite pappesker og plastbokser står stablet oppå hverandre i den trange og avsperrede gaten mellom vestfløyen av det hvite hus og Eisenhower-bygningen.\nNå flytter de ut av Det hvite hus\nBilder av stabler med pappesker utenfor Det hvite hus er et synlig bevis på at Donald Trumps tid som president går mot slutten. Om fem dager flytter Joe Biden og hans team inn.",
+      "image_captions": [
+        "ESKER: Nedpakkingen av Trump-administrasjonen er i gang. Foto: Gerald Herbert / AP",
+        "Bilde av Jostein Matre"
+      ]
+    }
+  ],
+  "evidence_count": 2,
+  "crawled_at": "2026-04-23T16:53:45.386196+00:00"
+}

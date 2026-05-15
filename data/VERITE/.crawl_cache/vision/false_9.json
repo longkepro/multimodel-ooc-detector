@@ -1,0 +1,61 @@
+{
+  "sample_id": "false_9",
+  "image_url": "https://ichef.bbci.co.uk/images/ic/1920x1080/p08tt2mw.jpg",
+  "visual_entities": [
+    {
+      "description": "Bus",
+      "score": 1.10145
+    },
+    {
+      "description": "Double-decker bus",
+      "score": 0.7296
+    },
+    {
+      "description": "Fire",
+      "score": 0.7052
+    },
+    {
+      "description": "Passenger",
+      "score": 0.5738
+    },
+    {
+      "description": "Tour bus service",
+      "score": 0.538
+    }
+  ],
+  "best_guess_labels": [
+    "double decker bus on fire"
+  ],
+  "similar_image_urls": [
+    "https://ichef.bbci.co.uk/images/ic/1920x1080/p08tt2mw.jpg",
+    "https://c.files.bbci.co.uk/150CE/production/_114822268_p08tt2mw.jpg",
+    "https://ichef.bbci.co.uk/images/ic/688xn/p08tt2mw.jpg",
+    "https://images.alwatanvoice.com/news/large/410eb739-7b50-42ac-af41-d28eda2cf2d7.jpg",
+    "https://ichef.bbci.co.uk/images/ic/640x360/p08tt2mw.jpg.webp",
+    "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/150CE/production/_114822268_p08tt2mw.jpg.webp",
+    "https://ichef.bbci.co.uk/images/ic/400xn/p08tt2mw.jpg",
+    "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/150CE/production/_114822268_p08tt2mw.jpg",
+    "https://www.dailyecho.co.uk/resources/images/11895728.jpg?type=mds-article-620",
+    "https://www.dailyecho.co.uk/resources/images/11895728/?type=responsive-gallery-fullscreen"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.cbsnews.com/miami/video/burned-double-decker-bus-affects-traffic-on-i-595-in-davie/",
+      "page_title": "Burned double-decker bus affects traffic on I-595 in Davie - CBS News",
+      "title": "Burned double-decker bus affects traffic on I-595 in Davie",
+      "description": "About 50 people are lucky to be alive Friday afternoon after the double-decker bus they were in caught on fire, shutting down the westbound lanes of I-595 in Davie.",
+      "text": "Latest\nU.S.\nIran War\nCrypto Fraud\nWorld\nPolitics\nEntertainment\nHealthWatch\nMoneyWatch\nCrime\nSpace\nSports\nBrand Studio\nThe Free Press\nLocal News\nAtlanta\nBaltimore\nBay Area\nBoston\nChicago\nColorado\nDetroit\nLos Angeles\nMiami\nMinnesota\nNew York\nPhiladelphia\nPittsburgh\nSacramento\nTexas\nLive\nCBS News 24/7\nBaltimore\nBay Area\nBoston\nChicago\nColorado\nDetroit\nLos Angeles\nMiami\nMinnesota\nNew York\nPhiladelphia\nPittsburgh\nSacramento\nTexas\n48 Hours\n60 Minutes\nShows\n48 Hours\n60 Minutes\nCBS Evening News\nCBS Mornings\nCBS Morning News\nCBS Reports\nCBS Saturday Morning\nThe Daily Report\nThe Dish\nFace the Nation\nSunday Morning\nThe Takeout\nThings That Matter\nThe Uplift\nCBS News Investigates\nCBS News Confirmed\nPodcasts\nNewsletters\nDownload Our App\nCBS News Team\nExecutive Team\nBrand Studio\nParamount+\nJoin Our Talent Community\nRSS Feeds\nMiami\n|\nNews\nWeather\nSports\nVideos\nYour Reporters\nLocal News\nPolitics\nConsumer\nHealth\nEntertainment\nTech\nLottery News\nNeighbors 4 Neighbors\nU.S.\nWorld\nNEXT Weather\nTracking The Tropics\nHurricane Preps\nAll Sports\nCBS Sports HQ\nDolphins\nHeat\nPanthers\nMarlins\nMiami FC\nInter Miami FC\nCanes\nHigh School Sports\nOdds\nMeet Your Reporters\nMiami-Dade County News\nBroward County News\nMonroe County News\nMeet The Team\nContact Us\nStation Info\nNews Tips\nCBS Miami Shows\nJim Berry's Absolutely Not\nLiving With Parkinson's\nMiami Proud\nContests & Promotions\nGalleries\nAdvertise\nDownload the App\nJobs\nTV Schedule\nWatch CBS News\nBurned double-decker bus affects traffic on I-595 in Davie\nAbout 50 people are lucky to be alive Friday afternoon after the double-decker bus they were in caught on fire, shutting down the westbound lanes of I-595 in Davie.\nView CBS News In\nCBS News App\nOpen\nChrome\nSafari\nContinue",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.cbsnews.com/miami/video/tour-bus-catches-fire-on-i-595/",
+      "page_title": "Tour bus catches fire on I-595 - CBS Miami",
+      "title": "Tour bus catches fire on I-595",
+      "description": "About 50 people are lucky to be alive Friday afternoon after the double-decker bus they were in caught on fire, shutting down the westbound lanes of I-595 in Davie.",
+      "text": "Latest\nU.S.\nIran War\nCrypto Fraud\nWorld\nPolitics\nEntertainment\nHealthWatch\nMoneyWatch\nCrime\nSpace\nSports\nBrand Studio\nThe Free Press\nLocal News\nAtlanta\nBaltimore\nBay Area\nBoston\nChicago\nColorado\nDetroit\nLos Angeles\nMiami\nMinnesota\nNew York\nPhiladelphia\nPittsburgh\nSacramento\nTexas\nLive\nCBS News 24/7\nBaltimore\nBay Area\nBoston\nChicago\nColorado\nDetroit\nLos Angeles\nMiami\nMinnesota\nNew York\nPhiladelphia\nPittsburgh\nSacramento\nTexas\n48 Hours\n60 Minutes\nShows\n48 Hours\n60 Minutes\nCBS Evening News\nCBS Mornings\nCBS Morning News\nCBS Reports\nCBS Saturday Morning\nThe Daily Report\nThe Dish\nFace the Nation\nSunday Morning\nThe Takeout\nThings That Matter\nThe Uplift\nCBS News Investigates\nCBS News Confirmed\nPodcasts\nNewsletters\nDownload Our App\nCBS News Team\nExecutive Team\nBrand Studio\nParamount+\nJoin Our Talent Community\nRSS Feeds\nMiami\n|\nNews\nWeather\nSports\nVideos\nYour Reporters\nLocal News\nPolitics\nConsumer\nHealth\nEntertainment\nTech\nLottery News\nNeighbors 4 Neighbors\nU.S.\nWorld\nNEXT Weather\nTracking The Tropics\nHurricane Preps\nAll Sports\nCBS Sports HQ\nDolphins\nHeat\nPanthers\nMarlins\nMiami FC\nInter Miami FC\nCanes\nHigh School Sports\nOdds\nMeet Your Reporters\nMiami-Dade County News\nBroward County News\nMonroe County News\nMeet The Team\nContact Us\nStation Info\nNews Tips\nCBS Miami Shows\nJim Berry's Absolutely Not\nLiving With Parkinson's\nMiami Proud\nContests & Promotions\nGalleries\nAdvertise\nDownload the App\nJobs\nTV Schedule\nWatch CBS News\nTour bus catches fire on I-595\nAbout 50 people are lucky to be alive Friday afternoon after the double-decker bus they were in caught on fire, shutting down the westbound lanes of I-595 in Davie.\nView CBS News In\nCBS News App\nOpen\nChrome\nSafari\nContinue",
+      "image_captions": []
+    }
+  ],
+  "evidence_count": 2,
+  "crawled_at": "2026-04-23T16:47:28.673664+00:00"
+}

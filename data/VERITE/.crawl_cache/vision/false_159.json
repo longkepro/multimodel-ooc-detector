@@ -1,0 +1,61 @@
+{
+  "sample_id": "false_159",
+  "image_url": "https://obamawhitehouse.archives.gov/sites/default/files/image/image_file/group_pic.jpg",
+  "visual_entities": [
+    {
+      "description": "Tourism",
+      "score": 0.9863
+    },
+    {
+      "description": "Tourist attractiveness",
+      "score": 0.6005
+    },
+    {
+      "description": "Travel",
+      "score": 0.5644
+    },
+    {
+      "description": "Entrepreneurship",
+      "score": 0.452
+    },
+    {
+      "description": "Business",
+      "score": 0.35
+    },
+    {
+      "description": "Women in leadership",
+      "score": 0.3495
+    }
+  ],
+  "best_guess_labels": [
+    "tourism"
+  ],
+  "similar_image_urls": [
+    "https://obamawhitehouse.archives.gov/sites/default/files/image/image_file/group_pic.jpg",
+    "https://obamawhitehouse.archives.gov/sites/default/files/imagecache/gallery_img_full/image/image_file/group_pic.jpg?itok=ha7IlV8a"
+  ],
+  "evidence": [
+    {
+      "url": "https://obamawhitehouse.archives.gov/blog/2011/10/12/african-women-entrepreneurs-visit-white-house",
+      "page_title": "African Women Entrepreneurs Visit the White House | whitehouse.gov",
+      "title": "African Women Entrepreneurs Visit the White House",
+      "description": "The White House Office of Public Engagement and the White House Council on Women and Girls host members of the African Women’s Entrepreneurship Program (AWEP), an initiative launched in coordination with the Department of State’s International Visitor Leadership Program.",
+      "text": "Last week, the White House Office of Public Engagement and the White House Council on Women and Girls hosted members of the African Women’s Entrepreneurship Program (AWEP), an initiative launched in coordination with the Department of State’s International Visitor Leadership Program. The program was created a year ago toadvance women's leadership and to grow women-owned small and medium enterprises (SMEs).\nWomen entrepreneurs, representing 40 sub-Saharan African countries, engaged in a dialogue with Tina Tchen, Executive Director of the White House Council on Women and Girls, Gene Sperling, Director of the White House National Economic Council, and Ana Harvey, Assistant Administrator at the US Small Business Association on ways to develop and foster stronger business partnerships between Africa and the United States. The discussion also centered on the Administration’s efforts to foster the increased participation of women entrepreneurs in Africa as well as in the United States.\nDuring the meeting, Tina Tchen the importance of small businesses, noting that “during these difficult economic times, small businesses are the engines that create jobs.” She discussed efforts of the Obama Administration to increase women’s access to capital so they can continue to grow their own businesses. To underscore President Obama’s commitment to empowering women and girls around the globe, Tchen mentioned the new Declaration on Women’s Participation that the United States signed last month, and that we will be announcing steps we are taking to break down economic and political barriers that stand in the way of women and girls.\nGene Sperling discussed the importance of accessibility to business education for underserved communities, and touched upon several programs that are designed to support women in that regard. He urged these women to share their expertise with us, recognizing that they are pioneers in their efforts to provide emerging women business leaders and entrepreneurs the tools, resources and skills to prosper and generate greater job growth.\nAna Harvey, Assistant Administrator for the Small Business Administration’s Office of Women's Business Ownership, expressed that although the Small Business Administration is a domestic agency, they rely heavily on existing institutions to provide resources for developing small businesses. Harvey urged the group to look at this approach as a model when reaching out to other emerging entrepreneurs.\nIt was encouraging to witness the determination and resolve of the AWEP participants, as it demonstrates the progress that can be made when women are equipped with the skills and resources to become change agents in the global economic area and in their own communities. This determination was well demonstrated at the conclusion of the meeting when, Brenda Kunda, an AWEP delegate from Zambia, enthusiastically told Administrations officials to “please tell Mr. & Mrs. Obama that the vibrant women of Africa are here, and we are not going to let you down.”\nKaren Richardson in an Associate Director in the Office of Public Engagement.",
+      "image_captions": [
+        "The African Women’s Entrepreneurship Program (AWEP) visits the White House",
+        "President Obama's Final State of the Union, Jan 12, 9pm ET",
+        "The constitution of the United States"
+      ]
+    },
+    {
+      "url": "https://obamawhitehouse.archives.gov/photos-and-video/photo/2011/10/african-women-s-entrepreneurship-program-awep-visits-white-house",
+      "page_title": "The African Women's Entrepreneurship Program (AWEP) visits the ...",
+      "title": "The African Women’s Entrepreneurship Program (AWEP) visits the White House",
+      "description": "See the President's daily schedule, explore behind-the-scenes photos from inside the White House, and find out all the ways you can engage with the most interactive administration in our country's history.",
+      "text": "The African Women’s Entrepreneurship Program (AWEP) visits the White House, October 5, 2011. (Photo by Karen Richardson)",
+      "image_captions": []
+    }
+  ],
+  "evidence_count": 2,
+  "crawled_at": "2026-04-23T17:37:39.736722+00:00"
+}

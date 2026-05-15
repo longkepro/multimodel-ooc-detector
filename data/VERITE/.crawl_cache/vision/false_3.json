@@ -1,0 +1,87 @@
+{
+  "sample_id": "false_3",
+  "image_url": "https://www.si.com/.image/t_share/MTkzMzI3MTk1NTQ2OTg2NDAz/andre-the-giant.jpg",
+  "visual_entities": [
+    {
+      "description": "André the Giant",
+      "score": 14.997001
+    },
+    {
+      "description": "WWE",
+      "score": 1.08375
+    },
+    {
+      "description": "Andre the Giant WWE Championship",
+      "score": 0.93060005
+    },
+    {
+      "description": "WrestleMania",
+      "score": 0.8097
+    },
+    {
+      "description": "",
+      "score": 0.7225
+    },
+    {
+      "description": "Professional wrestling",
+      "score": 0.7173
+    },
+    {
+      "description": "André the Giant–Hulk Hogan rivalry",
+      "score": 0.6027
+    },
+    {
+      "description": "WWE",
+      "score": 0.5568
+    },
+    {
+      "description": "Wrestler",
+      "score": 0.4893
+    },
+    {
+      "description": "WWE Championship",
+      "score": 0.4817
+    },
+    {
+      "description": "TheSportster",
+      "score": 0.4099
+    },
+    {
+      "description": "Wrestling",
+      "score": 0.3986
+    }
+  ],
+  "best_guess_labels": [
+    "andre the giant folded arms"
+  ],
+  "similar_image_urls": [
+    "https://static.wikia.nocookie.net/wwe2kseries/images/f/fb/Andre_The_Giant_pro.png/revision/latest/scale-to-width-down/300?cb=20160312133429",
+    "https://static.wikia.nocookie.net/wwenetwork/images/f/fb/Andre_The_Giant_pro.png/revision/latest/smart/width/386/height/259?cb=20160307190552",
+    "https://i.ebayimg.com/images/g/pUEAAOSwfDBgCM3i/s-l1200.webp",
+    "https://theenterpriseworld.com/wp-content/uploads/2026/01/1.5-Andre-the-Giant-Source-wwe.com-.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=423341372340332",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=6012727542081682",
+    "https://www.tiktok.com/api/img/?itemId=7628778221428870430&location=0&aid=1988",
+    "https://media.fstatic.com/V-F70Xy_BR4YPosubFJMQfgakro=/154x231/smart/filters:format(webp)/media/artists/avatar/2013/06/andre-the-giant_a11516.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10160504759081539",
+    "https://static0.thesportsterimages.com/wordpress/wp-content/uploads/wm/2024/05/9-wrestlers-andre-the-giant-loved-9-that-he-hated.jpg?q=49&fit=crop&w=220&h=182&dpr=2"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.ugandacricket.com/?o=50936611031160",
+      "page_title": "Hulk Hogan Andre The Giant WWE Championship - Cricket Uganda",
+      "title": "Home - Cricket Uganda",
+      "description": null,
+      "text": "Bwala SS Poised for First Taste of Sky view Girls Schools Cricket Week International COMPETITIONS Flawless Uganda Crowned Easter T20 Champions with Unbeaten Run Uganda A Completes Easter Women’s T20 Winless But Takes Key Lessons for Future Growth Victoria Pearls Stay Unbeaten with Double Victory at Women’s Easter T20 Cup Different name for SearchSearch DEVELOPMENT Mini Cricket Festivals conclude in Jinja, Masaka, and Mbarara Alibo’s Fifty Inspires Soroti SS’s Dominant Maiden March to the Girls’ Nationals Kampala Mini Cricket Festival lights up Lugogo Cricket Oval Jinja SSS crowned Nile Region Cricket Week Qualifiers Champions Light SS Defeats Olila to Win Eastern Region Girls’ Schools Cricket Week Qualifiers 2026 Magwa Ward Strikers Crowned Champions of Jinja Easter T10 2026 OFFICIAL PARTNERS",
+      "image_captions": [
+        "Bwala SS Poised for First Taste of Sky view Girls Schools Cricket Week",
+        "Flawless Uganda Crowned Easter T20 Champions with Unbeaten Run",
+        "Uganda A Completes Easter Women’s T20 Winless But Takes Key Lessons for Future Growth",
+        "Victoria Pearls Stay Unbeaten with Double Victory at Women’s Easter T20 Cup",
+        "Mini Cricket Festivals conclude in Jinja, Masaka, and Mbarara"
+      ]
+    }
+  ],
+  "evidence_count": 1,
+  "crawled_at": "2026-04-23T16:14:44.126624+00:00"
+}

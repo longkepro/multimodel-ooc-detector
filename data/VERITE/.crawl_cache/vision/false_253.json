@@ -1,0 +1,92 @@
+{
+  "sample_id": "false_253",
+  "image_url": "https://cdn.mainichi.jp/vol1/2018/06/04/20180604p2a00m0na018000p/9.jpg?3",
+  "visual_entities": [
+    {
+      "description": "Serbia",
+      "score": 0.8795999
+    },
+    {
+      "description": "Embassy of Serbia",
+      "score": 0.76142
+    },
+    {
+      "description": "",
+      "score": 0.6931
+    },
+    {
+      "description": "",
+      "score": 0.5864
+    },
+    {
+      "description": "Canada",
+      "score": 0.5289
+    },
+    {
+      "description": "China",
+      "score": 0.48
+    },
+    {
+      "description": "2025 FIVB Men's Volleyball Nations League",
+      "score": 0.43559998
+    },
+    {
+      "description": "",
+      "score": 0.3526
+    },
+    {
+      "description": "Serbs",
+      "score": 0.347
+    },
+    {
+      "description": "Ambassador",
+      "score": 0.329
+    },
+    {
+      "description": "",
+      "score": 0.32
+    },
+    {
+      "description": "Japan vs. Serbia",
+      "score": 0.3166
+    },
+    {
+      "description": "Serbian",
+      "score": 0.3134
+    }
+  ],
+  "best_guess_labels": [
+    "serbs japan"
+  ],
+  "similar_image_urls": [
+    "https://cdn.mainichi.jp/vol1/2018/06/04/20180604p2a00m0na018000p/9.jpg?3",
+    "https://cdn.mainichi.jp/vol1/2018/06/04/20180604k0000e040169000p/8.jpg?1"
+  ],
+  "evidence": [
+    {
+      "url": "https://mainichi.jp/english/articles/20180604/p2a/00m/0na/026000c",
+      "page_title": "'Serbian samurai' grabs attention at local Saitama Pref. festival",
+      "title": "'Serbian samurai' grabs attention at local Saitama Pref. festival - The Mainichi",
+      "description": "FUJIMI, Saitama -- The Serbian ambassador to Japan attended a local festival here on June 3 dressed in samurai regalia in honor of the sister city rel",
+      "text": "'Serbian samurai' grabs attention at local Saitama Pref. festival\n(Mainichi Japan)\nFUJIMI, Saitama -- The Serbian ambassador to Japan attended a local festival here on June 3 dressed in samurai regalia in honor of the sister city relationship between this city and Sabac, in the western part of the eastern European country.\nAmbassador of the Republic of Serbia to Japan Nenad Glisic appeared in the main event of the Nanbata Castle Park festival as an \"ometsuke,\" or a senior official in charge of monitoring high-ranking samurai under the Tokugawa Shogunate or some fiefdoms under its reign during the Edo period (1603-1868).\nDuring the event, 10 people posing as samurai warriors fired matchlock guns to roaring sounds and muzzle fire, attracting the attention of the ambassador and Mayor Mitsuhiro Hoshino, who played the role of a general. Ambassador Glisic said he was extremely pleased to be wearing the traditional \"yoroi\" samurai armor for the first time, adding that he intends to further promote the friendship between Serbia and the city of Fujimi.\nFujimi and Sabac became sister cities in 1982, and have had civil delegations make mutual visits ever since. In 2014, Fujimi sent donations to the Serbian city in the aftermath of heavy rains that wreaked havoc there.\nMayor Hoshino also expressed hope for the relationship to be a bridge between Japan and Serbia, as Fujimi aspires to host Serbian athletes during the 2020 Tokyo Olympic and Paralympic Games.\n(Japanese original by Masaaki Hashimoto, Asaka Resident Bureau)",
+      "image_captions": [
+        "Serbian Ambassador to Japan Nenad Glisic watches a performance by locals posing as samurai warriors during the Nanbatajo Koen festival in Fujimi, Saitama Prefecture, on June 3, 2018. (Mainichi)",
+        "Two Japanese black bears are seen on the Hachimantai Aspite Line in Kazuno, Akita Prefecture, in this 2022 file photo. (Mainichi)",
+        "The logo of Honda Motor Co. (Mainichi)",
+        "Prime Minister Sanae Takaichi attends the House of Representatives plenary session on April 23, 2026. (Kyodo)"
+      ]
+    },
+    {
+      "url": "https://www.febc.org/2021/04/27/the-state-of-the-gospel-in-japan/",
+      "page_title": "The State of the Gospel in Japan | FEBC",
+      "title": "The State of the Gospel in Japan",
+      "description": "As one of the most developed nations in the world, Japan is surprisingly unreached with the Gospel. Only 0.8% of the population are professing an evangelical Christian faith. This tiny number is declining as fewer…",
+      "text": "As one of the most developed nations in the world, Japan is surprisingly unreached with the Gospel. Only 0.8% of the population are professing an evangelical Christian faith. This tiny number is declining as fewer young people are coming to faith in Christ. With every passing year, the average age of Christian believers is creeping higher. If this trend continues, the church will all but disappear in Japan…\nAs you watch this video, would you consider signing up to be a part of FEBC’s prayer team? Our once-a-week email will keep you updated with news and critical prayer needs from around the world. In this way, God can use you to help reach the unreached and inspire listeners to follow Jesus Christ!",
+      "image_captions": [
+        "FEBC - Far East Broadcasting Company"
+      ]
+    }
+  ],
+  "evidence_count": 2,
+  "crawled_at": "2026-04-23T18:04:12.596432+00:00"
+}

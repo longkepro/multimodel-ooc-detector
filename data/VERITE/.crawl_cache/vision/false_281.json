@@ -1,0 +1,125 @@
+{
+  "sample_id": "false_281",
+  "image_url": "https://static01.nyt.com/images/2021/12/09/world/09Ukraine-Military1/09Ukraine-Military1-mediumSquareAt3X.jpg",
+  "visual_entities": [
+    {
+      "description": "Andrii Plakhotniuk",
+      "score": 6.9405003
+    },
+    {
+      "description": "Ukraine",
+      "score": 1.09185
+    },
+    {
+      "description": "",
+      "score": 0.7279
+    },
+    {
+      "description": "Armed Forces of Ukraine",
+      "score": 0.7266
+    },
+    {
+      "description": "United States",
+      "score": 0.64395
+    },
+    {
+      "description": "Soldier",
+      "score": 0.5783858
+    },
+    {
+      "description": "Hindi News",
+      "score": 0.56445
+    },
+    {
+      "description": "Russia",
+      "score": 0.5256
+    },
+    {
+      "description": "Army officer",
+      "score": 0.43093076
+    },
+    {
+      "description": "",
+      "score": 0.4293
+    },
+    {
+      "description": "Military Person",
+      "score": 0.3619
+    },
+    {
+      "description": "",
+      "score": 0.3504
+    },
+    {
+      "description": "Troop",
+      "score": 0.33351347
+    }
+  ],
+  "best_guess_labels": [
+    "ukraine army soldiers"
+  ],
+  "similar_image_urls": [
+    "https://static01.nyt.com/images/2021/12/09/world/09Ukraine-Military1/09Ukraine-Military1-mediumSquareAt3X.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1450828946147580",
+    "https://www.theins.news/Joomla/images/09Ukraine-Military1-mobileMasterAt3x.jpg",
+    "https://www.razagraphy.com/wp-content/uploads/2024/06/rz-85-390x220.jpeg",
+    "https://i.ytimg.com/vi/CKJr2mOTAf8/oar2.jpg?sqp=-oaymwEYCJUDENAFSFqQAgHyq4qpAwcIARUAAIhC&rs=AOn4CLBCE8yDbxJ-NTSpv-3D29uTVb4TNg&usqp=CCk",
+    "https://static.toiimg.com/thumb/imgsize-126694,msid-124392635,width-375,resizemode-4/124392635.jpg",
+    "https://static.toiimg.com/thumb/msid-124392635,width-1280,height-720,imgsize-126694,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "https://i.ytimg.com/vi/8JwXTK5LEZE/hqdefault.jpg",
+    "https://i.ytimg.com/vi/5Wp_RvptTCs/hqdefault.jpg",
+    "https://i.ytimg.com/vi/5Wp_RvptTCs/mqdefault.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://news.yahoo.com/ukraine-army-short-troops-send-130002322.html",
+      "page_title": "Ukraine's army is short of new troops to send to the frontline",
+      "title": "Ukraine’s army is short of new troops to send to the frontline",
+      "description": "As the war drags on, Ukraine is struggling to replace the exhausted troops who have spent two years at the front.",
+      "text": "Ukraine’s army is short of new troops to send to the frontline\nTwenty-two months after the beginning of the Russian invasion, the Ukrainian army is struggling to find new recruits to send to the front, according to military officials.\n“Our units are understaffed,” said Major Oleksandr Volkov, commander of a battalion of the 24th mechanised brigade. “We need young people, under 40, and motivated.”\nThis was exactly the advantage that Russia always had over Ukraine: more manpower, together with the willingness to send an indefinite number of men - be they prepared or not - to fight and die at the front.\nAccording to 2023 data from Global Firepower, the Ukrainian army counted around 500,000 servicemen, 200,000 of which are active military personnel. By comparison, Russia has about four times more active military personnel - 1,330,900 men - and 250,000 reservists, the same as Ukraine.\n“Today’s society has probably been misled by some media, claiming that everything is fine (for the Ukrainian army), that we are defeating the enemy and that victory will take place in the near future,” Volkov said. “But the current situation is not so simple. The enemy is really very strong, very powerful. And we do everything to hold him back and beat him.”\nDespite significant losses in both men and equipment, Russia has resisted Ukraine’s counteroffensive this summer, and it’s currently feeling pretty confident about the war, as proven by Vladimir Putin’s recent comments on the conflict.\nA lack of new, young recruits\nWhile Ukraine continues fighting for its freedom and the integrity of its territory, the war is failing to attract recruits among civilians, Volkov and other officials said.\nAt the beginning of the war, “everything happened in adrenaline, in a sort of exaltation [...] everyone rushed to fight and there was no problem,” Lieutenant Igor Prokopiak, a company commander, said. “But over time, it calmed down. People had access to social networks, they saw the terrible, cruel side of the war. This initial adrenaline wore off, the brain woke up, fear appeared and, as a result, people began to fear for their lives.”\nOfficials have noticed that the average age of soldiers at the front has increased, with Volkov saying that 40% of his unit is aged 45 and above. Those who have been at the front for two years are exhausted, though they have not been replaced for lack of new troops.\nIn late November, Ukraine’s President Volodymyr Zelenskyy said that the country will reform conscription practices through collaboration with commercial recruitment companies in an effort to bolster its fighting force.\nParis and London promise unfaltering support\nThe UK and France will support Ukraine for “as long as necessary,” British foreign minister David Cameron said on Tuesday during a joint conference with his French counterpart Catherine Colonna.\n“I have no doubt that Putin will lose (the war) and it’s essential that he loses.”\n“The first act was Russia’s stunning failure to achieve its goals. The second act was the resounding resistance of the Ukrainians who pushed back the Russians. And of course the third act is more difficult,” Cameron said. “The fourth act remains to be written and we must ensure that it is written in the right way,” he added.\n“Our two countries, hand in hand since the beginning, are working together to ensure that Russian aggression cannot be rewarded,” declared Catherine Colonna.\n“We hope that this co-operation can be further strengthened,” she added. ‘The fate of Ukraine is obviously at stake, but also the security of the European continent.”\nThe continued support of Ukraine’s allies is considered crucial for the country’s capacity to continue battling against the Russian invasion. Further financial and military aid from the US is currently blocked in Congress, while last week Hungary’s Prime Minister Viktor Orban blocked an EU aid package for Kyiv.",
+      "image_captions": [
+        "Ukraine’s army is short of new troops to send to the frontline",
+        "Download app from App Store",
+        "Download app from Google Play"
+      ]
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/videos/news/gujarat-police-identify-indian-captured-by-ukraine-resident-of-morbi-went-to-russia-for-studies/videoshow/124392635.cms",
+      "page_title": "Gujarat Police Identify Indian Captured By Ukraine - The Times of India",
+      "title": "Gujarat Police Identify Indian Captured By Ukraine: 'Resident Of Morbi, Went To Russia For Studies'",
+      "description": "Majoti Sahil Mohammed Hussein, a 22-year-old from Gujaratâs Morbi, surrendered to Ukrainian forces after joining the Russian army to avoid jail in a drug-related case. He had initially travelled to Russia for higher studies. A video released by Ukraineâs 63rd Mechanised Brigade shows Hussein saying he never intended to fight and surrendered after reaching the frontlines. His family, maintaining they were unaware of his situation, has appealed to the Indian government for his return. Gujarat Police confirmed his arrest in Russia earlier and are probing how he acquired his passport and visa. Meanwhile, the MEA stated 27 Indians are serving in the Russian army and reiterated warnings against joining foreign militaries due to risks involved.",
+      "text": "Neo Held Nothing Back In D4vd Grand Jury Appearance, And Didnât Plead The Fifth | WATCH\nFresh details from the grand jury linked to Celeste Rivasâs death suggest Neo fully cooperated during questioning tied to D4vdâs case. Sources say he answered every question, did not plead the Fifth, and denied involvement in the disappearance. But his testimony lasted only forty minutes, raising new questions about what prosecutors were really looking for, and why his name surfaced so prominently in the first place.\n14 views | 1 hour ago",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.theins.news/postview/2404-kazan-s-brics-summit-is-a-head-on-challenge-to-western-influence",
+      "page_title": "Kazan's BRICS Summit Is A Head-On Challenge To Western Influence",
+      "title": "Kazan’s BRICS Summit Is A Head-On Challenge To Western Influence",
+      "description": "<div>As the BRICS summit unfolds in Kazan, Russia, the significance of this gathering transcends mere diplomatic niceties</div>",
+      "text": "By Yead Mirza\nPANAMA CITY, PANAMA: As the BRICS summit unfolds in Kazan, Russia, the significance of this gathering transcends mere diplomatic niceties; it serves as a litmus test for the evolving dynamics of global power.\nThe summit, attended by leaders from Brazil, Russia, India, China, South Africa, and newly invited members, comes at a time when Russia finds itself isolated due to its ongoing conflict in Ukraine. Yet, this meeting underscores a growing discontent among many nations with Western influence and the institutions that uphold it.\nBRICS: A Challenge To Status Quo\nFounded in 2006, BRICS aims to counterbalance Western dominance in global governance and finance. The alliance’s agenda has increasingly focused on fostering economic autonomy and reducing reliance on the U.S. dollar and the SWIFT system, particularly in light of the sanctions imposed on Russia. These measures have heightened apprehensions among nations in the Global South, leading them to seek multilateral partnerships and frameworks alternative to the traditional Western ones.\nThe recent invitations to countries like Egypt, Ethiopia, Iran, Saudi Arabia and the UAE signal BRICS’ desperate attempt to expand its influence, with the aim to not only broaden the group’s economic clout but also enhance its geopolitical relevance.\nRussia Portrays Its Not Isolated\nFor President Vladimir Putin, the summit is not merely a stage for international dialogue; it represents a crucial opportunity to reaffirm Russia’s standing on the world stage. Isolated by Western sanctions and facing an International Criminal Court arrest warrant, Putin’s presence in Kazan underscores a narrative of resilience. Angela Stent, a noted expert on Russian affairs, suggests that the summit will demonstrate Russia’s continued relevance by showcasing its partnerships with major powers like China.\nThe presence of leaders from nations traditionally viewed as adversaries of Western policies reinforces this narrative. Countries like Turkey and Vietnam, eager to deepen ties with BRICS, reflect a growing sentiment among nations that wish to navigate a world where allegiance to one bloc is increasingly seen as limiting.\nCall For Financial Independence\nCentral to the summit’s discussions is the theme of reducing dependency on Western financial systems. Proposals for a BRICS trading currency have been met with skepticism, yet there is a palpable push towards bilateral trade in national currencies. The aim is to insulate these countries from alleged economic coercion and currency fluctuations driven by Western policies.\nThis quest for financial autonomy speaks to broader aspirations among BRICS nations to construct a more equitable global economic landscape.\nResponses And Implications\nWhile BRICS seeks to carve out a new path, the West watches with concern. The United Nations Secretary-General Antonio Guterres’ attendance at the summit has drawn criticism, highlighting the complexities of international diplomacy where moral stances can clash with pragmatic engagements. The rift between Western and BRICS nations is emblematic of a larger trend where nations increasingly reject binary choices of alignment.\nThis summit also raises questions about the future of international order. As BRICS continues to expand its membership and influence, the implications for global governance and economic systems could be profound. The desire among many countries to engage with BRICS reflects a growing unwillingness to choose sides, suggesting a world that is moving towards a more fragmented, multipolar arrangement.\n*Yead Mirza is a global affairs writer whose articles on pressing geopolitical issues have appeared in various platforms such as Eurasia Review, International Policy Digest, Foreign Policy News, South Asia Journal, Daily Outlook Afghanistan, and Yale Global Online, demonstrating his commitment to fostering informed dialogue on global challenges.*",
+      "image_captions": [
+        "Global Warming And 'Big Bad Oil'",
+        "The Secret Deal That Freed Julian Assange",
+        "Political Hype About ‘Economic Security’ Meets Resistance From EU Businesses",
+        "Iran's \"Nuclear Blackmail\": Iran Has No Interest In Negotiating A New Nuclear Deal",
+        "The Case Of Sam Ke Ting - Are The Parents To Be Blamed?"
+      ]
+    },
+    {
+      "url": "https://www.theins.news/postview/1553-grim-outlook-on-global-warming-emerges-from-un-conference",
+      "page_title": "Grim Outlook On Global Warming Emerges From UN Conference",
+      "title": "Grim Outlook On Global Warming Emerges From UN Conference",
+      "description": "<p>WASHINGTON, U.S.--The 27th United Nations conference on climate change, or COP27, meeting in Egypt, has seen two realities take hold among delegates: The goal of keeping the overall rise of global temperatures below 1.5 degrees by 2100 has almost certainly been lost; for preventing this requires cuts in emissions of 45 percent by 2030 — hardly a feasible prospect.</p>",
+      "text": "Source Responsible Statecraft\nWASHINGTON, U.S.--The 27th United Nations conference on climate change, or COP27, meeting in Egypt, has seen two realities take hold among delegates: The goal of keeping the overall rise of global temperatures below 1.5 degrees by 2100 has almost certainly been lost; for preventing this requires cuts in emissions of 45 percent by 2030 — hardly a feasible prospect.\nThe second recognition is that whatever we now do, some very unpleasant consequences of climate change are not just inevitable, but are already happening. The result has been a new emphasis at COP27 on the need to build resilience against the effects of climate change in especially vulnerable regions.\nThese growing disasters pose severe challenges for all states. For the United States and Europe, the biggest is the consequences for mass migration, which has already reached record levels this year.\nCarbon emissions have continued to increase, albeit much more slowly than previously. Carbon dioxide emissions are expected to rise by around 300 million tonnes in 2022, down from growth of nearly two billion tonnes in 2021. It seems likely that the world would have seen a much greater rise in emissions from coal were it not for the economic downturn in China, the world’s greatest burner of coal.\nIt is estimated that the commitments to emissions reduction made so far will lead to around 2.4 degrees of warming by 2100 — much better than the projections of a decade ago but still dangerously high. The UK Met Office has warned that a rise in temperatures of more than two degrees will make more than a billion people acutely vulnerable to heatwaves and related natural disasters.\nThis year, the consequences of climate change have included a record-breaking heatwave in India that considerably reduced grain yields. As a result, India, which had hoped to compensate for the cut in Russian and Ukrainian grain supplies by boosting its exports, was forced to impose an export ban in order to safeguard its domestic food security.\nThe UN has warned that a combination of climate change and the war in Ukraine is putting an additional 45 million people around the world at risk of starvation. The largest concentrations are in Africa, including the Sahel, where the impact of drought combines with local civil wars. Apart from the humanitarian consequences, this has led to concern about radically increased political instability, and an enormous surge in migration.\nPresident Biden has sought to signal the seriousness of his administration’s commitment by going to COP27 himself — something that allows him both to showcase his measures to limit emissions and to score points off Chinese leader Xi Jinping, who is not attending. Obviously however, delegates to COP27 are watching the U.S. midterm elections, which may deliver a severe blow to hopes for further U.S. action, at least in the short term.\nThe Biden administration, and some U.S. commentators, are hoping that a sort of benign competition over climate change action can be fostered between the United States and China, with each trying to outdo the other both in its moves and in its appeal to other countries for admiration and support. There are two parts to this competition.\nThe resources available for this are however obviously severely limited by the vast sums being poured into the U.S. and Chinese militaries as part of the intensifying cold war between them. In the case of the United States, the military budget swallows almost 20 times the sums devoted to international aid — far more if additional costs like support for veterans are included.\nAlthough the Biden administration’s National Security Strategy describes climate change as a “potentially existential threat,” the great majority of that document is devoted to “traditional” security threats from Russia and China that while certainly serious as far as their neighbors are concerned, cannot seriously be described as existential for the United States.\nU.S. aid being given to poor and endangered countries therefore remains paltry compared to their needs, and the security threats that they are likely to pose to the West in future. At the same time, domestic U.S. political realities make it hard to imagine America generating anything like the sums required, at least for a considerable time to come.\nHowever, what should be possible for the bipartisan U.S. foreign and security establishment is a far greater concentration on the dangers in America’s own back yard in Central America and the Caribbean. Guatemala, Honduras, and Haiti are among the countries most threatened by food shortages at present, with obvious consequences for both political stability and migration.\nFor at present, the contrast between the sums given by Washington to Ukraine and the Middle East versus those given to America’s own neighbors is almost grotesque. The whole of Central America receives less aid than Iraq or Jordan alone. The sums in military aid to Ukraine exceed total U.S. development and humanitarian aid to the whole of Latin America and Africa put together.\nA central reason for this neglect is that the United States does not face a great power competitor in its own backyard, and so Central America does not present the sort of “classical” security threats that the U.S. establishment is configured to meet and on which Biden NSS concentrates.\nThis underlines a fundamental problem not just for the United States but for most major states around the world, China and India emphatically included: the problem of residual elites and institutions. These were created to meet one set of challenges, and did so with considerable success; but they are simply not culturally nor professionally equipped to deal with a radically changing world.",
+      "image_captions": [
+        "Is ASEAN Partnership A Major Move for China In Asian Maritime Disputes?",
+        "Returning Western Mercenaries Pose Long-Term Security Threat For Europe",
+        "Russia-Ukraine Conflict Spurs More Sentiment In France To Leave NATO",
+        "Former Bangladesh PM Sheikh Hasina Hints At US Role In Ouster From Bangladesh",
+        "UK To Return Chagos Islands But Secretive US Base Will Remain"
+      ]
+    }
+  ],
+  "evidence_count": 4,
+  "crawled_at": "2026-04-23T18:50:19.532332+00:00"
+}

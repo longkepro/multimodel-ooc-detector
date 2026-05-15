@@ -1,0 +1,74 @@
+{
+  "sample_id": "true_92",
+  "image_url": "https://pbs.twimg.com/media/EAmAKHSWkAEh0K_?format=jpg&name=medium",
+  "visual_entities": [
+    {
+      "description": "Interior design",
+      "score": 0.7237
+    },
+    {
+      "description": "Living room",
+      "score": 0.4881
+    },
+    {
+      "description": "Art",
+      "score": 0.4698
+    },
+    {
+      "description": "Bookcase",
+      "score": 0.4631
+    },
+    {
+      "description": "Table",
+      "score": 0.4488
+    },
+    {
+      "description": "Livspace",
+      "score": 0.4032
+    },
+    {
+      "description": "Centrepiece",
+      "score": 0.3972
+    },
+    {
+      "description": "Shelf",
+      "score": 0.3357
+    },
+    {
+      "description": "Wreath",
+      "score": 0.3123
+    }
+  ],
+  "best_guess_labels": [
+    "decoration"
+  ],
+  "similar_image_urls": [
+    "https://pbs.twimg.com/media/EAmAKHSWkAEh0K_.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.accio.com/plp/decoration-stuff",
+      "page_title": "Need Decoration Stuff? Explore 46,000+ Home & Party Decor Items",
+      "title": "Need Decoration Stuff? Explore 46,000+ Home & Party Decor Items",
+      "description": "Looking for unique decoration stuff? Discover wall art, table centerpieces, and seasonal wreaths for any space. Shop verified suppliers with competitive prices. Click to browse now!",
+      "text": "Market Trends of Decoration Stuff\nThe global home decor market reached $714 billion in 2023, projected to grow at 5.2% CAGR through 2030. Key industry developments include rising demand for sustainable materials (bamboo, recycled metals) and smart decorative items with embedded lighting or IoT capabilities. Personalized/customizable decor now represents 28% of B2B orders, while multifunctional pieces (storage-integrated decor) show 17% annual growth.\nMajor drivers include urbanization (68% of global population in cities by 2030), rising disposable incomes, and social media-driven interior design trends. Significant challenges include volatile raw material costs (lumber prices fluctuated 35% in 2023) and complex international compliance frameworks. Regionally, Asia-Pacific dominates with 41% market share, followed by North America (28%) and Europe (23%). Technology advancements like AR visualization tools and AI-driven trend forecasting are reducing product returns by 22% and enabling hyper-personalized manufacturing.\nHow To Choose Decoration Stuff?\nTechnical Specifications and Standards\nPrioritize ISO 8124-1 safety compliance for decorative items, especially those with electrical components or child-accessible parts. Verify material composition certificates – ceramic decor should meet ASTM C242 standards, while metal items require RoHS compliance for lead content.\nIndustry Compliance Requirements\nMandatory certifications vary by region: CE marking for EU imports, CPSIA for US markets, and GB 6675 for China-bound shipments. Textile-based decor requires Oeko-Tex Standard 100 certification, with flammability ratings (CAL 117 for furniture) being non-negotiable for commercial spaces.\nPerformance Metrics and Benchmarks\nEvaluate fade resistance (AATCC 16 for colorfastness), structural integrity (minimum 50,000 flex cycles for hanging elements), and lightfastness ratings (Blue Wool Scale 7+ for sun-exposed areas). Commercial-grade decor should withstand 2x the stress of residential equivalents.\nCost-Efficiency Factors\nCalculate total cost per lifecycle hour – a $100 decor piece lasting 10 years outperforms a $40 item replaced biannually. Factor in shipping optimization (modular designs reduce volume costs by 18-35%) and bulk purchase discounts at 500+ units.\nQuality Assurance Considerations\nRequire third-party lab reports for material verification and stress testing. Implement AQL 2.5 inspection protocols with 0% tolerance for critical defects like sharp edges or toxic coatings. Supplier audits should cover factory conditions and QC documentation trails.\nIntegration Capabilities\nPrioritize decor with universal mounting systems (keyhole slots, standard bracket interfaces) and IoT-ready components. Verify API compatibility for smart home ecosystems – 78% of commercial buyers require Matter protocol support.\nAfter-Sales Support Evaluation\nDemand minimum 3-year warranties with replacement SLAs under 10 business days. Assess supplier responsiveness through mock support tickets – industry leaders resolve 95% of issues within 48 hours. Spare parts availability for mechanical components is essential.\nWhat are the best decoration stuff?\nSummary Analysis\nHigh-volume buyers should prioritize Yizhao's wooden decorations (50% order conversion) for seasonal offerings, despite the 100-piece MOQ. For premium segments, Zhejiang Ningbo's water features command premium pricing ($27.50+) but show exceptional 39% conversion rates. Fuzhou Skywin's lantern kits offer optimal balance with low MOQ (10 units), scalable pricing down to $2.80 at volume, and proven demand (1,379 recent orders). B2B buyers targeting quick-stock replenishment should consider Qingdao Woway's Nordic decor (MOQ 2 pieces) or Huizhou's 3D wall ornaments (perfect 5.0 reviews). Avoid suppliers like Chaozhou Jumen Hardware with single-unit pricing anomalies ($304/piece) and limited order history.\nFAQs\nWhat are the decorative items?\nDecorative items encompass functional or non-functional objects designed to enhance spatial aesthetics, including vases, sculptures, wall art, ornamental lighting, and seasonal accents. In commercial contexts, these extend to architectural elements like custom facades, branded environmental graphics, and experiential installations that shape customer perceptions.\nWhat is the 3-5-7 rule for decorating?\nThis spatial composition principle dictates using odd-number groupings for visual harmony: 3 foundational pieces (e.g., sofa, rug, main artwork), 5 secondary accents (lighting, plants, side tables), and 7 textural layers (throw pillows, books, objects). The rule optimizes retail displays and hospitality environments by creating rhythm without clutter.\nWhat are decorative things called?\nIndustry terminology varies by function: \"ornaments\" denote non-utilitarian objects like figurines; \"accents\" describe complementary pieces (vases, trays); \"hard decor\" refers to permanent installations (moldings, built-ins); \"soft decor\" includes textiles and temporary elements. Trade professionals use \"FF&E\" (Furniture, Fixtures & Equipment) for contractual specifications.\nWhat decor is popular now?\nCurrent commercial trends favor biophilic designs (moss walls, organic shapes) representing 42% of new hospitality projects, and adaptive pieces like modular partitions with acoustic properties. Material-wise, patinated metals and textured ceramics dominate, while color trends show 31% growth in earthy terracottas. Sustainability certifications now influence 67% of B2B purchasing decisions.",
+      "image_captions": [
+        "Desktop Art Decoration Living Room  Home Decorative Items Ceramics Nordic Creative Decor",
+        "Home Decor Pieces Interior Modern Nordic Living Room House Accessories Gold Luxury Other Decoration Home Table Decor for Home",
+        "Creative Chinese-Style Flowing Water Decorative Items Wealth-Generating Home Decor for Living Room and Office Desktops",
+        "High-End Stainless Steel Desktop Ornaments Small Handicrafts for Living Room Decor Eco-Friendly for Weddings",
+        "Handicraft Ornaments Tabletop Items Nordic Wedding Decorations Living Room Table Decorative Items Corporate Gifts"
+      ]
+    },
+    {
+      "url": "https://www.servicecore.com/decorative-home-se17-594162.html",
+      "page_title": "Shop decorative home Online Sale 60 Easy and Chic Home Decor ...",
+      "title": "Error - ServiceCore",
+      "description": "OH NO! THIS IS THE INTERNET'S VERSION OF A TIP OVER. We can't find the page you were looking for. Home Page",
+      "text": "SALES 1-844-336-0611 | SUPPORT 1-888-691-1333\nPortable Restroom Software\nSoftware To Manage Your Portable Toilet Business\nGrease Software\nSoftware To Manage Your Septic Business\nSeptic Software\nDumpster Software\nSoftware To Manage Your Dumpster Business\nAbout ServiceCore\nLearn More About ServiceCore\nPartnerships\nPartner With ServiceCore\nCareers\nSee Open Positions\nTestimonials\nSuccess Stories\nBlog\nArticles To Help Operators Grow\nCase Studies\nThese operators made the switch to ServiceCore\nToiletTalk\nBusiness Tips for Portable Toilet Operators\nRefer An Operator\nKnow Someone That Needs ServiceCore?\nFree Ebooks\nMade for Operators Like You\n2025 Portable Sanitation Industry Benchmark Report\nDownload this year’s benchmark report to see how your business compares to others in the portable sanitation industry\nThe Complete Routing Playbook for Portable Restroom Operators\nLearn How to Elevate Your Routing game to run a more efficient & productive business\n1-888-691-1333\nOH NO! THIS IS THE INTERNET’S VERSION OF A TIP OVER.\nWe can’t find the page you were looking for.",
+      "image_captions": []
+    }
+  ],
+  "evidence_count": 2,
+  "crawled_at": "2026-04-23T18:36:20.524250+00:00"
+}

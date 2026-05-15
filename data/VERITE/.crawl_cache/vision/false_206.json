@@ -1,0 +1,104 @@
+{
+  "sample_id": "false_206",
+  "image_url": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2011/3/21/1300743987251/A-US-soldier-poses-with-d-007.jpg?width=465&quality=85&dpr=1&s=none",
+  "visual_entities": [
+    {
+      "description": "Afghanistan",
+      "score": 0.8262
+    },
+    {
+      "description": "Soldier",
+      "score": 0.7064
+    },
+    {
+      "description": "Matthias Gebauer",
+      "score": 0.6582
+    },
+    {
+      "description": "Maywand District murders",
+      "score": 0.64875
+    },
+    {
+      "description": "",
+      "score": 0.5508
+    },
+    {
+      "description": "Death",
+      "score": 0.5472
+    },
+    {
+      "description": "Civilian",
+      "score": 0.4652
+    },
+    {
+      "description": "Sentence",
+      "score": 0.4076
+    },
+    {
+      "description": "",
+      "score": 0.3842
+    },
+    {
+      "description": "NATO",
+      "score": 0.3842
+    },
+    {
+      "description": "Crime",
+      "score": 0.354
+    },
+    {
+      "description": "Guilt",
+      "score": 0.3172
+    }
+  ],
+  "best_guess_labels": [
+    "dead soldier"
+  ],
+  "similar_image_urls": [
+    "https://kep.cdn.indexvas.hu/1/0/201/2016/20168/2016810_6b1128bfacd31cb60802b545b2875611_wm.jpg",
+    "https://pbs.twimg.com/media/GhaLgJPXAAA59Nc.png",
+    "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2011/3/21/1300743987251/A-US-soldier-poses-with-d-007.jpg?width=465&dpr=1&s=none&crop=none",
+    "http://i3.sinaimg.cn/lx/2011/0323/U5474P622DT20110323102226.jpg",
+    "https://lh5.googleusercontent.com/-aPKbIDTu7ug/TYu5KL-N6CI/AAAAAAAAA-4/M1CmiHxfMNo/s1600/A-US-soldier-poses-with-d-007.jpg",
+    "https://pl.exploredprk.com/wp-content/uploads/sites/2/2019/12/A-US-soldier-poses-with-d-007.jpg",
+    "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2011/3/24/1300992857715/Jeremy-Morlock-a-member-o-007.jpg?width=220&dpr=1&s=none&crop=5%3A4",
+    "https://cdn.prod.www.spiegel.de/images/30229e28-0002-0004-0000-00007b2c8b33_w520_r1.33_fpx28.05_fpy54.95.jpg",
+    "https://cdn.prod.www.spiegel.de/images/30229e28-0002-0004-0000-00007b2c8b33_w960_r1.5_fpx28.05_fpy54.95.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=24886171894301949"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.theguardian.com/world/2011/mar/23/us-soldier-admits-killing-afghans",
+      "page_title": "US soldier admits killing unarmed Afghans for sport - The Guardian",
+      "title": "US soldier admits killing unarmed Afghans for sport",
+      "description": "Jeremy Morlock, 23, tells US military court he was part of a 'kill team' that faked combat situations to murder Afghan civilians",
+      "text": "An American soldier has pleaded guilty to being part of a \"kill team\" who deliberately murdered Afghan civilians for sport last year.\nArmy Specialist Jeremy Morlock, 23, told a military court he had helped to kill three unarmed Afghans. \"The plan was to kill people, sir,\" he told an army judge in Fort Lea, near Seattle, after his plea.\nThe case has caused outraged headlines around the world. In a series of videotaped confessions to investigators, some of which have been broadcast on American television, Morlock detailed how he and other members of his Stryker brigade set up and faked combat situations so that they could kill civilians who posed no threat to them. Four other soldiers are still to come to trial over the incidents.\nThe case is a PR disaster for America's military and has been compared to the notorious incidents of torture that emerged from the Abu Ghraib prison in Iraq. This week the German magazine Der Spiegel published three pictures that showed American soldiers, including Morlock, posing with the corpse of a young Afghan boy as if it were a hunting trophy.\nSome soldiers apparently kept body parts of their victims, including a skull, as souvenirs. In a statement issued in response to the publication of the photos the US army apologised to the families of the dead. \"[The photos are] repugnant to us as human beings and contrary to the standards and values of the United States army,\" the statement said.\nMorlock has told investigators that the murders took place between January and May last year and were instigated by an officer in his unit, Staff Sergeant Calvin Gibbs. He described how elaborate plans were made to pick out civilian targets, kill them and then make their deaths look like they were insurgents. In his confession Morlock described shooting a victim as Gibbs tossed a grenade at him. \"We identify a guy. Gibbs makes a comment, like, you know, you guys wanna wax this guy or not,\" Morlock said in the confession.\nMorlock now stands to be sentenced to at least 24 years in jail but with eligibility for parole after seven years. That has come about because Morlock struck a plea bargain that will see a lighter sentence in return for testifying against his fellow soldiers.",
+      "image_captions": [
+        "US Army Specialist Jeremy Morlock, who admitted being part of the 'kill team' that murdered unarmed Afghans. Photograph: Reuters"
+      ]
+    },
+    {
+      "url": "https://www.theguardian.com/world/2011/jan/05/australian-escapes-afghan-death-sentence",
+      "page_title": "Australian escapes death sentence after paying Afghan family",
+      "title": "Australian escapes death sentence after paying Afghan family",
+      "description": "Ex-soldier has sentence commuted to 20 years in jail after paying relatives of murdered guard $100,000",
+      "text": "An Australian private security guard who murdered an Afghan worker has escaped the death sentence by paying the family of his victim $100,000 (£65,000), court documents reveal.\nThe former Australian soldier was handed the death sentence last January after a Kabul court found him guilty of shooting an Afghan colleague before making a crude attempt to make the crime look like a Taliban attack.\nBut it emerged this week that Robert William Langdon persuaded two supreme court judges that he should be allowed to live after the family of the dead man, who was known as Karimullah, accepted a large compensation payment raised by Langdon's relatives in Australia.\nHowever, the payment, known in sharia law as ibra, was not enough to commute the whole sentence, so Langdon will face 20 years in Kabul's notorious Pol-e-Charki prison, home to Taliban and al-Qaida inmates as well as criminals. The jail term is thought to be the longest given to a westerner in Afghanistan since the toppling of the Taliban regime in 2001.\nAt the time of the killing in May 2009, Langdon was working for Four Horsemen International, a private firm which works with the US military and specialises in protecting military supply convoys.\nAccording to the Afghan court's two-page judgment on the case, which has been seen by the Guardian, the killing took place during a routine journey with a supply convoy through hostile territory south-east of Kabul.\nAbout 60 expatriate and Afghan guards were travelling with the convoy when they were ambushed by insurgents. After stopping in the capital of Wardak province Karimullah argued with Langdon that it was too dangerous to continue and they should wait until the following morning. During the argument Langdon shot Karimullah as he sat in the cab of his vehicle.\nAnother foreign contractor was ordered to move the vehicle containing Karimullah's dead body to an isolated area out of town where the guards were ordered to fire their weapons into the air \"in order to make it look like an enemy attack\".\nThe vehicle was torched with the help of a grenade thrown by Langdon.\nLangdon hurried back to Kabul, where he withdrew $10,000 from his Afghan bank account and tried to board a Dubai-bound plane. However, he was arrested by airport police after some colleagues raised the alarm.\nLangdon, who was sentenced to death by two different courts, had argued that he acted in self-defence after thinking Karimullah, who was sitting in a car, was reaching for his own gun.\n\"He reached across, and I am ex-military, so it was like bang-bang-bang-bang,\" Langdon said at his appeal. \"I didn't have time to think. We had just been hit, we didn't know what was happening and everyone was antsy.\"\nNamatullah Hafizi, head of the attorney general's punishment department, said withdrawing the death sentence was justified given the family's ibra payment, but said that such a ruthless crime deserved a long jail sentence, particularly given Langdon's \"cruel\" desecration of the corpse.\n\"Burning the body in our religion is a serious action,\" he said.\nLangdon will serve his sentence in Pol-e-Charki prison alongside just a handful of other foreigners, mainly drug smugglers and murderers.\nLangdon's family have not commented on the case and the former soldier himself has shied away from the media since his arrest.\nSecurity firms are widely despised in Afghanistan, where they are blamed for fuelling corruption and behaving with impunity even when their activities lead to innocent members of the public being injured or killed.\nThe Afghan president, Hamid Karzai, has repeatedly called for security companies to be closed down.\nThe international community has developed a plan to gradually make such firms redundant over time.",
+      "image_captions": [
+        "Robert William Langdon is escorted to ther appeal court hearing in Kabul",
+        "Robert William Langdon"
+      ]
+    },
+    {
+      "url": "https://www.theguardian.com/world/2013/jun/02/afghanistan-murders-staff-sergeant-robert-bales",
+      "page_title": "Relatives of murdered Afghans demand death for American sergeant",
+      "title": "Relatives of murdered Afghans demand death for American sergeant",
+      "description": "Staff Sergeant Robert Bales due to plead guilty to March 2012 massacre of 16 people, in return for life sentence",
+      "text": "Relatives of 16 Afghan civilians killed by a US soldier during a midnight rampage through two villages have expressed fury over a plea bargain that could see the perpetrator escape execution in return for confessing to the murders. They have called on US military prosecutors handling the trial of Staff Sergeant Robert Bales to imagine losing their own loved ones to a gunman bent on murder and deaf to pleas of mercy.\n\"My last request from the world, all the countries, is that as a family of the victims we want our killer to be hanged,\" said Haji Baran, who lost his brother Mohammad Daud in the massacre, last March. \"If someone entered your house and killed the children and old men and women of the family, what would your response be?\"\nBales will enter guilty pleas to charges of premeditated murder on Wednesday, his attorney told the Associated Press. He is expected to be sentenced to life in prison, but a court will decide in September if he will have the possibility of parole. Any plea deal must be approved by both a judge and the commanding general.\nThere are currently six men on death row in the military prison at Fort Leavenworth, where Bales is being held, but none were convicted for atrocities against foreign citizens and the US military has not executed a service member since 1961.\nSome relatives of the dead pledged to seek vengeance if Bales is sentenced to life in prison rather than execution for the attacks, in which he killed nine children and seven adults and burned some of the bodies. The scale of the massacre shocked Afghanistan and the west. Although there have been far larger death tolls from air strikes, they have been accepted, at least in foreign troops' home countries, as tragic mistakes.\n\"A prison sentence doesn't mean anything,\" Said Jan, whose wife and three other relatives died, told the AP. \"I know we have no power now. But I will become stronger and if he does not hang, I will have my revenge.\"\nThe families, and many other Afghans, were already angry that Bales was not tried for the killings in Afghanistan, where he would certainly have faced the death penalty. But if they do try to press for a harder sentence, they may not get unanimous support from their rural community. The US and Afghan governments handed out compensation for the killings, and some villagers consider the payments equivalent to blood money traditionally given to end hostilities between families after a killing. In line with that tradition, if a payment is accepted the family renounce the right to avenge the death.\n\"It is my Islamic duty to say the truth, that the relatives of the people who were killed and wounded, they already sold their bodies to the Americans,\" said Abdul Halim Noorzai, a former mujahideen commander from Panjwai district. Two of his family members were injured in the attack, he said, adding that US officials paid out $50,000 for each person killed and $10,000 for each injured victim – a huge amount of money in an impoverished rural area.\n\"It was their right to take money, but now they don't have rights to decide his punishment. Its up to the US whether they want to punish him or put him to death,\" Noorzai added.\nHaji Satar Khan, an eyewitness to the attacks, said usual compensation for a killing in the area was around $10,000, and because the payouts to the victims' families had been far more generous they would get little support from their neighbours in any attempt to challenge the sentence publicly. \"They received more than that, so people will not help them if they do protest,\" he said.\nMokhtar Amiri contributed reporting",
+      "image_captions": [
+        "Robert Bales is accused of killing 16 civilians in Afghanistan.  Photograph: US Department of Defense/AP"
+      ]
+    }
+  ],
+  "evidence_count": 3,
+  "crawled_at": "2026-04-23T17:50:29.678590+00:00"
+}

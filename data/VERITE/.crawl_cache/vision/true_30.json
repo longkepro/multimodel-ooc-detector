@@ -1,0 +1,66 @@
+{
+  "sample_id": "true_30",
+  "image_url": "https://www.usmagazine.com/wp-content/uploads/2020/02/Amanda-Bynes-Teases-Clothing-Line-in-Rare-Video-Amid-Engagement-News.jpg",
+  "visual_entities": [
+    {
+      "description": "Amanda Bynes",
+      "score": 11.047501
+    },
+    {
+      "description": "Easy A",
+      "score": 1.08315
+    },
+    {
+      "description": "Marianne",
+      "score": 0.86370003
+    },
+    {
+      "description": "Celebrity",
+      "score": 0.5791
+    },
+    {
+      "description": "Clothing",
+      "score": 0.5407
+    },
+    {
+      "description": "Celebrity style",
+      "score": 0.5306
+    },
+    {
+      "description": "Costume",
+      "score": 0.463
+    },
+    {
+      "description": "Fashion",
+      "score": 0.4243
+    },
+    {
+      "description": "Romantic comedy",
+      "score": 0.4218
+    }
+  ],
+  "best_guess_labels": [
+    "outfit amanda bynes easy"
+  ],
+  "similar_image_urls": [
+    "https://www.usmagazine.com/wp-content/uploads/2020/02/Amanda-Bynes-Teases-Clothing-Line-in-Rare-Video-Amid-Engagement-News.jpg?w=1000&quality=70&strip=all"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.usmagazine.com/celebrity-news/news/amanda-bynes-teases-clothing-line-in-rare-instagram-video/",
+      "page_title": "Amanda Bynes Teases Clothing Line in Rare Instagram Video",
+      "title": "Amanda Bynes Teases Clothing Line, Gives Fans a Shout-Out in Rare Video After Engagement News",
+      "description": "Amanda Bynes teased her clothing line following news of her engagement in a rare video posted via Instagram on Thursday, February 20 — details",
+      "text": "A new undertaking. Amanda Bynes gave fans an update on her upcoming venture — a clothing line — following her announcement on Valentine’s Day that she’s engaged.\n“Sup Instagram,” the She’s the Man star, 33, said in a video posted on the social media platform on Thursday, February 20. “Just wanted to say hi to all my followers. I really wanted to say I appreciate you guys so much for supporting me.”\nBynes added that she was out to dinner with her friend Kathy, a student advisor at the Fashion Institute of Design & Merchandising, where the actress graduated from in June 2019. The former Nickelodeon star then revealed to fans that she’s working on a new project.\n“I’m really looking forward to staring my clothing line and I’m hoping that in the near future it will be out online,” she said.\nBynes’ video update comes just days after the Easy A star announced her engagement via an Instagram photo on Friday, February 14.\n“Engaged to tha love of my life,” she captioned the picture, which showed a massive ring on her left hand. Hours later, Bynes shared a photo of herself with a man, who Us Weekly later identified as Paul Michael.\nBynes has maintained a low profile since she checked herself into rehab in January 2019. A source told Us in March 2019 that the All That alum suffered a “setback which was the result of feeling pressure of being back in the spotlight after her [November 2018] Paper magazine cover.”\nIn the candid interview, Bynes explained how she struggled with her mental health after she decided to retire from acting in 2010.\n“I just had no purpose in life,” Bynes said at the time. “I’d been working my whole life and [then] I was doing nothing. I had a lot of time on my hands and I would ‘wake and bake’ and literally be stoned all day long. … I got really into my drug usage and it became a really dark, sad world for me.”\nThe Sydney White star later graduated from FIDM in June 2019. A source told Us at the time that the former child star received a day pass so that she could attend her graduation. Bynes checked herself out of the rehab facility in December 2019.\nLater that month, Bynes returned to Instagram following a three-month hiatus with a series of selfies.\n“Geisha girl vibes 💌,” Bynes captioned a photo of herself with green hair. Days later, the Amanda Show alum posted another picture of herself with what appeared to be a heart tattoo on her cheek.",
+      "image_captions": [
+        "Amanda Bynes leaves the nail salon on October 10, 2019.P&P / MEGA",
+        "Us Weekly Shorts banner",
+        "Amanda-Bynes-Teases-Clothing-Line-in-Rare-Video-Amid-Engagement-News",
+        "Stylia V Line Lifting Collagen Mask",
+        "Nicole Snooki Polizzi Reveals Health Regret Amid Cervical Cancer Diagnosis Hysterectomy Plan"
+      ]
+    }
+  ],
+  "evidence_count": 1,
+  "crawled_at": "2026-04-23T16:53:35.066565+00:00"
+}

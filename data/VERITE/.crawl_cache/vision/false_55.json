@@ -1,0 +1,106 @@
+{
+  "sample_id": "false_55",
+  "image_url": "https://media.npr.org/assets/img/2015/03/06/Obama%20Selma%202007-6b53f5ea0dfb3b09adfd1992d34d0a94acd64504.jpg",
+  "visual_entities": [
+    {
+      "description": "Selma to Montgomery marches",
+      "score": 1.05405
+    },
+    {
+      "description": "Obama Presidential Center",
+      "score": 0.69861007
+    },
+    {
+      "description": "Civil rights movement",
+      "score": 0.67425
+    },
+    {
+      "description": "Selma",
+      "score": 0.6626565
+    },
+    {
+      "description": "Barack Obama Selma 50th anniversary speech",
+      "score": 0.6546
+    },
+    {
+      "description": "Politics",
+      "score": 0.6041
+    },
+    {
+      "description": "March",
+      "score": 0.5869
+    },
+    {
+      "description": "Suffrage",
+      "score": 0.5289
+    },
+    {
+      "description": "",
+      "score": 0.4188
+    },
+    {
+      "description": "",
+      "score": 0.333
+    },
+    {
+      "description": "CNN",
+      "score": 0.333
+    }
+  ],
+  "best_guess_labels": [
+    "obama selma march"
+  ],
+  "similar_image_urls": [
+    "https://media.npr.org/assets/img/2015/03/06/Obama%20Selma%202007-9e046a804b6f4adfe6eac28d11cc4e2d548240c6.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1127356237640604",
+    "https://thanhnien.mediacdn.vn/uploaded/thuuyen/2015_03_07/selma-afp_GDGH.jpg?width=500"
+  ],
+  "evidence": [
+    {
+      "url": "https://obamawhitehouse.archives.gov/photos-and-video/video/2015/03/07/president-obama-delivers-remarks-50th-anniversary-selma-marches",
+      "page_title": "President Obama Delivers Remarks on the 50th Anniversary of the ...",
+      "title": "President Obama Delivers Remarks on the 50th Anniversary of the Selma Marches",
+      "description": "President Obama delivers remarks from the Edmund Pettus Bridge in Selma, Alabama, marking the 50th anniversary of the marches from Selma to Montgomery.",
+      "text": "President Obama Delivers Remarks on the 50th Anniversary of the Selma Marches\nMarch 07, 2015\n| 31:57\n| Public Domain\nPresident Obama delivers remarks from the Edmund Pettus Bridge in Selma, Alabama, marking the 50th anniversary of the marches from Selma to Montgomery.\nDownload\nmp4 (1180MB) |\nmp3 (77MB)",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.npr.org/2015/03/06/391217903/obama-returns-to-selma-for-50th-anniversary-of-historic-march",
+      "page_title": "Obama Returns To Selma For 50th Anniversary Of Historic March",
+      "title": "Obama Returns To Selma For 50th Anniversary Of Historic March",
+      "description": "The president will speak in Selma, Ala., on Saturday, a half-century after civil rights marchers were beaten and tear-gassed by state troopers.",
+      "text": "Obama Returns To Selma For 50th Anniversary Of Historic March\nObama Returns To Selma For 50th Anniversary Of Historic March\nIt's the kind of moment rich with history — a moment to reflect on a searing date in the civil rights struggle, and to do so with the nation's first African-American president taking center stage at the memorial ceremonies. It's a time and place to reflect on where we have been and where we have come as a nation. But also to ponder the future for Barack Obama and whether the discussion of race and inequality will become major themes of his post-presidency, which begins in less than two years.\nThis weekend, the president; first lady Michelle Obama; and their teenage daughters, Malia and Sasha, will help mark the 50th anniversary of Bloody Sunday in Selma, Ala. It was there in 1965 — on the Edmund Pettus Bridge — that state troopers violently attacked a peaceful civil rights march.\nObama will speak Saturday, putting a spotlight on the issue of race relations in the United States — something he has not done frequently in his presidency.\nThis is Obama's first trip to Selma since taking office, but it's not his first big public moment there.\nIn March of 2007 on a Sunday morning, he stood in the pulpit of Brown Chapel AME Church. It was another anniversary weekend in Selma. Then-U.S. Sen. Obama was, at the time, a newly declared presidential candidate. The churchgoers who listened to Obama that day included some of those who'd been on that bridge when troopers moved in with tear gas and billy clubs. The future president was greeted with thunderous applause. \"We're in the presence today of giants whose shoulders we stand on,\" he said. He called them: \"People who battled on behalf not just of African-Americans but on behalf of all Americans, who battled for America's soul, that shed blood, that endured taunts and torment.\"\nObama said those who marched that day on Bloody Sunday helped make it possible for him to stand before them as a candidate.\nLess than two years later, Obama would again stand on those shoulders of his civil rights heroes as he took the oath as president.\nBut once in office, race was not a front-line issue for the new president. There was an economic crisis to deal with. And two wars that he'd promised to end. Beyond that, though, he did not seem inclined to put a sharp focus on the issue of race. If it came up it was usually related to news events. Just months into Obama's first term in office, African-American scholar and Harvard professor Henry Louis Gates Jr. was arrested in his own home after forgetting his key one night and forcing the front door open. At a news conference, the president was asked about it and he offered what seemed an off-the-cuff response.\n\"I don't know, not having been there and not having seen all the facts, but I think it's fair to say, No. 1, that any of us would be pretty angry. And No. 2, the Cambridge police — uhh — acted stupidly.\"\nThat statement triggered its own controversy. It was an early lesson in how difficult the topic is — even for a still very popular African-American president.\nThere were other moments as well, including the death of Trayvon Martin, who was shot by a neighborhood watch volunteer who had tailed Martin, suspecting he might do something illegal. The shooting took place in spring of 2012. At the time, Obama told reporters, \"You know, if I had a son, he'd look like Trayvon.\" More than a year later, after the acquittal of George Zimmerman, who shot Martin, Obama said, \"Trayvon Martin could have been me 35 years ago.\"\nThat very personal statement is an example of how, in his second term, Obama seems less reluctant to highlight race and to discuss his own experience as a black man in America. Still, a lot of it has been prompted by events, including the deaths of several African-American men at the hands of police. This is from last November, after a grand jury in Ferguson, Mo., decided not to indict the white police officer who fatally shot 18-year-old Michael Brown months earlier.\n\"The fact is in too many parts of this country a deep distrust exists between law enforcement and communities of color,\" Obama said. \"Some of this is the result of the legacy of racial discrimination in this country. And this is tragic because nobody needs good policing more than poor communities with higher crime rates.\"\nAn area where the president has been very proactive is with his My Brother's Keeper Initiative, announced a year ago, aimed at finding mentors for boys and young men of color. Obama points to statistics showing that if you're a black student, you're far less likely than a white student to be able to read proficiently. You're far more likely to be expelled. There's a higher chance you'll end up in the criminal justice system, and that you'll become a victim of violent crime. All of that, he says, translates into higher joblessness and poverty rates as adults.\nThis is from his remarks at the White House the day the initiative was announced: \"And the worst part is we've become numb to these statistics. We're not surprised by them. We take them as the norm. We just assume this is an inevitable part of American life, instead of the outrage that it is. That's how we think about it. It's like a cultural backdrop for us — in movies and television. We just assume, of course, it's going to be like that. But these statistics should break our hearts. And they should compel us to act.\"\nIn the memoir The Presidency in Black and White: My Up-Close View of Three Presidents and Race in America, April Ryan writes about her time as an African-American journalist in the White House press corps. She says she has seen a change in Obama as the years have passed.\n\"First-term President Barack Obama was a president who happened to be black. Second-term Barack Obama is the president who definitely is, indeed, black.\"\nRyan spoke at a recent event hosted by Politico. \"First term, he had to navigate the water successfully to avoid the topic,\" she added, \"so he could get a second term.\"\nAnd there's already discussion of what Obama's post-presidency might be like, and whether he'll make race in America a dominant theme as many civil rights activists hope. Andra Gillespie, a professor of political science at Emory University, says it's still an open question.\n\"He's never going to escape the fact that he's the first black president of the United States, so in that respect it'll always be part of that overall initiative and agenda. But he could have very different plans than the ones liberal activists and scholars of African-American politics would like him to have.\"\nIn the meantime, it's back to Selma this weekend for the president. And another moment to ask Americans to look back at a difficult past — and to think about the future.\nCorrection March 6, 2015\nA previous version of this story incorrectly said that the Rev. Martin Luther King Jr. was at the march on Bloody Sunday.",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.pbs.org/newshour/politics/watch-live-pres-obama-speak-selma-commemorate-50th-anniversary-civil-rights-marches",
+      "page_title": "Obama speaks in Selma on 50th anniversary of civil rights marches",
+      "title": "Video: Obama speaks in Selma on 50th anniversary of civil rights marches",
+      "description": "President Barack Obama and his family were in Selma, Alabama on Saturday to commemorate the 50th anniversary of civil rights marches that led to the passage of the Voting Rights Act of 1965.",
+      "text": "By — News Desk News Desk Leave your feedback Share Copy URL https://www.pbs.org/newshour/politics/watch-live-pres-obama-speak-selma-commemorate-50th-anniversary-civil-rights-marches Email Facebook Twitter LinkedIn Pinterest Tumblr Share on Facebook Share on Twitter Video: Obama speaks in Selma on 50th anniversary of civil rights marches Politics Mar 7, 2015 12:22 PM EDT President Barack Obama and his family were in Selma, Alabama on Saturday to commemorate the 50th anniversary of civil rights marches that led to the passage of the Voting Rights Act of 1965. Obama spoke on the Edmund Pettus Bridge, the site of a violent confrontation between police and peaceful protesters that became known as \"Bloody Sunday.\" Participants marching in a civil rights march from Selma to Montgomery, Alabama, in this 1965 photograph courtesy of the Library of Congress. President Barack Obama and his family will be in Selma on Saturday to commemorate the 50th anniversary of the Selma to Montgomery marches. Credit: REUTERS/Library of Congress/Handout via Reuters \"So much of our turbulent history – the stain of slavery and anguish of civil war, the yoke of segregation and tyranny of Jim Crow, the death of four little girls in Birmingham, and the dream of a Baptist preacher – met on this bridge,\" Obama said. \"It was not a clash of armies, but a clash of wills; a contest to determine the meaning of America.\" Read more: Pres. Obama in Selma: 'Our march is not yet finished' A free press is a cornerstone of a healthy democracy. Support trusted journalism and civil dialogue. Donate now By — News Desk News Desk\nPresident Barack Obama and his family were in Selma, Alabama on Saturday to commemorate the 50th anniversary of civil rights marches that led to the passage of the Voting Rights Act of 1965. Obama spoke on the Edmund Pettus Bridge, the site of a violent confrontation between police and peaceful protesters that became known as \"Bloody Sunday.\" Participants marching in a civil rights march from Selma to Montgomery, Alabama, in this 1965 photograph courtesy of the Library of Congress. President Barack Obama and his family will be in Selma on Saturday to commemorate the 50th anniversary of the Selma to Montgomery marches. Credit: REUTERS/Library of Congress/Handout via Reuters \"So much of our turbulent history – the stain of slavery and anguish of civil war, the yoke of segregation and tyranny of Jim Crow, the death of four little girls in Birmingham, and the dream of a Baptist preacher – met on this bridge,\" Obama said. \"It was not a clash of armies, but a clash of wills; a contest to determine the meaning of America.\" Read more: Pres. Obama in Selma: 'Our march is not yet finished' A free press is a cornerstone of a healthy democracy. Support trusted journalism and civil dialogue. Donate now",
+      "image_captions": [
+        "Participants marching in a civil rights march from Selma to Montgomery, Alabama, in this 1965 photograph courtesy of the Library of Congress.   REUTERS/Library of Congress/Handout via Reuters - RTR4SDZ6",
+        "Evergreen_WebAd_Sidebar_DonateNow",
+        "Friends of the News Hour"
+      ]
+    },
+    {
+      "url": "https://www.npr.org/transcripts/391217903",
+      "page_title": "Obama Returns To Selma For 50th Anniversary Of Historic March",
+      "title": "Obama Returns To Selma For 50th Anniversary Of Historic March",
+      "description": "The president will speak in Selma, Ala., on Saturday, a half-century after civil rights marchers were beaten and tear-gassed by state troopers.",
+      "text": "Obama Returns To Selma For 50th Anniversary Of Historic March\nMELISSA BLOCK, HOST:\nThe president and first family will help mark the 50th anniversary of Bloody Sunday in Selma, Ala., this weekend. It was there in 1965, on the Edmund Pettus Bridge, that state troopers violently attacked a peaceful civil rights march. President Obama will speak there tomorrow, putting a spotlight on the issue of race relations in the U.S., something he hasn't often done in his presidency. NPR national political correspondent Don Gonyea reports.\nDON GONYEA, BYLINE: This is Obama's first trip to Selma since taking office, but it's not his first big public moment there.\n(SOUNDBITE OF SPEECH)\nPRESIDENT BARACK OBAMA: Thank you.\n(APPLAUSE)\nGONYEA: In March of 2007, on another anniversary weekend in Selma, he was a newly declared candidate for president. The crowd included some of those who had been there back in 1965.\n(SOUNDBITE OF SPEECH)\nOBAMA: We're in the presence today of giants, whose shoulders we stand on.\nGONYEA: Less than two years later, Obama would again stand on those shoulders of his civil rights heroes as he took the oath as the nation's first African-American president. But once in office, race was not a frontline issue for the new president. If it came up, it was usually related to news events. Just months into Obama's first term, African-American scholar and Harvard professor Henry Louis Gates was arrested in his own home after forgetting his keys one night and forcing the door open. At a news conference, the president was asked about it.\n(SOUNDBITE OF NEWS CONFERENCE)\nOBAMA: I don't know - not having been there and not seeing all the facts - what role race played in that, but I think it's fair to say, number one, any of us would be pretty angry - number two, that the Cambridge police acted stupidly.\nGONYEA: That off-the-cuff reaction triggered its own controversy. It was an early lesson in how difficult the topic is, even for a still very popular African-American president. In his second term, the president seems less reluctant to highlight race and to discuss his own experience as a black man in America. Still, a lot of has been prompted by events, including the deaths of several African-American men at the hands of police. This is from last November.\n(SOUNDBITE OF PRESS CONFERENCE)\nOBAMA: The fact is in too many parts of this country, a deep distrust exists between law enforcement and communities of color. Some of this is the result of the legacy of racial discrimination in this country. And this is tragic because nobody needs good policing more than poor communities with higher crime rates.\nGONYEA: The president has been proactive with the My Brother's Keeper initiative announced a year ago aimed at finding ways to build support for boys and young men of color. April Ryan is the author of the book \"The Presidency In Black And White\" about her time as an African-American journalist covering three presidents. She sees a change in Obama.\nAPRIL RYAN: First-term President Barack Obama - he was a president who happened to be black. Second-term Barack Obama - he is the president who definitely is indeed black.\nGONYEA: Ryan spoke at an event hosted by Politico.\nRYAN: First term, he had to navigate the water successfully to avoid the topic so he could get a second term.\nGONYEA: And there's already discussion of what Obama's post-presidency may be like and whether he'll make race in America a dominant theme, as many civil rights activists hope. Andra Gillespie teaches at Emory University.\nANDRA GILLESPIE: He's never going to escape the fact that he was the first black president of the United States. So in that respect, race is likely going to be a part of that overall initiative and agenda. But he could have very different plans than the ones that liberal activists and scholars of African-American politics would want him to have.\nGONYEA: In the meantime, it's back to Selma this weekend for the president and another moment to ask Americans to look back at a difficult past and to think about the future. Don Gonyea, NPR News.\nCopyright © 2015 NPR. All rights reserved. Visit our website terms of use and permissions pages at www.npr.org for further information.\nAccuracy and availability of NPR transcripts may vary. Transcript text may be revised to correct errors or match updates to audio. Audio on npr.org may be edited after its original broadcast or publication. The authoritative record of NPR’s programming is the audio record.",
+      "image_captions": []
+    },
+    {
+      "url": "https://obamawhitehouse.archives.gov/photos-and-video/video/2015/03/07/president-obama-delivers-remarks-50th-anniversary-selma-marches?tid=93",
+      "page_title": "President Obama Delivers Remarks on the 50th Anniversary of the ...",
+      "title": "President Obama Delivers Remarks on the 50th Anniversary of the Selma Marches",
+      "description": "President Obama delivers remarks from the Edmund Pettus Bridge in Selma, Alabama, marking the 50th anniversary of the marches from Selma to Montgomery.",
+      "text": "President Obama Delivers Remarks on the 50th Anniversary of the Selma Marches\nMarch 07, 2015\n| 31:57\n| Public Domain\nPresident Obama delivers remarks from the Edmund Pettus Bridge in Selma, Alabama, marking the 50th anniversary of the marches from Selma to Montgomery.\nDownload\nmp4 (1180MB) |\nmp3 (77MB)",
+      "image_captions": []
+    }
+  ],
+  "evidence_count": 5,
+  "crawled_at": "2026-04-23T17:02:20.104862+00:00"
+}

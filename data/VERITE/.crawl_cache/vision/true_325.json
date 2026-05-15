@@ -1,0 +1,89 @@
+{
+  "sample_id": "true_325",
+  "image_url": "https://metro.co.uk/wp-content/uploads/2016/02/ad_196548460.jpg?quality=90&strip=all&zoom=1&resize=480%2C270",
+  "visual_entities": [
+    {
+      "description": "Gökhan Kırdar",
+      "score": 5.793
+    },
+    {
+      "description": "Soldier",
+      "score": 0.7641212
+    },
+    {
+      "description": "Russia",
+      "score": 0.43365
+    },
+    {
+      "description": "Dailymotion",
+      "score": 0.3256
+    },
+    {
+      "description": "",
+      "score": 0.3256
+    }
+  ],
+  "best_guess_labels": [
+    "diri diri yanan askerler"
+  ],
+  "similar_image_urls": [
+    "https://s2.dmcdn.net/v/GD-7_1eovC7WTKYvj/x1080",
+    "https://s2.dmcdn.net/v/GD-7_1eovC7z5lnZJ/x480",
+    "https://www.wattan.net/data/image/full/01073133199736024077388773287330.jpg",
+    "https://pbs.twimg.com/media/CbRwQRtWcAAQpGj.jpg",
+    "https://s2.dmcdn.net/v/GD-7_1eovC7s3cvXP/x240",
+    "https://metro.co.uk/wp-content/uploads/2016/02/ad_196548460.jpg?quality=90&strip=all&zoom=1&resize=480%2C270",
+    "https://ocdn.eu/pulscms-transforms/1/sNVk9kpTURBXy9kNzNkNmE4MTk4ZWIxZjNhMDEyM2Y5NTg3NTBiNGZkMi5qcGeRkwLNAWjMyt4AAqEwAaExAQ",
+    "https://www.chosun.com/resizer/v2/STNLSNZ3PPAHNHKTYGGGNAISIY.jpg?auth=53d925f9bf59b1779d155c453c0682a250a63736723f5bd0960ec026ef3266e0&width=464",
+    "https://img.tsn.ua/cached/575/tsn-42acd4d1c978ea629b0f3f2d0d116492/thumbs/1200x630/2b/f1/cc7bc43aaba215a1495bce0b3a9cf12b.jpg",
+    "https://pbs.twimg.com/media/CbRwQRtWcAAQpGj.jpg?format=jpg&name=thumb"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.dailymotion.com/video/x4hzzzz",
+      "page_title": "Ukrayna Askerleri Rus Ayrılıkçıyı Diri Diri Gömdü - Dailymotion Video",
+      "title": "Ukrayna Askerleri Rus Ayrılıkçıyı Diri Diri Gömdü",
+      "description": "",
+      "text": "Skip to player\nSkip to main content\nWatch fullscreen\nHaberler.com\nUkrayna Askerleri Rus Ayrılıkçıyı Diri Diri Gömdü",
+      "image_captions": []
+    },
+    {
+      "url": "https://tsn.ua/ukrayina/u-merezhi-z-yavilosya-shokuyuche-video-yak-boyoviki-na-donbasi-katuyut-miscevogo-narkotorgovcya-592005.html",
+      "page_title": "Жахливе відео катування бойовиками наркоторговця на Донбасі ...",
+      "title": "Жахливе відео катування бойовиками наркоторговця на Донбасі шокувало західні ЗМІ",
+      "description": "Юзерів шокувало відео жорстоких катувань чоловіка російськими бойовиками",
+      "text": "Жахливе відео катування бойовиками наркоторговця на Донбасі шокувало західні ЗМІ\nБойовики били чоловіка електричними дротами.\nУ неділю, 14 лютого, у Мережі з'явилося шокуюче відео жорстоких тортур російськими бойовиками торговця наркотиками в місті Комунар Донецької області. Відео швидко поширилося Мережею і привернуло увагу західних ЗМІ. Зокрема, Daily Mail опублікував відео на своїй сторінці з детальним описом всієї історії.\nТСН.ua попереджає, що відео містить сцени насильства.\nНагадаємо, на відео чоловіка прив'язали до стовпа та б'ють електричними дротами. Уся його спина в синцях і кровоточить. Чоловік благає не вбивати його, але бойовики продовжують тортури. Той, хто знімає відео, каже: \"Нам не потрібні суди, вироки, ось, що нам потрібно\".\nЗазначимо, користувачі Мережі впізнали чоловіка, якого бойовики запідозрили в продажу наркотиків. Ним виявився житель селища Комунар Донецької області Олексій Фрумкін. Судячи з публікацій, які він вподобав у соціальних мережах, чоловік був активним прихильником \"русского мира\". Крім того, він сфотографувався на одному з мітингів сепаратистів.\nКата, що б'є торговця наркотиками, ідентифікували як бойовика \"Ольхон\". Він приїхав до Комунара з Новосибірська. Відео пізніше було розміщене на сайті офіційної спільноти проросійських бойовиків у ВКонтакте. Торговець наркотиками наразі зник безвісти та найімовірніше помер.",
+      "image_captions": [
+        "Торговець наркотиками наразі зник безвісти та найімовірніше помер.             /              © Daily Mail",
+        "Кароль виступила у Ризі та Мінську",
+        "Торговець наркотиками наразі зник безвісти та найімовірніше помер.",
+        "Ситуація в зоні АТО загострилася",
+        "Фото автора: Євген Магда"
+      ]
+    },
+    {
+      "url": "https://www.fakt.pl/wydarzenia/swiat/chlosta-kablem-i-zgon-za-co-ten-lincz/8qv3mtd",
+      "page_title": "Chłosta kablem i zgon. Za co ten lincz? - Fakt.pl",
+      "title": "Chłosta kablem i zgon. Za co ten lincz?",
+      "description": "Wszyscy współczujemy Ukraińcom mieszkającym w Donbasie. Tam wciąż toczy się wojna. Wprawdzie uśpiona, ale ludzie giną. Oczywiście, zarówno wojska ukraińskie, jak i prorosyjscy bojownicy udają, że n...",
+      "text": "Chłosta kablem i zgon. Za co ten lincz?\nWszyscy współczujemy Ukraińcom mieszkającym w Donbasie. Tam wciąż toczy się wojna. Wprawdzie uśpiona, ale ludzie giną. Oczywiście, zarówno wojska ukraińskie, jak i prorosyjscy bojownicy udają, że na spornym terytorium funkcjonuje prawo. Jednak jest to praworządność specyficznie rozumiana. Wygrywa silniejszy, to on decyduje, co zasługuje na chłostę, a wysokość kary nie jest ustalana w kodeksach i sądach. Nic więc dziwnego, że dochodzi do linczów, które katom uchodzą płazem. Tak jak w tym przypadku. Zobaczcie, jak zlinczowano niejakiego Olelksija Frumkina. Nie wiadomo, czy zakatowano go za to, że sprzyjał wrogim oddziałom, czy za to, że handlował narkotykami. Wiadomo, że kat należy do zbrojnej formacji sił samozwańczej Donieckiej Republiki Ludowej i jest znany pod pseudonimem Olchon.\nNa stronie społecznościowej vk.com (która jest rosyjskim odpowiednikiem Facebooka) opublikowano drastyczne wideo. Na filmie widać osobę, która bije kablem przywiązanego do słupa mężczyznę. Ofiarą, jak się później okazało, był mieszkaniec wsi Komunar.\nWiadomo, że kat jest obywatelem Rosji i przyjechał na wschód Ukrainy z Nowosybirska, by wspierać separatystów. – To jest kara dla dilera narkotyków - słyszymy czyjś głos. – Przysięgam, powiedziałem wszystko. Boże, nie mogę tego wytrzymać, chcę żyć. Proszę, proszę – błaga mężczyzna, który jest wciąż bity. – Nie potrzebujemy sądu, wyroku, to jest właśnie to, czego potrzebujemy – mówi ktoś, kto trzyma kamerę.\nUkraińskie media nazywają katowanego \"cywilem\". Nie wiadomo, czy faktycznie był zamieszany w jakiś handel narkotykami. Na stronie kanału telewizyjnego ICTV czytamy, że ofiara nie przeżyła tortur. Samego momentu zgonu nie widać na nagraniu, nie wiadomo też, gdzie jest ciało zmarłego.\nNiektóre media donoszą, że zakatowany miał powiązania z bojownikami i należał do jednej z prorosyjskich organizacji. Wiadomo, że wśród bojowników na wschodzie Ukrainy narastały konflikty. Tortury miała opublikować na swoim profilu w serwisie vk.com formacja Troja, która nie potrafiła znaleźć wspólnego języka z kierownictwem DNR (Doniecka Republika Ludowa).\nStrona uapress.info podała nieoficjalnie, że ofiarą bojowników stał się Olelksij Frumkin. Czytelnicy jednego z blogów napisali, że poznają tego mężczyznę.\nZobacz wideo. Gdańsk. Zabili i przejęli majątek ofiary\n/2 Bestialsko zakatowali mężczyznę. Wschód Ukrainy\nW internecie pojawiło się drastyczne wideo na którym członek prorosyjskich bojowników katuje mieszkańca wsi Komunar na wschodzie Ukrainy\n/2 Bestialsko zakatowali mężczyznę. Wschód Ukrainy\nKat należy do zbrojnej formacji sił samozwańczej Donieckiej Republiki Ludowej i jest znany pod pseudonimem Olchon",
+      "image_captions": [
+        "Bestialsko zakatowali mężczyznę. Wschód UkrainyFoto: \n                                        East News",
+        "Bestialsko zakatowali mężczyznę. Wschód Ukrainy",
+        "Trutka w słoiczkach dla niemowląt! Sprawa może mieć międzynarodowy zasięg",
+        "Tajemnicze zaginięcie rodziny w 1958 r. Właśnie rozwikłano zagadkę",
+        "Dziwny wypadek na próbie półmaratonu. Zawodnik po prostu rozpadł się na kawałki [WIDEO]"
+      ]
+    },
+    {
+      "url": "https://www.chosun.com/site/data/html_dir/2016/02/16/2016021603168.html",
+      "page_title": "우크라이나 친러 반군, 전기 채찍 고문 장면 공개 - 조선일보",
+      "title": "우크라이나 친러 반군, 전기 채찍 고문 장면 공개",
+      "description": "우크라이나 친러 반군, 전기 채찍 고문 장면 공개",
+      "text": "우크라이나 친러 반군, 전기 채찍 고문 장면 공개",
+      "image_captions": []
+    }
+  ],
+  "evidence_count": 4,
+  "crawled_at": "2026-04-23T19:02:57.638481+00:00"
+}

@@ -1,0 +1,75 @@
+{
+  "sample_id": "false_18",
+  "image_url": "https://www.sanders.senate.gov/wp-content/uploads/Sanders-COVID-19-vacine--768x1046.jpg",
+  "visual_entities": [
+    {
+      "description": "Robert F. Kennedy Jr.",
+      "score": 1.0803
+    },
+    {
+      "description": "COVID-19",
+      "score": 0.717
+    },
+    {
+      "description": "COVID-19 vaccine",
+      "score": 0.7066
+    },
+    {
+      "description": "2019–20 coronavirus pandemic",
+      "score": 0.67515004
+    },
+    {
+      "description": "United States",
+      "score": 0.64035
+    },
+    {
+      "description": "United States Secretary of Health and Human Services",
+      "score": 0.4383
+    },
+    {
+      "description": "",
+      "score": 0.4269
+    },
+    {
+      "description": "Coronavirus",
+      "score": 0.4174
+    },
+    {
+      "description": "Vaccination",
+      "score": 0.3492
+    }
+  ],
+  "best_guess_labels": [
+    "bernie sanders covid"
+  ],
+  "similar_image_urls": [
+    "https://www.sanders.senate.gov/wp-content/uploads/Sanders-COVID-19-vacine--768x1046.jpg",
+    "https://www.burlingtonfreepress.com/gcdn/presto/2020/12/19/PBUR/00fada3c-bb5f-4508-86dd-af2f6fad36c8-2020_1219_Sanderrs_Vaccine_1.jpg",
+    "https://pbs.twimg.com/media/EpoeG4BW4AIG1vv.jpg",
+    "https://www.burlingtonfreepress.com/gcdn/presto/2020/12/19/PBUR/00fada3c-bb5f-4508-86dd-af2f6fad36c8-2020_1219_Sanderrs_Vaccine_1.jpg?width=1200&disable=upscale&format=pjpg&auto=webp",
+    "https://www.burlingtonfreepress.com/gcdn/presto/2020/12/19/PBUR/00fada3c-bb5f-4508-86dd-af2f6fad36c8-2020_1219_Sanderrs_Vaccine_1.jpg?crop=479,639,x0,y6",
+    "https://vermontbiz.com/sites/default/files/resize/bernie_sanders_vaccine_dec_19_2020-400x545.jpg",
+    "https://pbs.twimg.com/media/Ep3STsoXIAEuMEQ.jpg",
+    "https://pbs.twimg.com/media/Ep44jAXUcAAJkGt.jpg?format=jpg&name=thumb"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.cbsnews.com/video/watch-sanders-and-rfk-jr-get-into-testy-exchange-over-covid-vaccine-cdc-directors-firing/",
+      "page_title": "Sanders, RFK Jr. get into testy exchange over COVID vaccine, CDC ...",
+      "title": "Watch: Sanders, RFK Jr. get into testy exchange over COVID vaccine, CDC director's firing",
+      "description": "Sen. Bernie Sanders questioned HHS Secretary Robert F. Kennedy Jr. about his views on the COVID-19 vaccine, which President Trump has touted as one of the greatest inventions in medicine. Sanders also suggested he will call fired CDC Director Susan Monarez to testify before Congress.",
+      "text": "Watch: Sanders, RFK Jr. get into testy exchange over COVID vaccine, CDC director's firing\nSen. Bernie Sanders questioned HHS Secretary Robert F. Kennedy Jr. about his views on the COVID-19 vaccine, which President Trump has touted as one of the greatest inventions in medicine. Sanders also suggested he will call fired CDC Director Susan Monarez to testify before Congress.",
+      "image_captions": []
+    },
+    {
+      "url": "https://vermontbiz.com/news/2020/december/20/bernie-sanders-gets-covid-19-vaccine",
+      "page_title": "Bernie Sanders gets COVID-19 vaccine | Vermont Business Magazine",
+      "title": "Bernie Sanders gets COVID-19 vaccine",
+      "description": "",
+      "text": "Submitted by tim\non\nVermont Business Magazine US Senator Bernie Sanders received the COVID-19 vaccine from U.S. Capitol physician, Dr Brian P Monahan on Saturday.\nSanders said, “Following the advice of the Office of the Attending Physician, today I received the safe and effective COVID-19 vaccine. As the vaccine is being distributed, we must all continue wearing masks and engage in social distancing. That is how we will beat this virus and end this terrible pandemic.”\nSource: WASHINGTON – December 19, 2020 – US Senator Bernie Sanders",
+      "image_captions": []
+    }
+  ],
+  "evidence_count": 2,
+  "crawled_at": "2026-04-23T16:49:59.579985+00:00"
+}

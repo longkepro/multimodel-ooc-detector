@@ -1,0 +1,85 @@
+{
+  "sample_id": "true_189",
+  "image_url": "https://mediaproxy.snopes.com/width/1200/height/675/https://media.snopes.com/2016/01/vatican-womens-rifle-team.jpg",
+  "visual_entities": [
+    {
+      "description": "T-shirt",
+      "score": 1.0233
+    },
+    {
+      "description": "Rage Against The Machine",
+      "score": 0.6918
+    },
+    {
+      "description": "Rage Against The Machine Nuns with Guns",
+      "score": 0.6774
+    },
+    {
+      "description": "",
+      "score": 0.463
+    },
+    {
+      "description": "Sisters of Notre Dame",
+      "score": 0.463
+    },
+    {
+      "description": "Image",
+      "score": 0.4361
+    },
+    {
+      "description": "",
+      "score": 0.4094
+    },
+    {
+      "description": "Photograph",
+      "score": 0.4
+    },
+    {
+      "description": "Sisters of Notre Dame de Namur",
+      "score": 0.3769
+    },
+    {
+      "description": "Mother and Baby Home",
+      "score": 0.3711
+    },
+    {
+      "description": "future",
+      "score": 0.366
+    },
+    {
+      "description": "funny",
+      "score": 0.3391
+    },
+    {
+      "description": "Cigarette case",
+      "score": 0.3289
+    }
+  ],
+  "best_guess_labels": [
+    "nuns funny"
+  ],
+  "similar_image_urls": [
+    "https://mediaproxy.snopes.com/width/1200/height/1200/https://media.snopes.com/2016/01/vatican-womens-rifle-team.jpg",
+    "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2016/01/vatican-womens-rifle-team.jpg",
+    "https://mediaproxy.snopes.com/width/1200/height/675/https://media.snopes.com/2016/01/vatican-womens-rifle-team.jpg",
+    "https://cflvdg.avoz.es/default/2016/01/29/00121454095731815251951/Foto/carnaval_mercedarias.jpg",
+    "https://i3.ruliweb.com/img/24/06/12/1900c24a204ed9e.jpg",
+    "https://i3.ruliweb.com/ori/24/06/12/1900c24a204ed9e.jpg",
+    "https://image-parcours.copainsdavant.com/image/750/1624457704/2816933.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=176670169072454",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10220225988190633",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3uZtuA1WztGZZQbrddPyVOQRp4pjAf352_DqrJ4AYp0ogPbP96ijEO-WoSQrvf70g2Qxvx0Bl3y0svEoSpgm0GcveIxyEhgFqrrODmyuZVaxmVrHwWEhL3mCihCJI5I53jru0Yx7J_4U/s1600/NunsWithGuns.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.amazon.com/Nuns-Sticker-Bumper-Vinyl-Decal/dp/B0CFKDVNGQ",
+      "page_title": "Nuns With Guns Sticker Bumper Sticker Vinyl Decal 5 - Amazon.com",
+      "title": "Amazon.com",
+      "description": "",
+      "text": "Click the button below to continue shopping\nContinue shopping\nConditions of Use\nPrivacy Policy\n© 1996-2025, Amazon.com, Inc. or its affiliates",
+      "image_captions": []
+    }
+  ],
+  "evidence_count": 1,
+  "crawled_at": "2026-04-23T17:45:52.988763+00:00"
+}

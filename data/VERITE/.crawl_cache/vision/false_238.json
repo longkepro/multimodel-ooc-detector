@@ -1,0 +1,69 @@
+{
+  "sample_id": "false_238",
+  "image_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/AAE0/production/_92344734_gettyimages-621651016.jpg",
+  "visual_entities": [
+    {
+      "description": "Mike Pence",
+      "score": 8.352
+    },
+    {
+      "description": "United States",
+      "score": 0.6942
+    },
+    {
+      "description": "Presidential nominee",
+      "score": 0.626
+    },
+    {
+      "description": "Donald Trump presidential campaign, 2016",
+      "score": 0.5972
+    },
+    {
+      "description": "President-Elect",
+      "score": 0.4899
+    },
+    {
+      "description": "",
+      "score": 0.4628
+    },
+    {
+      "description": "2016",
+      "score": 0.4602
+    },
+    {
+      "description": "Candidate",
+      "score": 0.4079
+    },
+    {
+      "description": "Political campaign",
+      "score": 0.4
+    }
+  ],
+  "best_guess_labels": [
+    "trump rally 2016"
+  ],
+  "similar_image_urls": [
+    "http://c.files.bbci.co.uk/AAE0/production/_92344734_gettyimages-621651016.jpg",
+    "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/AAE0/production/_92344734_gettyimages-621651016.jpg",
+    "https://ichef.bbci.co.uk/ace/ws/660/cpsprodpb/AAE0/production/_92344734_gettyimages-621651016.jpg.webp",
+    "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/AAE0/production/_92344734_gettyimages-621651016.jpg.webp",
+    "https://ichef.bbci.co.uk/ace/ws/640/amz/worldservice/live/assets/images/2016/11/09/161109175639_trump_rally_whites_624x351_gettyimages_nocredit.jpg.webp",
+    "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/26C5/production/_92352990_715fecd4-727c-4d3c-9a17-91cc4d8187a2.jpg.webp",
+    "https://the53rdregiment.com/wp-content/uploads/2020/08/Trump-Coalition.jpg",
+    "https://s3.eu-central-1.amazonaws.com/abzasmedia/media/content_files/_92344734_gettyimages-621651016.jpg",
+    "http://a.files.bbci.co.uk/worldservice/live/assets/images/2016/11/09/161109175639_trump_rally_whites_624x351_gettyimages_nocredit.jpg",
+    "http://c.files.bbci.co.uk/26C5/production/_92352990_715fecd4-727c-4d3c-9a17-91cc4d8187a2.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.theguardian.com/us-news/video/2016/mar/14/donald-trump-protester-stage-ohio-rally-video",
+      "page_title": "Donald Trump rushed on stage by protester at Ohio rally – video",
+      "title": "Donald Trump rushed on stage by protester at Ohio rally – video",
+      "description": "A Donald Trump protester on Saturday jumped a barrier and attempted to rush the candidate on stage at a rally in Ohio",
+      "text": "Donald Trump rushed on stage by protester at Ohio rally – video\nThis article is more than 10 years old\nA Donald Trump protester on Saturday jumped a barrier and attempted to rush the candidate on stage at a rally in Dayton, Ohio. The man reached the edge of the stage before being tackled by secret service officers. Trump, who looked flustered, took a moment to regain his composure before thanking the crowd for warning him about the incident",
+      "image_captions": []
+    }
+  ],
+  "evidence_count": 1,
+  "crawled_at": "2026-04-23T18:46:38.717748+00:00"
+}

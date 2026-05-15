@@ -1,0 +1,115 @@
+{
+  "sample_id": "false_271",
+  "image_url": "https://media.istockphoto.com/id/664316814/photo/young-army-soldier-crying-close-up.jpg?s=170667a&w=0&k=20&c=jxc73hK1XYBEnop1aw-ckUobFoucT4ZX_hJuygLH6vk=",
+  "visual_entities": [
+    {
+      "description": "Soldier",
+      "score": 0.92690235
+    },
+    {
+      "description": "Stock photography",
+      "score": 0.7159
+    },
+    {
+      "description": "Armed forces",
+      "score": 0.7003
+    },
+    {
+      "description": "Non-commissioned officer",
+      "score": 0.625176
+    },
+    {
+      "description": "Image",
+      "score": 0.59
+    },
+    {
+      "description": "iStock",
+      "score": 0.5556
+    },
+    {
+      "description": "Infantry",
+      "score": 0.55431587
+    },
+    {
+      "description": "Photograph",
+      "score": 0.5051
+    },
+    {
+      "description": "Photography",
+      "score": 0.4568
+    },
+    {
+      "description": "Army officer",
+      "score": 0.40779054
+    },
+    {
+      "description": "official",
+      "score": 0.3989
+    },
+    {
+      "description": "Illustration",
+      "score": 0.3784
+    },
+    {
+      "description": "Royalty payment",
+      "score": 0.3772
+    }
+  ],
+  "best_guess_labels": [
+    "soldier"
+  ],
+  "similar_image_urls": [
+    "https://media.istockphoto.com/id/664316814/ru/%D1%84%D0%BE%D1%82%D0%BE/%D0%BC%D0%BE%D0%BB%D0%BE%D0%B4%D0%BE%D0%B9-%D1%81%D0%BE%D0%BB%D0%B4%D0%B0%D1%82-%D0%B0%D1%80%D0%BC%D0%B8%D0%B8-%D0%BF%D0%BB%D0%B0%D1%87%D0%B5%D1%82-%D0%BA%D1%80%D1%83%D0%BF%D0%BD%D1%8B%D0%BC-%D0%BF%D0%BB%D0%B0%D0%BD%D0%BE%D0%BC.jpg?s=1024x1024&w=is&k=20&c=bFSKwhZ9aB1c0Ul5SDtuYCj9issdB4FEKj0uZvk2CBc=",
+    "https://thumbs.dreamstime.com/b/young-army-soldier-crying-close-up-copy-space-89828322.jpg",
+    "https://media.istockphoto.com/id/664316814/fr/photo/soldat-de-larm%C3%A9e-de-jeunes-pleurer-fermer-vers-le-haut.jpg?b=1&s=612x612&w=0&k=20&c=8kdgKHFUk_fmoPNy7N8hohdp3v2CrNreZ9qpAhhM0bw=",
+    "https://media.istockphoto.com/id/664316814/ru/%D1%84%D0%BE%D1%82%D0%BE/%D0%BC%D0%BE%D0%BB%D0%BE%D0%B4%D0%BE%D0%B9-%D1%81%D0%BE%D0%BB%D0%B4%D0%B0%D1%82-%D0%B0%D1%80%D0%BC%D0%B8%D0%B8-%D0%BF%D0%BB%D0%B0%D1%87%D0%B5%D1%82-%D0%BA%D1%80%D1%83%D0%BF%D0%BD%D1%8B%D0%BC-%D0%BF%D0%BB%D0%B0%D0%BD%D0%BE%D0%BC.jpg?s=612x612&w=is&k=20&c=O_sWgYT90i8oTG1V-n9mjOG7kh_18S928Z9OKoyMs-o=",
+    "https://media.istockphoto.com/id/664316860/photo/young-army-soldier-crying-closeup-with-copyspace.jpg?s=612x612&w=0&k=20&c=HTrgEsB3fXlAxqiUbsJ_QwL472H5liHV2aV-3JbTqaQ=",
+    "https://media.istockphoto.com/id/664316814/ru/%D1%84%D0%BE%D1%82%D0%BE/%D0%BC%D0%BE%D0%BB%D0%BE%D0%B4%D0%BE%D0%B9-%D1%81%D0%BE%D0%BB%D0%B4%D0%B0%D1%82-%D0%B0%D1%80%D0%BC%D0%B8%D0%B8-%D0%BF%D0%BB%D0%B0%D1%87%D0%B5%D1%82-%D0%BA%D1%80%D1%83%D0%BF%D0%BD%D1%8B%D0%BC-%D0%BF%D0%BB%D0%B0%D0%BD%D0%BE%D0%BC.jpg?s=612x612&w=0&k=20&c=xGlR0s0JDQxD3uNqW6xtrYbzxUjA7w_Y92Du0JGrWuk=",
+    "https://media.istockphoto.com/id/664316814/photo/young-army-soldier-crying-close-up.jpg?s=612x612&w=is&k=20&c=1VBc0Ha-TcdeoFW_p9PGeeBUOrSj5JBVhUUfKUYsO4I=",
+    "https://media.istockphoto.com/id/664316860/photo/young-army-soldier-crying-closeup-with-copyspace.jpg?s=612x612&w=is&k=20&c=OQc13Abp7cQlSN3NfNZTQedbXD4LKe0f2BihpIcibkc=",
+    "https://media.istockphoto.com/id/664316814/ru/%D1%84%D0%BE%D1%82%D0%BE/%D0%BC%D0%BE%D0%BB%D0%BE%D0%B4%D0%BE%D0%B9-%D1%81%D0%BE%D0%BB%D0%B4%D0%B0%D1%82-%D0%B0%D1%80%D0%BC%D0%B8%D0%B8-%D0%BF%D0%BB%D0%B0%D1%87%D0%B5%D1%82-%D0%BA%D1%80%D1%83%D0%BF%D0%BD%D1%8B%D0%BC-%D0%BF%D0%BB%D0%B0%D0%BD%D0%BE%D0%BC.jpg?s=170667a&w=0&k=20&c=CMOcdXbWjX1-EsG4WvZ34NYTIXMFTHb-wVopgBRiCaE=",
+    "https://media.istockphoto.com/id/664316722/photo/american-military-serviceman-with-copy-space.jpg?s=612x612&w=is&k=20&c=cNFmx5lWyJlV9Obwl-tIRrsqkCcrCd4KHl1wfuKy9Q4="
+  ],
+  "evidence": [
+    {
+      "url": "https://tv.apple.com/us/movie/soldier/umc.cmc.4ukvehu1zfmne7g4i83mk4z0x",
+      "page_title": "Soldier - ‎Apple TV",
+      "title": "Soldier - AppleÂ TV",
+      "description": "Golden Globe-nominee Kurt Russell (\"Breakdown,\" \"Executive Decision\") stars in his most explosive role ever. A hardened warrior of the future, raised â¦",
+      "text": "Soldier\nGolden Globe-nominee Kurt Russell (\"Breakdown,\" \"Executive Decision\") stars in his most explosive role ever. A hardened warrior of the future, raised to kill without emotion, suddenly discovers his humanity when a woman and her young son nurse his battle wounds. In return, he leads a heroic defense when their colony is attacked. A classic western set in the high-tech future co-starring Jason Scott Lee (\"Dragon: The Bruce Lee Story\"), Golden Globe and Oscar-nominee Gary Busey (\"The Firm,\" \"Under Siege\"), Connie Nielsen (\"The Devil's Advocate\") and Michael Chiklis (\"The Commish\").",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.battlefields.org/learn/videos/soldier-life-during-civil-war",
+      "page_title": "Soldier Life During the Civil War | American Battlefield Trust",
+      "title": "Soldier Life During the Civil War",
+      "description": "Historian Doug Ullman describes the day to day life of Civil War soldiers. This video is part of the Civil War Trust's In4 video series, which presents short videos on basic Civil War topics.",
+      "text": "Soldier Life During the Civil War\nThe Civil War In4 Minutes\nVIDEO | Historian Douglas Ullman, Jr. describes the day to day life of Civil War soldiers. This video is part of the American Battlefield Trust's In4 video series, which presents short videos on basic Civil War topics.\nTopic(s):",
+      "image_captions": [
+        "A collage of Revolutionary War scenes atop a map",
+        "A painting of the USS Constitution on the water with billowing smoke",
+        "Two teachers stand against a blue gradient background",
+        "Small portion of heritage map sites",
+        "A collage of American Battlefield Trust apps"
+      ]
+    },
+    {
+      "url": "https://www.istockphoto.com/photos/soldier-with-eyes-closed",
+      "page_title": "561 Soldier With Eyes Closed Images and Stock Photos - iStock",
+      "title": "iStock",
+      "description": "iStock. Khám phá trang web chính thức của iStock để có hàng triệu tệp tin sẵn có độc quyền, trả phí bản quyền một lần. Tìm kho ảnh hoàn hảo cho dự án của bạn một cách nhanh chóng. Tìm kiếm ngay bây giờ.",
+      "text": "589551276, miakievy",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.istockphoto.com/photo/young-army-soldier-crying-close-up-gm664316814-120901371",
+      "page_title": "Young Army Soldier Crying Close Up Stock Photo - iStock",
+      "title": "iStock",
+      "description": "iStock. Khám phá trang web chính thức của iStock để có hàng triệu tệp tin sẵn có độc quyền, trả phí bản quyền một lần. Tìm kho ảnh hoàn hảo cho dự án của bạn một cách nhanh chóng. Tìm kiếm ngay bây giờ.",
+      "text": "589551276, miakievy",
+      "image_captions": []
+    }
+  ],
+  "evidence_count": 4,
+  "crawled_at": "2026-04-23T18:10:40.241395+00:00"
+}

@@ -1,0 +1,96 @@
+{
+  "sample_id": "false_326",
+  "image_url": "https://transom.org/wp-content/uploads/2022/03/20110725_Fires_003-720x479.jpg",
+  "visual_entities": [
+    {
+      "description": "Sangin",
+      "score": 1.22694
+    },
+    {
+      "description": "Battle of Sangin",
+      "score": 1.0812
+    },
+    {
+      "description": "Forward Operating Base Jackson",
+      "score": 0.9246
+    },
+    {
+      "description": "Infantry",
+      "score": 0.7582228
+    },
+    {
+      "description": "The U.S. Marine Corps",
+      "score": 0.7381
+    },
+    {
+      "description": "",
+      "score": 0.7381
+    },
+    {
+      "description": "Marines",
+      "score": 0.7265
+    },
+    {
+      "description": "",
+      "score": 0.7023
+    },
+    {
+      "description": "3rd Battalion, 5th Marines",
+      "score": 0.6541
+    },
+    {
+      "description": "1st Marine Division",
+      "score": 0.645
+    },
+    {
+      "description": "Royal Marines",
+      "score": 0.6261
+    },
+    {
+      "description": "Soldier",
+      "score": 0.61469525
+    },
+    {
+      "description": "1st Battalion, 5th Marines",
+      "score": 0.6016
+    },
+    {
+      "description": "3rd Battalion, 7th Marines",
+      "score": 0.5993
+    }
+  ],
+  "best_guess_labels": [
+    "marines afghanistan sangin"
+  ],
+  "similar_image_urls": [
+    "https://media.wbur.org/wp/2021/11/7_Dutcher_Bohlinger_Foreit.jpg",
+    "https://transom.org/wp-content/uploads/2022/03/20110725_Fires_003-720x479.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.wbur.org/hereandnow/2021/11/26/third-squad-podcast-afghanistan",
+      "page_title": "In new podcast 'Third Squad,' marines reckon with their time ... - WBUR",
+      "title": "In new podcast 'Third Squad,' marines reckon with their time in Afghanistan a decade ago",
+      "description": "Twelve men deployed with Third Squad, but only 11 returned home alive.",
+      "text": "Support WBUR\nIn new podcast 'Third Squad,' marines reckon with their time in Afghanistan a decade ago\nAmerica's longest war ended in August when U.S. troops withdrew from Afghanistan. For the people who fought there, their experiences in that war remain with them.\n\"Third Squad\" is a new podcast that tells the story of 1st Battalion, 5th Marines, which deployed to Sangin in Afghanistan's Helmand province in 2011. It was the bloodiest stage of the war, the so-called \"surge.\" Twelve men deployed with Third Squad, but only 11 returned home alive.\nJournalist and veteran Elliott Woods hosts the podcast. He embedded with the Third Squad in July and August 2011. And a decade later, he tracks them down to talk about what happened there and how it still affects their lives today.\nThis segment aired on November 26, 2021.",
+      "image_captions": [
+        "Corporal Manuel Mendoza, who served as a fire team leader in Third Squad, takes a break during a patrol in Sangin. (Elliott Woods)",
+        "Lance Corporal John Bohlinger, right, lights a cigarette off of Corporal Manuel Mendoza's. (Elliott Woods)",
+        "Third Squad Marines take a smoke break at the entrance to Patrol Base Fires, their home in Sangin, Afghanistan. From left to right: Corporal Michael Dutcher, who was killed on September 15, 2011; Lance Corporal John Bohlinger, the squad's radio operator; and Hospitalman Matthew Foreit, the squad's Navy corpsman. (Elliott Woods)"
+      ]
+    },
+    {
+      "url": "https://www.dvidshub.net/video/461809/battle-sangin-memorial",
+      "page_title": "Video - Battle of Sangin Memorial - DVIDS",
+      "title": "Battle of Sangin Memorial",
+      "description": "U.S. Marines with 3rd Battalion, 5th Marine Regiment (3/5), 1st Marine Divison, are interviewed during the 5 year Battle of Sangin Reunion at Marine Corps Base, Camp Pendleton, Calif. on 29 April 2016. Marines, veterans, and family members of those that deployed with 3/5 to Sangin Valley returned to Camp Pendleton to honor those lost, those who have served, and those that continued to serve.",
+      "text": "U.S. Marines with 3rd Battalion, 5th Marine Regiment (3/5), 1st Marine Divison, are interviewed during the 5 year Battle of Sangin Reunion at Marine Corps Base, Camp Pendleton, Calif. on 29 April 2016. Marines, veterans, and family members of those that deployed with 3/5 to Sangin Valley returned to Camp Pendleton to honor those lost, those who have served, and those that continued to serve.\nThis work, Battle of Sangin Memorial, must comply with the restrictions shown on https://www.dvidshub.net/about/copyright.",
+      "image_captions": [
+        "Defense Visual Information Distribution Service Logo",
+        "US Deptartment of Defense Logo"
+      ]
+    }
+  ],
+  "evidence_count": 2,
+  "crawled_at": "2026-04-23T19:03:33.958951+00:00"
+}

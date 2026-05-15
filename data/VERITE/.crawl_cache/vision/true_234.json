@@ -1,0 +1,113 @@
+{
+  "sample_id": "true_234",
+  "image_url": "https://pbs.twimg.com/media/FcXEkZMWIAA17AD?format=jpg&name=large",
+  "visual_entities": [
+    {
+      "description": "Diana, Princess of Wales",
+      "score": 10.6785
+    },
+    {
+      "description": "Harry & Meghan",
+      "score": 0.69629997
+    },
+    {
+      "description": "Death and state funeral of Elizabeth II",
+      "score": 0.55095
+    },
+    {
+      "description": "The Queen",
+      "score": 0.54765
+    },
+    {
+      "description": "Funeral of Diana, Princess of Wales",
+      "score": 0.5364
+    },
+    {
+      "description": "British royal family",
+      "score": 0.5286
+    },
+    {
+      "description": "",
+      "score": 0.3862
+    },
+    {
+      "description": "Paparazzi",
+      "score": 0.3712
+    },
+    {
+      "description": "",
+      "score": 0.3365
+    }
+  ],
+  "best_guess_labels": [
+    "princess diana and meghan"
+  ],
+  "similar_image_urls": [
+    "http://assets.vogue.com/photos/6046a8bf6233685db9f8495f/master/pass/00_story.jpg",
+    "https://imgs.madamefigaro.hk/wp-content/uploads/2021/03/00_story.jpg",
+    "https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L7FNVWOGGBFQLMB2E7SOCWUCH4.jpg",
+    "https://assets.vogue.com/photos/6046a8bf6233685db9f8495f/master/w_2560%2Cc_limit/00_story.jpg",
+    "https://www.chosun.com/resizer/v2/L7FNVWOGGBFQLMB2E7SOCWUCH4.jpg?auth=231a5b8399574ab801fa9278e307ca287f9dd2936ca685ef89fee649a35ab406&width=2560",
+    "https://image-cdn.netflixjunkie.com/wp-content/uploads/2022/11/00_story-1.webp",
+    "https://s2.glbimg.com/QEbMI4Aqxs6WIg6DCNIDfTJX9gw=/smart/e.glbimg.com/og/ed/f/original/2021/03/10/image.png",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=5717713898279761",
+    "https://static.hnonline.sk/images/archive/2021/07/01/0dbf3a69-6923-415d-8e7e-f25ffc1c40ea.jpeg",
+    "https://www.chosun.com/resizer/v2/L7FNVWOGGBFQLMB2E7SOCWUCH4.jpg?auth=231a5b8399574ab801fa9278e307ca287f9dd2936ca685ef89fee649a35ab406&width=1280"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.vogue.com/article/the-sad-striking-similarities-between-princess-diana-and-meghan-markles-tell-all-interviews",
+      "page_title": "The Sad, Striking Similarities Between Princess Diana and Meghan ...",
+      "title": "The Sad, Striking Similarities Between Princess Diana and Meghan Markle’s Tell-All Interviews",
+      "description": "Tracking the notable parallels between their failed fairy tales.",
+      "text": "Twenty-six years apart, the Duchess of Sussex and Princess Diana sat down with two separate journalists for two separate so-called bombshell interviews. Meghan was in Montecito, California. Princess Diana was in her London living room. Meghan had her husband, Prince Harry, by her side. Diana was completely alone. (In fact, Charles had recently admitted to the world he’d had an affair with Camilla Parker Bowles.) Meghan had been besieged by negative press attention and racist social-media trolls. Princess Diana had her private phone conversations published and was dubbed unstable by the press. The time, the locations, and the details were different. Yet, now that the dust has begun to settle after Meghan’s broadcast, the shared elements between their stories are clear: Both contended with mental-health struggles, unsurvivable press attention, and faux, failed fairy tales.\nA quick explainer, for the uninitiated: In November 1995, Princess Diana participated in an interview with BBC journalist Martin Bashir. It was unsanctioned by Buckingham Palace. No topic was off-limits, including Diana’s bulimia, depression, and failed union with Prince Charles. (“There were three of us in this marriage, so it was a bit crowded,” she famously said about his affair with Parker Bowles.) Nearly 40% of the United Kingdom’s population watched the interview—and, as a result, the public’s reception of the monarchy was significantly damaged.\nTwo and a half decades later, her son and his wife undertook their own tell-all, Oprah With Meghan and Harry, after quitting the royal family.\nThe language both women used is hauntingly similar: “You think you have the knowledge of what’s coming ahead,” Princess Diana told Bashir in 1995. “I didn’t fully understand what the job was,” the Duchess of Sussex said to Oprah Winfrey in 2021. “I seemed to be on the front of a newspaper every single day,” said Diana. “I am everywhere,” Meghan echoed years later. Diana felt thwarted by “people in my environment.” Meghan, meanwhile, spoke of the intangible “institution.” “I didn’t like myself. I was ashamed because I couldn’t cope with the pressures,” Diana revealed. “I was really ashamed to say it at the time,” Meghan said. “But…I just didn’t want to be alive anymore.”\nBoth women admitted they struggled with self-harm: Meghan had suicidal thoughts. (“I just didn’t see a solution,” she said.) Diana, meanwhile, suffered from postpartum depression and cut herself. (“You felt misunderstood and just very, very low in yourself.”) Both felt woefully unsupported: “I was the first person ever to be in this family who ever had a depression or was ever openly tearful. And obviously that was daunting, because if you’ve never seen it before, how do you support it?” said Diana. “When no one listens to you, or you feel no one’s listening to you, all sorts of things start to happen.” Meghan asked to seek treatment, but she says she was told it wasn’t a feasible option.\nThen there was Australia.\nBoth Diana and the Sussexes implied that their respective tours of Australia caused jealousy within the monarchy. “It all changed after the Australia tour,” Harry told Oprah. “It was the first time the family got to see how incredible she was at the job. And that brought back memories. To see how effortless it was for Meghan to come into the family and be able to connect with people.”\nBy memories, he means ones of his mother. Diana’s popularity on the continent was explosive. So much so that she said Charles was jealous: “We’d be going round Australia, for instance, and all you could hear was, ‘Oh, she’s on the other side.’ Now, if you’re a man like my husband, a proud man, you mind about that if you hear it every day for four weeks. And you feel low about it, instead of feeling happy and sharing it,” she said. “With the media attention came a lot of jealousy. A great deal of complicated situations arose because of that.”\nIt should be surprising that the Duchess of Sussex and the Princess of Wales have such parallel experiences. These were two women who entered the royal family with very different backgrounds and at very different points in their lives. The former married into the royal family in her late 30s, with a successful career behind her. The latter got engaged at just 19. The former is a divorced, biracial American; the latter, a British blue blood whose virginity was public knowledge. Plus, the monarchy, and society, was supposed to be better now—we’re more understanding, more progressive, more tolerant.\nBut as the saying goes, the more things change, the more they stay the same. And now two successive generations of viewers have grappled with the realization of how much pain a powerful institution can inflict on the very people who populate it.",
+      "image_captions": [
+        "Image may contain Clothing Apparel Hat Human Person Coat Overcoat Suit Diana Princess of Wales and Sun Hat",
+        "My Boyfriend Is Double My Age",
+        "Is Being an Older, Single Mother the New Ideal?",
+        "7 Times Meghan Markle Paid Homage to Princess Diana Through Her Fashion",
+        "37 Iconic Photos of Queen Elizabeth, on What Would Have Been Her 100th Birthday"
+      ]
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/life-style/fashion/buzz/how-meghan-markle-used-princess-dianas-favourite-perfume-to-charm-prince-harry/articleshow/119305157.cms",
+      "page_title": "How Meghan Markle used Princess Diana's favourite perfume to ...",
+      "title": "How Meghan Markle used Princess Diana's favourite perfume to charm Prince Harry - The Times of India",
+      "description": "Meghan Markle may have captivated Prince Harry by wearing Princess Diana's favorite perfume when they first met. This strategic choice possibly evoked",
+      "text": "Did Meghan Markle subtly captivate Prince Harry by evoking memories of his late mother, Princess Diana, when they first met? According to royal biographer Angela Levin, Meghan strategically wore Princess Diana's favourite perfume during their initial meeting, an act that was said to leave a lasting impact on Harry's heart. Levin suggests that Meghanâs choice of fragrance gave her an insider advantage in winning Harry's affection, noting, âThe first time they met, she had Dianaâs perfume on. Of course, Harry was just overwhelmed by that because he was a boy who loved cuddling up to his mother.â This detail hints at a deep, symbolic connection between Meghan and Diana, potentially stirring emotions for Harry that went beyond mere attraction.\nThe couple's first date took place at the exclusive SoHo House in London, a private members' club. Prince Harry, as he recounted in his memoir 'Spare,' was late by about half an hour due to the traffic, a delay that would set the tone for their initial meeting. Meghan, who had other dinner plans, excused herself to leave, but despite this brief interaction, their connection was undeniable.\nIn 'Spare,' Prince Harry shared how captivated he was by Meghan from the moment they met, although he didnât mention the perfume. Instead, he was struck by her effortless style. Harry recalled Meghan wearing a simple black sweater, jeans, and heels, admitting, âI knew nothing about clothes, but I knew she was chic. Then again, she could make anything look chic.â He continued to describe how she looked even more stunning in person than in the many photos he had seen of Meghan in fashion shoots and TV appearances, calling her âheart attack, beautiful.â\nWhile Harry didnât immediately recognize the significance of the perfume Meghan wore, he later recalled how his therapist encouraged him to connect with his emotions by using the scent as a trigger. He recounted the moment vividly, stating, âAt the start of our session, I lifted the lid, took a deep sniff. Like a tab of LSD.â Harry, reflecting on the power of scent, added, âI read somewhere that smell is our oldest sense, and that fitted with what I experienced in that moment, images rising from what felt like the most primal part of my brain.â This profound connection through scent further deepened Harry's emotional bond, perhaps explaining how Meghan effortlessly captured his heart from the very first meeting.\nIn his memoir, Harry mentioned, First by Van Cleef & Arpels, a floral fragrance as the scent which helped him process his grief in a therapy session, following his motherâs tragic death in August 1997 when he was just 12 years old.\nReports suggest that one of Princess Dianaâs favourite fragrances was Penhaligonâs Bluebell, a floral green scent created in 1978 that evokes the essence of British woodlands in spring. Interestingly, this fragrance note also happens to be favored by Harryâs wife, Meghan Markle. In her now-defunct blog, The Tig, the former actress revealed that Wild Bluebell by Jo Malone London was one of her two signature scents. Like Penhaligonâs Bluebell, Wild Bluebell is a floral green fragrance that vividly captures the essence of the wild bluebell flower, creating a fascinating link between Meghanâs and Dianaâs fragrance choices.\nMeghan's 'Latest Stunt' Enrages Prince William | 'Calculated Moves' Under Fire\nIt's not known which perfume did Meghan wear to the duo's first meeting, but it's quite a fascinating detail, isn't it!",
+      "image_captions": [
+        "5 smart ways to drink sugarcane juice without affecting your health",
+        "From getting engaged at the age of 19 to taking injections for being cheated on; RJ Mahvash on love, relationship and marriage",
+        "ââ7 powerful sentences that will change the way you see lifeâ",
+        "Surbhi Chandna and hubby Karan Sharmaâs adorable pics",
+        "Bollywood couples who turned their love stories into fairytale weddings"
+      ]
+    },
+    {
+      "url": "https://feminisminindia.com/2022/09/20/meghan-markle-and-princess-diana-the-parallels-of-being-women-in-a-royal-household/",
+      "page_title": "Meghan Markle And Princess Diana: The Parallels Of Being Women ...",
+      "title": "Meghan Markle And Princess Diana: The Parallels Of Being Women In A 'Royal Household'",
+      "description": "Public judgment faced by both Princess Diana and Meghan Markle repeatedly questions how good they have been as “royal wives”.",
+      "text": "All eyes were on the Duchess of Sussex, Meghan Markle, and her choice of attire when she arrived for the funeral of the late Queen Elizabeth II. According to several claims, the all-black outfit with a red poppy brooch paid homage to the late Princess Diana, who wore a very similar outfit during Remembrance Day in 1991.\nDespite no official clarification made by Meghan on this statement, this was made a topic of discussion by the media. It did not take very long for the tag #GoHomeMeghanMarkle to trend on Twitter. People on social media perceived this to be a desperate move to get media attention on the day of mourning.\nShe was also suspected to carry a microphone underneath her dress as seen through the square creases in some photos. Speculations of the couple collecting content for their Netflix docuseries is a ludicrous theory that neither Meghan nor Prince Harry has confirmed to be true.\nThe couple was criticised for having held hands at the funeral which was evidently an instinctive gesture of emotional support for each other. A lot of people took to social media and called the act disrespectful to the Queen’s funeral, a reminder of prevailing Victorian moral sensibilities.\nAt the same time, Meghan Markle was morally policed on her conduct with the awaiting crowds. She accepted flower bouquets on her own and hugged a young girl in the crowd who requested the same. Her decision to encourage conversations with the awaiting people was also heavily criticised.\nMeghan was criticised immediately after the Queen’s critical condition was announced for not being present by the Queen’s side on her deathbed. On the other hand, Kate Middleton, the Princess of Wales and wife to Prince William, received praise for choosing to stay at home and assisting her kids on their first day of school.\nIt is a stated rule that the royals may interact with public crowds with a handshake. They may also accept gifts and flower bouquets but only via security guards after a thorough check for safety. A lot of people were angry because Meghan broke royal protocols and violated royal traditions.\nIn fact, during her interaction with the crowd, a few women standing there avoided eye contact and kept looking downwards and when Meghan came forward to talk to them. They refused her handshake.\nAlso read: The Crown Review: The Royal Family Is As Cold & Sharp As A Double-Edged Sword\nMeghan’s returning to the royal palace with Prince Harry was in itself an olive branch toward British Royalty, given her history with England is bittersweet. This was in turn met with humiliation and extreme scrutiny from the public because of her choice of attire and conduct at the Queen’s funeral.\nIn many ways, Meghan Markle mirrors the actions and demeanour of Princess Diana. During many significant public events, she was seen to encourage physical proximity and hugs with people. She made headlines when she shook hands and touched bandaged wounds of leprosy patients during the Leprosy Mission she was actively engaged in. All these reasons earned her the loved title of “People’s Princess”.\nThe Duchess has been compared to the late Princess Diana countless times because of the similar ways in which they have conducted themselves both inside and outside the royal household. Even during the monarchical reign of the Queen, Meghan was linked to Diana and was predicted to face a similar fate as hers.\nPublic judgment faced by both Princess Diana and Meghan Markle repeatedly questions how good they have been as “royal wives”. Even after the Queen’s death, Meghan was questioned about her stance in the royal family as wife and daughter-in-law. This is only because of her challenging traditionalism and conservatism within royalty.\nPrincess Dianas was constantly thrown under the burdensome label of not being a responsible daughter-in-law for the royal household. Meghan has also undergone this treatment from the public eye. The media even brings attention to the fact that both women ultimately left the royal household.\nWhile many people consider this a “failure” on their part as royal members, they have both confirmed during individual interviews that they had to separate because of the palace’s impediment in their personal lives.\nIt must be noticed how other royal members, especially the men, hardly face any such consequences from the public and media’s judgement when they make impactful decisions. A prime example is Meghan’s husband and Diana’s son himself, Prince Harry.\nWhen Harry and Meghan moved out of the royal palace, not only was Harry not questioned about his royal character and personality but his intentions were also scrutinised less in comparison. The reason behind his decision was also assumed to be Meghan’s manipulation, removing any agency from Prince Harry’s act.\nThis also has a lot to do with being an “outsider” in the palace. Both Meghan and Princess Diana do not hail from royal bloodlines . Both of them had grown up in a childhood far away from the training of royal roles.\nAlso read: In Spencer, I Saw My Mom — Finding Our Reflection In Diana’s Loneliness\nAs royal house tradition goes, these women have always been pitted against other women within the royal family. A never-ending topic for the public on this factor is the cooking up of stories of rivalry between Meghan and Kate Middleton.\nIt makes us wonder how despite the passing of generations,the conversation about the lives of women within the royal family creates similar headlines to date.\nAbout the author(s)\nMrittika is a student of English. She is usually found expressing her love for art through words and music. At other times she is most likely traveling around the town trying new delicacies and imagining her life as a Greta Gerwig movie",
+      "image_captions": [
+        "FII's Feminist Glossary"
+      ]
+    },
+    {
+      "url": "https://7news.com.au/sunrise/on-the-show/harry-and-meghans-touching-tribute-to-princess-diana-on-anniversary-of-her-death-c-1284775",
+      "page_title": "Harry and Meghan's touching tribute to Princess Diana on ... - 7NEWS",
+      "title": "Harry and Meghan's touching tribute to Princess Diana on anniversary of her death",
+      "description": "The Duke and Duchess of Sussex marked the 23rd anniversary of Diana's tragic death with a sweet gesture.",
+      "text": "The Duke and Duchess of Sussex have paid tribute to Princess Diana on the 23rd anniversary of her death with a sweet gesture.\nThe royal couple spent the day volunteering at a Los Angeles pre-school where they planted Diana’s favourite flowers, Forget-Me-Nots, with a group of children.\nWatch the video above\nKnow the news with the 7NEWS app: Download today\nPrincess Diana was tragically killed on August 31 1997 at the age of 36 in a Paris car crash. Her son, Prince Harry, is now 35.\nPictures of Harry and Meghan’s surprise appearance were shared on the Twitter account of charitable organisation the Assistance League of Los Angeles.\nThe charity provides childcare to preschool children from low-income families at its Preschool Learning Center in the Los Feliz neighborhood, which is where Los Angeles-born Meghan went to school.\n“The children of our Preschool Learning Center got a wonderful surprise when The Duke and Duchess of Sussex visited yesterday!” the charity said on social media.\n“In addition to helping the children replant the Preschool Learning Center’s garden, they spent time with them, sharing their appreciation for nature and helping to instill the importance of healthy eating.”\n“We truly appreciate their time and care for our students.”\nHarry, Meghan and their one-year-old son Archie have been living in California after stepping down from their senior roles in the royal family.\nThey lived first in Los Angeles, but have now moved to a luxury estate in Santa Barbara, about an hour’s drive north of Los Angeles.\nLast week it was announced that Princes Harry and William will reunite in 2021 to unveil a statue of their mother on what would have been her 60th birthday.\nStream free on",
+      "image_captions": [
+        "A young Aussie scientist has made a major breakthrough in the global search for a breast cancer cure.",
+        "Veteran radio host James Valentine has died aged 64.",
+        "Comedian Russell Brand has admitted to sleeping with a 16-year-old when he was 30.",
+        "ARN has countersued Kyle Sandilands & Jackie O Henderson over lost ad revenue.",
+        "Logan Cudarans is expected to appear in court on Thursday"
+      ]
+    }
+  ],
+  "evidence_count": 4,
+  "crawled_at": "2026-04-23T17:58:01.463318+00:00"
+}

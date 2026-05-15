@@ -1,0 +1,97 @@
+{
+  "sample_id": "true_53",
+  "image_url": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2020/06/blackface_fb.jpg",
+  "visual_entities": [
+    {
+      "description": "Nashua Police Department",
+      "score": 0.7064
+    },
+    {
+      "description": "Miami Shores Police Department",
+      "score": 0.6049
+    },
+    {
+      "description": "Law enforcement",
+      "score": 0.5914
+    },
+    {
+      "description": "United States Capitol Police",
+      "score": 0.5611
+    },
+    {
+      "description": "Police academy",
+      "score": 0.4595
+    },
+    {
+      "description": "Sheriff",
+      "score": 0.4581
+    },
+    {
+      "description": "Chicago Police Department",
+      "score": 0.4373
+    },
+    {
+      "description": "",
+      "score": 0.4373
+    },
+    {
+      "description": "Security",
+      "score": 0.3865
+    },
+    {
+      "description": "Minneapolis Police Department",
+      "score": 0.3773
+    },
+    {
+      "description": "Racial profiling",
+      "score": 0.3069
+    }
+  ],
+  "best_guess_labels": [
+    "police"
+  ],
+  "similar_image_urls": [
+    "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2020/06/blackface_fb.jpg",
+    "https://mediaproxy.snopes.com/width/1200/height/675/https://media.snopes.com/2020/06/blackface_fb.jpg",
+    "https://mediaproxy.snopes.com/width/600/https://media.snopes.com/2020/06/blackface_fb.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3412558725486326"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.nashuanh.gov/1608/Police-Department",
+      "page_title": "Police Department - Nashua, NH",
+      "title": "Police Department",
+      "description": "The focus of the Nashua Police Department is on community-oriented policing, which relies on individuals and neighborhood groups working with the police to prevent and reduce crime.",
+      "text": "MISSION STATEMENT\nThe Nashua Police Department strives to improve the quality of life in its community and to protect people and property in partnership with the citizens of Nashua.\nPRIMARY MISSION\nAn urban society free from crime and disorder remains an unachieved ideal. Nevertheless, consistent with the values of a free society, it is the primary mission of the Nashua Police Department to, as closely as possible, approach that ideal.\nIn so doing, the Department's role is to enforce the law in a fair and impartial manner recognizing both the statutory and judicial limitations of police authority and the constitutional rights of all persons. It is not the role of the Department to legislate, to render legal judgments, or to punish.\nThe complexities of policing a free society cannot be totally reduced to a written form. However, in the process of carrying out this mission, there are certain functional objectives that the Department will endeavor to accomplish.",
+      "image_captions": [
+        "Aerial view of City Hall and downtown main street",
+        "Aerial view of Clock Tower and Main Street",
+        "Aerial view of north main street bridge and the Nashua River",
+        "Nashua Police is hiring!"
+      ]
+    },
+    {
+      "url": "https://www.snopes.com/tag/george-floyd-protests/?pagenum=2",
+      "page_title": "George Floyd Protests Articles | Page 2 | Snopes.com",
+      "title": "Was a Black Man Charged in the Killing of a White 5-Year-Old in North Carolina?",
+      "description": "",
+      "text": "Snopes\nNow available in the app store!\nOpen\nLog in to activate your ad-free access.\nIt looks like you might have a Snopes membership! Log in to enjoy your ad-free experience.\nLog In\nYou're browsing with fewer ads for the next 24 hours, thanks to our sponsor\n1440 Newsletter\n.\nLearn More\nSnopes Membership\nSearch\nMy Profile\nLogout\nSubmit a Rumor\nLatest\nTrending\nNews & Politics\nEntertainment\nFact Checks\nQuiz\nSections\nLatest\nTrending\nFact Checks\nNews\nCollections\nMore\nContact Us\nSubmit a Rumor\nArchives\nQuiz\nFactBot\nSubmit a Tip\nSnopes App\nNewsletters\nAbout Us\nCategories\nNews & Politics\nEntertainment\nScience & Technology\nLifestyle\nSnopes Membership\nLogin\nMy Profile\nLogout\nDonald Trump\nAI-generated Content\nPope Leo XIV\nJeffrey Epstein\nMelania Trump\nGeorge Floyd Protests\nWas a Black Man Charged in the Killing of a White 5-Year-Old in North Carolina?\nWritten by:\nJessica Lee\nAug. 14, 2020\nConservative Americans claimed the mainstream news media (apart from Fox News) schemed to keep t ...\nRead More\nDid Kamala Harris Make These Contrasting Statements About Police?\nWritten by:\nDavid Mikkelson\nAug. 12, 2020\nWhether those contrasting statements document the senator to be a \"hypocrite\" is a thornier ques ...\nRead More\nDid Mugshots Show 13 'Antifa Teachers' Arrested in Portland?\nWritten by:\nDan MacGuill\nAug. 5, 2020\nPlenty of outrage, but very little evidence, surrounded a widely shared meme in the summer of 2020.\nRead More\nDid Pelosi Decry Trump's Police Tactics While Funding Them?\nWritten by:\nJessica Lee\nJuly 29, 2020\nTop Democrats were quick to criticize the president's \"law and order\" approach to policing on Tw ...\nRead More\nDid Seattle Police Chief Tell Residents 'We Cannot Enforce the Law, You Are On Your Own'?\nWritten by:\nDan MacGuill\nJuly 28, 2020\nIn June 2020, Seattle City Council passed a law banning police from using \"crowd control weapons.\"\nRead More\nDoes This Photo Show Buses Purchased by BLM?\nWritten by:\nDavid Mikkelson\nJuly 27, 2020\nThe BLM movement began with the use of the hashtag #BlackLivesMatter on social media after the a ...\nRead More\nWere Portland Protesters 'Kidnapped' by Federal Officers in Unmarked Vans?\nWritten by:\nJessica Lee\nJuly 22, 2020\nThe claim surfaced as U.S. President Donald Trump prepared to deploy federal law enforcement age ...\nRead More\nDid Police in Riot Gear Disrupt a Violin Vigil for Elijah McClain?\nWritten by:\nDan MacGuill\nJuly 7, 2020\nVideo footage recorded at a vigil for Elijah McClain in Aurora, Colorado, caused widespread conc ...\nRead More\nDoes the NFL Plan to Play the Black National Anthem Before Games?\nWritten by:\nBethania Palma\nJuly 6, 2020\nThe idea was floated to several media outlets by an unnamed source who claims to have knowledge ...\nRead More\nWere 9/11 and WWII Memorials Vandalized During Protests?\nWritten by:\nBethania Palma\nJuly 1, 2020\nSocial media rumors that two memorials in New York were vandalized proved misleading.\nRead More\nDoes a Pic Show Antifa in Seattle Protest Zone?\nWritten by:\nBethania Palma\nJune 30, 2020\nA years-old photograph from a bondage festival in San Francisco was misappropriated.\nRead More\nAre California Dems Trying to Change the Name of John Wayne Airport?\nWritten by:\nBethania Palma\nJune 29, 2020\nThe small airport in Orange County, California, has borne the name of the Western film star sinc ...\nRead More\nDid a Couple Dubbed 'Ken and Karen' Point Guns at Protesters?\nWritten by:\nDan Evon\nJune 29, 2020\nA chaotic scene in St. Louis sparked outrage, memes, and confusion.\nRead More\nIs This a Photo of a Looter in Blackface?\nWritten by:\nDavid Mikkelson\nJune 26, 2020\nAppearances can be deceiving, in more ways than one.\nRead More\nDid Activist Shaun King Say 'White Jesus' Statues Should Come Down?\nWritten by:\nBethania Palma\nJune 24, 2020\nKing's tweet came as statues of historical figures were being toppled or removed in 2020.\nRead More\nRayshard Brooks: Another Black Man Smeared in Viral Social Media Posts After His Death\nWritten by:\nJessica Lee\nJune 24, 2020\nBrooks was killed by a white police officer at a Wendy's in Atlanta in June 2020. Some vocal cor ...\nRead More\nAre These Troops Guarding the Lincoln Memorial?\nWritten by:\nDavid Mikkelson\nJune 24, 2020\nOne striking photograph highlighted the political unrest taking place in the U.S. capital and ac ...\nRead More\nDoes This Video Show Raz Simone Handing Out Guns in Seattle's CHOP?\nWritten by:\nAlex Kasprak\nJune 23, 2020\nThe rapper had been described by some as the \"leader\" of the Capitol Hill Organized Protest (CHO ...\nRead More\nIs This a Burnt-Out Car From Police-Brutality Protests in Minneapolis?\nWritten by:\nDavid Mikkelson\nJune 19, 2020\nMore than 1,500 buildings across the Twin Cities were vandalized, looted, or had doors or window ...\nRead More\nDid 'Antifa' Recruit Protesters on Craigslist in Nebraska?\nWritten by:\nAlex Kasprak\nJune 11, 2020\n“We are ANTIFA, and we're willing to pay up to 1,000 people $25 per hour for protester,” one ad ...\nRead More\nPrevious\nNext\nPage: 2",
+      "image_captions": [
+        "Screenshot Portland protests"
+      ]
+    },
+    {
+      "url": "https://www.snopes.com/latest/?pagenum=710",
+      "page_title": "What's New | Page 710 | Snopes.com",
+      "title": "Will Soaking Strawberries in Saltwater Expose Fruit-Infesting Insects?",
+      "description": "All the latest rumors, urban legends, myths and misinformation gathered together in one nifty list.",
+      "text": "Snopes\nNow available in the app store!\nOpen\nLog in to activate your ad-free access.\nIt looks like you might have a Snopes membership! Log in to enjoy your ad-free experience.\nLog In\nYou're browsing with fewer ads for the next 24 hours, thanks to our sponsor\n1440 Newsletter\n.\nLearn More\nSnopes Membership\nSearch\nMy Profile\nLogout\nSubmit a Rumor\nLatest\nTrending\nNews & Politics\nEntertainment\nFact Checks\nQuiz\nSections\nLatest\nTrending\nFact Checks\nNews\nCollections\nMore\nContact Us\nSubmit a Rumor\nArchives\nQuiz\nFactBot\nSubmit a Tip\nSnopes App\nNewsletters\nAbout Us\nCategories\nNews & Politics\nEntertainment\nScience & Technology\nLifestyle\nSnopes Membership\nLogin\nMy Profile\nLogout\nDonald Trump\nAI-generated Content\nPope Leo XIV\nJeffrey Epstein\nMelania Trump\nWhat's New\nThe latest fact checks and original reporting from Snopes' editorial team.\nWill Soaking Strawberries in Saltwater Expose Fruit-Infesting Insects?\nWritten by:\nMadison Dapcevich\nJuly 10, 2020\nSocial media users posted videos showing insects crawling out of fruit after being soaked in war ...\nRead More\nDid Elon Musk Tell Kanye West, 'We May Have More Differences of Opinion Than I Anticipated'?\nWritten by:\nDan Evon\nJuly 10, 2020\nEndorsing someone for president without knowing the platform they'll be running on is generally ...\nRead More\nDid the Merriam-Webster Dictionary Just Recognize 'Irregardless' as a Word?\nWritten by:\nBethania Palma\nJuly 9, 2020\nThis long-used word has been the bane of many a pedant.\nRead More\nIs This Cat Wearing a Mask During the 'Spanish Flu'?\nWritten by:\nDan Evon\nJuly 9, 2020\nThis cat wasn't going to risk any of its nine lives.\nRead More\nDid an Armed Black Militia March Through a Georgia State Park?\nWritten by:\nNur Ibrahim\nJuly 9, 2020 (Updated: July 22, 2020)\nA Confederate monument became the site of another protest on the Fourth of July 2020.\nRead More\nDid Trump Tweet That South Dakota Should Close Its Border with California?\nWritten by:\nBethania Palma\nJuly 9, 2020\nA fake tweet fooled some.\nRead More\nIs Pence Taking Trump's Coronavirus Tests for Him?\nWritten by:\nSnopes Staff\nJuly 9, 2020\nA routine review of content labeled satire.\nRead More\nDoes Video Show an Eagle Carrying a Shark?\nWritten by:\nDan Evon\nJuly 9, 2020\nIt's a bird, it's a plane — it's an eagle carrying a shark?\nRead More\nWas Suspect in Slaying of 7-Year-old Girl Released on Bail Hours Before Her Shooting?\nWritten by:\nDan MacGuill\nJuly 8, 2020\nAaliyah Norris died two days after suffering a single gunshot wound to the head while sitting in ...\nRead More\nDid Ivanka Trump Say, 'Let's Ask What We Can Do for My Dad'?\nWritten by:\nDavid Mikkelson\nJuly 8, 2020\nThe U.S. president's daughter drew harsh criticism in India after tweeting support for an impove ...\nRead More\nDid Kanye West Wear a Confederate Flag Patch?\nWritten by:\nDan Evon\nJuly 8, 2020\nThe rapper and entrepreneur said that he wanted to re-appropriate the flag.\nRead More\nDid Trump Tweet This About Puerto Rico?\nWritten by:\nDavid Mikkelson\nJuly 8, 2020\nPresident Donald Trump has called the U.S. territory “one of the most corrupt places on Earth.”\nRead More\nNo, Ilhan Omar Didn't Call for Dismantling the US Economy and Political System\nWritten by:\nBethania Palma\nJuly 8, 2020\nThe Minnesota congresswoman is one of the first Muslim women to serve in Congress and is the fre ...\nRead More\nWere Weis Markets Employees Banned From Displaying the American Flag?\nWritten by:\nNur Ibrahim\nJuly 8, 2020\nA chain of grocery stores on the east coast became the subject of internet rumors in June 2020.\nRead More\nDid Trump Say Foreigners Attending College in the US 'Should Not Be Thrown Out'?\nWritten by:\nDavid Mikkelson\nJuly 8, 2020\nAt some universities, international students account for a third of the undergraduate student bo ...\nRead More\nDid a Nationwide US Coin Shortage Occur in Summer 2020?\nWritten by:\nDan MacGuill\nJuly 8, 2020\nThe COVID-19 pandemic was blamed for removing coins from circulation, as well as slowing product ...\nRead More\nWill Don Knotts Statue Be Removed in West Virginia?\nWritten by:\nSnopes Staff\nJuly 8, 2020\nA routine review of content labeled satire.\nRead More\nCOVID-19 Myths Politicians Have Repeated That Just Aren't True\nWritten by:\nThe Conversation\nJuly 8, 2020 (Updated: July 26, 2020)\nThe purveyors of these myths, including politicians who have been soft pedaling the impact of th ...\nRead More\nWas Ghislaine Maxwell Photographed with JonBenét Ramsey?\nWritten by:\nDan Evon\nJuly 7, 2020\nNot all women with short, dark hair are Ghislaine Maxwell.\nRead More\nDid a Florida Teen Die After Attending a Church 'COVID Party'?\nWritten by:\nDan MacGuill\nJuly 7, 2020 (Updated: July 10, 2020)\nThe tragic death of 17-year-old Carsyn Leigh Davis prompted controversy in July 2020.\nRead More\nPrevious\nNext\nPage: 710",
+      "image_captions": [
+        "An English-language dictionary.",
+        "A white woman and man walk alongside each other at night."
+      ]
+    }
+  ],
+  "evidence_count": 3,
+  "crawled_at": "2026-04-23T17:01:23.387136+00:00"
+}

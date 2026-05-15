@@ -1,0 +1,78 @@
+{
+  "sample_id": "true_32",
+  "image_url": "https://www.gannett-cdn.com/presto/2021/01/06/PDTF/cf44e501-fafa-4008-8b98-4d4c75ef0513-010621_trump_rally_lans3.jpg?width=660&height=441&fit=crop&format=pjpg&auto=webp",
+  "visual_entities": [
+    {
+      "description": "January 6",
+      "score": 0.7216
+    },
+    {
+      "description": "Epiphany",
+      "score": 0.719
+    },
+    {
+      "description": "January 6 United States Capitol attack",
+      "score": 0.69915
+    },
+    {
+      "description": "Christmas",
+      "score": 0.6822
+    },
+    {
+      "description": "January",
+      "score": 0.5002
+    },
+    {
+      "description": "Cross",
+      "score": 0.4387
+    },
+    {
+      "description": "Stations of the Cross",
+      "score": 0.4323
+    },
+    {
+      "description": "Coptic cross",
+      "score": 0.4097
+    },
+    {
+      "description": "Liturgical year",
+      "score": 0.3766
+    },
+    {
+      "description": "Nativity of Jesus",
+      "score": 0.3707
+    },
+    {
+      "description": "Holiday",
+      "score": 0.3216
+    }
+  ],
+  "best_guess_labels": [
+    "january 6th cross"
+  ],
+  "similar_image_urls": [
+    "https://www.usatoday.com/gcdn/presto/2021/01/06/PDTF/cf44e501-fafa-4008-8b98-4d4c75ef0513-010621_trump_rally_lans3.jpg",
+    "https://www.freep.com/gcdn/presto/2021/01/06/PDTF/cf44e501-fafa-4008-8b98-4d4c75ef0513-010621_trump_rally_lans3.jpg",
+    "https://www.usatoday.com/gcdn/presto/2021/01/06/PDTF/cf44e501-fafa-4008-8b98-4d4c75ef0513-010621_trump_rally_lans3.jpg?width=1733&height=1156&fit=crop&format=pjpg&auto=webp",
+    "https://www.freep.com/gcdn/presto/2021/01/06/PDTF/cf44e501-fafa-4008-8b98-4d4c75ef0513-010621_trump_rally_lans3.jpg?width=700&height=467&fit=crop&format=pjpg&auto=webp",
+    "https://www.freep.com/gcdn/presto/2021/01/06/PDTF/cf44e501-fafa-4008-8b98-4d4c75ef0513-010621_trump_rally_lans3.jpg?width=660&height=441&fit=crop&format=pjpg&auto=webp"
+  ],
+  "evidence": [
+    {
+      "url": "https://cmc-terrasanta.org/en/media/news/5518/january-6th-in-bethlehem",
+      "page_title": "January 6th in Bethlehem - Christian Media Center",
+      "title": "See also",
+      "description": "The solemnity of the Epiphany in Bethlehem is the opportunity to reflect on the unity of Christians and the meaning of Jesus’ manifestation to all people. At the same time, we celebrate Orthodox Christmas with solemn ceremonies and popular faith.",
+      "text": "January 6th in Bethlehem\nSee also\nPeople who chose humanity in the most difficult moments\nApril 21, 2026\n“Armenian Righteous Among the Nations who saved Jews during the Holocaust” is the title of an exhibition organized on April 14 by the Data Center for Religious Freedom, in the seminary hall of the Armenian Patriarchate in the Old City of Jerusalem.\nReturning to Life in Schools After the War\nApril 16, 2026\nFollowing a difficult period for students due to the war, which caused school closures and the interruption of educational activities, institutes have begun welcoming pupils back in an effort to return life to normalcy.\nHoly Fire from the Empty Tomb\nApril 16, 2026\nFollowing the truce between the United States and Iran, restrictions that isolated the Old City of Jerusalem during the war have eased. The city has begun to breathe again, and the Basilica of the Holy Sepulchre reopened its doors to the faithful for Holy Saturday on April 11 for Churches following the Eastern calendar.\nWar Has Not Stopped Antiquity Thieves\nApril 14, 2026\nWar, the sound of sirens, and missile interceptions have not deterred archaeological thieves, who continue to perform illegal excavations to steal antiquities, a crime punishable by law.\nEaster Message of His Beatitude Theophilos III, Orthodox Patriarch of Jerusalem\nApril 13, 2026\nH.B. Theophilos III, Patriarch of Jerusalem, reflects on the profound suffering currently gripping the Holy Land. Amidst the sounds of war and the physical absence of the faithful, he emphasizes that while sacred rites within the Church of the Holy Sepulchre are constrained by \"grievous circumstances,\" the Christian presence remains unbroken\nThe Charism of the Missionary Daughters of Calvary\nApril 08, 2026\n\"The Faces of the Holy Land,\" in a special feature for the centenary of the death of Saint Francis, presents this week a charism founded on placing the mysteries of Christ's redemption at the center of life. Like the women who went to the Holy Sepulchre early in the morning, the sisters of the Congregation of the Missionary Daughters of Calvary, drawn by Jesus, continue each day to pray and meditate on the seven words of Christ on the cross. Come with us to know them: they have been present in the Holy Land for 100 years.\nThe Resurrection of Christ: a new outlook on history\nMarch 27, 2026\nThe Easter Message of the Custos, Fr. Francesco Ielpo, for Easter 2026",
+      "image_captions": [
+        "Christian Media Center",
+        "People who chose humanity in the most difficult moments",
+        "Returning to Life in Schools After the War",
+        "Holy Fire from the Empty Tomb",
+        "War Has Not Stopped Antiquity Thieves"
+      ]
+    }
+  ],
+  "evidence_count": 1,
+  "crawled_at": "2026-04-23T16:54:09.666504+00:00"
+}

@@ -1,0 +1,108 @@
+{
+  "sample_id": "false_45",
+  "image_url": "https://img.buzzfeed.com/buzzfeed-static/static/enhanced/webdr03/2013/3/22/15/enhanced-buzz-orig-29639-1363981276-17.jpg",
+  "visual_entities": [
+    {
+      "description": "Meal",
+      "score": 0.6451
+    },
+    {
+      "description": "Grilled cheese sandwich",
+      "score": 0.56939995
+    },
+    {
+      "description": "Pizza",
+      "score": 0.5259
+    },
+    {
+      "description": "Supper",
+      "score": 0.5174
+    },
+    {
+      "description": "Toast",
+      "score": 0.5013
+    },
+    {
+      "description": "Sandwich",
+      "score": 0.444
+    },
+    {
+      "description": "Bread",
+      "score": 0.4285
+    },
+    {
+      "description": "Holy Face of Jesus",
+      "score": 0.4163
+    },
+    {
+      "description": "Cheese",
+      "score": 0.4088
+    },
+    {
+      "description": "Cooking",
+      "score": 0.3221
+    },
+    {
+      "description": "Icon",
+      "score": 0.3088
+    }
+  ],
+  "best_guess_labels": [
+    "face of jesus on food"
+  ],
+  "similar_image_urls": [
+    "https://saltmag.ru/media/articles/inner/2019/2487/2d.jpg",
+    "https://i.insider.com/54231604eab8ea52058b4567?width=700",
+    "https://storage.ghost.io/c/be/b2/beb2e498-f089-4f96-8ffb-b7ccee3bfe35/content/images/wordpress/2014/09/pizza.jpg",
+    "https://mkskimgmodrykonik.vshcdn.net/GBFkiEzqECn_s1600x1600.jpg",
+    "https://www.telegraph.co.uk/multimedia/archive/01865/jesus-pizza_1865803i.jpg",
+    "https://www.worldmaster.pl/wp-content/uploads/2018/08/jesus-pizza_1865803i.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1041470417334814",
+    "https://sketsi.net/app/uploads/2015/06/jeesus-oudoissa-paikoissa-5.jpg",
+    "https://www.raya.ps/cached_uploads/resize/972/558/2016/01072920427626038858562087335832.jpg",
+    "https://www.raya.ps/cached_uploads/resize/1000/800/2016/935138_jesus_pizza_3243238k.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.theguardian.com/world/gallery/2011/jul/21/jesus-food-sightings",
+      "page_title": "Jesus sightings in food (and walls) - in pictures - The Guardian",
+      "title": "Jesus sightings in food (and walls) - in pictures",
+      "description": "A couple from South Carolina have claimed to have found the image of the face of Jesus Christ on a Walmart receipt. Here are other examples of Jesus turning up in everyday life",
+      "text": "Jesus sightings in food (and walls) - in pictures\nThis article is more than 14 years old\nA couple from South Carolina have claimed to have found the image of the face of Jesus Christ on a Walmart receipt. Here are other examples of Jesus turning up in everyday life\nThu 21 Jul 2011 17.17 BST",
+      "image_captions": [
+        "Image of Jesus Christ in a Frying Pan, Salford, March 2010Photograph: Manchester Evening News/Rex FeaturesShare",
+        "Jesus face in a pizza, Brisbane, Australia, April 2011Photograph: Rex FeaturesShare",
+        "Jesus sighting in a coffee cupPhotograph: Dale O'Dell /AlamyShare",
+        "Jesus sighting in a crispPhotograph: Dale O'Dell/AlamyShare",
+        "Jesus sighting in a tortillaPhotograph: Dale O'Dell /AlamyShare"
+      ]
+    },
+    {
+      "url": "https://www.businessinsider.com/ignobel-why-people-see-jesus-in-toast-2014-9",
+      "page_title": "IgNobel: Why People See Jesus in Toast - Business Insider",
+      "title": "Researchers Won An Award For Figuring Out What Happens In The Brains Of People Seeing Jesus In Toast",
+      "description": "It isn't because they're crazy.",
+      "text": "It's not just the religious who claim to see faces in inert objects. From shadowy likenesses of Jesus and the Virgin Mary in potato chips and tree stumps to the Man in the Moon, people have been spotting human portraits in faceless objects for hundreds of years.\nOur reactions are perfectly normal, according to recent research from Chinese and Canadian scientists, published earlier this year in the journal Cortex. On September 18, these researchers won the Ig Nobel prize in neuroscience for their study, which uncovered the brain processes at play when someone — religious or not — sees a face where none exist.\nThe phenomenon of spotting human likenesses in everything from tortillas to the sky is so normal it has a name: pareidolia, Greek for \"faulty image.\" To test how many of us experience pareidolia, researchers showed a group of volunteers a series of black and white image scrambles.\nAlthough all of the images were purely random assortments of dots and blobs, the researchers told the volunteers that half of them contained either faces or letters. Mysteriously, the volunteers said they spotted either faces or letters in the random images nearly a third of the time.\nWhile they had the volunteers look at the images, the scientists measured their brain activity with an MRI. They found that the same parts of the brain that light up when we see real faces lit up in participants who saw non-existent faces — basically our brains are just tuned to recognize faces, even if it's in a piece of burnt bread. They aren't imagining something, but putting together the same pattern recognition that we use when we spot someone's face out of a crowd.\nScientist Carl Sagan theorized that the reason we see faces where none exist stems from an evolutionary need to quickly discern facial expressions. Those of our ancestors who could easily decipher friend from foe had a better chance of surviving, and passed on their genes.\nRecent research has suggests that this innate inclination to search out faces has even spurred our faces to become more unique than those of other species — a potential explanation for why we all look slightly different.",
+      "image_captions": [
+        "If you can spot the face in this potato chip, congratulations! You've experienced pareidolia.Willie J. Allen Jr./Tampa Bay Times",
+        "Download on the App Store",
+        "Get it on Google Play",
+        "Business Insider DE Logo"
+      ]
+    },
+    {
+      "url": "https://gochattervideos.com/downloads/meals-with-jesus-supper-at-simons/",
+      "page_title": "Meals with Jesus: Supper at Simon's - GoChatter",
+      "title": "Meals with Jesus: Supper at Simon's",
+      "description": "Simon, a respected church-goer, and a woman with a bad reputation both have a meal with Jesus. But only one understands that they are a sinner in need of a saviour - and only one thanks Jesus. Watch to discover who it is!",
+      "text": "Simon, a respected church-goer, and a woman with a bad reputation both have a meal with Jesus. But only one understands that they are a sinner in need of a saviour – and only one thanks Jesus. Watch to discover who it is!\n£9.95\nMinistry use licence\nMeal 2: How do you say thank you to someone?\nIn this video, two people have a meal with Jesus. The first person is Simon, a respected church-goer. But because he doesn't understand that he is a sinner or that Jesus is his saviour, he doesn't treat Jesus specially or thank him.\nThe second person is an uninvited guest, a woman with a bad reputation. She washes Jesus' feet with precious perfume, her tears and her hair. That's a funny way to thank someone!\nThe woman thanks Jesus like this because she understands she is a sinner in need of a saviour, and Jesus welcomes and forgives her. Like the woman, we can be thankful for Jesus' forgiveness for our sin!\nSuitable for children aged 5-11 years old.\n(Created from Faith in Kids' Meals with Jesus resources. Download their Meals with Jesus Sunday School resources or order their Meals with Jesus family Bible time book.)\nPossible Discussion Questions\nRelated Bible Reference\nBella works as a youth ministry trainee for Christ Church Leyton as part of her gap year placement. This involves making Bible story videos for the Sunday School and Toddler ministries. Bella loves cats, geography and going to the theatre.\nBy purchasing this video, you are purchasing a license to use and show this video as part of your ministry in ONE church.\nYou are granted permission to use the video in:\n1) Offline services, school assemblies or lessons, groups or at events (including youth, kids and midweek groups and events)\n2) Online services or assemblies that are streamed or pre-recorded. (For online services, the content video you have purchased should be part of a complete church service which must be at least 20 minutes long.)\n3) Online small groups meeting over Zoom or a similar video call platforms.",
+      "image_captions": [
+        "Meals With Jesus Series Bundle",
+        "Meals with Jesus: Big Picnic",
+        "Meals with Jesus: At Mary and Martha’s"
+      ]
+    }
+  ],
+  "evidence_count": 3,
+  "crawled_at": "2026-04-23T16:58:41.316195+00:00"
+}

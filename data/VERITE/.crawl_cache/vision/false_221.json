@@ -1,0 +1,95 @@
+{
+  "sample_id": "false_221",
+  "image_url": "https://news.cgtn.com/news/3d3d774e78456a4d30457a6333566d54/img/c55036287e6d4901b60a24d6438a31b0/c55036287e6d4901b60a24d6438a31b0.jpg",
+  "visual_entities": [
+    {
+      "description": "Iceberg",
+      "score": 0.9177969
+    },
+    {
+      "description": "Fjallsjökull",
+      "score": 0.76807505
+    },
+    {
+      "description": "Glacier",
+      "score": 0.71216714
+    },
+    {
+      "description": "Labrador Sea",
+      "score": 0.61635
+    },
+    {
+      "description": "Ice",
+      "score": 0.5763
+    },
+    {
+      "description": "Jökulsárlón",
+      "score": 0.57453
+    },
+    {
+      "description": "International Antarctic Centre",
+      "score": 0.511665
+    },
+    {
+      "description": "Antarctica",
+      "score": 0.50055003
+    },
+    {
+      "description": "Sea",
+      "score": 0.45227388
+    },
+    {
+      "description": "Ocean",
+      "score": 0.4323
+    }
+  ],
+  "best_guess_labels": [
+    "iceberg black stripes"
+  ],
+  "similar_image_urls": [
+    "https://news.cgtn.com/news/3d3d774e78456a4d30457a6333566d54/img/c55036287e6d4901b60a24d6438a31b0/c55036287e6d4901b60a24d6438a31b0.jpg",
+    "https://cdn8.dissolve.com/p/D2269_16_366/D2269_16_366_1200.jpg",
+    "https://thumbs.dreamstime.com/b/black-heart-ice-iceberg-nice-symbol-53865697.jpg",
+    "https://thumbs.dreamstime.com/b/black-heart-ice-iceberg-nice-symbol-53865751.jpg",
+    "http://cdn6.dissolve.com/p/D2269_16_366/D2269_16_366_600.jpg",
+    "https://midias.em.com.br/_midias/jpg/2024/12/25/08_fil-43594099.jpg",
+    "https://www.datocms-assets.com/163838/1756078000-striped-black-iceberg.jpg?auto=format&fit=crop&h=500&q=70&w=600",
+    "https://www.datocms-assets.com/163838/1756078000-striped-black-iceberg.jpg?auto=format&fit=crop&h=445&q=90&w=1440"
+  ],
+  "evidence": [
+    {
+      "url": "https://news.cgtn.com/news/3d3d774e78456a4d30457a6333566d54/index.html",
+      "page_title": "The science behind the color of an iceberg - CGTN",
+      "title": "The science behind the color of an iceberg",
+      "description": "What comes to mind when thinking about an iceberg is usually a large chunk of white ice floating in the sea. Icebergs are typically chunks of ice that separated from a glacier or ice shelf. The most common icebergs are white because it has been covered with snow.",
+      "text": "What comes to mind when thinking about an iceberg is usually a large chunk of white ice floating in the sea. Icebergs are typically chunks of ice that separated from a glacier or ice shelf. The most common icebergs are white because it has been covered with snow.\nBlack and white iceberg on the South Georgia Island. /VCG Photo\nBlack and white iceberg on the South Georgia Island. /VCG Photo\nHowever, many people are surprised to find that icebergs can form in many different colors other than white. According to basic physic, an iceberg that is formed by ice without contaminants should be blue. Because blue light is harder to be absorbed by the âpure iceâ than the yellow or red lights. Therefore blue is the âtrue colorâ of a \"pure\" iceberg.\nBlue iceberg is formed by \"pure ice\". /VCG Photo\nBlue iceberg is formed by \"pure ice\". /VCG Photo\nVibrant blue iceberg. /VCG Photo\nVibrant blue iceberg. /VCG Photo\nWhen icebergs are formed with frozen seawater, which contains rich algae and minerals, they will display different colors. Dead organic matter from sea life and iron-rich minerals both give the icebergs shades of green and yellow. Large amounts of dead organic matter reflect yellow light, but a small amount will make an iceberg shimmer like jade.\nGreen iceberg shimmers like jade. /VCG Photo\nGreen iceberg shimmers like jade. /VCG Photo\nA green iceberg. /VCG Photo\nA green iceberg. /VCG Photo\nBreaks in the ice allow fresh saltwater to come in and then it freezes. The occasion causes the ice to turn another color.\nThe stripes are caused by cracks on the iceberg. /VCG Photo\nThe stripes are caused by cracks on the iceberg. /VCG Photo\nBeautifully striped icebergs. /VCG Photo\nBeautifully striped icebergs. /VCG Photo\nA small striped iceberg. /VCG Photo\nA small striped iceberg. /VCG Photo\nBlue stripes on white iceberg. /VCG Photo\nBlue stripes on white iceberg. /VCG Photo\nBlack stripes are caused by sediments on the ice. /VCG Photo\nBlack stripes are caused by sediments on the ice. /VCG Photo\nYellow, green and multicolored icebergs only exist in Antarctica because they require the existence of glacial ice shelves and extremely cold conditions to freeze seawater. Icebergs in the Arctic are white or blue if their snow jackets melt away. However, a warming ocean could reduce the number of tinted icebergs, which are already rare.",
+      "image_captions": []
+    },
+    {
+      "url": "https://news.cgtn.com/news/3d3d774e78456a4d30457a6333566d54/share.html",
+      "page_title": "The science behind the color of an iceberg - CGTN",
+      "title": "The science behind the color of an iceberg",
+      "description": "What comes to mind when thinking about an iceberg is usually a large chunk of white ice floating in the sea. Icebergs are typically chunks of ice that separated from a glacier or ice shelf. The most common icebergs are white because it has been covered with snow.",
+      "text": "LIVE\nChina\nPolitics\nTech & Sci\nOpinions\nPicture\nWorld\nBusiness\nCulture & Sports\nTranscript\nVideo\nNature\n2018-10-31 17:23 GMT+8\nThe science behind the color of an iceberg\nCopied\nBy Li Yunqi\nCopyright ©\nSHARE\nCopied\nRELATED STORIES",
+      "image_captions": []
+    },
+    {
+      "url": "https://news.cgtn.com/news/3d3d774e78456a4d30457a6333566d54/share_p.html",
+      "page_title": "The science behind the color of an iceberg - CGTN",
+      "title": "The science behind the color of an iceberg",
+      "description": "What comes to mind when thinking about an iceberg is usually a large chunk of white ice floating in the sea. Icebergs are typically chunks of ice that separated from a glacier or ice shelf. The most common icebergs are white because it has been covered with snow.",
+      "text": "LIVE\nWELCOME TO CGTN.COM\nFOLLOW US\nChina\nWorld\nPolitics\nBusiness\nTech & Sci\nCulture & Sports\nOpinions\nPicture\nVideo\nTranscript\nMore\nThe science behind the color of an iceberg\nNature\nBy Li Yunqi\n2018-10-31 17:23 GMT+8\nShare\nCopied\nRELATED STORIES",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.iceberg.co.nz/news/",
+      "page_title": "Blog - International Antarctic Centre",
+      "title": "Blog",
+      "description": "Explore Antarctica at the International Antarctic Centre in Christchurch. Real snow, penguins, Hägglund ride, family fun & more! Book tickets online here.",
+      "text": "Blog\nWhere Memories Sleep\nIn celebration of Ōtautahi Christchurch’s annual Antarctic Festival Days of Ice from 29 September to 9 October we’ll be screening Where Memories Sleep on our 20 metre screen four times a day at the International Antarctic Centre. When: 29 September – 9 October at 9.30am, 12.30pm, 1.30pm & 2.30pm Duration: 30 Minutes You can watch Where…\nPenguins in need of fish\nGive a penguin a fish, and you feed him for a day. Our team at the International Antarctic Centre has been helping penguin rehabbers around the South Island by providing fish for their hungry penguins. This initiative began following severe storms in Canterbury in late 2021, which destroyed many nests at the local colony, Pohatu….\nThe International Antarctic Centre’s new experience: Antarctica 101\nThis is Antarctica like you’ve never seen it before. Got 5 minutes? Allow us to transport you with an Antarctic experience like no other. Our latest exhibit, Antarctica 101, is an immersive audiovisual experience providing a unique introduction to Antarctica. The exhibit showcases the extraordinary diversity of Antarctica in a 5 minute looped film….\nThe Upcycle Charity Challenge\nA creative way to raise money for your favourite charity Calling all knitters, makers and crafting wizards! Our team has come up with a clever way to help reduce some of our excess stock and raise money for charity at the same time. We are challenging you to create some fabulous upcycled products using a…\nColony collapse cause for concern\nWhere have all the penguins gone? Over the last week a concerning report from Halley Bay has been making newspapers around the world. The bay is Antarctica’s second largest emperor penguin breeding ground. Or, at least, it was. After three years of very few actual births being recorded this year looks to be another…\nAll aboard: IAC team join scientists onboard Korean icebreaker\nA select group of educators, scientists and students got a chance to step aboard Korean icebreaker the RV Araon late in March. Key members of the International Antarctic Centre team travelled to Lyttelton to see up close how the facilities in the research vessel were used down on the ice. Organised by a range of groups…\nFuture imperfect: Art and science combine in Antarctica\nOn the ice an intriguing art installation gives us a look into the world of tomorrow – and possibly inspires others towards making this future a brighter one. For something that has taken thousands of years to grow the acceleration of glacier loss in both New Zealand and Antarctica over the last couple of decades…\nBreaking the Ice: a singular chance to see historical artefacts.\nA new exhibition is set to open in a couple of weeks at the Canterbury Museum and, with it, the one chance many will have to ever see up close the various items used by the first explorers in their battle against the inhospitable Antarctic landscape. Breaking the Ice: The First Year in Antarctica promises…\nJade Hameister\nAt the age of 14 her ‘polar quest’ began with a 150 km journey across thin ice to the North Pole. Then came a 550 km traverse of the Greenland icecap. By the age of 16 she had trekked 600 km from the Ross Ice Shelf to the South Pole. For Australian teenager Jade Hameister…\nLines in the ice: How the ‘bergs gain their stripes\nNo, this isn’t photoshop. These icebergs really are crossed with all types of weird and wonderful lines. These beautiful ‘artworks’ occur for a number of reasons, with different colours appearing due to different circumstances. Blue stripes are the most common. These appear when crevices are filled with water that freezes so quickly that bubbles in…\nShirase Nobu\nScorned at departure, celebrated upon return, Shirase Nobu would defy scepticism in Japan and abroad and, in doing so, forge a unique path into the heart of Antarctica. At age 11, Shirase Nobu would write in a diary of his obsession with the North and South poles. 38 years later he would set off…\nProtecting The Penguins\nThe wonderful discovery of a 1.5 million ‘mega-colony’ of Adélie penguins last year lifted the spirits of conservation guardians. Now the case is being made for greater protection measures around the colony and it’s surrounding environment. The Adélie penguin population monitored by scientists has dropped by 65% in the last 25 years. A Guardian article…\nReverse engineering…\nThe impressive Antarctic Snow Cruiser was meant to lead the way in the Antarctic expedition of Rear Admiral Richard Byrd in 1940. However when it came time to put in the work the cruiser was left spinning its wheels (quite literally). The Antarctic Snow Cruiser provides an interesting example of hubris on the ice,…\nFILM FLIPPERS: OUR 5 FAVOURITE PENGUIN MOVIES\nBe it dancing or surfing, plodding or plotting, one thing’s for sure – penguins have plenty of star power on the silver screen. Here are our five favourite penguin movies. What are yours? 5) Surf’s Up. Released within a year of number 4) below, it could be said this film is Happy Feet, but with…\nWHAT A PILE OF…\nThe not-so-pretty preparation for climate change We weren’t sure what to believe when we first heard it, but it appears to be true – penguin poop is helping to change Antarctica’s ecosystem. Yes, according to this fascinating National Geographic story, the local gentoo penguins have delivered millions of pounds of “nutrient rich guano”…\nADVANCE ANTARCTICA FAIR? A GAME-CHANGING NAME-CHANGE\nWith new penguins arriving at the Centre we know just how important it is to get a name right. Which is why we appreciate the ‘journey’ the continent took before finally settling on a name in the late 19th century. To put it simply, Antarctica used to be called Australia. Then, in 1824, today’s Australia took…\nCLASS ACT: WELCOME MIRANDA SATTERTHWAITE, OUR NEW EDUCATION MANAGER\nOur new Education Manager has arrived and we’re thrilled to have her on board leading the class. We put a short list of questions in front of Miranda, expecting a few words or so in response. The depth of her answers speaks to the expertise and passion she is bringing to the role.\nWORLD RECORD BABY, IT’S COLD OUTSIDE\nLast month we brought you five interesting world records set in Antarctica. Since then we’ve been reminded of another… Eleven babies have been born in Antarctica, and none of them died as infants. Antarctica therefore has the lowest infant mortality rate of any continent: 0%. What’s crazier is why the babies were born there in the…\nAN EPIC ADVENTURE – THE RACE ACROSS ANTARCTICA\nAt the end of 2018 two men made an incredible journey into the record books, each individually following the path that original explorer Sir Ernest Shackleton had planned on his journey to the south pole and across the continent. In this day and age you could be forgiven for thinking most travel-related ‘firsts’ have been…\nFLIPPERING FANTASTIC – TUBBY TURNS 21!\nIn the wild the average lifespan for the Little Blue Penguin is 6.5 years. In truly exceptional cases these penguins have been recorded as living up to 25 years of age in captivity. That’s why we were so excited to celebrate Tubby’s 21st birthday on the 20th of January. It was a fantastic day…\nGOOD ON YOU, MATES. THE PRIDE OF THE (VERY) SOUTH IS BACK THERE.\nThe Antarctic Heritage Trust has recently returned a reconstructed beer barrel to Shackleton’s hut at Cape Royds. The barrel was donated in 1907 by the Speights brewery to Shackleton, making the journey south before being consumed, in all likelihood on the trip down. From there the barrel was probably repurposed and used outside the…\nINDISPUTABLE. UNEQUIVOCAL. CLIMATE CHANGE IS HERE.\nAs advocates for Antarctica our ears always prick up when news arrives of what’s happening in this important environment. A study published on January 14 this year highlights that ice is melting more than six times faster than it did in the 1980s. Using aerial photographs, satellite measurements and computer models scientists have tracked 176…\nMany people may know that Antarctica is the coldest, driest and windiest place on the planet. However there are some other interesting records it also holds.\nMany people may know that Antarctica is the coldest, driest and windiest place on the planet. However there are some other interesting records it also holds. 1) Enter Sand Iceman Metallica made it into the 2015 Guiness World Records when they became the first musical act to perform a concert on every continent. The…\nDEPTH CHARGE: HOW PENGUINS ‘FLY’\nThe regular footage showing penguins seemingly flying out of the water and onto nearby ice floes is always exciting to watch, particularly if they’re doing so with a hungry seal or orca close behind. But just how do they get the speed to do so? Because of their widdly-waddly body shape penguins can’t exactly grapple…\nREAR ADMIRAL RICHARD E. BYRD\nHe was many things: esteemed pilot, Medal Of Honor winner, Arctic pioneer, logistical expert. However Byrd’s legacy is most known for efforts exploring the Antarctic. After a career in the United States Navy and service in the First World War, Richard Evelyn Byrd Jr would fly into history as a groundbreaking aviator, explorer and director…\nUNDER THE HOOD – THE MIGHTY MECHANICS AT THE HEART OF THE HÄGGLUND\nThroughout history horses, huskies, tractors and snowmobiles have all been put to use going from A to B in Antarctica. But when you want to move cargo in the most demanding of conditions the most reliable way is in these Swedish-made over-snow vehicles. Driving out from base in the Antarctic is always carefully managed. In…\nCAPTAIN ROBERT FALCON SCOTT\nCaptain Scott is known for beating and in turn being beaten by the perils of the Antarctic. The histories of Antarctica and Captain Robert Falcon Scott will forever be intertwined, his story inspiring and cautionary, stirring and tragic. Scott’s Discovery expedition in 1901 had discovered a vast and incredibly challenging landscape. That journey made the…\nERNEST SHACKLETON\nThe spirit of the ‘Heroic Age of Antarctic Exploration’ was epitomised in the man named Shackleton. Early Antarctic explorer Sir Raymond Priestley described the strength of his peers by saying, “Scott for scientific method, Amundsen for speed and efficiency but when disaster strikes and all hope is gone, get down on your knees and pray…\nCOVERING THE BASES – OUR 4 FAVOURITE FICTIONAL ANTARCTIC HIDEOUTS\nFrom H.P Lovecraft’s Mountains of Madness to Shiverpool’s surfing penguins, authors have always been inspired by Antarctica as a realm of adventure and mystery. That’s why, after the recent hullabaloo about ‘secret Nazi ice bases’, we wanted to share our picks for the most interesting imaginary Antarctic bases.\nTEAM PLAYERS – OUR SUPPORT FOR LOCAL SPORTS AND GOOD SORTS\nIf there’s anywhere in the world that teaches the importance of community, it’s Antarctica. In our little slice of the Antarctic we know what it’s like to work in a great team. That’s why we appreciate the local groups that work hard to support and nurture Christchurch youth. It is amazing what community leaders…\nDOUGLAS MAWSON\nMawson was more than a man devoted to scientific exploration; he was also the hero of one of the Antarctic’s most extraordinary tales of lone survival. Sir Douglas Mawson’s first taste of the Antarctic was as a 26-year-old geologist aboard Sir Ernest Shackleton’s 1907-1909 Nimrod expedition. It was on this journey that Mawson would first…\nROALD AMUNDSEN\nOn the 14th of December, 1911, an intrepid Norwegian explorer took humanity to the South Pole. The first man to arrive at the South Pole was renowned for his keen intellect and ruthless efficiency. You don’t travel through the world’s most testing environment to arrive at this point by accident. Norwegian explorer Roald Amundsen…\nA FRESH ONLINE EXPERIENCE – OUR NEW LOOK WEBSITE IS READY. DIVE ON IN!\nA considerable amount of work has gone in behind the scenes developing our online presence recently. But now we think it’s been kept on ice long enough. Welcome to our new website. We hope you enjoy searching around the new site. We’re all very proud of the new look and want to thank the…",
+      "image_captions": []
+    }
+  ],
+  "evidence_count": 4,
+  "crawled_at": "2026-04-23T17:54:37.157169+00:00"
+}

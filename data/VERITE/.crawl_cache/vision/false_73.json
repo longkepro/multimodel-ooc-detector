@@ -1,0 +1,105 @@
+{
+  "sample_id": "false_73",
+  "image_url": "https://media.istockphoto.com/id/1161401350/photo/aerial-view-white-clouds-in-blue-sky-top-view-view-from-drone-aerial-birds-eye-view-aerial.jpg?s=170667a&w=0&k=20&c=1bjYg5m8x4A3f59IOUUJCLZb_uacPNvN8duKYhB34JE=",
+  "visual_entities": [
+    {
+      "description": "Cloud",
+      "score": 0.7342
+    },
+    {
+      "description": "Sunset",
+      "score": 0.7298
+    },
+    {
+      "description": "Sunrise",
+      "score": 0.5441
+    },
+    {
+      "description": "Image",
+      "score": 0.5014
+    },
+    {
+      "description": "Painting",
+      "score": 0.4458
+    },
+    {
+      "description": "Stock footage",
+      "score": 0.4237
+    },
+    {
+      "description": "Sky",
+      "score": 0.4151
+    },
+    {
+      "description": "Stock photography",
+      "score": 0.4037
+    },
+    {
+      "description": "Photograph",
+      "score": 0.3907
+    },
+    {
+      "description": "Bird's-eye view",
+      "score": 0.3508
+    },
+    {
+      "description": "iStock",
+      "score": 0.3221
+    },
+    {
+      "description": "Pixabay",
+      "score": 0.3153
+    }
+  ],
+  "best_guess_labels": [
+    "clouds sunset bird eye view"
+  ],
+  "similar_image_urls": [
+    "https://i0.wp.com/lawebdeaana.wordpress.com/wp-content/uploads/2023/01/1-nubes-en-el-cielo.jpg?ssl=1",
+    "https://lawebdeaana.wordpress.com/wp-content/uploads/2023/01/1-nubes-en-el-cielo.jpg",
+    "https://lawebdeaana.wordpress.com/wp-content/uploads/2023/01/1-nubes-en-el-cielo.jpg?w=1024",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100021535219830",
+    "https://cloud.educaplay.com/recursos/336/10783617/imagen_1_1636284345.jpg",
+    "https://thumbs.dreamstime.com/b/aerial-view-white-clouds-blue-sky-top-drone-bird-s-eye-cloudscape-texture-above-sunrise-sunset-over-c-152953615.jpg",
+    "https://www.truthforlife.org/static/uploads/devotionals/alistairbegg/5268_Web_App_Share.jpg",
+    "https://media.istockphoto.com/id/1161401350/zh/%E7%85%A7%E7%89%87/%E9%B3%A5%E7%9E%B0%E8%97%8D%E5%A4%A9%E7%99%BD%E9%9B%B2%E9%A0%82%E9%83%A8%E8%A6%96%E5%9C%96%E5%BE%9E%E7%84%A1%E4%BA%BA%E6%A9%9F%E8%A7%80%E7%9C%8B%E7%A9%BA%E4%B8%AD%E9%B3%A5%E7%9E%B0%E5%9C%96%E9%B3%A5%E7%9E%B0%E9%9B%B2%E6%99%AF%E9%9B%B2%E7%9A%84%E7%B4%8B%E7%90%86%E5%BE%9E%E4%B8%8A%E9%9D%A2%E6%9F%A5%E7%9C%8B%E9%9B%B2%E4%B8%8A%E6%97%A5%E5%87%BA%E6%88%96%E6%97%A5%E8%90%BD.jpg?s=612x612&w=0&k=20&c=-hgGWlS_NLJM7t0KHKL8y8rGR7xAgp2sXQQzbHWyC0E=",
+    "https://storage.googleapis.com/falserverless/gallery/red_clouds.jpg",
+    "https://media.istockphoto.com/id/1161401350/photo/aerial-view-white-clouds-in-blue-sky-top-view-view-from-drone-aerial-birds-eye-view-aerial.jpg?s=612x612&w=0&k=20&c=9z_plS2vaqaAG-4zLwkRUK3lAQ8t4S2neNpGI3pN9WU="
+  ],
+  "evidence": [
+    {
+      "url": "https://www.istockphoto.com/photos/sunset-above-clouds",
+      "page_title": "103714 Sunset Above Clouds Images and Stock Photos - iStock",
+      "title": "iStock",
+      "description": "iStock. Khám phá trang web chính thức của iStock để có hàng triệu tệp tin sẵn có độc quyền, trả phí bản quyền một lần. Tìm kho ảnh hoàn hảo cho dự án của bạn một cách nhanh chóng. Tìm kiếm ngay bây giờ.",
+      "text": "82567379, Martin Poole",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.istockphoto.com/photos/clouds-top-view",
+      "page_title": "939676 Clouds Top View Images and Stock Photos - iStock",
+      "title": "iStock",
+      "description": "iStock. Khám phá trang web chính thức của iStock để có hàng triệu tệp tin sẵn có độc quyền, trả phí bản quyền một lần. Tìm kho ảnh hoàn hảo cho dự án của bạn một cách nhanh chóng. Tìm kiếm ngay bây giờ.",
+      "text": "82567379, Martin Poole",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.istockphoto.com/photos/obscured-by-clouds",
+      "page_title": "63427 Obscured By Clouds Images and Stock Photos - iStock",
+      "title": "iStock",
+      "description": "iStock. Khám phá trang web chính thức của iStock để có hàng triệu tệp tin sẵn có độc quyền, trả phí bản quyền một lần. Tìm kho ảnh hoàn hảo cho dự án của bạn một cách nhanh chóng. Tìm kiếm ngay bây giờ.",
+      "text": "82567379, Martin Poole",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.istockphoto.com/photos/panorama-scenery-and-bright-sky-with-cloud-over-high-mountain",
+      "page_title": "4,700+ Panorama Scenery And Bright Sky With Cloud Over High ...",
+      "title": "iStock",
+      "description": "iStock. Khám phá trang web chính thức của iStock để có hàng triệu tệp tin sẵn có độc quyền, trả phí bản quyền một lần. Tìm kho ảnh hoàn hảo cho dự án của bạn một cách nhanh chóng. Tìm kiếm ngay bây giờ.",
+      "text": "82567379, Martin Poole",
+      "image_captions": []
+    }
+  ],
+  "evidence_count": 4,
+  "crawled_at": "2026-04-23T17:10:30.325773+00:00"
+}

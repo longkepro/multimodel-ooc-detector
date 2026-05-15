@@ -1,0 +1,129 @@
+{
+  "sample_id": "true_226",
+  "image_url": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2005/01/E1y4_qsWUAISIXp.jpeg",
+  "visual_entities": [
+    {
+      "description": "Bill Gates",
+      "score": 14.977501
+    },
+    {
+      "description": "",
+      "score": 0.728
+    },
+    {
+      "description": "Microsoft",
+      "score": 0.728
+    },
+    {
+      "description": "Chief Executive Officer",
+      "score": 0.5854
+    },
+    {
+      "description": "Computer",
+      "score": 0.5176
+    },
+    {
+      "description": "Software",
+      "score": 0.5066
+    },
+    {
+      "description": "Business magnate",
+      "score": 0.5042
+    },
+    {
+      "description": "Chairman of Microsoft",
+      "score": 0.4923
+    },
+    {
+      "description": "Windows Vista",
+      "score": 0.4574
+    },
+    {
+      "description": "Microsoft Windows",
+      "score": 0.4439
+    },
+    {
+      "description": "Getty Images",
+      "score": 0.3809
+    },
+    {
+      "description": "",
+      "score": 0.3809
+    }
+  ],
+  "best_guess_labels": [
+    "bill gates microsoft old"
+  ],
+  "similar_image_urls": [
+    "https://imagenes.computerhoy.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/09/07/68e8111a6c810.jpeg",
+    "https://img-api.mac4ever.com/1200/0/e878643168_microsoft-l-entreprise-qui-a-impose-ses-regles-a-l-informatique-a-50-ans-aujourd-hui.webp",
+    "https://img-api.mac4ever.com/1200/0/1a29535a97_bon-anniversaire-a-bill-gates-l-homme-qui-a-sauve-et-combattu-apple.webp",
+    "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2005/01/E1y4_qsWUAISIXp.jpeg",
+    "https://preview.redd.it/nuevos-documentos-del-caso-epstein-revelan-presuntas-v0-qxjxp6g9f3hg1.png?width=1200&format=png&auto=webp&s=7962a6e989a4f5ede21f157d599b789331c24952",
+    "https://i.redd.it/qxjxp6g9f3hg1.png",
+    "https://mediaproxy.snopes.com/width/1200/height/675/https://media.snopes.com/2005/01/E1y4_qsWUAISIXp.jpeg",
+    "https://media.licdn.com/dms/image/v2/D4E12AQGTDGaK6c0XEQ/article-cover_image-shrink_720_1280/B4EZYBbopvHcAM-/0/1743780746724?e=2147483647&v=beta&t=sYq7AgnesjkeZ1yRcsfPCnu6_QyWAFnBLGFF0jATocE",
+    "https://parlament.ua/wp-content/uploads/2022/07/01-pic905-895x505-1262.jpg",
+    "https://imagenes.computerhoy.20minutos.es/files/image_640_auto/uploads/imagenes/2025/09/07/68e8111a6c810.jpeg"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.cnbc.com/2019/06/25/why-bill-gates-younger-self-would-be-disgusted-with-him-today.html",
+      "page_title": "Why Bill Gates' younger self would be 'disgusted' with him today",
+      "title": "Why Bill Gates says his 20-year-old self would be 'so disgusted' with him today",
+      "description": "In the early days of Microsoft, Bill Gates said he didn't believe in weekends or taking vacations. Now at the age of 63, he takes \"lots of vacation\" and loves his weekends.",
+      "text": "In 1975, at the age of 19, Bill Gates dropped out of his sophomore year at Harvard to launch Microsoft with his buddy Paul Allen.\nGates worked weekends and never took vacation in his 20s to get the company off the ground. And it worked. Today, Microsoft is valued at more than $1 trillion and Gates is the second richest man in the world with a net worth of around $107 billion (just $12 billion shy of Amazon's Jeff Bezos' fortune of $119 billion).\n\"It really is true that I didn't believe in weekends; I didn't believe in vacations,\" Gates told Eventbrite co-founder and CEO Julia Hartz Thursday at a Village Global event.\nGates was at the office so much that he knew the license plates of everyone who worked for him, and he would see what time they would come and go and therefore how many hours his employees were putting in.\n\"Microsoft was a high-stress environment because Bill drove others as hard as he drove himself,\" Gates' co-founder Allen wrote in a 2011 article for Vanity Fair. \"He was growing into the taskmaster who would prowl the parking lot on weekends to see who'd made it in.\"\nGates' spy tactics and often intense office demeanor during the company's prime years in the late '80s and '90s famously earned him the reputation as an office bully, according to GQ.\nHowever, once he got into his 30s — and started dating his now-wife Melinda — he said he began to relax a bit and started taking time off, which helped him tone it down.\n\"Now I take lots of vacation. My 20-year-old self is so disgusted with my current self. You know, I was sure I would never fly anything but coach and you know, now I have a plane,\" Gates said.\nHe refers to the change of heart as a \"counter revelation\" and he said he can't imagine working to those extremes today.\n\"I don't recommend it and I don't think most people would enjoy it,\" he said.\nHowever, he said he still believes that hard work is essential during the early years of building a business, especially if you want it to become something great.\n\"You'll have individuals who have, you know, health or relatives or things that [distract them]. But yes, I have a fairly hardcore view that there should be a very large sacrifice made during those early years....\" he said.\nLike this story? Like CNBC Make It on Facebook.\nDon't miss: Bill Gates reveals his 'greatest mistake' that potentially cost Microsoft $400 billion",
+      "image_captions": [
+        "How Bill and Melinda Gates negotiated school drop-offs",
+        "California Consumer Privacy Act (CCPA) Opt-Out Icon"
+      ]
+    },
+    {
+      "url": "https://www.cnbc.com/2019/03/14/watch-33-year-old-bill-gates-describe-ideal-microsoft-job-candidate.html",
+      "page_title": "Watch 33-year-old Bill Gates describe ideal Microsoft job candidate",
+      "title": "Watch 33-year-old Bill Gates describe the ideal candidate for a job at Microsoft in 1989",
+      "description": "Microsoft co-founder Bill Gates told the \"Today\" show he wanted to hire people with these qualities in 1989 — and they're still important today.",
+      "text": "If you wanted a job with Microsoft at the height of the personal computer revolution, you only needed to display two qualities — at least, that's what Microsoft co-founder Bill Gates told NBC's \"Today\" show in 1989.\nGates, who was then just 33 years old and still CEO of the tech giant, told NBC's Jane Pauley that job candidates' age and experience were less important than their enthusiasm for work and their belief in making computers more accessible for the average person.\n\"Well, we'll hire people at any age as long as they're super energetic and they want to make personal computers easier to use,\" Gates says before admitting that most new Microsoft employees were on the younger side. \"But, we end up hiring mostly people right out of college or business school.\"\nOf course, new hires also needed \"to be smart before they come in,\" Gates adds, but Microsoft also wanted bright, but malleable, candidates who could be easily trained. \"We give them a lot of training on the job, we put them right to work,\" he says. \"But, no, we don't expect that they know a lot about [the work] before they get there.\"\nIn other words, in 1989, Microsoft didn't exactly expect every job candidate to be as adept at writing software as the company's co-founders — Gates and Paul Allen developed the programming language software that launched Microsoft in 1975. New hires were expected to be smart, enthusiastic and ready to learn.\nGates also tells Pauley why the company was headquartered in the Seattle area instead of Silicon Valley.\nFirst, said Gates, \"I grew up in Seattle, so as soon as my company had over 20 people, I decided to move it back here.\" (He and Paul Allen co-founded the company in Albuquerque, New Mexico.)\nBut also, \"in California, in Silicon Valley, ... a lot of things happen but the rumor mill makes it hard to keep secrets and employees switch from company to company,\" he says. In Seattle, \"we're able to keep our secrets and, you know, be really on our own,\" Gates says in the interview.\nToday, Gates is 63 years old and the world's second-wealthiest person with an estimated net worth of $98 billion. And while Microsoft had a little over 4,000 total employees in 1989, the company now employs nearly 135,000 people worldwide.\nWhat's more, with Microsoft now worth almost $880 billion in market value, the competition to get hired at the company is fiercer than ever, with millions of applicants each year. Last year, the company told CNBC Make It that, depending on the position being sought, Microsoft asks job candidates to provide examples of their work experience, often including showing off their coding skills or sharing a creative portfolio.\nOne thing that hasn't changed is that Microsoft still wants passionate candidates who are willing to learn on the job. The company told CNBC Make It that it screens prospective hires looking for \"a strong desire to learn, high intelligence, a passion for technology and an entrepreneurial spirit.\"\nDon't Miss: What Microsoft billionaire Bill Gates was doing at 20 years old\nLike this story? Subscribe to CNBC Make It on YouTube!\nDisclosure: NBC and CNBC are owned by Comcast's NBCUniversal unit.",
+      "image_captions": [
+        "Watch 33-year old Bill Gates explain his hiring process, why he moved Microsoft to the Seattle area",
+        "Billionaires Bill and Melinda Gates play this 'crazy' game to unwind",
+        "California Consumer Privacy Act (CCPA) Opt-Out Icon"
+      ]
+    },
+    {
+      "url": "https://www.cnbc.com/2018/11/28/what-bill-gates-did-with-money-after-microsoft-ipo-made-him-super-rich.html",
+      "page_title": "What Bill Gates did with money after Microsoft IPO made him super ...",
+      "title": "Here's the first thing Bill Gates did with his money after making over $350 million from Microsoft's IPO",
+      "description": "When Microsoft went public in 1986, co-founder Bill Gates instantly became one of the richest people in the U.S. With his newfound wealth, he decided to pay off his $150,000 mortgage.",
+      "text": "When Microsoft went public in March of 1986, co-founders Bill Gates and Paul Allen, two friends from high school who bonded over their mutual love of computer science, became multi-millionaires.\nAlthough Allen had left the company years earlier amidst health concerns, Gates, then 30, remained CEO and rose to prominence as one of the richest people in the U.S. The shares he sold made him $1.6 million, and the 45 percent stake he retained gained a market value of $350 million.\nThe young CEO celebrated his newfound wealth by making a very sensible decision: He paid off his $150,000 mortgage, he told Fortune in 1986.\nThat was a smart move, financial experts Kevin O'Leary and Suze Orman would say: Both encourage you to eliminate any debt, including a mortgage, as quickly as possible. \"There's never an incentive to stay in debt,\" O'Leary tells CNBC Make It. \"Life is unpredictable. What happens if you're laid off or incur unexpected expenses elsewhere? Your once-manageable mortgage is suddenly going to seem not-so-manageable.\"\nAnd although Gates ended up wildly successful, nothing was guaranteed at the time.\nPaying off his mortgage was also more practical than some of Gates's earlier decisions. In 1979, when he first started making big money off Microsoft, Gates bought a luxury car: A Porsche 911 supercar.\n\"I bought one thing that was a tiny bit of a splurge,\" Gates told David Rubenstein during a 2016 Bloomberg interview. \"It was used, but it was an incredible car.\"\nGates didn't let the car sit around gathering dust: The CEO loved to put its speed to the test in drives around the New Mexico desert, near where Microsoft was headquartered at the time. After one particularly raucous night, he even had to call Allen to bail him out of jail, according to a Time profile from 1997.\n\"Sometimes when I would want to think at night, I would just go out and drive around at high speed,\" Gates told Rubenstein. \"Fortunately, I didn't kill myself doing that.\"\nGates's wealth continued to balloon after Microsoft's IPO and he became a billionaire in 1987 at age 31. At the time, he was the youngest person ever to reach the milestone. And by 1995, his fortune had grown to $12.9 billion, making the then 39-year-old the world's richest man, a title he held for years afterward.\nToday, with a net worth of around $95 billion, Gates is the second-richest person in the world, behind only Amazon founder Jeff Bezos.\nWith his wife, he now runs the Bill & Melinda Gates Foundation, a charitable organization he founded in 2000 after stepping down from Microsoft. The couple have pledged to give away the majority of their wealth throughout their lifetimes and are doing so by tackling major issues, including fighting Alzheimer's, providing resources to women in developing countries and promoting global health initiatives around the world.\nLike this story? Subscribe to CNBC Make It on YouTube!\nDon't miss:",
+      "image_captions": [
+        "This $52M Ferrari GTO is a car only a multimillionaire can afford",
+        "If you had invested $1,000 at Microsoft's IPO, here's how much you'd have now",
+        "Bill Gates: This is my biggest weakness",
+        "California Consumer Privacy Act (CCPA) Opt-Out Icon"
+      ]
+    },
+    {
+      "url": "https://www.gettyimages.com.au/photos/microsoft-company-bill-gates",
+      "page_title": "2689 Microsoft Company Bill Gates Images and Stock Photos",
+      "title": "Getty Images",
+      "description": "Getty Images Au. Find high resolution royalty-free images, editorial stock photos, vector art, video footage clips and stock music licensing at the richest image search photo library online.",
+      "text": "Michael Fitzsimmons\n627453756\nUser validation",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.cnbc.com/2018/05/24/bill-gates-got-what-he-needed-to-start-microsoft-in-high-school.html",
+      "page_title": "Bill Gates got what he needed to start Microsoft in high school - CNBC",
+      "title": "Bill Gates learned what he needed to start Microsoft in high school",
+      "description": "\"I can directly trace the founding of Microsoft back to my earliest days here,\" Bill Gates said in a speech at Lakeside School.",
+      "text": "Bill Gates dropped out of Harvard in 1975 to launch Microsoft but, in a speech he gave at his high school, he implies he could have skipped college altogether and still become a successful billionaire and philanthropist, thanks to the education he got there.\n\"Lakeside was one of the best things that ever happened to me,\" Gates says in a 2005 speech at Lakeside School. \"One reason I'm so grateful to Lakeside is that I can directly trace the founding of Microsoft back to my earliest days here.\"\nGates was first introduced to computers at his Seattle private school. There, he taught other students about computers, digitized the school schedule and even hacked his school's scheduling system to be placed in all-girls classes.\nBefore enrolling, Gates wasn't sure he would like the school — and he nearly sabotaged his own admission. \"When I was in 6th grade, and my mom and dad suggested I go to Lakeside, I wasn't too sure about it,\" Gates says. \"In those days, Lakeside was an all-boys school where you wore a jacket and tie, called your teachers 'master,' and went to chapel every morning. For a while, I even thought about failing the entrance exam.\"\nLuckily, he listened to his parents, and the school gave Gates his earliest experience with computers. Around the same time he started 7th grade in the late 1960s, several faculty members managed to acquire a terminal.\nThe machinery was new to everyone, students and faculty alike, Gates says. At the time, computers were expensive: The machines cost thousands of dollars, they were slow and they consumed a lot of electricity. \"That made computers seem pretty scary to some people here — especially when 13-year-old kids were eager to try their luck next.\"\n\"The school could have shut down the terminal, or they could have tightly regulated who got to use it,\" Gates says. \"Instead, they opened it up. Instead of teaching us about computers in the conventional sense, Lakeside just unleashed us.\"\nIt was also at Lakeside that he became friends with Paul Allen, his future business partner and co-founder of Microsoft.\n\"The experience and insight Paul Allen and I gained here gave us the confidence to start a company based on this wild idea that nobody else agreed with — that computer chips were going to become so powerful that computers and software would become a tool that would be on every desk and in every home,\" Gates says.\nAs a result of the way his teachers \"did everything to make their lessons matter,\" Gates says he was better able to understand the relevance of computers in the real world.\n\"They could have hired an outside computer expert to do the scheduling system. Teachers could have insisted that they teach classes on computing, simply because they were the teachers and we were the students,\" Gates says. \"But they didn't.\"\nAs a result, he says, \"if there had been no Lakeside, there would have been no Microsoft.\"\nLike this story? Like CNBC Make It on Facebook!\nDon't miss:",
+      "image_captions": [
+        "Bill Gates says he's 'obsessed' with this new website — here's why",
+        "Bill Gates: This is my biggest weakness",
+        "California Consumer Privacy Act (CCPA) Opt-Out Icon"
+      ]
+    }
+  ],
+  "evidence_count": 5,
+  "crawled_at": "2026-04-23T17:55:56.510745+00:00"
+}

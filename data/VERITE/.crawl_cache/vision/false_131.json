@@ -1,0 +1,41 @@
+{
+  "sample_id": "false_131",
+  "image_url": "https://www.gannett-cdn.com/presto/2020/10/16/NPOR/2009f0e8-e5c9-4455-a852-822a2889beea-1017FLAGBURNING.JPG?crop=5999,3375,x0,y400&width=3200&height=1801&format=pjpg&auto=webp",
+  "visual_entities": [
+    {
+      "description": "Tree",
+      "score": 0.48977655
+    },
+    {
+      "description": "just",
+      "score": 0.3324
+    }
+  ],
+  "best_guess_labels": [
+    "tree"
+  ],
+  "similar_image_urls": [
+    "https://www.gannett-cdn.com/presto/2020/10/16/NPOR/2009f0e8-e5c9-4455-a852-822a2889beea-1017FLAGBURNING.JPG?crop=5999,3375,x0,y400",
+    "https://www.poconorecord.com/gcdn/presto/2020/10/16/NPOR/2009f0e8-e5c9-4455-a852-822a2889beea-1017FLAGBURNING.JPG?crop=5999,3375,x0,y400&width=3200&height=1801&format=pjpg&auto=webp",
+    "https://www.poconorecord.com/gcdn/presto/2020/10/16/NPOR/2009f0e8-e5c9-4455-a852-822a2889beea-1017FLAGBURNING.JPG?crop=5999,3375,x0,y400&width=1600&height=800&format=pjpg&auto=webp",
+    "https://www.poconorecord.com/gcdn/presto/2020/10/16/NPOR/2009f0e8-e5c9-4455-a852-822a2889beea-1017FLAGBURNING.JPG?crop=5999,3375,x0,y400&width=1280&height=720&format=pjpg&auto=webp",
+    "https://www.poconorecord.com/gcdn/presto/2020/10/16/NPOR/2009f0e8-e5c9-4455-a852-822a2889beea-1017FLAGBURNING.JPG?crop=5999,3375,x0,y400&width=660&height=371&format=pjpg&auto=webp",
+    "https://www.gannett-cdn.com/presto/2020/10/16/NPOR/2009f0e8-e5c9-4455-a852-822a2889beea-1017FLAGBURNING.JPG?crop=4000,4000,x300,y0",
+    "https://www.gannett-cdn.com/presto/2020/10/16/NPOR/2009f0e8-e5c9-4455-a852-822a2889beea-1017FLAGBURNING.JPG?crop=2240,3982,x1176,y0"
+  ],
+  "evidence": [
+    {
+      "url": "https://greencultured.co/glossary/tree/",
+      "page_title": "Tree | Green CulturED",
+      "title": "Tree 💬 | Green CulturED",
+      "description": "",
+      "text": "A slang term for cannabis that references the shape of certain buds, when trimmed, nugs of cannabis often look like little trees.\nIn botany, a tree is a perennial plant with an elongated stem, or trunk, usually supporting branches and leaves. In some usages, the definition of a tree may be narrower, e.g., including only woody plants with secondary growth, only plants that are usable as lumber, or only plants above a specified height. Wider definitions include taller palms, tree ferns, bananas, and bamboos.\nTrees are not a monophyletic taxonomic group but consist of a wide variety of plant species that have independently evolved a trunk and branches as a way to tower above other plants to compete for sunlight. The majority of tree species are angiosperms or hardwoods; of the rest, many are gymnosperms or softwoods. Trees tend to be long-lived, some trees reaching several thousand years old. The earliest trees evolved around 400 million years ago, and it is estimated that there are around three trillion mature trees in the world currently.\nA tree typically has many secondary branches supported clear of the ground by the trunk, which typically contains woody tissue for strength, and vascular tissue to carry materials from one part of the tree to another. For most trees the trunk is surrounded by a layer of bark which serves as a protective barrier. Below the ground, the roots branch and spread out widely; they serve to anchor the tree and extract moisture and nutrients from the soil. Above ground, the branches divide into smaller branches and shoots. The shoots typically bear leaves, which capture light energy and convert it into sugars by photosynthesis, providing the food for the tree's growth and development.\nTrees usually reproduce using seeds. Flowering plants have their seeds inside fruits, while conifers carry their seeds in cones, and tree ferns produce spores instead.\nTrees play a significant role in reducing erosion and moderating the climate. They remove carbon dioxide from the atmosphere and store large quantities of carbon in their tissues. Trees and forests provide a habitat for many species of animals and plants. Tropical rainforests are among the most biodiverse habitats in the world. Trees provide shade and shelter, timber for construction, fuel for cooking and heating, and fruit for food as well as having many other uses. In much of the world, forests are shrinking as trees are cleared to increase the amount of land available for agriculture. Because of their longevity and usefulness, trees have always been revered, with sacred groves in various cultures, and they play a role in many of the world's mythologies.\nEnglish\nAlternative forms\n- tre (obsolete)\nEtymology\nFrom Middle English trau, tre, tree, treo, treou, trew, trewe, troe, trouȝh, trouȝgh, trow, trowe, from Old English trēo, trēow, trēu, trīo, trīow,\n... Read More",
+      "image_captions": [
+        "Common ash (Fraxinus excelsior), adeciduousbroad-leaved (angiosperm) tree",
+        "European larch (Larix decidua), aconiferoustree which is also deciduous"
+      ]
+    }
+  ],
+  "evidence_count": 1,
+  "crawled_at": "2026-04-23T17:29:44.814446+00:00"
+}

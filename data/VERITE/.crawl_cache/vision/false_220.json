@@ -1,0 +1,97 @@
+{
+  "sample_id": "false_220",
+  "image_url": "https://gray-wbrc-prod.cdn.arcpublishing.com/resizer/ei1aeDifx2xwe4agI6fNXSfl63Q=/1200x675/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/6JG3SANAERBQPLMAMRXMO4NSEQ.png",
+  "visual_entities": [
+    {
+      "description": "Pipeline transport",
+      "score": 1.0948501
+    },
+    {
+      "description": "Natural gas",
+      "score": 0.7349
+    },
+    {
+      "description": "gas pipeline",
+      "score": 0.7051
+    },
+    {
+      "description": "Gas",
+      "score": 0.7009
+    },
+    {
+      "description": "Fire",
+      "score": 0.654
+    },
+    {
+      "description": "Explosion",
+      "score": 0.60040915
+    },
+    {
+      "description": "Gas leak",
+      "score": 0.5929
+    },
+    {
+      "description": "Pipe",
+      "score": 0.5203
+    },
+    {
+      "description": "",
+      "score": 0.4898
+    },
+    {
+      "description": "Energy Transfer Operating",
+      "score": 0.4898
+    },
+    {
+      "description": "Northern Natural Gas",
+      "score": 0.4581
+    },
+    {
+      "description": "Fracking",
+      "score": 0.433
+    },
+    {
+      "description": "Energy Transfer",
+      "score": 0.3947
+    }
+  ],
+  "best_guess_labels": [
+    "natural gas pipeline explosion"
+  ],
+  "similar_image_urls": [
+    "https://gray-wibw-prod.gtv-cdn.com/resizer/v2/6JG3SANAERBQPLMAMRXMO4NSEQ.png?auth=b8e7418408c628fb682cd4f8a9e0873b0bac36429e012e54346a41510a97b78a&width=800&height=450&smart=true",
+    "https://www.wibw.com/resizer/unnRBNPk_8kZ3SeZr0U_RkTf1XA=/300x0/arc-photo-gray/arc3-prod/public/6JG3SANAERBQPLMAMRXMO4NSEQ.png"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.kgns.tv/2026/03/20/natural-gas-pipeline-ruptures-explodes-webb-county/",
+      "page_title": "Natural gas pipeline ruptures, explodes in Webb County - KGNS",
+      "title": "Natural gas pipeline ruptures, explodes in Webb County",
+      "description": "A natural gas pipeline ruptured and exploded on Hwy 255, prompting a response from Webb County Fire Department crews.",
+      "text": "Natural gas pipeline ruptures, explodes in Webb County\nWEBB COUNTY, Tex. (KGNS) - A natural gas pipeline ruptured and exploded on Hwy 255, prompting a response from Webb County Fire Department crews.\nThe Webb County Fire Department reported the incident just before 11 a.m. on March 20. Fire units were en route to another call when they responded to the scene.\nFire crews established a secure perimeter around the active fire. Currently, the fire is being monitored under controlled conditions while utility personnel work to shut off the gas supply.\nFire suppression efforts will be initiated once the natural gas flow is stopped, according to the fire department.\nOfficials said this is the safest and most effective approach to prevent further hazards.\nNo injuries have been reported.\nAt just after 12 p.m., Webb County Fire Chief Ramiro Elizondo Jr. reported that two pipelines from Howard Energy and Lewis Energy Group had ruptured.\nHe noted that the valves had been shut off and the remaining natural gas had burned off following the rupture. Crews are now working to extinguish the hot spots caused by the explosion.\nCurrently, no further damage has been reported, and there is no danger to the surrounding area.\nFor more headlines, click here.\nCopyright 2026 KGNS. All rights reserved.",
+      "image_captions": [
+        "KGNS+ mourns loss of former reporter Max Fernandez",
+        "FILE - Zion National Park near Springdale, Utah, is pictured on Sept. 15, 2015.",
+        "LISD, UISD schools placed under security protocols",
+        "United ISD is considering consolidating some elementary schools as it works to close a...",
+        "Father and son arrested after shots fired from moving vehicle in Laredo"
+      ]
+    },
+    {
+      "url": "https://www.wibw.com/2021/07/22/large-natural-gas-pipeline-explosion-ellsworth-county/",
+      "page_title": "Large natural gas pipeline explosion in Ellsworth County - WIBW",
+      "title": "Large natural gas pipeline explosion in Ellsworth County",
+      "description": "A large natural gas pipeline explosion occurred after 1:30 p.m. Thursday in Ellsworth County.",
+      "text": "Large natural gas pipeline explosion in Ellsworth County\nELLSWORTH COUNTY, Kan. (KWCH) - A pipeline owned and operated by Northern Natural Gas exploded in Ellsworth County.\nA spokesperson says the explosion was started by a gas leak. The explosion occurred near 23rd Road and Avenue D.\nThe gas company is currently working with first responders and there is no threat to public safety.\nThe gas has been shut off to the line and the fire will continue to burn out.\nService interruptions are not expected.\nThe same gas company has issues with a well pad at the company’s natural gas underground storage facility near Lyons last week, causing a gas smell in the town.\nA large natural gas pipeline explosion occurred after 1:30 p.m. Thursday in Ellsworth County.\nAccording to KHP Trooper Ben Gardner, the explosion occurred on I-70 near mile marker 222. A fire continues at the site of the explosion. The explosion occurred in a pasture.\nEyewitness News has a crew headed to the scene to gather more information.\nCopyright 2021 KWCH. All rights reserved.",
+      "image_captions": [
+        "The explosion occurred near 23rd Road and Avenue D.(Courtesy of Jeremy Diehl with Saline County Fire District 3)",
+        "The explosion occurred near 23rd Road and Avenue D.",
+        "Topeka police responded to an incident mid-morning Wednesday in the 600 block of N.E. Grattan...",
+        "\"Storage Wars\" cast member Darrell Sheets attends the A+E Networks 2013 Upfront on Wednesday,...",
+        "A new home for the Kansas City Royals is expected to be announced Wednesday morning."
+      ]
+    }
+  ],
+  "evidence_count": 2,
+  "crawled_at": "2026-04-23T17:54:19.954819+00:00"
+}

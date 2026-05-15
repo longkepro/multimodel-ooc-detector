@@ -1,0 +1,88 @@
+{
+  "sample_id": "true_187",
+  "image_url": "https://www.thatsnonsense.com/wp-content/uploads/2016/01/mac-testing-title-1280x720.jpg",
+  "visual_entities": [
+    {
+      "description": "Fish",
+      "score": 0.7266
+    },
+    {
+      "description": "Animal testing",
+      "score": 0.7067
+    },
+    {
+      "description": "Cat",
+      "score": 0.6894
+    },
+    {
+      "description": "Hamster",
+      "score": 0.67904997
+    },
+    {
+      "description": "Dog",
+      "score": 0.56715
+    },
+    {
+      "description": "Tropical fish",
+      "score": 0.4479
+    },
+    {
+      "description": "Cruelty-free",
+      "score": 0.4041
+    },
+    {
+      "description": "Fish Food",
+      "score": 0.4011
+    },
+    {
+      "description": "Tropical Fish Flakes",
+      "score": 0.3982
+    },
+    {
+      "description": "Fish products",
+      "score": 0.32065016
+    },
+    {
+      "description": "Product",
+      "score": 0.3007
+    }
+  ],
+  "best_guess_labels": [
+    "fish products"
+  ],
+  "similar_image_urls": [
+    "https://pbs.twimg.com/media/BJ7XzRxCEAAWJue.jpg?format=jpg&name=thumb",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=509093639128466",
+    "https://i1.ruliweb.com/cmt/20/03/29/17123d700334b1b52.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10155943430138764",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10238162107566488",
+    "https://speakingofresearch.com/wp-content/uploads/2014/04/cat-vets.jpg?w=500"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.thomasdoit.com/shop/pet-supplies/fish-supplies/fish-food-and-healthcare/fish-food",
+      "page_title": "Fish Food - Thomas Do it Center",
+      "title": "Fish Food - Thomas Do it Center",
+      "description": "Start shopping today for all of your home improvement, lawn & garden, and home decor!",
+      "text": "Skip to main content\nSkip to Footer\nFor products and pricing please contact our stores.\nCustomer Service\nNeed Help?\nWebsite Customer Service\n833.800.5906\nTHOMAS DO IT CENTER\n304-675-5200\nSearch\nSign In\nCart\nChoose Store\nSign In\nCart\nMenu\nClose\nOur Story\nServices\nOur Delivery Fleet\nOur Community\nSpecial Events\nJoin Our Team\nContact Us\nOur Locations\nMy Account\nOur Story\nServices\nOur Delivery Fleet\nOur Community\nSpecial Events\nJoin Our Team\nContact Us\nOur Locations\nFish Food\nHome\nShop\nPet Supplies\nFish Supplies\nFish Food & Healthcare\nFish Food\nBack to Fish Food & Healthcare\nFILTER\nVIEW\nGrid view\nList view\n2\nResults Found\nSHOW\n12 per page\n24 per page\n48 per page\n96 per page\nSORT BY\nFeatured\nAlphabetical\nPrice: Low to High\nPrice: High to Low\nFish Food (2)\nFilters\n2\nResults Found\nPickup / Delivery\nPickup / Delivery\n2\nResults Found\nFree Ship-to-Store\nShip to Address\nApply\nBrand\nBrand\nResults Found\nTetraFin\nTetraMin\nApply\nSize\nSize\nResults Found\n1 Oz.\nApply\nType\nType\nResults Found\nGoldfish\nTropical Fish\nApply\nProduct Pricing\nProduct Pricing\n2\nResults Found\n- All -\nNormal\nOn Sale\nApply\nPrice\nPrice\n2\nResults Found\n$0\n$500\nApply\nReset Search\nVIEW PRODUCT\nTetraFin 1 Oz. Goldfish Flakes Fish Food\n$4.79\nVIEW PRODUCT\nTetraMin 1 Oz. Tropical Fish Flakes Fish Food\n$6.79\nSign up today for exclusive offers and expert advice!\n*\nEnter your email",
+      "image_captions": [
+        "Home page. Thomas Do it Center",
+        "TetraFin 1 Oz. Goldfish Flakes Fish Food",
+        "TetraMin 1 Oz. Tropical Fish Flakes Fish Food"
+      ]
+    },
+    {
+      "url": "https://speakingofresearch.com/2014/04/08/pictures-in-need-of-accurate-words-university-of-florida-animal-photos/",
+      "page_title": "Pictures in need of accurate words: University of Florida animal photos",
+      "title": "Pictures in need of accurate words: University of Florida animal photos",
+      "description": "Pictures from labs are often used out of context to criticise animal research – make you sure your pictures keep their context",
+      "text": "Pictures of a cat spay clinic misrepresented as a laboratory horror shop circulated the internet recently to support appeals to “end animal testing.” Speaking of Research wrote about it here “Fact into fiction: Why context matters with animal images,” noting the importance of understanding the facts and context for photographs.\nIn the cat spay clinic case, the photos were from a newspaper article. We have written previously about images of laboratory animals that have made their way to the internet via leaks, undercover operations, and open records release. In all cases, several points remain true. Images are powerful. Providing accurate information about the images is important. It is also true that there are important differences between the sources and ways that images are obtained. Those obtained via infiltrations and undercover operations may be from manipulated situations, or small fractions of hours of recording, in both cases providing a deliberately misrepresentative view. Photos obtained from institutions via open records release can also be used to misrepresent laboratory animals’ care and treatment and can be the centerpiece in “shock” campaigns. Their value is obvious from even a quick survey of high profile attacks on research, as we’ve written about previously (here, here, here). As in the case of the spay clinic images, conflating veterinary and clinical care with scientific research is also common and further serves to confuse the issues.\nCan the laboratory animal research community do a better job of providing context for images of animals? Yes.\nKnowing what the images show and why matters, particularly to people who would like to engage in serious and thoughtful consideration to inform their point of view and judgments. In absence of context and facts, the audience is left without key knowledge and an opportunity to educate is missed. Yet all too often the opportunity is missed and the images remain in public view without comment or context from those who could provide a better understanding of what the photographs show.\nIn reviewing laboratory animal photographs that appear on animal rights sites, it is obvious that there are generally two types: those from activities directly related to the scientific project and those related to veterinary care or housing and husbandry. In terms of providing context and information, the two differ with respect to their source and which personnel may best explain the content of the photographs.\nSome images may be of actual scientific research activities. These may be of animals engaging in an activity directly related to the science question under study. For example, the images may illustrate how animals perform a cognitive or memory task, how they navigate a maze, or how a particular measurement is obtained. The Max Planck Institute for Biological Cybernetics website provides an example of this, with description and photographs of rhesus monkeys and cognitive neuroscience research. Another type of image directly related to the scientific project may be of a surgery or procedure. An example of this is found in pictures of a surgery involved in cat sound localization research (photos here, video here). In each case, it is not particularly challenging to provide additional information and context because the activities are typically also explained in the protocols, grants, and scientific papers about the study.\nImages of clinical veterinary care, husbandry, and housing appear frequently in activist campaigns and public view. For example, pictures of routine physical examinations, health tests, unexpected injuries unrelated to scientific procedures, or photos of animals in their normal housing, have all appeared via various sources. Many times– perhaps more often than not– the activity depicted in the images would not be obvious to a lay audience because it remains unexplained.\nA common image – tuberculosis skin test\nOne of the best examples of misunderstood images is found in pictures of an anesthetized macaque monkey with a needle injecting something in its eyelid. The picture circulates the internet with various captions opposing “animal testing.” What does this picture show?\nIt is a skin test, commonly used in human and nonhuman primates, for early detection of tuberculosis. A small amount of tuberculin (non-harmful) is injected just under the skin. In almost all cases, the primate does not have tuberculosis and the skin remains normal. If the primate—human or not—does have a reaction to the test, indicated by redness and some swelling, it provides evidence of possible tuberculosis infection. That person, or monkey, then receives additional testing and preventive measures for treatment and to avoid infecting and harming others.\nTuberculosis testing is routinely performed as a health procedure in humans who work in hospitals, schools, with children and with others who may be vulnerable. In settings where nonhuman primates are housed, tuberculosis testing is often routinely performed with all human personnel and with the other animals. Why? Because tuberculosis is a rare disease, but one that can be a threat to the animals’ health and thus, precautions are necessary to ensure their health. The difference between human and monkey tb testing is that for humans, the injection is given without pain relief or anesthesia, via a needle inserted into the forearm.\nAside from the momentary discomfort of the injection, the test is painless and without irritating after-effects. In monkeys, the injection is typically given while the animal is anesthetized and is placed just under the skin of the upper eyelid. Why the difference? It is a simple reason—the key to the test is looking for redness or slight swelling. In monkeys, the forearm is fur-covered and it would be very difficult to detect a reaction in an unobtrusive way.\nUniversity of Florida monkey pictures\nNot surprisingly, the monkey tb test photo is one that seems to appear in an ongoing campaign against the University of Florida. In response to several years of attacks on their animal research programs, public universities in Florida are pursuing new action to shield personal information about their personnel from public disclosure. We’ve written previously about an ongoing campaign of violent threats, harassment, and protest by local activists (here, here, here).\nIn parallel to other campaigns, photographs are a centerpiece of the current attacks on animal research. As reported by Beatrice Dupuy in the Independent Alligator:\n“Disturbing pictures of primates being examined by researchers are featured on the organization’s website along with posters with quotes like “stop the holocaust inside UF, free the monkeys.” After a three year lawsuit, the organization, formerly named Negotiation is Over, obtained UF’s public veterinary records last April. The researchers named in public records were the first ones to be targeted by animal rights activists, said Janine Sikes, a UF spokeswoman.”\nWhat are these “disturbing pictures of primates being examined by researchers”?\nThe photographs <warning: link to AR site> are of macaque monkeys that appear to be receiving routine veterinary care or are simply in fairly standard housing. While the activists claim these photos are evidence of maltreatment at the hands of researchers, they likely are mostly of routine veterinary procedures. For example, two appear to be of an anesthetized macaque monkey receiving a tattoo, another two of an anesthetized monkey receiving a tuberculosis test, while others show the reddened skin that rhesus macaques exhibit normally in the wild and captivity. One photo depicts what looks like a stillborn infant macaque. Without context or confirmation, it isn’t surprising that the photographs can be interpreted in many ways.\nUF’s spokesperson says: “The university wants to be very open and honest about its research,” … “It wants to stop these personal attacks against our researchers.”\nOne place to begin is to provide straightforward and accurate context for the images of laboratory animals that have been released. While those with experience in laboratory care of nonhuman primates can view the images and be reasonably certain that they are mostly of clinical veterinary care, it is only the UF veterinary, animal care program, and scientific personnel that can provide accurate information. Other universities have done exactly that when faced with the same situation. In “An Open Letter to the Laboratory Animal Veterinary Community and Research Institution Administration” we wrote:\n“While scientists can address questions about the scientific side of animal research, we need the laboratory animal care and veterinary staff to provide their expertise in service of addressing public questions about clinical care and husbandry. If they do not, it will be no surprise if the public view of animal research is disproportionately colored by the relatively rare adverse events and the misrepresentations of animal rights activists. Many believe that it is possible—and perhaps acceptable—to ignore this part of reality in order to focus on more immediate demands for time, energy, and resources. Consider, however, that a fundamental part of the AWA, accreditation, regulation, and professional obligation is actually to ensure communication with the public that supports animal research. Thus, it is our entire community who share a primary obligation to engage in the dialogue that surrounds us.”\nWe have consistently condemned the extremists who have targeted UF scientists and others with outrageous harassment. Tactics designed to elicit fear and terror do not have a place in democratic society and do nothing to promote fair and civil dialogue about complex issues.\nAt the same time, we believe and have written often, that the scientific and laboratory animal community, including scientists, veterinarians, and institutional officials should consider that better education and explanation are key to building public dialogue and understanding of research. Furthermore, as highlighted in this case and others, releasing photographs, records, and other materials without providing context serves no one well. Providing straightforward explanation of the veterinary practices, housing, husbandry, and care of laboratory animals not only gives context to photographs, but also should not be that hard to do.\nAllyson J. Bennett\nMore information and resources:\nRaising the bar: What makes an effective public response in the face of animal rights campaigns: https://speakingofresearch.com/2013/02/20/raising-the-bar-what-makes-an-effective-public-response-in-the-face-of-animal-rights-campaigns/\nTime for a change in strategies? https://speakingofresearch.com/2013/06/24/time-for-a-change/\nA detailed response to a PETA video accusing a primate lab of mistreatment: https://speakingofresearch.com/2008/07/04/peta-out-with-the-new-in-with-the-old/\nSpeaking of Research media briefing (pdf): Background Briefing on Animal Research in the US\nTo learn more about the role of animal research in advancing human and veterinary medicine, and the threat posed to this progress by the animal rights lobby, follow us on Facebook or Twitter.",
+      "image_captions": [
+        "This picture was used to misrepresent animal research",
+        "What does the image depict"
+      ]
+    }
+  ],
+  "evidence_count": 2,
+  "crawled_at": "2026-04-23T17:45:21.172895+00:00"
+}

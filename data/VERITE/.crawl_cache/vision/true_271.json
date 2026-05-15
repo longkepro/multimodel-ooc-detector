@@ -1,0 +1,87 @@
+{
+  "sample_id": "true_271",
+  "image_url": "https://www.thesun.co.uk/wp-content/uploads/2019/12/NINTCHDBPICT000544823899.jpg?w=620",
+  "visual_entities": [
+    {
+      "description": "Jeff Doherty",
+      "score": 0.5568
+    },
+    {
+      "description": "Maroon beret",
+      "score": 0.3942
+    },
+    {
+      "description": "Afghanistan",
+      "score": 0.3528
+    },
+    {
+      "description": "British Army",
+      "score": 0.3325
+    },
+    {
+      "description": "available",
+      "score": 0.3293
+    },
+    {
+      "description": "just",
+      "score": 0.3035
+    }
+  ],
+  "best_guess_labels": [
+    "fin doherty"
+  ],
+  "similar_image_urls": [
+    "https://i2-prod.mirror.co.uk/article21029523.ece/ALTERNATES/s1200e/0_PAY-THP_CHP_041219SLUG_8003JPG.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3766962043535904",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=127549233169865",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=122645973819646",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3741128826107240",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3704672882898493",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=5650892495033552",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=849801365455271",
+    "https://image.jimcdn.com/app/cms/image/transf/dimension=1920x400:format=jpg/path/s78c59e5359800ac4/image/ib151527bebeca33a/version/1675524157/image.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=742396074394856"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.thesun.co.uk/news/10478106/brother-slain-war-hero-broke-down-following-paratrooper/",
+      "page_title": "Brother of slain war hero breaks down as he becomes a paratrooper ...",
+      "title": "Verifying Device",
+      "description": "",
+      "text": "Verifying your device, please wait\nVerification failed. Please try again.\nTry Again\nVerification failed. Please try again.",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.the-sun.com/news/120611/brother-of-slain-afghanistan-war-hero-breaks-down-as-he-follows-in-his-footsteps-to-become-paratrooper/",
+      "page_title": "Brother of slain Afghanistan war hero breaks down as he follows in ...",
+      "title": "Verifying Device",
+      "description": "",
+      "text": "Verifying your device, please wait\nVerification failed. Please try again.\nTry Again\nVerification failed. Please try again.",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.mirror.co.uk/news/uk-news/soldiers-tears-follows-slain-war-21029503",
+      "page_title": "Soldier's tears as he follows in slain war hero brother's footsteps to ...",
+      "title": "Soldier cries as he follows in slain war hero brother's footsteps as paratrooper",
+      "description": "Fin Doherty was just six-years-old when Private Jeff Doherty was fatally wounded as he carried out his first tour of duty in Helmand province, Afghanistan, in 2008",
+      "text": "Soldier's tears as he follows in slain war hero brother's footsteps to become paratrooper\nFin Doherty was just six-years-old when Private Jeff Doherty was fatally wounded as he carried out his first tour of duty in Helmand province, Afghanistan, in 2008\nThe brother of a hero soldier who was killed in Afghanistan over 10 years ago was moved to tears as he followed in his footsteps to become a paratrooper.\nFin Doherty was just six-years-old when Private Jeff Doherty was fatally wounded during a Taliban ambush in Helmand province in 2008.\nThe heartbroken youngster was stunned by the loss of his sibling who had turned 20 just days before he died.\nMonths later, little Fin touched the hearts of the nation when he wore Jeff Doherty’s maroon beret at an emotional service to remember the famous regiment’s soldiers.\nSpeaking to the Mirror after Jeff's death in 2008, Fin proudly wore his brother's beret and declared: “He was my hero. I’ll never forget him.”\n“I loved him,” he said. “He was my big brother and he could do anything.\n\"Once, he even ate 27 Kit Kats all in one go. I miss how he used to carry me on his shoulders and I miss waking up with him next to me in my bed. But most of all, I just miss him.”\nFin, 18, is now making good his promise to his late sibling by joining the Parachute Regiment after completing a gruelling 19-week training course Catterick Garrison, North Yorkshire.\nHe told the Sun: \"It means everything to receive his beret.\n\"I stand in front of his grave every time I go and see him and I say 'I will make your beret see what it should have seen'. Now it's with me I'll do just that.\n\"I've been waiting for this ever since I was six when I found out he had been killed. I've earned it in the same way as he did. I've worked hard.\nIn a poignant gesture, Fin was handed the prized paratrooper's beret by Sgt Major Adam Ireland, known as JJ, who previously fought with his brother.\nPte Doherty, of Southam, Warwickshire, was 17 when he first entered the Army Foundation College in Harrogate.\nHis commanding officer, Second Lieutenant Edward Watkins said: \"This is an exceptionally difficult course to come through.\n\"For someone like Pte Doherty it means that much more to him. He's coped with it tremendously well and he's come out shining.\n\"He's following in his brother's footsteps. You can see how much it means to him. There are times when the course is exceptionally arduous and a lot of recruits drop out.\nFin now says he wants to join 2 Para Battle Group, the same unit which Jeff joined for his first, and final, tour of duty.",
+      "image_captions": [
+        "Jeff Doherty was just 20 when he was killed by a Taliban ambush in 2018(Image: PA)",
+        "Fin Doherty cried as he followed in his brother's footsteps(Image: The Sun / News Syndication)",
+        "Fin Wakefield holds a portrait of his brother Jeff in 2008",
+        "Jeff Doherty was killed in Afghanistan on his first operational tour(Image: PA)",
+        "Soldiers carrying the coffin of Private Jeff Doherty(Image: EPA)"
+      ]
+    },
+    {
+      "url": "https://www.thesun.co.uk/news/10902958/the-sun-military-awards-2020/",
+      "page_title": "Selfless heroes nominated for The Sun's Military Awards including ...",
+      "title": "Verifying Device",
+      "description": "",
+      "text": "Verifying your device, please wait\nVerification failed. Please try again.\nTry Again\nVerification failed. Please try again.",
+      "image_captions": []
+    }
+  ],
+  "evidence_count": 4,
+  "crawled_at": "2026-04-23T18:10:31.664701+00:00"
+}

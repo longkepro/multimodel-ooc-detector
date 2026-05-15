@@ -1,0 +1,117 @@
+{
+  "sample_id": "false_264",
+  "image_url": "https://s.yimg.com/ny/api/res/1.2/EKv9dBINz30EoD0R_jAIgw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://media.zenfs.com/en_us/News/ap_webfeeds/036cd18adab22300480f6a7067005def.jpg",
+  "visual_entities": [
+    {
+      "description": "Porthcawl",
+      "score": 0.84795
+    },
+    {
+      "description": "Storm",
+      "score": 0.7244
+    },
+    {
+      "description": "Wind wave",
+      "score": 0.7206
+    },
+    {
+      "description": "Winter storm",
+      "score": 0.7001
+    },
+    {
+      "description": "Storm Éowyn",
+      "score": 0.59309995
+    },
+    {
+      "description": "Met Office",
+      "score": 0.5824
+    },
+    {
+      "description": "Wind",
+      "score": 0.5548
+    },
+    {
+      "description": "Weather",
+      "score": 0.5467
+    },
+    {
+      "description": "Swell",
+      "score": 0.5464
+    },
+    {
+      "description": "Thunderstorm",
+      "score": 0.5395
+    },
+    {
+      "description": "Rain",
+      "score": 0.4539
+    },
+    {
+      "description": "Cyclone",
+      "score": 0.433
+    },
+    {
+      "description": "Flood",
+      "score": 0.377
+    },
+    {
+      "description": "Severe weather",
+      "score": 0.3744
+    },
+    {
+      "description": "Weather forecasting",
+      "score": 0.3553
+    }
+  ],
+  "best_guess_labels": [
+    "storm porthcawl waves"
+  ],
+  "similar_image_urls": [
+    "https://s.hdnux.com/photos/25/57/67/5701094/4/1920x0.jpg",
+    "https://i2-prod.manchestereveningnews.co.uk/incoming/article6472219.ece/ALTERNATES/s1227b/Weather-4.jpg",
+    "https://www.delo.si/media/images/20200910/143750.max-1280x1280.jpg",
+    "https://img.welt.de/img/vermischtes/mobile123610533/4547936617-ci3x2l-w1200/People-watch-and-photograph-enormous-wav.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=682788753878436",
+    "https://de2lpkrxq0juw.cloudfront.net/wenzhang_caiji/image/20220316/1b90fd71af6a5f32d5fe4b8c0256981d_1.jpg",
+    "https://www.delo.si/media/images/20200910/143750.width-800.jpg",
+    "https://macleans.mblycdn.com/uploads/mac/2014/01/Big-Wave.jpg",
+    "https://davescomputertips.com/wp-content/uploads/2015/06/Britain_Storms.jpg",
+    "https://www.delo.si/media/images/20200910/143750.width-660.format-webp.webp"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.gettyimages.com/detail/photo/storm-generated-waves-at-porthcawl-seafront-pier-royalty-free-image/1069659938?phrase=hurricane",
+      "page_title": "Storm Generated Waves At Porthcawl Seafront Pier (2) - stock photo",
+      "title": "Getty Images",
+      "description": "Getty Images. Find high resolution royalty-free images, editorial stock photos, vector art, video footage clips and stock music licensing at the richest image search photo library online.",
+      "text": "ViewStock\n886771796\nUser validation",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.gettyimages.com/detail/photo/storm-generated-waves-at-porthcawl-seafront-pier-royalty-free-image/1066951062?phrase=hurricane",
+      "page_title": "Storm Generated Waves At Porthcawl Seafront Pier - stock photo",
+      "title": "Getty Images",
+      "description": "Getty Images. Find high resolution royalty-free images, editorial stock photos, vector art, video footage clips and stock music licensing at the richest image search photo library online.",
+      "text": "ViewStock\n886771796\nUser validation",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.gettyimages.com/detail/photo/storm-generated-waves-at-porthcawl-seafront-pier-royalty-free-image/1066951398?phrase=hurricane",
+      "page_title": "Storm Generated Waves At Porthcawl Seafront Pier - stock photo",
+      "title": "Getty Images",
+      "description": "Getty Images. Find high resolution royalty-free images, editorial stock photos, vector art, video footage clips and stock music licensing at the richest image search photo library online.",
+      "text": "ViewStock\n886771796\nUser validation",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.gettyimages.com/detail/photo/storm-generated-waves-at-porthcawl-seafront-pier-royalty-free-image/1066951258?phrase=hurricane",
+      "page_title": "Storm Generated Waves At Porthcawl Seafront Pier - stock photo",
+      "title": "Getty Images",
+      "description": "Getty Images. Find high resolution royalty-free images, editorial stock photos, vector art, video footage clips and stock music licensing at the richest image search photo library online.",
+      "text": "ViewStock\n886771796\nUser validation",
+      "image_captions": []
+    }
+  ],
+  "evidence_count": 4,
+  "crawled_at": "2026-04-23T18:08:51.741997+00:00"
+}

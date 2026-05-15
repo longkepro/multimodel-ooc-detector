@@ -1,0 +1,115 @@
+{
+  "sample_id": "false_320",
+  "image_url": "https://i.insider.com/62368816927f4a001886b2ec?width=700",
+  "visual_entities": [
+    {
+      "description": "Mariupol",
+      "score": 1.2830236
+    },
+    {
+      "description": "Mariupol theatre airstrike",
+      "score": 0.99615
+    },
+    {
+      "description": "Mariupol theatre",
+      "score": 0.74893504
+    },
+    {
+      "description": "",
+      "score": 0.7329
+    },
+    {
+      "description": "Russia",
+      "score": 0.73065
+    },
+    {
+      "description": "United States",
+      "score": 0.63315
+    },
+    {
+      "description": "",
+      "score": 0.4871
+    },
+    {
+      "description": "",
+      "score": 0.4662
+    },
+    {
+      "description": "Theatre",
+      "score": 0.4662
+    },
+    {
+      "description": "",
+      "score": 0.4221
+    }
+  ],
+  "best_guess_labels": [
+    "ukraine theater bombing"
+  ],
+  "similar_image_urls": [
+    "https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P2FJ4BULRNHBJIICOJU6PXQDUU.jpg",
+    "https://www.chosun.com/resizer/v2/P2FJ4BULRNHBJIICOJU6PXQDUU.jpg?auth=68fb74cde85bddfc8c3802d7ee5ba57a980ea41e27fe53608deae1a7d0706629&width=1300&height=731&smart=true",
+    "https://www.chosun.com/resizer/v2/P2FJ4BULRNHBJIICOJU6PXQDUU.jpg?auth=68fb74cde85bddfc8c3802d7ee5ba57a980ea41e27fe53608deae1a7d0706629&width=1280",
+    "https://www.chosun.com/resizer/v2/P2FJ4BULRNHBJIICOJU6PXQDUU.jpg?auth=68fb74cde85bddfc8c3802d7ee5ba57a980ea41e27fe53608deae1a7d0706629&width=1200&height=630&smart=true",
+    "https://cdn.ain.ua/ua/2022/04/62368816927f4a001886b2ec-1024x538.jpg",
+    "https://www.metabunk.org/attachments/1653146934924-png.51509/",
+    "https://cdn.magyarnemzet.hu/2026/03/tr57PWYd9O6WDt4iXFgOrnDDpod_QYljpUuStPh-EaU/fill/700/394/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2I1NWEwNTBmYTcyYzQzYzU4ZDRlMDEyM2MzMTQ5NGI5.jpg",
+    "https://i.insider.com/62368816927f4a001886b2ec?width=700",
+    "https://lapagina.com.sv/wp-content/uploads/2022/03/Teatro.jpg",
+    "https://www.chosun.com/resizer/v2/P2FJ4BULRNHBJIICOJU6PXQDUU.jpg?auth=68fb74cde85bddfc8c3802d7ee5ba57a980ea41e27fe53608deae1a7d0706629&width=616"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.9news.com.au/national/word-children-spelled-outside-bombed-drama-theatre-in-mariupol-ukraine/ea63d44b-8d35-47e4-a7b0-c2705f5e8645",
+      "page_title": "Word 'children' painted outside theatre destroyed by Russian bomb",
+      "title": "The word 'children' was painted outside theatre bombed by Russia",
+      "description": "So big and bold it could be seen by a satellite in space, the warning \"children\" was painted outside a dram...",
+      "text": "So big and bold it could be seen by a satellite in space, the warning \"children\" was painted outside a drama theatre where hundreds of Ukrainians, young and old, had been sheltering from Russian shelling.\nToday, that theatre in the city of Mariupol was eviscerated, hit with what a Ukrainian politician said was a devastating 1000-kilogram Russian bomb.\nMP Dmytro Gurin accused the Russians of knowingly bombing the building while women and children were hiding inside, and said acts of \"mass murder\" were now being carried out by Russian forces in Mariupol.\n\"They just knew that it was bomb shelter and dropped 1000 kilogram bomb on this dramatic theatre,\" Mr Gurion told Today.\n\"The building is destroyed.\"\nSatellite imagery firm Maxar Technologies said images snapped from space on Monday showed the word \"children\" had been written in large white letters in Cyrillic, the alphabet used in Russia, outside the building.\nThere was no immediate word on deaths or injuries in what the Mariupol city council said was a deliberate and targeted airstrike.\nUkrainian officials said there was no way the theatre could have been mistaken for a military target by the Russian aircraft that dropped the bomb.\nUS President Joe Biden today declared Russian President Vladimir Putin a \"war criminal\" in a strengthening shift of rhetoric from Washington.\nSatellite images from Maxar Technologies have previously been used to track a massive 64km-long Russian army convoy which had been snaking towards the capital Kyiv.",
+      "image_captions": [
+        "New satellite images from Maxar Technologies show that on Monday the word 'children' was spelled out in Russian in two areas outside the theatre that was bombed today.(Maxar Technologies)",
+        "Mariupol City Council said Russian forces had 'purposefully and cynically' destroyed the Drama Theater in the heart of Mariupol, which is shown here in before and after pictures.(9News)",
+        "New satellite images from Maxar Technologies show that on Monday the word 'children' was spelled out in Russian in two areas outside the theatre that was bombed today.",
+        "Mariupol City Council said Russian forces had 'purposefully and cynically' destroyed the Drama Theater in the heart of Mariupol, which is shown here in before and after pictures.",
+        "Captain surprised as Bunker's call hurts Tigers"
+      ]
+    },
+    {
+      "url": "https://abcnews.com/video/83516295/",
+      "page_title": "Video Ukrainian rescuers search for hundreds under bombed theater",
+      "title": "Video Ukrainian rescuers search for hundreds under bombed theater",
+      "description": "It’s believed that more than 1,000 people, including children, were inside a theater Russia bombed in Mariupol. In Chernihiv, the U.S. confirmed that an American citizen was killed during an attack.",
+      "text": "Ukrainian rescuers search for hundreds under bombed theater\nIt’s believed that more than 1,000 people, including children, were inside a theater Russia bombed in Mariupol. In Chernihiv, the U.S. confirmed that an American citizen was killed during an attack.\nMarch 17, 2022\nAdditional Live Streams\nAdditional Live Streams\n- Live\nABC News Live\n- Live\nPres. Trump takes part in a health care event at the White House\n- Live\nView of Pittsburgh ahead of 2026 NFL Draft\n- Live\nDow Jones Industrial Average\n- Live\nExtreme drought fueling fire weather danger in the Southeast and Plains; new storm to bring multiple days of severe weather\n- Live\nView of the White House\n- Live\nOpening arguments in murder trial for OH deputy who fatally shot 23-year-old Casey Goodson Jr.\n- Live\nView of White House driveway\nTop Stories\nTop Stories\nTrump says Iran having a 'hard time' figuring out who is in charge\n3 hours agoTrump orders Navy to 'shoot and kill' any boat laying mines in Strait of Hormuz\nApr 23, 2026Homes destroyed in wildfire emergency amid extreme drought in Southeast\nApr 23, 2026Where fire danger is headed next\nApr 23, 2026Navy secretary fired amid US Navy blockade as Iran seizes ships near Strait of Hormuz\nApr 23, 2026White House close to offering bailout for Spirit Airlines, sources say\nApr 23, 2026Major airlines warn airfare could rise ahead of summer travel\nApr 23, 2026British Airways to allow in-flight video and voice calls\nApr 23, 2026Fernando Mendoza seen as surefire pick in NFL draft\n1 hour agoWhat does reclassification mean for marijuana users?\n1 hour agoEU approves $106B aid package for Ukraine\n4 hours agoCrypto mogul sues Trump family venture over alleged fraud\n3 hours agoPatel denies FBI investigated reporter\nApr 23, 2026Robert Irwin to host new 'DWTS' spinoff\nApr 23, 2026'DWTS' season 35 reveals 2 cast members\nApr 23, 2026Snooki shares cancer update, 'Jersey Shore' latest\nApr 23, 20262 workers killed in toxic chemical incident in West Virginia\nApr 23, 2026Army sergeant's wife faces deportation to Mexico\nApr 23, 2026Daring rescue for 2 families stuck on cliff\nApr 23, 2026Pistons tie series against Magic\nApr 23, 2026New players to watch ahead of 2026 NFL Draft\nApr 23, 2026MrBeast's company sued over alleged sexual harassment, wrongful termination\nApr 23, 2026Kalshi suspends 3 congressional candidates for betting on their own races\nApr 23, 2026Human remains belonging to multiple young children found in Memphis: Police\nApr 23, 2026Grandson of mobster John Gotti pleads guilty to Covid-19 relief fraud\nApr 23, 2026Iranian state TV airs video of masked gunmen boarding ship near Strait of Hormuz\nApr 22, 2026RFK Jr. faces questions on measles outbreak, vaccines\nApr 22, 20262 home explosions just hours apart leave Texas community on edge\nApr 22, 2026Wildfires force evacuations, destroy homes in Georgia and Florida\nApr 22, 2026David Muir reports on Smithsonian National Zoo's debut of baby elephant on Earth Day\nApr 22, 2026\nABC News Live Presents\nABC News Live Presents\nAll Access with Linsey Davis: Emma Grede\nApr 20, 2026All Access with Linsey Davis: Bob Odenkirk\nApr 13, 2026Dolores Huerta: Her Words, Her Movement\nMar 22, 2026My Reality: The American Dream\nFeb 23, 2026AI: The Next Chapter\nFeb 06, 2026All Access with Linsey Davis: Stephen A. Smith\nJan 12, 2026Daddy Yankee: A Higher Note\nNov 20, 2025Gut Check: The Foods We Eat\nNov 19, 2025All Access With Linsey Davis: Stevie Van Zandt\nNov 18, 2025All Access with Linsey Davis: Andrew Cuomo\nOct 30, 2025All Access With Linsey Davis: Zohran Mamdani\nOct 27, 2025Springsteen: Deliver Me from Nowhere - A Conversation with the Cast\nOct 21, 2025All Access With Linsey Davis: Jeremy Allen White\nOct 20, 2025The Children of Gaza\nOct 11, 2025Glen Powell and Eli Manning: ABC News Live Prime with Linsey Davis\nOct 06, 2025The Playlist Presents: Dale Play!\nSep 26, 2025The Queens: Chaka Khan, Patti LaBelle & Stephanie Mills\nSep 18, 2025War or Peace: The Zelenskyy Interview | Martha Raddatz Reports\nSep 08, 2025Linsey Davis Reports: The Epstein Survivors Speak Out\nSep 03, 2025Backstage Pass - The Fantastic Four: First Steps\nJul 25, 2025After the Ashes: Rebuilding from the LA Wildfires\nJul 10, 2025Celebrating 20 Years of Shondaland\nJul 04, 2025Operation Babylift: The 50-Year Journey – A Special Edition of 20/20\nMay 08, 2025Our Home: Local Action and Global Impact\nApr 22, 2025America’s Care Crisis\nFeb 13, 2025Immigration Crackdown\nFeb 12, 2025Shot in the Dark: Weight Loss Injection Wars\nNov 25, 2024October 7th: The Race to Survive\nOct 07, 2024January 6th: The Fight to Rewrite History\nOct 03, 2024The President and First Lady of Ukraine | Robin Roberts Reporting\nSep 25, 2024\nABC News Specials on\nBarbara Walters: Tell Me Everything\nAug 08, 2025Impact X Nightline: On the Brink\nDec 14, 2023Impact X Nightline: Unboxing Shein\nNov 27, 2023The Lady Bird Diaries\nNov 27, 2023Impact X Nightline: It's Britney\nNov 27, 2023Impact X Nightline: Natalee Holloway -- A Killer Confesses\nNov 27, 2023Impact X Nightline: Who Shot Tupac?\nNov 27, 2023Wild Crime\nOct 26, 2022Impact x Nightline\nOct 28, 2022Power Trip: Those Who Seek Power and Those Who Chase Them\nSep 27, 2022The Murders Before the Marathon\nSep 01, 2022The Ivana Trump Story: The First Wife\nJul 25, 2022Aftershock\nJul 18, 2022Mormon No More\nJun 22, 2022Leave No Trace: A Hidden History of the Boy Scouts\nJun 15, 2022Keeper of the Ashes: The Oklahoma Girl Scout Murders\nMay 20, 2022The Orphans of COVID: America's Hidden Toll\nMay 13, 2022Superstar: Patrick Swayze\nApr 14, 2022The Kardashians -- An ABC News Special\nApr 05, 202224 Months That Changed the World\nMar 30, 2022",
+      "image_captions": [
+        "Pres. Trump takes part in a health care event at the White House",
+        "View of Pittsburgh ahead of 2026 NFL Draft",
+        "Dow Jones Industrial Average",
+        "Extreme drought fueling fire weather danger in the Southeast and Plains; new storm to bring multiple days of severe weather",
+        "View of the White House"
+      ]
+    },
+    {
+      "url": "https://www.nbcnews.com/video/drone-footage-shows-destroyed-theater-in-besieged-mariupol-ukraine-137456197708",
+      "page_title": "Drone footage shows destroyed theater in besieged Mariupol, Ukraine",
+      "title": "Drone footage shows destroyed theater in besieged Mariupol, Ukraine",
+      "description": "Drone footage shows the devastation of a theater that was destroyed during the fierce fighting in the southern Ukrainian city of Mariupol. Despite “children” being painted on the ground outside, local officials estimate that 300 people were killed in the bombing of the theater on March 16.",
+      "text": "Russia launches massive missile and drone attack on Ukraine\n00:46\nUkrainian president says robots captured territory from Russian soldiers\n03:03\nZelenskyy: Russia Took Images of US Air Base Before Iran Strike\n03:08\nRussia fires nearly a thousand drones against Ukraine\n04:46\nVideo shows Russian drone explosion in Lviv\n00:48\nTrump says Putin wants to be ‘helpful’ with Middle East\n00:44\nRussia pounds Ukraine with drones and missiles despite peace talks\n01:10\nZelenskyy marks four years since Russia’s invasion of Ukraine\n01:16\nSeveral dead after Russian strike hits Ukrainian train\n01:40\nRussia and Ukraine in ‘last mile’ of peace talks, Zelenskyy says\n01:20\nKyiv plunges into darkness amid Russian attacks on Ukraine’s energy system\n00:52\nRussia Strikes Ukraine With Hypersonic Ballistic Missile\n00:35\nRussia launches deadly attack on Ukraine with new hypersonic missile\n00:51\nSpecial Report: Trump meets with Israeli Prime Minister Netanyahu at Mar-a-Lago\n19:04\nTrump discusses Gaza and Ukraine as Netanyahu arrives at Mar-a-Lago\n03:05\nSpecial Report: Trump and Zelenskyy speak after meeting on Ukraine peace deal\n26:22\nTrump says he is ‘very close’ to final Ukraine-Russia peace deal\n02:45\nSpecial Report: Trump praises Zelenskyy in meeting, calling him a brave, hard worker\n05:12\nTrump says there will be a security agreement before talks with Zelenskyy at Mar-a-Lago\n06:42\nTrump to Meet With Ukraine’s Zelenskyy at Mar-a-Lago\n02:06\nNBC News\nDrone footage shows destroyed theater in besieged Mariupol, Ukraine\n00:56\nCopied\nDrone footage shows the devastation of a theater that was destroyed during the fierce fighting in the southern Ukrainian city of Mariupol. Despite “children” being painted on the ground outside, local officials estimate that 300 people were killed in the bombing of the theater on March 16.April 11, 2022",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.businessinsider.com/satellite-images-show-destruction-of-mariupol-theater-bombed-by-russia-2022-3",
+      "page_title": "Satellite Images Show Destruction of Mariupol Theater Bombed by ...",
+      "title": "Satellite images show the destruction of a Mariupol theater that had 'CHILDREN' written outside — before and after it was bombed by Russia",
+      "description": "Ukrainian officials said on Friday 1,300 civilians were trapped in the theater in Mariupol, which has been bombarded and surrounded by Russian forces.",
+      "text": "- Russian forces bombed a theater in the besieged city of Mariupol, Ukraine, on Wednesday.\n- More than 1,000 civilians were sheltering at the theater, Ukrainian officials said.\n- Before and after satellite images of the theater show the extent of the damages.\nNew satellite images showed the damage inflicted by Russian forces after the Wednesday bombing of a theater in Mariupol, Ukraine, where more than 1,000 civilians were sheltering, according to Ukrainian officials.\nCity council officials accused Russia of \"purposefully and cynically\" destroying the Mariupol Drama Theater and attacking women, children, and the elderly who were hiding in a bomb shelter on site.\nSatellite images taken prior to the bombing showed the world \"CHILDREN\" had been written in Russian on the ground at the front and back of the theater, possibly in an attempt to alert Russian forces of who was inside.\nUkrainian officials said the theater suffered severe damage from the attack, but that some survivors had already emerged as of Thursday.\nLyudmyla Denisova, Ukrainian parliament's commissioner for human rights, said on Friday 130 people had been rescued from the theater but that 1,300 people still remained trapped. The actual numbers of casualties and fatalities are not yet known.\nThe new satellite images, obtained by Insider on Saturday, show the extent of the damage, with most of the building's roof completely gone.\nMariupol, a port city in southeastern Ukraine, has been devastated by the Russian invasion. The city of roughly half a million people has been bombarded and surrounded by Russian forces, leaving residents without food, water, or electricity.",
+      "image_captions": [
+        "A satellite view of the theater in Mariupol, before (L) and after it was damaged in a Russian attack on March 16. The word \"CHILDREN\" can be seen written in Russian outside the theater.Satellite image ©2022 Maxar Technologies",
+        "A satellite view of the theater in Mariupol, before (L) and after it was damaged in a Russian attack. The word \"CHILDREN\" can be seen written in Russian next to it..",
+        "Download on the App Store",
+        "Get it on Google Play",
+        "Business Insider DE Logo"
+      ]
+    }
+  ],
+  "evidence_count": 4,
+  "crawled_at": "2026-04-23T19:01:48.847097+00:00"
+}

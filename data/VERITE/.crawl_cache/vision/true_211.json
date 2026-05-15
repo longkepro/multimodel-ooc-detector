@@ -1,0 +1,121 @@
+{
+  "sample_id": "true_211",
+  "image_url": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2012/12/satellite.jpeg",
+  "visual_entities": [
+    {
+      "description": "Hurricane Katrina",
+      "score": 1.08135
+    },
+    {
+      "description": "Tropical Cyclone",
+      "score": 0.7455
+    },
+    {
+      "description": "Hurricane Floyd",
+      "score": 0.65055
+    },
+    {
+      "description": "Storm",
+      "score": 0.5975
+    },
+    {
+      "description": "Atlantic hurricane",
+      "score": 0.5501
+    },
+    {
+      "description": "Weather radar",
+      "score": 0.4977
+    },
+    {
+      "description": "Severe weather",
+      "score": 0.4836
+    },
+    {
+      "description": "Tropical cyclone preparedness",
+      "score": 0.4836
+    },
+    {
+      "description": "Saffir–Simpson scale",
+      "score": 0.4758
+    },
+    {
+      "description": "Typhoon",
+      "score": 0.4544
+    },
+    {
+      "description": "Radar",
+      "score": 0.4449
+    },
+    {
+      "description": "Weather",
+      "score": 0.4415
+    },
+    {
+      "description": "Cyclone",
+      "score": 0.4357
+    },
+    {
+      "description": "",
+      "score": 0.4322
+    },
+    {
+      "description": "National Weather Service",
+      "score": 0.4322
+    }
+  ],
+  "best_guess_labels": [
+    "hurricane katrina satellite"
+  ],
+  "similar_image_urls": [
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=209863591553807",
+    "https://hidromares.com.br/wp-content/uploads/2017/09/Furacao1.png",
+    "https://hypescience.com/wp-content/uploads/2010/08/furacao.jpg",
+    "https://www.fishtv.com/uploads/noticias/interna/3095/2048x1200/rep-hype-science-1.jpeg",
+    "https://cdn.xsd.cz/original/7ac36e3332363960bd260682df6fd583.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=581794205177338",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1485301531762238",
+    "https://p5.itc.cn/images01/20230904/ff12d97db2e74e138f8ea0d99933b353.jpeg",
+    "http://www.csun.edu/~hmc60533/CSUN_103/103_intro_files/image017.jpg",
+    "https://www.fatosdesconhecidos.com.br/wp-content/uploads/2022/09/furacao.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.snopes.com/fact-check/satellite-view/",
+      "page_title": "Does Photo Show a Satellite View of Hurricane Katrina? - Snopes.com",
+      "title": "Does Photo Show a Satellite View of Hurricane Katrina?",
+      "description": "Does a photograph show a satellite view of the Hurricane Katrina?",
+      "text": "The above-displayed photograph — a satellite-generated image of a weather phenomenon — has to be one of the hardest-working pictures in show business.\nIn September 2004, it was circulated as a photograph of Hurricane Frances; In December 2004, it was circulated as a photograph of the Indian Ocean tsunami, and, in August 2005, it was circulated as a photograph of Hurricane Katrina.\nDespite its reputation as an all-purpose storm photograph, this picture is actually a satellite image of Hurricane Floyd from September 1999. Similar genuine satellite images of Hurricane Katrina (such as this one) can be found on the National Oceanic and Atmospheric Administration's (NOAA) website.",
+      "image_captions": [
+        "Despite its reputation as an all-purpose storm photograph, this picture is actually a satellite image of Hurricane Floyd from September 1999"
+      ]
+    },
+    {
+      "url": "https://www.snopes.com/collections/hurricane-katrina-claims-collection/",
+      "page_title": "10 Hurricane Katrina claims we've investigated in the 20 years since ...",
+      "title": "10 Hurricane Katrina claims we've investigated in the 20 years since its landfall",
+      "description": "On Aug. 29, 2005, Hurricane Katrina made landfall along the Gulf Coast, eventually taking thousands of lives and causing billions in damage.",
+      "text": "Aug. 29, 2025, marked the 20th anniversary of Hurricane Katrina making landfall in Southeast Louisiana, the beginning of what would become one of the most devastating hurricanes in the history of the United States.\nKatrina was eventually estimated to be responsible for more than 1,400 deaths, according to The Associated Press, to say nothing of its near-$200 billion in property damage and the exposure of infrastructure failures and slow government emergency response times that exacerbated the impact of the storm.\nReflecting on the storm's impact, Snopes collected 10 stories in the 20 years since the day of its landfall, from portrayals of looting based on race to purported satellite images of the storm.",
+      "image_captions": [
+        "Mockup of a hurricane in the Gulf of Mexico",
+        "Despite its reputation as an all-purpose storm photograph, this picture is actually a satellite image of Hurricane Floyd from September 1999",
+        "Hands gripping the bars of a jail cell."
+      ]
+    },
+    {
+      "url": "https://serc.carleton.edu/eslabs/hurricanes/index.html",
+      "page_title": "Hurricanes: Unit Overview",
+      "title": "Hurricanes",
+      "description": "In this EarthLabs module, students will do hands-on experiments and study hurricanes in satellite imagery and visualizations. They'll also explore over 150 years of storm data to find out when and where these storms occur. If students are studying hurricanes during hurricane season, they can monitor the position and status of storms in real time. Hurricanes can serve as an exciting entry point into understanding everyday weather, or a culminating topic for an Earth system or environmental science unit.",
+      "text": "Hurricanes: Unit Overview\nEducator Pages »Why Study Hurricanes?\nHurricanes are life-threatening, building-flattening, property-flooding storms. They are complex natural phenomena that involve multiple interacting processes, offering real-world reasons to understand concepts such as air pressure and heat transfer. When a hurricane is occurring, the human connection to our planet is real and immediate: land, water, air, and life are all whirled about by these intense storms.\nLike scientists, you'll study hurricanes in satellite imagery and visualizations, and do some hands-on experiments. You'll also explore over 150 years of storm data to find out when and where these storms occur. If you're studying hurricanes during hurricane season, you'll be able to monitor the position and status of storms in real time.\nKey Questions\n- What is a hurricane? How do they form?\n- When and where do hurricanes occur? Has the frequency and intensity of hurricanes changed over time?\n- What factors influence the strength or intensity of hurricanes?\n- How do warm ocean waters fuel hurricanes?\n- What are the dangers to life and property in a hurricane?\nLab Overviews\n- 1. Exploring Meteorological Monsters\n- Make an in-depth exploration of an animation that shows the active 2005 Atlantic hurricane season. Discuss your observations and develop questions that you'll be prepared to answer at the end of the unit.\nTools Needed: Animation viewer\n- 2. Hurricane Anatomy\n- Examine a variety of hurricane visualizations to identify basic storm structures. Explore patterns of wind speed and precipitation.\nTools Needed: Animation viewer - 3. Putting Hurricanes on the Calendar\n- Explore HURDAT, the official record of tropical storms and hurricanes in the Atlantic Ocean from 1851 through today. Import, sort, and graph a variety of parameters to characterize the historical record of tropical storms and identify the dates for hurricane season.\nTools Needed: Spreadsheet program such as Excel - 4. Putting Hurricanes on the Map\n- Select a storm from the HURDAT database and generate a storm track for it using placemarks in Google Earth. Consult the National Hurricane Center's Summary Report for your storm to explore its effects on people and property. Finally, use one of NOAA's online mapping tools to examine the track and development of hundreds of storms.\nTools Needed: Google Earth, NOAA's Historical Hurricane Viewer\n- 5. All About Air Pressure\n- Perform a series of hands-on experiments and demonstrations to explore the effects of differences in air pressure.\nTools Needed: Laboratory Equipment - 6. Why Keep an Eye on the Barometer?\n- Compare air pressure and wind speed measurements from Hurricane Katrina and for the entire 2005 hurricane season. From your analysis, estimate the air pressure reading necessary to result in hurricane-force winds.\nTools Needed: Excel - 7. Hurricanes and Heat Transfer\n- Perform quantitative laboratory experiments to investigate physical processes of heat transfer and phase transitions.\nTools Needed: Laboratory Equipment - 8. Hot Water and Hurricanes\n- Examine the ocean's role in powering hurricanes. Explore images of sea surface temperature and sea surface height as measures of energy available to hurricanes.\n- 9. Death and Destruction: The Dangers of Hurricanes\n- Examine photos or videos of hurricane damage and read reports to find out the major causes of death in hurricanes. Explore the four main hazards of hurricanes and make an outline of how to prepare yourself to survive one of these storms.\nTools Needed: Internet connection capable of streaming video, if possible",
+      "image_captions": [
+        "Earthlabs Banner 2019",
+        "Hurricane Katrina in the Gulf of Mexico on August 28, 2005.  The images was taken by NOAA’s Geostationary Operational Environmental Satellite (GOES).",
+        "NASA Video of 2005 Hurricane Season",
+        "Hurricane Floyd - 1999",
+        "A calendar with hurricanes on dates"
+      ]
+    }
+  ],
+  "evidence_count": 3,
+  "crawled_at": "2026-04-23T17:52:07.663432+00:00"
+}

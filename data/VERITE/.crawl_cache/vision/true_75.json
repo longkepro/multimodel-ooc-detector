@@ -1,0 +1,88 @@
+{
+  "sample_id": "true_75",
+  "image_url": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2019/12/GettyImages-1157405926.jpg",
+  "visual_entities": [
+    {
+      "description": "Toronto Raptors",
+      "score": 1.49955
+    },
+    {
+      "description": "Toronto",
+      "score": 0.99105
+    },
+    {
+      "description": "NBA",
+      "score": 0.81810004
+    },
+    {
+      "description": "The NBA Finals",
+      "score": 0.5052
+    },
+    {
+      "description": "Larry O'Brien Championship Trophy",
+      "score": 0.4825
+    },
+    {
+      "description": "Toronto FC",
+      "score": 0.47175002
+    },
+    {
+      "description": "Victory parade",
+      "score": 0.4009
+    },
+    {
+      "description": "Championship",
+      "score": 0.3164
+    }
+  ],
+  "best_guess_labels": [
+    "soccer-specific stadium"
+  ],
+  "similar_image_urls": [
+    "https://media.gettyimages.com/id/1157405926/photo/toronto-on-an-aerial-photo-of-fans-as-they-gather-at-nathan-phillips-square-for-the-toronto.jpg?s=612x612&w=gi&k=20&c=-26DHc4RpE6AvPbK0BZJXbtKSBvSo78BFnuJRCbtAQ8="
+  ],
+  "evidence": [
+    {
+      "url": "https://www.gettyimages.com/photos/toronto-championship-parade",
+      "page_title": "700 Toronto Championship Parade Images and Stock Photos",
+      "title": "Getty Images",
+      "description": "Getty Images. Find high resolution royalty-free images, editorial stock photos, vector art, video footage clips and stock music licensing at the richest image search photo library online.",
+      "text": "d3sign\n818362142\nUser validation",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.gettyimages.in/detail/news-photo/toronto-raptors-mascot-and-toronto-mayor-john-tory-reveal-news-photo/1150406570",
+      "page_title": "Toronto Raptors Victory Parade & Rally - Getty Images",
+      "title": "Getty Images",
+      "description": "Getty Images India. Find high resolution royalty-free images, editorial stock photos, vector art, video footage clips and stock music licensing at the richest image search photo library online.",
+      "text": "ViewStock\n886771796\nUser validation",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.gettyimages.com/detail/news-photo/the-private-plane-belonging-to-drake-with-the-ovo-insignia-news-photo/1156810367",
+      "page_title": "Toronto Raptors Victory Parade & Rally - Getty Images",
+      "title": "Getty Images",
+      "description": "Getty Images. Find high resolution royalty-free images, editorial stock photos, vector art, video footage clips and stock music licensing at the richest image search photo library online.",
+      "text": "d3sign\n818362142\nUser validation",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.gettyimages.com/detail/news-photo/rapper-drake-greets-prime-minister-of-canada-justin-trudeau-news-photo/1150406423",
+      "page_title": "Toronto Raptors Victory Parade & Rally - Getty Images",
+      "title": "Getty Images",
+      "description": "Getty Images. Find high resolution royalty-free images, editorial stock photos, vector art, video footage clips and stock music licensing at the richest image search photo library online.",
+      "text": "d3sign\n818362142\nUser validation",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.gettyimages.in/photos/aerials-of-toronto",
+      "page_title": "709 Aerials Of Toronto Stock Photos, High-Res Pictures, and Images",
+      "title": "Getty Images",
+      "description": "Getty Images India. Find high resolution royalty-free images, editorial stock photos, vector art, video footage clips and stock music licensing at the richest image search photo library online.",
+      "text": "ViewStock\n886771796\nUser validation",
+      "image_captions": []
+    }
+  ],
+  "evidence_count": 5,
+  "crawled_at": "2026-04-23T17:11:02.035762+00:00"
+}

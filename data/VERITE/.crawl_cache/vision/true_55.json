@@ -1,0 +1,125 @@
+{
+  "sample_id": "true_55",
+  "image_url": "https://obamawhitehouse.archives.gov/sites/default/files/image/image_file/1lja8566.jpg",
+  "visual_entities": [
+    {
+      "description": "George W. Bush",
+      "score": 7.0095005
+    },
+    {
+      "description": "John Lewis",
+      "score": 5.2395
+    },
+    {
+      "description": "Edmund Pettus Bridge",
+      "score": 0.89908504
+    },
+    {
+      "description": "Selma to Montgomery marches",
+      "score": 0.6726
+    },
+    {
+      "description": "Civil rights movement",
+      "score": 0.66945
+    },
+    {
+      "description": "Meet President Obama",
+      "score": 0.6357
+    },
+    {
+      "description": "US President",
+      "score": 0.5859
+    },
+    {
+      "description": "March",
+      "score": 0.5256
+    },
+    {
+      "description": "",
+      "score": 0.5041
+    },
+    {
+      "description": "Suffrage",
+      "score": 0.3943
+    },
+    {
+      "description": "Anniversary",
+      "score": 0.3588
+    }
+  ],
+  "best_guess_labels": [
+    "50th anniversary of the march with president obama marching"
+  ],
+  "similar_image_urls": [
+    "http://www.sarascrive.com/wp-content/uploads/2019/09/1lja8566.jpg",
+    "https://miro.medium.com/1*x6WyOtSDJntlX4UKsRbYBg.jpeg",
+    "https://cdn4.dogonews.com/images/9dd4f37c-f0f6-49a5-a272-9160a6c6f8bb/selma-20-1.jpg",
+    "https://miro.medium.com/v2/resize:fit:2000/1*y5IuKilvIW9f_8230RpmCQ.jpeg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=115540749921686",
+    "https://share.america.gov/wp-content/uploads/2015/03/Selma-20.jpg",
+    "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3879856876758937147",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10228196717658019",
+    "https://pbs.twimg.com/media/B_iVv-tU8AAscX2.jpg",
+    "https://pbs.twimg.com/media/CYkaBuCUkAAhWSq.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://obamawhitehouse.archives.gov/blog/2015/03/08/president-obama-marks-50th-anniversary-marches-selma-montgomery",
+      "page_title": "President Obama Marks the 50th Anniversary of the Marches from ...",
+      "title": "President Obama Marks the 50th Anniversary of the Marches from Selma to Montgomery",
+      "description": "President Obama and the First Family joined thousands of Americans in Selma, Alabama to honor the sacrifice and bravery of the men and women who bled there in 1965, in support of voting rights for all African Americans.",
+      "text": "Yesterday, President Obama and the First Family joined thousands of Americans at the foot of the Edmund Pettus Bridge in Selma, Alabama, to honor the sacrifice and bravery of the men and women who bled there, on that very pavement exactly 50 years ago. Many of those original \"foot soldiers\" joined him yesterday, including Congressman John Lewis, who helped to organize the first march over this bridge in 1965, who endured a tragic beating on that \"Bloody Sunday,\" and who yesterday strode arm in arm with the President of the United States.\nIt was a day filled with electricity, inspiration, tales of heartache and courage, and the true story of how a handful of ordinary Americans helped to change the course of history with their grace, their peaceful action, and their bold belief in the true spirit of this country.\nStill, even with the progress those men and women afforded us, great challenges still remain. That’s why the legacy of Selma must not be viewed in the vacuum of history, but rather as an inspiration for our future. As President Obama put it yesterday, the lesson of Selma isn’t an outlier of the American experience:\n\"These are not just words,\" he said. \"They’re a living thing, a call to action, a roadmap for citizenship and an insistence in the capacity of free men and women to shape our own destiny.\"\nI hope you'll take a moment to hear what President Obama had to say yesterday in Selma.\nAnd please take time to learn more of the stories and lessons of this day, of those who stood for justice at great cost, and of those who continue to do so.",
+      "image_captions": [
+        "The First Family waits with former President George W. Bush, former First Lady Laura Bush prior to the walking across the Edmund Pettus Bridge",
+        "President Obama makes remarks to commemorate the 50th Anniversary of the",
+        "The First Family joins Rep. John Lewis, former President George W. Bush and former First Lady Laura Bush during a walk across Edmund Pettus Bridge",
+        "President Obama's Final State of the Union, Jan 12, 9pm ET",
+        "The constitution of the United States"
+      ]
+    },
+    {
+      "url": "https://obamawhitehouse.archives.gov/blog/2015/03/09/behind-lens-selma-50-years-later",
+      "page_title": "Behind the Lens: Selma, 50 Years Later | whitehouse.gov",
+      "title": "Behind the Lens: Selma, 50 Years Later",
+      "description": "We’ve chosen a gallery on the 50th anniversary of that day in Selma to kick off a new way of presenting photographs. This \"Behind the Lens\" series of galleries will present different perspective on life here at the White House or on the road.",
+      "text": "March 7, 1965. It became known as \"Bloody Sunday.\" Six hundred people defied the warnings of authorities and attempted to march across the Edmund Pettus Bridge from Selma, Alabama, to show the desire of black American citizens to exercise their constitutional right to vote.\nI was a young boy growing up in Massachusetts at the time, and I can’t say that I was aware of what was happening in Selma. I didn’t know the marchers were attacked at the bridge with billy clubs and tear gas. I didn’t know that there was this much hatred in the South between blacks and whites.\nIn later years, as I became interested in photojournalism, it was the photographs that brought that awful day to life for me.\nI came to admire the photographs, especially of Charles Moore — a photojournalist who was documenting civil rights for Life magazine. I probably learned more about what had happened on that day and that period of time by studying his photographs than I did in any history class I ever had in school. For me, the photographs depicted the horror and the hatred in a way that words couldn’t.\nLast Saturday, as I accompanied the Obama family to Selma for the 50th anniversary of Bloody Sunday, I couldn’t help but think of the photographs taken by Charles Moore and other brave photojournalists 50 years ago. Their photographs, taken ostensibly for daily and weekly publications, have now become powerful images for history.\nTheir frozen moments in time are with us forever.\nLast Saturday, my job was much easier. There were no billy clubs or tear gas. Along with colleague Lawrence Jackson, I was there to also capture moments in time for history. But these were symbolic and celebratory moments.\nJohn Lewis, 50 years later, was not being clubbed at the bridge; he was there as a Congressman from Georgia, introducing the President of the United States. Activist Amelia Boynton Robinson was not being knocked unconscious by a state trooper; as a 103-year-old, she was there in her wheelchair, marching across that same bridge next to the President and First Lady.\nThese were just two of the dozens of foot soldiers in attendance who had marched that day 50 years ago and helped changed the course of history. Without them, it’s unlikely that I would have been there documenting my boss, Barack Obama — the first African-American to become President of the United States.\nIt is perhaps fitting that we’ve chosen a gallery on the 50th anniversary of that day in Selma to kick off a new way of presenting photographs. In the weeks and months to come, we’ll regularly post galleries like this — providing a different perspective on life here at the White House or on the road. Sometimes it will be a series of thematic images. Other times, it might just be a single photo with a great story behind it. Take a look, and check back for more.\nAboard Air Force One en route to Alabama, President Obama signs H.R. 432 authorizing the Congressional Gold Medal to the \"Foot Soldiers\" who participated in Bloody Sunday, Turnaround Tuesday, or the final Selma to Montgomery Voting Rights March during March of 1965. (Official White House Photo by Pete Souza)\nIn Selma, the President greets former foot soldier Amelia Boynton Robinson, 103 years old, backstage before the ceremony. (Official White House Photo by Pete Souza)\nThe President speaks to the foot soldiers who attended the 50th anniversary event. (Official White House Photo by Pete Souza)\nThe President hugs Yolanda Renee King, granddaughter of Martin Luther King, Jr., as her parents, Martin Luther King III and Andrea Waters look on. (Official White House Photo by Pete Souza)\nThe President and First Lady hold hands as they listen to Rep. John Lewis speak at the ceremony. (Official White House Photo by Pete Souza)\nMembers of the audience listen to Rep. John Lewis. (Official White House Photo by Pete Souza)\nThe President hugs Rep. John Lewis after his introduction. (Official White House Photo by Pete Souza)\nPresident Obama delivers remarks at the foot of the Edmund Pettus Bridge. (Official White House Photo by Lawrence Jackson)\nTens of thousands of people attended the ceremony. (Official White House Photo by Lawrence Jackson)\nA Secret Service officer stands post as the President speaks. (Official White House Photo by Pete Souza)\nMalia and Sasha Obama and other family, friends, and White House staff listen to the President. Attorney General Eric Holder is at far left. (Official White House Photo by Pete Souza)\nThe President points towards the bridge during his speech. (Official White House Photo by Pete Souza)\nRep. John Lewis holds hands with President Obama during a prayer at the ceremony. (Official White House Photo by Pete Souza)\nFormer President George W. Bush and former First Lady Laura Bush participated in the program. (Official White House Photo by Pete Souza)\nThe President greets members of the audience following his remarks. (Official White House Photo by Pete Souza)\nFirst Lady Michelle Obama adjusts the bow in the hair of a young girl. (Official White House Photo by Pete Souza)\nThe President greets a youngster in the crowd. (Official White House Photo by Pete Souza)\nThe President waves to the crowd. (Official White House Photo by Pete Souza)\nBackstage, former President Bush talks with Sasha and Malia Obama and Marian Robinson. (Official White House Photo by Pete Souza)\nThe Obama family join hands as they begin the march with the foot soldiers across the Edmund Pettus Bridge. (Official White House Photo by Lawrence Jackson)\nThe march continues across the bridge. (Official White House Photo by Pete Souza)\nThe Obamas and the Bushes continue across the bridge. (Official White House Photo by Lawrence Jackson)\nThe Obama family and Attorney General Eric Holder and his family listen to tour guide Felecia Pettway at the National Voting Rights Museum. (Official White House Photo by Pete Souza)\nThe Obama family inspects a voting machine at the museum. (Official White House Photo by Pete Souza)\nThe President stands inside a replica prison cell at the museum. (Official White House Photo by Pete Souza)\nCBS-TV reporter Bill Plante, who covered \"Bloody Sunday\" 50 years ago, interviews the President at the museum. (Official White House Photo by Pete Souza)\nThe President, First Lady, Marian Robinson, and Malia board Air Force One at Maxwell Air Force Base en route back to Washington, D.C. (Official White House Photo by Pete Souza)\nSee More from Selma:",
+      "image_captions": [
+        "The Obama family join hands as they begin the march with the foot soldiers across the Edmund Pettus Bridge. (Official White House Photo by Lawrence Jackson)",
+        "Aboard Air Force One en route to Alabama, President Obama signs H.R. 432 authorizing the Congressional Gold Medal to the",
+        "In Selma, the President greets former foot soldier Amelia Boynton Robinson, 103 years old, backstage before the ceremony. (Official White House Photo by Pete Souza)",
+        "The President speaks to the foot soldiers who attended the 50th anniversary event. (Official White House Photo by Pete Souza)",
+        "The President hugs Yolanda Renee King, granddaughter of Martin Luther King, Jr., as her parents, Martin Luther King III and Andrea Waters look on. (Official White House Photo by Pete Souza)"
+      ]
+    },
+    {
+      "url": "https://obamawhitehouse.archives.gov/realitycheck/blog/2015/03/08/behind-lens-selma-50-years-later",
+      "page_title": "Behind the Lens: Selma 50 Years Later | The White House",
+      "title": "Behind the Lens: Selma 50 Years Later",
+      "description": "We’ve chosen a gallery on the 50th anniversary of that day in Selma to kick off a new way of presenting photographs. This \"Behind the Lens\" series of galleries will present different perspective on life here at the White House or on the road.",
+      "text": "March 7, 1965. It became known as \"Bloody Sunday.\" Six hundred people defied the warnings of authorities and attempted to march across the Edmund Pettus Bridge from Selma, Alabama, to show the desire of black American citizens to exercise their constitutional right to vote.\nI was a young boy growing up in Massachusetts at the time, and I can’t say that I was aware of what was happening in Selma. I didn’t know the marchers were attacked at the bridge with billy clubs and tear gas. I didn’t know that there was this much hatred in the South between blacks and whites.\nIn later years, as I became interested in photojournalism, it was the photographs that brought that awful day to life for me.\nI came to admire the photographs, especially of Charles Moore — a photojournalist who was documenting civil rights for Life magazine. I probably learned more about what had happened on that day and that period of time by studying his photographs than I did in any history class I ever had in school. For me, the photographs depicted the horror and the hatred in a way that words couldn’t.\nLast Saturday, as I accompanied the Obama family to Selma for the 50th anniversary of Bloody Sunday, I couldn’t help but think of the photographs taken by Charles Moore and other brave photojournalists 50 years ago. Their photographs, taken ostensibly for daily and weekly publications, have now become powerful images for history.\nTheir frozen moments in time are with us forever.\nLast Saturday, my job was much easier. There were no billy clubs or tear gas. Along with colleague Lawrence Jackson, I was there to also capture moments in time for history. But these were symbolic and celebratory moments.\nJohn Lewis, 50 years later, was not being clubbed at the bridge; he was there as a Congressman from Georgia, introducing the President of the United States. Activist Amelia Boynton Robinson was not being knocked unconscious by a state trooper; as a 103-year-old, she was there in her wheelchair, marching across that same bridge next to the President and First Lady.\nThese were just two of the dozens of foot soldiers in attendance who had marched that day 50 years ago and helped changed the course of history. Without them, it’s unlikely that I would have been there documenting my boss, Barack Obama — the first African-American to become President of the United States.\nIt is perhaps fitting that we’ve chosen a gallery on the 50th anniversary of that day in Selma to kick off a new way of presenting photographs. In the weeks and months to come, we’ll regularly post galleries like this — providing a different perspective on life here at the White House or on the road. Sometimes it will be a series of thematic images. Other times, it might just be a single photo with a great story behind it. Take a look, and check back for more.\nAboard Air Force One en route to Alabama, President Obama signs H.R. 432 authorizing the Congressional Gold Medal to the \"Foot Soldiers\" who participated in Bloody Sunday, Turnaround Tuesday, or the final Selma to Montgomery Voting Rights March during March of 1965. (Official White House Photo by Pete Souza)\nIn Selma, the President greets former foot soldier Amelia Boynton Robinson, 103 years old, backstage before the ceremony. (Official White House Photo by Pete Souza)\nThe President speaks to the foot soldiers who attended the 50th anniversary event. (Official White House Photo by Pete Souza)\nThe President hugs Yolanda Renee King, granddaughter of Martin Luther King, Jr., as her parents, Martin Luther King III and Andrea Waters look on. (Official White House Photo by Pete Souza)\nThe President and First Lady hold hands as they listen to Rep. John Lewis speak at the ceremony. (Official White House Photo by Pete Souza)\nMembers of the audience listen to Rep. John Lewis. (Official White House Photo by Pete Souza)\nThe President hugs Rep. John Lewis after his introduction. (Official White House Photo by Pete Souza)\nPresident Obama delivers remarks at the foot of the Edmund Pettus Bridge. (Official White House Photo by Lawrence Jackson)\nTens of thousands of people attended the ceremony. (Official White House Photo by Lawrence Jackson)\nA Secret Service officer stands post as the President speaks. (Official White House Photo by Pete Souza)\nMalia and Sasha Obama and other family, friends, and White House staff listen to the President. Attorney General Eric Holder is at far left. (Official White House Photo by Pete Souza)\nThe President points towards the bridge during his speech. (Official White House Photo by Pete Souza)\nRep. John Lewis holds hands with President Obama during a prayer at the ceremony. (Official White House Photo by Pete Souza)\nFormer President George W. Bush and former First Lady Laura Bush participated in the program. (Official White House Photo by Pete Souza)\nThe President greets members of the audience following his remarks. (Official White House Photo by Pete Souza)\nFirst Lady Michelle Obama adjusts the bow in the hair of a young girl. (Official White House Photo by Pete Souza)\nThe President greets a youngster in the crowd. (Official White House Photo by Pete Souza)\nThe President waves to the crowd. (Official White House Photo by Pete Souza)\nBackstage, former President Bush talks with Sasha and Malia Obama and Marian Robinson. (Official White House Photo by Pete Souza)\nThe Obama family join hands as they begin the march with the foot soldiers across the Edmund Pettus Bridge. (Official White House Photo by Lawrence Jackson)\nThe march continues across the bridge. (Official White House Photo by Pete Souza)\nThe Obamas and the Bushes continue across the bridge. (Official White House Photo by Lawrence Jackson)\nThe Obama family and Attorney General Eric Holder and his family listen to tour guide Felecia Pettway at the National Voting Rights Museum. (Official White House Photo by Pete Souza)\nThe Obama family inspects a voting machine at the museum. (Official White House Photo by Pete Souza)\nThe President stands inside a replica prison cell at the museum. (Official White House Photo by Pete Souza)\nCBS-TV reporter Bill Plante, who covered \"Bloody Sunday\" 50 years ago, interviews the President at the museum. (Official White House Photo by Pete Souza)\nThe President, First Lady, Marian Robinson, and Malia board Air Force One at Maxwell Air Force Base en route back to Washington, D.C. (Official White House Photo by Pete Souza)\nSee More from Selma:\nPete Souza is the Chief Official White House Photographer.",
+      "image_captions": [
+        "The Obama family join hands as they begin the march with the foot soldiers across the Edmund Pettus Bridge. (Official White House Photo by Lawrence Jackson)",
+        "Aboard Air Force One en route to Alabama, President Obama signs H.R. 432 authorizing the Congressional Gold Medal to the",
+        "In Selma, the President greets former foot soldier Amelia Boynton Robinson, 103 years old, backstage before the ceremony. (Official White House Photo by Pete Souza)",
+        "The President speaks to the foot soldiers who attended the 50th anniversary event. (Official White House Photo by Pete Souza)",
+        "The President hugs Yolanda Renee King, granddaughter of Martin Luther King, Jr., as her parents, Martin Luther King III and Andrea Waters look on. (Official White House Photo by Pete Souza)"
+      ]
+    },
+    {
+      "url": "https://www.obama.org/visit/museum/sky-room/",
+      "page_title": "Sky Room | The Obama Foundation",
+      "title": "Sky Room",
+      "description": "Take in panoramic views of Chicago from the Sky Room, the Museumâs culminating experience.",
+      "text": "Sky Room\nTake in panoramic views of Chicago from the Sky Room, the Museumâs culminating experience. This special place is free and open to the public and provides an unparalleled view of the places that made the Obamas. It is designed to be deeply contemplative and features iconic commissioned art installations by Idris Khan, Jenny Holzer and Carrie Mae Weems.\nSky Room Admissions\nAccess to the Sky Room is included in your ticket to the Museum. A limited number of Sky Room tickets will be available each day on a first-come, first-served basis. Sign up to get the inside track on ticket sales.\nâYou are America. Unconstrained by habit and convention. Unencumbered by what is, ready to seize what ought to beâ¦The single most powerful word in our democracy is the word âWe.â âWe The People.â âWe Shall Overcome.â âYes We Can.â That word is owned by no one. It belongs to everyone. Oh, what a glorious task we are given to continually try to improve this great nation of ours.â\n-President Obama",
+      "image_captions": [
+        "Concrete is poured into molds used in the construction of the âYou Are Americaâ letters to be installed on the side of the Obama Presidential Center Museum at Shaffner Heaney .",
+        "An upward shot of the installation of the âYou Are Americaâ letters on the side of the Obama Presidential Center Museum Building. It is gray outside.",
+        "A close-up image of the letters of the âYou Are Americaâ installation from inside the Sky Room.",
+        "A close-up image of the letters of the âYou Are Americaâ installation from the street. It is dark outside and the letters are illuminated from the Sky Room on the inside.",
+        "President Barack Obama, First Lady Michelle Obama and daughters Sasha and Malia wait with former President George W. Bush and former First Lady Laura Bush prior to the walking across the Edmund Pettus Bridge to commemorate the 50th Anniversary of the Selma to Montgomery civil rights marches in Selma, Alabama. There is a crowd of thousands of people behind them."
+      ]
+    }
+  ],
+  "evidence_count": 4,
+  "crawled_at": "2026-04-23T17:02:07.293721+00:00"
+}

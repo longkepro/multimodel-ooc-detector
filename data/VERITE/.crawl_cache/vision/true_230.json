@@ -1,0 +1,124 @@
+{
+  "sample_id": "true_230",
+  "image_url": "https://pbs.twimg.com/media/FhZ3y0JWAAA3IM0?format=jpg&name=small",
+  "visual_entities": [
+    {
+      "description": "The Crowd",
+      "score": 0.6245
+    },
+    {
+      "description": "The Sound of the Crowd",
+      "score": 0.6199
+    },
+    {
+      "description": "The Human League",
+      "score": 0.5731
+    },
+    {
+      "description": "Crowd of Chairs",
+      "score": 0.459
+    },
+    {
+      "description": "future",
+      "score": 0.4038
+    },
+    {
+      "description": "Sony Music Entertainment",
+      "score": 0.3553
+    },
+    {
+      "description": "",
+      "score": 0.3361
+    },
+    {
+      "description": "Universal Music Group",
+      "score": 0.3361
+    },
+    {
+      "description": "Universal Music Group",
+      "score": 0.3347
+    },
+    {
+      "description": "Circle Jerks",
+      "score": 0.3327
+    },
+    {
+      "description": "Album",
+      "score": 0.3239
+    },
+    {
+      "description": "Record label",
+      "score": 0.3075
+    },
+    {
+      "description": "Dare / Fascination!",
+      "score": 0.3049
+    }
+  ],
+  "best_guess_labels": [
+    "crowd"
+  ],
+  "similar_image_urls": [
+    "https://www.vaterland.li/storage/image/2/8/2/3/843282_ajaxbilder_1Amvau_zFeC0O.jpg",
+    "https://img.dunyanews.tv/news/2022/November/11-16-22/news_big_images/675370_26153637.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://dunyanews.tv/en/FakeNews/675485-the-common-cold-is-an-upper-respiratory-illness,-not-a-detox-process",
+      "page_title": "The common cold is an upper respiratory illness, not a detox process",
+      "title": "The common cold is an upper respiratory illness, not a detox process",
+      "description": "The common cold is an upper respiratory illness, not a detox process",
+      "text": "Summary The common cold is an upper respiratory illness, not a detox process\n(Reuters) - While it remains true that there is no cure for the common cold, social media users are sharing a misleading message that the common cold is itself a “cure” for built-up toxins and debris.\nThe common cold is the body’s response to infection by a variety of common viruses, and there is no evidence that cold symptoms have a detoxifying effect, experts told Reuters.\nSocial media users are sharing the message that the reason no one has found a cure for the common cold is that colds are not an illness but rather “your body’s way of naturally detoxing all the debris, toxins, plastics and chemicals…”\nExamples can be seen (here) and (here)\nCOLDS ARE CAUSED BY VIRUSES\nContrary to social media claims, The Mayo Clinic defines the common cold as a viral infection of the upper respiratory tract (your nose and throat). It’s usually harmless and lasts about seven days (here). The cold typically originates from exposure to another sick person though airborne droplets containing virus particles that are coughed or sneezed into the air or onto surfaces (here). Colds can also be spread when a sick person touches you or has touched a surface that you later touch.\nSeveral different types of virus cause the symptoms known as the “common cold,” including certain adenoviruses, and four types of coronavirus that are estimated to cause up to 30% of common colds (here). But the most common cause is the large family known as the rhinoviruses (here) (here).\n“There is excellent scientific evidence that common colds are caused by viruses,” Dr. Ellen Foxman, of the Yale School of Medicine, told Reuters by email. “There are several different viruses that can cause colds, but the most common one is rhinovirus. (Named rhino for - you guessed it - the nose.)”\nThe best evidence, Foxman said, “that these viruses cause colds is that they can be isolated in the lab, and if you then place the virus into the nose of a healthy volunteer, the volunteer will develop the symptoms of a common cold and their body will produce (or “shed”) the same virus for a few days.”\nOn the Yale Medicine website, Foxman explains that cold-causing viruses are challenging to treat because the virus “moves too quickly to be cured and doctors are unable to make a vaccine to fight off colds as we can for the flu\" (here)\nWhile there is no “cure” for the common cold, the Cleveland Clinic describes several treatments that can ease symptoms (here).\nCOLD SYMPTOMS ARE A RESPONSE TO INFECTION\nAn animated breakdown of how the common cold affects the human body by Bupta Health seen here (here) illustrates some of the ways the body reacts to the infection by generating mucus that can cause congestion, coughing and headache.\nSome symptoms commonly associated with the common cold are a result of the body releasing chemical messenger molecules that can also contribute to airway swelling, sore throats, increased mucus discharge, and in some cases fever (here) (here).\nAs part of an infection response, mucus does help to trap virus particles and flush them from the body. Even without a cold, mucus plays an important role in preventing dust, debris and bacteria from entering the bloodstream, as explained in an animation from the TED Education Initiative (here)\nAlthough mucus produced during an infection can help flush out viruses, and healthy mucus can protect against bacteria or debris entering the body, that does not mean that a cold acts to remove toxins or debris, infectious disease expert Dr. Thomas Russo (here Reuters.\nSocial media claims that the common cold is actually a detox capable of removing toxins from the body are false, Russo said in a phone interview. “The process is very complex,” he said, but “the cold activates the immune system, and the immune system clears the body.\nDefinitively, Russo said, “the infection does not remove debris.”\nReuters has previously debunked similar claims that cancer is a detoxifying process rather than a disease (here)\nRSV: THE KILLER COLD\nA recent social media post also makes claims about respiratory syncytial virus (RSV) not being “a contagious virus” but rather “the excretions of a toxic cell” and urging users to “start expressing gratitude for the symptoms, for they are the cure” (here).\nLike common cold viruses, RSV is a respiratory virus that transmits from person to person and typically causes moderate cold symptoms in most people. But unlike most cold viruses, RSV can cause severe, even lethal, disease in babies and the elderly or immunocompromised, as described on the U.S. Centers for Disease Control and Prevention (CDC) website (www.cdc.gov/rsv/) and by Yale Medicine (here).\nRSV infections affect millions of children in the United States each year, and send thousands to hospital, according to the publication The Conversation (here).\nA recent spike in RSV infections, alongside flu and COVID cases, has stretched hospital capacity, according to Reuters reporting (here) and (here).\nIn a more typical year, RSV leads to 58,000 hospitalizations among children under age 5 and 177,000 hospitalizations among adults ages 65 and older each year, according to CDC.\nRSV deaths are rare in U.S. children, but 14,000 adults die annually from the virus, with older or immunocompromised individuals at greatest risk, the CDC told Reuters.\nVERDICT\nFalse. The common cold is the body’s response to upper-respiratory infection by a variety of common viruses, and there is no evidence that colds or RSV infections are the body’s mechanism for expelling toxins or that they have a detoxifying effect.",
+      "image_captions": [
+        "The common cold is an upper respiratory illness, not a detox process"
+      ]
+    },
+    {
+      "url": "https://dunyanews.tv/en/FakeNews/675370-image-shows-2016-anti-government-protest-in-brazil,-not-a-2022-demonstration",
+      "page_title": "Image shows 2016 anti-government protest in Brazil, not a 2022 ...",
+      "title": "Image shows 2016 anti-government protest in Brazil, not a 2022 demonstration",
+      "description": "Image shows 2016 anti-government protest in Brazil, not a 2022 demonstration",
+      "text": "Summary Image shows 2016 anti-government protest in Brazil, not a 2022 demonstration\n(Reuters) - An image of an anti-government protest in Brazil in 2016 is being falsely linked to demonstrations in 2022. The photo shows thousands of people marching through the nation’s capital, Brasília, against then-president Dilma Rousseff.\nOne Facebook user uploaded a screenshot of a Nov. 12, 2022, tweet which includes the picture (here). Its caption reads: “While we tweet…This is Brazil protesting election fraud.”\nThe tweet (here, archivedhere) has amassed more than 21,000 shares.\nSimilar posts can be seen on Facebook here, here and here.\nHowever, the protest shown in the image took place in 2016, not 2022, as is claimed online.\nThe photo, dated March 13, 2016, can be seen in the Association Press image archive (here). It shows part of a nationwide protest against both Rousseff and then-former-president Luiz Inácio Lula da Silva, who won the 2022 presidential election (here).\nReuters addressed the 2016 protests in articles here and here.\nThere have been demonstrations against the 2022 election result (here and here).\nVERDICT\nMiscaptioned. The photo was taken during anti-government protests in 2016, not 2022.",
+      "image_captions": [
+        "Image shows 2016 anti-government protest in Brazil, not a 2022 demonstration"
+      ]
+    },
+    {
+      "url": "https://dunyanews.tv/en/FakeNews/676078-fabricated-elon-musk-tweet-surfaces-after-trump's-reinstatement-on-twitter",
+      "page_title": "Fabricated Elon Musk tweet surfaces after Trump's reinstatement on ...",
+      "title": "Fabricated Elon Musk tweet surfaces after Trump's reinstatement on Twitter",
+      "description": "Fabricated Elon Musk tweet surfaces after Trump's reinstatement on Twitter",
+      "text": "Summary Fabricated Elon Musk tweet surfaces after Trump's reinstatement on Twitter\n(Reuters) - A fabricated image purporting to show a tweet published by billionaire Elon Musk urging people who disagreed with former U.S. President Donald Trump’s reinstatement on Twitter to delete the app has surfaced online.\nThe supposed tweet dated Nov. 20 and purportedly sent via Musk’s official Twitter account (@ElonMusk) reads: “If you don’t like Trump’s reinstatement or the way I’m running Twitter or getting several daily push notifications from my account, then delete the app. For as much as you’re all stomping and crying, I know you won’t because you’re a bunch of babies addicted to the drama.”\nExamples of the image shared online can be found (here), (here) and (here).\nThe image was fabricated and no such tweet was published by Musk.\nA search through Musk’s Twitter account did not reveal the supposed tweet nor did a Twitter advanced search reveal the purported post (twitter.com/elonmusk), (archive.ph/wip/b0CfB).\nA Google advanced search did not reveal any news sources reporting on the alleged tweet. Instead, the search revealed iterations of the image shared on the meme website iFunny (archive.ph/wip/UIzVN).\nAn archived version of Musk’s deleted posts compiled on PolitiTweet similarly did not reveal the aforementioned statement (here).\nTrump said on Nov. 19 that he had no interest in returning to Twitter after being reinstated by Musk, adding that he would continue to communicate via his own social media platform, Truth Social (here).\nTwitter’s press team did not immediately respond to a request for comment.\nVERDICT\nFalse. Musk did not urge Twitter users who disagree with former president Trump’s reinstatement on the platform to delete the app. The image is fabricated.",
+      "image_captions": [
+        "Fabricated Elon Musk tweet surfaces after Trump's reinstatement on Twitter"
+      ]
+    },
+    {
+      "url": "https://www.vaterland.li/international/massenproteste-gegen-brasiliens-praesidentin-art-191099",
+      "page_title": "Massenproteste gegen Brasiliens Präsidentin - Vaterland online",
+      "title": "Massenproteste gegen Brasiliens Präsidentin",
+      "description": "Über drei Millionen Menschen haben in Brasilien für die Absetzung von Staatschefin Dilma Rousseff demonstriert.",
+      "text": "Massenproteste gegen Brasiliens Präsidentin\nProtest von historischem Ausmass: Demonstranten gehen in Brasília gegen Staatschefin Dilma Rousseff auf die Strasse.\nJetzt kostenlos weiterlesen!\n- Einmalig gratis registrieren\n- Zugriff auf alle kostenlosen Inhalte auf vaterland.li\n- Von regionalen Recherchen, Kommentaren und Analysen profitieren",
+      "image_captions": [
+        "Protest von historischem Ausmass: Demonstranten gehen in Brasília gegen Staatschefin Dilma Rousseff auf die Strasse.",
+        "Liechtensteiner Vaterland",
+        "Liechtensteiner Vaterlandmagazin",
+        "panorama - Das Magazin für Berg und Tal"
+      ]
+    },
+    {
+      "url": "https://www.vaterland.li/international/massenproteste-gegen-brasiliens-praesidentin-art-191099,B::pic104,843282",
+      "page_title": "Massenproteste gegen Brasiliens Präsidentin - Vaterland online",
+      "title": "Massenproteste gegen Brasiliens Präsidentin",
+      "description": "Über drei Millionen Menschen haben in Brasilien für die Absetzung von Staatschefin Dilma Rousseff demonstriert.",
+      "text": "Jetzt kostenlos weiterlesen! Einmalig gratis registrieren Zugriff auf alle kostenlosen Inhalte auf vaterland.li Von regionalen Recherchen, Kommentaren und Analysen profitieren Anmelden oder registrieren oder Mit Google anmelden Mit Facebook anmelden",
+      "image_captions": [
+        "Liechtensteiner Vaterland",
+        "Liechtensteiner Vaterlandmagazin",
+        "panorama - Das Magazin für Berg und Tal"
+      ]
+    }
+  ],
+  "evidence_count": 5,
+  "crawled_at": "2026-04-23T17:57:08.805599+00:00"
+}

@@ -1,0 +1,105 @@
+{
+  "sample_id": "false_157",
+  "image_url": "https://assets.telegraphindia.com/telegraph/2021/Sep/1632733966_untitled-design-2021-09-27t144136-791.jpg",
+  "visual_entities": [
+    {
+      "description": "Delhi",
+      "score": 0.8437935
+    },
+    {
+      "description": "Traffic congestion",
+      "score": 0.7292
+    },
+    {
+      "description": "Traffic",
+      "score": 0.7097
+    },
+    {
+      "description": "Car",
+      "score": 0.6846
+    },
+    {
+      "description": "Road",
+      "score": 0.6363
+    },
+    {
+      "description": "",
+      "score": 0.547
+    },
+    {
+      "description": "Gridlock",
+      "score": 0.4998
+    },
+    {
+      "description": "Street",
+      "score": 0.3993
+    },
+    {
+      "description": "Rush hour",
+      "score": 0.385
+    },
+    {
+      "description": "other",
+      "score": 0.3317
+    },
+    {
+      "description": "solved",
+      "score": 0.3303
+    },
+    {
+      "description": "back",
+      "score": 0.3235
+    },
+    {
+      "description": "Commuting",
+      "score": 0.3111
+    }
+  ],
+  "best_guess_labels": [
+    "delhi traffic jam"
+  ],
+  "similar_image_urls": [
+    "https://resize.indiatv.in/resize/newbucket/1080_1920/2023/10/traffic-jam-1-1696227732.jpg",
+    "https://www.re-thinkingthefuture.com/wp-content/uploads/2022/06/A7093-The-impact-of-Cars-on-citys-Transportation-system-Image-1.jpg?w=999",
+    "https://www.re-thinkingthefuture.com/city-and-architecture/a7093-the-impact-of-cars-on-citys-transportation-system/attachment/image-1_delhi-traffic-jam_the-telegraph/",
+    "https://www.aaroananda.com/cdn-cgi/image/width=1280,height=720,fit=cover,gravity=face,quality=70,format=auto/https://restapis.aaroananda.com/getImageStream/37354/1774615442586.jpg",
+    "https://media.assettype.com/thequint%2F2021-09%2F83f47e1c-eec2-4f08-bdcc-7f70eb7a1d01%2F27091_pti09_27_2021_000106b.jpg",
+    "https://media.assettype.com/thequint%2F2021-09%2F83f47e1c-eec2-4f08-bdcc-7f70eb7a1d01%2F27091_pti09_27_2021_000106b.jpg?auto=format%2Ccompress&fmt=webp&width=720&w=1200",
+    "https://www.aaroananda.com/cdn-cgi/image/width=1200,fit=pad,gravity=auto,quality=50,format=auto/https://restapis.aaroananda.com/getImageStream/37354/1774615442586.jpg",
+    "https://resize.indiatv.in/resize/newbucket/660_-/2023/10/traffic-jam-1-1696227732.jpg",
+    "https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,fl_progressive,q_auto,w_1024/647f453d5233dd001dfa96e2.jpg",
+    "https://aspeniaonline.it/wp-content/uploads/2023/05/jam-new-delhi-traffic.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://aspeniaonline.it/indias-decarbonization-and-its-wider-economic-goals/",
+      "page_title": "India's decarbonization and its wider economic goals - Aspenia Online",
+      "title": "India’s decarbonization and its wider economic goals",
+      "description": "Home to the rapidly melting glaciers in the Himalayas, and with a coastline that exceeds 7,500 km, India is especially vulnerable to climate change. Its farmers, who make up a significant portion of the population, are already experiencing great loss",
+      "text": "India’s decarbonization and its wider economic goals\nHome to the rapidly melting glaciers in the Himalayas, and with a coastline that exceeds 7,500 km, India is especially vulnerable to climate change. Its farmers, who make up a significant portion of the population, are already experiencing great losses due to increasingly frequent heat waves and unseasonal downpours, while much of India’s urban population chokes on polluted air.\nCurrently, the world’s third-largest emitter of greenhouse gases, after the United States and China, India’s decarbonization efforts over the coming decades will have extensive implications for the entire planet. However, the country, which is now home to the largest population on earth, is also a growing economic power with rising energy demands and faces a unique dilemma: how to boost development while scaling down emissions?\n“There are very real trade-offs between development outcomes and responsible climate outcomes,” says Tarun Gopalakrishnan, Junior Fellow at the Centre for International Environment and Resource Policy at Tufts. “It is absolutely a tightrope.”\nIndia’s low-carbon strategies\nIn 2021, at the COP26 conference in Glasgow, Scotland, Prime Minister Narendra Modi announced that India would become carbon neutral by 2070. In 2022, at the climate conference in Sharm-el-Sheikh, Egypt, India submitted its long-term strategy to do so, including plans to expand the production of green hydrogen, increase the use of biofuels like ethanol blended petrol and boost electrical vehicle penetration. India has also pledged that by 2030, half of its energy needs will come from non-fossil fuel sources and that it will reduce the energy intensity of its GDP by 45%.\nMost of India’s low-carbon policies, according to Gopalakrishnan, are in the power and transportation sectors. “It has fewer policies in place for reducing energy use and improving emissions efficiency in the industrial sector, and virtually no policies in the agriculture and land use sector,” he says.\nRead also: Il subcontinente indiano sotto la pressione climatica\nIndia’s renewable energy capacity has been rising steadily and in the budget for the new financial year, unveiled in February, more than $4 billion were earmarked for clean energy initiatives.\nStill, many experts believe these efforts may not be enough to keep global warming below 1.5 degrees Celsius. “India is not doing enough, but India is still doing more relative to its historic responsibility than most other countries,” says Gopalakrishnan.\nBoosting renewables but still clinging on to coal\nWhile Indian leaders have made serious pledges toward carbon neutrality, the government also admits that coal, which currently fulfills 55% of India’s energy needs, is not going away anytime soon. On the contrary, coal demand is projected to rise in the coming years and may peak around 2040, according to India’s Minister of Coal, Pralhad Joshi.\nIn January, the Indian government directed utilities to not retire any coal-powered plants until 2030. “As [coal] plants get older, they get cheaper to operate and then it becomes very difficult to justify replacing that with pretty much any other form of electricity,” says Gopalakrishnan.\nAccording to the Institute for Energy Economics and Financial Analysis, investment in renewable energy in India has surged to record levels in recent years, but will need to more than double to meet the 2030 targets. A report published by the think tank earlier this year said that the country’s renewable energy sector is “on the cusp of another growth spurt.”\n“All roads to successful global clean energy transitions go via India,” according to Fatih Birol, Executive Director at the Paris-based International Energy Agency.\nCurrently, about 30% of India’s electricity needs come from renewable sources, which means that it is not a major problem that renewable energy is not available around the clock. However, as renewables come to occupy a larger percentage of the electricity market, India will need to solve the intermittency issue, according to Gopalakrishnan. That will cause the overall price of renewable energy to shoot up. “A gigawatt of renewable electricity is now cheaper than a gigawatt of coal power. But if you add in the cost of storage and grid improvements, then renewable is still more expensive. So, you need more investment in that front,” he says.\nMuch like in India, coal dominates China’s power sector too, and the country has pledged to go carbon neutral by 2060, a decade before India. The two Asian economic and military rivals usually find themselves on opposite sides of the geopolitical equation. However, in recent years, the two countries have exhibited rare alignment when it comes to climate change. In 2021, at the COP26 conference in Glasgow, for instance, India and China came together to convince other nations to dilute language in the agreement from phasing “out” coal to phasing it “down.”\n“India and China have continuously fought for a fair and just international climate change deal,” writes Robert Mizo, a Delhi-based climate policy researcher. “They have tirelessly argued that the primary responsibility of cleaning up the carbon mess must lie with the developed economies given their historical culpability.”\nAt the COP27 conference in Egypt in 2022, Indian minister Bhupender Yadav said that his country was making “arduous efforts” towards decarbonization even when “[India’s] contribution to the world’s cumulative emissions so far is less than 4% and our annual per capita emissions are about one-third of the global average.”\nAt the same time, a renewables race is also brewing between the two Asian giants as India ramps up its solar push by building massive solar farms in an indirect challenge to China, which currently has the world’s largest solar energy capacity.\nBalancing development and decarbonization\nOver the next two decades, India is set to experience an unparalleled rise in energy demand. “The combination of a growing and industrializing economy and an expanding and increasingly urban population will drive energy use higher,” says a 2021 report on India’s energy outlook by the International Energy Agency. “To meet growth in electricity demand (…) India will need to add a power system the size of the European Union to what it has now.”\nTo do so without exacerbating greenhouse gas emissions, the report says, India will need transformations “on a scale no country has achieved in history.”\nBut, this could also be an opportunity for India.\n“The good news is that (…) there are clear economic benefits to decarbonizing, to moving early in terms of taking advantage of a new climate economy,” says Gopalakrishnan, adding that if India invests in the kinds of technologies that will be standard decades from now, it could be a world leader in them.\nIndia’s renewable energy transition could also fuel economic growth. According to a 2022 report by the Delhi-based think tank Council for Energy, Environment and Water, India could potentially create about 3.4 million new jobs to fulfill its pledge to have 500GW of non-fossil fuel-based electricity generation by 2030.\nRead also: China, climate and convergence: the new India-US relationship\n“The country’s ambitious renewable energy targets provide an opportunity to create a more equitable workforce while transitioning to a low-carbon economy,” says Dipa Bagai, Country Head at the Natural Resources Defense Council of India, which was also involved in the study.\nThis means moving away from fossil fuels does not have to come at the expense of development and growth. Instead, it could bring more jobs and higher incomes, the kinds of things India is very much interested in.",
+      "image_captions": [
+        "One of the notorious New Delhi traffic jams"
+      ]
+    },
+    {
+      "url": "https://swarajyamag.com/insta/bharat-bandh-delhi-gurugram-border-witnesses-15-km-traffic-jam",
+      "page_title": "Bharat Bandh: Delhi-Gurugram Border Witnesses 1.5 Km Traffic Jam",
+      "title": "Bharat Bandh: Delhi-Gurugram Border Witnesses 1.5 Km Traffic Jam",
+      "description": "Amid the Samyukt Kisan Morcha (SKM)-called Bharat Bandh on Monday, the Delhi-Gurugram border saw a massive 1.5 km traffic jam in the morning, reports",
+      "text": "Insta\nSwarajya Staff\nSep 27, 2021 | Updated 12:07 PM GMT+5:30\nSave & read from anywhere!\nBookmark stories for easy access on any device or the Swarajya app.\nAmid the Samyukt Kisan Morcha (SKM)-called Bharat Bandh on Monday, the Delhi-Gurugram border saw a massive 1.5 km traffic jam in the morning, reports India Today.\nThe Delhi Police had put barriers at the border to keep a vigil on the farmers entering the national capital. A heavy presence of security personnel was seen at the Delhi-Gurugram border.\nApart from the central forces, the Delhi Police and the Gurugram Police personnel have barricaded the border. Due to this only two lanes from Jaipur towards Delhi were opened for commuters entering Delhi. The traffic movement on the National Highway-48 was slow and the vehicles were moving bumper to bumper.\nThe officials of the Gurugram traffic control room said that the traffic movement on the expressway was slow due to the barricades erected by the Delhi Police on the Delhi-Gurugram border and near the Rajokri flyover.\n\"We have made all arrangements to tackle the protest call given by farmer organisations.\n\"Police will keep updating people about the traffic situation in Gurugram through the official social media handles,\" said Subhash Boken, spokesperson of the Gurugram Police, adding that while regular traffic can pass, checks are likely to slow it down or lead to jams. More than 1,000 police forces including senior officers have been deployed at all border points,\" he said.\nThe Samyukta Kisan Morcha (SKM), an umbrella body of over 40 farmer unions, called for a 'Bharat Bandh' on Monday to mark one year of farm laws passed by the Union Government.\n“It was on September 27, 2020 that President Shri Ram Nath Kovind assented to and brought into force the three anti-farmer black laws last year. There will be a total Bharat Bandh observed around the country from 6 am to 4 pm,\" the SKM said in its statement.\nWith IANS Inputs",
+      "image_captions": [
+        "Traffic congestion at Delhi-Gurugram border"
+      ]
+    },
+    {
+      "url": "https://www.thequint.com/news/india/amid-farmers-bharat-bandh-traffic-snarl-chokes-delhi-gurugram-border-traffic-jam-national-highway-gurgaon",
+      "page_title": "Amid Farmers' Bharat Bandh, Traffic Snarl Chokes Delhi-Gurugram ...",
+      "title": "Bharat Bandh: Traffic Snarls Across Delhi-NCR; Gurugram Border Chokes",
+      "description": "A massive traffic jam choked the Delhi-Gurugram border on Monday, 27 September, as farmers observe a Bharat Bandh. The Delhi police and the Gurugram police had reportedly barricaded the inter-state border and the nearby Rajokri flyover.",
+      "text": "A massive traffic jam choked the Delhi-Gurugram border on Monday, 27 September, as farmers across the country observed a Bharat Bandh. Snarls were also observed around the Red Fort area, Delhi-Noida direct flyway, and the Ghazipur border.\nVehicular movement around the Gurugram border was hampered by the barricades put up on National Highway 48, which witnessed a heavy deployment of security personnel.\nThe Delhi police and the Gurugram police had reportedly barricaded the inter-state border and the nearby Rajokri flyover, and only two lanes on the Jaipur-Delhi route had remained open for commuters.\nHere are some visuals from the traffic snarl at the Delhi-Gurugram border.\nTraffic jams were also observed elsewhere in the NCR.\n\"In view of Bharath Bandh, we barricaded the Rajokri border (Delhi-Gurugram) which resulted in a traffic jam at this section. Now, the situation is normal and traffic is smooth as we loosened the barricades,\" Ingit Pratap Singh, DCP, South West, was quoted as saying by news agency ANI.\nRegular vehicular movement resumed in most parts of the national capital later in the day, as per the Delhi Traffic Police.\nFarmers on Monday had observed a Bharat Bandh as they continue to protest against the three contentious farm laws passed by the Union government. The bandh began at 6 am and continued till 4 pm.\nHundreds of farmers had blocked major highways, including National Highway 1 which connects Delhi with parts of Haryana and Punjab, following a nationwide call by farmers' unions to demand the scrapping of agricultural laws.",
+      "image_captions": []
+    }
+  ],
+  "evidence_count": 3,
+  "crawled_at": "2026-04-23T17:37:18.702087+00:00"
+}

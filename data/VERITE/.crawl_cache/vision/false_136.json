@@ -1,0 +1,110 @@
+{
+  "sample_id": "false_136",
+  "image_url": "https://static01.nyt.com/images/2011/10/27/world/26thailand-image/26thailand-image-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+  "visual_entities": [
+    {
+      "description": "Suvarnabhumi Airport",
+      "score": 1.210605
+    },
+    {
+      "description": "Aircraft",
+      "score": 0.7413
+    },
+    {
+      "description": "Flood",
+      "score": 0.7049
+    },
+    {
+      "description": "Airport",
+      "score": 0.7044
+    },
+    {
+      "description": "Airplane",
+      "score": 0.6609
+    },
+    {
+      "description": "Hat Yai International Airport",
+      "score": 0.6274455
+    },
+    {
+      "description": "",
+      "score": 0.5485
+    },
+    {
+      "description": "Bangkok Don Mueang International Airport",
+      "score": 0.5266368
+    },
+    {
+      "description": "ส่วนซ่อมบำรุง ทดม",
+      "score": 0.35724044
+    },
+    {
+      "description": "Floods in Thailand",
+      "score": 0.3515
+    },
+    {
+      "description": "Don Mueang International Airport",
+      "score": 0.34207234
+    },
+    {
+      "description": "The Civil Aviation Authority Of Thailand",
+      "score": 0.3194
+    }
+  ],
+  "best_guess_labels": [
+    "airport bangkok flood 2011"
+  ],
+  "similar_image_urls": [
+    "https://static01.nyt.com/images/2011/10/27/world/26thailand-image/26thailand-image-articleLarge.jpg",
+    "https://static01.nyt.com/images/2011/10/27/world/26thailand-image/26thailand-image-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+    "https://media.licdn.com/dms/image/v2/C5612AQEIvQwqbSSNuQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1639014818032?e=2147483647&v=beta&t=260pLaNqGcXLWOBY3zXi055hg_2GO1Li17gK24pXSGs",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=808014491904844",
+    "https://resource.nationtv.tv/uploads/images/contents/w1024/2021/10/qzBTMBTJCJCB6mzxSWch.jpg?x-image-process=style/lg-webp",
+    "https://s.isanook.com/mn/0/ud/35/177608/13941700901394170148l.jpg?ip/crop/w1064h602/q80/webp"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.sandiegouniontribune.com/2011/10/25/thai-floods-shut-down-bangkoks-second-airport/",
+      "page_title": "Thai floods shut down Bangkok's second airport – San Diego Union ...",
+      "title": "Thai floods shut down Bangkok’s second airport",
+      "description": "BANGKOK — Advancing floodwaters in Thailand breached barriers protecting Bangkok’s second airport Tuesday, halting commercial flights at a complex that also houses the country’s flood relief headquarters and…",
+      "text": "BANGKOKBANGKOK — Advancing floodwaters in Thailand breached barriers protecting Bangkok’s second airport Tuesday, halting commercial flights at a complex that also houses the country’s flood relief headquarters and thousands of displaced people.\nThe flooding at Don Muang airport, which is primarily used for domestic flights, is one of the biggest blows yet to government efforts to prevent the sprawling capital from being swamped. Its effective closure is certain to further erode public confidence in the ability of Prime Minister Yingluck Shinawatra’s administration to defend the increasingly anxious metropolis of 9 million people.\nBangkok’s Suvarnabhumi Airport, the country’s main international gateway, has yet to be affected by flooding and flights there were operating normally. Most of the city has been spared inundation so far.\nDon Muang has come to symbolize the gravity of the Southeast Asian nation’s deepening crisis, which has seen advancing waters drown a third of the country and kill 366 people over the last three months.\nThe airport houses the government’s recently established emergency Flood Relief Operations Center, and one of its terminals has been converted into an overcrowded shelter filled with tents for about 4,000 people who fled waterlogged homes.\nSomboon Klinchanhom, a 43-year-old civil servant who took refuge there last week, was preparing to move after authorities said the terminal had become too crowded and thousands of people displaced there would be relocated.\n“I thought it would be safe and well-protected,” Somboon said of the airport, as she packed her belongings again.\nThough floodwaters have yet to spill across Don Muang’s runways, ankle-high water could be seen Tuesday rushing over sandbagged barriers around the airport’s perimeter, swamping internal roads. One vast pool was headed toward two Thai Airways jetliners parked outside a hangar, their wheels wrapped in plastic sheets.\nThe two main carriers based at Don Muang announced they were suspending operations and diverting flights to Suvarnabhumi because of the flood threat. They are Thai Orient Airlines and Nok Air, which said it was halting flights until Nov. 1.\nCapt. Kantpat Mangalasiri, the airport’s director, said Don Muang’s commercial runways would be closed until Nov. 1 to ensure safe aircraft operations.\nThai air force flights carrying relief supplies were continuing on a military runway that is still open, air force spokesman Montol Suchukorn said. He said floodwaters had breached the military’s air base, but the runway remains protected by flood barriers.\nLast week, the air force moved 20 planes from Don Muang as a precaution.\nThe government’s flood relief command will remain at the airport for now since it is still accessible by road, spokesman Wim Rungwattanajinda said.\nHe said the government expects floodwaters will sweep through the main parts of Don Muang by Friday, but would not rise above 3.3 feet (one meter).\nThe scene at the domestic terminal was chaotic as throngs of confused passengers struggled to leave or pulled up to the departure hall with luggage, unaware their flights had been canceled.\nWith parts of the main road heading to downtown Bangkok flooded knee-deep, taxis were in scarce supply. Some travelers waited hours for a ride as airlines scrambled to arrange special buses.\nDon Muang, located on Bangkok’s northern outskirts, is among seven of the capital’s 50 districts that the government has declared at risk. Those zones, in the north and northwest, are all experiencing some flooding.\nLast week, Yingluck ordered key floodgates opened to help drain runoff through urban canals to the sea, but there is great concern that rising tides in the Gulf of Thailand this weekend could slow critical outflows and flood the city.\nOn Tuesday, Gov. Suhumbhand Paribatra said he was concerned about record-high water levels on the Chao Phraya river, the city’s biggest waterway. He said the river could spill over its banks and the situation would likely grow worse as high tides set in.\nThe government, meanwhile, declared public holidays on Oct. 27-31 in affected areas, including Bangkok. The Education Ministry also ordered schools in 12 affected provinces and the capital to close until Nov. 7 due to the floods.\nLate Monday, the flood relief center said water levels in the worst-hit parts of the country – the submerged provinces north of Bangkok – were stable or subsiding. But the massive runoff was still bearing down on the capital as it flowed south toward the Gulf of Thailand.\nWhile neighborhoods just across Bangkok’s boundaries are underwater, most of the city is dry and has not been directly affected by the deluge.\nAnxious Bangkokians, though, have been raiding stores to stock up on emergency supplies, and many have been protecting their homes and businesses with sandbags. Some have even erected sealed cement barriers across shop fronts.\n—\nAssociated Press writer Vee Intarakratug contributed to this report.",
+      "image_captions": [
+        "/ APPeople rest at a flooded building in Bangkok, Thailand, Tuesday, Oct. 25, 2011. Floodwaters in Thailand breached barriers defending Bangkok’s second airport on Tuesday and have begun seeping into the compound, forcing at least one airline based there to suspend flights for a week, officials said. (AP Photo/Sakchai Lalit)",
+        "San Diego Union-Tribune",
+        "People rest at a flooded building in Bangkok, Thailand, Tuesday, Oct. 25, 2011. Floodwaters in Thailand breached barriers defending Bangkok's second airport on Tuesday and have begun seeping into the compound, forcing at least one airline based there to suspend flights for a week, officials said. (AP Photo/Sakchai Lalit)",
+        "FILE – Defense attorney Mark Collins, right, speaks to the judge as defense attorney Steve Nodler, center, listens during the arraignment of former Franklin County, Ohio, deputy Jason Meade, appearing on video screen, Dec. 3, 2021, in Columbus, Ohio. (AP Photo/Paul Vernon, File)",
+        "White House press secretary Karoline Leavitt speaks with reporters"
+      ]
+    },
+    {
+      "url": "https://www.deseret.com/2011/10/25/20225691/thai-floods-shut-down-bangkok-s-second-airport/",
+      "page_title": "Thai floods shut down Bangkok's second airport - Deseret News",
+      "title": "Thai floods shut down Bangkok's second airport",
+      "description": "Advancing floodwaters in Thailand shut down commercial flights Tuesday at Bangkok's second airport, spilling across a complex housing the country's flood relief headquarters in one of the biggest blows yet to government attempts to prevent the sprawling capital from being swamped.",
+      "text": "BANGKOK — Advancing floodwaters in Thailand breached barriers protecting Bangkok's second airport Tuesday, halting commercial flights at a complex that also houses the country's flood relief headquarters and thousands of displaced people.\nThe flooding at Don Muang airport, which is primarily used for domestic flights, is one of the biggest blows yet to government efforts to prevent the sprawling capital from being swamped. Its effective closure is certain to further erode public confidence in the ability of Prime Minister Yingluck Shinawatra's administration to defend the increasingly anxious metropolis of 9 million people.\nBangkok's Suvarnabhumi Airport, the country's main international gateway, has yet to be affected by flooding and flights there were operating normally. Most of the city has been spared inundation so far.\nDon Muang has come to symbolize the gravity of the Southeast Asian nation's deepening crisis, which has seen advancing waters drown a third of the country and kill 366 people over the last three months.\nThe airport houses the government's recently established emergency Flood Relief Operations Center, and one of its terminals has been converted into an overcrowded shelter filled with tents for about 4,000 people who fled waterlogged homes.\nSomboon Klinchanhom, a 43-year-old civil servant who took refuge there last week, was preparing to move after authorities said the terminal had become too crowded and thousands of people displaced there would be relocated.\n\"I thought it would be safe and well-protected,\" Somboon said of the airport, as she packed her belongings again.\nThough floodwaters have yet to spill across Don Muang's runways, ankle-high water could be seen Tuesday rushing over sandbagged barriers around the airport's perimeter, swamping internal roads. One vast pool was headed toward two Thai Airways jetliners parked outside a hangar, their wheels wrapped in plastic sheets.\nThe two main carriers based at Don Muang announced they were suspending operations and diverting flights to Suvarnabhumi because of the flood threat. They are Thai Orient Airlines and Nok Air, which said it was halting flights until Nov. 1.\nCapt. Kantpat Mangalasiri, the airport's director, said Don Muang's commercial runways would be closed until Nov. 1 to ensure safe aircraft operations.\nThai air force flights carrying relief supplies were continuing on a military runway that is still open, air force spokesman Montol Suchukorn said. He said floodwaters had breached the military's air base, but the runway remains protected by flood barriers.\nLast week, the air force moved 20 planes from Don Muang as a precaution.\nThe government's flood relief command will remain at the airport for now since it is still accessible by road, spokesman Wim Rungwattanajinda said.\nHe said the government expects floodwaters will sweep through the main parts of Don Muang by Friday, but would not rise above 3.3 feet (one meter).\nThe scene at the domestic terminal was chaotic as throngs of confused passengers struggled to leave or pulled up to the departure hall with luggage, unaware their flights had been canceled.\nWith parts of the main road heading to downtown Bangkok flooded knee-deep, taxis were in scarce supply. Some travelers waited hours for a ride as airlines scrambled to arrange special buses.\nDon Muang, located on Bangkok's northern outskirts, is among seven of the capital's 50 districts that the government has declared at risk. Those zones, in the north and northwest, are all experiencing some flooding.\nLast week, Yingluck ordered key floodgates opened to help drain runoff through urban canals to the sea, but there is great concern that rising tides in the Gulf of Thailand this weekend could slow critical outflows and flood the city.\nOn Tuesday, Gov. Suhumbhand Paribatra said he was concerned about record-high water levels on the Chao Phraya river, the city's biggest waterway. He said the river could spill over its banks and the situation would likely grow worse as high tides set in.\nThe government, meanwhile, declared public holidays on Oct. 27-31 in affected areas, including Bangkok. The Education Ministry also ordered schools in 12 affected provinces and the capital to close until Nov. 7 due to the floods.\nLate Monday, the flood relief center said water levels in the worst-hit parts of the country — the submerged provinces north of Bangkok — were stable or subsiding. But the massive runoff was still bearing down on the capital as it flowed south toward the Gulf of Thailand.\nWhile neighborhoods just across Bangkok's boundaries are underwater, most of the city is dry and has not been directly affected by the deluge.\nAnxious Bangkokians, though, have been raiding stores to stock up on emergency supplies, and many have been protecting their homes and businesses with sandbags. Some have even erected sealed cement barriers across shop fronts.\nAssociated Press writer Vee Intarakratug contributed to this report.",
+      "image_captions": [
+        "People rest at a flooded building in Bangkok, Thailand, Tuesday, Oct. 25, 2011. Floodwaters in Thailand breached barriers defending Bangkok's second airport on Tuesday and have begun seeping into the compound, forcing at least one airline based there to suspend flights for a week, officials said.Sakchai Lalit, Associated Press",
+        "Deseret News Logo Black & Yellow",
+        "People rest at a flooded building in Bangkok, Thailand, Tuesday, Oct. 25, 2011. Floodwaters in Thailand breached barriers defending Bangkok's second airport on Tuesday and have begun seeping into the compound, forcing at least one airline based there to s",
+        "Deseret News Marathon"
+      ]
+    },
+    {
+      "url": "https://www.sandiegouniontribune.com/2011/10/25/thai-floods-shut-bangkoks-second-largest-airport/",
+      "page_title": "Thai floods shut Bangkok's second largest airport",
+      "title": "Thai floods shut Bangkok’s second largest airport",
+      "description": "BANGKOK — Floodwaters inched closer to a terminal at the Thai capital’s second largest airport Wednesday, leading many who had sought refuge at a shelter there to flee amid warnings that parts of Bangkok could be…",
+      "text": "BANGKOKBANGKOK — Floodwaters inched closer to a terminal at the Thai capital’s second largest airport Wednesday, leading many who had sought refuge at a shelter there to flee amid warnings that parts of Bangkok could be inundated by up to 5 feet (1.5 meters) of water.\nThe flooding at Don Muang airport, which is primarily used for now-grounded domestic flights, is one of the biggest blows yet to government efforts to prevent the sprawling capital from being inundated. Its effective closure is certain to further erode public confidence in the ability of Prime Minister Yingluck Shinawatra’s administration to defend the increasingly anxious metropolis of 9 million people.\nBy Wednesday morning, more than 1,000 people sheltering there had fled as water continued to build around the terminal.\nBangkok’s Suvarnabhumi Airport, the country’s main international gateway, has yet to be affected by flooding and flights there were operating normally. Most of the city has been spared inundation so far, though bottled water and other emergency supplies were running low in many areas.\nYingluck’s government declared a five-day public holiday on Tuesday in affected areas, including Bangkok, while the Education Ministry ordered schools to close until Nov. 7. Bangkok Gov. Sukhumbhand Paribatra called for those who don’t need to be in the city and can afford to leave to do so.\nThe prime minister warned in a televised address Tuesday that in a worst-case scenario, the enormous pressure of floodwaters pushing downstream into the city could combine with monthly high tides on Friday and Saturday to overwhelm recently reinforced flood walls and embankments protecting the city.\nThat could result in flooding of up to 5 feet (1.5 meters) in low-lying areas of the capital, she said.\nSukhumbhand said the capital cannot escape flooding and warned residents of 13 districts along the Chao Phraya River, the city’s biggest waterway, to be prepared.\nThe flooding at Don Muang airport symbolizes the gravity of the Southeast Asian nation’s deepening crisis, which has seen advancing waters drown a third of the country and kill 373 people over the last three months.\nThe airport houses the government’s recently established emergency Flood Relief Operations Center, and one of its terminals has been converted into an overcrowded shelter filled with tents for about 4,000 people who fled waterlogged homes.\nSomboon Klinchanhom, a 43-year-old civil servant who took refuge there last week, was preparing to move Tuesday after authorities said the terminal had become too crowded and thousands of people displaced there would be relocated.\n“I thought it would be safe and well-protected,” Somboon said of the airport, as she packed her belongings again.\nThe government’s flood relief command will remain at the airport for now since it is still accessible by road, spokesman Wim Rungwattanajinda said.\nLast week, Yingluck ordered key floodgates opened to help drain runoff through urban canals to the sea, but there is great concern that rising tides in the Gulf of Thailand this weekend could slow critical outflows and flood the city.\nThe flood relief center had earlier said water levels in the worst-hit parts of the country – the submerged provinces north of Bangkok – were stable or subsiding. But the massive runoff was still bearing down on the capital as it flowed south toward the Gulf of Thailand.\nWhile neighborhoods just across Bangkok’s boundaries are underwater, most of the city is dry and has not been directly affected by the deluge.\nAnxious Bangkokians, though, have been raiding stores to stock up on emergency supplies, and many have been protecting their homes and businesses with sandbags. Some have even erected sealed cement barriers across shop fronts.\n—\nAssociated Press writer Vee Intarakratug contributed to this report.",
+      "image_captions": [
+        "/ APPeople rest at a flooded building in Bangkok, Thailand, Tuesday, Oct. 25, 2011. Floodwaters in Thailand breached barriers defending Bangkok’s second airport on Tuesday and have begun seeping into the compound, forcing at least one airline based there to suspend flights for a week, officials said. (AP Photo/Sakchai Lalit)",
+        "San Diego Union-Tribune",
+        "People rest at a flooded building in Bangkok, Thailand, Tuesday, Oct. 25, 2011. Floodwaters in Thailand breached barriers defending Bangkok's second airport on Tuesday and have begun seeping into the compound, forcing at least one airline based there to suspend flights for a week, officials said. (AP Photo/Sakchai Lalit)",
+        "FILE – Defense attorney Mark Collins, right, speaks to the judge as defense attorney Steve Nodler, center, listens during the arraignment of former Franklin County, Ohio, deputy Jason Meade, appearing on video screen, Dec. 3, 2021, in Columbus, Ohio. (AP Photo/Paul Vernon, File)",
+        "White House press secretary Karoline Leavitt speaks with reporters"
+      ]
+    }
+  ],
+  "evidence_count": 3,
+  "crawled_at": "2026-04-23T17:31:25.210613+00:00"
+}

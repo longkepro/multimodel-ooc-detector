@@ -1,0 +1,133 @@
+{
+  "sample_id": "false_290",
+  "image_url": "https://www.chinadaily.com.cn/china/images/attachement/jpg/site1/20141127/002170196e1c15e0a13303.jpg",
+  "visual_entities": [
+    {
+      "description": "China National Highway 110 traffic jam",
+      "score": 1.0752
+    },
+    {
+      "description": "",
+      "score": 0.7201
+    },
+    {
+      "description": "Traffic congestion",
+      "score": 0.7098
+    },
+    {
+      "description": "Highway",
+      "score": 0.5741
+    },
+    {
+      "description": "G110",
+      "score": 0.57403505
+    },
+    {
+      "description": "Traffic",
+      "score": 0.4588
+    },
+    {
+      "description": "Road",
+      "score": 0.4575
+    },
+    {
+      "description": "Transport",
+      "score": 0.4353
+    },
+    {
+      "description": "Gridlock",
+      "score": 0.43
+    },
+    {
+      "description": "Driving",
+      "score": 0.4207
+    },
+    {
+      "description": "National Day of the People's Republic of China",
+      "score": 0.3724
+    },
+    {
+      "description": "Golden Week",
+      "score": 0.3707
+    },
+    {
+      "description": "Controlled-access highway",
+      "score": 0.355
+    }
+  ],
+  "best_guess_labels": [
+    "traffic jam china at night"
+  ],
+  "similar_image_urls": [
+    "https://cdn.prod.www.spiegel.de/images/88f4f840-0001-0004-0000-000001188127_w960_r1.5_fpx28.08_fpy44.97.jpg",
+    "https://cdn.prod.www.spiegel.de/images/88f4f840-0001-0004-0000-000001188127_w640_r1.6013513513513513_fpx28.08_fpy44.97.jpg",
+    "https://www.chinadaily.com.cn/china/images/attachement/jpg/site1/20141127/002170196e1c15e0a13303.jpg",
+    "https://language.chinadaily.com.cn/images/attachement/jpg/site1/20160606/64006a47a40418bf1c3825.jpg",
+    "https://cdn.prod.www.spiegel.de/images/88f4f840-0001-0004-0000-000001188127_w488_r1.33_fpx28.08_fpy44.97.jpg",
+    "https://cdn.prod.www.spiegel.de/images/88f4f840-0001-0004-0000-000001188127_w520_r1.33_fpx28.08_fpy44.97.jpg",
+    "http://image.thepaper.cn/www/image/11/6/275.jpg",
+    "https://fs2-ct24.ceskatelevize.cz/image/M2M2NWQyZDM3MmNmYTQ1M135BLZqDGhGoA79Xn8moe1zEX2U4pi2xp3fiZ7z05ZQ09vNbb0Pu0_U9s9Vtw3O3jtzYrLzQk50HBJCDrelSU0nUcmrKMbsJMRWfhBozCf5QXfVVl-wghPrirdfAC-TDYZFz1ROB31rXleOKlrIGyI_vevn7e86IPf2ZvJKJb1Db3wKzuQBeeEN9InAcsUWjg.jpg",
+    "https://fs2-ct24.ceskatelevize.cz/image/OWNjODllYzUxN2M0YzFmM8AXzEKzkGdVXjbeWNhLtC_KPl8Fer6T2TrwhvIWCPNiMOhO9Jx9J7kUwaHbiPNfCXUqLzuCMdNAHKxIBcLKqEg5H1qiDB8sRB1Z5wtKWMCX2AMVqBnCCq-Ub2DwJU7UIC9EEdyd9xpW6DU-oFwkcuW53fFMDpGhl4cK4K5Mo1hMvqjukoThhnyhZXUG2Zkffg.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1333264883355330"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.chinadaily.com.cn/china/2014-11/27/content_18983881.htm",
+      "page_title": "The wrong side of the road[1]- Chinadaily.com.cn",
+      "title": "The wrong side of the road",
+      "description": "As vehicle numbers soar, traffic jams are becoming a fact of life on China's overcrowded urban highways.",
+      "text": "As vehicle numbers soar, traffic jams are becoming a fact of life on China's overcrowded urban highways, as Xu Wei reports.\nWhen you ask people about the challenges that will confront China in the coming years of development, traffic gridlock will always be near the top of the list.\nLast year, the Chinese Academy of Social Sciences polled more than 20,000 residents in 38 cities nationwide, and its subsequent report showed that more than 83 percent of urban residents expressed concerns about traffic congestion, and 16.5 percent of them felt the problem was \"extremely serious\".\nAccording to iiMedia Research, an agency that researches mobile Internet usage, the number of users of mobile web-mapping services, which use cellular data to monitor traffic congestion in cities, is also rising rapidly, reaching 472 million in the second quarter of this year, up from the 448 million in the first quarter.\nThis army of mobile web-mappers contributes to reports on traffic congestion through localized data, including speed, direction of travel and time. That's adding a new dimension to the way the speed of traffic on the nation's roads is monitored, and enables the providers of mobile web-mapping services to share their views on the traffic situation.\n\"Our data show that congestion is spreading quickly from first-tier cities to second- and third-tier cities, some of which are poorly prepared for dealing with the problem in terms of infrastructure,\" said Dong Zhenning, technology vice-president of AutoNavi Software Co, which monitors the situation on the roads in more than 100 cities across the country.\nBaidu Inc, which has the largest number of users of mobile web-mapping services in China, has also reported a growing number of gridlocks in second- and third-tier cities. In an e-mailed response to questions from China Daily, the company said the rising number of traffic jams is a consequence of a rise in the number of cars in smaller cities, which, unlike large urban centers such as Beijing and Shanghai, have no restrictions on vehicle purchases.\nA quarterly report on traffic conditions in 38 cities published by AutoNavi in August showed that during the second quarter, Shanghai had the most severe rush hour congestion, followed closely by Hangzhou in Zhejiang province, and Beijing. Other cities in the top 10 included the southwestern municipality of Chongqing; Shenzhen and Guangzhou, both in Guangdong province; and Fuzhou in Fujian province.\nThe report also noted that in Shanghai, gridlocks meant that car journeys usually took 2.16 times longer than they would if the roads were clear; in Hangzhou, journeys were 2.1 times longer than the norm; while in Beijing, the figure was 2.09 times.\nQuite different to the way data is gathered by the traffic authoritiesâwhich use vehicle-detection loops to detect vehicles passing or arriving at a certain pointâAutoNavi's reports are based on floating car data, and information is gathered via the collection of localization data, speed, travel direction and time information from cellphones in vehicles.\n\"We not only monitor the traffic flow on specific sections of road, but also learn about where the vehicles come from and where they are headed. That gives us a much deeper understanding of why a specific section of road is overcrowded,\" Dong said.\nRising congestion\nDong said gridlocks in second-tier cities, such Hangzhou and Shijiazhuang, the capital of Hebei province, could result in motorists spending even more time on the road because of the large number of traffic lights and a dearth of expressways.\nGiven China's rapid rate of urbanizationâ53.7 percent of the 1.37 billion population was living in urban areas by the end of 2013âmany experts are concerned that the situation will only get worse.\nLiu Zhiyan, a researcher at CASS' Institute for Urban and Environmental Studies, said Chinese cities are far below the global average in terms of per capita road areas. The average road area in Beijing, for instance, was just 5.26 square meters per person in 2010, much lower than the global average of 15 to 20 sq m. \"The lack of road areas is a prime factor in congestion in Beijing and Shanghai,\" he said, adding that the rapid rise in the number of vehicles on the roads has also contributed to the growth of urban traffic congestion.\nThe number of vehicles in Beijing rose from 2.88 million at the end of 2007 to 5.44 million by the end of 2013, according to figures by the Beijing Municipal Bureau of Statistics. Other cities, including Chongqing, Chengdu in Sichuan province, Shenzhen, Shanghai and Guangzhou, also had more than 2.7 million vehicles by the end of 2013.\nIn March, Hangzhou became the latest city to implement car purchasing restriction policies through issuing new license plates via a lottery and auctions. The move followed in the footsteps of Beijing, Shanghai, Tianjin, Guangzhou and Guiyang, the capital of Guizhou province. Beijing and Guiyang issue license plates through a lottery system, while Shanghai uses a bidding system. Guangzhou and Tianjin have adopted both systems.\nLu Huapu, dean of the transport research institute at Tsinghua University in Beijing, estimates that at least 50 cities in China face severe traffic problems because a number of factors, including overemphasis on the development of main roads to the detriment of access roads, and poor urban planning have contributed to congestion.\nDong from AutoNavi, said urban construction that blocks roads, poor driving habits and illegal parking are common factors that aggravate congestion. \"Unlike drivers in other countries, Chinese drivers simply do not obey the rules. They constantly try to change lanes when the roads are congested. As a result, the congestion only gets worse,\" he said.\nHe also noted that Chinese drivers are not inclined to use traffic information provided by web-mapping services or the traffic authorities. \"Our survey shows that only 5 percent of Chinese drivers refer to traffic information before they go out, while in Japan the figure is about 70 to 80 percent,\" he said.\nData revelations\nDong said AutoNavi's quarterly report on congestion in major cities has attracted the attention of the traffic-management authorities in a number of urban areas, and many have expressed interest in using the company's data to help ease the problem.\n\"Our users are spreading across cities, and so the traffic authorities can also monitor the situation in every area and make timely responses. We can also analyze the concrete reason for a congested road with traffic experts, and propose a solution to the traffic authorities,\" he said.\nDong said the different lifestyles and natural and social conditions of cities are easily determined from the state of their traffic, and the situation varies according to the time of year. \"September is the month with the worst congestion in Beijing, partly because that's when the new semester begins for primary and high schools and for colleges,\" he said.\nAutoNavi's quarterly report also showed that while Guangzhou and Shenzhen have no obvious peak hours in the morning, the evening rush hours are much more congested.\n\"It shows that residents in the two cities prefer going out during the night, and stay up much later than people in other cities, and thus they need more time to sleep in the morning,\" Dong said.\n\"Mostly, the worst congestion occurs in cities in the eastern and western parts of the country, which means traffic problems are a price we must pay for economic prosperity,\" he said.\nContact the writer at xuwei@chinadaily.com.cn",
+      "image_captions": [
+        "The wrong side of the road"
+      ]
+    },
+    {
+      "url": "https://www.the-sun.com/news/15323442/watch-miles-long-traffic-jam/",
+      "page_title": "Watch as miles-long traffic jam brings 36-lane highway in China to ...",
+      "title": "Verifying Device",
+      "description": "",
+      "text": "Verifying your device, please wait\nVerification failed. Please try again.\nTry Again\nVerification failed. Please try again.",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.straitstimes.com/videos/6380541056112",
+      "page_title": "Massive traffic jam ahead of China's National Day holiday",
+      "title": "The Straits Times - Breaking News, Lifestyle & Multimedia News",
+      "description": "The Straits Times - Get latest breaking news, business, sports, lifestyle, tech & multimedia and more news in Singapore, Asia & rest of the world at straitstimes.com.",
+      "text": "Choose edition\nSearch\nsingapore\nasia\nworld\nopinion\nlife\nbusiness\nsport\nVisual\nPodcasts\nSPH Rewards\nSTClassifieds\nPaid press releases\nAdvertise with us\nFAQs\nContact us\n1:57\n1:38\n1:53\n1:16\n1:07\n0:36\n0:50\n1:52\n2:57",
+      "image_captions": [
+        "Straitstimes.com header logo",
+        "Singapore Oceanarium: Revamped SEA Aquarium 2.0",
+        "Pull-ups? 100m race? No problem for fitspo grandma",
+        "Mother shares videos showing effects of Kpod addiction on her sons",
+        "New third-generation trains enter service on Sengkang-Punggol LRT"
+      ]
+    },
+    {
+      "url": "https://www.spiegel.de/impressum/autor-d00195ec-0001-0003-0000-000000000943/p24",
+      "page_title": "Bernhard Zand - DER SPIEGEL",
+      "title": "Bernhard Zand - DER SPIEGEL",
+      "description": "Bernhard Zand, Jahrgang 1967, schreibt seit 1998 für den SPIEGEL und war Korrespondent in Istanbul, Kairo, Dubai, Peking und Hongkong. Aus dem Nahen Osten berichtete Zand über die Krisen und Konflikte zwischen dem 11. September 2001 und dem Arabischen Frühling, aus Asien und der Pazifikregion über die politische und gesellschaftliche Umwälzung Chinas und dessen Rivalität mit den USA. Von 2022 bis 2025 war Zand in New York stationiert.",
+      "text": "Bernhard Zand\nAlle Beiträge\nStreit über Atomwaffentests Nordkoreas Feinde, Nordkoreas Freunde\n\"Neue Seidenstraße\" Wie China mit 900 Milliarden Dollar die Welt erobern will\nDeadly Game Donald Trump and Kim Jong Un Risk Nuclear War\nNordkoreas Atomprogramm \"Krieg ist eben auch eine sehr schlechte Option\"\nInternational Trumpquake Tentative Stirrings of a Beijing-Berlin Axis\nDeutsch-chinesische Allianz Der neue Freund in Peking\nNeuere Artikel\nSeite 24\n/ 39\nÄltere Artikel",
+      "image_captions": [
+        "Öffnen Sie das Spiel Wordle",
+        "Öffnen Sie das Spiel Viererkette",
+        "Öffnen Sie das Spiel Solitär",
+        "Öffnen Sie das Spiel Sudoku",
+        "Öffnen Sie das Spiel Kreuzworträt­sel"
+      ]
+    },
+    {
+      "url": "https://language.chinadaily.com.cn/2016-06/06/content_25620378_5.htm",
+      "page_title": "一周热词榜（5.28-6.3） - 英语点津",
+      "title": "ä¸å¨çè¯æ¦ï¼5.28-6.3ï¼",
+      "description": "ä¸å¨æ°é»çè¯æ¦ï¼ä¸ç½æå°½trending newsãæ°ä¸æçè¯æ¦åå¸ã",
+      "text": "å½åä½ç½®ï¼ Language Tips> æ°é»çè¯\n5.åå¸ç\nurban diseases\nè¯·çä¾å¥ï¼\nChinese cities with relatively strong competitiveness also suffer increasingly serious \"urban diseases\", according to a report.\nä¸ä»½æ¥åæ¾ç¤ºï¼ç«äºåç¸å¯¹è¾å¼ºçä¸å½åå¸ï¼å\n¶\"åå¸ç\n\"ä¹æ¥è¶ä¸¥éã\n\"åå¸ç \"(urban diseases)æ¯æäººå£è¿äºåå¤§åå¸éä¸èå¼èµ·çä¸ç³»åç¤¾ä¼é®é¢(social problems)ï¼è¡¨ç°å¨ï¼åå¸è§å(urban planning)åå»ºè®¾ç²ç®åå¨è¾¹æå¤§é¥¼å¼çæ©å»¶ï¼å¤§éèå°è¢«å ï¼ä½¿äººå°çç¾æ´å°éãåå±ä¸å½å®¶çåå¸å(urbanization)é®é¢ä¹è¢«ç§°ä¸ºåå¸ç ã\nè¿æ¥ï¼ä¸å½ç¤¾ä¼ç§å¦é¢è´¢ç»æç¥ç ç©¶é¢(the National Academy of Economic Strategy of the Chinese Academy of Social Sciences, CASS)ãä¸å½ç¤¾ä¼ç§å¦åºçç¤¾(the China Social Sciences Press)ä¸ä¸å½ç¤¾ç§é¢åå¸ä¸ç«äºåç ç©¶ä¸å¿(the CASS City and Competitiveness Research Center)èååå¸æ¥åï¼å¯¹å ¨å½38ä¸ªå¤§åå¸ç\"åå¸ç«äºå(urban competitiveness)\"å\"åå¸ç \"ææ°è¿è¡æåã\næ¥åæ¾ç¤ºï¼è½ç¶æ·±å³ãé¦æ¸¯ãä¸æµ·å¨2015å¹´ä¸å½åå¸ç»¼åç»æµç«äºå(comprehensive economic competitiveness)æåä¸ä½åå3ï¼ä¸è¿ï¼è¿äºåå¸ç\"åå¸ç \"ä¹æ¥çä¸¥éã\"åå¸ç \"ææ°ä¸ï¼é¤äºæ·±å³ãåäº¬ãå¹¿å·ãä¸æµ·4ä¸ªä¸çº¿åå¸(first-tier cities)ï¼æå·ãæ¸©å·ãæµåãè¥¿å®ãä½å±±ãç³å®¶åºä¹å¨å10ä¹åãæ¥åæåºï¼äººå£åä¸å¿è¿åº¦èé(the excessive accumulation of a single population center)æ¯å¯¼è´\"åå¸ç \"çéè¦åå (key reason)ã\nç¤¾ç§é¢æåºï¼\"åå¸ç \"ä¼¼ä¹æ¯åå¸åå±(urban development)è¿ç¨ä¸å¿ ç¶åºç°ççç¶ï¼å½äººå£åèµæº(population and resouces)éä¸å°ä¸ä¸ªåå¸æ¶ï¼åç§é®é¢å¿ ç¶ä¼å æ¤åºç°ãåå¸ç çåºç°æ¶ï¼éè¦å¼èµ·çç¬¬ä¸éåæ(reflection)å°±æ¯ï¼å¨åå¸è§åä¸åå±æ¶ï¼åºè¯¥æ³¨æå°åå¸çå®¹éä¸å¤§å°(capacity and size of a city)ï¼åºè¯¥æ³¨æå°åå¸æ¯ä¸ä¸ªçæ´»çå°æ¹ï¼ä»å®å± (livable)èä¸æ¯å´è§çè§åº¦å»è®¾è®¡åå»ºè®¾åå¸(urban design and construction)ã\n[ç¸å ³è¯æ±]\nç»¼åç»æµç«äºå comprehensive economic competitiveness\nåºç¡è®¾æ½æ¿è½½è½å infrastructure capacity\nåå¸ç«äºå urban competitiveness\nèµæºçç¼º shortfall in resources\nåå¸æ²»ç urban governance\nåå¸è§æ¨¡ urban size\nä¸ä¸ç¯ : ä¸å¨çè¯æ¦ï¼5.21-27ï¼\nä¸ä¸ç¯ : ä¸å¨çè¯æ¦ï¼6.4-10ï¼\nå ³æ³¨åè®¢é\né è¯»\nè¯æ±\nç¿»è¯\nå£è¯\nçµè¯ï¼8610-84883645\nä¼ çï¼8610-84883500\nEmail: languagetips@chinadaily.com.cn",
+      "image_captions": [
+        "ä¸å¨ç­è¯æ¦ï¼5.28-6.3ï¼"
+      ]
+    }
+  ],
+  "evidence_count": 5,
+  "crawled_at": "2026-04-23T18:52:32.174291+00:00"
+}

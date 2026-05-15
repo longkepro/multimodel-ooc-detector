@@ -1,0 +1,115 @@
+{
+  "sample_id": "false_180",
+  "image_url": "https://gdb.rferl.org/29B9A7B2-4B56-42B4-9EBB-AC16150E1020_w1200_r1.jpg",
+  "visual_entities": [
+    {
+      "description": "Thomas Jefferson",
+      "score": 8.238
+    },
+    {
+      "description": "John McCain",
+      "score": 3.6644998
+    },
+    {
+      "description": "Flag of the United States",
+      "score": 1.2151339
+    },
+    {
+      "description": "United States",
+      "score": 1.07985
+    },
+    {
+      "description": "",
+      "score": 0.7199
+    },
+    {
+      "description": "Flag",
+      "score": 0.7197
+    },
+    {
+      "description": "Flag of Texas",
+      "score": 0.5394
+    },
+    {
+      "description": "won",
+      "score": 0.3885
+    },
+    {
+      "description": "The Star-Spangled Banner",
+      "score": 0.3746
+    },
+    {
+      "description": "History",
+      "score": 0.3613
+    },
+    {
+      "description": "US President",
+      "score": 0.3547
+    },
+    {
+      "description": "worthy",
+      "score": 0.3155
+    },
+    {
+      "description": "United States Bill of Rights",
+      "score": 0.3143
+    }
+  ],
+  "best_guess_labels": [
+    "flag of the united states"
+  ],
+  "similar_image_urls": [
+    "https://gdb.voanews.com/12430d5b-47e1-489f-a9ad-722da2dd8af6_w1200_h630.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.dvidshub.net/video/941301/american-flag",
+      "page_title": "Video - American Flag - DVIDS",
+      "title": "American Flag",
+      "description": "Full screen animated waving flag of the United States of America (USA).",
+      "text": "Full screen animated waving flag of the United States of America (USA).\nVideo Analytics\nPUBLIC DOMAIN\nThis work, American Flag, by Rodney Turner, identified by DVIDS, must comply with the restrictions shown on https://www.dvidshub.net/about/copyright.\nMORE LIKE THIS\nCONTROLLED VOCABULARY KEYWORDS\nTAGS",
+      "image_captions": [
+        "Defense Visual Information Distribution Service Logo",
+        "US Deptartment of Defense Logo"
+      ]
+    },
+    {
+      "url": "https://theflagbook.neocities.org/wiki/united-states",
+      "page_title": "Flag of the United States of America - TheFlagBook",
+      "title": "Flag of the United States of America",
+      "description": "",
+      "text": "ð¡° BACK\nFlag of the United States of America\nNation in North America\nPage last modified 05/03/2024\n(common variant)\nIMAGE SOURCE: English Wikipedia\nFlag of the United States of America\nAlso colloquially known as the American Flag, the Stars and Stripes, Red White and Blue, Old Glory and the the Star Spangled Banner\n- Adopted on July 4, 1960\n- Used as a national flag and ensign\n- Designed by Robert G. Heft in 1958\n- The officially recognized proportion is 10:19\nAdopted following the admission of Hawaii into the union.\nIMAGE SOURCE: English Wikipedia\nFlag of the United States of America\n- Adopted on July 4, 1959\n- Abolished on July 3, 1960\nAdopted following the admission of Alaska into the union.\nIMAGE SOURCE: English Wikipedia\nFlag of the United States of America\n- Adopted on July 4, 1912\n- Abolished on July 3, 1959\nAdopted following the admission of New Mexico & Arizona into the union.\nIMAGE SOURCE: English Wikipedia\nFlag of the United States of America\n- Adopted on July 4, 1908\n- Abolished on July 3, 1912\nAdopted following the admission of Oklahoma into the union.\nIMAGE SOURCE: English Wikipedia\nFlag of the United States of America\n- Adopted on July 4, 1896\n- Abolished on July 3, 1908\nAdopted following the admission of Utah into the union.\nIMAGE SOURCE: English Wikipedia\nFlag of the United States of America\n- Adopted on July 4, 1891\n- Abolished on July 3, 1896\nAdopted following the admission of Wyoming into the union.\nIMAGE SOURCE: English Wikipedia\nFlag of the United States of America\n- Adopted on July 4, 1890\n- Abolished on July 3, 1891\nAdopted following the admission of North Dakota, South Dakota, Idaho, Montana & Washington into the union.\n(rectangular pattern variant)\n(circular pattern variant)\nIMAGE SOURCE: English Wikipedia\nFlag of the United States of America\n- Adopted on July 4, 1877\n- Abolished on July 3, 1890\nAdopted following the admission of Colorado into the union.\n(rectangular pattern variant 1)\n(rectangular pattern variant 2)\n(circular pattern variant)\nIMAGE SOURCE: English Wikipedia\nFlag of the United States of America\n- Adopted on July 4, 1867\n- Abolished on July 3, 1877\nAdopted following the admission of Nebraska into the union.\n(rectangular pattern variant)\n(circular pattern variant)\nIMAGE SOURCE: English Wikipedia\nFlag of the United States of America\n- Adopted on July 4, 1865\n- Abolished on July 3, 1867\nAdopted following the admission of Nevada into the union.\n(rectangular pattern variant)\n(circular pattern variant)\nIMAGE SOURCE: English Wikipedia\nFlag of the United States of America\n- Adopted on July 4, 1863\n- Abolished on July 3, 1865\nAdopted following the admission of West Virginia into the union.\n(rectangular pattern variant)\n(circular pattern variant)\nIMAGE SOURCE: English Wikipedia\nFlag of the United States of America\n- Adopted on July 4, 1861\n- Abolished on July 3, 1863\nAdopted following the admission of Kansas into the union.\n(rectangular pattern variant)\n(diamond pattern variant 1)\n(star pattern variant)\n(diamond pattern variant 2)\nIMAGE SOURCE: English Wikipedia\nFlag of the United States of America\n- Adopted on July 4, 1859\n- Abolished on July 3, 1861\nAdopted following the admission of Oregon into the union.\nIMAGE SOURCE: English Wikipedia\nFlag of the United States of America\n- Adopted on July 4, 1858\n- Abolished on July 3, 1859\nAdopted following the admission of Minnesota into the union.\nIMAGE SOURCE: English Wikipedia\nFlag of the United States of America\n- Adopted on July 4, 1851\n- Abolished on July 3, 1858\nAdopted following the admission of California into the union.\nIMAGE SOURCE: English Wikipedia\nFlag of the United States of America\n- Adopted on July 4, 1848\n- Abolished on July 3, 1851\nAdopted following the admission of Wisconsin into the union.\n(rectangular pattern variant)\n(diamond pattern variant)\nIMAGE SOURCE: English Wikipedia\nFlag of the United States of America\n- Adopted on July 4, 1847\n- Abolished on July 3, 1848\nAdopted following the admission of Iowa into the union.\nIMAGE SOURCE: English Wikipedia\nFlag of the United States of America\n- Adopted on July 4, 1846\n- Abolished on July 3, 1847\nAdopted following the admission of Texas into the union.\nIMAGE SOURCE: English Wikipedia\nFlag of the United States of America\n- Adopted on July 4, 1845\n- Abolished on July 3, 1846\nAdopted following the admission of Florida into the union.\n(rectangular pattern variant)\n(star pattern variant)\nIMAGE SOURCE: English Wikipedia\nFlag of the United States of America\n- Adopted on July 4, 1837\n- Abolished on July 3, 1845\nAdopted following the admission of Michigan into the union.\n(rectangular pattern variant 1)\n(rectangular pattern variant 2)\n(rectangular pattern variant 3)\nIMAGE SOURCE: English Wikipedia\nFlag of the United States of America\n- Adopted on July 4, 1836\n- Abolished on July 3, 1837\nAdopted following the admission of Arkansas into the union.\nIMAGE SOURCE: English Wikipedia\nFlag of the United States of America\n- Adopted on July 4, 1822\n- Abolished on July 3, 1836\nAdopted following the admission of Missouri into the union.\nIMAGE SOURCE: English Wikipedia\nFlag of the United States of America\n- Adopted on July 4, 1820\n- Abolished on July 3, 1822\nAdopted following the admission of Alabama & Maine into the union.\nIMAGE SOURCE: English Wikipedia\nFlag of the United States of America\n- Adopted on July 4, 1819\n- Abolished on July 3, 1820\nAdopted following the admission of Illinois into the union.\n(rectangular pattern variant)\n(star pattern variant)\nIMAGE SOURCE: English Wikipedia\nFlag of the United States of America\n- Adopted on July 4, 1818\n- Abolished on July 3, 1819\nAdopted following the admission of Tennessee, Ohio, Louisiana, Indiana, & Mississippi into the union.\nIMAGE SOURCE: English Wikipedia\nFlag of the United States of America\n- Adopted on May 1, 1795\n- Abolished on July 3, 1818\nAdopted following the admission of Vermont into the union.\n(circular pattern variant, commonly known as the Betsy Ross flag)\n(rectangular pattern variant 1)\n(rectangular pattern variant 2)\nIMAGE SOURCE: English Wikipedia\nFlag of the United States of America\n- Adopted on June 14, 1777\n- Abolished on May 1, 1795\nNo notes\nIMAGE SOURCE: English Wikipedia\nGrand Union Flag\nAlso colloquially known as the Continental Colors\n- Adopted on December 3, 1775\n- Abolished on June 14, 1777\nNo notes",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.ipl.org/the-flag-of-the-united-states-of-america/",
+      "page_title": "The Flag of the United States of America | Internet Public Library",
+      "title": "The Flag of the United States of America | Internet Public Library",
+      "description": "The Flag of the United States of America Flag history, pictures, etiquette, information on how to fold it, a FAQ, a glossary of related terms, and more. Searchable. Subject: Flags -- United States",
+      "text": "The Flag of the United States of America The Flag of the United States of AmericaFlag history, pictures, etiquette, information on how to fold it, a FAQ, a glossary of related terms, and more. Searchable.Subject: Flags — United States",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.whereig.com/flags/us-flag.html",
+      "page_title": "Flag of the United States, American Flag, USA Flag - Whereig.com",
+      "title": "American Flag, USA Flag Picture & Facts - Whereig.com",
+      "description": "USA Flag also called America Flag (U.S. Flag) - Get the National Flag of the United States of America. The Stars and Stripes; The Red, White, and Blue; Old Glory; and The Star-Spangled Banner.",
+      "text": "The National Flag of the United States of America, the Stars and Stripes; The Red, White, and Blue; Old Glory; and the Star-Spangled Banner. The 50 stars on the flag represent the 50 U.S. states, and the 13 horizontal stripes represent the thirteen British colonies that declared independence from the Kingdom of Great Britain, and became the first states in the United States. The first flag was adopted on December 13, 1775 and the current 50 stars version flag adopted on July 4, 1960.\nThe National Flag of the United States of America\nUSA Flag Facts\nFlag of the United States\nThe United States of America's national flag is commonly known as the American flag or the U.S. flag. The USA Flag is made up of thirteen equal horizontal red and white stripes. In the canton, a blue rectangle known as the \"union\" is adorned with fifty tiny, white, five-pointed stars that are arranged in nine offset horizontal rows with rows of six stars and rows of five stars in between. The 13 stripes on the flag stand in for the thirteen British colonies that proclaimed their independence from Great Britain and became the country's founding states. The 50 stars on the flag stand in for the country's 50 states. The Stars and Stripes, Old Glory, and the Star-Spangled Banner are all nicknames for the USA Flag.\nThe Continental Colours, also known as the Grand Union Flag, the Cambridge Flag, the Somerville Flag, or the Union Flag, was the first unofficial national flag hoisted after the American Revolution began on January 1, 1776, at Prospect Hill in Charlestown, Massachusetts. It was then the first unofficial USA Flag was hoisted. That USA flag had 13 horizontal stripes (probably red and white or red, white, and blue) and the first version of the British Union Flag in the canton.\nThe Stars and Stripes was the first official USA Flag, authorised by the Continental Congress on June 14, 1777. Congressman Francis Hopkinson, a signer of the Declaration of Independence from Philadelphia, was most likely the one who designed the flag. He may have had in mind a ring of stars to represent the brand-new constellation.\nThe USA Flag's current design is the 27th formal change to the original design since 1777. Before the 49-star version was made official on July 4, 1959, the 48-star flag was in use for 47 years. On August 21, 1959, President Eisenhower issued an order for the 50-star flag, which became official in July 1960. Having been in use for more than 62 years, USA Flag has seen the most usage.",
+      "image_captions": [
+        "USA Flag - referred as the American flag or the U.S. flag"
+      ]
+    },
+    {
+      "url": "https://www.voanews.com/a/us-senator-visits-libyan-rebels-in-benghazi-120439644/138390.html",
+      "page_title": "US Senator Visits Libya, Demands More Help for Rebels - VOA",
+      "title": "US Senator Visits Libya, Demands More Help for Rebels",
+      "description": "John McCain's visit comes a day after the US approved the use of armed drone aircraft to support the NATO military mission",
+      "text": "U.S. Senator John McCain is meeting with rebel leaders in Benghazi Friday, pushing for more U.S. and Western support for their cause. The visit comes as rebel fighters made small gains on the ground in the besieged western Libyan city of Misrata and along the border with Tunisia.\nThe visit marks the highest level trip to the main rebel-controlled city by a top American official. It comes amid small, but significant steps to bolster the rebels and to protect Libyan civilians.\nMcCain told reporters that he had come to get a better picture of the rebels, whom he said he admires.\n\"I came here to get an on the ground assessment of the situation….We are meeting with the [rebel transitional] council, we’re meeting with the military, we’re meeting with lots of people. The [rebel fighters] are my heroes,\" McCain said.\nSenator McCain’s visit comes hours after U.S. Defense Secretary Robert Gates told the U.S. Congress that President Barack Obama had approved the use of unmanned drone aircraft in Libya to carry out missile strikes to protect Libyan civilians.\nNATO aircraft have had difficulty in making strikes in heavily populated urban areas, where fighting is taking place in cramped quarters, amid street to street battles. U.S. military officials say drone aircraft are better adapted to hit urban targets, in places like Misrata.\nRebel fighters in Misrata have urged NATO to provide more help to protect Libyan civilians. Hundreds of civilians have been killed or wounded during over six weeks of fighting in Misrata.\nIn the Libyan capital Tripoli, government spokesman Moussa Ibrahim slammed NATO support for the rebels, vowing to turn the country into \"hell\" if NATO forces entered Misrata or any Libyan city:\n\"If NATO comes to Misrata or any Libyan city we will unleash hell upon NATO,\" he warned. \"We will be a ball of fire. Libya will become one man, one woman fighting for freedom. We will make it ten times as bad as Iraq.\"\nLibyan government television says NATO planes killed a number of civilian workers at a water plant in the port city of Syrte. There was no independent confirmation of the claim.\nMeanwhile in Baghdad, Admiral Mike Mullen, Chairman of the U.S. Joint Chiefs of Staff, said that the conflict in Libya was \"moving towards a stalemate,\" reiterating recent statements by U.S. and Western military commanders.\nMullen stressed that embattled Libyan leader Colonel Moammar Gadhafi \"has got to go,\" but was uncertain how long it would take to dislodge him.",
+      "image_captions": [
+        "US Republican senator John McCain (R) walks with Abdul Hafiz Ghoqa, spokesman of the Libyan National Transitional Council (NTC), during his tour to the rebel headquarters in their eastern stronghold city of Benghazi , April 22, 2011"
+      ]
+    }
+  ],
+  "evidence_count": 5,
+  "crawled_at": "2026-04-23T17:42:56.865636+00:00"
+}

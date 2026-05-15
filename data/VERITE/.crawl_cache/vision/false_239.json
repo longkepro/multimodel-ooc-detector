@@ -1,0 +1,108 @@
+{
+  "sample_id": "false_239",
+  "image_url": "http://www.railwaysofthefarsouth.co.uk/Resources/5Ap5-09a.jpg",
+  "visual_entities": [
+    {
+      "description": "Train",
+      "score": 0.9936
+    },
+    {
+      "description": "Ignacio Ezcurra Bridge",
+      "score": 0.8643
+    },
+    {
+      "description": "Rail transport",
+      "score": 0.7428
+    },
+    {
+      "description": "Pitrufquén",
+      "score": 0.73875
+    },
+    {
+      "description": "Railway",
+      "score": 0.7218
+    },
+    {
+      "description": "Freight train",
+      "score": 0.7216
+    },
+    {
+      "description": "Railway bridge",
+      "score": 0.7157
+    },
+    {
+      "description": "Bridge",
+      "score": 0.7065
+    },
+    {
+      "description": "Viaduct",
+      "score": 0.4127
+    },
+    {
+      "description": "Maquinista",
+      "score": 0.4077
+    },
+    {
+      "description": "Cargo",
+      "score": 0.4056
+    },
+    {
+      "description": "General Roca Railway",
+      "score": 0.3978
+    },
+    {
+      "description": "Belgrano Cargas",
+      "score": 0.3175
+    },
+    {
+      "description": "Goods wagon",
+      "score": 0.31
+    }
+  ],
+  "best_guess_labels": [
+    "cayo el puente ferroviario de pitrufquen"
+  ],
+  "similar_image_urls": [
+    "http://mundografico.emol.cl/2016/08/18/37830_4071_4239371.jpg",
+    "http://www.ferrocarrilesenelconosur.co.uk/Resources/5Ap5-09.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.t13.cl/videos/nacional/por-se-cayo-puente-ferroviario-pitrufquen",
+      "page_title": "¿Por qué se cayó el puente ferroviario de Pitrufquén? - T13",
+      "title": "¿Por qué se cayó el puente ferroviario de Pitrufquén?",
+      "description": "Luego de la caída de un tren al Río Toltén y tras los primeros análisis de sus aguas, las autoridades aseguran que hasta ahora no existe contaminación, mientras aún se investigan las causas del colapso del puente.",
+      "text": "Nacional\n¿Por qué se cayó el puente ferroviario de Pitrufquén?\nLuego de la caída de un tren al Río Toltén y tras los primeros análisis de sus aguas, las autoridades aseguran que hasta ahora no existe contaminación, mientras aún se investigan las causas del colapso del puente.\nSu última mantención había sido en 2011, y en septiembre le correspondía una nueva revisión.\nEtiquetas de esta nota",
+      "image_captions": [
+        "Ministro Quiroz declara que impuesto a Pymes será de 23% en 2030 y PDG llama a respetar el acuerdo",
+        "Fiscalía asegura que encontró “una tonelada de pornografía infantil” en celular de rapero D4vd",
+        "Prohíben funcionamiento total de local de hamburguesas tras muerte de niño: se confirmó presencia de bacteria",
+        "Contraloría inicia auditoría al Gobierno tras revelación de supuestos pagos a trabajadores de la OPE entre enero y marzo",
+        "Sin viajes ni esperas: Los trámites en notaría que se podrán hacer desde la casa con la reforma al sistema notarial"
+      ]
+    },
+    {
+      "url": "https://www.emol.com/noticias/Nacional/2016/08/18/817938/Tren-cae-al-rio-Tolten-al-desplomarse-puente-ferroviario-en-Pitrufquen.html",
+      "page_title": "Tren cae al río Toltén al desplomarse puente ferroviario en Pitrufquén",
+      "title": "Tren cae al río Toltén al desplomarse puente ferroviario en Pitrufquén",
+      "description": "El hecho ocurrió esta tarde en el ingreso a la citada comuna de la Región de La Araucanía. Aún se investigan las causas del incidente.",
+      "text": "SANTIAGO.- Un tren de carga cayó la tarde de este jueves al río Toltén, en la Región de La Araucanía, luego de que el puente por el que se desplazaba se desplomara.\nEl hecho ocurrió pasadas las 16:00 horas en el ingreso a la comuna de Pitrufquén cuando, por razones que se investigan, el puente cedió, cayendo siete vagones de la máquina que se trasladaba en dirección al sur.\nDe acuerdo a la informado por la Oficina Nacional de Emergencia, de los siete vagones, cuatro transportaban soda cáustica, dos clorato y los otros dos llevaban petróleo.\nNo obstante, según informó el mayor de Carabineros Juan Mena a Canal 13, no se reportaron personas fallecidas ni lesionadas producto de este hecho, luego de que la locomotora del tren lograra cruzar el puente.\nAl lugar llegó personal de Carabineros y Bomberos para proceder a las labores de rescate respectivas.\nDel mismo modo, se dispuso del corte para todo tránsito del llamado \"puente viejo\", el cual se ubica a un costado de la estructura destruida y es utilizado principalmente por vehículos rurales y peatones.",
+      "image_captions": [
+        "Los más vendidos en Chile: Conoce el ranking",
+        "Reconstrucción: Revisa el proyecto y los fundamentos de la propuesta",
+        "Rebaja de impuestos, crédito al empleo y medidas de recaudación: Las claves económicas",
+        "Lee el documento completo enviado al Cogreso para su discusión"
+      ]
+    },
+    {
+      "url": "https://www.emol.com/fotos/37830/",
+      "page_title": "Desplome de puente ferroviario en Pitrufquén | Fotos | Emol.com",
+      "title": "Desplome de puente ferroviario en Pitrufquén | Emol Fotos",
+      "description": "Desplome de puente ferroviario en Pitrufquén",
+      "text": "Emol\nEl Mercurio\nBlogs\nLegal\nCampo\nInversiones\nAutos\nPropiedades\nEmpleos\nEconómicos.cl\nAutos\n-\nCasas\nLa Segunda\nLun\nQuieres ver tu clima local?\nMostrar\nIngresar\nInicio\n|\nRegistrarse\nCerrar sesión\nUnir cuenta\nFotos\nSantiago: Jueves 23 de abril del 2026 | Actualizado 13:54\nNoticias\nEconomía\nDeportes\nEspectáculos\nTendencias\nAutos\nServicios\nCrear Cuenta\nYa tengo Cuenta\n¿Olvidaste tu contraseña?\nIniciar Sesión\nEnviar Contraseña\nCancelar\nUnir cuenta\nNo gracias\nConfirma tus datos\nNombre\nApellido paterno\nApellido materno\nCorreo eléctronico\nContraseña\nAcepto los términos y condiciones\nVer términos y condiciones de Emol Social\nAceptar\nListo\nTu cuenta ha sido migrada\nError\nNo se pudo realizar la migración de tu cuenta.\nResumen 2017: Los acontecimientos del año en fotos\nEstos son los juguetes de los niños refugiados rohingya\nCapitales del mundo se llenan de adornos para recibir esta Navidad\nVilla Santa Lucía: un día después del aluvión\nFotos: Observa cómo partió la segunda vuelta\nUn año al estilo Trump: imágenes del Presidente de EE.UU. durante el 2017\nValiosas ruinas incas, ´asfixiadas´ por el crecimiento urbano en Perú\nFotos de National Geographic muestran cómo el embarazo adolescente aumenta la desigualdad de género\nProtestas 2017: imágenes de las manifestaciones ciudadanas del año que ya se va\nDía de la lucha contra el Sida: creativas campañas publicitarias advierten cómo prevenir la enfermedad\nParece un hotel 5 estrellas pero es un centro de rehabilitación para yihadistas\nA dos años del ataque a Bataclan víctimas cuentan la historia a través de sus tatuajes\nConoce la recién inaugurada Línea 6 del Metro\nSiria ahora en guerra contra el hambre: más de 1.200 niños desnutridos por bloqueo\nDesesperada situación de Puerto Rico tras huracán: una crisis humanitaria bajo la responsabilidad de EE.UU.\nTiroteo en Las Vegas deja al menos 50 muertos y más de 200 heridos\n¿Quiénes son los Rohingya?: la minoría musulmana más perseguida y discriminada del mundo\nConoce la propaganda con la que Corea del Norte desafía a Estados Unidos\n¿Quiénes son Los Topos?: Conoce a los incansables rescatistas que buscan sobrevivientes en las catástrofes\n10 Fotografías muestran las dramáticas consecuencias del terremoto en México\nIntensas labores de rescate tras segundo terremoto en México en menos de dos semanas\nNueva expresión de chilenidad: Hijos de inmigrantes celebran “el 18” con trajes típicos\nCirco chileno: Su historia contada en imágenes\nHabitantes de Florida vuelven a sus casas tras huracán y comienzan ardua reconstrucción\nBandera chilena: ¿Por qué en los campamentos todas las casas tienen una?\nEstados Unidos amanece con los destrozos causados por huracán Irma\nRepasa la ruta y consecuencias del huracán Irma\nEl amanecer tras el terremoto en México\nTerremoto de 8,2 grados de magnitud sacude el sur de México\nRevive los primeros días de la visita del Papa Francisco a Colombia en medio de su proceso de paz\nFlorida se prepara para la llegada del huracán Irma\nLos daños que dejó el Huracán Irma tras su paso por la isla de San Martín\nEl destino de las estatuas de Lenin en Ucrania tras su prohibición\nLa gran devastación que ha provocado \"el mayor incendio de la historia\" de Los Ángeles\nEl mar chileno como nunca antes lo habías visto, revelado por National Geographic\nBurning Man, el extraño festival hippie al que acuden millonarios para renovar su espíritu\nLa peregrinación anual de los musulmanes hasta La Meca\nLa vida de Diana en imágenes: recordando a la princesa de Gales a 20 años de su muerte\nLas imágenes que han dejado 16 años de guerra en Afganistán\nLos estragos que las bolsas plásticas causaron en Kenia y que motivaron su prohibición\nLos criaderos de \"zorros monstruosos\" de Finlandia que indignan al mundo\nCorea del Sur responde a las provocaciones de su vecino con un poderoso despliegue militar",
+      "image_captions": []
+    }
+  ],
+  "evidence_count": 3,
+  "crawled_at": "2026-04-23T17:59:26.277446+00:00"
+}

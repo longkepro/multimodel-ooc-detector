@@ -1,0 +1,99 @@
+{
+  "sample_id": "true_330",
+  "image_url": "https://pbs.twimg.com/media/DKt7PqTXkAA-g02?format=jpg&name=900x900",
+  "visual_entities": [
+    {
+      "description": "Jugurtha Tableland",
+      "score": 1.7204386
+    },
+    {
+      "description": "Mountain",
+      "score": 0.5437
+    },
+    {
+      "description": "Tree",
+      "score": 0.4943
+    },
+    {
+      "description": "Mesa",
+      "score": 0.4747
+    },
+    {
+      "description": "Table",
+      "score": 0.3504
+    }
+  ],
+  "best_guess_labels": [
+    "table de jugurtha"
+  ],
+  "similar_image_urls": [
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=826367220138312",
+    "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3873179180942873221",
+    "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3730173287432374407",
+    "https://pbs.twimg.com/media/GO3hXboWcAAKZPG.jpg",
+    "https://pbs.twimg.com/media/ExzoQ8RWQAQ41jH.jpg",
+    "https://pbs.twimg.com/media/G2aerRzXAAAeHYt.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2570452486636294",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=24768619539462872",
+    "https://www.tiktok.com/api/img/?itemId=7447154221067128072&location=3&aid=1988&index=2",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2228142627254906"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.sloweurope.com/community/media/jugurthas-table-ruins-of-old-settlement.9749/",
+      "page_title": "Jugurtha's Table - ruins of old settlement | Slow Europe Travel Forums",
+      "title": "Jugurtha's Table - ruins of old settlement",
+      "description": "",
+      "text": "Follow along with the video below to see how to install our site as a web app on your home screen.\nNote: This feature may not be available in some browsers.",
+      "image_captions": [
+        "Slow Europe Travel Forums",
+        "Jugurtha's Table - ruins of old settlement",
+        "Jugurtha's Table - marabout",
+        "Jugurtha's Table - cave dwellings",
+        "Approach to Jugurtha's Table"
+      ]
+    },
+    {
+      "url": "https://www.sloweurope.com/community/media/jugurthas-table-view-to-the-north-west.9758/",
+      "page_title": "Jugurtha's Table - view to the north west | Slow Europe Travel Forums",
+      "title": "Jugurtha's Table - view to the north west",
+      "description": "",
+      "text": "Follow along with the video below to see how to install our site as a web app on your home screen.\nNote: This feature may not be available in some browsers.",
+      "image_captions": [
+        "Slow Europe Travel Forums",
+        "Jugurtha's Table - view to the north west",
+        "Jugurtha's Table - view to the north",
+        "Jugurtha's Table - view to the west",
+        "Jugurtha's Table - game carved in the rock"
+      ]
+    },
+    {
+      "url": "https://sloweurope.com/community/media/jugurthas-table-ruins-of-old-settlement.9751/",
+      "page_title": "Jugurtha's Table - ruins of old settlement | Slow Europe Travel Forums",
+      "title": "Jugurtha's Table - ruins of old settlement",
+      "description": "",
+      "text": "Follow along with the video below to see how to install our site as a web app on your home screen.\nNote: This feature may not be available in some browsers.",
+      "image_captions": [
+        "Slow Europe Travel Forums",
+        "Jugurtha's Table - ruins of old settlement",
+        "Plateau on top of Jugurtha's Table",
+        "Jugurtha's Table - inside the marabout",
+        "Jugurtha's Table - marabout"
+      ]
+    },
+    {
+      "url": "https://www.linkedin.com/posts/drrpsaini_the-jugurtha-tableland-in-tunisia-is-a-striking-activity-7446955040734535680-0ezH",
+      "page_title": "Dr. Ravinder Pall Saini's Post - LinkedIn",
+      "title": "The Jugurtha Tableland in Tunisia is a striking natural mesa that rises about 2,000 feet (600 meters) above the plains, stretching roughly 1,500 meters long and 500 meters wide. Some alternative… | Dr. Ravinder Pall Saini",
+      "description": "The Jugurtha Tableland in Tunisia is a striking natural mesa that rises about 2,000 feet (600 meters) above the plains, stretching roughly 1,500 meters long and 500 meters wide. Some alternative theories speculate that such formations may be ancient petrified tree stumps due to their flat tops and vertical structures. While this idea is not scientifically supported, the mesa's impressive scale and structure certainly inspire imaginative geological interpretations.",
+      "text": "The Jugurtha Tableland in Tunisia is a striking natural mesa that rises about 2,000 feet (600 meters) above the plains, stretching roughly 1,500 meters long and 500 meters wide. Some alternative theories speculate that such formations may be ancient petrified tree stumps due to their flat tops and vertical structures. While this idea is not scientifically supported, the mesa's impressive scale and structure certainly inspire imaginative geological interpretations.\nIt is looking lot like tree fossil",
+      "image_captions": [
+        "View profile for Dr. Ravinder Pall Saini",
+        "No alternative text description for this image",
+        "Dr. Ravinder Pall Saini"
+      ]
+    }
+  ],
+  "evidence_count": 4,
+  "crawled_at": "2026-04-23T19:04:38.186020+00:00"
+}

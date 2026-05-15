@@ -1,0 +1,114 @@
+{
+  "sample_id": "true_204",
+  "image_url": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2015/03/rabbit_testing.jpg",
+  "visual_entities": [
+    {
+      "description": "Angora rabbit",
+      "score": 1.0065552
+    },
+    {
+      "description": "Animal testing",
+      "score": 0.7397
+    },
+    {
+      "description": "Testing cosmetics on animals",
+      "score": 0.7081
+    },
+    {
+      "description": "Cruelty-free",
+      "score": 0.6982
+    },
+    {
+      "description": "Rabbit",
+      "score": 0.6475
+    },
+    {
+      "description": "Cruelty to animals",
+      "score": 0.509
+    },
+    {
+      "description": "",
+      "score": 0.4232
+    },
+    {
+      "description": "L'Oréal",
+      "score": 0.4232
+    },
+    {
+      "description": "vegan cosmetics",
+      "score": 0.3764
+    },
+    {
+      "description": "Neutering",
+      "score": 0.3694
+    }
+  ],
+  "best_guess_labels": [
+    "makeup animal testing"
+  ],
+  "similar_image_urls": [
+    "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2015/03/rabbit_testing.jpg",
+    "https://mediaproxy.snopes.com/width/600/https://media.snopes.com/2015/03/rabbit_testing.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10216287282833132",
+    "https://annorlundararing.wordpress.com/wp-content/uploads/2012/08/320507_223514084367079_100001254683265_704893_4689182_n_173053821.jpg?w=640",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=998760336994310",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=581511557322164",
+    "https://b.thumbs.redditmedia.com/7F6WIX7ixrOOaVyyGa7ukx0yWHHgVTHL-Lkutsgu9ho.jpg",
+    "https://assets.change.org/photos/7/dm/ns/aPDmNsNwcmlyaZU-800x450-noPad.jpg?1618599740",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=869158199839258",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10221370815365218"
+  ],
+  "evidence": [
+    {
+      "url": "https://speakingofresearch.com/2017/05/16/context-matters-how-a-veterinary-image-became-cruel-animal-testing/",
+      "page_title": "Context matters: How a veterinary image became “cruel animal ...",
+      "title": "Context matters: How a veterinary image became “cruel animal testing”",
+      "description": "Recently, a photo depicting a rabbit with pretty serious hair loss was tweeted by an image sharing Twitter account, and then retweeted over 4,300 times. The photo appears quite shocking, and the po…",
+      "text": "Recently, a photo depicting a rabbit with pretty serious hair loss was tweeted by an image sharing Twitter account, and then retweeted over 4,300 times. The photo appears quite shocking, and the post by the Twitter account reflected that.\nUber_Pix has written, in all caps: “NEVER WANTED A PIC TO SPREAD MORE IN MY LIFE”. The image is a screenshot of a post with comments from Tumblr, where the user “the_vegan_mothership” writes:\n“This is a bunny at L’oreal lab. L’oreal does a lot of cruel needless animal testing. Please don’t buy products made by L’oreal. The more products they sell, the more animals are tortured.”\nTwitter users saw this image and were shocked. Many upset responses resulted:\nThe problem with the shared image is that the origin is just not true. The image is definitely that of a rabbit suffering from hair loss, but the image comes from a Florida veterinary clinic’s website. The image was posted to the clinic website to illustrate some of the cases they have dealt with in rabbits and other less common mammalian pets that the clinic sees.\nThe rabbit is suffering from an ear mite infection, caused by the parasite Psoroptes cuniculi. The rabbit in the photo actually appears to be on the (long) road to recovery, as the commonly seen thick scales usually present in an infection that has spread this badly have cleared up. When an ear mite infection goes untreated, it can easily spread to the neck, abdomen, and limbs, as seen with this rabbit.\nEar mites in rabbits are commonly treated with a potent but effective drug called Ivermectin, which kills the mites as they take blood meals from the treated host. Ivermectin itself is a fascinating drug, discovered by an international team of scientists, working with isolates from Japanese soil microorganisms. While Ivermectin is a very commonly used antiparasitic medication in veterinary medicine, it is also considered a “wonder drug” in human medicine, improving the lives of millions of people in the developing world who suffer from neglected tropical diseases.\nWhen shocking images such as this one appear, it is very easy to get caught up in the emotion of the moment and want to react and share with your social media circles. However, it is important that we try our best to check sources, look for the origins of a photo, or get a second opinion. This rabbit image has been making its rounds on the internet since 2013, with the claims that the rabbit is a “victim” of animal testing. L’Oreal even responded to the claim, stating that they no longer test their products, or ingredients on animals, and that they do not contract the testing out to other facilities, either. The exception being for parts of the world where such testing is mandated by law (e.g. China). However, they are also actively working with nations where testing is required by law, in order to find suitable alternatives.\nKeep in mind as well, what the real purpose is of Twitter accounts such as @Uber_Pix. These image “scrapers” actively take images and videos off of social media, strip the credit from them, and re-upload them in order to gain as much traffic, subscribers, and click-through as possible. Why do they do this? To spam subscribers with ads, to sell stuff. Don’t give them the time of day.\nThis is not the first time we have seen images repurposed to tell a story fitting the animal rights agenda. In 2014, we noticed a picture of cats tied to boards was being described as animal testing when in fact it was cats being prepared for spay and neuter in order to be adopted out.\nIn both cases, thousands of internet users have been tricked by someone who is willing to lie to create a false case against animal research. Next time you see an image criticizing “cruel animal testing”, try to find the original image source, and make sure you’ve got the full context of the picture before you click to retweet!\nChristine",
+      "image_captions": [
+        "Click image to go to page",
+        "This picture was usedto misrepresent animal research",
+        "Uber_Pix - animal testing rabbit"
+      ]
+    },
+    {
+      "url": "https://www.snopes.com/tag/animal-testing/",
+      "page_title": "Animal Testing Articles | Snopes.com",
+      "title": "Escaped monkeys in Mississippi 'aren't infectious,' Tulane University says",
+      "description": "",
+      "text": "Snopes\nNow available in the app store!\nOpen\nLog in to activate your ad-free access.\nIt looks like you might have a Snopes membership! Log in to enjoy your ad-free experience.\nLog In\nYou're browsing with fewer ads for the next 24 hours, thanks to our sponsor\n1440 Newsletter\n.\nLearn More\nSnopes Membership\nSearch\nMy Profile\nLogout\nSubmit a Rumor\nLatest\nTrending\nNews & Politics\nEntertainment\nFact Checks\nQuiz\nSections\nLatest\nTrending\nFact Checks\nNews\nCollections\nMore\nContact Us\nSubmit a Rumor\nArchives\nQuiz\nFactBot\nSubmit a Tip\nSnopes App\nNewsletters\nAbout Us\nCategories\nNews & Politics\nEntertainment\nScience & Technology\nLifestyle\nSnopes Membership\nLogin\nMy Profile\nLogout\nDonald Trump\nAI-generated Content\nPope Leo XIV\nJeffrey Epstein\nMelania Trump\nanimal testing\nEscaped monkeys in Mississippi 'aren't infectious,' Tulane University says\nWritten by:\nLaerke Christensen\nOct. 29, 2025\nThe driver of the crashed truck reportedly told local law enforcement the monkeys were dangerous ...\nRead More\nTrump's NIH director said agency 'got rid' of all beagle experiments on campus. Here's what we know\nWritten by:\nLaerke Christensen\nMay 6, 2025\nAnimal welfare groups had long accused the National Institutes of Health of killing thousands of ...\nRead More\nAllegations Shri Thanedar abandoned animals at testing lab resurfaced after attempt to impeach Trump\nWritten by:\nLaerke Christensen\nMay 1, 2025\nA business management consulting firm took over running six of Thanedar's companies in 2010 afte ...\nRead More\nInvestigating whether Trump revived a promise to end animal testing at the EPA\nWritten by:\nRae Deng\nApril 16, 2025\nA deadline to end animal testing set in Trump's first term applied only to certain creatures.\nRead More\nDid Fauci Spend Taxpayer Dollars on 'Cruel and Unnecessary' Tests on Beagles?\nWritten by:\nMadison Dapcevich\nAug. 18, 2021\nAllocated government funds for the experiments reportedly totaled more than $1.8 million.\nRead More\nDoes a Video Show an Abused Monkey at a L'Oreal Animal Testing Facility?\nWritten by:\nDan Evon\nMarch 16, 2017\nA video showing an injured monkey was shared along with the false claim that the animal was inju ...\nRead More\nL'Oreal Beagle Testing\nWritten by:\nKim LaCapria\nMay 26, 2016\nA viral Facebook image purportedly depicts a beagle blinded by L'Oreal cosmetics testing, but th ...\nRead More\nAnimal Testing Conducted by MAC Cosmetics?\nWritten by:\nDan Evon\nFeb. 26, 2016\nThe photograph actually shows a mass spaying and neutering event at the University of Florida — ...\nRead More\nIs This a Picture of a Bunny at a L'Oreal Animal Testing Lab?\nWritten by:\nDavid Mikkelson\nMarch 17, 2015\nAn heart-rending image of a rabbit was deceptively repurposed for use in a protest against anima ...\nRead More\nPage: 1",
+      "image_captions": [
+        "Clothing, Apparel, Coat"
+      ]
+    },
+    {
+      "url": "https://www.snopes.com/fact-check/animal-testing-image/",
+      "page_title": "Is This a Picture of a Bunny at a L'Oreal Animal Testing Lab? - Snopes",
+      "title": "Is This a Picture of a Bunny at a L'Oreal Animal Testing Lab?",
+      "description": "Rumor: Photograph depicts a rabbit subjected to animal testing at the L'Oreal cosmetic company's labs.",
+      "text": "In early 2013 an image of a suffering rabbit began to circulate online accompanied by a claim attributing the animal's visibly poor health to laboratory testing conducted by the L'Oreal cosmetics and beauty company.\nA version of the picture was posted to Twitter in February 2013, and in April 2013 the rabbit photo and rumor circulated on Tumblr and was also posted to Reddit:\nThis bunny at a L'Oreal Lab. I will not buy any #L'Oreal products anymore! pic.twitter.com/XV2LE0AG\n— jose (@jjose1202) February 9, 2013\nWhen the photograph and claim spread across several social networks including Facebook in March 2015, L'Oreal responded on their own Facebook page, explaining that their cosmetics were never tested on animals except for instances in which such tests are mandated by law:\nThanks for the opportunity to clarify. L'Oreal no longer tests any of its products or any of its ingredients on animals, anywhere in the world. Nor does L'Oreal delegate this task to others. An exception could only be made if regulatory authorities demanded it for safety or regulatory purposes. You can read more about our policy here:\nAs for the rabbit pictured, the condition it was suffering from was not induced through the cruelty of commercial product testing. The photograph originated with a Florida veterinarian's office and was originally published by the clinic as an example of a case of ear mites (Psoroptes cuniculi) which they had treated.",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.snopes.com/tag/loreal/",
+      "page_title": "L'Oréal Articles | Snopes.com",
+      "title": "Did L'Oréal Release a Statement Critiquing the 'Violent' White Race?",
+      "description": "",
+      "text": "Snopes\nNow available in the app store!\nOpen\nLog in to activate your ad-free access.\nIt looks like you might have a Snopes membership! Log in to enjoy your ad-free experience.\nLog In\nYou're browsing with fewer ads for the next 24 hours, thanks to our sponsor\n1440 Newsletter\n.\nLearn More\nSnopes Membership\nSearch\nMy Profile\nLogout\nSubmit a Rumor\nLatest\nTrending\nNews & Politics\nEntertainment\nFact Checks\nQuiz\nSections\nLatest\nTrending\nFact Checks\nNews\nCollections\nMore\nContact Us\nSubmit a Rumor\nArchives\nQuiz\nFactBot\nSubmit a Tip\nSnopes App\nNewsletters\nAbout Us\nCategories\nNews & Politics\nEntertainment\nScience & Technology\nLifestyle\nSnopes Membership\nLogin\nMy Profile\nLogout\nDonald Trump\nAI-generated Content\nPope Leo XIV\nJeffrey Epstein\nMelania Trump\nL'Oréal\nDid L'Oréal Release a Statement Critiquing the 'Violent' White Race?\nWritten by:\nNur Ibrahim\nJune 16, 2020\nThe message went viral in June 2020, resulting in the hashtag #boycottloreal.\nRead More\nDoes a Video Show an Abused Monkey at a L'Oreal Animal Testing Facility?\nWritten by:\nDan Evon\nMarch 16, 2017\nA video showing an injured monkey was shared along with the false claim that the animal was inju ...\nRead More\nL'Oreal Beagle Testing\nWritten by:\nKim LaCapria\nMay 26, 2016\nA viral Facebook image purportedly depicts a beagle blinded by L'Oreal cosmetics testing, but th ...\nRead More\nIs This a Picture of a Bunny at a L'Oreal Animal Testing Lab?\nWritten by:\nDavid Mikkelson\nMarch 17, 2015\nAn heart-rending image of a rabbit was deceptively repurposed for use in a protest against anima ...\nRead More\nPage: 1",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.snopes.com/latest/?pagenum=1255",
+      "page_title": "What's New | Page 1255 | Snopes.com",
+      "title": "Is This a Real Dragon Shot Dead in Malaysia?",
+      "description": "All the latest rumors, urban legends, myths and misinformation gathered together in one nifty list.",
+      "text": "Snopes\nNow available in the app store!\nOpen\nLog in to activate your ad-free access.\nIt looks like you might have a Snopes membership! Log in to enjoy your ad-free experience.\nLog In\nYou're browsing with fewer ads for the next 24 hours, thanks to our sponsor\n1440 Newsletter\n.\nLearn More\nSnopes Membership\nSearch\nMy Profile\nLogout\nSubmit a Rumor\nLatest\nTrending\nNews & Politics\nEntertainment\nFact Checks\nQuiz\nSections\nLatest\nTrending\nFact Checks\nNews\nCollections\nMore\nContact Us\nSubmit a Rumor\nArchives\nQuiz\nFactBot\nSubmit a Tip\nSnopes App\nNewsletters\nAbout Us\nCategories\nNews & Politics\nEntertainment\nScience & Technology\nLifestyle\nSnopes Membership\nLogin\nMy Profile\nLogout\nDonald Trump\nAI-generated Content\nPope Leo XIV\nJeffrey Epstein\nMelania Trump\nWhat's New\nThe latest fact checks and original reporting from Snopes' editorial team.\nIs This a Real Dragon Shot Dead in Malaysia?\nWritten by:\nDavid Mikkelson\nApril 1, 2015\nFauxtography: Images allegedly show a dragon with fluffy white rabbit fur that was shot dead in ...\nRead More\nWhen 'Dennis the Menace' Created a Racial Controversy\nWritten by:\nDavid Mikkelson\nMarch 31, 2015\nThe portrayal of a Black character in a \"Dennis the Menace\" cartoon prompted outbursts of violen ...\nRead More\nHas Animal Testing Resumed for Avon, Mary Kay, and Estée Lauder?\nWritten by:\nSnopes Staff\nMarch 31, 2015\nAnimal testing for cosmetics is a hot topic in the beauty industry, with some consumers deciding ...\nRead More\nBaby Killed by Electric Shock from Cord\nWritten by:\nDavid Mikkelson\nMarch 31, 2015\nRumor: Image depicts a toddler who was electrocuted after playing with an electrical cord.\nRead More\nNew Study Shows Liberals Have a Lower Average IQ Than Conservatives\nWritten by:\nDavid Mikkelson\nMarch 31, 2015\nRumor: A new Harvard study has shown that liberals have a lower average IQ than conservatives.\nRead More\nAre the Disciples of the New Dawn a Legitimate Facebook Group?\nWritten by:\nDavid Mikkelson\nMarch 31, 2015\nRumor: The Disciples of the New Dawn are a legitimate Facebook group.\nRead More\nDo Canine Carry Outs Contain 'Anti-Freeze' That Is 'Poison' to Dogs?\nWritten by:\nSnopes Staff\nMarch 30, 2015\nConsumers continue to be confused by misinformation about entries in ingredients labels.\nRead More\nHerb Carlyle Predator Warning\nWritten by:\nDavid Mikkelson\nMarch 30, 2015\nRumor: A convicted sex offender named Herb Carlyle is using social media sites to interact with ...\nRead More\nMastoiditis\nWritten by:\nDavid Mikkelson\nMarch 30, 2015\nRumor: Parents should watch for signs of mastoiditis after their children develop ear infections.\nRead More\nMitt Romney: Michelle Obama Is First Woman, Not First Lady\nWritten by:\nDavid Mikkelson\nMarch 30, 2015\nRumor: Mitt Romney said Michelle Obama should be called the 'First Woman' rather than the 'First ...\nRead More\nClapping Fetus Video\nWritten by:\nDavid Mikkelson\nMarch 30, 2015\nFauxtography: An ultrasound video shows an unborn child clapping along to music.\nRead More\nDo CFL Light Bulbs Emit Harmful Levels of Radiation?\nWritten by:\nDan Evon\nMarch 29, 2015\nCFL light bulbs are claimed to be dangerous compared to conventional incandescent bulbs because ...\nRead More\nInhuman Handprint\nWritten by:\nDavid Mikkelson\nMarch 29, 2015\nFauxtography: Photograph purportedly shows an unnaturally large handprint left on the window of ...\nRead More\nIs This Photo of an 'Inhuman' Handprint Left on a Window Real?\nWritten by:\nDavid Mikkelson\nMarch 29, 2015\nThis creepy picture is often used to illustrate a fictional story about a missing college studen ...\nRead More\nMarcus Bachmann Refused Service in Indiana, Store Owner Assumed He Was Gay\nWritten by:\nDavid Mikkelson\nMarch 28, 2015\nRumor: Marcus Bachmann was refused service at an Indiana dress boutique because the store owner ...\nRead More\nCharge Your Phone Using Body Electricity\nWritten by:\nDavid Mikkelson\nMarch 27, 2015\nRumor: You can recharge your cell phone using body electricity.\nRead More\nTed Cruz Said Americans Should Pray Sickness Away?\nWritten by:\nDavid Mikkelson\nMarch 26, 2015\nRumor: Ted Cruz said in a CPAC speech that diseases such as AIDS and cancer can be eradicated th ...\nRead More\nIs Ted Cruz Ineligible for Obamacare?\nWritten by:\nDan Evon\nMarch 26, 2015\nPresident Obama supposedly signed an executive order preventing Ted Cruz from signing up for Oba ...\nRead More\nIndy 500 Cancelled Due to Indian's New Anti-Gay Law\nWritten by:\nDavid Mikkelson\nMarch 26, 2015\nRumor: The Indianapolis 500 has been cancelled and moved to Florida due to Indiana's passage of ...\nRead More\nTed Cruz\nWritten by:\nDavid Mikkelson\nMarch 25, 2015\nA collection of political pieces about Ted Cruz.\nRead More\nPrevious\nNext\nPage: 1255",
+      "image_captions": [
+        "Is this a real dead dragon with fluffy white bunny fur?",
+        "Dog with tongue hanging out"
+      ]
+    }
+  ],
+  "evidence_count": 5,
+  "crawled_at": "2026-04-23T17:49:52.690259+00:00"
+}

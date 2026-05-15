@@ -1,0 +1,131 @@
+{
+  "sample_id": "true_228",
+  "image_url": "https://pbs.twimg.com/media/EnNYxEBXEAAOXM8?format=jpg&name=large",
+  "visual_entities": [
+    {
+      "description": "Health care",
+      "score": 0.7152
+    },
+    {
+      "description": "Health professional",
+      "score": 0.7147
+    },
+    {
+      "description": "Nurse",
+      "score": 0.7028
+    },
+    {
+      "description": "Nursing",
+      "score": 0.6696
+    },
+    {
+      "description": "Hospital",
+      "score": 0.6075
+    },
+    {
+      "description": "Patient",
+      "score": 0.5358
+    },
+    {
+      "description": "Health",
+      "score": 0.5177
+    },
+    {
+      "description": "Physician",
+      "score": 0.4944
+    },
+    {
+      "description": "Stace Anaesthetists",
+      "score": 0.4375
+    },
+    {
+      "description": "Health education",
+      "score": 0.3689
+    },
+    {
+      "description": "Anesthesiologist",
+      "score": 0.3561
+    },
+    {
+      "description": "Travel nursing",
+      "score": 0.334
+    },
+    {
+      "description": "Professional",
+      "score": 0.318
+    }
+  ],
+  "best_guess_labels": [
+    "nurse drowning"
+  ],
+  "similar_image_urls": [
+    "https://pbs.twimg.com/media/EnRK6D2XcAAk6lf.jpg",
+    "https://pbs.twimg.com/media/EnW_uJXXMAM2tSv.jpg",
+    "https://media.licdn.com/dms/image/v2/C4E22AQHp2xmo3aBGcw/feedshare-shrink_800/feedshare-shrink_800/0/1605861038093?e=2147483647&v=beta&t=q1SpRMR1U32YCiGzSivzj-ETxhx52YT-q-MGVOtAUCg",
+    "https://media.licdn.com/dms/image/v2/D5622AQEkgbfbxstV9w/feedshare-shrink_800/feedshare-shrink_800/0/1705711307861?e=2147483647&v=beta&t=O9iI5XRxCo8F_bQq0GojBEEEcwZj6b233KIq09oewTg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=4603813512962193",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10226853438422379",
+    "https://pbs.twimg.com/media/EnXW5GUXIAU__hK.jpg",
+    "https://pbs.twimg.com/media/F_ZU8JFXYAAlW41.jpg",
+    "https://media.licdn.com/dms/image/v2/C4D22AQHY6vYaTc8wHA/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1607673166851?e=2147483647&v=beta&t=bDm1u-Bj2qGEH8UJmCfv56lu2CAIOhTLaiGeWnsOK_c",
+    "https://pbs.twimg.com/media/EpL_9V0XIAEbU8k.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://news.yahoo.com/local-nurse-drowning-debt-following-001040701.html",
+      "page_title": "Local nurse drowning in debt following stroke",
+      "title": "Local nurse drowning in debt following stroke",
+      "description": "As a nurse, Rhonda Radcliffe has spend the last three decades of her life caring for other patients, but when she suffered a stroke earlier this month she became the one in need of care.",
+      "text": "Local nurse drowning in debt following stroke\nUpdated\nAs a nurse, Rhonda Radcliffe has spend the last three decades of her life caring for other patients, but when she suffered a stroke earlier this month she became the one in need of care.\nAs a nurse, Rhonda Radcliffe has spend the last three decades of her life caring for other patients, but when she suffered a stroke earlier this month she became the one in need of care.",
+      "image_captions": [
+        "WTVF - Nashville Scripps",
+        "Download app from App Store",
+        "Download app from Google Play"
+      ]
+    },
+    {
+      "url": "https://www.wymt.com/2024/06/26/traveling-nurse-drowns-while-visiting-glacier-national-park-after-falling-into-creek/",
+      "page_title": "Traveling nurse drowns while visiting Glacier National Park after ...",
+      "title": "Traveling nurse drowns while visiting Glacier National Park after falling into creek",
+      "description": "Authorities say a 26-year-old woman drowned after falling into a creek at a national park in Montana over the weekend.",
+      "text": "Traveling nurse drowns while visiting Glacier National Park after falling into creek\nWEST GLACIER, Mont. (Gray News) - Authorities say a 26-year-old woman drowned after falling into a creek at a national park in Montana over the weekend.\nAccording to the National Park Service, the woman slipped on slick rocks and fell into Virginia Creek between St. Mary Falls and Virginia Falls at Glacier National Park on Sunday.\nThe woman, later identified as Gillian Tones, was quickly swept up by cold, fast-moving water and went over a series of smaller waterfalls before being pinned underwater by a log for several minutes.\nAuthorities said other park visitors helped pull her out of the water but despite resuscitation efforts from rescuers and first responders, Tones was pronounced dead at about 7 p.m.\nFamily members told WTAE that Tones was a free spirit and worked as a traveling nurse, earning an award for her work.\n“She was a truly bright light in the lives of everyone who had the privilege of knowing her. Her presence radiated warmth and positivity. She had an uncanny ability to lift the spirits of those around her,” loved ones shared through a GoFundMe. “Her compassion and empathy knew no bounds. She was always willing to lend a helping hand and listening ear.”\nPark officials thanked first responders and the other park visitors for their help that day.\nOfficials also extended their “deepest condolences” to the Tones family.\nCopyright 2024 Gray Media Group, Inc. All rights reserved.",
+      "image_captions": [
+        "Gillian Tones, 26, drowned after falling into a creek at Glacier National Park in Montana.(GoFundMe | Glacier National Park Service via MGN)",
+        "Gillian Tones, 26, drowned after falling into a creek at Glacier National Park in Montana.",
+        "Kayla Reffett’s daughter, Ella Reffett, last heard her mother’s voice March 29 when she came...",
+        "Man charged with animal cruelty after dog shooting report",
+        "Deputies with the Laurel County Sheriff’s Office are investigating the death of a London man..."
+      ]
+    },
+    {
+      "url": "https://www.wibw.com/2024/06/26/traveling-nurse-drowns-while-visiting-glacier-national-park-after-falling-into-creek/",
+      "page_title": "Traveling nurse drowns while visiting Glacier National Park after ...",
+      "title": "Traveling nurse drowns while visiting Glacier National Park after falling into creek",
+      "description": "Authorities say a 26-year-old woman drowned after falling into a creek at a national park in Montana over the weekend.",
+      "text": "Traveling nurse drowns while visiting Glacier National Park after falling into creek\nWEST GLACIER, Mont. (Gray News) - Authorities say a 26-year-old woman drowned after falling into a creek at a national park in Montana over the weekend.\nAccording to the National Park Service, the woman slipped on slick rocks and fell into Virginia Creek between St. Mary Falls and Virginia Falls at Glacier National Park on Sunday.\nThe woman, later identified as Gillian Tones, was quickly swept up by cold, fast-moving water and went over a series of smaller waterfalls before being pinned underwater by a log for several minutes.\nAuthorities said other park visitors helped pull her out of the water but despite resuscitation efforts from rescuers and first responders, Tones was pronounced dead at about 7 p.m.\nFamily members told WTAE that Tones was a free spirit and worked as a traveling nurse, earning an award for her work.\n“She was a truly bright light in the lives of everyone who had the privilege of knowing her. Her presence radiated warmth and positivity. She had an uncanny ability to lift the spirits of those around her,” loved ones shared through a GoFundMe. “Her compassion and empathy knew no bounds. She was always willing to lend a helping hand and listening ear.”\nPark officials thanked first responders and the other park visitors for their help that day.\nOfficials also extended their “deepest condolences” to the Tones family.\nCopyright 2024 Gray Media Group, Inc. All rights reserved.",
+      "image_captions": [
+        "Gillian Tones, 26, drowned after falling into a creek at Glacier National Park in Montana.(GoFundMe | Glacier National Park Service via MGN)",
+        "Gillian Tones, 26, drowned after falling into a creek at Glacier National Park in Montana.",
+        "Topeka police responded to an incident mid-morning Wednesday in the 600 block of N.E. Grattan...",
+        "\"Storage Wars\" cast member Darrell Sheets attends the A+E Networks 2013 Upfront on Wednesday,...",
+        "A new home for the Kansas City Royals is expected to be announced Wednesday morning."
+      ]
+    },
+    {
+      "url": "https://www.kalb.com/2024/06/26/traveling-nurse-drowns-while-visiting-glacier-national-park-after-falling-into-creek/",
+      "page_title": "Traveling nurse drowns while visiting Glacier National Park after ...",
+      "title": "Traveling nurse drowns while visiting Glacier National Park after falling into creek",
+      "description": "Authorities say a 26-year-old woman drowned after falling into a creek at a national park in Montana over the weekend.",
+      "text": "Traveling nurse drowns while visiting Glacier National Park after falling into creek\nWEST GLACIER, Mont. (Gray News) - Authorities say a 26-year-old woman drowned after falling into a creek at a national park in Montana over the weekend.\nAccording to the National Park Service, the woman slipped on slick rocks and fell into Virginia Creek between St. Mary Falls and Virginia Falls at Glacier National Park on Sunday.\nThe woman, later identified as Gillian Tones, was quickly swept up by cold, fast-moving water and went over a series of smaller waterfalls before being pinned underwater by a log for several minutes.\nAuthorities said other park visitors helped pull her out of the water but despite resuscitation efforts from rescuers and first responders, Tones was pronounced dead at about 7 p.m.\nFamily members told WTAE that Tones was a free spirit and worked as a traveling nurse, earning an award for her work.\n“She was a truly bright light in the lives of everyone who had the privilege of knowing her. Her presence radiated warmth and positivity. She had an uncanny ability to lift the spirits of those around her,” loved ones shared through a GoFundMe. “Her compassion and empathy knew no bounds. She was always willing to lend a helping hand and listening ear.”\nPark officials thanked first responders and the other park visitors for their help that day.\nOfficials also extended their “deepest condolences” to the Tones family.\nCopyright 2024 Gray Media Group, Inc. All rights reserved.",
+      "image_captions": [
+        "Gillian Tones, 26, drowned after falling into a creek at Glacier National Park in Montana.(GoFundMe | Glacier National Park Service via MGN)",
+        "Gillian Tones, 26, drowned after falling into a creek at Glacier National Park in Montana.",
+        "incident in the Hills - Family: “It’s a cover up.”",
+        "Central Louisiana woman’s stage 3 cancer misdiagnosed for years",
+        "\"Storage Wars\" cast member Darrell Sheets attends the A+E Networks 2013 Upfront on Wednesday,..."
+      ]
+    }
+  ],
+  "evidence_count": 4,
+  "crawled_at": "2026-04-23T17:56:15.702205+00:00"
+}

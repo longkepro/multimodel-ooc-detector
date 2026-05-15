@@ -1,0 +1,83 @@
+{
+  "sample_id": "true_243",
+  "image_url": "https://external-preview.redd.it/xPOCTVIk6pc0Hjshe6hU06C8kf3adYvsVG9AIzTJB2g.jpg?auto=webp&s=b60aefeb39f581e71bc7aa8e23410385cfb54cef",
+  "visual_entities": [
+    {
+      "description": "Patriarch Kirill of Moscow",
+      "score": 0.88905
+    },
+    {
+      "description": "Russian Orthodox Church",
+      "score": 0.7078
+    },
+    {
+      "description": "Clergy",
+      "score": 0.6227
+    },
+    {
+      "description": "Priesthood",
+      "score": 0.6161
+    },
+    {
+      "description": "Blessing",
+      "score": 0.558
+    },
+    {
+      "description": "",
+      "score": 0.4881
+    },
+    {
+      "description": "Belief",
+      "score": 0.4601
+    }
+  ],
+  "best_guess_labels": [
+    "priest giving blessing"
+  ],
+  "similar_image_urls": [
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10233657408921533",
+    "https://cms.outrider.org/sites/default/files/styles/hero_lg/public/2022-08/bomb.jpg?itok=cujd1pg5",
+    "https://i.imgur.com/6rRSNmH.jpg",
+    "https://external-preview.redd.it/a-russian-orthodox-priest-baptizing-a-topol-m-nuclear-v0-hZ-4oNPr9yn_GDGh0GCRVwc6PTjJ4uXrl61C4nuAYEU.jpg?auto=webp&s=c2527dad2b432a8f7b9d684127e2a068b91ed5e6",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=4633862469957143",
+    "https://ziua.md/wp-content/uploads/2024/01/preoti-racheta-nucleara.jpg",
+    "https://www.dnevno.hr/wp-content/uploads/2022/05/FSpbufSWAAUYIB4.jpg",
+    "https://demotywatory.pl/uploads/202205/1652859644_auw2sl_fb_plus.jpg",
+    "https://pbs.twimg.com/media/EhpC21BVoAAiOIu.jpg",
+    "https://demotywatory.pl/uploads/202207/1657656021_tp3xw0_fb_plus.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://outrider.org/nuclear-weapons/articles/blessing-bombs-putins-altar-boy-and-twisting-russian-orthodoxy-sanctify",
+      "page_title": "Blessing Bombs, Putin's Altar Boy, and Twisting Russian Orthodoxy ...",
+      "title": "Blessing Bombs, Putin’s Altar Boy, and Twisting Russian Orthodoxy to Sanctify Nuclear War",
+      "description": "Why the Russian Orthodox Church is blessing nuclear weapons in a once-atheistic society",
+      "text": "Why the Russian Orthodox Church is blessing nuclear weapons in a once-atheistic society\nCathleen Falsani is a journalist and author whose specialty is the intersection of religion and culture.",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.answers.com/religion-and-spirituality/What-does-a-priest-typically-say-when-giving-a-blessing",
+      "page_title": "What does a priest typically say when giving a blessing? - Answers",
+      "title": "What does a priest typically say when giving a blessing? - Answers",
+      "description": "A priest typically says \"May God bless you\" or \"May the Lord be with you\" when giving a blessing.",
+      "text": "0\nFreddy Wunsch ∙\nA priest typically says \"May God bless you\" or \"May the Lord be with you\" when giving a blessing.\nAnswerBot",
+      "image_captions": []
+    },
+    {
+      "url": "https://thedispatch.com/article/fact-check-did-russian-orthodox-priests/",
+      "page_title": "Did Russian Orthodox Priests Bless a Missile Named 'Satan'? - Alec ...",
+      "title": "Fact Check: Did Russian Orthodox Priests Bless a Missile Named ‘Satan’?",
+      "description": "A viral photo does show such a blessing, but of a different missile.",
+      "text": "Russia’s military does have missiles nicknamed “Satan.” The RS-28 Sarmat is Russia’s latest and most powerful ICBM, and it has been nicknamed “Satan 2” by the North Atlantic Treaty Organization. The missile was introduced in 2016, and Vladimir Putin announced that Russia had tested one last month. The Satan 2 was preceded by the R-36M, nicknamed SS-18 “Satan” by NATO, an ICBM developed by the Soviet Union.\nIt is also true that Russian Orthodox priests have long had a tradition of blessing weapons of mass destruction and other artifacts of war, though in the past few years officials in the church have considered issuing guidance to cease the blessing of weapons of mass destruction.\nBut the viral picture does not depict the Satan missile. Nor is it from the current Russian invasion of Ukraine. The picture is at least five years old, and in 2019, the Jamestown Foundation, a conservative defense think tank, shared the picture on its website, identifying the missile as a “Topol-M,” a Russian intercontinental ballistic missile.\nWhile this picture does show Russian Orthodox priests blessing a missile, it is not either model of Satan missile, nor is it from the current Russian invasion of Ukraine.\nIf you have a claim you would like to see us fact check, please send us an email at factcheck@thedispatch.com. If you would like to suggest a correction to this piece or any other Dispatch article, please email corrections@thedispatch.com.",
+      "image_captions": [
+        "Fact Check: Did Russian Orthodox Priests Bless a Missile Named ‘Satan’?",
+        "A large crowd of people gathered outdoors among bare trees, with one person holding a sign reading \"earth day every day,\" suggesting an environmental rally or demonstration from the 1970s.",
+        "A large cargo ship silhouetted against an orange sunset passes beneath an industrial steel bridge spanning a calm waterway.",
+        "ADVISORY OPINIONS SITE THUMB (3392 x 1696 px)",
+        "A campaign sign urging \"Vote Yes by April 21st to Level the Playing Field\" from Virginians for Fair Elections is displayed on a residential street where supporters gather near parked cars and homes."
+      ]
+    }
+  ],
+  "evidence_count": 3,
+  "crawled_at": "2026-04-23T18:01:17.453550+00:00"
+}

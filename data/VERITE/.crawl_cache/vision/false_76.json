@@ -1,0 +1,114 @@
+{
+  "sample_id": "false_76",
+  "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302472691-480px.jpg",
+  "visual_entities": [
+    {
+      "description": "Black-capped chickadee",
+      "score": 1.2142351
+    },
+    {
+      "description": "Carolina chickadee",
+      "score": 1.084545
+    },
+    {
+      "description": "Birds",
+      "score": 1.0776
+    },
+    {
+      "description": "Cornell Lab of Ornithology",
+      "score": 1.05765
+    },
+    {
+      "description": "Tufted titmouse",
+      "score": 0.81675
+    },
+    {
+      "description": "Chestnut-backed chickadee",
+      "score": 0.746625
+    },
+    {
+      "description": "American bushtit",
+      "score": 0.72405
+    },
+    {
+      "description": "Chickadee",
+      "score": 0.7051
+    },
+    {
+      "description": "Bird Feeder",
+      "score": 0.7021
+    },
+    {
+      "description": "Project Feederwatch",
+      "score": 0.5639
+    },
+    {
+      "description": "Mésange",
+      "score": 0.4646
+    },
+    {
+      "description": "Birdwatching",
+      "score": 0.4325
+    }
+  ],
+  "best_guess_labels": [
+    "mesange tete noire"
+  ],
+  "similar_image_urls": [
+    "https://www.allaboutbirds.org/guide/assets/photo/302472691-1900px.jpg",
+    "https://i.redd.it/most-reported-bird-species-in-each-us-state-v0-kshirx478u8e1.jpg?width=1800&format=pjpg&auto=webp&s=08f56e3ff1e5b55f1efba3634854b426c967af04",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10233695704443940",
+    "https://i.imgur.com/xeVdJhR.jpg",
+    "https://cdn.download.ams.birds.cornell.edu/api/v2/asset/302472691/900",
+    "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/_v6BvT_foE2h3RbpayWZpg.large.jpg",
+    "https://www.zoocasa.com/blog/wp-content/uploads/2025/06/302472691-720px.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10231996271427740",
+    "https://www.allaboutbirds.org/guide/assets/photo/302472691-720px.jpg",
+    "https://preview.redd.it/most-reported-bird-species-in-each-us-state-v0-kshirx478u8e1.jpg?width=640&crop=smart&auto=webp&s=7c8340b8b9eadf1dfe3aa92e8627d7d8ea51dbf9"
+  ],
+  "evidence": [
+    {
+      "url": "https://ebird.org/species/bkcchi",
+      "page_title": "Black-capped Chickadee Poecile atricapillus - eBird",
+      "title": "Black-capped Chickadee - eBird",
+      "description": "This tiny, plump-bodied, big-headed bird is a familiar woodland resident and backyard visitor in the northern U.S. and Canada. Gray overall with light buffy flanks and a contrasting head pattern: black cap, white cheek, and black throat. Short, stubby bill is used for hammering open seeds. Often the core of mixed flocks of songbirds. Visits feeders. Nearly identical to Carolina Chickadee, but range barely overlaps. Especially note voice, brighter white on wings, and buffier flanks on Black-capped. Beware that hybrids occur frequently in the overlap zone and some are best left unidentified.",
+      "text": "Identification\nThis tiny, plump-bodied, big-headed bird is a familiar woodland resident and backyard visitor in the northern U.S. and Canada. Gray overall with light buffy flanks and a contrasting head pattern: black cap, white cheek, and black throat. Short, stubby bill is used for hammering open seeds. Often the core of mixed flocks of songbirds. Visits feeders. Nearly identical to Carolina Chickadee, but range barely overlaps. Especially note voice, brighter white on wings, and buffier flanks on Black-capped. Beware that hybrids occur frequently in the overlap zone and some are best left unidentified.",
+      "image_captions": [
+        "Adult© Scott MartineBird S34137389Macaulay Library ML 47337851",
+        "Adult© Kyle Tansley",
+        "Adult© Evan Lipton",
+        "Adult© Darlene Friedman",
+        "Adult© Kent McFarland"
+      ]
+    },
+    {
+      "url": "https://www.clearwaterconservancy.org/article/birds-in-your-backyard",
+      "page_title": "Birds in Your Backyard - ClearWater Conservancy",
+      "title": "Birds in Your Backyard",
+      "description": "From the first signs of spring, with the return of robins, to their eggs produced around Easter, spring is synonymous with birds. While some of our spring-time friends are actually here all year, the majority of them migrate huge distances. Many of our classic spring and summer songbirds overwinter in South American forests and make harrowing voyages of thousands of miles every year. They don’t even earn points for free upgrades on all of that flying. Migrations are statistically the most danger",
+      "text": "Birds in Your Backyard\n- Apr 8, 2020\n- 6 min read\nFrom the first signs of spring, with the return of robins, to their eggs produced around Easter, spring is synonymous with birds. While some of our spring-time friends are actually here all year, the majority of them migrate huge distances. Many of our classic spring and summer songbirds overwinter in South American forests and make harrowing voyages of thousands of miles every year. They don’t even earn points for free upgrades on all of that flying. Migrations are statistically the most dangerous time for birds, and everything from glass windows to outdoor cats pose a risk to them during this vulnerable time.\nCentral Pennsylvania is a migratory highway so every action we take has huge impacts on thousands of species of migrating birds. Our many forested ridges and often large patches of unfragmented forests offer an unparalleled avenue for species to make their annual treks. This is one of the many reasons ClearWater works hard to protect and connect these natural landscapes through conservation easements and land transfers to state agencies such as DCNR or the game commission.\nMid-spring often brings the greatest variety of birds to our region with the aforementioned migrations of transients and a majority of our summer residents returning to raise their young. Often times, a species will visit for only a week or two throughout the year, which is why you a bird you see on your back porch on Sunday may be nowhere to be found by Wendesday. This makes identifying these movers a little bit more difficult, but there are many residents you can build a solid repertoire around.\nWith many of the family-oriented birds calling out their territories and attempting to find mates it can make for an ornithological extravaganza. Early morning, right around sunrise, is an excellent time to take an ‘audible adventure’ and rely on your hearing to reveal the many different birds around you. Most song birds are vocal at this time, and tend to quiet down during the day. Late afternoon and early evening can have a resurgence of these displays, but often lack the abundance and urgency that the morning shows offer.\nA good number of these feathered friends visit feeders and can been seen near your home. This makes this week’s adventure a perfect opportunity to explore some of the world right in your backyard. Depending on the exact habitat that surrounds your home you might see any number fo the following bird species. Most of these bird buddies are most easily identifiable by their sounds, as they are often well-camouflaged. A good pair of binoculars or spotting scope is almost essential for some of the smaller species, but for those with a keen eye, there are techniques for finding them amongst multitudes of branches and leaves.\nBird Finding Tips:\n• Try to locate the source of the bird call before looking through binoculars or scopes\n• Keep your eyes looking at the location while raising the binoculars or moving eyepieces\n• Remain quiet and still, patience pays off when watching for birds\n• Have a field guide or birding app nearby to match what you see and hear in real life with illustrations and recordings\n• Mark frequently used pages in field guides or apps to make finding them easier in the moment\n• If bird behaviors change suddenly look for predators like cats or hawks\nBelow are a number of very common birds you might see while exploring your home. Most of these species are here through the summer making them easier to spot as they are almost constantly looking for mates foraging for food.\nAmerican Goldfinch\nThe American goldfinch is one of the brighter common birds you will see hanging around feeders and backyards. They are often found in the mid-story of trees and flitting along edges of woods or lone stands of trees. Their flight call is the most recognizable as they shout poe-tay-toe-CHIP while moving in long, sinusoidal waves.\nAmerican Robin\nAmerican robins are exceedingly common in backyards, but rarely at feeders. Robins like to build their nests in eaves and other alcoves near homes and will only fly a short distance when startled making them easy to observe. On the ground they jump around, rather than walk, lending a small modicum of whimsy to their behavior.\nBlack-Capped Chickadee\nBlack-capped chickadees and their close cousins the Carolina chickadee are beginning to hybridize throughout Pennsylvania due to climate change. While the Carolina variant is still rare, over the coming decades it will become the more dominant species in our area. Chickadees are one of the onomatopoeic birds in that they make a call that resembles their name, often calling chik-a-dee-dee at all times of day. These birds make frequent trips to feeders and will often hang out in small clusters.\nBlue Jay\nBlue jays are the woodland alarm clock. Their piercing, shrill calls are some of the first you will hear in morning. Jays, members of the corvid family of birds, are incredibly smart, often able to recognize people and make plans. Blue jays are bird thugs often forcing out other species if food is nearby, and while they can be found near feeders that also are predators and will hunt smaller birds and animals.\nEuropean Starling\nEuropean starlings, as their names suggest, are not native to Pennsylvania. Originally brought over by Shakespeare enthusiasts, starlings are actually more prolific and better adapted to life here than in their native England. Their multi-colored sheen is due not to pigmentation but actually the diffraction of light on the surface of their feathers, similar to butterflies and bubbles. Starlings are easy to recognize in flight as their tails often make a “rudder” shape making them looking not unlike a fish. They also have a tendency to form murmurations, or large flocks of birds that moving in captivating undulation, when migrating.\nMourning Dove\nMourning doves are very commonly seen in more urban and suburban settings. They love to perch on power lines or other high-vantages and produce a soft call from which they derive their name. When startled they take off in an awkward flutter producing a high-pitched series of chirps. While not common at feeders, they are very common around homes where they build their nests in high, sheltered places.\nNorthern Cardinal\nThe all-season resident, the northern cardinal, produces a variety of calls and songs that can be heard in most places. The males’ bright red also makes them easy to spot, but the softer, rose-coloration of the females is well-suited to tending their nests. Male cardinals are fiercely territorial and will chase away other males from their area and will also try to fight their reflections in things like mirrors and windows.\nSparrows\nThere are a multitude of sparrow species that come to our area in the spring. While house sparrows, like the European starlings, are a non-native species, the other two are common natives. House sparrows, as their name implies, are mostly found near homes and landscaped areas. They will often chase off native species from nest boxes near these locations making the native variants less likely to be seen in suburban settings. Field sparrows, also as the name implies, are common in fields and open spaces like farm fields or meadows. Their calls are very easy to key into once you know what to listen for. The increasing cadence of their song is quite pleasing to listen to and especially so in large numbers. Song sparrows are not found in songs (a break from the naming convention), but in similar habitat to the field variety. They do have a wonderfully playful song that is an absolute delight. Males will often sing in sequence making for a fantastic avian chorus.\nWrens\nWrens are truly underrated birds and while some species don’t have what most would describe as a pleasing call, the Carolina and house varieties have an intricate vocalization. They are wildly different in notes and cadence, but they are similarly high-pitched. Wrens also have a unique body shape with their sharp bills and narrow tails paired with a rather rotund body. Since they are predominantly insectivores, you will rarely see them near feeders, but they are so loud that you can often hear them over many hundreds of yards.\nEach week, ClearWater will deliver your personal guide to explore the outdoors, along with fun things you can do at home to bring the outdoors, inside! Use the form below to sign up and receive weekly exploration guide to the outdoors!!",
+      "image_captions": [
+        "Centred Outdoors Kicks Off 10th Season of Centred Outdoors in April",
+        "ClearWater Conservancy Unveils New Logo Highlighting Community-Centered Conservation",
+        "Newly Preserved Smith Farm Aids in Clean Water and Air; Maintains Working, Scenic Farmland",
+        "Instagram Social Icon"
+      ]
+    },
+    {
+      "url": "https://feederwatch.org/learn/tricky-bird-ids/black-capped-chickadee-and-carolina-chickadee/",
+      "page_title": "Tricky Bird ID: Black-capped Chickadee and Carolina Chickadee",
+      "title": "Tricky Bird ID: Black-capped Chickadee and Carolina Chickadee - Project FeederWatch",
+      "description": "See more Tricky Bird IDsThe Black-capped Chickadee (Poecile atricapillus) and the Carolina Chickadee (Poecile carolinensis) can be confusing species for eastern bird watchers to identify. The ranges of these species do not overlap much, and birds are quite rare any distance outside of their mapped range. For many people, a quick look at a range... Read more »",
+      "text": "Tricky Bird ID: Black-capped Chickadee and Carolina Chickadee\nThe Black-capped Chickadee (Poecile atricapillus) and the Carolina Chickadee (Poecile carolinensis) can be confusing species for eastern bird watchers to identify. The ranges of these species do not overlap much, and birds are quite rare any distance outside of their mapped range. For many people, a quick look at a range map will show which species are most likely to occur at their feeders. But for those who live in the zone of overlap, a fairly stable and narrow band that runs along the east-central United States, the chickadees pose a serious identification challenge. To complicate matters, the species have been known to hybridize in the overlap zone. When identifying these two chickadees, concentrate equally on the differences in plumage and the differences in vocalizations. However, near the zone of overlap, birds have been known to learn each other’s vocalizations, and hybrids tend to deliver odd-sounding variations. A bird located near the zone of overlap that sings both songs, or sings “odd-sounding” songs, cannot be positively identified in the field.\nField Marks\nBlack-capped Chickadee\nA small (avg. 5.25″ long), acrobatic bird with longer tail and (to some observers) a proportionately larger head.\nCarolina Chickadee\nThe smallest (avg. 4.75″” long) North American chickadee with a proportionately smaller head and shorter tail.\nBlack-capped Chickadee\nIn fresh plumage (in the autumn and early spring) the greater wing coverts and secondaries are broadly edged in white, forming what appears to be a long white patch.\nCarolina Chickadee\nThe greater wing coverts are more uniformly grey and show less white, lending a plainer look to the upper parts.\nBlack-capped Chickadee\nMostly white on sides of nape.\nCarolina Chickadee\nMostly greyish on sides of nape.\nBlack-capped Chickadee\nThe lower edge of the black bib is generally less defined than on a Carolina Chickadee and appears uneven.\nCarolina Chickadee\nThe bib is generally smaller, although there is some individual variation in bib size in both species. There is also a neat line of separation between the bib and belly, although this character may be obscured in very worn birds (especially in summer).\nBlack-capped Chickadee\nNoticeable buffy coloration under the wings.\nCarolina Chickadee\nThe cinnamon-buff coloring under the wings is less developed on the Carolina Chickadee (but fresh adults in the northeast part of its range show brighter cinnamon and can be confused with Black-capped).\nBlack-capped Chickadee\nThe outer tail feathers are more broadly edged with white.\nCarolina Chickadee\nLess white on outer tail feathers. Sometimes the tail may appear completely gray.\nLearn More\nMore information about Carolina Chickadees and Black-capped Chickadees can also be found in the Bird Guide of the Lab’s All About Birds web site.\nUnless you live in the area where the ranges of these birds overlap, you can identify your chickadees by location. However, if you are participating in Project FeederWatch and live in or near the overlap zone, please report your chickadees as “Black-capped Chickadee/Carolina Chickadee.”",
+      "image_captions": [
+        "Black-capped Chickadee by Anne Middleton and Carolina Chickadee by Bob Vuxinic",
+        "Black-capped Chickadee by Gord Belyea, Carolina Chickadee by Gary Mueller",
+        "Black-capped Chickadee by Elena Petrcich, Carolina Chickadee by Lisa Barker",
+        "Black-capped Chickadee by Craig Hurst, Carolina Chickadee by Bob Vuxinic",
+        "Black-capped Chickadee by Anthony Nazar, Carolina Chickadee by Marie Lehmann"
+      ]
+    }
+  ],
+  "evidence_count": 3,
+  "crawled_at": "2026-04-23T17:11:34.573261+00:00"
+}

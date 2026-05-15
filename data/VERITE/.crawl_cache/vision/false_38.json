@@ -1,0 +1,107 @@
+{
+  "sample_id": "false_38",
+  "image_url": "https://media.newyorker.com/photos/623ca6e9a82b353c1fb2d765/master/w_2560%2Cc_limit/Amy-KBJ-Hearing.jpg",
+  "visual_entities": [
+    {
+      "description": "Ketanji Brown Jackson",
+      "score": 14.772
+    },
+    {
+      "description": "Josh Hawley",
+      "score": 8.937
+    },
+    {
+      "description": "Supreme Court of the United States",
+      "score": 1.2264451
+    },
+    {
+      "description": "United States presidential nominating convention",
+      "score": 0.68985
+    },
+    {
+      "description": "Amy Coney Barrett",
+      "score": 0.6828
+    },
+    {
+      "description": "Judge",
+      "score": 0.6637
+    },
+    {
+      "description": "Republican National Convention",
+      "score": 0.6105
+    },
+    {
+      "description": "Court",
+      "score": 0.5421
+    },
+    {
+      "description": "Associate Justice of the Supreme Court of the United States",
+      "score": 0.4913
+    },
+    {
+      "description": "",
+      "score": 0.4319
+    },
+    {
+      "description": "C-SPAN Now",
+      "score": 0.4205
+    },
+    {
+      "description": "Politics",
+      "score": 0.4097
+    }
+  ],
+  "best_guess_labels": [
+    "convention"
+  ],
+  "similar_image_urls": [
+    "http://media.newyorker.com/photos/623ca6e9a82b353c1fb2d765/master/pass/Amy-KBJ-Hearing.jpg",
+    "https://media.newyorker.com/photos/623ca6e9a82b353c1fb2d765/3:2/w_2559,h_1706,c_limit/Amy-KBJ-Hearing.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.pbs.org/video/what-are-national-conventions-uucdkb/",
+      "page_title": "What Are National Conventions? - Simple Civics - PBS",
+      "title": "Simple Civics | What Are National Conventions?",
+      "description": "Even politicians like to throw a party!",
+      "text": "Simple Civics\nWhat Are National Conventions?\n7/2/2020 | 2m 44sVideo has Closed Captions\nEven politicians like to throw a party!\nEven politicians like to throw a party! In this episode of Simple Civics, Dr. Terri Jett explores how political parties select nominees at their national conventions.\nProblems playing video? | Closed Captioning Feedback\nProblems playing video? | Closed Captioning Feedback\nSimple Civics is a local public television program presented by WFYI\nSimple Civics\nWhat Are National Conventions?\n7/2/2020 | 2m 44sVideo has Closed Captions\nEven politicians like to throw a party! In this episode of Simple Civics, Dr. Terri Jett explores how political parties select nominees at their national conventions.\nProblems playing video? | Closed Captioning Feedback\nHow to Watch Simple Civics\nSimple Civics is available to stream on pbs.org and the free PBS App, available on iPhone, Apple TV, Android TV, Android smartphones, Amazon Fire TV, Amazon Fire Tablet, Roku, Samsung Smart TV, and Vizio.\n- News and Public Affairs\nTop journalists deliver compelling original analysis of the hour's headlines.\n- News and Public Affairs\nFRONTLINE is investigative journalism that questions, explains and changes our world.\nSupport for PBS provided by:\nSimple Civics is a local public television program presented by WFYI",
+      "image_captions": [
+        "What Are National Conventions?",
+        "Washington Week with The Atlantic",
+        "Compass Points from PBS News",
+        "Horizons from PBS News",
+        "Crash Course Government and Politics"
+      ]
+    },
+    {
+      "url": "https://www.newyorker.com/news/daily-comment/the-republicans-wild-attacks-at-ketanji-brown-jacksons-confirmation-hearing",
+      "page_title": "Republicans Lose It at Ketanji Brown Jackson's Hearing",
+      "title": "The Republicans’ Wild Attacks at Ketanji Brown Jackson’s Confirmation Hearing",
+      "description": "The various moments when the Supreme Court nominee seemed to decide that she was not going to let herself be bullied were fascinating to watch.",
+      "text": "It was Wednesday, the third day of Judge Ketanji Brown Jackson’s confirmation hearings for a seat on the Supreme Court, and Senator Ted Cruz had finally run out of time. Each member of the Judiciary Committee had been given a ten-minute opening statement, a half hour to ask questions in a first round, and twenty minutes more in a second. (Since there are twenty-two committee members, that added up to a marathon.) Cruz had used his time to wave in the air children’s books on a reading list at the private school that one of Jackson’s daughters attends, and where the judge sits on the board, demanding to know whether she thinks “that babies are racist”; asking her to speculate about whether he could sue Harvard if he were to “decide I was an Asian man”; and, most of all, to claim that he had discerned a disturbing “pattern” in the sentences that Jackson had handed down, as a federal judge, in cases involving child pornography. He had brought a chart, with several of the cases listed, on which he made various calculations. He wasn’t getting anywhere—perhaps because Jackson’s sentencing record is not, in fact, radical or outside the mainstream, and also because she had done a good job of standing up to him—but that didn’t stop his hectoring.\nThat was the situation when Senator Dick Durbin, the committee chair, banged his gavel. Cruz gestured as if to wave him away, and demanded more time. “I know you don’t like this line of questioning,” he said. Durbin answered, “I just want you to play by the rules.” He tried to recognize Senator Chris Coons, but Cruz kept at it—“You can bang it as loud as you want!”—with each sentence he directed at Durbin seeming to move to a more accusatory, more conspiratorial, and more irresponsible level: “You don’t want her to answer that question?”; “Why do you not want the American people to know what happened in the Stewart case, or any of these cases?”; and “Apparently, you are very afraid of the American people hearing the answer to that question.”\nTell Ted Cruz to be quiet and he’ll insinuate that you’re part of a scheme to hide the truth about the sexual abuse of children from the American public. As it happens, that is one of the key themes in the QAnon family of conspiracy theories, as Cruz and his fellow-Republicans certainly know. Similarly, they know what they are doing in trying to paint Jackson, who would be the first Black woman on the Court, as someone whose sympathies and loyalties are with criminals, not victims—and who perhaps has some hidden agenda regarding the exploitation of children. There has always been something off-putting, to say the least, about Cruz’s self-important approach to peddling muck, but his performance at the Jackson hearings was sordid even by his standards. (He blithely recited descriptions of the materials in the various cases, for example “sadomasochistic images of infants and toddlers.”) And he was not alone: Senator Josh Hawley had taken an early lead in hyping the question of Jackson’s child-pornography sentencing record, and the Republican senators on the committee jumped in, with most at least referring to that concocted issue.\nCruz and Hawley are both potential 2024 G.O.P. Presidential contenders; the fact that they see this line of attack as an opportunity says something about the current market of ideas in their party. Senator Mitt Romney (who is not on the committee) said, of Hawley’s charge, “There’s no there there.” This doesn’t necessarily mean that he’ll vote for Jackson—he opposed her the last time she was confirmed, for the D.C. Circuit. She will likely be confirmed again, but perhaps without a single Republican vote, requiring Vice-President Kamala Harris’s vote as a tiebreaker.\nThe issue of child-pornography sentences is ripe for bad-faith partisan exploitation for several reasons. It is hard to talk about, or perhaps too easy to speak about demagogically—as when Senator Lindsey Graham, in the hearing, interrupted Jackson to say that he’d be happy to see anybody caught looking at any quantity of child pornography on a computer sent to prison for fifty years—and added, in reference to that criminal behavior itself, “You don’t think that’s a bad thing.” (She noted that, of course, she thinks it’s a horrible thing; she also noted that each of the perpetrators they’d been talking about was someone whom “I sent to jail.”) When Jackson noted that the tools judges have when sentencing include supervised release, Graham expressed amazement that she would think such a measure was “a bigger deterrent . . . versus putting them in jail.” “No, Senator, I didn’t say ‘versus,’ ” Jackson said. “That’s exactly what you said!” Graham responded. (It is not what she said.)\nGraham had prefaced his questioning on Wednesday with an outburst that he said was provoked, oddly enough, by an encounter with Representative Al Green, the Democrat from Texas, who had come to observe. Green had apparently told Graham that he thought an exchange between Jackson and Senator Patrick Leahy that morning had been powerful. (Jackson, who is fifty-one, reflected on the contrast between the constraints that her parents had faced and the opportunities that had been open to her, the “lucky inheritor of the civil-rights dream.” Leahy, who is eighty-one, spoke about how proud he had been the first time he’d voted for a Justice—John Paul Stevens, in 1975—and about how proud he was now, listening to her.) Something about it all didn’t sit well with Graham. And so, with Jackson before him, he mentioned Representative Green’s comment, then demanded to know where Green had been in 2003, when Democrats filibustered the nomination of a conservative Black woman named Janice Rogers Brown to a lower court. (She was eventually confirmed.) “We’re not going to live in an America like that any longer,” he said. It wasn’t quite clear what he was trying to say, although he referred elsewhere to what he portrayed as Democratic excesses in the confirmation hearings for Justices Brett Kavanaugh and Amy Coney Barrett. Mostly, Graham projected a skittish, blinkered notion that Jackson was somehow interchangeable with Janice Rogers Brown. He added—absurdly, given his own approach—“If you’re a person of color, a woman, supported by liberals, it’s pretty easy sailing.” Throughout, Graham, too, interrupted Jackson and cut her off. “I’ve never seen anything like it,” Leahy told reporters afterward. He said that he didn’t know what Graham’s “political motivation” might be, “but to see the badgering of this woman as she’s trying to testify, I thought, was outrageous.”\nOther Republicans also seemed to view Jackson as a convenient focus for their grievances. Marsha Blackburn, of Tennessee, said that the judge had “attacked pro-life women.” The inaccurate basis for this was a brief that Jackson had worked on, while in private practice, regarding a “buffer zone” around an abortion clinic, which described the protesters confronting patients—not pro-life women in general—as “a hostile, noisy crowd.” “When you go to church, and knowing there are pro-life women there, do you look at them, thinking of them in that way, that they’re noisy, hostile, in-your-face?” Blackburn asked. “Do you think of pro-life women like me that way?” (Jackson said she did not.) As expected, Jackson declined to explain her own position on reproductive rights, given that the issue is currently before the Court. (Indeed, there is a good chance that Roe v. Wade will be overturned by the time she takes her seat on the bench.)\nSenators raised a range of issues, including the question of increasing the size of the Court, which Jackson declined to comment on, but the hearings kept returning to sentencing in child-pornography cases, at times because the Democrats wanted to give her room to address the questions without interruptions and innuendo. More than once, Jackson reminded the senators of the “horrific” nature of such cases, how much care she had taken with them, and how hard it was that doing her job meant she had to actually look at the images. She mentioned how she often thought of one victim who suffered from agoraphobia: she was afraid to go outdoors, fearing that people she encountered might have seen her at her most vulnerable. Jackson has several relatives who have worked in law enforcement, including her brother, and she drew on their experience, too. She took on the task of explaining why most federal judges impose sentences in these cases that, on paper, are below the federal sentencing guidelines for child-pornography crimes. The guidelines are badly outdated; to take one example, they were written before computers became the usual venue for transmitting pornography, and thus treat a computer as the sort of aggravating factor associated with extreme cases. Just following one formula can result in outcomes in which the worst crimes don’t get the worst sentences. Congress itself, she reminded the senators, had directed judges to consider other factors, including proportionality, and she had. (“This is our fault?” Graham said.) The perpetrator in one case before her was eighteen years old. Of course, the idea that there might be any gradations of severity—or even gray areas—is alien to today’s Washington. But as Jackson put it, in a strong riposte to Hawley, “Judges are doing the work.”\nThere seemed to be a lack of comprehension on the Republican side about the possible human costs of their hearing strategy. Ten of the Republicans on the committee—all except Senator Ben Sasse—signed a letter that Cruz organized, asking that they be given access to confidential pre-sentencing reports in the child-pornography cases, documents that can contain highly personal information about not only the perpetrators but the victims and their family members, and whose release could do real damage. “I would not want it weighing on my conscience,” Durbin said. “It’s gone way too far.”\nJackson, if she is confirmed, will be the only Justice other than Sotomayor with any experience as a federal trial-court judge. She has other kinds of experience, too, notably as a federal public defender. In that role, she assisted four Guantánamo Bay detainees in filing habeas-corpus petitions—a fact that put both Graham and Senator Tom Cotton into a near frenzy. Graham had ended his first round of questioning, on Tuesday, by storming off in a fit of pique at what he seemed to perceive as a general lack of support for the indefinite, eternal detention of “enemy combatants” on the basis of secret evidence. Cotton—who, in his first round, had demanded to know whether Jackson supported catching “more murderers or fewer murderers”—asked, on Wednesday, if she thought that the country would be more or less safe if all the Guantánamo detainees were released. As Cotton likely knows, of the some seven hundred and eighty people who have passed through the prison, thirty-eight remain; only twelve of these have been charged, and only two have been convicted. Guantánamo has been a failure, legally, practically, and morally. Another contretemps in the hearings came when Senator John Cornyn said that Jackson had called President George W. Bush and former Secretary of Defense Donald Rumsfeld “war criminals”; in fact, they were named as respondents by virtue of their jobs in a petition that she filed on behalf of one of her clients, alleging that he had been tortured in U.S. custody, as some prisoners were. (After President Barack Obama’s Inauguration, he became the named respondent.) The proceedings against the five men charged in the 9/11 attacks (none of whom were Jackson’s clients), who have been in custody for more than fifteen years, have stalled. Earlier this month, Carol Rosenberg and Charlie Savage, of the Times, reported that plea-deal talks are under way.\nJackson had begun to explain some of that history, but when Cotton interrupted to press his point she agreed that it would be safer to have fewer “terrorists out running around attacking our country—absolutely.” She added, “America would also be more safe in a situation in which all of our constitutional rights are protected. This is the way our scheme works. This is the way that the Constitution that we all love operates. It’s about making sure that the government is doing what it’s supposed to do in a time of crisis.” Her Guantánamo work is a prime example of how experiences that may have left her exposed in confirmation hearings will help to equip her as a Justice.\nConfirmation hearings are often said to be shadow plays in which nominees concentrate on giving noncommittal answers. The haranguing, besmirching, and condescension directed at Jackson called for something more. The various moments when she seemed to decide that she was not going to let herself be bullied were fascinating to watch. Facing Cruz, she didn’t just dodge his questioning. She firmly, calmy, smartly pushed him away, rhetorically speaking. (Interestingly, the two of them overlapped on the Harvard Law Review; Jackson, who is a member of Harvard’s Board of Overseers, said that, if confirmed, she planned to recuse herself from a case involving affirmative action and the university.) She took the opportunity to show who both she and Cruz are. And yet, the experience must have been rough.\nEnter Senator Cory Booker, who represents New Jersey but seemed, at this grim juncture—he spoke after Cotton—to have hailed from a magical land of cheer. He reminded Jackson that even National Review had called Hawley’s sentencing attacks baseless “demagoguery”; he held up a letter from a victims’ group in support of her; he listed the police organizations that had endorsed her. He reminded her that the real world was outside the committee room and, he said, “I’m not letting anybody in the Senate steal my joy.” In a fugue-like emotional soliloquy, he reminded her of the victories at every stage of her life, about her family and what her presence on the Court would mean for Black women, with notes mixed in about Beyoncé, Venus Williams, Ginger Rogers, Irish and Chinese immigrants, Stonewall, “my ancestors and yours,” love, astronauts, and Harriet Tubman looking for the North Star in the sky. He told Jackson, “Today, you are my star.” When he finished, she still had five more senators to hear from. She made it through.",
+      "image_captions": [
+        "Ketanji Brown Jackson President Bidens nominee for Associate Justice to the Supreme Court walks by Sen. Ted Cruz during...",
+        "America’s Orange Jesus",
+        "What Was Behind the T.S.A. Meltdown?",
+        "How the Internet Fringe Infiltrated Republican Politics",
+        "At Synagogues, Tensions Are Boiling Over"
+      ]
+    },
+    {
+      "url": "https://ugandacricket.com/?o=41102191021160",
+      "page_title": "Ketanji Brown Supreme Court Hearing Dates Senate To Begin ...",
+      "title": "Home - Cricket Uganda",
+      "description": "",
+      "text": "Bwala SS Poised for First Taste of Sky view Girls Schools Cricket Week International COMPETITIONS Flawless Uganda Crowned Easter T20 Champions with Unbeaten Run Uganda A Completes Easter Women’s T20 Winless But Takes Key Lessons for Future Growth Victoria Pearls Stay Unbeaten with Double Victory at Women’s Easter T20 Cup Different name for SearchSearch DEVELOPMENT Mini Cricket Festivals conclude in Jinja, Masaka, and Mbarara Alibo’s Fifty Inspires Soroti SS’s Dominant Maiden March to the Girls’ Nationals Kampala Mini Cricket Festival lights up Lugogo Cricket Oval Jinja SSS crowned Nile Region Cricket Week Qualifiers Champions Light SS Defeats Olila to Win Eastern Region Girls’ Schools Cricket Week Qualifiers 2026 Magwa Ward Strikers Crowned Champions of Jinja Easter T10 2026 OFFICIAL PARTNERS",
+      "image_captions": [
+        "Bwala SS Poised for First Taste of Sky view Girls Schools Cricket Week",
+        "Flawless Uganda Crowned Easter T20 Champions with Unbeaten Run",
+        "Uganda A Completes Easter Women’s T20 Winless But Takes Key Lessons for Future Growth",
+        "Victoria Pearls Stay Unbeaten with Double Victory at Women’s Easter T20 Cup",
+        "Mini Cricket Festivals conclude in Jinja, Masaka, and Mbarara"
+      ]
+    }
+  ],
+  "evidence_count": 3,
+  "crawled_at": "2026-04-23T16:56:35.237132+00:00"
+}

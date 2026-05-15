@@ -1,0 +1,79 @@
+{
+  "sample_id": "true_157",
+  "image_url": "https://static.toiimg.com/thumb/msid-64287224,width-1280,height-720,resizemode-4/.jpg",
+  "visual_entities": [
+    {
+      "description": "Car",
+      "score": 1.1034
+    },
+    {
+      "description": "Used car",
+      "score": 0.7098
+    },
+    {
+      "description": "Car dealership",
+      "score": 0.7015
+    },
+    {
+      "description": "Cars.com",
+      "score": 0.471
+    },
+    {
+      "description": "Kelley Blue Book",
+      "score": 0.4699
+    },
+    {
+      "description": "Cars.com",
+      "score": 0.4529
+    },
+    {
+      "description": "Sedan",
+      "score": 0.3304
+    },
+    {
+      "description": "Car Talk",
+      "score": 0.3146
+    }
+  ],
+  "best_guess_labels": [
+    "Car"
+  ],
+  "similar_image_urls": [
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1830200483811506",
+    "https://static.toiimg.com/thumb/msid-64287224,width-1280,height-720,resizemode-4/64287224.jpg",
+    "https://media.licdn.com/dms/image/v2/C4D12AQHaDPTfmEixnw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1569776496575?e=2147483647&v=beta&t=01ySpby1HcCj98RGHY5U1uxy6SMlKCfPU_JHNvj5MFs",
+    "https://hindi.cdn.zeenews.com/hindi/sites/default/files/2026/02/05/4344043-b.jpg?im=FitAndFill=(400,300)",
+    "https://static.toiimg.com/thumb/msid-64287224,width-400,resizemode-4/64287224.jpg",
+    "https://myrtlevilleswimmers.com/wp-content/uploads/2019/03/traffic.jpg?w=584",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1686848238044646",
+    "https://d3po9jkuwb69jo.cloudfront.net/media/uploads/2020/10/26/seguro-de-auto-chubb-en-ciudad-de-mexico.png",
+    "https://i.ytimg.com/vi/Hy9MS51plJw/hqdefault.jpg",
+    "https://www.estadao.com.br/resizer/v2/AW2LFOIJI5NNXNEKYFTUV3FEZ4.jpg?quality=80&auth=0d840ab81aab4071ae767569d98333fbe716a73be61c1707b57b54eb3119862b&width=1200&height=675&smart=true"
+  ],
+  "evidence": [
+    {
+      "url": "https://timesofindia.indiatimes.com/viral-news/the-truth-behind-the-viral-post-of-mass-desertion-of-cars-in-germany-due-to-rising-fuel-prices/articleshow/64287184.cms",
+      "page_title": "Viral post of 'mass desertion' of cars in Germany due to rising fuel ...",
+      "title": "Viral post of 'mass desertion' of cars in Germany due to rising fuel prices turns out to be fake - The Times of India",
+      "description": "Viral News News: Although the unique manner of protest did intrigue us, but the facial features of the people in the picture raised some suspicion. Our doubts were tru",
+      "text": "NEW DELHI. Amidst rising fuel prices in India, a fake message is going viral on social media and WhatsApp.\nThe message claims that citizens of Germany staged a protest against fuel price hike in their country by abandoning their cars in the middle of roads, which later forced German government to reduce fuel rates. Even the picture accompanying this viral message shows a number of cars being deserted on a highway, with people standing next to them.\nHowever the photo is not related to any protests whatsoever. In fact, it was taken in 2010, when Chinese citizens had to leave their cars after\ngetting stuck in one of the worst traffic jams ever.How did the truth come out\nAlthough the unique manner of protest did intrigue us, but the facial features of the people in the picture raised some doubts.\nActing on our suspicion, we investigated and found that the photo belonged to China and not Germany, and was clicked when our eastern neighbour was hit by a 100 kilometers long traffic jam.\nRegarded as the mother of all traffic jams ever, the jam slowed down thousands of vehicles and lasted for two weeks.\nThe cause of the traffic jam was reported to be a spike in traffic by heavy trucks heading to Beijing as well as foggy weather.\nBeware of such fake postsIt is possible that even you may have come across this fake message on some social networking platform. It is being circulated in both English and Hindi.\nIn the end, the message says that if citizens of country become united and work intelligently, then no government can dare fool them.\nSuch fake messages are normally circulated with an evil intent to incite public and create civil unrest in the country.\nWe advise our readers to not fall prey to such fishy posts and do due diligence before taking them seriously.",
+      "image_captions": [
+        "Viral post of 'mass desertion' of cars in Germany due to rising fuel prices turns out to be fake"
+      ]
+    },
+    {
+      "url": "https://www.jbtools.com/blog/china-experiences-one-of-the-worlds-worst-traffic-jams/",
+      "page_title": "China Experiences One of the World's Worst Traffic Jams - JB Tools",
+      "title": "China Experiences One of the World's Worst Traffic Jams",
+      "description": "Think your weekday commute is rough? China's G4 Beijing-Hong Kong-Macau Expressway make U.S. highways look like a breeze. Just recently, the G4 experienced one of the world's worst traffic jams of all time. The monumental jam occurred during the country's Golden Week, which is is a national holiday in China that aims to commemorate the founding of People's Republic of China. According to the Telegraph, the traffic jam was caused by a combination of a new checkpoint, the reduction of open lanes from 50 to 20, and foggy weather. Of course, the fact that it was a holiday is likely to have a played a role in the backup as well. Officials said that more than 740 million people -- half of China's population -- were expected to travel over the week as part of the Golden Week celebrations.Many motorists are seen exiting their vehicles as they wait for the traffic to clear. This shouldn't come as a surprise, though, considering that most cars were stuck here for hours.In an interview with reports, Wen Humin, deputy directory of Beijing Transportation Research Centre, revealed that worst days for traffic usually occur during major holidays and bad weather. He goes on to day that traffic jams lasting 3-4 hours, sometimes even longer, are common during peak traffic times around the Chinese capital.\"The worst days are normally when cars with tail numbers of 4 and 9 are banned from entering the city centre. During rainy and bad weather days, or before and after major holidays, traffic congestion is particularly bad. On these days, traffic jams can last more than three to four hours and even longer,\" said Wen Huimin, deputy director of Beijing Transportation Research Centre.Unfortunately, China has yet to find a solution to its traffic problem. And with 1.357 billion residents and counting, experts suggest that it will only become worse in the years to come. Video: Yep, China has the most insane traffic jams in the planet You can check out the massive G4 traffic jam by clicking the play button above. Captured by an aerial drone flying above, the roughly two-minute-long video shows the chaotic scene as thousands of motorists sit bumper to bumper on the G4. So the next time you think your commute is rough, just remember that motorists went through in this video.",
+      "text": "China Experiences One of the World's Worst Traffic Jams\n9th Oct 2015\nThink your weekday commute is rough? China's G4 Beijing-Hong Kong-Macau Expressway make U.S. highways look like a breeze. Just recently, the G4 experienced one of the world's worst traffic jams of all time.\nThe monumental jam occurred during the country's Golden Week, which is is a national holiday in China that aims to commemorate the founding of People's Republic of China. According to the Telegraph, the traffic jam was caused by a combination of a new checkpoint, the reduction of open lanes from 50 to 20, and foggy weather. Of course, the fact that it was a holiday is likely to have a played a role in the backup as well. Officials said that more than 740 million people -- half of China's population -- were expected to travel over the week as part of the Golden Week celebrations.\nMany motorists are seen exiting their vehicles as they wait for the traffic to clear. This shouldn't come as a surprise, though, considering that most cars were stuck here for hours.\nIn an interview with reports, Wen Humin, deputy directory of Beijing Transportation Research Centre, revealed that worst days for traffic usually occur during major holidays and bad weather. He goes on to day that traffic jams lasting 3-4 hours, sometimes even longer, are common during peak traffic times around the Chinese capital.\n\"The worst days are normally when cars with tail numbers of 4 and 9 are banned from entering the city centre. During rainy and bad weather days, or before and after major holidays, traffic congestion is particularly bad. On these days, traffic jams can last more than three to four hours and even longer,\" said Wen Huimin, deputy director of Beijing Transportation Research Centre.\nUnfortunately, China has yet to find a solution to its traffic problem. And with 1.357 billion residents and counting, experts suggest that it will only become worse in the years to come.\nVideo: Yep, China has the most insane traffic jams in the planet\nYou can check out the massive G4 traffic jam by clicking the play button above. Captured by an aerial drone flying above, the roughly two-minute-long video shows the chaotic scene as thousands of motorists sit bumper to bumper on the G4. So the next time you think your commute is rough, just remember that motorists went through in this video.",
+      "image_captions": [
+        "China Experiences One of the World's Worst Traffic Jams",
+        "J & B Tool Sales Incorporated BBB Business Review",
+        "Footer Bottom Logo Right"
+      ]
+    }
+  ],
+  "evidence_count": 2,
+  "crawled_at": "2026-04-23T17:37:09.373506+00:00"
+}

@@ -1,0 +1,62 @@
+{
+  "sample_id": "true_114",
+  "image_url": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2019/01/dunkirk-circle.jpg",
+  "visual_entities": [
+    {
+      "description": "Cam Newton",
+      "score": 3.9285002
+    },
+    {
+      "description": "Dab",
+      "score": 0.7167
+    },
+    {
+      "description": "Migos",
+      "score": 0.4674
+    },
+    {
+      "description": "One Simple Trick",
+      "score": 0.4555
+    },
+    {
+      "description": "Dance move",
+      "score": 0.453
+    },
+    {
+      "description": "Dunkirk",
+      "score": 0.39615
+    },
+    {
+      "description": "Internet meme",
+      "score": 0.3539
+    },
+    {
+      "description": "Photograph",
+      "score": 0.3391
+    },
+    {
+      "description": "Art",
+      "score": 0.3327
+    }
+  ],
+  "best_guess_labels": [
+    "monochrome"
+  ],
+  "similar_image_urls": [
+    "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2019/01/dunkirk-circle.jpg",
+    "https://preview.redd.it/british-soldier-being-evacuated-from-dunkerque-hits-a-spicy-v0-bnhg0oa9k4521.png?width=1080&crop=smart&auto=webp&s=5f1e64ca0392f5b8f17e184acc8e4b68e3330f0b",
+    "https://i.chzbgr.com/full/9717726464/hC8EFBA77/person-time-travelers-are-getting-cocky-now"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.snopes.com/fact-check/worlds-first-dab/",
+      "page_title": "Is This the World's First Dab? | Snopes.com",
+      "title": "Is This the World's First Dab?",
+      "description": "A photograph purportedly captures a soldier doing the dab all the way back in 1932.",
+      "text": "The \"Dab,\" a dance move reportedly created by the group Migos, became a viral phenomena in 2015 after NFL superstars such as Cam Newton started using the move during their end zone celebrations. But according to internet lore, the \"world's first dab\" was performed by a soldier aboard a warship back in 1932:\nAlthough this image has been circulating online for several years, it certainly can't be traced back to the 1930s. This photograph was actually captured in the summer of 2016 and shows a group of extras from the feature film Dunkirk.\nA black-and-white filter was applied to the original image (possibly among several other edits) to make it look as if it were a photograph taken in the 1930s. Here's a side-by-side comparison of the original photograph from the set of the movie& Dunkirk (right) and the edited version (left):\nWe haven't been able to determine who originally took this photograph. However, we did find a video of the Dunkirk dab that was posted by Richard Oost on 11 July 2016. According to Oost (who has several other behind-the-scenes images from Dunkirk on his Facebook page), this picture captured a group of extras entering the Port of Urk in the Netherlands.\nThe viral dab can be glimpsed at the 1:05 mark of the following video:\nIt's unclear where the \"1932\" claim came from, as the movie Dunkirk is based on a real incident from World War II which took place in 1940:",
+      "image_captions": []
+    }
+  ],
+  "evidence_count": 1,
+  "crawled_at": "2026-04-23T17:22:00.321905+00:00"
+}

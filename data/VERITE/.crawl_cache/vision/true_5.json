@@ -1,0 +1,103 @@
+{
+  "sample_id": "true_5",
+  "image_url": "https://i.dailymail.co.uk/i/pix/2014/10/08/1412762091046_wps_20_PIC_BY_SEBASTIAN_WAHLHUET.jpg",
+  "visual_entities": [
+    {
+      "description": "Hammock",
+      "score": 0.7717
+    },
+    {
+      "description": "Tourism",
+      "score": 0.6137
+    },
+    {
+      "description": "Monte Piana",
+      "score": 0.59449506
+    },
+    {
+      "description": "Mountain",
+      "score": 0.5176221
+    },
+    {
+      "description": "Camping",
+      "score": 0.475
+    },
+    {
+      "description": "Travel",
+      "score": 0.4668
+    },
+    {
+      "description": "Recreation",
+      "score": 0.4639
+    },
+    {
+      "description": "Hiking",
+      "score": 0.4458
+    },
+    {
+      "description": "Tourist attractiveness",
+      "score": 0.4428
+    },
+    {
+      "description": "Dolomites",
+      "score": 0.34452003
+    }
+  ],
+  "best_guess_labels": [
+    "tourism"
+  ],
+  "similar_image_urls": [
+    "https://myfin.by/source/1/Lmrj35OT59g67sYemgc-5Ll-d6a9Ufv7.jpg",
+    "http://i.imgur.com/WSpwK5P.jpg",
+    "https://i.dailymail.co.uk/i/pix/2014/10/08/1412762091046_wps_20_PIC_BY_SEBASTIAN_WAHLHUET.jpg",
+    "https://twistedsifter.com/wp-content/uploads/2014/10/highline-hammock-session-monte-piana-by-sebastian-wahlhutter-5.jpg",
+    "http://nilayornek.com/wp-content/uploads/2016/09/MontePiana-Hammock-Wahlhuetter-WEB-7-730x487.jpg",
+    "https://i0.wp.com/www.iurban.in.th/wp-content/uploads/2014/10/IMG_6298.jpg?ssl=1"
+  ],
+  "evidence": [
+    {
+      "url": "https://twistedsifter.com/2014/10/highline-hammock-session-in-the-dolomites/highline-hammock-session-monte-piana-by-sebastian-wahlhutter-5/",
+      "page_title": "highline-hammock-session-monte-piana-by-sebastian-wahlhutter-5",
+      "title": "highline-hammock-session-monte-piana-by-sebastian-wahlhutter-5",
+      "description": "© Sebastian Wahlhuetter Photography | www.walhuetter.net | sebastian@wahlhuetter.net",
+      "text": "October 14, 2014 at 11:12 am\nhighline-hammock-session-monte-piana-by-sebastian-wahlhutter-5\nby twistedsifter\n© Sebastian Wahlhuetter Photography | http://www.walhuetter.net | sebastian@wahlhuetter.net\nCategories:\nNever Miss a Story\nSign up to get our BEST stories of the week straight to your inbox.",
+      "image_captions": [
+        "highline hammock session monte piana by sebastian wahlhutter 5 highline hammock session monte piana by sebastian wahlhutter 5",
+        "highline-hammock-session-monte-piana-by-sebastian-wahlhutter-5",
+        "Woman on the phone stressed about family drama",
+        "car pulling into a disabled parking spot",
+        "rack of wedding dresses"
+      ]
+    },
+    {
+      "url": "https://twistedsifter.com/2014/10/highline-hammock-session-in-the-dolomites/",
+      "page_title": "Highline Hammock Session in the Dolomites - TwistedSifter",
+      "title": "Highline Hammock Session in the Dolomites",
+      "description": "On September 9, 2014, 22 people nestled into 16 hammocks for one epic chillout session. Photographer Sebastian Wahlhütter was on hand to capture the day’s events which took place on Mo…",
+      "text": "Highline Hammock Session in the Dolomites\nby twistedsifter\nOn September 9, 2014, 22 people nestled into 16 hammocks for one epic chillout session. Photographer Sebastian Wahlhütter was on hand to capture the day’s events which took place on Monte Piana, in the famous Dolomites mountain range of northeastern Italy.\nIn a recent blog post, Wahlhütter explains:\nThis special set up was rigged with 1,000 kg of pre-tension and reached 2,350 kg of total work load after 22 people in 16 hammocks volunteered for this epic session… The setup was a 50m (164 ft) double line with two additional static ropes (double double) as a back up + a load of anchors on each side. Force measurement was done and monitored live.\nThe concept was the brainchild of Igor Scotland of Ticket to the Moon Hammocks. The goal was to bring together the slackline/highline community and have a fun day out on the mountain.\nFor more fantastic photography, be sure to check out Sebastian at the online links below:\n1.\n2.\n3.\n4.\n5.\n6.\n7.\n8.\n9.\n10.\nIf you enjoyed this post, the Sifter\nhighly recommends:\nCategories: NATURE/SPACE, SPORTS, STORIES, TRAVEL\nTags: · climbing, extreme, extreme sports, hiking, mountains, photo series\nSign up to get our BEST stories of the week straight to your inbox.",
+      "image_captions": [
+        "highline hammock session monte piana by sebastian wahlhutter 9 Highline Hammock Session in the Dolomites",
+        "highline hammock session monte piana by sebastian wahlhutter 4 Highline Hammock Session in the Dolomites",
+        "highline hammock session monte piana by sebastian wahlhutter 12 Highline Hammock Session in the Dolomites",
+        "highline hammock session monte piana by sebastian wahlhutter Highline Hammock Session in the Dolomites",
+        "highline hammock session monte piana by sebastian wahlhutter 11 Highline Hammock Session in the Dolomites"
+      ]
+    },
+    {
+      "url": "https://www.dailymail.co.uk/travel/travel_news/article-2784793/Daredevils-doze-HAMMOCKS-hanging-high-wires-dizzying-Alpine-drops.html",
+      "page_title": "Monte Piana daredevils doze in HAMMOCKS hanging from high ...",
+      "title": "Daredevils doze in HAMMOCKS hanging from high wires above Alpine drops",
+      "description": "It is not an event for the faint hearted. Amazing images capture the latest International Highline Meeting, which sees daredevils sit in hammocks hung above deep drops in the Alps.",
+      "text": "Wouldn't you prefer a nice hotel room? Daredevils doze in HAMMOCKS dangling 150ft above dizzying Alpine drops\n- Thrillseekers gather at Monte Piana in the Italian Alps every year to hang from 'highlines' stretched out over chasms\n- The International Highline Meeting first began in 2012, and is becoming a major event for daredevils in the Alps\n- Those with the nerve spend hours sitting in hammocks, and even playing guitar above the vertigo-inducing drops\nThese daredevil highliners are the ultimate chillseekers - setting up hammocks hundreds of feet in the air.\nAs they inch their way carefully along the thin wire, some are even happy to pull out a guitar and play some tunes.\nThe extreme event, called the International Highline Meeting, is in its third year, and takes place at Monte Piana in Italy.\nIt is a large gathering for fearless folks to hone their skills without any form of competitive edge.\nThe idea of adding hammocks was put forward by hammock manufacturer Ticket To The Moon.\nHighliners attach the materials to a strengthened 'highline' as they walk out to their designated relaxation spots - 150ft high.\nSnapper Sebastian Wahlhuetter captured the breath-taking shots as 22 people hopped into 16 hammocks. The meeting ran from 6 to 14 September, with 500 people attending.\nSebastian, who also helped to organise the event, revealed it was difficult to capture his shots due to the remote location and steep, rocky surroundings. He said: 'The action lasted around an hour and it w",
+      "image_captions": [
+        "Daily Mail - news, sport, celebrity, science and health stories",
+        "Let's all hang out and do this again: The International Highline Meeting is now a regular event, and will take place again next September",
+        "A glorious place for a spot of relaxation on high: This spectacular image gives a hint of what the highliners find so appealing about a day in an elevated hammock",
+        "The view up here is smoking: One thrill-seeker shows he is utterly unfazed by his location as he enjoys a cigarette",
+        "It was hard work getting here, let's relax: A group of highliners take in the view in blissful peace and quiet"
+      ]
+    }
+  ],
+  "evidence_count": 3,
+  "crawled_at": "2026-04-23T16:15:00.277304+00:00"
+}

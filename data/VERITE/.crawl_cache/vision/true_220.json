@@ -1,0 +1,137 @@
+{
+  "sample_id": "true_220",
+  "image_url": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2013/12/gasline2.jpg",
+  "visual_entities": [
+    {
+      "description": "Pipeline transport",
+      "score": 1.0896001
+    },
+    {
+      "description": "Natural gas",
+      "score": 0.7321
+    },
+    {
+      "description": "gas pipeline",
+      "score": 0.7212
+    },
+    {
+      "description": "Explosion",
+      "score": 0.6739
+    },
+    {
+      "description": "TC Energy",
+      "score": 0.6557
+    },
+    {
+      "description": "",
+      "score": 0.6557
+    },
+    {
+      "description": "Gas",
+      "score": 0.6528
+    },
+    {
+      "description": "Dominion Energy",
+      "score": 0.5954
+    },
+    {
+      "description": "",
+      "score": 0.5954
+    },
+    {
+      "description": "Fire",
+      "score": 0.5754
+    },
+    {
+      "description": "Pipeline Safety Trust",
+      "score": 0.5663
+    },
+    {
+      "description": "Northwest Pipeline",
+      "score": 0.558
+    },
+    {
+      "description": "Pipe",
+      "score": 0.5082
+    },
+    {
+      "description": "United States Pipeline and Hazardous Materials Safety Administration",
+      "score": 0.4932
+    },
+    {
+      "description": "Gas Transmission Northwest",
+      "score": 0.4891
+    }
+  ],
+  "best_guess_labels": [
+    "natural gas pipeline explosion"
+  ],
+  "similar_image_urls": [
+    "https://mediaproxy.snopes.com/width/1200/height/900/https://media.snopes.com/2013/12/gasline2.jpg",
+    "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2013/12/gasline2.jpg",
+    "https://www.friendsofshenandoahmountain.org/uploads/1/7/4/4/17446555/8400230_orig.jpg",
+    "https://aipr.fr/wp-content/uploads/2015/10/image002.jpg",
+    "https://www.2coolfishing.com/attachments/dig2-jpg.265661/",
+    "https://dcn6x9s7fzj11.cloudfront.net/monthly_2018_08/1081074543_gasexplosion.jpg.e5bb267f16b8935ae41e2ac38025301f.jpg",
+    "http://images.huffingtonpost.com/2015-08-14-1439564598-7066903-ScreenShot20150814at10.59.01AM.jpg",
+    "https://i.redd.it/ofyelt0ncsjg1.jpeg",
+    "https://i.imgur.com/siUR5DS.jpg",
+    "https://fcache1.pakwheels.com/original/3X/f/8/f89bdaa5c01b091d410472fd15fb3760e0a31104.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.kgns.tv/2026/03/20/natural-gas-pipeline-ruptures-explodes-webb-county/",
+      "page_title": "Natural gas pipeline ruptures, explodes in Webb County - KGNS",
+      "title": "Natural gas pipeline ruptures, explodes in Webb County",
+      "description": "A natural gas pipeline ruptured and exploded on Hwy 255, prompting a response from Webb County Fire Department crews.",
+      "text": "Natural gas pipeline ruptures, explodes in Webb County\nWEBB COUNTY, Tex. (KGNS) - A natural gas pipeline ruptured and exploded on Hwy 255, prompting a response from Webb County Fire Department crews.\nThe Webb County Fire Department reported the incident just before 11 a.m. on March 20. Fire units were en route to another call when they responded to the scene.\nFire crews established a secure perimeter around the active fire. Currently, the fire is being monitored under controlled conditions while utility personnel work to shut off the gas supply.\nFire suppression efforts will be initiated once the natural gas flow is stopped, according to the fire department.\nOfficials said this is the safest and most effective approach to prevent further hazards.\nNo injuries have been reported.\nAt just after 12 p.m., Webb County Fire Chief Ramiro Elizondo Jr. reported that two pipelines from Howard Energy and Lewis Energy Group had ruptured.\nHe noted that the valves had been shut off and the remaining natural gas had burned off following the rupture. Crews are now working to extinguish the hot spots caused by the explosion.\nCurrently, no further damage has been reported, and there is no danger to the surrounding area.\nFor more headlines, click here.\nCopyright 2026 KGNS. All rights reserved.",
+      "image_captions": [
+        "KGNS+ mourns loss of former reporter Max Fernandez",
+        "FILE - Zion National Park near Springdale, Utah, is pictured on Sept. 15, 2015.",
+        "LISD, UISD schools placed under security protocols",
+        "United ISD is considering consolidating some elementary schools as it works to close a...",
+        "Father and son arrested after shots fired from moving vehicle in Laredo"
+      ]
+    },
+    {
+      "url": "https://primis.phmsa.dot.gov/comm/publications/pipelineemergencyplanning-and-responsetools-article-firerescue-january2012r2.pdf",
+      "page_title": "Pipeline Emergency Planning & Response Tools | PRIMIS | PHMSA",
+      "title": "Pipeline Safety Stakeholder Communications",
+      "description": "Pipeline Safety Stakeholder Communications",
+      "text": "Pipeline Safety Is a Shared Responsibility\nThe Office of Pipeline Safety (OPS), Pipeline and Hazardous Materials Safety Administration (PHMSA) is the federal safety authority for ensuring the safe, reliable, and environmentally sound operations of our nation's pipeline transportation system. PHMSA’s top priority is safety, and its mission is to protect people and the environment by advancing the safe transportation of energy and other hazardous materials that are essential to our daily lives. As part of this mission, PHMSA administers a national regulatory safety program for the approximately 3.3 million miles of pipelines in the United States. This program requires that pipeline operators design, construct, operate, and maintain their pipeline facilities in compliance with the Pipeline Safety Act and the Federal pipeline safety regulations (PSRs) found in Title 49 of the Code of Federal Regulations Parts 190-199. PHMSA and its State partners conduct inspections of pipeline operators for compliance with the applicable PSRs and, where necessary, may initiate enforcement to ensure operators comply with these safety regulations. The agency also investigates pipeline accidents and incidents to determine the root cause and to mitigate future incidences.\nAn important priority for OPS is to enhance pipeline safety through effective communication and education with all stakeholders, including the public. Pipeline safety is a shared responsibility that involves all stakeholders. By engaging actively, we can significantly improve community safety around pipelines. This collaboration is essential for raising public awareness, preventing damage, planning land use with consideration of risks, and managing emergencies effectively. Together, we can create a safer environment for everyone.",
+      "image_captions": [
+        "Phmsa Triskelion Logo",
+        "US Department of Transportation: Pipeline and Hazardous Materials Safety Administration (PHMSA)",
+        "Remember to call 811 before digging.",
+        "National Pipeline Mapping System"
+      ]
+    },
+    {
+      "url": "https://primis.phmsa.dot.gov/comm/pipa/webinars/Massachusetts%20PIPA%20Webinar%20for%20Government%20Officials%20June%2010%202013%20b.pdf",
+      "page_title": "Mass PIPA Webinar - PRIMIS | PHMSA",
+      "title": "Pipeline Safety Stakeholder Communications",
+      "description": "Pipeline Safety Stakeholder Communications",
+      "text": "Pipeline Safety Is a Shared Responsibility\nThe Office of Pipeline Safety (OPS), Pipeline and Hazardous Materials Safety Administration (PHMSA) is the federal safety authority for ensuring the safe, reliable, and environmentally sound operations of our nation's pipeline transportation system. PHMSA’s top priority is safety, and its mission is to protect people and the environment by advancing the safe transportation of energy and other hazardous materials that are essential to our daily lives. As part of this mission, PHMSA administers a national regulatory safety program for the approximately 3.3 million miles of pipelines in the United States. This program requires that pipeline operators design, construct, operate, and maintain their pipeline facilities in compliance with the Pipeline Safety Act and the Federal pipeline safety regulations (PSRs) found in Title 49 of the Code of Federal Regulations Parts 190-199. PHMSA and its State partners conduct inspections of pipeline operators for compliance with the applicable PSRs and, where necessary, may initiate enforcement to ensure operators comply with these safety regulations. The agency also investigates pipeline accidents and incidents to determine the root cause and to mitigate future incidences.\nAn important priority for OPS is to enhance pipeline safety through effective communication and education with all stakeholders, including the public. Pipeline safety is a shared responsibility that involves all stakeholders. By engaging actively, we can significantly improve community safety around pipelines. This collaboration is essential for raising public awareness, preventing damage, planning land use with consideration of risks, and managing emergencies effectively. Together, we can create a safer environment for everyone.",
+      "image_captions": [
+        "Phmsa Triskelion Logo",
+        "US Department of Transportation: Pipeline and Hazardous Materials Safety Administration (PHMSA)",
+        "Remember to call 811 before digging.",
+        "National Pipeline Mapping System"
+      ]
+    },
+    {
+      "url": "http://www.lancasterpipeline.org/pipeline-safety-hazards",
+      "page_title": "Pipeline Safety Hazards - Williams Transco Central Penn Line South",
+      "title": "Pipeline Safety Hazards — Williams Transco Central Penn Line South",
+      "description": "Risks associated with WIlliams Transco's proposed Central Penn Line South, part of the Atlantic Sunrise Project.",
+      "text": "Unlike liquid petroleum product pipelines, where the main risk is a leak leading to contamination of water and soil, the main risk with a high-pressure natural gas pipeline is a rupture and ensuing fire. Ruptures can occur, and have occurred, due to external forces on the pipe (such as being struck during digging), from internal corrosion of the pipe, external corrosion of the pipe, and from failed welds.\nSuch tremendous heat is given off by a high-pressure gas line fire that within a certain distance of the rupture point, buildings are destroyed and lives are lost without actually being touched by the flame. The larger the pipeline diameter, and the larger the operating pressure, the larger this distance is. It can be calculated using a formula that was developed by the Federal government, tested against actual natural gas pipeline explosions and fires, and that is part of the Federal regulations establishing minimum natural gas pipeline safety standards.\nFor the proposed Williams Transco pipeline in Lancaster County, this calculated hazard distance is approximately 1,115 feet. That means if there is a rupture and fire at some point along the line, it is anticipated that buildings within 1,115 feet of the rupture will be destroyed and people within that zone will not be able to run to safety without being severely burned.\nJust before 8 am on September 14, 2008, a Williams 30-inch diameter, 800 psi natural gas pipeline near Appomattox, VA ruptured and ignited after 53 years of operation. Earlier that year, an inspection tool run through that pipe detected corrosion in the pipe wall, but failed to detect the full extent of it. Despite having recently repaired two neighboring pipelines and discovering corrosion in this third line, in Williams' judgement this pipe did not require repair. An expert working with the company to determine the cause of the rupture believed that the anti-corrosion coating on the outside of the pipe had been damaged by the rocky soils in which the pipeline was buried.\nEverything within 560 feet of the rupture was destroyed. For this 30-inch diameter, 800 psi natural gas pipeline that ruptured and ignited, the hazard distance calculated using the formula described above is 585 feet, which is within 25 feet of the real-world result. This shows that the calculated hazard zone for the proposed Williams Transco Central Penn Line South is an accurate measure of the area of Lancaster County that will be at risk, for decades to come, for the type of destruction shown above.",
+      "image_captions": [
+        "Williams gas pipeline rupture near Appomattox,VA",
+        "Home destroyed by Williams pipeline rupture",
+        "Williams 30\" gas pipeline rupture"
+      ]
+    }
+  ],
+  "evidence_count": 4,
+  "crawled_at": "2026-04-23T17:54:10.152790+00:00"
+}

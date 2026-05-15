@@ -1,0 +1,93 @@
+{
+  "sample_id": "false_259",
+  "image_url": "https://s.wsj.net/public/resources/images/OB-JR341_bonome_G_20100824142000.jpg",
+  "visual_entities": [
+    {
+      "description": "Bono",
+      "score": 14.988001
+    },
+    {
+      "description": "Daniil Medvedev",
+      "score": 10.675501
+    },
+    {
+      "description": "U2",
+      "score": 0.713
+    },
+    {
+      "description": "2025 US Open",
+      "score": 0.6411
+    },
+    {
+      "description": "Bono: Stories of Surrender",
+      "score": 0.6063
+    },
+    {
+      "description": "Tennis",
+      "score": 0.5705
+    },
+    {
+      "description": "Russia",
+      "score": 0.56535
+    },
+    {
+      "description": "U2 360° Tour",
+      "score": 0.48150003
+    },
+    {
+      "description": "",
+      "score": 0.3769
+    },
+    {
+      "description": "With or Without You",
+      "score": 0.3222
+    },
+    {
+      "description": "Musical ensemble",
+      "score": 0.3198
+    }
+  ],
+  "best_guess_labels": [
+    "bono medvedev"
+  ],
+  "similar_image_urls": [
+    "https://s.wsj.net/public/resources/images/OB-JR341_bonome_G_20100824142000.jpg",
+    "https://s.wsj.net/public/resources/images/OB-JR341_bonome_E_20100824142000.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.dailymotion.com/video/xek0g0",
+      "page_title": "U2's Bono has tea with Dmitry Medvedev - video Dailymotion",
+      "title": "Dailymotion",
+      "description": "",
+      "text": "Skip to player\nSkip to main content\nWatch fullscreen\nFont",
+      "image_captions": []
+    },
+    {
+      "url": "https://perezhilton.com/president-medvedev-takes-meeting-with-bono/",
+      "page_title": "President Medvedev Takes Meeting With Bono - Perez Hilton",
+      "title": "President Medvedev Takes Meeting With Bono - Perez Hilton",
+      "description": "Russian President Dmitry Medvedev and Bono met in Medvedev├óΓé¼Γäós Black Sea resort on Tuesday to discuss music (Medvedev is a huge rock n├óΓé¼Γäó roll",
+      "text": "Russian President Dmitry Medvedev and Bono met in Medvedev├óΓé¼Γäós Black Sea resort on Tuesday to discuss music (Medvedev is a huge rock n├óΓé¼Γäó roll fan) and charity.\n“You are doing important things, because taking care of people is not only a job for politicians,” said Medvedev\nThe duo also discussed problems in Africa, specifically the desperate measures being taken to stop the spread of HIV/AIDS and bring the population out of destitute, wide-spread poverty.\nBono wasn├óΓé¼Γäót shy to suggest things to the President, and told Medvedev that spending 40 cents per day could eliminate the transfer of HIV from mother to child by 2015.\nMedvedev obviously has a lot of respect for the singer. “The charity work that you and your colleagues do has brought you respect all over the world,” said the President.\nU2 will be playing a concert in Russia as a part of their ├óΓé¼┼ô360├óΓé¼┬¥ world tour.\n[Image via AP Images.]\n-\nCategories",
+      "image_captions": [
+        "Bono REJECTS Kiss From Diddy In Resurfaced Video! It’s So Cringe -- WATCH!",
+        "Catherine Zeta-Jones Goes NUDE At 55 For Michael Douglas' Birthday! And WOW!!!",
+        "Lady GaGa Spotted On Date Night With BF -- After They Supposedly Broke Up?!",
+        "U2 Will Make You Cry HERE! Goodbye!",
+        "Is This U2's Best Song Ever? Watch Them Perform It Live At The Sphere In Las Vegas! | Perez Hilton"
+      ]
+    },
+    {
+      "url": "https://www.trend.az/world/other/1740273.html",
+      "page_title": "Medvedev, U2's Bono discuss Russia, health, musicians - Trend.Az",
+      "title": "Medvedev, U2's Bono discuss Russia, health, musicians",
+      "description": "On Tuesday, Bono met with Russian President Dmitry Medvedev ahead of the U2 concert due in Moscow on August 25 at the presidential summer residence in the Black Sea resort city of Sochi, RIA Novosti reported.",
+      "text": "On Tuesday, Bono met with Russian President Dmitry Medvedev ahead of the U2 concert due in Moscow on August 25 at the presidential summer residence in the Black Sea resort city of Sochi, RIA Novosti reported.\nBono said he had arrived in Russia like a student, saying he had a lot to learn about Russia.\nBono also told the Russian president that they have some differences in taste since Medvedev is a Deep Purple fan and Bono is a Led Zeppelin fan.\n\"That's not completely true, I love Led Zeppelin,\" Medvedev told the musician.\nHowever, Medvedev said he did not want to restrict his conversation with Bono to only music.\nBono actively works in fighting HIV and AIDS around the world. He also organizes many charity events along with the other members of U2 as well as other celebrities.\n\"This social activity you are engaged in, you and your colleagues, gets great respect from people,\" Medvedev said. \"You do important things because taking care of people is not only a matter of politics,\" he continued.\n\"Each of us should actually contribute into, as it seems, [relieving the] very complex problems of health, the fight against poverty, cleaning up the aftermaths of crises,\" the Russian leader said. \"And the fact that you are actively engaged in this, I think, is cool.\"\nOn Tuesday, Medvedev also said he will support the leader of U2 Bono in his efforts to fight HIV/AIDS.\nAfter the conversation, Medvedev and Bono took a stroll along the Black Sea coast.",
+      "image_captions": [
+        "Trend News Agency Logo"
+      ]
+    }
+  ],
+  "evidence_count": 3,
+  "crawled_at": "2026-04-23T18:06:31.496086+00:00"
+}

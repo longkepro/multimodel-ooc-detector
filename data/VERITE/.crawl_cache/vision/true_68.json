@@ -1,0 +1,112 @@
+{
+  "sample_id": "true_68",
+  "image_url": "https://live-production.wcms.abc-cdn.net.au/709cf03cffc54d7cc96861cacfab1928.jpg?src",
+  "visual_entities": [
+    {
+      "description": "Commercial property",
+      "score": 0.7105
+    },
+    {
+      "description": "2019–20 Hong Kong protests",
+      "score": 0.5463
+    },
+    {
+      "description": "Building",
+      "score": 0.5223
+    },
+    {
+      "description": "Real Estate",
+      "score": 0.4613
+    },
+    {
+      "description": "Hong Kong",
+      "score": 0.3723
+    },
+    {
+      "description": "Construction",
+      "score": 0.3465
+    },
+    {
+      "description": "Apartment",
+      "score": 0.32698604
+    },
+    {
+      "description": "Commercial area",
+      "score": 0.3166
+    }
+  ],
+  "best_guess_labels": [
+    "commercial building"
+  ],
+  "similar_image_urls": [
+    "https://images.storm.mg/cloud/36cb7684ad7298984593ba6915ff413aef3e216a.webp?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F149581%2F20190825-015329_U720_M545844_d32e.jpg&g=sm&h=675&resize=fill&w=1200&format=webp",
+    "https://images.storm.mg/cloud/36cb7684ad7298984593ba6915ff413aef3e216a.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F149581%2F20190825-015329_U720_M545844_d32e.jpg&g=sm&h=675&resize=fill&w=1200&format=jpg",
+    "https://live-production.wcms.abc-cdn.net.au/709cf03cffc54d7cc96861cacfab1928.jpg?src",
+    "https://resizer.iproimg.com/unsafe/768x/filters:format(webp):quality(75):max_bytes(102400)/https://assets.iproup.com/assets/jpg/2019/08/5538.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://walleyproperties.com/land/ellisville-ms-commercial-property-cm-jo1/",
+      "page_title": "Ellisville, MS Commercial Property CM.JO1 - Properties in Mississippi",
+      "title": "Ellisville, MS Commercial Property CM.JO1 - Walley Properties & Forestry - Properties in Mississippi",
+      "description": "Prime Commercial Location",
+      "text": "Available Listings\nGet Listing Alerts\nSign up or edit your Listing Alerts here.\nNotification emails will be sent to you for six months. After six months, you will need to renew your request for information in order to continue receiving notifications.\nPrime Commercial Location\nSituated on the busiest thoroughfare in Ellisville, this one-acre lot boasts 105 feet of frontage on Hill Street. In addition to Hill Street, the site also has frontage and access on Mill and Watson Streets. The site has recently been cleared of most of the trees, offering a clean slate for the new owners to work with.\nSurrounded by several popular restaurants and businesses, this location truly is prime real estate for a new business venture. More than 12,000 vehicles pass this site daily. Although the population of Ellisville is listed at just under 5,000, the daytime population swells to nearly three times that with the students and staff of Jones College, South Jones High School, and South Jones Elementary School, along with the employees of local industries.\nPriced at $260,000. For more information, call 601-477-3014, Walley Properties, LLC.\nOffice Location:\n103 West Holly Street in Ellisville, MS 39437.\nOffice Hours:\nMonday-Thursday\n7:00 a.m. – 4:00 p.m.\nFriday\n7:00 a.m. – 12:00 p.m.\n*We are available after hours and on weekends by appointment only.\nIf you would like to schedule an appointment then please feel free to call (601) 477-3014.\nAvailable Listings\nGet Listing Alerts",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.abc.net.au/news/2019-08-24/hong-kong-protests-smart-lampposts-cut-down-surveillance-fears/11445606",
+      "page_title": "Smart lamppost toppled to ground by Hong Kong demonstrators ...",
+      "title": "Hong Kong protesters cut down data-collecting lamppost",
+      "description": "Demonstrators say the high-tech lampposts could contain cameras and facial recognition software, which they fear could be used for surveillance by Chinese authorities.",
+      "text": "Smart lamppost toppled to ground by Hong Kong demonstrators over Chinese surveillance fears\nHong Kong protesters cut down a smart lamppost and police officers fired tear gas on Saturday as chaotic scenes returned to the protests for the first time in more than a week.\nKey points:\n- Demonstrators fear the high-tech posts could be equipped with facial-recognition software and used by Chinese authorities for surveillance\n- Hong Kong's Government says smart lampposts only collect data on traffic, weather and air quality\n- Police fired tear gas at protestors, who threw bricks and petrol bombs at officers\nProtesters used an electric saw to slice through the bottom of the lamppost, while others pulled ropes tied around it.\nThe demonstrators, who were holding up umbrellas to hide their identities, cheered as it toppled over.\nThey were part of a larger group marching to demand the removal of the lampposts over worries they could contain high-tech cameras and facial recognition software used for surveillance by Chinese authorities.\nThe government in Hong Kong, which has been convulsed by more than two months of sometimes violent protests, said smart lampposts only collect data on traffic, weather and air quality.\nThe semiautonomous Chinese city has said it plans to install about 400 of the smart lampposts in four urban districts, starting with 50 in the Kwun Tong and Kowloon Bay districts that were the scene of Saturday's protest march.\n\"Hong Kong people's private information is already being extradited to China,\" organizer Ventus Lau said ahead of the procession.\n\"We have to be very concerned.\"\nPolice fired tear gas for the first time in more than a week after black-clad protesters set up makeshift barricades on a road outside a police station.\nOfficers used minimum force to disperse the protesters after repeated warnings \"went futile\", the government said in a statement.\nProtesters threw bricks and petrol bombs as police chased them down a main road.\nThe protest march had started peacefully as supporters chanted slogans calling for the government to answer the movement's demands.\nThe protests began in June with calls to drop an extradition bill that would have allowed Hong Kong residents to be sent to China to stand trial, and widened to include free elections for the city's top leader and an independent inquiry into alleged police brutality.\nHong Kong's government-owned subway system operator, MTR Corp, shut down stations and suspended train services near the protest route, after attacks by Chinese state media accusing it of helping protesters flee in previous protests.\nMTR said Friday that it may close stations near protests under high risk or emergency situations.\nThe company has until now kept stations open and trains running even when there have been chaotic skirmishes between protesters and police.\nMr Lau said MTR was working with the government to \"suppress freedom of expression\".\nEarlier on Saturday, Chinese police said they released an employee at the British Consulate in Hong Kong as scheduled after 15 days of administrative detention.\nSimon Cheng Man-kit was detained for violating mainland Chinese law and \"confessed to his illegal acts\", the public security bureau in Luohu, Shenzhen, said on its Weibo microblog account, without providing further details.\nThe Chinese Government has said Mr Cheng, who went missing after travelling by train to mainland China for a business trip, was held for violating public order regulations in Shenzhen, in a case that further stoked tensions in Hong Kong, a former British colony.\nThe British Government confirmed his release.\n\"We welcome the release of Simon Cheng and are delighted that he can be reunited with his family,\" the Foreign and Commonwealth Office said in a statement, adding that Mr Cheng and his family had requested privacy.\nMr Cheng, a Scottish Government trade and investment officer, was a local employee without a diplomatic passport.\nThe Global Times, a Communist Party-owned nationalistic tabloid, said on Thursday he was detained for \"soliciting prostitutes\".\nChina often uses public order charges against political targets and has sometimes used the accusation of soliciting prostitution.\nAP",
+      "image_captions": [
+        "Demonstrators used an electric saw to cut the post before pulling it down with rope.(ABC News: Brant Cumming)",
+        "Demonstrators feared the lampposts could be used for surveillance by Chinese authorities.(ABC News: Brant Cumming)",
+        "Sunday's protest was the largest rally in the financial hub since the initial June 16 march.(AP: Vincent Yu)",
+        "A collage of He Jiankui, left, Fan Bingbing, centre, and Meng Hongwei.",
+        "A group of people standing around a white lamppost on the ground with graffiti on it."
+      ]
+    },
+    {
+      "url": "https://www.abc.net.au/news/2019-08-25/new-violence-erupts--hong-kong--police-fire-tear-gas-water-canon/11446626",
+      "page_title": "Police draw guns on Hong Kong's pro-democracy protesters",
+      "title": "'It won't die': Police draw guns on Hong Kong's pro-democracy protesters",
+      "description": "Police draw guns, fire water cannon and tear gas as tens of thousands of Hong Kong anti-government protesters march in torrential rain, regrouping under a sea of umbrellas after violent clashes a day earlier.",
+      "text": "Police draw guns on Hong Kong protesters as violence erupts in pro-democracy rallies\nHong Kong police officers have pulled their guns and one fired a warning shot after they were attacked by protesters with sticks and rods.\nKey points:\n- After hoisting warning flags, police fired water cannon and tear gas at protesters\n- Demonstrators responded by hurling bricks and petrol bombs\n- Beijing has sent a clear warning that forceful intervention is possible\nThe protesters called the police \"gangsters\" as they chased them on Sunday night following a standoff earlier in the evening.\nPolice said in a statement six officers drew their pistols and one officer fired a warning shot into the air.\nEarlier, violence escalated after tens of thousands of anti-government protesters marched in torrential rain, regrouping under a sea of umbrellas after clashes a day earlier that prompted police to fire tear gas for the first time in more than a week.\nWhile a large crowd rallied in a nearby park, another group of protesters took over a main street, strewing bamboo poles on the pavement and lining up orange and white traffic barriers and cones to try to obstruct the police.\nAfter hoisting warning flags, police used tear gas to try to disperse the crowd.\nProtesters responded by throwing bricks and petrol bombs toward the police.\nThe result was a scene of small fires and scattered paving bricks on the street between the two, rising clouds of tear gas and green and blue laser lights pointed by the protesters at the police.\nThe Chinese-ruled city's rail operator, MTR Corp, suspended some services to try to prevent people gathering but protesters made it to a sports stadium in the vast container port of Kwai Chung, from where they were marching to nearby Tsuen Wan.\nThe latest skirmish comes after Saturday's march in the industrial district of Kwun Tong, which saw protesters build bamboo barricades and set fires in the streets.\nPolice said they arrested 29 people, ranging from 17 to 52 years old, for various offenses including unlawful assembly, possession of offensive weapons and assaulting police officers.\nThe clashes, while not as prolonged or violent as some earlier ones, ended a brief lull in the violence.\nPolice used tear gas after some protesters threw Molotov cocktails and bricks and others tore up \"smart\" lamp posts equipped with surveillance cameras.\nThe protests had turned largely peaceful the previous weekend, after weeks of escalating violence and multiple closures of the financial hub's busy international airport.\nM Sung, a 53-year-old software engineer in a black mask emblematic of the many older, middle-class citizens at the march, said he had been at almost every protest and would keep coming.\n\"We know this is the last chance to fight for 'one country, two systems', otherwise the Chinese Communist Party will penetrate our home city and control everything,\" he said.\n\"If we keep a strong mind, we can sustain this movement for justice and democracy. It won't die,\"Mr Sung said.\nProtesters say they are fighting the erosion of the \"one country, two systems\" arrangement under which the former British colony returned to China in 1997 with the promise of continued freedoms not enjoyed on the mainland.\nThe protests, which started over a now-suspended extradition bill and evolved into demands for greater democracy, have rocked Hong Kong for three months and plunged the city into its biggest political crisis since the handover.\nThey also pose a direct challenge for Communist Party leaders in Beijing, who are eager to quell the unrest ahead of the 70th anniversary of the founding of the People's Republic of China on October 1.\nBeijing has sent a clear warning that forceful intervention is possible, with paramilitary forces holding drills just over the border in Shenzhen.\n\"Some radical protesters have removed railings … and set up barricades with water-filled barriers, bamboo sticks, traffic cones and other objects,\" the police said in a statement.\n\"Such acts neglect the safety of citizens and road users, paralysing traffic in the vicinity.\"\nLoading...Transport to the airport appeared normal on Sunday, despite protesters' plans for a day-long \"stress test\" of transport in the international aviation and financial hub.\nMore than 700 people have been arrested since the demonstrations began in June.\nMeanwhile, the neighbouring gambling territory of Macau, a former Portuguese colony that returned to Chinese rule in 1999, elected former legislature head Ho Iat Seng as its leader on Sunday — the sole approved candidate.\nHo, who has deep ties to China, is expected to cement Beijing's control over the \"special administrative region\", the same status given to Hong Kong, and distance it from the unrest there.\nABC/Wires",
+      "image_captions": [
+        "Demonstrators stand behind a barricade during Sunday's protest in Tsuen Wan, in Hong Kong's Western New Territories.(Reuters: Kai Pfaffenbach)",
+        "Tear gas and flames engulfed a road in Kowloon as protesters skirmished with police(Reuters: Kai Pfaffenbach)",
+        "While a large crowd rallied in a nearby park, another group of protesters took over a main street, clashing with police.(Reuters: Kai Pfaffenbach)",
+        "Tens of thousands of pro-democracy demonstrators hit the streets of Kwai Fong in Hong Kong in the pouring rain on Sunday.(Reuters: Kai Pfaffenbach)",
+        "Protesters wearing marks face the camera behind a barricade on the street."
+      ]
+    },
+    {
+      "url": "https://www.storm.mg/article/1631863",
+      "page_title": "香港反送中》疑似裝有中國「天網」監控系統示威者拆除街頭「智慧 ...",
+      "title": "香港反送中》疑似裝有中國「天網」監控系統 示威者拆除街頭「智慧燈柱」 | 中央社 | 新聞",
+      "description": "香港24日觀塘遊行結束後演變為警民對峙及暴力衝突，並有示威者遭橡膠子彈射傷眼睛等情事，警方也施放多枚催淚彈。港媒報導，昨天警方拘捕29人，至少10人受傷送醫。",
+      "text": "香港24日觀塘遊行結束後演變為警民對峙及暴力衝突，並有示威者遭橡膠子彈射傷眼睛等情事，警方也施放多枚催淚彈。港媒報導，昨天警方拘捕29人，至少10人受傷送醫。\n除了反送中5大訴求，反對安裝多功能智慧燈柱也是昨天遊行的主張之一。\n泛民主派政黨「香港眾志」昨天在臉書發文，揭露智慧燈柱內部疑似裝有中國國家安全監控系統「天網」工程零組件。也有網民質疑這項設備與中國實施的臉部辨識系統有關。\n香港地政總署24日晚上則表示，智慧燈柱功能僅供發放燈柱的地理位置，讓智慧型手機接收其藍牙訊號，以作智慧城市應用程式定位之用，不會用來收集使用者位置資料，也沒有設定任何資料搜集或回傳功能。\n香港01引述政府發言人24日晚上說，強烈譴責暴力示威者縱火、投擲懷疑汽油彈及以磚塊攻擊警員，又指已多番澄清智慧燈柱不涉臉部識別功能，示威者罔顧事實大肆破壞是「不可理喻」。\n香港01報導，香港警方在24日的示威活動中總共拘捕19名男子及10名女子，他們涉嫌非法集結、藏有攻擊性武器及襲警等。\n根據立場新聞，24日觀塘遊行的申請人劉穎匡的傳媒聯絡群組表示，劉穎匡、遊行其他發起人、義工和糾察也被警方拘捕。\n香港18日才歷經170萬人流水式集會的和平示威，時隔一週，24日的遊行又演變為暴力衝突。\n觀塘遊行結束後，一批示威者自備電鋸破壞智慧燈柱，另有人轉戰包圍附近牛頭角警署、黃大仙及深水埗等地，以雜物阻塞多條道路；警方多次發射催淚彈和胡椒球彈驅散，現場混亂，有人眼部受傷送醫。 （相關報導： 「盼思念穿越時空、抵達失蹤親人手中」中國新疆維吾爾人上傳無聲抖音影片 ｜ 更多文章 ）",
+      "image_captions": [
+        "2019年8月24日，香港「反送中」觀塘遊行，示威者拆除疑似裝有中國監控系統的智慧燈柱（AP）",
+        "2019年8月24日，香港「反送中」觀塘遊行，示威者與港警爆發激烈衝突（AP）"
+      ]
+    },
+    {
+      "url": "https://www.iproup.com/economia-digital/38508-criptomonedas-hong-kong-propone-el-uso-de-bitcoins",
+      "page_title": "Criptomonedas: Hong Kong propone el uso de Bitcoins",
+      "title": "Criptomonedas: conocé qué ciudad propone el uso de Bitcoins para comercios minoristas",
+      "description": "La Comisión de Valores y Futuros de Hong Kong (SFC) propuso un nuevo documento para inversores en criptomonedas en el territorio asiatico",
+      "text": "La Comisión de Valores y Futuros de Hong Kong (SFC) propuso un nuevo documento para inversores en criptomonedas en el territorio asiatico\n03.03.2023 • 10:04hs • Criptomoneda\nCriptomoneda\nCriptomonedas: conocé qué ciudad propone el uso de Bitcoins para comercios minoristas\nHong kong apuesta al uso de Bitcoin para los comercios asiáticos. Justina Di Bastiano, Directora Creativa de South American Miners (SAM), explica que el objetivo del documento es permitir que todo tipo de inversores, incluidos los minoristas, accedan a los servicios comerciales proporcionados por operadores de plataformas comerciales VA (activos virtuales) con licencia.\nAsimismo, destaca la importancia de reconocer el potencial positivo que esto puede tener para la industria de las criptomonedas en su conjunto, y en particular para Bitcoin.\n\"Bitcoin, como la criptomoneda más grande y conocida, fue objeto de mucha controversia y escepticismo en los últimos años\",menciona la Directora Creativa de South American Miners (SAM)\nSin embargo, \"la propuesta de la Comisión de Valores y Futuros de Hong Kong (SFC) de permitir a los inversores minoristas acceder a servicios comerciales de activos virtuales con licencia es una señal alentadora para aquellos que ven un futuro en las criptomonedas\". añade.\nSi bien es cierto que Bitcoin tuvo sus altibajos en los últimos años, incluyendo caídas abruptas en su valor, la adopción gradual por parte de los comercios minoristas podría estabilizar su valor y aumentar su aceptación en el mercado.\nEsto, a su vez, podría llevar a una mayor adopción en otras áreas de la economía, lo que eventualmente se tornaría a una adopción generalizada.\nHong Kong fomenta la adopción al Bitcoin\nFomentar la adopción\nAdemás, la adopción de Bitcoin por parte de los comercios minoristas podría ofrecer un mayor nivel de seguridad y privacidad a los usuarios.\nLas transacciones de Bitcoin no requieren la divulgación de información personal y es la criptomoneda más antigua del mercado.\nPara quienes recién están ingresando, Bitcoin es la única que lleva más de 14 años en uso, considerándose la más segura gracias a su tecnología de blockchain.\n\"Sobre todo, considero que el mayor atractivo que los comercios minoristas podrían encontrar en Bitcoin es como reserva de valor\", agrega Di Bastiano.\nSocialmente se acostumbra a la compra de bienes, dólares e inmuebles pero estos también se ven afectados por el periodo inflacionario en el que nos encontramos.\n\"Creo que el \"oro digital\" (Bitcoin) podría ser una gran oportunidad para ganarle a las monedas centralizadas, aprovechando los bajos precios de entrada actuales debidos a la etapa previa al halving 2024.\"\nBitcoin, la elegida\nCriptomonedas para minoristas\nEn resumen, la propuesta de Hong Kong de permitir criptomonedas para comercios minoristas es una señal alentadora para aquellos que creen en el potencial de las criptomonedas, y en particular de Bitcoin.\nLa adopción gradual de Bitcoin por parte de los comercios minoristas podría estabilizar su valor, aumentar su aceptación en el mercado y ofrecer una reserva de valor, un mayor nivel de seguridad y privacidad a los usuarios.",
+      "image_captions": [
+        "Criptomonedas: conocé qué ciudad propone el uso de Bitcoins para comercios minoristas",
+        "Compartílo en facebook",
+        "Compartílo en WhatsApp",
+        "Compartílo en Linked In",
+        "Compartílo en Telegram"
+      ]
+    }
+  ],
+  "evidence_count": 5,
+  "crawled_at": "2026-04-23T17:08:31.647307+00:00"
+}

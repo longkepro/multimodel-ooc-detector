@@ -1,0 +1,67 @@
+{
+  "sample_id": "true_255",
+  "image_url": "https://pbs.twimg.com/media/FMckfTaX0AQ3OvT?format=jpg&name=small",
+  "visual_entities": [
+    {
+      "description": "Wladimir Klitschko",
+      "score": 14.43
+    },
+    {
+      "description": "Boxing",
+      "score": 0.7106
+    },
+    {
+      "description": "Heavyweight",
+      "score": 0.7075
+    },
+    {
+      "description": "Kyiv",
+      "score": 0.6216375
+    },
+    {
+      "description": "Mayor of Kyiv",
+      "score": 0.5619
+    },
+    {
+      "description": "heavyweight in boxing",
+      "score": 0.4125
+    },
+    {
+      "description": "Boxing Ring",
+      "score": 0.3982
+    },
+    {
+      "description": "",
+      "score": 0.3444
+    }
+  ],
+  "best_guess_labels": [
+    "wladimir klitschko military"
+  ],
+  "similar_image_urls": [
+    "https://media.extra.cz/static/img/2021/03/fmciru8xeaybvfp-1600.jpg",
+    "https://pbs.twimg.com/media/FMdF7jAVQAEDQpv.jpg",
+    "https://english.cdn.zeenews.com/sites/default/files/2022/03/01/1018811-galleryvitali1.jpg",
+    "https://media.licdn.com/dms/image/v2/C4E22AQG6p4KI6-joWg/feedshare-shrink_800/feedshare-shrink_800/0/1645794889490?e=2147483647&v=beta&t=ujMnZ71guBQANrmAVvy959_70b9t9YxbQYTFpvAF8qQ",
+    "https://media.licdn.com/dms/image/v2/C4D22AQEvEBrQajnFeg/feedshare-shrink_800/feedshare-shrink_800/0/1645809187128?e=2147483647&v=beta&t=6GhGZQENVvCPqHsvIQi7bSJiHZcBa2TRCEKRZo_hZnw",
+    "https://media.licdn.com/dms/image/v2/C5622AQGUaKiHrJ_oHg/feedshare-shrink_800/feedshare-shrink_800/0/1645791268519?e=2147483647&v=beta&t=aFD1pcaFD_0h-b2WZKlRNXxrBg_WT4OoRFHCt0a2tmM",
+    "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTAxZGlnaXMucmNzLXJkcy5y/byUyRnN0b3JhZ2UlMkYyMDIyJTJGMDIl/MkYyNSUyRjE0NjY5NjVfMTQ2Njk2NV9r/bGl0c2Noa28tMi5qcGcmdz04MDAmaGFz/aD1jNDc0YTgxN2Y2ZjNhYzM0MjUwZDdiNGM3MzQ5ZTkzZA==.thumb.jpg",
+    "https://www.lanacion.com.ar/resizer/v2/vitali-klitschko-alistado-para-defender-a-KMTVJTTZGJASHFRDG47A66BFGI.jpg?auth=90951f84520bb6edeb6fa9addb3d0607f4bcb366f6bc207da3013d8564f9e57a&width=768&quality=70&smart=false",
+    "https://i.namu.wiki/i/ehHhF7XzimuLTx3uxt4iKr5qZeC7n9aC3M3YxXOJSWEXwyOcjdU3nPgDynlmIGKIWfmWtJSx25EawkeTK7bJtA.webp",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3086261861702235"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.boxingscene.com/articles/wladimir-klitschko-enlists-ukraine-reserve-army-vows-defend-against-russian-invasion",
+      "page_title": "Wladimir Klitschko Enlists in Ukraine's Reserve Army, Vows To ...",
+      "title": "Wladimir Klitschko Enlists in Ukraine's Reserve Army, Vows To Defend Against Russian Invasion",
+      "description": "According to numerous reports, former unified heavyweight champion Wladimir Klitschko enlisted in Ukraine's reserve army in Kiev on Wednesday. He told reporters that his love for his country compelled him to defend it against a potential invasion by Russia.",
+      "text": "According to numerous reports, former unified heavyweight champion Wladimir Klitschko enlisted in Ukraine's reserve army in Kiev on Wednesday.\nHe told reporters that his love for his country compelled him to defend it against a potential invasion by Russia.\nFor weeks there have been worldwide reports regarding a possible military attack - after Russia assembled tens of thousands of troops near Ukraine's borders.\nWladimir's older brother, former heavyweight champion Vitali Klitschko, left boxing nearly a decade ago to pursue a full-time political career and is currently the mayor of Kiev.\nBoth Klitschko brothers were present during the opening of a Territorial Defense Forces recruitment center in Kiev.\n\"One district from here, my little girl is going to school. The school is currently closed because the ambassadors have sent the families home,\" Wladimir Klitschko said, according to Reuters.\n\"It is the love, the love for my city, my home, my family, my neighbors, my daughter that has brought me here today, that I took this initiative and am now taking part in this territorial defense.\"\nBig brother Vitali indicates that a diplomatic solution to the conflict with Russia is preferred, but he's ready to fight.\n\"If not, we have to prepare to take weapons in our hands, and defend the country,\" Vitali Klitschko said.",
+      "image_captions": [
+        "└Klitschko Brothers"
+      ]
+    }
+  ],
+  "evidence_count": 1,
+  "crawled_at": "2026-04-23T18:04:56.735073+00:00"
+}

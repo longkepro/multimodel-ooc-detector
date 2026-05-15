@@ -1,0 +1,90 @@
+{
+  "sample_id": "true_9",
+  "image_url": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2022/04/bus-fire-kenya-karen-road.jpg",
+  "visual_entities": [
+    {
+      "description": "Electric bus",
+      "score": 0.7216
+    },
+    {
+      "description": "Bus",
+      "score": 0.70814997
+    },
+    {
+      "description": "Electric vehicle",
+      "score": 0.7023
+    },
+    {
+      "description": "Flame",
+      "score": 0.607
+    },
+    {
+      "description": "Alphaville",
+      "score": 0.5352
+    },
+    {
+      "description": "Electricity",
+      "score": 0.4918
+    },
+    {
+      "description": "Battery",
+      "score": 0.4823
+    },
+    {
+      "description": "Fire",
+      "score": 0.4795
+    },
+    {
+      "description": "Compressed natural gas",
+      "score": 0.4644
+    },
+    {
+      "description": "Electric car",
+      "score": 0.3962
+    },
+    {
+      "description": "We Gon' Reign",
+      "score": 0.3343
+    },
+    {
+      "description": "Autokult",
+      "score": 0.3325
+    }
+  ],
+  "best_guess_labels": [
+    "flame"
+  ],
+  "similar_image_urls": [
+    "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2022/04/bus-fire-kenya-karen-road.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=958344278178528&get_thumbnail=1",
+    "https://v.wpimg.pl/NTUwN2UuYTU0FTgBeg5sIHdNbFs8V2J2IFV0EHpEfGRlD3gFYFojejQCOl0-ACIgewciHSUaNDUnWncFMUV8ZDdCLVA3RHZlMBJ-V2RHKGFgR3lXex8-M3cK"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.snopes.com/fact-check/electric-bus-fire-kenya/",
+      "page_title": "Did an Electric Bus Catch Fire on Karen Road in Kenya? | Snopes.com",
+      "title": "Did an Electric Bus Catch Fire on Karen Road in Kenya?",
+      "description": "Photographs and videos highlighting the supposedly negative aspects of electric vehicles are often shared on social media, whether they're truthful or not.",
+      "text": "This video is real, but the way it was captioned on social media was misleading. The bus was powered by compressed natural gas (CNG). It was not an electric vehicle (EV). Also, it happened in Italy, not Kenya.\nFact Check\nIn April 2022, a video of a bus spewing flames was shared the following misleading caption on social media: \"BREAKING: Kenya electric bus BasiGo catches fire along Karen Road.\" However, the truth was that this video showed a bus powered by compressed natural gas (CNG) that exploded in flames near Perugia, Italy.\nHow This All Started\nThe rumor appeared to stem from this tweet from the @CitizzenX Twitter account:\nSeveral Twitter users responded to the person who posted the misleading tweet:\nThe video also appeared on YouTube with the incorrect caption.\nNews Articles Pushed the Misleading Rumor\nA report published by Opera News, a news aggregator, pushed the misleading rumor with the headline, \"Breaking: Kenya Electric Bus BasiGo Catches Fire Along Karen Road.\"\nAccording to the story available on the Opera News website, the @Ma3Route Twitter feed had originally reposted the video and \"BREAKING\" text. However, that tweet later disappeared after it was pointed out that it was not true:\nThis tweet was removed so as to not further spread the misleading rumor about electric vehicles and Kenya.\nAdditionally, we found that the Sambaza News website published the same misleading rumor with the headline, \"Kenya's new electric PSV bus burst into flames along Karen road.\"\nCNG and Italy, Not EV and Kenya\nAccording to a popular thread on the r/CatastrophicFailure subreddit on Reddit, the incident happened on April 16. As previously mentioned, the bus was powered by compressed natural gas (CNG), not electricity, and it all happened near Perugia, Italy, not in Kenya.\nOne of the comments on the Reddit post read: \"This is all over alt-right Facebook already as an electric vehicle fire. Always projection and fear mongering.\"\nThis tweet below was one of the original postings of the video, just hours before @CitizzenX tweeted the misleading caption with the same clip:\nThe website Carscoops.com filed a report that provided more details. The cause of the fire was not yet clear. This second video that appeared to show the aftermath of the fire:\nContacting BasiGo\nBy email, BasiGo CEO and cofounder Jit Bhattacharya responded to the misleading rumor that it was one of the company's electric vehicles in Kenya that appeared in the video. The following statement was provided:\nBasiGo has been alerted to rumours of one of our electric buses catching fire during its daily operations along Karen Road, in Nairobi. We would like to assure passengers and the public that these reports are false. Both of our buses are fully operational as part of our ongoing pilot program with Citi Hoppa and East Shuttles. We would also like to remind passengers that our pilot electric buses ply two routes: Allsops - Jomo Kenyatta International Airport - CBD; City Stadium - Dandora (via Buru Buru).\nSafety is our highest priority at BasiGo. Our electric buses are designed to the highest international safety standards and include an automatic fire suppression system among other safety features. All of our buses are carefully inspected and maintained each evening by our skilled team of service engineers. When passengers travel on a BasiGo electric bus, they can feel confident their trip will be safe, comfortable, and emissions-free.\nIn sum, no, the video did not show a \"Kenya electric bus BasiGo\" catching on fire on Karen Road. The bus in the clip was powered by compressed natural gas (CNG) and the video was recorded near Perugia, Italy.",
+      "image_captions": [
+        "According to a report from Opera News an electric EV bus burst into flames and caught on fire in Kenya on Karen Road."
+      ]
+    },
+    {
+      "url": "https://autokult.pl/pozar-autobusu-zasilanego-gazem-zial-jak-wulkan,6809503461120129a",
+      "page_title": "Pożar autobusu zasilanego gazem. Ział jak wulkan - Autokult",
+      "title": "Pożar autobusu zasilanego gazem. Ział jak wulkan",
+      "description": "Pożar autobusu wykorzystującego CNG robi nie lada wrażenie. Wygląda to tak, jakby zamienił się w rakietę Saturn V i właśnie szykował się do startu. Co ważniejsze – tak wygląda poprawna praca systemu zabezpieczeń.",
+      "text": "Pożar autobusu zasilanego gazem. Ział jak wulkan\nPożar autobusu wykorzystującego CNG robi nie lada wrażenie. Wygląda to tak, jakby zamienił się w rakietę Saturn V i właśnie szykował się do startu. Co ważniejsze – tak wygląda poprawna praca systemu zabezpieczeń.\nNa początek słowo wyjaśnienia, czym tak naprawdę jest CNG. W Polsce króluje bowiem LPG (Liquefied Petroleum Gas). To mieszanina propanu i butanu w stanie ciekłym, znaleźć ją można chociażby w butlach zabieranych na grilla czy zapalniczkach. Z kolei CNG (Compressed Natural Gas) to sprężony pod wysokim ciśnieniem gaz ziemny – taki jak w kuchenkach gazowych.\nZobacz, jak płonie autobus z instalacją CNG:\nWbrew pozorom to poprawne działanie zaworów bezpieczeństwa. Wobec wzrostu temperatury ciśnienie w zbiorniku również rośnie. Jak informuje pismo \"Przegląd Pożarniczy\", takie zbiorniki mogą eksplodować, gdy zawór nie jest wystarczająco wydajny. Podczas akcji ratowniczej trzeba je więc schładzać.\nCo ciekawe, w pojazdach osobowych wyrzut gazu ma miejsce poziomo, w kierunku tyłu pojazdu. W autobusach mających zbiorniki na dachu wyrzut ma miejsce na boki. Rodzi to problemy na ulicach o ciasnej zabudowie, gdyż gaz będzie wyrzucany na wysokości parteru. Zawsze to jednak lepsze rozwiązanie niż potężna eksplozja.",
+      "image_captions": [
+        "Zatrzymali kierowcę w czymś takim. Mandat pomnożyli razy dwa i zabrali prawo jazdy",
+        "Polacy już nie szukają \"używek\". Idą do salonów tych marek",
+        "Podano termin. Wielkie zmiany na autostradzie. Pojedziemy 70 km/h",
+        "Co z programem CPN? Minister wyraził swoje zdanie o niższych cenach paliw",
+        "Kiedyś miał je niemal każdy samochód. Oto dlaczego zniknęły"
+      ]
+    }
+  ],
+  "evidence_count": 2,
+  "crawled_at": "2026-04-23T16:47:11.947322+00:00"
+}

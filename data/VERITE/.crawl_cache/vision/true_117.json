@@ -1,0 +1,115 @@
+{
+  "sample_id": "true_117",
+  "image_url": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2018/11/rockthrow.jpg",
+  "visual_entities": [
+    {
+      "description": "Head injury",
+      "score": 0.7119
+    },
+    {
+      "description": "Concussion",
+      "score": 0.7104
+    },
+    {
+      "description": "Injury",
+      "score": 0.6537
+    },
+    {
+      "description": "Head",
+      "score": 0.6477
+    },
+    {
+      "description": "Traumatic brain injury",
+      "score": 0.6323
+    },
+    {
+      "description": "Brain injury",
+      "score": 0.5959
+    },
+    {
+      "description": "Sports injury",
+      "score": 0.5805
+    },
+    {
+      "description": "Brain",
+      "score": 0.5698
+    },
+    {
+      "description": "Rock",
+      "score": 0.5493
+    },
+    {
+      "description": "First aid",
+      "score": 0.5212
+    },
+    {
+      "description": "Whiplash",
+      "score": 0.448
+    },
+    {
+      "description": "Falling",
+      "score": 0.4362
+    },
+    {
+      "description": "Headache",
+      "score": 0.3978
+    },
+    {
+      "description": "Unconsciousness",
+      "score": 0.3925
+    }
+  ],
+  "best_guess_labels": [
+    "head injury from rock"
+  ],
+  "similar_image_urls": [
+    "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2018/11/rockthrow.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1841603073321404",
+    "https://mediaproxy.snopes.com/width/600/https://media.snopes.com/2018/11/rockthrow.jpg",
+    "https://www.hstoday.us/wp-content/uploads/2017/12/RTEmagicC_bloody_face_07.bmp.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.snopes.com/fact-check/border-patrol-rock-injury/",
+      "page_title": "Does This Photograph Show a Border Patrol Agent Injured ... - Snopes",
+      "title": "Does This Photograph Show a Border Patrol Agent Injured by a Thrown Rock?",
+      "description": "“He who has a glass head should not throw stones at others.”",
+      "text": "On 26 November 2018, President Trump incorrectly stated that three border patrol agents had been \"very badly hurt\" during an altercation with a group of migrants from Central America. While U.S. Customs and Border Protection Commissioner (CBP) Kevin McAleenan and Department of Homeland Security Secretary Kirstjen Nielsen both reported that no border patrol agents were seriously injured during the melee, some of the president's more ardent supporters started circulating an image purportedly showing a bloodied border patrol agent in an apparent attempt to bolster President Trump's claims.\nThe Facebook page Trump Train Conductor posted the photograph with the caption: \"At the U.S./Mexico Border Chula Vista ,Ca. This is what's going on folks . A Border agent was hit by rock throwing from the other side ??☝️️✌️️through strength.\" Facebook user Donald Newland added another element to the rumor when he suggested that networks such as CNN and MSNBC were refusing to report on the agent's injuries:\nThis photograph likely won't be aired by CNN, MSNBC, or \"Face News\" anytime soon, because it does not document a current event. If those networks did decide to display this years-old photograph, it would likely be as part of a segment covering the spread of misinformation about the caravan of refugees who were seeking asylum in the fall of 2018.\nThis photograph has been circulating online since at least March 2013, when it was published by the website \"Homeland Security Today\" as part of an article focused on general rock throwing incidents. The website did not provide any specifics about the identity of this border patrol agent or the nature of his injuries, stating only that the photograph had been provided by U.S. Customs and Border Protection: \"The photos that accompany this report that were made available by CBP show just a few of the CBP personnel who have been injured from being struck in the face and head.\"\nIn fact, the photograph was taken in 2013 (not 2018) in Texas (not California) and depicted an injury caused by rock-throwing drug smugglers (not asylum seekers).\nU.S. Customs and Border Protection Commissioner Kevin McAleenan said in a statement that no border patrol agents were seriously injured while engaged in preventing over 1,000 individuals from entering the United States along the border between Mexico and California on 26 November 2018 (emphasis ours):\nI wanted to provide an opportunity to discuss the events yesterday in San Diego, and provide an update of the incident involving elements of the caravan and their attempts to unlawfully enter the United States. Yesterday, U.S. Customs and Border Protection agents and officers in San Diego effectively managed an extremely dangerous situation involving over 1,000 individuals who sought to enter the U.S. unlawfully in large groups. They did so safely and without any reported serious injuries on either side of the border. Yesterday’s incident involved large groups of migrants ignoring and overwhelming Mexican law enforcement, then attempting to enter the United States through vehicle lanes at San Ysidro and El Chaparral, and then through breaches in the international border fence between ports of entry. Elements of the group also engaged in dozens of assaults on agents and officers. Four agents were hit with rocks, but were wearing protective gear and did not suffer serious injuries.",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.hstoday.us/subject-matter-areas/border-security/border-patrol-agents-still-in-harms-way-every-day-afge-says/",
+      "page_title": "Border Patrol Agents Still in Harms Way Every Day, AFGE Says",
+      "title": "Border Patrol Agents Still in Harms Way Every Day, AFGE Says - HSToday",
+      "description": "Agents protecting US borders, especially the Southwest border, remain frequent targets of cartels and other dangers, including violent illegal aliens trying to cross the border into the US. In a new video released by the American Federation of Government Employees (AFGE), Border Patrol agents talk candidly about coming “in contact…",
+      "text": "Agents protecting US borders, especially the Southwest border, remain frequent targets of cartels and other dangers, including violent illegal aliens trying to cross the border into the US.\nIn a new video released by the American Federation of Government Employees (AFGE), Border Patrol agents talk candidly about coming “in contact with people brandishing knives and firearms, barbed wire stretched across the road, vehicles gunning for them and other all-too-frequent hazards.”\nAFGE is the exclusive representative for more than 17,000 Border Patrol agents and support personnel. AFGE’s National Immigration and Customs Enforcement (ICE) Council also represents about 7,600 ICE officers, agents and employees.\n“Like most law enforcement officers, Border Patrol agents don’t know what’s in store for them when they head out to work each day. But for agents stationed along the southern US border, the job is especially dangerous,” AFGE stated in announcing the third video in a series of videos called, “Walking the Line,” which highlights “the often harsh realities faced by Border Patrol and ICE agents in securing the southern US border.\n“Agents are facing increasing threats from cartels who control each areaof the border and manage the organized smuggling of drugs, people and known criminals across the border,” AFGE said, noting, “They exploit gaps in coverage that occur when Border Patrol agents are responding to a call, assisting an agent who is injured, or dealing with an influx of undocumented immigrants at a single location.”\n“In many cases, cartels are the ones responsible for orchestrating the distractions,” the union said.\nThe most frequent threat to agents is rocks being thrown from across the border, said Shawn Moran, a Border Patrol agent for 17 years who serves as vice president of the AFGE’s National Border Patrol Council. The rock assaults have become so frequent that many agents don’t always report them unless they are injured or government property is damaged.\nHomeland Security Today in March published a comprehensive investigative report, Deadly Patrol, about the seriousness of “rockings,” as they are called, and that they can cause severe head, brain and bodily injuries.\nIn fact, Homeland Security Today’s report pointed out, rock assaults have actually caused a Border Patrol helicopter to crash, and forced another to have to make an emergency landing.\n“It is a very dangerous job, and one where you have to remain constantly alert and be able to take care of yourself and make sure you go home at the end of the shift,” Moran said.\n“There are some people out there that want to cause harm to you just because of what you do,” said Terence Shigg, president-elect of AFGE Local 1613, which represents about 2,300 Border Patrol agents throughout the San Diego, California Sector.\n“They’re absolutely ruthless. To them it’s all about the money, how many people they can get across in a short amount of time,” said Robert Pepperdine, vice president of AFGE Local 2544, which represents more than 3,300 agents in the Tuscon, Arizona, Sector. “They don’t care about if they’re dehydrated, if they’re sick, if they’re old, if they’re ill. They don’t care. It’s all about the money.”",
+      "image_captions": [
+        "Homeland Security Today"
+      ]
+    },
+    {
+      "url": "https://www.snopes.com/tag/border-patrol/",
+      "page_title": "Border Patrol Articles - Snopes.com",
+      "title": "Inspecting Trump's 2026 State of the Union claim that zero 'illegal aliens' were admitted to US in 9 months",
+      "description": "",
+      "text": "Snopes\nNow available in the app store!\nOpen\nLog in to activate your ad-free access.\nIt looks like you might have a Snopes membership! Log in to enjoy your ad-free experience.\nLog In\nYou're browsing with fewer ads for the next 24 hours, thanks to our sponsor\n1440 Newsletter\n.\nLearn More\nSnopes Membership\nSearch\nMy Profile\nLogout\nSubmit a Rumor\nLatest\nTrending\nNews & Politics\nEntertainment\nFact Checks\nQuiz\nSections\nLatest\nTrending\nFact Checks\nNews\nCollections\nMore\nContact Us\nSubmit a Rumor\nArchives\nQuiz\nFactBot\nSubmit a Tip\nSnopes App\nNewsletters\nAbout Us\nCategories\nNews & Politics\nEntertainment\nScience & Technology\nLifestyle\nSnopes Membership\nLogin\nMy Profile\nLogout\nDonald Trump\nAI-generated Content\nPope Leo XIV\nJeffrey Epstein\nMelania Trump\nBorder Patrol\nInspecting Trump's 2026 State of the Union claim that zero 'illegal aliens' were admitted to US in 9 months\nWritten by:\nLaerke Christensen\nFeb. 26, 2026\nThe president's claim slightly conflated immigration terminology about how Border Patrol process ...\nRead More\nIs Evan Kilgore the Border Patrol agent who killed Alex Pretti? Here's the truth\nWritten by:\nJack Izzo\nJan. 27, 2026\nKilgore provided Snopes with documentation showing he couldn't have been the Border Patrol agent ...\nRead More\nWhat to know about images claiming to show man named Juan Carlos after ICE assault\nWritten by:\nRae Deng\nJan. 16, 2026\nA video showed a U.S. Border Patrol agent kneeing a man in the face. We inspected images allege ...\nRead More\nBorder Patrol used tear gas in Chicago neighborhood ahead of Halloween parade. Here's what we know\nWritten by:\nRae Deng\nOct. 31, 2025\nFollowing the incident, DHS head Kristi Noem denied a request from Democratic Illinois Gov. JB P ...\nRead More\nExamining claim video shows ICE detaining Chicago parents in school pick-up line\nWritten by:\nJordan Liles\nOct. 10, 2025\nOnline users shared this claim amid escalating immigration enforcement tactics by President Dona ...\nRead More\nThe truth behind claim ICE detained 10-year-old with cerebral palsy at hospital\nWritten by:\nJack Izzo\nAug. 22, 2025\nWhen the incident occurred in 2017, ICE said it did not \"make arrests in sensitive locations lik ...\nRead More\nFormer US Border Patrol agent faces charges, including child sex trafficking. Here's what court docs say\nWritten by:\nCindy Shan\nJuly 23, 2025\nSocial media posts about the charges against Bart Conrad Yager contained both accurate informati ...\nRead More\nExamining claims database allows countries to detain ICE agents for human rights violations\nWritten by:\nLaerke Christensen\nJune 29, 2025\nSocial media posts said more than three dozen countries had begun recognizing the \"Global ICE Ac ...\nRead More\nUS Border Patrol agents didn't find Biden admin secretly hid FEMA relief packages to feed migrants\nWritten by:\nJordan Liles\nMay 15, 2025\nAccording to the rumor, the administration allegedly \"rerouted\" the relief packages away from st ...\nRead More\nUS Border Patrol didn't uncover FEMA relief packages left by Biden administration to feed migrants\nWritten by:\nJordan Liles\nMay 9, 2025\nThe made-up story claimed Biden's administration rerouted the packages away from Tennessee, Geor ...\nRead More\n20 rumors involving US immigration authorities, fact-checked\nWritten by:\nRae Deng\nApril 13, 2025\nRumors with varying degrees of truth are swirling amid U.S. President Donald Trump's sweeping im ...\nRead More\nUnpacking claims that more eggs than fentanyl are seized at U.S. border\nWritten by:\nRae Deng\nMarch 18, 2025\nAccording to U.S. Customs and Border Protection, few people attempting to bring eggs into the Un ...\nRead More\nWhen Running for President in 2007, Biden Said He Wouldn't Allow Sanctuary Cities to Exist?\nWritten by:\nTaija PerryCook\nFeb. 22, 2024\nWe've witnessed a well-documented shift in the president's narrative when it comes to immigratio ...\nRead More\nBiden Said in 2007 He Wouldn't Allow Sanctuary Cities to Exist?\nWritten by:\nTaija PerryCook\nJan. 31, 2024\n\"You have to have a federal government that can enforce laws,\" he said at the time.\nRead More\nDid Supreme Court Side with Biden Administration on Removing Razor Wire from Texas-Mexico Border?\nWritten by:\nJack Izzo\nJan. 23, 2024\nThe 5-to-4 ruling temporarily gives the U.S. Border Patrol permission to cut and move the razor ...\nRead More\nDid Trump Call for Mass Detention and Deportation of Undocumented Immigrants?\nWritten by:\nNur Ibrahim\nDec. 20, 2023\nThe former president gave an incendiary speech at a December 2023 campaign rally in Nevada.\nRead More\nDid Border Patrol Find $60K Worth of Fentanyl in Burritos?\nWritten by:\nDan MacGuill\nApril 2, 2021\nNews websites published reports of a remarkable discovery along the California-Mexico border in ...\nRead More\nDoes This Photograph Show a Border Patrol Agent Injured by a Thrown Rock?\nWritten by:\nDan Evon\nNov. 29, 2018\n“He who has a glass head should not throw stones at others.”\nRead More\nWas a U.S. Border Patrol Officer Killed by Attackers Armed with Rocks?\nWritten by:\nDan Evon\nNov. 4, 2018\nQuestions remain about the November 2017 death of U.S. Border Patrol Officer Rogelio Martinez, b ...\nRead More\nIs This Audio of Detained Children Crying for Their Parents?\nWritten by:\nKim LaCapria\nJune 19, 2018\nProPublica published a surreptitious recording of distressed immigrant children inside an unname ...\nRead More\nPrevious\nNext\nPage: 1",
+      "image_captions": [
+        "U.S. President Donald Trump delivers the 2026 State of the Union address.",
+        "A smiling white man with a mustache wearing a black T-shirt",
+        "A blurry image of five Border Patrol agents surrounding one man in the ground, who is not visible.",
+        "Border Patrol agents arrest a man on the ground in front of people and a neighborhood decked out in Halloween decorations.",
+        "A person holding a passport and boarding pass rests their hand on the handle of a rolling suitcase, standing in line at an airport with other travelers visible in the background."
+      ]
+    },
+    {
+      "url": "https://www.snopes.com/author/dan/?pagenum=93",
+      "page_title": "Dan Evon, Author at Snopes.com Page 93",
+      "title": "Did a Rape Victim Strip the Skin Off Her Attacker's Genitals with a Potato Peeler?",
+      "description": "The definitive Internet reference source for researching urban legends, folklore, myths, rumors, and misinformation.",
+      "text": "Dan Evon\nDan Evon worked at Snopes between October 2014 and July 2022. Evon is a Chicago-based writer who has been sifting through the sludge of social media since 2009. Prior to joining the editorial staff at Snopes.com, he was the editor-in-chief of Social News Daily, a senior writer for The Inquisitr, and covered motorcycle racing for All About Bikes Magazine.\nPage: 93",
+      "image_captions": []
+    }
+  ],
+  "evidence_count": 4,
+  "crawled_at": "2026-04-23T17:23:35.133090+00:00"
+}

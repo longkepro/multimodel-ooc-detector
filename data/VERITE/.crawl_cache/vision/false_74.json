@@ -1,0 +1,148 @@
+{
+  "sample_id": "false_74",
+  "image_url": "https://www.australiangeographic.com.au/wp-content/uploads/2018/06/space-light-pollution.jpg",
+  "visual_entities": [
+    {
+      "description": "Light pollution",
+      "score": 0.9507
+    },
+    {
+      "description": "Australia",
+      "score": 0.75015
+    },
+    {
+      "description": "Pollution",
+      "score": 0.7086
+    },
+    {
+      "description": "Natural environment",
+      "score": 0.643
+    },
+    {
+      "description": "Science",
+      "score": 0.5225
+    },
+    {
+      "description": "",
+      "score": 0.5001
+    },
+    {
+      "description": "Nature maintenance",
+      "score": 0.4527
+    },
+    {
+      "description": "Skyglow",
+      "score": 0.4223
+    },
+    {
+      "description": "Light",
+      "score": 0.397
+    },
+    {
+      "description": "Night sky",
+      "score": 0.3968
+    },
+    {
+      "description": "Lighting",
+      "score": 0.3806
+    },
+    {
+      "description": "Sky",
+      "score": 0.38
+    },
+    {
+      "description": "Nature",
+      "score": 0.317
+    },
+    {
+      "description": "Biodiversity",
+      "score": 0.3168
+    },
+    {
+      "description": "Department of Climate Change, Energy, the Environment and Water of Australia",
+      "score": 0.309
+    }
+  ],
+  "best_guess_labels": [
+    "light pollution australia"
+  ],
+  "similar_image_urls": [
+    "https://www.australiangeographic.com.au/wp-content/uploads/2018/06/space-light-pollution.jpg",
+    "https://www.australiangeographic.com.au/cdn-cgi/image/width=800,quality=80,format=auto,fit=scale-down/https://www.australiangeographic.com.au/wp-content/uploads/2018/06/space-light-pollution.jpg",
+    "https://b.thumbs.redditmedia.com/O989wIAxlKSQP7JHnQ_GcHO7ON8H_Hdi0wBpqQnBdGI.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.australiangeographic.com.au/science-environment/2011/11/light-pollution-saving-the-view-of-the-stars/",
+      "page_title": "Light pollution: saving the view of the stars - Australian Geographic",
+      "title": "Light pollution: saving the view of the stars",
+      "description": "Light pollution is an increasing problem in urban areas, where the natural night sky is often barely visible.",
+      "text": "Light pollution: saving the view of the stars\nAS A CONSCIENTIOUS AG reader, you probably celebrated Earth Hour. On the last Saturday in March at 8.30 p.m. local time, an estimated 1 billion people in a thousand cities around the world turned off their lights for an hour, continuing an annual event that had its origins just two years ago in Sydney.\nAstronomers welcome the initiative of Earth Hour, because it draws attention to something that most of them feel passionate about. While they, too, worry about the carbon footprint of wasted light, and agonise over the plight of nocturnal animals confused by city lights, they also have a serious professional concern.\nOur view of the Universe through optical (visible-light) telescopes depends on being able to detect faint images against a natural background luminosity of the sky itself. Even in the absence of artificial lighting, this sky-glow threatens to swamp the feeble celestial objects that astronomers are trying to investigate. Any kind of light pollution adds to this background, which is why the world’s largest telescopes are placed in remote locations.\nYou might be surprised to know, however, that city lights are effectively scattered by the Earth’s atmosphere across hundreds of kilometres. For example, astronomers using Australia’s largest optical telescope, the 3.9 m Anglo-Australian Telescope near Coonabarabran, NSW, are used to seeing the glow of Sydney, 350 km away, from the walkway around the dome.\nThis effect has been mapped on a worldwide scale by Pierantonio Cinzano, based at the University of Padua, Italy (www.lightpollution.it/dmsp). Pier-antonio’s studies show that two-thirds of the world’s population live in light-polluted conditions, and about one-fifth can no longer see the Milky Way.\nIt’s also clear that light pollution is encroaching on many of the world’s major observatory sites. Remoteness is no longer enough. What’s ultimately needed is a reduction in urban waste-light, which can be achieved through better lighting design. As well as satisfying astronomers and reducing urban energy bills, this will have the far more important effect of reducing greenhouse-gas emissions on a scale vastly greater than Earth Hour.\nFred Watson is Astronomer-in-Charge of the Anglo-Australian Observatory near Coonabarabran, north-western NSW.\nRELATED STORIES",
+      "image_captions": [
+        "Satellite data reveals light pollution hotspots. In red, the pollution is 40 times that of natural light. (Credit: RAS)",
+        "Creatura With Bec Crew",
+        "Need To Know With Dr Karl",
+        "Treading Lightly With Roger Smith",
+        "Winners: 2025 Nature Photographer Of The Year"
+      ]
+    },
+    {
+      "url": "https://www.australiangeographic.com.au/news/2011/11/light-pollution-saving-the-view-of-the-stars",
+      "page_title": "Light pollution: saving the view of the stars - Australian Geographic",
+      "title": "Light pollution: saving the view of the stars",
+      "description": "Light pollution is an increasing problem in urban areas, where the natural night sky is often barely visible.",
+      "text": "Light pollution: saving the view of the stars\nAS A CONSCIENTIOUS AG reader, you probably celebrated Earth Hour. On the last Saturday in March at 8.30 p.m. local time, an estimated 1 billion people in a thousand cities around the world turned off their lights for an hour, continuing an annual event that had its origins just two years ago in Sydney.\nAstronomers welcome the initiative of Earth Hour, because it draws attention to something that most of them feel passionate about. While they, too, worry about the carbon footprint of wasted light, and agonise over the plight of nocturnal animals confused by city lights, they also have a serious professional concern.\nOur view of the Universe through optical (visible-light) telescopes depends on being able to detect faint images against a natural background luminosity of the sky itself. Even in the absence of artificial lighting, this sky-glow threatens to swamp the feeble celestial objects that astronomers are trying to investigate. Any kind of light pollution adds to this background, which is why the world’s largest telescopes are placed in remote locations.\nYou might be surprised to know, however, that city lights are effectively scattered by the Earth’s atmosphere across hundreds of kilometres. For example, astronomers using Australia’s largest optical telescope, the 3.9 m Anglo-Australian Telescope near Coonabarabran, NSW, are used to seeing the glow of Sydney, 350 km away, from the walkway around the dome.\nThis effect has been mapped on a worldwide scale by Pierantonio Cinzano, based at the University of Padua, Italy (www.lightpollution.it/dmsp). Pier-antonio’s studies show that two-thirds of the world’s population live in light-polluted conditions, and about one-fifth can no longer see the Milky Way.\nIt’s also clear that light pollution is encroaching on many of the world’s major observatory sites. Remoteness is no longer enough. What’s ultimately needed is a reduction in urban waste-light, which can be achieved through better lighting design. As well as satisfying astronomers and reducing urban energy bills, this will have the far more important effect of reducing greenhouse-gas emissions on a scale vastly greater than Earth Hour.\nFred Watson is Astronomer-in-Charge of the Anglo-Australian Observatory near Coonabarabran, north-western NSW.\nRELATED STORIES",
+      "image_captions": [
+        "Satellite data reveals light pollution hotspots. In red, the pollution is 40 times that of natural light. (Credit: RAS)",
+        "Creatura With Bec Crew",
+        "Need To Know With Dr Karl",
+        "Treading Lightly With Roger Smith",
+        "Winners: 2025 Nature Photographer Of The Year"
+      ]
+    },
+    {
+      "url": "https://www.australiangeographic.com.au/tag/light-pollution/",
+      "page_title": "Tag: light pollution - Australian Geographic",
+      "title": "Tag: light pollution",
+      "description": "Browse light pollution articles on Australian Geographic",
+      "text": "Dark sky delight\nThe Southern Hemisphere’s largest Dark Sky Reserve will make you feel small – in the best way possible.\nEnter your subscriber details to access premium content.\nThe Southern Hemisphere’s largest Dark Sky Reserve will make you feel small – in the best way possible.\nNew research suggests urban light is disrupting bird sleep regardless of what colour it is.\nThe Northern Beaches may be home to Australia's first urban night sky park. But why aren’t we applying good lighting principles everywhere?\nJust like forests, deserts and oceans, the night sky is a type of wilderness that inspires and excites, but it’s under threat.\nLight pollution is changing the day-night cycle of some fish, dramatically affecting their feeding behaviour.\nCan we dim the lights in some parts of Australia to bring back the wonders of the night sky?\nLight pollution is an increasing problem in urban areas, where the natural night sky is often barely visible.\nAs Earth Hour approaches, urban light pollution interrupts the visibility of stars.",
+      "image_captions": [
+        "Creatura With Bec Crew",
+        "Need To Know With Dr Karl",
+        "Treading Lightly With Roger Smith",
+        "Winners: 2025 Nature Photographer Of The Year",
+        "Australian Geographic Nature Photographer Of The Year"
+      ]
+    },
+    {
+      "url": "https://www.britannica.com/video/video-light-pollution/-246124",
+      "page_title": "The effects of light pollution on the environment and humans",
+      "title": "The effects of light pollution on the environment and humans | Britannica",
+      "description": "Learn about the effects of excess light at nighttime.",
+      "text": "Understand the effects of light pollution on the environment and humans\nUnderstand the effects of light pollution on the environment and humans\nEncyclopædia Britannica, Inc.\n-\nEncyclopædia Britannica, Inc.An overview of the role greenhouse gases play in modifying Earth's climate.\n-\nEncyclopædia Britannica, Inc.Is light pollution even really pollution at all?\n-\n© American Chemical Society (A Britannica Publishing Partner)How plastic bags can be upcycled into battery parts.\n-\nContunico © ZDF Studios GmbH, Mainz; Thumbnail © Scaliger/Dreamstime.comLearn about light pollution, including its effects on nature.\n-\nCreated and produced by QA International. © QA International, 2010. All rights reserved. www.qa-international.comWhen gases emitted by motor vehicles and industrial processes encounter clouds, the water vapour in the clouds combines with them to form acids, which are then returned to Earth as acid precipitation.\n-\nEncyclopædia Britannica, Inc.Learn more about the major kinds of pollution in this infographic explainer.\n-\nScience in Seconds (www.scienceinseconds.com) (A Britannica Publishing Partner)Ecological effects of light pollution.\n-\nContunico © ZDF Studios GmbH, Mainz; Thumbnail © Alan Gignoux/Dreamstime.comLearn about efforts to minimize the environmental impact of tar-sand (also called oil-sand) extraction, notably in Alberta, Canada.\nTranscript\n[MUSIC PLAYING] SPEAKER: Scientists, polar bears, and Saturday morning cartoons all agree. Pollution is the worst. And the dangers posed by noxious chemicals poured into the water or the air are dire. But what about light pollution? Can that be so bad? Is light pollution even really pollution at all? Pollution is usually described as the addition of any substance or form of energy into an environment at a rate faster than that environment can deal with it.\nFor example, natural sources like volcanoes can release sulfur dioxide and other chemicals into the air causing acid rain. The natural amount of acid in rain rarely causes problems. Soil can often neutralize a certain amount of acid. But industrial processes like generating power from fossil fuels can pump more chemicals into the atmosphere than natural processes can handle.\nThe result is more acid rain and more stress on plants and animals. We call that pollution. And believe it or not, light pollution acts much the same way. Life evolved to cope with natural light from the stars and the moon. But too much light is hard for nature and humanity to handle. It sounds a little strange to complain that the nighttime is too bright. But if you look at the night sky as it's seen in a city and then as it's seen far from human habitation, you can see just how much difference light pollution can make.\nAnd it's not just big cities that are affected. Studies suggest that 80% of America can no longer see the Milky Way when they look into the sky. Strangely enough, light pollution can actually make it hard to see. Artificial lights can help light a dark street, or they can dazzle sensitive eyes adjusted to the dark. Have you ever been walking or driving at night and found yourself blinded by a car's headlights? Well, imagine how owls feel.\nBut perhaps the most significant thing light pollution does is mess with sleep. Circadian rhythms are the cycles of behavior and activity that organisms experience usually over the course of a day-night cycle. Periods of darkness are very important to getting the right amount of sleep. So when artificial lights brighten the sky, it's like nearby animals are trying to go to sleep with their bedroom lights still on.\nIt can affect the circadian rhythms of nocturnal animals too. Any disruption in the light-dark cycle can cost animals sleep and affect their health. Artificial light can even impact the migration patterns of birds. Some migratory birds use light from the moon to navigate at night. And bright lights can confuse them, affecting their journeys.\nLight pollution is real. And it's harmful. Luckily, it's easier to clean up than many other kinds of pollution. We can encourage homes and businesses to turn off their lights when possible. Or we can add shielding to lights to keep them focused where they need to be. If we treat light pollution as the problem it is, we can have a healthier ecosystem and a more beautiful night sky. Plus, we can keep scientists, polar bears, and Saturday morning cartoons off our backs.\nFor example, natural sources like volcanoes can release sulfur dioxide and other chemicals into the air causing acid rain. The natural amount of acid in rain rarely causes problems. Soil can often neutralize a certain amount of acid. But industrial processes like generating power from fossil fuels can pump more chemicals into the atmosphere than natural processes can handle.\nThe result is more acid rain and more stress on plants and animals. We call that pollution. And believe it or not, light pollution acts much the same way. Life evolved to cope with natural light from the stars and the moon. But too much light is hard for nature and humanity to handle. It sounds a little strange to complain that the nighttime is too bright. But if you look at the night sky as it's seen in a city and then as it's seen far from human habitation, you can see just how much difference light pollution can make.\nAnd it's not just big cities that are affected. Studies suggest that 80% of America can no longer see the Milky Way when they look into the sky. Strangely enough, light pollution can actually make it hard to see. Artificial lights can help light a dark street, or they can dazzle sensitive eyes adjusted to the dark. Have you ever been walking or driving at night and found yourself blinded by a car's headlights? Well, imagine how owls feel.\nBut perhaps the most significant thing light pollution does is mess with sleep. Circadian rhythms are the cycles of behavior and activity that organisms experience usually over the course of a day-night cycle. Periods of darkness are very important to getting the right amount of sleep. So when artificial lights brighten the sky, it's like nearby animals are trying to go to sleep with their bedroom lights still on.\nIt can affect the circadian rhythms of nocturnal animals too. Any disruption in the light-dark cycle can cost animals sleep and affect their health. Artificial light can even impact the migration patterns of birds. Some migratory birds use light from the moon to navigate at night. And bright lights can confuse them, affecting their journeys.\nLight pollution is real. And it's harmful. Luckily, it's easier to clean up than many other kinds of pollution. We can encourage homes and businesses to turn off their lights when possible. Or we can add shielding to lights to keep them focused where they need to be. If we treat light pollution as the problem it is, we can have a healthier ecosystem and a more beautiful night sky. Plus, we can keep scientists, polar bears, and Saturday morning cartoons off our backs.",
+      "image_captions": [
+        "Encyclopedia Britannica",
+        "Understand the effects of light pollution on the environment and humans",
+        "How greenhouse gases affect Earth's climate",
+        "How light pollution affects humans",
+        "Upcycling plastic bags"
+      ]
+    },
+    {
+      "url": "https://www.britannica.com/video/video-light-pollution/-242873",
+      "page_title": "How Light Pollution Affects Humans - Britannica",
+      "title": "Demystified | How Light Pollution Affects Humans | Britannica",
+      "description": "Is light pollution even really pollution at all?",
+      "text": "How light pollution affects humans\nHow light pollution affects humans\nEncyclopædia Britannica, Inc.\n-\n© American Chemical Society (A Britannica Publishing Partner)Explore the chemistry of seasonal affective disorder.\n-\nContunico © ZDF Studios GmbH, MainzLearn about the bunker experiment, in which subjects were confined for weeks with no exposure to natural light and soon established their own circadian rhythms.\n-\nContunico © ZDF Studios GmbH, Mainz; Thumbnail © Evgeniy Parilov/Dreamstime.comLearn how plastic debris affects the Pacific Ocean.\n-\n© American Chemical Society (A Britannica Publishing Partner)How plastic bags can be upcycled into battery parts.\n-\nContunico © ZDF Studios GmbH, Mainz; Thumbnail © Scaliger/Dreamstime.comLearn about light pollution, including its effects on nature.\n-\nEncyclopædia Britannica, Inc.Learn more about the major kinds of pollution in this infographic explainer.\n-\nScience in Seconds (www.scienceinseconds.com) (A Britannica Publishing Partner)Ecological effects of light pollution.\n-\nContunico © ZDF Studios GmbH, Mainz; Thumbnail © Alan Gignoux/Dreamstime.comLearn about efforts to minimize the environmental impact of tar-sand (also called oil-sand) extraction, notably in Alberta, Canada.\nTranscript\n[MUSIC PLAYING] SPEAKER: Scientists, polar bears, and Saturday morning cartoons all agree. Pollution is the worst. And the dangers posed by noxious chemicals poured into the water or the air are dire. But what about light pollution? Can that be so bad? Is light pollution even really pollution at all? Pollution is usually described as the addition of any substance or form of energy into an environment at a rate faster than that environment can deal with it.\nFor example, natural sources like volcanoes can release sulfur dioxide and other chemicals into the air causing acid rain. The natural amount of acid in rain rarely causes problems. Soil can often neutralize a certain amount of acid. But industrial processes like generating power from fossil fuels can pump more chemicals into the atmosphere than natural processes can handle.\nThe result is more acid rain and more stress on plants and animals. We call that pollution. And believe it or not, light pollution acts much the same way. Life evolved to cope with natural light from the stars and the moon. But too much light is hard for nature and humanity to handle. It sounds a little strange to complain that the nighttime is too bright. But if you look at the night sky as it's seen in a city and then as it's seen far from human habitation, you can see just how much difference light pollution can make.\nAnd it's not just big cities that are affected. Studies suggest that 80% of America can no longer see the Milky Way when they look into the sky. Strangely enough, light pollution can actually make it hard to see. Artificial lights can help light a dark street, or they can dazzle sensitive eyes adjusted to the dark. Have you ever been walking or driving at night and found yourself blinded by a car's headlights? Well, imagine how owls feel.\nBut perhaps the most significant thing light pollution does is mess with sleep. Circadian rhythms are the cycles of behavior and activity that organisms experience usually over the course of a day-night cycle. Periods of darkness are very important to getting the right amount of sleep. So when artificial lights brighten the sky, it's like nearby animals are trying to go to sleep with their bedroom lights still on.\nIt can affect the circadian rhythms of nocturnal animals too. Any disruption in the light-dark cycle can cost animals sleep and affect their health. Artificial light can even impact the migration patterns of birds. Some migratory birds use light from the moon to navigate at night. And bright lights can confuse them, affecting their journeys.\nLight pollution is real. And it's harmful. Luckily, it's easier to clean up than many other kinds of pollution. We can encourage homes and businesses to turn off their lights when possible. Or we can add shielding to lights to keep them focused where they need to be. If we treat light pollution as the problem it is, we can have a healthier ecosystem and a more beautiful night sky. Plus, we can keep scientists, polar bears, and Saturday morning cartoons off our backs.\nFor example, natural sources like volcanoes can release sulfur dioxide and other chemicals into the air causing acid rain. The natural amount of acid in rain rarely causes problems. Soil can often neutralize a certain amount of acid. But industrial processes like generating power from fossil fuels can pump more chemicals into the atmosphere than natural processes can handle.\nThe result is more acid rain and more stress on plants and animals. We call that pollution. And believe it or not, light pollution acts much the same way. Life evolved to cope with natural light from the stars and the moon. But too much light is hard for nature and humanity to handle. It sounds a little strange to complain that the nighttime is too bright. But if you look at the night sky as it's seen in a city and then as it's seen far from human habitation, you can see just how much difference light pollution can make.\nAnd it's not just big cities that are affected. Studies suggest that 80% of America can no longer see the Milky Way when they look into the sky. Strangely enough, light pollution can actually make it hard to see. Artificial lights can help light a dark street, or they can dazzle sensitive eyes adjusted to the dark. Have you ever been walking or driving at night and found yourself blinded by a car's headlights? Well, imagine how owls feel.\nBut perhaps the most significant thing light pollution does is mess with sleep. Circadian rhythms are the cycles of behavior and activity that organisms experience usually over the course of a day-night cycle. Periods of darkness are very important to getting the right amount of sleep. So when artificial lights brighten the sky, it's like nearby animals are trying to go to sleep with their bedroom lights still on.\nIt can affect the circadian rhythms of nocturnal animals too. Any disruption in the light-dark cycle can cost animals sleep and affect their health. Artificial light can even impact the migration patterns of birds. Some migratory birds use light from the moon to navigate at night. And bright lights can confuse them, affecting their journeys.\nLight pollution is real. And it's harmful. Luckily, it's easier to clean up than many other kinds of pollution. We can encourage homes and businesses to turn off their lights when possible. Or we can add shielding to lights to keep them focused where they need to be. If we treat light pollution as the problem it is, we can have a healthier ecosystem and a more beautiful night sky. Plus, we can keep scientists, polar bears, and Saturday morning cartoons off our backs.",
+      "image_captions": [
+        "Encyclopedia Britannica",
+        "How light pollution affects humans",
+        "Understanding seasonal affective disorder",
+        "What happens to a person's biological clock in isolation?",
+        "The impact of plastic waste on marine life"
+      ]
+    }
+  ],
+  "evidence_count": 5,
+  "crawled_at": "2026-04-23T17:10:55.953032+00:00"
+}

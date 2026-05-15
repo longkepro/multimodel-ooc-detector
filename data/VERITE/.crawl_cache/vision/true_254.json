@@ -1,0 +1,110 @@
+{
+  "sample_id": "true_254",
+  "image_url": "https://pbs.twimg.com/media/FL6FUSFXMBAAAHt?format=jpg&name=medium",
+  "visual_entities": [
+    {
+      "description": "Police 24/7",
+      "score": 0.8607
+    },
+    {
+      "description": "United States Capitol Police",
+      "score": 0.7159
+    },
+    {
+      "description": "Crime",
+      "score": 0.6246
+    },
+    {
+      "description": "Law enforcement",
+      "score": 0.6181
+    },
+    {
+      "description": "Criminal justice",
+      "score": 0.615
+    },
+    {
+      "description": "Miami Shores Police Department",
+      "score": 0.5968
+    },
+    {
+      "description": "Nashua Police Department",
+      "score": 0.593
+    },
+    {
+      "description": "Sheriff",
+      "score": 0.5857
+    },
+    {
+      "description": "St Louis County Police Department",
+      "score": 0.5819
+    },
+    {
+      "description": "Law enforcement agency",
+      "score": 0.5694
+    },
+    {
+      "description": "County police",
+      "score": 0.5441
+    },
+    {
+      "description": "Ride-along",
+      "score": 0.5219
+    },
+    {
+      "description": "Patrolling",
+      "score": 0.4837
+    }
+  ],
+  "best_guess_labels": [
+    "police"
+  ],
+  "similar_image_urls": [
+    "https://i.imgur.com/nKBQmYe.png",
+    "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/3/09/309b979a-11bb-578a-bfeb-a0aa1833af3a/63e6b70e95b47.image.jpg?crop=1200%2C630%2C0%2C196&resize=438%2C230&order=crop%2Cresize",
+    "https://i.ytimg.com/vi/dITkNiHw_Yg/mqdefault.jpg",
+    "https://bloximages.chicago2.vip.townnews.com/insidehalton.com/content/tncms/assets/v3/editorial/3/e4/3e49850a-3c7d-580c-b08b-88b59c6b21d3/685ad3763dc29.image.jpg?resize=200%2C222",
+    "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/88/9885bbdd-46a2-5d95-8870-9db994a95c5b/63e6a2b6dac9a.image.jpg?crop=1080%2C567%2C0%2C316",
+    "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/69/f695d02e-29d5-5083-8b34-d4c7a1b03b96/63ea2b0ecd989.image.jpg?resize=449%2C500",
+    "https://lookaside.fbsbx.com/lookaside/crawler/threads/DV4z85HjEUF/0/image.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=5211279302244889"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.nashuanh.gov/1608/Police-Department",
+      "page_title": "Police Department - Nashua, NH",
+      "title": "Police Department",
+      "description": "The focus of the Nashua Police Department is on community-oriented policing, which relies on individuals and neighborhood groups working with the police to prevent and reduce crime.",
+      "text": "MISSION STATEMENT\nThe Nashua Police Department strives to improve the quality of life in its community and to protect people and property in partnership with the citizens of Nashua.\nPRIMARY MISSION\nAn urban society free from crime and disorder remains an unachieved ideal. Nevertheless, consistent with the values of a free society, it is the primary mission of the Nashua Police Department to, as closely as possible, approach that ideal.\nIn so doing, the Department's role is to enforce the law in a fair and impartial manner recognizing both the statutory and judicial limitations of police authority and the constitutional rights of all persons. It is not the role of the Department to legislate, to render legal judgments, or to punish.\nThe complexities of policing a free society cannot be totally reduced to a written form. However, in the process of carrying out this mission, there are certain functional objectives that the Department will endeavor to accomplish.",
+      "image_captions": [
+        "Aerial view of City Hall and downtown main street",
+        "Aerial view of Clock Tower and Main Street",
+        "Aerial view of north main street bridge and the Nashua River",
+        "Nashua Police is hiring!"
+      ]
+    },
+    {
+      "url": "https://www.thestar.com/opinion/contributors/ten-years-later-the-g20-remains-a-wound-and-a-sign-that-police-reform-is/article_d0311a42-cd67-5c7d-81e9-4cb4fa77ce24.html",
+      "page_title": "Ten years later, the G20 remains a wound and a sign that police ...",
+      "title": "Shawn Micallef: Ten years later, the G20 remains a wound and a sign that police reform is critical in a post-COVID world",
+      "description": "The clashes between police and peaceful protesters at the G20 summit in 2010 were reminiscent of the scenes currently playing out in the U.S.",
+      "text": "June is the most beautiful time to be in Toronto. Lush and green, everything is new, the infinite summer ahead. Ten years ago, June in Toronto was different. It was ugly and reminiscent of scenes playing out in the United States.\nIt was a month of fortification and militarization of the city in preparation for the G20 summit. In the weeks before the event a massive wall was erected downtown. Helicopters hovered over the city. In parks like Allen Gardens, many blocks from the core, police in paramilitary uniforms wandered in packs, their riot gear and bundles of zip tie cuffs dangling from their belts.\nThe rest is known and should never be forgotten. Protests were mostly peaceful but for a couple dozen “black bloc” members allowed to run amok. The provincial Liberal government, at the request of then-Toronto police Chief Bill Blair, passed a “secret law” that gave police special powers to arrest that “operated as a trap,” as Ontario’s ombudsman wrote in his damning report on G20 abuses.\nPolice “kettled” peaceful protesters and unlucky bystanders in numerous locations, including the intersection of Spadina and Queen, where hundreds were trapped in the rain. People were held in a makeshift jail. Peaceful protesters were beaten. Bones broken. Police covered their badges.\nBlair, later washing his hands of responsibility of the multi-force “Integrated Security Unit” (ISU), even implied toys taken from medieval role-playing geeks were protest weapons. Mendacity, violence and the largest mass arrest in Canadian history, with more than 1,100 people rounded up, most released without charges.\nIn the aftermath of this biggest breach of Canadian civil liberties, the provincial Liberals and federal Conservatives were not interested in an inquiry. Blair’s reward was being made a Minister of the Crown in the Trudeau government. But for a couple of officers who were given light penalties, nobody was punished, no “good apple” officers spoke up about abuses they witnessed. The thin blue line was solid and silent.\nA week after the summit Toronto city council, some councillors still in office today, voted 36-0 to commend Blair, his officers and the other forces in the ISU for their “outstanding work” during the G20.\nEven our elected officials cowardly turned their back on all this, as did so many media pundits who perhaps didn’t like the politics of the protesters. What would they say if the police attacked the press? What if it was your politics they didn’t care for?\nThe G20 is an unsutured wound in Toronto and Canada. For many people it was a profound loss of trust in the police and political institutions, for others who already had experiences that annihilated their trust, it was old news.\nThe protests — rebellion — down south centre around anti-Black racism and violence. There’s no Canadian exceptionalism here. A 2018 study by the Ontario Human Rights Commission found Black people in Toronto were “grossly overrepresented” when police use force or shoot, and more likely to be hurt. The evidence of a problem is abundant.\nPrevious attempts at police reform have been largely foiled. Legislation that would increase police oversight was changed and watered down when the Ford government took power. The police union will fight attempts to reform or change too.\nWhen choosing a new chief in 2015, Mayor John Tory and his police services board could have picked a reformer like Peter Sloly, but in this status quo city, they choose Mark Saunders, a status quo man. Today, Sloly is Ottawa’s chief and speaks about reform often.\nAt well over $1 billion, policing is the single biggest budget item for the city of Toronto, but it barely gets any debate at city council as it increases.\nPost-COVID, can we afford to write the blank cheque?\nIf human empathy is not enough to move you to care about reform, know that your tax money, buried in this budget, goes to brutality lawsuit settlements too. The mounted unit alone, good for little more than public relations and filling bike lanes with horse poop, costs around $5 million a year. What else could that money do?\n“Over time we’ve asked the police to do more and more, and they now provide a number of functions that were previously provided by other social agencies, or even by the public themselves,” says Akwasi Owusu-Bempah, a U of T professor who studies policing. Mental health, homelessness and even programs for marginalized youth often involve the police under the banner of crime or gang prevention, he says.\n“We need to have a very close look at all of the functions that police currently provide, and decide which of these we want the police doing and which would be better left to other agencies and institutions,” he says. “By taking these responsibilities away from the police we would also reduce unnecessary criminalization and, importantly, reduce instances of police violence where they might otherwise not have occurred.”\nG20 was just a sign of a profound crisis in policing. The urban recovery from COVID-19 must be far reaching, and police reform must be part of it.\nError! Sorry, there was an error processing your request.\nThere was a problem with the recaptcha. Please try again.\nYou may unsubscribe at any time. By signing up, you agree to our terms of use and privacy policy. This site is protected by reCAPTCHA and the Google privacy policy and terms of service apply.\nWant more of the latest from us? Sign up for more at our newsletter page.",
+      "image_captions": [
+        "The 10th anniversary of the G20 summit in Toronto should not be forgotten in any discussion of urban renewal, post-COVID-19.RICHARD LAUTENS / TORONTO STAR FILE PHOTO",
+        "Proudly Canadian Owned Logo",
+        "Maple Leafs sign Yasiel Puig, hope former Dodgers all-star can bring CBL championship to Toronto",
+        "Canadian immigration minister's sporadic communication about new permanent resident program fuelling misinformation, lawyers charge",
+        "Trump's team cannot 'dictate the terms' of CUSMA talks, Mark Carney says"
+      ]
+    },
+    {
+      "url": "https://www.thestar.com/news/gta/toronto-police-board-agrees-to-16-5-million-settlement-over-mass-arrests-at-2010-g20/article_3242127e-c07a-54c1-8197-f25c9f3f3328.html",
+      "page_title": "Toronto police board agrees to $16.5 million settlement over mass ...",
+      "title": null,
+      "description": "",
+      "text": "Please wait while we attempt to load the requested page",
+      "image_captions": []
+    }
+  ],
+  "evidence_count": 3,
+  "crawled_at": "2026-04-23T18:04:23.629797+00:00"
+}

@@ -1,0 +1,128 @@
+{
+  "sample_id": "false_1",
+  "image_url": "https://miro.medium.com/max/1400/0*-wsuYdEl66hEo4U7.jpg",
+  "visual_entities": [
+    {
+      "description": "Bike",
+      "score": 0.7947139
+    },
+    {
+      "description": "Kick scooter",
+      "score": 0.7463
+    },
+    {
+      "description": "Electric kick scooter",
+      "score": 0.7284
+    },
+    {
+      "description": "Unicycle",
+      "score": 0.6072
+    },
+    {
+      "description": "high-visibility vest",
+      "score": 0.5711
+    },
+    {
+      "description": "Traffic",
+      "score": 0.5395
+    },
+    {
+      "description": "Scooter",
+      "score": 0.5313
+    },
+    {
+      "description": "Moped",
+      "score": 0.5259
+    },
+    {
+      "description": "Electric unicycle",
+      "score": 0.4746
+    },
+    {
+      "description": "Pedestrian",
+      "score": 0.4479
+    },
+    {
+      "description": "Bike Helmet",
+      "score": 0.4075
+    },
+    {
+      "description": "Car",
+      "score": 0.36885
+    },
+    {
+      "description": "Traffic code",
+      "score": 0.3611
+    }
+  ],
+  "best_guess_labels": [
+    "discarica di monopattini"
+  ],
+  "similar_image_urls": [
+    "https://www.kolobezkyelektricke.sk/wp-content/uploads/2020/08/5e458d8703b5d98e39fc6873_2020-02-13-large-scaled-1.jpg",
+    "https://www.kolobezkyelektricke.sk/wp-content/uploads/2020/08/5e458d8703b5d98e39fc6873_2020-02-13-large-scaled-1-1024x678.jpg",
+    "https://www.elettricosmart.it/wp-content/uploads/2021/05/scooter-discarica-960x635.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.la7.it/intanto/video/roma-il-tevere-trasformato-in-una-discarica-di-bici-e-monopattini-a-noleggio-24-02-2025-581756",
+      "page_title": "Bici e monopattini a noleggio abbandonati sulle rive del Tevere - LA7",
+      "title": "Bici e monopattini a noleggio abbandonati sulle rive del Tevere",
+      "description": "Roma, il Tevere trasformato in una discarica di bici e monopattini a noleggio",
+      "text": "Roma, le rive del Tevere si stanno riempiendodibici e monopattini a noleggio abbandonati, trasformandosi sempre più in una discarica a cielo aperto. Il fenomeno, segnalato da residenti e associazioni ambientaliste, sta sollevando preoccupazioni per il degrado urbano e l’inquinamento.\nMolti mezzi vengono lanciati nel fiume dopo essere stati vandalizzati o usati impropriamente, creando problemi sia ambientali che di sicurezza. Le autorità stanno valutando nuove misure per contrastare questo scempio e regolamentare meglio i servizi di mobilità condivisa.",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.lanazione.it/video/reel/firenze-scatta-la-rimozione-dei-monopattini-fx9e7sng",
+      "page_title": "Firenze, scatta la rimozione dei monopattini - La Nazione",
+      "title": "Firenze, scatta la rimozione dei monopattini",
+      "description": "Firenze, scatta la rimozione dei monopattini",
+      "text": "Il Piacere della lettura: l'intervista a Gio Evan\nC’è un equivoco, quasi tenero, che accompagna da sempre la parola gioia: la immaginiamo leggera, improvvisa, un colpo di fortuna emotivo...\nGuarda il videoFirenze, scatta la rimozione dei monopattini\nC’è un equivoco, quasi tenero, che accompagna da sempre la parola gioia: la immaginiamo leggera, improvvisa, un colpo di fortuna emotivo...\nGuarda il video",
+      "image_captions": [
+        "Firenze, scatta la rimozione dei monopattini",
+        "Il Piacere della lettura: l'intervista a Gio Evan"
+      ]
+    },
+    {
+      "url": "https://www.elettricosmart.it/quanto-sono-green-i-monopattini-elettrici/",
+      "page_title": "Quanto sono Green i Monopattini Elettrici? - ElettricoSmart",
+      "title": "Quanto sono Green i Monopattini Elettrici? | ElettricoSmart",
+      "description": "Ma quanto sono davvero ecologici i monopattini elettrici? Scopriamolo in questa analisi con dati alla mano e un'infografica completa!",
+      "text": "Spesso si afferma che i monopattini elettrici sono green, ecologici, ecosostenibili. Lo scorso bonus micromobilità 2020, a sostegno della mobilità sostenibile, è la conferma che i monopattini sono davvero amici dell’ambiente. Essi, infatti, inquinano sicuramente meno dei veicoli con motori a combustione come auto e moto. In questo articolo voglio però svelarti, con dati alla mano, quanto sono veramente green i monopattini elettrici. Scopriamolo subito!\nQuanto inquinano i monopattini elettrici?\nLa risposta, per alcuni, potrebbe sembrare essere “zero”. Ma non è proprio così. Non emettere gas di scarico non significa non inquinare. Ci sono, infatti tanti altri “fattori inquinanti” da tenere in considerazione come i materiali di cui è composto, la produzione, la manutenzione, l’uso, il consumo e lo smaltimento. Tutto questo viene definito il ciclo di vita del monopattino elettrico.\nEmissioni in CO2: il confronto\nQui sotto, grazie alle ricerche condotte dal Lufthansa Innovation Hub e raccolte in una infografica pubblicata da tnmt.com, vediamo riassunte le emissioni di CO2 medie (espresse in grammi per km) dei principali mezzi di trasporto. Il grafico è molto interessante perchè mette in risalto la quantità di emissioni insieme alla loro fonte:\n- uso del carburante del veicolo, combustibile o elettricià (operation, direct)\n- manutenzione ordinaria del veicolo e parti di ricambio (maintenance)\n- processo di produzione, durata di vita utile, smaltimento (manufacture & disposal)\n- inq",
+      "image_captions": [
+        "Foto diAlexander KlarmannsuUnsplash",
+        "foto da NIU global",
+        "monopattini elettrici ecologici green elettricosmart ricerca copertina",
+        "infografica emissioni CO2 mezzi di trasporto monopattini elettrici",
+        "scooter elettrico niu emissioni consumi"
+      ]
+    },
+    {
+      "url": "https://www.kolobezkyelektricke.sk/category/informacie-o-e-kolobezkach/",
+      "page_title": "Informácie o e-kolobežkách Archives - Elektrické kolobežky",
+      "title": "Informácie o e-kolobežkách Archives - Elektrické kolobežky pre dospelých - Terénne kolobežky - Mestské elektrické kolobežky - Rýchle elektrické kolobežky",
+      "description": null,
+      "text": "Prenajaté elektrické kolobežky nemusia byť tak ekologické ako si myslíme\nŠtúdia zistila, že používanie prenajatej elektrickej kolobežky nemusí byť tak ekologické ako cestovanie autobusom. Rozhodne je však presun elektrickou kolobežkou ekologickejší ako cestovanie autom. Najekologickejšie však zostáva presun bicyklom. Prvá recenzovaná štúdia skúmajúca vplyv životného cyklu zdieľaných elektronických kolobežiek na životné prostredie naznačuje, že existujú aj ekologickejšie spôsoby mestkého prepravovania. Pri posudzovaní životného cyklu prenajatej […]\nPneumatiky na elektrickú kolobežku – Ako ich vybrať?\nPneumatiky na elektrickú kolobežku sú dôležitou časťou kolobežky. Ak sa rozhodujete, ktorý typ pneumatiky je pre Vás vhodný môže byť pre Vás tento článok nápomocný. Zhrnutie článku: Pneumatiky na elektrickú kolobežku bez obsahu vzduchu (pevné) Pevné pneumatiky sú vyrobené z gumy alebo z pevnej polyuretánovej peny. Sú odolné voči prepichnutiu. Avšak tak isto sa môžu […]\nVodičský preukaz na elektrickú kolobežku\nElektrická kolobežka vodičský preukaz je potrebné ho mať? Akými pravidlami sa musíme riadiť na elektrickej kolobežke? Vo všeobecnosti platí, že na elektrickú kolobežku nemusíte mať vodičské oprávnenie. Ešte minulý rok sa kolobežkár bral ako chodec. Od roku 2020 je jazdec na elektrickej kolobežke braní ako vodič nemotorového vozidla a platia pre nich podmienky ako pre cyklistov. Elektrická kolobežka […]\nKoľko prejdem na elektrickej kolobežke?\nKoľko prejdem na elektrickej kolob",
+      "image_captions": [
+        "Elektrická kolobežka pre dospelých",
+        "Elektrické kolobežky pneumatiky",
+        "Ako správne nabíjať elektrickú kolobežku",
+        "Ako si vybrať elektrickú kolobežku",
+        "Recyklácia elektrickej kolobežky"
+      ]
+    },
+    {
+      "url": "https://www.kolobezkyelektricke.sk/elektricka-kolobezka-a-jej-dopad-na-zivotne-prostredie-setrime-planetu-ak-pouzivame-kolobezku-namiesto-auta-1/",
+      "page_title": "Elektrická kolobežka a jej dopad na životné prostredie",
+      "title": "Elektrická kolobežka a jej dopad na životné prostredie",
+      "description": "Je elektrická kolobežka ekologická? Prečo je ekologickejšie kúpiť si vlastnú kolobežku ako používaľ kolobežky, ktorá sa dajú zapožičať?",
+      "text": "Je elektrická kolobežka ekologickejšia ako auto? Prečo je ekologickejšie kúpiť si svoju kolobežku ako používať kolobežky, ktoré sa dajú požičať?\nAk ste už niekedy vyskúšali elektrickú kolobežku, pravdepodobne ste sa zamýšľali nad tým, aký dopad majú automobily na životné prostredie. Prepravovanie elektrickými kolobežkami je v prvom rade lacný a zábavný spôsob, ako sa dá presúvať v rámci mesta.\nKeď prechádzate popri ľuďoch v autách, či MHD, zaujíma vás, či je Váš spôsob prepravy ekologickejší? Koniec koncov, vieme, z čoho je naša kolobežka vyrobená? Vieme niečo o dobíjaní kolobežky? Je náš elektrický skúter dokonca “zelený”?\nZ čoho je vyrobená elektrická kolobežka?\nV prvom rade náš elektronický zázrak je len malým zlomkom hmotnosti a veľkosti akéhokoľvek vozidla, a preto začína s obrovskou environmentálnou výhodou. Auto musí prepravovať nielen hmotnosť svojich cestujúcich, ale aj vlastný objemný a ťažký rám. Priemerná váha vozidla je asi 1,4 tony, zatiaľ čo typické SUV váži takmer 2 tony.\nElektrický motor, ktorý poháňa kolobežku, obsahuje rovnaký druh minerálov vzácnych zemín, aké sa nachádzajú v generátore elektrických automobilov, ale oveľa menšie množstvo.\nPrvým dôležitým krokom k minimalizácii dopadu na životné prostredie je výber elektrickej kolobežky s vysoko kvalitným motorom a spoľahlivou a odolnou batériou. Tieto sú síce cenovo očosi vyššie, ale správnym výberom kvalitnej kolobežky sa vyhnete príliš skorému servisovaniu, prípadne dokupovaniu novej batérie.\nZ akého mat",
+      "image_captions": [
+        "Výroba elekrického motocykla",
+        "Elektrické kolobežky pre dospelých – Terénne kolobežky – Mestské elektrické kolobežky – Rýchle elektrické kolobežky"
+      ]
+    }
+  ],
+  "evidence_count": 5,
+  "crawled_at": "2026-04-23T16:11:29.910455+00:00"
+}

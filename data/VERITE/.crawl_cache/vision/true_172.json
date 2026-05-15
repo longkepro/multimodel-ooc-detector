@@ -1,0 +1,129 @@
+{
+  "sample_id": "true_172",
+  "image_url": "https://imageio.forbes.com/blogs-images/trevornace/files/2017/07/panda-solar-farm.jpg?format=jpg&width=960",
+  "visual_entities": [
+    {
+      "description": "Photovoltaic power station",
+      "score": 0.7303
+    },
+    {
+      "description": "Solar energy",
+      "score": 0.7239
+    },
+    {
+      "description": "Renewable energy",
+      "score": 0.7225
+    },
+    {
+      "description": "Solar power",
+      "score": 0.7144
+    },
+    {
+      "description": "Power station",
+      "score": 0.7109
+    },
+    {
+      "description": "Solar Panel",
+      "score": 0.7005
+    },
+    {
+      "description": "Energy",
+      "score": 0.6464
+    },
+    {
+      "description": "Photovoltaics",
+      "score": 0.6269
+    },
+    {
+      "description": "Electricity",
+      "score": 0.5936
+    },
+    {
+      "description": "Solar installation",
+      "score": 0.5794
+    },
+    {
+      "description": "Photovoltaic system",
+      "score": 0.5737
+    },
+    {
+      "description": "Sustainable energy",
+      "score": 0.54
+    },
+    {
+      "description": "Electrical grid",
+      "score": 0.5223
+    },
+    {
+      "description": "Stand-alone power system",
+      "score": 0.4938
+    },
+    {
+      "description": "Renewable resource",
+      "score": 0.4797
+    }
+  ],
+  "best_guess_labels": [
+    "panda solar plant"
+  ],
+  "similar_image_urls": [
+    "https://dogruhabercomtr.teimg.com/dogruhaber-com-tr/uploads/2026/04/fosil-yakit-krizi-cinin-temiz-enerji-alanindaki-hakimiyetini-daha-da-belirgin-hale-getiriyor.jpg",
+    "https://img.aydinlik.com.tr/rcman/Cw1280h720q95gc/storage/files/images/2026/04/13/fosil-yakitlardaki-kriz-cinin-temiz-enerjideki-liderligini-pekistiriyor-pr2a.jpg",
+    "https://dogruhabercomtr.teimg.com/crop/1280x720/dogruhaber-com-tr/uploads/2026/04/fosil-yakit-krizi-cinin-temiz-enerji-alanindaki-hakimiyetini-daha-da-belirgin-hale-getiriyor.jpg",
+    "https://image.volkskrant.nl/144656176/feature-crop/1200/675/zonnepark-in-china",
+    "https://img-s2.onedio.com/id-5985ede13e549abd17e062c7/rev-0/w-1200/h-675/f-jpg/s-bfb721de2bd7939be6d4e7f689b5a05d31891062.jpg",
+    "https://demotywatory.pl/uploads/202103/1614792954_537fem_fb_plus.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10237858472983631",
+    "https://ledsaigon.vn/upload/images/gau%20truc%20nang%20luong%20mat%20troi.jpg",
+    "https://www.savingwithsolar.com.au/wp-content/uploads/2019/05/Panda-Solar-Farm-in-China.jpg",
+    "https://image.volkskrant.nl/144656176/width/2480/zonnepark-in-china"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.forbes.com/sites/trevornace/2017/07/25/china-just-built-250-acre-solar-farm-shaped-giant-panda/",
+      "page_title": "China Just Built A 250-Acre Solar Farm Shaped Like A Giant Panda",
+      "title": "China Just Built A 250-Acre Solar Farm Shaped Like A Giant Panda",
+      "description": "In a display of China's commitment to ramping up renewable energy resources, the country just finished a 250-acre solar farm in the shape of a panda. The effort is partially a PR campaign as China continues to lead the world in renewable energy investment.",
+      "text": "In a display of China's commitment to ramping up renewable energy resources, the country just finished a 250-acre solar farm in the shape of a panda. The effort is partially a PR campaign as China continues to lead the world in renewable energy investment.\nThe first phase of the solar power plant was recently completed, adding 50MW (of the total 100MW) to the electricity grid in Datong, China. The panda shaped plant was proposed in May of 2016 by Panda Green Energy's largest shareholder, China Merchants New Energy. It was quickly approved as a way to build support for sustainable energy development with Chinese youth.\nTo create the visual effect of darker and lighter solar panels, Panda Green Energy used both darker monocrystalline silicon and lighter thin film cells. This allowed the energy company to stagger the solar panels in an array that mimics the coloring and shape of a giant panda.\nThe new solar power plant in Datong will replace burning 1 million tons of coal in the next 25 years as China flexes its ability to make rapid improvements in its energy system.\nThere are three general types of solar panels used in the world today: Monocrystalline silicon, polycrystalline, and thin film. The first two are generally more common, with polycrystalline panels the most popular for residential solar panels in America. On the other hand, thin film performs better in low light situations but is less effective than the monocrystalline and polycrystalline options.\nThis is just the first of 100 panda-shaped solar plants planned across China and Asia in the coming years. This past May, Fiji announced a smaller panda shaped solar farm.\nThis is part of China's larger Belt and Road Initiative along the historic Silk Road. This initiative, a foundation of Xi Jingping's foreign policy, aims to place China as a leader in external policy in Asia. The initiative is underpinned by trillions of dollars of infrastructure investment China intends to build along the historic silk road that connects Asia to Europe. China is anticipated to spend $150 billion per year on the 68 countries that have agreed to the initiative.\nThis includes aggressive infrastructure investment in road, bridges, power plants, gas pipelines, railways and ports. In total, the investment is estimated at $5 trillion across the 68 states as China begins to take center stage in the globalization of Asia.\nAt a time when the United States has faltered in its commitment to future renewable energy growth, there are countries that are taking advantage of the leadership gap. Regardless of what the global energy system looks like in the coming decades, it is imperative for the United States to be front and center in those conversations.\nWith China adding almost half of the global solar capacity last year, they have made a clear stance in their intent to be a global leader in the energy transition. I doubt I need to expound on the consequences of the United States not stepping up to lead or even be part of the conversation. Regardless of your thoughts on the energy transition, the road will be paved, whether it's by the United States or foreign states.",
+      "image_captions": [
+        "The panda solar farm in Datong, China."
+      ]
+    },
+    {
+      "url": "https://www.zmescience.com/ecology/animals-ecology/china-panda-solar-plants/",
+      "page_title": "Chinese pandas will slash over 2.74 tons of CO2 emissions in the ...",
+      "title": "Chinese pandas will slash over 2.74 tons of CO2 emissions in the next 25 yeas -- because they're solar plants",
+      "description": "Best. Story. Ever.",
+      "text": "Not yet sold on the idea of solar plants? Even if it was as solar plant… shaped like a panda? Thought so.\nIt’s an undeniably creative advertising stunt, and it’s actually something which will definitely make Shanxi province of China stand out. The brainchild of Panda Green Energy (formerly known as United Photovoltaics) and the United Nations Development Program, the so-called Panda Power Plant has been under construction since November 2016. To get the panda shapes just right, the group used thin film solar cells for the white and gray face and belly and monocrystalline silicon solar cells to ink in the black areas.\nProgress on the plant is going quite well. The first phase/Panda of the project has been completed and is currently churning out some 50 MW of clean, adorable energy into the Chinese grid. Once fully completed, the pandas will have an aggregate capacity of 100 MW and are projected to provide 3.2 billion kWh of electricity over the next 25 years — equivalent to 1.056 million tons of coal or 2.74 million tons of carbon dioxide emissions.\nBut it’s not merely about energy. The Panda project also aims to invest in the future of the communities it serves, and as such, will come equipped with an activity center to educate local schoolchildren about solar energy and its benefits. For a country left struggling with immense climate issues following what may be the biggest industrialization effort ever seen, projects such as the Panda Power Plant are key to a healthier, cleaner future.\nPanda Green Energy revealed that more solar farms are planned over the next 5 years as part of their Panda 100 program. These will be built along the Belt and Roads areas that are part of President Xi Jinping’s economic development strategy.\nAnd yes; they will all be pandas.",
+      "image_captions": [
+        "Image via ledpv.com",
+        "A way cuter future, to boot!Image creditsPanda Green Energy GroupLimited.",
+        "Add ZME Science as a preferred source on Google Search",
+        "Follow ZME Science on Google News",
+        "Close-up of a fly resting on a green leaf, showcasing detailed features and vibrant colors."
+      ]
+    },
+    {
+      "url": "https://www.c-port.net/the-power-of-the-panda/",
+      "page_title": "The Power of the Panda - C-Port | Clearline Technologies",
+      "title": "The Power of the Panda - C-Port | Clearline Technologies",
+      "description": "The Power of the Panda...China Merchants New Energy Group, one of China's largest clean energy operators, built a 248-acre solar farm in...",
+      "text": "How Do Rubber Pipe Supports Stand Up in Extreme Heat?...\nRead MoreTYPICAL SOLAR FARMS ALIGN THEIR SOLAR ARRAYS IN ROWS TO FORM A GRID. A PLANT IN DATONG, CHINA, HOWEVER, DECIDED TO HAVE A LITTLE FUN WITH THEIR DESIGN.\nIn a display of China’s commitment to ramping up renewable energy resources, the country just finished a 248-acre solar farm in the shape of a panda. The effort is partially a PR campaign as China continues to lead the world in renewable energy investment.\nThe first phase of the solar power plant was completed in 2018, adding 50MW (of the total 100MW) to the electricity grid in Datong, China. The panda-shaped plant was proposed in May of 2016 by Panda Green Energy’s largest shareholder, China Merchants New Energy. It was quickly approved as a way to build support for sustainable energy development with Chinese youth.\nThere are three general types of solar panels used in the world today: Monocrystalline silicon, polycrystalline, and thin film. The first two are generally more common, with polycrystalline panels the most popular for residential solar panels in America.\nThe 100-megawatt panda farm is capable of generating electricity for more than 10,000 households each year. It is projected to replace burning 1 million tons of coal in the next two decades.\nThe firm has been investing in and running solar power plants in China’s major solar hubs such as Xinjiang and Qinghai province, as well as some solar projects in Britain.\nShanxi aims to install 12 gigawatts of solar capacity by 2020 versus 1.13 GW installed in 2015.\nAlthough the first photo is an artist rendering, the second is a Google Maps shot of the real solar farm.\nWhat do you think of this design? Drop us a comment below.\nYou can check out the other artist renderings on our Instagram account.\nHow Do Rubber Pipe Supports Stand Up in Extreme Heat?...\nRead MoreThe 36,000 square foot former Henman Tool Facility Clearline Technologies...\nRead MoreWhat Are The Environmental Factors Between Plastic, Rubber & Wood...\nRead MoreThroughout the history of construction, builders and property owners have not had many...\nRead More",
+      "image_captions": [
+        "How do rubber pipe supports stand up in extreme heat?",
+        "Image of roof pipe support comparison",
+        "Rooftop pipe Supports vs. roof curbs"
+      ]
+    },
+    {
+      "url": "https://www.sgesolar.com/cutest-solar-farm-ever-now-live-grid/",
+      "page_title": "The cutest solar farm ever is now live on the grid",
+      "title": "The cutest solar farm ever is now live on the grid",
+      "description": "",
+      "text": "The cutest solar farm ever is now live on the grid\nBy Yi Shu Ng\nJuly 5, 2017\nRead the original article Here\nWho knew clean energy could be this cute?\nChina connected a panda-shaped solar power plant to the grid last week.\nThe project was built by the aptly-named Panda Green Energy, and has an output of 50MW, enough to power more than 8,000 U.S. households, according to Inhabitat.\nIt’s located in Datong, a city in the province of Shanxi, northern China.\nAnother panda is in the works on the site.\nTwo types of solar panels — white thin film photovoltaic (PV) cells and black monocrystalline silicon PV cells — give the plant the look of China’s favourite monochromatic animal.\nIt’s hoped that when the plant is complete, it will have an output of 100MW, and output 3.2 billion kWh of solar energy in 25 years.\nThe power plant is part of a UN Development Program (UNDP) effort to promote clean energy to China’s youth, and aims to teach young people about sustainable energy. It will host a summer camp organised by the UNDP and Panda Green Energy in August, for teenagers aged 13-17.\nThe UNDP is also organising open design challenges with Panda Green Energy.\n“Designing the plant in the shape of a panda could inspire young people and get them interested in the applications of solar power,” Panda Green Energy’s CEO, Li Yuan, told state-owned Xinhua in May last year.\nPanda Green Energy is hoping to build panda-shaped power plants in other countries in central and Southeast Asia, too.\nThe company is planning to expand into countries like Fiji and the Philippines, and wants to build over 100 panda-shaped plants in the next five years. The plants will include motifs inspired by local animals, like the koala or rhinoceros.\n“I believe that the panda solar power plants will become a tourist hotspot, and in future we’ll export these panda power plants to other parts of the world,” Li told Xinhua.",
+      "image_captions": []
+    }
+  ],
+  "evidence_count": 4,
+  "crawled_at": "2026-04-23T17:41:05.851001+00:00"
+}

@@ -1,0 +1,76 @@
+{
+  "sample_id": "false_47",
+  "image_url": "https://www.kiro7.com/resizer/20tBnK_09SCWZaUXr3YqHocFNsY=/arc-anglerfish-arc2-prod-cmg/public/QW53DW7SPVCWVEHBPJT2H2VDSY.jpg",
+  "visual_entities": [
+    {
+      "description": "Bus",
+      "score": 1.12725
+    },
+    {
+      "description": "Tour bus service",
+      "score": 0.9375272
+    },
+    {
+      "description": "Party bus",
+      "score": 0.5937
+    },
+    {
+      "description": "Coach",
+      "score": 0.5555
+    },
+    {
+      "description": "Roll On Bus Tours",
+      "score": 0.5171
+    },
+    {
+      "description": "Public transport bus service",
+      "score": 0.5062
+    },
+    {
+      "description": "BestBus",
+      "score": 0.4384
+    },
+    {
+      "description": "Commercial vehicle",
+      "score": 0.38893172
+    },
+    {
+      "description": "Bus advertising",
+      "score": 0.3804
+    },
+    {
+      "description": "Transit bus",
+      "score": 0.3776
+    },
+    {
+      "description": "",
+      "score": 0.3653
+    },
+    {
+      "description": "MBTA",
+      "score": 0.3653
+    }
+  ],
+  "best_guess_labels": [
+    "tour bus service"
+  ],
+  "similar_image_urls": [
+    "https://www.kiro7.com/resizer/20tBnK_09SCWZaUXr3YqHocFNsY=/arc-anglerfish-arc2-prod-cmg/public/QW53DW7SPVCWVEHBPJT2H2VDSY.jpg",
+    "https://cloudfront-us-east-1.images.arcpublishing.com/cmg/QW53DW7SPVCWVEHBPJT2H2VDSY.jpg",
+    "https://www.kiro7.com/resizer/px9NB4W9PVUFNpz7kWXW5L5rRNI=/300x0/arc-anglerfish-arc2-prod-cmg/public/QW53DW7SPVCWVEHBPJT2H2VDSY.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.kiro7.com/news/local/metro-unveils-black-lives-matter-buses/CXRMPW6YCZBPDMLFTPJ7ZEZILQ/",
+      "page_title": "Metro unveils Black Lives Matter buses – KIRO 7 News Seattle",
+      "title": "This website is unavailable in your location. – KIRO 7 News Seattle",
+      "description": "",
+      "text": "We’re Sorry!\nThis website is unavailable in your location.\nError 451\nIt appears you are attempting to access this website from a country outside of the United States, therefore access cannot be granted at this time.\nThis website is unavailable in your location.\nIt appears you are attempting to access this website from a country outside of the United States, therefore access cannot be granted at this time.",
+      "image_captions": [
+        "KIRO 7 News Seattle Logo"
+      ]
+    }
+  ],
+  "evidence_count": 1,
+  "crawled_at": "2026-04-23T16:59:18.429617+00:00"
+}

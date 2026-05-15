@@ -1,0 +1,54 @@
+{
+  "sample_id": "false_108",
+  "image_url": "https://i.pinimg.com/originals/89/0a/91/890a9152d24eb2207d7fcdb349423d12.jpg",
+  "visual_entities": [
+    {
+      "description": "Doll",
+      "score": 0.99144083
+    },
+    {
+      "description": "Barbie",
+      "score": 0.7923
+    },
+    {
+      "description": "Maren Morris",
+      "score": 0.4989
+    },
+    {
+      "description": "T-shirt",
+      "score": 0.41685003
+    },
+    {
+      "description": "",
+      "score": 0.4088
+    },
+    {
+      "description": "Girl",
+      "score": 0.3476
+    }
+  ],
+  "best_guess_labels": [
+    "girl"
+  ],
+  "similar_image_urls": [
+    "https://cdn-brilio-net.akamaized.net/news/2020/06/17/186608/1250328-boneka-barbie-bikin-merinding.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.brilio.net/wow/8-boneka-barbie-dengan-penampilan-bikin-merinding-beda-dari-biasanya-200617p.html",
+      "page_title": "8 Boneka Barbie dengan penampilan bikin merinding, beda dari ...",
+      "title": "8 Boneka Barbie dengan penampilan bikin merinding, beda dari biasanya",
+      "description": "Yang mau beli dan koleksi bukannya anak-anak nih, tapi mungkin malah orang dewasa",
+      "text": "Brilio.net - Boneka Barbie adalah salah satu produk boneka terbesar dan paling terkenal yang biasa dimainkan oleh anak-anak di berbagai penjuru dunia. Biasanya yang memainkannya adalah anak perempuan, sebab kebanyakan karakter Barbie adalah perempuan. Meski pada akhirnya Barbie mengeluarkan boneka laki-laki juga.\nYang membuat boneka ini menarik adalah karena pakaian yang dikenakan sangat beragam dan modis. Ini menjadi pembeda dengan boneka-boneka lainnya. Terlebih Barbie sendiri sudah ada sejak tahun 1959. Meski begitu, ada beragam kontroversi di balik kecantikan dari boneka Barbie, misalnya perihal standar kecantikan.\nSelama ini, standar kecantikan pada sebuah boneka yang dianggap ideal adalah Barbie. Tubuh langsing, rambut pirang panjang lurus, bulu mata lentik, kulit putih, tinggi semampai, pokoknya segala hal yang banyak orang anggap sebagai kecantikan. Tentunya ini adalah hal keliru, sebab pada dasarnya semua perempuan itu cantik dengan segala karakternya masing-masing.\nPada akhirnya Barbie mengeluarkan berbagai produknya yang baru, misalnya seperti karakter dengan kulit cokelat, rambut bergelombang, dan lain-lain. Alasan sang pembuatnya pun sebenarnya baik, agar anak-anak bisa menjadi apapun yang diinginkannya. Namun tetap saja, bahwa tubuh langsing menjadi standar kecantikan.\nIni menjadikan banyak anak muda mengalami krisis identitas. Mereka menginginkan mempunyai tubuh dan wajah seperti Barbie. Beberapa warganet pun mencoba melawan standar kecantikan tersebut. Mereka malah membuat Barbie tampak mengerikan, sebagiannya memang dibuat untuk sebuah 'cosplay' zombie, misalnya.\nSeperti apa saja, ya? Biar nggak penasaran, berikut 8 boneka Barbie dengan penampilan bikin merinding yang beda dari biasanya, seperti dihimpun brilio.net dari berbagai sumber pada Rabu (17/6).\n1. Barbie ini berperan sebagai badut mengerikan. Kira-kira bakal ada yang beli nggak, ya?\nfoto: Pinterest/vitaUPcycle.org\n2. Kalau Barbie-nya begini, seram juga. Padahal biasanya Barbie menggunakan pakaian yang rapi.\nfoto: Pinterest/sherice valencia\n3. Ini benar-benar creepy, sih. Padahal cuma tubuhnya yang diganti, tapi bikin merinding.\nfoto: familyhandyman.com\n4. Walau hanya diberi warna merah, namun kesannya langsung berubah drastis menjadi serem.\nfoto: bloody-disgusting.com\n5. Ini juga. Biasanya Barbie yang identik dengan keanggunan berubah menjadi mengerikan.\nfoto: Flickr/petergarnhum\n6. Kalau ini sih, udah pasti nggak akan dibeli anak-anak. Serem banget.\nfoto: Pinterest/unicornsalami\n7. Padahal hanya bagian mulutnya saja yang diganti, tapi jadi ngeri ya?\nfoto: favim.com\n8. Kalau ini Barbie zombie. Biasanya sengaja dibuat untuk 'cosplay'. Serem banget, deh.\nfoto: Flickr/courtneylynnphoto\nRecommended By Editor\n- 10 Potret boneka barbie didandanin ala artis Hollywood, bikin melongo\n- 7 Film kartun Barbie terbaik, nostalgia masa kecil\n- 6 Video parodi dubbing film Barbie ini kocak abis\n- 10 Perusahan mainan paling kaya di dunia, 5 populer di indonesia\n- 9 Foto boneka Barbie dikreasikan tak lazim ini bikin gagal paham",
+      "image_captions": [
+        "8 Boneka Barbie dengan penampilan bikin merinding, beda dari biasanya",
+        "Boneka Barbie bikin merinding Berbagai sumber",
+        "Cerah merata tanpa kunyit, ini rahasia scrub buah alami yang ampuh samarkan siku dan lutut hitam",
+        "Bukan cuma putih telur, trik angkat komedo hitam di hidung dan dagu cuma pakai 1 rempah dapur",
+        "Resep es teler rendah gula tapi tetap segar, bahannya bisa dari seadanya di kulkas"
+      ]
+    }
+  ],
+  "evidence_count": 1,
+  "crawled_at": "2026-04-23T17:20:37.990124+00:00"
+}

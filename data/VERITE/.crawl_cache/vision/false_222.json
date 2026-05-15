@@ -1,0 +1,119 @@
+{
+  "sample_id": "false_222",
+  "image_url": "https://i.pinimg.com/originals/2e/cd/20/2ecd20419761a08f14c29e5e54baba0c.jpg",
+  "visual_entities": [
+    {
+      "description": "Glacier National Park",
+      "score": 1.0074
+    },
+    {
+      "description": "Slap Peričnik",
+      "score": 0.91980004
+    },
+    {
+      "description": "Waterfall",
+      "score": 0.7336
+    },
+    {
+      "description": "Glacier",
+      "score": 0.7151
+    },
+    {
+      "description": "Spitsbergen",
+      "score": 0.6430727
+    },
+    {
+      "description": "Water",
+      "score": 0.5208
+    },
+    {
+      "description": "Polar regions of Earth",
+      "score": 0.49740002
+    },
+    {
+      "description": "",
+      "score": 0.4447
+    },
+    {
+      "description": "Iceberg",
+      "score": 0.3755
+    },
+    {
+      "description": "Snow",
+      "score": 0.3122
+    }
+  ],
+  "best_guess_labels": [
+    "glacier with waterfall"
+  ],
+  "similar_image_urls": [
+    "https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/U7I4F3XYEMI6JJD44VXU3OEE5U",
+    "https://nova-ott-images-tn.ssl.cdn.cra.cz/rx1920/q80/bfd402aa-eeda-4cca-b847-4c447feea1fb",
+    "https://api2.zoomit.ir/media/ex-Other-94-06-Overpopullation-planet-pollution-17-638b2b6b8c5d7345c51e4d4b?w=1920&q=80",
+    "https://static.srpcdigital.com/styles/1037xauto/public/2022/06/15/dhwbnt.jpg.webp",
+    "https://togethermag.gr/wp-content/uploads/2019/02/Apocalypse3.jpg",
+    "https://www.online.ua/static/content/thumbs/1600x900/6/f2/2wxvi7---c16x9x50px50p--d70fcf87ddcb400bc67e7fa570e29f26.jpg",
+    "https://kor.ill.in.ua/m/1260x900/2082115.jpg",
+    "https://services.meteored.com/img/article/rios-lagos-y-cascadas-de-deshielo-235261-3_1280.jpg",
+    "https://znaj.ua/crops/64759a/1200x900/2/0/2018/04/14/1470813770-2.jpg",
+    "https://kvb.by/assets/cache/images/nauka/01/kogda-byl-lednikovyj-period-x-d4d.png"
+  ],
+  "evidence": [
+    {
+      "url": "https://twistedsifter.com/2013/04/glacial-waterfalls/",
+      "page_title": "Picture of the Day: Glacial Waterfalls - TwistedSifter",
+      "title": "Picture of the Day: Glacial Waterfalls",
+      "description": "GLACIAL WATERFALLS Photograph by KEENPRESS Photography | keenpress.com In this jaw-dropping photograph we see glacial waterfalls cascading into the sea. The photo was taken on …",
+      "text": "Picture of the Day: Glacial Waterfalls\nGLACIAL WATERFALLS\nIn this jaw-dropping photograph we see glacial waterfalls cascading into the sea. The photo was taken on or near Spitsbergen, the largest and only permanently populated island of the Svalbard archipelago in Norway. Svalbard represents the northernmost part of Norway, located about midway between mainland Norway and the North Pole.\nOn Earth, 99% of glacial ice is contained within vast ice sheets in the polar regions. Glacial ice is the largest reservoir of freshwater on Earth, supporting one-third of the world’s population. Many glaciers store water during one season and release it later as meltwater, a water source that is especially important for plants, animals and human uses when other sources may be scant. [Source]\nBecause glacial mass is affected by long-term climate changes, e.g., precipitation, mean temperature, and cloud cover, glacial mass changes are considered among the most sensitive indicators of climate change and are a major source of variations in sea level. [Source]\nKEENPRESS Productions is the US – Denmark based partnership of Sisse Brimberg and Cotton Coulson, two highly experienced photographers and filmmakers who have also been partners in marriage for 30+ years. They work as a team on corporate, editorial, and personal projects. Their work is centered around real people, lifestyle, and contemporary environmental issues telling compelling stories through HD video and photographs. See more at keenpress.com\nSign up to get our BEST stories of the week straight to your inbox.",
+      "image_captions": [
+        "picture of the day button Picture of the Day: Glacial Waterfalls",
+        "Picture of the Day: Glacial Waterfalls",
+        "A woman hiding her face",
+        "electrician at his job",
+        "man in white hard hat looking at assembly line machinery in a factory"
+      ]
+    },
+    {
+      "url": "https://www.flickr.com/photos/keenpress/4786671903",
+      "page_title": "Melting Ice Cap | A waterfall cascades to the sea. - Flickr",
+      "title": "Melting Ice Cap",
+      "description": "A waterfall cascades to the sea.",
+      "text": "KEENPRESS Photography\nKEENPRESS\nMelting Ice Cap\nA waterfall cascades to the sea.\n50,666\nviews\n346\nfaves\n19\ncomments\nUploaded on July 12, 2010\nTaken on June 30, 2010\nMelting Ice Cap\nA waterfall cascades to the sea.\n50,666\nviews\n346\nfaves\n19\ncomments\nUploaded on July 12, 2010\nTaken on June 30, 2010",
+      "image_captions": [
+        "Melting Ice Cap | by KEENPRESS"
+      ]
+    },
+    {
+      "url": "https://lucasrogersgallery.wordpress.com/2023/08/21/glacial-waterfall-svalbard-islands-norway/",
+      "page_title": "Glacial Waterfall, Svalbard Islands, Norway - Lucas Rogers",
+      "title": "Glacial Waterfall, Svalbard Islands, Norway",
+      "description": "Glacial Waterfall, Svalbard Islands, Norway",
+      "text": "Glacial Waterfall, Svalbard Islands, Norway Glacial Waterfall, Svalbard Islands, Norway Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading... Related",
+      "image_captions": []
+    },
+    {
+      "url": "https://twistedsifter.com/tag/glacier/page/2/",
+      "page_title": "Tag: glacier » » Page: 2TwistedSifter",
+      "title": "glacier – Page 2 – TwistedSifter",
+      "description": "",
+      "text": "Picture of the Day: Aurora Borealis Over Iceland’s Jokulsarlon Glacier Lake\nIceland’s natural beauty never ceases to amaze\nIceland’s natural beauty never ceases to amaze\nReddit user carriehunt shared this photo of an amazing iceberg spotted near Newfoundland, Canada. What a kayak ride that must have been!\nA group of adventurous travellers hike into the Mendenhall Glacier near Junea, Alasaka.\nPhotograph by John Cobb In this beautiful capture of the Alaskan landscape we see the Tracy Arm fjord with the impressive Sawyer glacier lurking behind and mountains soaring above all. I love the composition and lines in this capture by John Cobb. Tracy Arm is a fjord in Alaska near Juneau (outlet at 57°…\nA MIGHTY ICEBERG IN GREENLAND Photograph by Rita Willaert In this fantastic capture by Rita Willaert, we see a large iceberg in Northeast Greenland National Park. The iceberg was spotted at 70°N 26°W. Northeast Greenland National Park is the world’s largest and most northerly national park. It protects 972,001 km2 (375,000 sq…\nPhotograph by JAKUB POLOMSKI Website | Facebook | Behance At 30 km (19 miles) in length and over 250 sq km (97 sq mi) in size, the Perito Moreno Glacier is one of the most important tourist attractions in the Argentine Patagonia. It is located in Los Glaciares National Park in the southwest Santa…\nDARK BLUE BOTTOM OF AN ICEBERG Photograph by Aoraki Mount Cook Alpine Village In this photograph by Aoraki Mount Cook Alpine Village, we see the dark blue bottom of an iceberg in the terminal lake of New Zealand’s largest glacier, the Tasman Glacier. According to dr_glaciology, the ice is so blue because…\nGLACIAL WATERFALLS Photograph by KEENPRESS Photography | keenpress.com In this jaw-dropping photograph we see glacial waterfalls cascading into the sea. The photo was taken on or near Spitsbergen, the largest and only permanently populated island of the Svalbard archipelago in Norway. Svalbard represents the northernmost part of Norway, located about midway between…\nPage 2 of 3",
+      "image_captions": [
+        "Picture of the Day: Aurora Borealis Over Iceland's Jokulsarlon Glacier Lake",
+        "Musician Plays Piano in the Middle of the Arctic as Calving Glaciers Crash Behind Him",
+        "Picture of the Day: Amazing Iceberg in Newfoundland",
+        "Picture of the Day: Hiking Into a Glacier",
+        "Picture of the Day: Levels of Nature"
+      ]
+    },
+    {
+      "url": "https://adoraveiscupcakes.blogspot.com/2017/03/glacial-waterfall-svalbard-islands.html",
+      "page_title": "Glacial Waterfall, Svalbard Islands, Norway - Adora Veis Cupcakes",
+      "title": "Glacial Waterfall, Svalbard Islands, Norway",
+      "description": "Glacial Waterfall, Svalbard Islands, Norway",
+      "text": "Adora Veis Cupcakes\nTuesday, March 7, 2017\nGlacial Waterfall, Svalbard Islands, Norway\nGlacial Waterfall, Svalbard Islands, Norway\nNo comments:\nPost a Comment\nNewer Post\nOlder Post\nHome\nSubscribe to:\nPost Comments (Atom)",
+      "image_captions": []
+    }
+  ],
+  "evidence_count": 5,
+  "crawled_at": "2026-04-23T17:54:53.996300+00:00"
+}

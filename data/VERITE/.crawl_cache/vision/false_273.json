@@ -1,0 +1,108 @@
+{
+  "sample_id": "false_273",
+  "image_url": "https://ca-times.brightspotcdn.com/dims4/default/a547baf/2147483647/strip/true/crop/7600x5067+0+0/resize/1200x800!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe4%2Ff0%2Fd9c9505947c49f6f30809be96dbd%2Fap-week-in-pictures-europe-and-africa-66694.jpg",
+  "visual_entities": [
+    {
+      "description": "Volodymyr Zelenskyy",
+      "score": 4.935
+    },
+    {
+      "description": "Donbas",
+      "score": 0.8151
+    },
+    {
+      "description": "",
+      "score": 0.7543
+    },
+    {
+      "description": "Russia",
+      "score": 0.71565
+    },
+    {
+      "description": "Russian annexation of Donetsk, Kherson, Luhansk and Zaporizhzhia oblasts",
+      "score": 0.5478
+    },
+    {
+      "description": "Chonhar",
+      "score": 0.517605
+    },
+    {
+      "description": "",
+      "score": 0.4771
+    },
+    {
+      "description": "2022 Russian invasion of Ukraine",
+      "score": 0.43215
+    },
+    {
+      "description": "President of Russia",
+      "score": 0.3102
+    }
+  ],
+  "best_guess_labels": [
+    "ukraine checkpoint"
+  ],
+  "similar_image_urls": [
+    "https://static01.nyt.com/images/2022/08/06/world/06ukraine-children-games2/merlin_210463560_d909b4c6-ebb8-4fb2-8290-afbfde1a431a-superJumbo.jpg?quality=75&auto=webp",
+    "https://premium.vgc.no/v2/images/9dd112b2-c1ec-4054-960f-8a388b82bd6f?fit=crop&format=auto&h=1365&w=2048&s=0b5e6064fdcf61075296f27b83859d0fe6e549d9",
+    "https://static.nv.ua/tilda/webflow/50265245/images/AP22201798580401.jpg?stamp=220824124902",
+    "https://static.hnonline.sk/images/slike/2022/07/22/1868852.jpg",
+    "https://misc.pagesuite.com/3630c326-c935-42f5-b0da-daebc36b7646/images/d60e7161-9de5-40a1-afe8-d3dba1017547.jpg",
+    "https://i.abcnewsfe.com/a/a92c7cc7-c65b-4a29-8f81-204af7a7926c/twip-05-ukraine-russia-war-ap-llr-220721_1658445928357_sl_3x2.jpg?w=1600",
+    "https://s.abcnews.com/images/International/twip-05-ukraine-russia-war-ap-llr-220721_1658445928357_sl_3x2_1600.jpg?w=1600",
+    "https://ca-times.brightspotcdn.com/dims4/default/76d0f64/2147483647/strip/false/crop/7600x5067+0+0/resize/1486x991!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe4%2Ff0%2Fd9c9505947c49f6f30809be96dbd%2Fap-week-in-pictures-europe-and-africa-66694.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=738174744978318",
+    "https://cities4cities.eu/wp-content/uploads/2023/09/foto-malolyetky-4.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.rferl.org/a/ukraine-children-war-game-russia-invasion/31954962.html",
+      "page_title": "Dangerous Games: Children In Ukraine Play At War",
+      "title": "Dangerous Games: Children In Ukraine Play At War",
+      "description": "Photos taken amid the Russian invasion of Ukraine capture boys mimicking adult fighters with fake weapons, checkpoints, and artillery.",
+      "text": "Photos taken amid the Russian invasion of Ukraine capture boys mimicking adult fighters with fake weapons, checkpoints, and artillery.\nRFE/RL journalists report the news in 27 languages in 23 countries where a free press is banned by the government or not fully established. We provide what many people cannot get locally: uncensored news, responsible discussion, and open debate.\nShare",
+      "image_captions": [
+        "1Maksym and Andriy, both aged 11, salute passing Ukrainian soldiers at their \"checkpoint\" on a highway in the Kharkiv region on July 20.",
+        "2Maksym and Andriy retire to a fallback position at their play checkpoint on July 20. Hidden secondary firing positions are standard at the real checkpoints on Ukraine's highways.",
+        "3A boy carries a toy gun through a market in Kostyantynivka, in Ukraine's Donetsk region, on June 25.",
+        "4Oleksandr Romanenko, 13, plays with a toy gun he made out of the packaging from aid donations. The boy was photographed in a subway carriage serving as a makeshift bomb shelter in the eastern city of Kharkiv on April 28.",
+        "5A boy with a toy rifle stands next to Ukrainian fighters in central Kyiv on June 22."
+      ]
+    },
+    {
+      "url": "https://finance.yahoo.com/news/ukraine-temporarily-closes-checkpoint-donbass-070439955.html",
+      "page_title": "Ukraine temporarily closes checkpoint in Donbass due to shelling",
+      "title": "Ukraine temporarily closes checkpoint in Donbass due to shelling",
+      "description": "Ukraine on Sunday suspended operations at one of the seven checkpoints to territory in the eastern Donbass region controlled by Russia-backed separatists, due to heavy shelling, the Ukrainian military said. Incidents of shelling across the line dividing government forces and separatists increased sharply last week, in what the Ukrainian government called a provocation. Kyiv's Western allies say Russia is preparing to invade Ukraine and are concerned that the escalation might be used as a pretext.",
+      "text": "KYIV, Feb 20 (Reuters) - Ukraine on Sunday suspended operations at one of the seven checkpoints to territory in the eastern Donbass region controlled by Russia-backed separatists, due to heavy shelling, the Ukrainian military said.\nIncidents of shelling across the line dividing government forces and separatists increased sharply last week, in what the Ukrainian government called a provocation. Kyiv's Western allies say Russia is preparing to invade Ukraine and are concerned that the escalation might be used as a pretext.\nRussia denies any plans to attack its neighbour, while Ukraine strongly denied suggestions by Moscow that Kyiv could launch an offensive in eastern Ukraine.\nSeparatists on Saturday fired three times on the Schastya checkpoint using mortars and heavy anti-tank grenade launchers, as ceasefire violations by separatists along the frontline increased to 136 from 66 on Friday, the military said on its Facebook page.\nTwo Ukrainian soldiers were reported killed and four wounded on Saturday.\nConsidering \"the escalation of the situation... and the inability to guarantee the safety of the civilian population\" using the checkpoint, the command was suspending its use from 8 a.m. (0600 GMT) on Sunday \"for the period of the threat,\" the military said.\nSeparatist officials accused Ukraine on social media site Telegram of shelling separatist-controlled areas and said they had to respond accordingly. (Reporting by Natalia Zinets; Editing by William Mallard)",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.latimes.com/world-nation/story/2022-07-24/embarking-on-a-sixth-month-of-warfare-ukraine-faces-dilemmas",
+      "page_title": "News Analysis: Entering a sixth month of war, Ukraine faces thorny ...",
+      "title": "News Analysis: Entering a sixth month of war, Ukraine faces thorny dilemmas",
+      "description": "In Ukraine, new Western-supplied weaponry is generating some battlefield success. But victory boasts can undercut continuing appeals for arms.",
+      "text": "News Analysis: Entering a sixth month of war, Ukraine faces thorny dilemmas\n- Share via\nKYIV, Ukraine — The explosion is invariably spectacular: a gigantic spewing fireball, often followed by a slow-motion airborne cascade of secondary blasts. As soon as such footage finds its way online, exultant Ukrainian commentary erupts: “It’s HIMARS o’clock!”\nAs its war with Russia enters a sixth month, Ukraine has been celebrating recent battlefield successes generated by sophisticated launchers known as High Mobility Artillery Rocket Systems, or HIMARS. The Pentagon has provided or promised a dozen of the advanced systems, capable of hitting targets up to 50 miles away.\nFollowing Russia’s full-scale invasion of its smaller neighbor on Feb. 24, the conflict has veered from Moscow’s initial failed effort to capture the capital, Kyiv, to substantial Ukrainian territorial losses this summer in the country’s eastern industrial heartland.\nNow the combat calculus appears to be shifting yet again, with Ukrainian forces, assisted by their new weaponry, striking dozens of sites, including Russian ammunition dumps, troop concentrations and bridges. That is seen as likely preparation for an offensive to regain Russian-held territory in the country’s south, near the Black Sea coast.\n“Ukrainian forces are now using long-range rocket systems to great effect,” U.S. Defense Secretary Lloyd J. Austin III said last week during a virtual meeting of 50 countries that are donating equipment to Ukraine. “I think that everyone here understands the difference that they’ve made on the ground.”\nThat battlefield effect, however, leaves Ukrainian officials treading a fine line.\nPresident Volodymyr Zelensky and other top officials continue to issue forceful pleas for more Western weaponry, declaring bluntly that Ukraine cannot seize the military initiative without far more donated armaments. Ukraine’s first lady, Olena Zelenska, made an unusual personal appearance Wednesday before Congress, where she graphically invoked civilian suffering at Russian hands while also appealing for additional military materiel.\nBut at the same time, Zelensky and his lieutenants seek to depict a landscape in which their armed forces already may be poised to gain the upper hand — implicitly promising that the country’s sacrifice of lives, together with Western allies’ growing economic and energy strains stemming from the war, will ultimately prove worthwhile.\n“We have a significant potential for the advance of our forces on the front, and for the infliction of significant new losses on the occupiers,” Zelensky said late Thursday in his nightly address to the country.\nThe two messages aren’t necessarily contradictory. Calibrating them, however, is a difficult task.\nToo much triumphalism, while boosting domestic morale, can undercut the urgency of appeals for more Western weaponry. By contrast, any appearance of defeatism could accelerate outside calls for Zelensky to agree to territorial concessions to Moscow and perhaps end the fighting before winter sets in.\nThe advent of cold weather will mean Ukraine’s European allies face a far more intense Kremlin-inflicted energy crunch. Austin acknowledged as much, citing the challenges in keeping up the pressure on Russia.\n“We’re pushing hard to maintain and intensify the momentum of donations,” he said. “There’s no question that this will always be hard work, making sure that we maintain unity.”\nOn the world stage, Ukraine consistently portrays Russia as a perfidious power that cannot be trusted to honor international agreements — and Moscow’s actions often make that characterization compelling.\nOn Saturday, Russian missiles struck Ukraine’s southern port of Odesa, the Ukrainian military said, only one day after the sealing of a U.N.- and Turkish-brokered deal to allow grain exports from Black Sea ports meant to ease global food shortfalls caused by the war.\n“That’s all you should know about Russians and agreements,” tweeted Anton Gerashchenko, an advisor to Ukraine’s Interior Ministry. He argued that the episode bolstered the case for more and better Western weapons for Ukraine.\nWith the advent of a sixth month of fighting — a psychological crossing into long-war territory — the Kremlin is saying it will ramp up its military aims, brushing aside an earlier stated focus on the industrial eastern heartland, much of which it has seized.\nRussian Foreign Minister Sergei Lavrov recently articulated territorial ambitions that extend far beyond the Donbas region, whose control Moscow had set as a primary goal after failing to overrun and subdue Kyiv in the war’s early weeks.\n“The geography has changed — it’s not just Donetsk and Luhansk,” Lavrov told Russian media last week, referring to the two eastern provinces that make up the Donbas.\nThe Kremlin says the stepped-up Western military support to Ukraine has played a role in the decision to widen its war aims. That claim is rejected by Western officials, including Germany’s foreign minister, Annalena Baerbock, who told the German public broadcaster Deutsche Welle last week that “it is just new propaganda from Russia’s side.”\nUkrainian and Western officials have said for months that Russia might be preparing to annex areas seized since the invasion, but those warnings have sharpened in recent days.\n“Russia is laying the groundwork to annex Ukrainian territory that it controls, in direct violation of Ukraine sovereignty,” John Kirby, spokesman for the White House National Security Council, said last week.\nKirby, predicting that the Kremlin could move on annexation as early as September, declared that Russian President Vladimir Putin was “dusting off the playbook” from his 2014 illegal annexation of Ukraine’s Crimean peninsula.\nUkrainian and Western officials say Ukrainian civilians already living under Russian rule are being subjected to a range of horrors — torture, unlawful detention, forcible disappearances. A report by the New York-based Human Rights Watch released Friday detailed “an abyss of fear” in Russian-occupied regions in southern Ukraine.\nOn the battlefield, the enhancement of the Ukrainian military’s abilities is occurring as Russia’s is apparently diminishing. On Thursday, a Ukrainian defense intelligence official, Vadym Skibitskyi, told an online briefing that Russia had expended up to 60% of its stockpile of precision missiles. But he noted that Moscow still has huge missile inventories, dating back to the Soviet era.\n“Russian forces will likely continue to employ their reserves of lower-precision Soviet weapons systems,” said an assessment from the Washington-based Institute for the Study of War. “But the decisiveness of these strikes, compared to the impact of Ukrainian HIMARS strikes, is likely to remain limited.”\nMoscow denies it is deliberately targeting civilians, but its increasing use of imprecise projectiles accounts for some of the recent carnage in Ukrainian cities that lie far from the eastern battlefront.\nUkraine was transfixed earlier this month by the death in a Russian missile strike of a 4-year-old girl with Down syndrome in the central provincial capital of Vinnytsia. Moments before shrapnel sliced through a downtown district, the bubbly child, Liza Dmytrieva, was shown in social media posts, happily pushing her own stroller.\nGruesome subsequent footage showed her crumpled body on the ground, together with images of the severed foot of her badly injured mother.\nMore such harrowing scenes surfaced last week from Ukraine’s second-largest city, the eastern metropolis of Kharkiv, which, after a short reprieve, has again been under heavy Russian fire. In photos widely circulated online and authenticated by Ukrainian officials, a grieving father knelt for hours next to the body of his slain 13-year-old son, clutching the boy’s hand, in the aftermath of a strike near a city bus stop.\nPrognostication is an especially difficult art when it comes to this war.\nThe head of the British equivalent of the CIA, MI6 director Richard Moore, speaking last weekat a widely watched security forum in Aspen, Colo., said Russian forces had received a “very, very bloody nose” and suggested Moscow was “about to run out of steam.”\nYet the top U.S. military commander, speaking at the same event, forecast a long, punishing slog.\n“It will probably continue as a grinding war of attrition for a period of time, until both sides see an alternative way out of this,” said Army Gen. Mark Milley, chairman of the Joint Chiefs of Staff. “Perhaps through negotiation, or something like that.”\nKing reported from Kyiv and Wilkinson from Washington.",
+      "image_captions": [
+        "Two boys standing in front of a pair of flags beside a road salute while holding plastic guns",
+        "Soldiers check an artillery piece",
+        "Two women rescue cats around damaged buildings.",
+        "Relatives and friends look at a young girl that was killed.",
+        "FILE - Ukrainian servicemen load an artillery shell before firing at Russian positions on the front line in Kharkiv region of Ukraine, Wednesday, Feb. 18, 2026. (AP Photo/Andrii Marienko, File)"
+      ]
+    },
+    {
+      "url": "https://www.yahoo.com/video/ukraine-closes-checkpoints-crimean-border-115448770.html",
+      "page_title": "Ukraine closes checkpoints at Crimean border to control coronavirus",
+      "title": "Ukraine closes checkpoints at Crimean border to control coronavirus",
+      "description": "Ukraine's government said on Saturday it had temporarily closed its border with Crimea, the peninsula annexed by Russia in 2014, to prevent further spread of coronavirus. All three crossing points be...",
+      "text": "Ukraine closes checkpoints at Crimean border to control coronavirus\nKYIV (Reuters) - Ukraine's government said on Saturday it had temporarily closed its border with Crimea, the peninsula annexed by Russia in 2014, to prevent further spread of coronavirus.\nAll three crossing points between the mainland and Crimea, which is defined by Ukraine as an occupied territory, will be closed from Aug. 9 to Aug. 30, a government statement said.\nOnly Crimean residents with Ukrainian citizenship will be allowed to enter Crimea.\nUkrainians who permanently live on the mainland will be able to return home during the three week closure.\nUkraine has registered a steady daily increase in new coronavirus infections since the end of July. The number of confirmed cases rose by 1,489 in the last 24 hours.\nThe total number of cases is at 79,750, including 1,879 deaths.\n(Reporting by Natalia Zinets; Editing by Mike Harrison)",
+      "image_captions": [
+        "Download app from App Store",
+        "Download app from Google Play"
+      ]
+    }
+  ],
+  "evidence_count": 4,
+  "crawled_at": "2026-04-23T18:11:14.406381+00:00"
+}

@@ -1,0 +1,105 @@
+{
+  "sample_id": "true_167",
+  "image_url": "https://media.npr.org/assets/img/2017/11/06/ap_17310172434947-796a71082fd80b3d08e54aa7fadb8a7ea452165d.jpg",
+  "visual_entities": [
+    {
+      "description": "Shinzo Abe",
+      "score": 10.7369995
+    },
+    {
+      "description": "Koi",
+      "score": 1.171005
+    },
+    {
+      "description": "Koi pond",
+      "score": 0.72975
+    },
+    {
+      "description": "Prime Minister of Japan",
+      "score": 0.6167
+    },
+    {
+      "description": "US President",
+      "score": 0.6006
+    },
+    {
+      "description": "Japan",
+      "score": 0.54855
+    },
+    {
+      "description": "Prime minister",
+      "score": 0.5412
+    },
+    {
+      "description": "United States",
+      "score": 0.5391
+    },
+    {
+      "description": "Fish",
+      "score": 0.4852
+    },
+    {
+      "description": "",
+      "score": 0.3657
+    },
+    {
+      "description": "Fish Food",
+      "score": 0.3645
+    }
+  ],
+  "best_guess_labels": [
+    "donald trump feeding koi"
+  ],
+  "similar_image_urls": [
+    "https://npr.brightspotcdn.com/legacy/images/news/npr/2017/11/562271951_2117547297.jpg",
+    "https://media.npr.org/assets/img/2017/11/06/ap_17310172434947-99fb56f4a61e085221413e5d24aa47d5216c3c8e.jpg",
+    "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2017/11/32cc8bcd656f21374b9ce32579ce58e2-image_20171106phd9041-data.jpg?resize=1200,900",
+    "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2017/11/32cc8bcd656f21374b9ce32579ce58e2-image_20171106phd9041-data.jpg",
+    "https://www.vaterland.li/storage/image/5/2/1/5/1435125_ajaxbilder_1Amvau_sCaLj3.jpg",
+    "https://npr.brightspotcdn.com/dims4/default/339fda7/2147483647/strip/true/crop/3015x2260+0+0/resize/880x660!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fimages%2Fnews%2Fnpr%2F2017%2F11%2F562271951_2117547297.jpg",
+    "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2017/11/32cc8bcd656f21374b9ce32579ce58e2-image_20171106phd9041-data.jpg?fit=840,630",
+    "https://cdn.fararu.com/thumbnail/NTFmNTQQ94vb/79Nh6NUINaMvlp70LvvAnBEUUOMu34Bdf7b7meMILemWhSG-KhWu7eToPPQB63kJ3Upc-i59ToocXsZAISu6BDeFKrElqSaSre3ByyCtCX8CL0oKAjucLNhQgcX9Rf5h/NTFmNTQQ94vb.jpg",
+    "https://cdn.i-scmp.com/sites/default/files/images/methode/2018/11/04/d01c65a2-de79-11e8-bb7b-3484094c71b9_1280x720_155139.JPG",
+    "https://svd.vgc.no/v2/images/085c5473-18c5-4685-a1b5-8cad23a4c38a?fit=crop&format=auto&h=427&q=80&upscale=true&w=640&s=67ab498e9aaae97131146cc4044981d3c26f5578"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.npr.org/sections/thetwo-way/2017/11/06/562271753/dont-be-koi-theres-something-fishy-about-that-trump-abe-photo",
+      "page_title": "Don't Be Koi. There's Something Fishy About That Trump-Abe Photo",
+      "title": "Don't Be Koi. There's Something Fishy About That Trump-Abe Photo",
+      "description": "At a ceremony at Tokyo's Akasaka palace, the president appears to grow weary of a traditional koi feeding — so he simply dumps the contents of his box of fish food. But video tells the whole tale.",
+      "text": "Don't Be Koi. There's Something Fishy About That Trump-Abe Photo\nPerhaps a metaphor for East meets West? The patient, tradition-bound Japanese prime minister contrasted with the brash, abrupt American president.\nBut there is a bit more to the story.\nAs part of a welcoming ceremony, President Trump stopped with Japanese Prime Minister Shinzo Abe to feed the koi fish at a pond on the grounds of the Akasaka Palace in Tokyo. It's a tradition with foreign dignitaries.\nIn the photo above taken by Agence France-Presse, the two leaders can be seen judiciously spooning out the fish food. But Trump soon appears to lose patience and summarily dumps the entire box of food into the pond, as can be seen in the next image taken by an Associated Press photographer:\n\"The incident triggered censure on Twitter, with many pointing out that fish cannot consume such a large amount of food at one time.\n\"U.S. Secretary of State Rex Tillerson, standing just behind Trump, appeared to break out in laughter at his boss's no-nonsense approach to koi feeding.\n\"But some uncharitable Twitter users were less forgiving, with several writing: 'Trump can't even feed fish right.' \"\nKoi don't have very good impulse control in that regard, and will probably overfeed and become ill as a consequence if no one cleans that up.\n— Rei Murasame 村雨れい (@ReiMurasame) November 6, 2017\nAbe is basically watching in polite rage-horror as the epic orange buffoon tries to kill his fish.\nBut if you watch a video of the event, it becomes clear that Abe \"dumped\" his box first. The whole fish-feeding episode begins at about 33 seconds into the video:\nEither way, as cultural faux pas by visiting U.S. presidents go, it would be difficult to compete with President George H.W. Bush's \"vomit incident\" at a state dinner with then Japanese Prime Minister Kiichi Miyazawa in 1992 or President Barack Obama bowing to Japanese Emperor Akihito during a 2009 visit to Japan, which sparked controversy among conservative critics in the U.S.\nUpon meeting Akihito, Trump opted for a handshake.",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.theguardian.com/us-news/video/2017/nov/06/trump-and-abe-dump-fish-food-into-precious-koi-carp-pond-video",
+      "page_title": "Trump and Abe dump fish food into precious koi pond – video",
+      "title": "Trump and Abe dump fish food into precious koi pond – video",
+      "description": "Donald Trump and Shinzō Abe, empty the contents of their wooden fish food containers into a pond at the Akasaka palace in Tokyo",
+      "text": "Trump and Abe dump fish food into precious koi pond – video\nThis article is more than 8 years old\nDonald Trump and the Japanese prime minister, Shinzō Abe, feed fish on the second day of the US president’s five-nation tour of Asia. Standing beside a pond brimming with colourful koi in the Akasaka palace in Tokyo, the two men upended their wooden containers and dumped the entire contents of fish food into the pond",
+      "image_captions": [
+        "Donald Trump and Shinzō Abe, empty the contents of their wooden fish food containers into a pond at the Akasaka palace in Tokyo"
+      ]
+    },
+    {
+      "url": "https://www.dw.com/en/trump-abe-dump-fish-food-in-koi-carp-pond/video-41257307",
+      "page_title": "Trump, Abe dump fish food in koi carp pond - DW.com",
+      "title": "Trump, Abe dump fish food in koi carp pond",
+      "description": "US President Donald Trump joined Japanese Prime Minister Shinzo Abe in feeding colorful koi carp on the second day of his five-nation tour of Asia. The two men began spooning out fish food before emptying the entire box into the water.",
+      "text": "PoliticsTrump, Abe dump fish food in koi carp pondTo view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 videoPolitics11/06/2017November 6, 2017US President Donald Trump joined Japanese Prime Minister Shinzo Abe in feeding colorful koi carp on the second day of his five-nation tour of Asia. The two men began spooning out fish food before emptying the entire box into the water.https://p.dw.com/p/2n6uRAdvertisement",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.deccanchronicle.com/world/asia/291118/donald-trump-to-have-trilateral-meeting-with-pm-modi-shinzo-abe.html",
+      "page_title": "Donald Trump to have trilateral meeting with PM Modi, Shinzo Abe",
+      "title": "Donald Trump to have trilateral meeting with PM Modi, Shinzo Abe | Donald Trump to have trilateral meeting with PM Modi, Shinzo Abe",
+      "description": "The US has been conducting regular patrols in the South China Sea to assert freedom of navigation in the area.",
+      "text": "Donald Trump to have trilateral meeting with PM Modi, Shinzo Abe\nThe US has been conducting regular patrols in the South China Sea to assert freedom of navigation in the area.\nWashington: US President Donald Trump will hold a trilateral meeting with Prime Minister Narendra Modi and Japanese Premier Shinzo Abe this week on the sidelines of the G-20 summit in Argentina, amidst China flexing its muscles in the strategic Indo-Pacific region.\nThe trilateral, which would be an expansion of the bilateral meeting between Trump and Abe, is part of the series of meetings the US president would have on the sidelines of the G-20 summit in Buenos Aires on Nove-mber 30 and December 1, the White House said.\nThe annual meeting is being attended by leaders of the top 20 economies of the world. However, all eyes are expected to be on two meetings that Trump would have with Chinese President Xi Jinping and his Russian counterpart Vladimir Putin.\nBriefing reporters ahead of the G-20 Summit, US National Security Adviser John Bolton said on Tuesday that Trump will meet with Abe, and then the two leaders will meet jointly with Modi.\nChina is engaged in hotly contested territorial disputes in the South China Sea, and with Japan in the East China Sea. Both the areas are said to be rich in minerals, oil and other natural resources.\nThe US has been conducting regular patrols in the South China Sea to assert freedom of navigation in the area.\nPrime Minister Modi, in his keynote address at the Shangri La Dialogue in Singapore in June expounded India’s stand on the strategic Indo-Pacific region. The Indo-Pacific is a natural region. It is also home to a vast array of global opportunities and challenges, he said. “India does not see the Indo-Pacific Region as a strategy or as a club of limited members. Nor as a grouping that seeks to dominate. And by no means do we consider it as directed against any country. A geographical definition, as such, cannot be,” the PM explained.\n“India stands for open and stable international trade regime. We will also support rule-based, open, balanced and stable trade environment in the Indo-Pacific region, which lifts up all nations on the tide of trade and investment,” he said.\nPresident Trump will also have meetings with President Mauricio Macri of Argentina, President Moon Jae-In of South Korea and President Recep Tayyip Erdogan of Turkey.\n“The president will meet with President Putin and have a working dinner with President Xi,” National Security Advisor Bolton said.\nPrime Minister Modi will also meet Chinese President Xi on the sidelines of the summit. It would be their fourth meeting in last seven months. Modi will also meet UN Secretary General Antonio Guterres, Mauricio Macri, the President of Argentina; Chilean President Sebastian Pinera, German Chancellor Angela Merkel.\nHe will also meet the prime ministers of Spain, Jamaica, the Netherlands and the president of the European Union and European Council.",
+      "image_captions": [
+        "US President Donald Trump and Japanese PM Shinzo Abe feed koi fish during a welcoming ceremony in Tokyo on Monday. (Photo: AFP)"
+      ]
+    }
+  ],
+  "evidence_count": 4,
+  "crawled_at": "2026-04-23T17:39:21.326458+00:00"
+}

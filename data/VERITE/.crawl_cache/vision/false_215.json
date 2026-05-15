@@ -1,0 +1,73 @@
+{
+  "sample_id": "false_215",
+  "image_url": "https://i.ytimg.com/vi/kMPSnvGzsSM/hqdefault.jpg",
+  "visual_entities": [
+    {
+      "description": "Blond",
+      "score": 1.0299089
+    },
+    {
+      "description": "Human hair color",
+      "score": 0.71
+    },
+    {
+      "description": "Hair",
+      "score": 0.6715
+    },
+    {
+      "description": "Color",
+      "score": 0.6496
+    },
+    {
+      "description": "eumelanin",
+      "score": 0.4783
+    },
+    {
+      "description": "Human skin color",
+      "score": 0.4343
+    },
+    {
+      "description": "Pigment",
+      "score": 0.4238
+    },
+    {
+      "description": "Dye",
+      "score": 0.3608
+    },
+    {
+      "description": "Hair bleaching",
+      "score": 0.349
+    },
+    {
+      "description": "Hue",
+      "score": 0.3243
+    }
+  ],
+  "best_guess_labels": [
+    "blond"
+  ],
+  "similar_image_urls": [
+    "https://i.ytimg.com/vi/kMPSnvGzsSM/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AHOBYAClgOKAgwIABABGH8gRSgmMA8=&rs=AOn4CLAs1Hpe1f3ikH1AutTX6qz0kCPCiA",
+    "https://i.ytimg.com/vi/kMPSnvGzsSM/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHOBYAClgOKAgwIABABGH8gRSgmMA8=&rs=AOn4CLDuxoHgrL9DhLlVOGK_LEz8XUjq0w"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.artandpopularculture.com/Platinum_blonde",
+      "page_title": "Blond - The Art and Popular Culture Encyclopedia",
+      "title": "Checking Browser",
+      "description": "",
+      "text": "Checking Browser\nYour browser will redirect to your requested content shortly.",
+      "image_captions": []
+    },
+    {
+      "url": "https://wrdz.net/define/blond",
+      "page_title": "blond - wrdz Kids' Dictionary",
+      "title": "blond - wrdz Kids' Dictionary",
+      "description": "blond: Blond describes hair that's pale yellow or golden in color , like the color of wheat , honey , or sunlight . Someone with blond hair might have locks …",
+      "text": "blond\nHaving light yellow or golden-colored hair.\nBlond describes hair that's pale yellow or golden in color, like the color of wheat, honey, or sunlight. Someone with blond hair might have locks that range from very light, almost white-blond, to darker golden or sandy tones.\nThe word comes from French and is sometimes spelled blonde when referring to a woman or girl, though many people now use blond for everyone regardless of gender. You might describe someone as “a blond boy” or say “she has blond hair.”\nHair color can change naturally over time. Many children with blond hair find it darkens as they grow older, shifting toward brown. People also sometimes dye their hair blond, changing its color artificially.\nBeyond hair, the word appears in phrases like blond wood, describing light-colored woods such as maple or birch that have a pale, golden appearance. You'll also hear it in food descriptions: blond brownies are made without chocolate, giving them a lighter color than regular brownies.",
+      "image_captions": []
+    }
+  ],
+  "evidence_count": 2,
+  "crawled_at": "2026-04-23T17:53:16.449047+00:00"
+}

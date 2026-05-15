@@ -1,0 +1,75 @@
+{
+  "sample_id": "true_295",
+  "image_url": "https://pbs.twimg.com/media/CI15SJHUAAAiAUX?format=jpg&name=medium",
+  "visual_entities": [
+    {
+      "description": "Joel Meyerowitz",
+      "score": 2.988
+    },
+    {
+      "description": "Photograph",
+      "score": 0.7165
+    },
+    {
+      "description": "Yemen",
+      "score": 0.67440003
+    },
+    {
+      "description": "Image",
+      "score": 0.5445
+    },
+    {
+      "description": "Photography",
+      "score": 0.5006
+    },
+    {
+      "description": "Photographer",
+      "score": 0.4357
+    },
+    {
+      "description": "يمن شباب",
+      "score": 0.3975
+    }
+  ],
+  "best_guess_labels": [
+    "Photograph"
+  ],
+  "similar_image_urls": [
+    "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3279414891284322040",
+    "https://asset-cdn.uscardforum.com/original/3X/4/2/426afd29743312a02e656709c1a5fd20dee57c33.jpeg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=320576802610290",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1708918195928405",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=122151683876941434",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=881465224546960",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10217419230941104",
+    "https://sun9-61.userapi.com/s/v1/ig1/_x7zLgtlVhlsblhRgTaj9dqJziBexwfL9CD6E2aimH7hpdc4ycUHKD3g6yiaDRmvOYo_epqX.jpg?quality=96&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x639,540x719,640x853,720x959,876x1167&from=bu&cs=640x0",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=893597177407815",
+    "https://i.pinimg.com/736x/24/4b/fc/244bfcc00e639f422112a8891a703bc2.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.thequint.com/news/webqoof/old-photo-from-yemen-shared-as-security-check-at-afghan-airport-fact-check",
+      "page_title": "Old Photo From Yemen Shared as 'Security Check at Afghanistan ...",
+      "title": "Old Photo From Yemen Shared as ‘Security Check at Afghanistan Airport’",
+      "description": "The 2015 photo of a Houthi soldier frisking a man at what appears to be a security checkpoint went viral on social media, with users claiming that it showed a 'security check at Afghanistan Airport', amid Taliban's occupation of the country.",
+      "text": "A photograph of a man dressed in camouflage clothing frisking another armed person at what appears to be a checkpoint is going viral across social media platforms.\nThe photograph is being shared with a claim that it shows a security check at ‘Afghanistan airport’, as countries rush to evacuate their citizens from the country, which is now under the Taliban.\nHowever, we found that the photograph has been on the internet for a few years. The photo was first shared on Twitter by Amjad Tadros, a news producer for American media outlet CBS News.\nTadros shared the photograph reminiscing his times in Yemen and noted that it showed a Houthi soldier searching a man entering a rally, where arms were allowed.\nCLAIM\nThe photograph went viral on social media, where users shared it with the claim “Security check at Afghanistan airport”.\nThis post by one Mukesh Kapoor was shared more than 950 times at the time of writing this article. The claim was widely shared on Facebook.\nWHAT WE FOUND\nWe ran a reverse image search on the photograph and found that it had been circulating on the internet for a few years.\nOne such instance was in a tweet by Waqar Younis, the former coach of Pakistan’s cricket team. Another user had retweeted Younis’ tweet to state that it shows Houthi fighters in Yemen.\nTaking a clue from this, we added ‘Yemen’ as a keyword to the reverse image search and found a 2015 tweet with the same photo. The photograph was shared in July 2015 by Amjad Tedros, a Middle East producer for CBS News.\nTedros shared the image with the caption “Memories from #yemen: Houthi soldier searching a man going into a rally: Qat, daggers & machine guns allowed! (sic)”\nWe also found a tweet by Tedros from June 2015 of a CBS news report titled ‘Rare look inside battle-torn Yemen’. The report was uploaded to CBS’s verified YouTube channel on 16 June 2015.\nIn this report, we found a similar scene around the 01:21 mark, where people were being frisked at a checkpoint.\nWe compared the viral photo with the news report and found similarities between the two.\nIn both frames, a green lamp post along a brick-lined wall is visible. Additionally, a young man dressed in a khaki-coloured clothes is also seen frisking people.\nIn the viral photo, a man dressed in camouflage clothing, wearing a dark sleeveless jacket is seen checking a person. The same person can be seen in the CBS report as well, next to the young man.\nThe Quint contacted Amjad Tadros, who confirmed that he took the photograph in Yemen in June 2015. Corresponding over email, he said, \"I took it in Sana'a old city at a Houthi rally.\"\nEvidently, this photo does not show a security check at an Afghanistan airport. The photo is from 2015 and shows a Houthi soldier frisking a Yemeni local.\n(Not convinced of a post or information you came across online and want it verified? Send us the details on WhatsApp at 9643651818, or e-mail it to us at webqoof@thequint.com and we'll fact-check it for you. You can also read all our fact-checked stories here.)",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.altnews.in/10-year-old-image-edited-with-the-claim-that-chains-tied-to-burqa-clad-women-legs-in-afganistan/",
+      "page_title": "Decade-old photo morphed to show women in Afghanistan walking ...",
+      "title": "Decade-old photo morphed to show women in Afghanistan walking with feet chained - Alt News",
+      "description": "A photo of a man walking in front of three women in burqas has been shared on social media. He has a chain in his hand which is tied around...",
+      "text": "A photo of a man walking in front of three women in burqas has been shared on social media. He has a chain in his hand which is tied around the women’s feet. The image has been shared with another photo of women in western attire. Viral posts attempt to draw a contrast between Afghanistan in the 1960s and 70s and Afghanistan after the Taliban takeover.\nBelow is a tweet by TV9 Bharatvarsh anchor Shubhankar Mishra sharing the pictures. (Archive link)\nA few hours later, Mishra again tweeted the pictures in a different graphic. (Archive link)\nThe image is viral on Twitter.\nThe photo also made its way to Facebook. (1 and 2)\nFact-check\nAlt News spotted several red flags that made us question the veracity of the image. We noticed that the shadow of the shackles in the picture looked a bit odd. The shadow is clearly visible between the man and the woman right behind him but missing between the first two women. It then reappears between the second and third woman.\nWe performed a reverse image search of the image along with some keywords. This led to a 2017 article by ABP Ananda, the Bengali arm of ABP News. There were no shackles in the picture featured in the article.\nThe photo was also shared in a 2017 article in Modern Diplomacy. There were no shackles seen here either.\nIn addition, upon further research, we found a few blog posts from 2011 and 2012 containing the original picture without the shackles. [Link 1 (Archive link), Link 2 (Archive link), Link 3 (2012 Archive link), Link 4 (2016 Archive link)]\nUsing the Internet Archive Library, Alt News located an archived version of one of the blog posts. The original photo was shared in May 2011. This means that the picture is at least 10 years old.\nAll of these blog posts are identical, or rather they have been copy-pasted word for word. Each one recounts an incident where American journalist Barbara Walters was doing a story in Afghanistan and spoke to an Afghani woman. Walters asked her the reason she was walking behind her husband, to which she responded saying, “Land mines.”\nIn 2017, Abhijit Iyer Mitra shared the same story on Twitter, citing WhatsApp. Therefore, this anecdote had also been shared in India earlier. (Archive link)\nAmerican fact-checking agency Snopes also investigated the Barbara Walters-reported story in 2014. It concluded that this was just a satirical post, versions of which have been shared on the internet since 2001.\nTo sum it up, a ten-year-old image was edited and shared as recent after the Taliban’s takeover of Afghanistan.\nIndependent journalism that speaks truth to power and is free of corporate and political control is possible only when people start contributing towards the same. Please consider donating towards this endeavour to fight fake news and misinformation.",
+      "image_captions": [
+        "मामा-भांजी का वीडियो झूठे दावे और इस्लामोफ़ोबिक टिप्पणियों के साथ वायरल",
+        "नोएडा में श्रमिकों के प्रदर्शन के दौरान भड़की हिंसा से जोड़कर कई असंबद्धित वीडियोज़ वायरल",
+        "नोएडा पुलिस द्वारा महिलाओं की पिटाई का वीडियो AI जनरेटेड नहीं था, स्क्रॉल की ग्राउन्ड रिपोर्ट से सच आया सामने",
+        "WB चुनाव: मतदाताओं को धमकाते ‘TMC के गुंडों’ की गिरफ़्तारी बताकर बांग्लादेश का वीडियो वायरल",
+        "महिला कोटा या परिसीमन? PM मोदी ने देश को गुमराह किया, मीडिया ने फ़ैक्ट्स को ग़लत तरीके से रखा"
+      ]
+    }
+  ],
+  "evidence_count": 2,
+  "crawled_at": "2026-04-23T18:53:42.925178+00:00"
+}

@@ -1,0 +1,129 @@
+{
+  "sample_id": "true_70",
+  "image_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202001/australia_bushfire_koala_fact_.jpeg",
+  "visual_entities": [
+    {
+      "description": "Red fox",
+      "score": 1.5413365
+    },
+    {
+      "description": "Swift fox",
+      "score": 1.2031282
+    },
+    {
+      "description": "Koala",
+      "score": 1.0827
+    },
+    {
+      "description": "Kit fox",
+      "score": 1.07222
+    },
+    {
+      "description": "Koala Lou",
+      "score": 0.97229993
+    },
+    {
+      "description": "Dhole",
+      "score": 0.90792006
+    },
+    {
+      "description": "Fennec fox",
+      "score": 0.88011
+    },
+    {
+      "description": "Bears",
+      "score": 0.7960501
+    },
+    {
+      "description": "Fox",
+      "score": 0.7394
+    },
+    {
+      "description": "Vulpini",
+      "score": 0.71355
+    },
+    {
+      "description": "Wolf",
+      "score": 0.69465
+    },
+    {
+      "description": "Maned wolf",
+      "score": 0.6759
+    },
+    {
+      "description": "Kangaroo",
+      "score": 0.3283
+    }
+  ],
+  "best_guess_labels": [
+    "koala fox"
+  ],
+  "similar_image_urls": [
+    "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202001/australia_bushfire_koala_fact_.jpeg",
+    "https://i.ytimg.com/vi/4BXbuvKXWU4/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AGOA4ACrAKKAgwIABABGGUgVihLMA8=&rs=AOn4CLBc-yoPde-sPYxR2J8i0tmUIYMGQg",
+    "https://images.hindustantimes.com/rf/image_size_300x169/HT/p2/2020/01/25/Pictures/_67236d7e-3f4f-11ea-8d17-9068169bb2f5.PNG",
+    "https://static.cdn.asset.aparat.com/avt/5464225-7461-b__3028.jpg",
+    "https://i.ytimg.com/vi/BamixiRH9PM/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHeA4AC6AKKAgwIABABGGUgVChKMA8=&rs=AOn4CLCksky7sLpvr7Nr4cszRGovNlTTDQ",
+    "https://news-img.cdn.nimg.jp/s/articles/images/10062678/f404254b1299082b852ef855d7d973d09e3b49d06d518453c8a19846e155bf6c2815fcd4b40e3f7a5ac19d46865a91002fcc6f636d16bc7d058e6329d9f801ac/b828x800l.webp?key=a803e1e877b3de8da11c483603e026428c19c51a484c74c4e8cf55dcf98426e9",
+    "https://i3.ruliweb.com/thumb/24/12/17/193d08776c2545630.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=190555455460582&get_thumbnail=1"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.pbs.org/video/secret-nightlife-koalas/",
+      "page_title": "The Secret Nightlife of Koalas | Season 40 | Episode 7 - PBS",
+      "title": "Nature | The Secret Nightlife of Koalas | Season 40 | Episode 7",
+      "description": "Footage reveals that koalas are anything but lazy at night.",
+      "text": "The Secret Nightlife of Koalas\nClip: Season 40 Episode 7 | 2m 34sVideo has Closed Captions\nFootage reveals that koalas are anything but lazy at night.\nWhile koalas are known for their lazy daytime behavior, the koala cams reveal they are anything but lazy at night. The cameras also capture a male bellowing, which is the first time this behavior has been recorded in such close proximity.\nProblems playing video? | Closed Captioning Feedback\nProblems playing video? | Closed Captioning Feedback\nMajor support for NATURE is provided by The Arnhold Family in memory of Henry and Clarisse Arnhold, Sue and Edgar Wachenheim III, The Fairweather Foundation, Charles Rosenblum, Kathy Chiao and...\nThe Secret Nightlife of Koalas\nClip: Season 40 Episode 7 | 2m 34sVideo has Closed Captions\nWhile koalas are known for their lazy daytime behavior, the koala cams reveal they are anything but lazy at night. The cameras also capture a male bellowing, which is the first time this behavior has been recorded in such close proximity.\nProblems playing video? | Closed Captioning Feedback\nHow to Watch Nature\nNature is available to stream on pbs.org and the free PBS App, available on iPhone, Apple TV, Android TV, Android smartphones, Amazon Fire TV, Amazon Fire Tablet, Roku, Samsung Smart TV, and Vizio.\nBuy Now\nExplore More Ways to Watch\nBring the beauty and wonders of wildlife and natural history into your home with classic NATURE episodes.- Science and Nature\nExplore scientific discoveries on television's most acclaimed science documentary series.\nSupport for PBS provided by:\nMajor support for NATURE is provided by The Arnhold Family in memory of Henry and Clarisse Arnhold, Sue and Edgar Wachenheim III, The Fairweather Foundation, Charles Rosenblum, Kathy Chiao and...",
+      "image_captions": [
+        "The Secret Nightlife of Koalas",
+        "Explore More Ways to Watch",
+        "America Outdoors with Baratunde Thurston",
+        "Walking with Dinosaurs",
+        "Crash Course Astronomy"
+      ]
+    },
+    {
+      "url": "https://www.hindustantimes.com/it-s-viral/video-doesn-t-show-fox-breastfeeding-orphaned-koala-babies-in-australia/story-9aHMHEDqGtg0OZ3eupGCLN.html",
+      "page_title": "Does this video show fox breastfeeding orphaned koala babies in ...",
+      "title": "Does this video show fox breastfeeding orphaned koala babies in Australia? Here’s the truth",
+      "description": "The video shows a fox breastfeeding some young animals. | Trending",
+      "text": "Does this video show fox breastfeeding orphaned koala babies in Australia? Here’s the truth\nThe video shows a fox breastfeeding some young animals.\nSeries of massive bushfires across Australia has left the country devastated. There are several videos and images related to the incidents which are making their way onto the Internet. Sadly, however, some of them are fake or being shared with untrue claims. The video of a breastfeeding fox is the latest inclusion to the list of recent Australian bushfires related fake news.\n“A Fox allows itself to feed Koala Babies in Australia. In #AustraliaBushfires babies have lost their mothers and many mother animals have lost their little ones. This is fine example of Humanity,” wrote a Twitter user and shared the video.\n“In Australian fire, fox feeds baby koala! In doing so, she challenged humans,” a YouTube user also shared the video with this caption.\nSearches on Google, however, revealed that the video is doing its rounds since 2014 and that too with some people claiming that the fox is feeding orphaned bear cubs.\nThough it’s unclear when or where the video was captured or who clicked it, a YouTube user by profile name “Luc Durocher” shared the same clip back in 2014. The user also shared other videos of the same fox and baby animals. The clips clearly show that the small animals lingering around the bigger one are fox kits – and not baby koalas or bears.\nHere’s one of the video:\nThe video is not from the recent Australian bushfires. Also, it’s not orphaned koalas that the animal is feeding, they’re fox kits.\n- ABOUT THE AUTHORTrisha Sengupta\nTrisha Sengupta works as Chief Content Producer at Hindustan Times with over six years of experience in the digital newsroom. Known for her ability to decode the internet’s most talked-about moments, she specialises in high-engagement storytelling that bridges the gap between viral trends and traditional journalism. Throughout her tenure, Trisha has focused on the intersection of technology, finance, and human emotion. She frequently covers personal finance and real estate struggles in hubs like Gurgaon, Bengaluru, and Hyderabad, while also documenting the unique challenges of the NRI experience. Her work often highlights the movements and philosophies of global newsmakers and personalities like Elon Musk, Mukesh Ambani, Nikhil Kamath, Dubai crown prince, and MrBeast. From reporting on Amazon or Meta layoffs and startup culture to the emergence of AI-driven platforms like Grok and xAI, she provides a grounded and empathetic perspective on the stories shaping our world. When not decoding the internet, Trisha is likely offline: lost in a book, exploring a historical ruin, or navigating the world as a solo traveler. She balances her fast-paced career with family time and a healthy dose of curiosity, currently trading her \"human\" sources for silicon ones as she masters AI to future-proof her storytelling.Read More",
+      "image_captions": [
+        "The video is being shared with false claims. (Screengrab)",
+        "Subscription features",
+        "TechCircle_logo_white"
+      ]
+    },
+    {
+      "url": "https://www.indiatoday.in/fact-check/story/fact-check-truth-behind-mother-fox-feeding-koalas-during-australia-bushfires-1640381-2020-01-26",
+      "page_title": "Fact Check: Truth behind mother fox feeding koalas during Australia ...",
+      "title": "Fact Check: Truth behind mother fox feeding koalas during Australia bushfires",
+      "description": "A video of a red fox breastfeeding has gone viral with the claim that it is feeding baby koalas, and relating it to the bushfires in Australia.",
+      "text": "Fact Check: Truth behind mother fox feeding koalas during Australia bushfires\nA video of a red fox breastfeeding has gone viral with the claim that it is feeding baby koalas, and relating it to the bushfires in Australia.\nHeart-wrenching images and videos of koalas and kangaroos devastated and displaced by the catastrophic bushfires in Australia have shocked the world. And videos related to the animal world Down Under have been drawing lots of attention on social media.\nA video of a red fox breastfeeding has gone viral with the claim that it is feeding baby koalas, and relating it to the bushfires in Australia. Facebook page Daily India Times posted a 33-second clip of the same with the caption, A Fox allows itself to feed Koala Babies in Australia. #AustraliaBushfires.\nThe archived version of the post can be seen here.\nIndia Today Anti Fake News War room (AFWA) has found the post to be misleading. The video is at least six years old and has nothing to do with the recent bushfires in Australia. Also, the mother fox is not feeding koalas but fox kits.\nWith a combination of InVID reverse image and Google searches, we found that the video is on the Internet for quite some time and it has been circulating with multiple claims.\nYouTube channel around the world uploaded the same video in 2018 with the caption, Female fox feeding young monkeys, rare scene.\nAnother YouTube channel, Balkan Music, uploaded the video in 2016 with the caption, Mother Fox feeding her babies.\nIn 2014, YouTuber Luc Durocher uploaded the video, along with a few more videos, which shows the mother red fox breastfeeding her kits. The caption in French reads, Renards roux - Tétée, which Google translation shows as Red foxes - Feeding.\nThere are other video clips of the same fox shot from different angles that have also been uploaded by Luc Durocher.\nIn the other video clips, the fox cubs can easily be identified and it leaves little room for viewers to doubt if they are koalas.\nWe could not independently verify as to who shot these videos and where. But since this video is available from 2014 and other videos confirm that the mother fox is feeding her kits, the viral claim that it is related to the Australian bushfires is misleading.",
+      "image_captions": [
+        "Fact Check: Truth behind mother fox feeding koalas during Australia bushfires",
+        "Pakistan played the role of facilitator in Iran-US ceasefire: Hamid Mir",
+        "After a strong rally, what should investors do: Book profits or stay invested?",
+        "Video: Moon's far side captured in stunning detail during Artemis II fly-by",
+        "40 days of war: There’s a pause in West Asia but no full stop"
+      ]
+    },
+    {
+      "url": "https://promotions.hu/orszagos/szines/2020/01/30/voros-roka-ausztralia-koala-bebi-etetes-gondozas",
+      "page_title": "Egy róka vette gondozásba a koala bébiket? Szó sincs róla – videó",
+      "title": "Egy róka vette gondozásba a koala bébiket? Szó sincs róla – videó",
+      "description": "Szép is lenne, ha egy vörös róka etetné az éhes koalákat, de nem így van.",
+      "text": "Egy róka vette gondozásba a koala bébiket? Szó sincs róla – videó\nSzép is lenne, ha egy vörös róka etetné az éhes koalákat, de nem így van.\nA Capitoliumi farkast senkinek sem kell bemutatni: ha nem is élőben, de képen a legtöbben már talán láthattátok a nőstényfarkast ábrázoló bronzszobrot, ami a csecsemő Romulust és Remust szoptatja.\nAmikor megnéztem az alábbi videót, rögtön ez a szobor jutott eszembe. Ha megnézitek, megértitek, hogy miért.\nNéhány napja egy videó járta be a világot, amit egy Lets Make It Viral LMIV nevű felhasználó töltött fel a YouTube-ra azzal, hogy egy róka koala bébiket etet Ausztráliában. A videót több külföldi portál is lehozta, köztük mi is, sőt, az RTL Klub Fókusz című műsora is ezzel a videóval búcsúzott egyik adásában, azonban kiderült, hogy egy átverésről van szó.\nEz a videó még 2009-ben, Kanadában készült egy anyarókáról és a két kölykéről. A felvételt Luc Durocher készítette.\nPersze, aki kicsit is jobban ért a biológiához, rögtön kiszúrhatja, hogy ezek csak rókakölykök, de tény, hogy olyan torz a felvétel, hogy akár koaláknak is lehet őket nézni. Bár a vörös róka nem őshonos Ausztráliában, óriási elterjedési területén kívül betelepítették oda is, ahol aztán meghonosodott. Könnyen megtéveszthet bárkit ez a videó, de legyen szó rókakölykökről vagy koala bébikről, ez egy rendkívül aranyos felvétel.",
+      "image_captions": [
+        "Egy róka vette gondozásba a koala bébiket? Szó sincs róla – videó",
+        "Jogosan rettegett Rákay Philip, megkapta az első találatot",
+        "Itt a bejelentés, sarkvidéki eredetű levegő zúdul hazánkra, itt a pontos dátum, ezen a napon jön a változás az időjárásban",
+        "A Liverpool csapatkapitánya megfegyelmezte Szoboszlai Dominiket, kellemetlen helyzetben a magyar válogatott sztárja",
+        "Teljesen új TV-csatorna indul Magyarországon, kifejezetten LMBTQ-tartalmakkal, a neve is megvan már"
+      ]
+    }
+  ],
+  "evidence_count": 4,
+  "crawled_at": "2026-04-23T17:09:20.887135+00:00"
+}

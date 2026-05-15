@@ -1,0 +1,106 @@
+{
+  "sample_id": "true_110",
+  "image_url": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2019/03/childbride_social.jpg",
+  "visual_entities": [
+    {
+      "description": "Zain Bhikha",
+      "score": 8.604
+    },
+    {
+      "description": "Husayn ibn Ali",
+      "score": 7.1475
+    },
+    {
+      "description": "Ali al-Akbar ibn Husayn",
+      "score": 5.787
+    },
+    {
+      "description": "Marriage in Islam",
+      "score": 0.5261
+    },
+    {
+      "description": "Islam and children",
+      "score": 0.4863
+    },
+    {
+      "description": "YouTube Kids",
+      "score": 0.469
+    },
+    {
+      "description": "As-salamu alaykum",
+      "score": 0.413
+    },
+    {
+      "description": "25 Prophets",
+      "score": 0.3985
+    },
+    {
+      "description": "Muslim world",
+      "score": 0.3835
+    },
+    {
+      "description": "Fasting in Islam",
+      "score": 0.3543
+    }
+  ],
+  "best_guess_labels": [
+    "kids islamic"
+  ],
+  "similar_image_urls": [
+    "https://mediaproxy.snopes.com/width/1200/height/675/https://media.snopes.com/2019/03/childbride_social.jpg",
+    "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2019/03/childbride_social.jpg",
+    "https://staticimg.amarujala.com/assets/images/2016/09/15/360x243/syria_1473922755.jpeg",
+    "https://media-assets.wired.it/photos/615daec904249cf3a9c84d75/master/w_1600%2Cc_limit/thunberg_isis_bufala.jpg",
+    "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3012753105707728057",
+    "https://pbs.twimg.com/media/HF98Q-gbEAAtq9-.jpg",
+    "https://pbs.twimg.com/media/HF98Q-gbEAAtq9-.jpg?format=jpg&name=thumb"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.snopes.com/fact-check/girl-forced-child-marriage-meme/",
+      "page_title": "Does This Photograph Show a Girl Forced Into Child Marriage by ...",
+      "title": "Does This Photograph Show a Girl Forced Into Child Marriage by Muslims?",
+      "description": "“To all you misguided, uninformed liberal ‘women’ demonstrating in favor of embracing Islam ...\"",
+      "text": "Among the many vexing problems with which the world continues to grapple is the issue of child marriage, a matter that predominantly affects girls in less developed countries. As the United Nations Population Fund (UNFPA) notes, 20 percent of girls worldwide are married before reaching the age of 18, and in some parts of the globe the rate is twice as high:\nChild marriage denies girls the right to choose whom and when to marry -- one of life’s most important decisions. Choosing one's partner is a major decision, one that should be made freely and without fear or coercion. On this, virtually all countries agree.\nChild marriage is a human rights violation. Despite laws against it, the practice remains widespread: Globally, one in every five girls is married, or in union, before reaching age 18. In the least developed countries, that number doubles – 40 per cent of girls are married before age 18, and 12 per cent of girls are married before age 15.\nChild marriage directly threatens girls’ health and well-being. Marriage is often followed by pregnancy, even if a girl is not yet physically or mentally ready. In developing countries, nine out of 10 births to adolescent girls occur within a marriage or a union. In these countries, complications from pregnancy and childbirth are the leading cause of death among adolescent girls aged 15 to 19.\nGirls who are married may also be exposed to sexually transmitted infections, including HIV. When girls marry, they are often forced to drop out of school so they can assume household responsibilities. This is a denial of their right to an education. Girls who leave school have worse health and economic outcomes than those who stay in school, and eventually their children fare worse as well.\nUnfortunately, social media platforms are full of inaccurate postings on the subject from persons who are not seeking to raise awareness of the child marriage issue, but simply to demonize other religions and cultures. The following is one such example of this phenomenon:\n“To all you misguided, uninformed liberal ‘women’ demonstrating in favor of embracing Islam, this young lady is being sold into sexual slavery as a child bride. She is a Christian. She watched her father beheaded and her mother raped. Where is her safe place?” the meme asks.\nHowever, the blonde girl pictured here was not being sold into sexual slavery as a child bride by Muslims (or anyone else), and no credible reports (outside of the inflammatory meme itself) suggested she was a Christian who had seen her \"father beheaded and her mother raped.\"\nThe image used in the meme originated with a (no longer available) video from 2013 that captured a 7-year-old girl participating in a Quran recital competition, as noted in a Morocco World News article:\nThe picture shows an ISIS member, seemingly in his thirties, with a seven-year-old, crying girl, who had been interpreted as his bride. The photo sparked widespread condemnation on social media before a video on YouTube proved it to be a hoax.\nThe picture generated several theories. The most popular theory [was] that the young girl had been converted to Islam before being forced to marry the ISIS member appearing in the picture ..\nThe website Arabic Canada solved the mystery surrounding the “outrageous” picture, by sharing a video of what seems to be a Quran recital competition -- from which the picture was taken -- organized by ISIS in Klassa, a neighborhood in Aleppo, in 2013.\nThe video shows the ISIS member, who was misleadingly presented as the young girl’s groom, having a small chat with her before she recites verses of the Quran.\nFeeling embarrassed for making several mistakes during her recitation, Ghada, the young girl, starts crying before the man returns. He then clearly tries to comfort her and boost her spirits.\nThe referenced Arabic Canada website (now defunct) wrote of this picture as follows (roughly translated from Arabic):\nA seven-year-old girl looks very frightened, while the man standing next to her looks smiling and happy. The text accompanying the photograph claims that the man in the picture forced the girl to marry him. Some versions even went so far as to identify the girl as a Christian who had been forced to convert to Islam and read the Quran. Of course, the picture produced a feeling of disgust in everyone who saw it. Some newspapers wrote articles denouncing the phenomenon of child marriage in Islam. One newspaper of course took the opportunity to refer to the marriage of six-year-old Aisha [the third wife of the prophet Muhammad] and claimed that Islam permitted and encouraged child marriage.\nThe photo is actually a screenshot from a video of a children's recitation contest held in Aleppo in September 2013, and although the organizers of the contest certainly belong to ISIS, the video includes no reference to marriage. The dismay on the girl's face was apparently triggered by her having made a mistake in reciting the Quran.\nOther screenshots from the video captured the girl looking considerably less distraught:\nThis isn't to say that child marriage isn't a real problem, or that it and other depredations — such as beheadings and rape — haven't been perpetrated by those associated with ISIS, but the image used in this meme isn't representative of any of those issues.",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.wired.it/attualita/ambiente/2019/09/26/5-nuove-bufale-greta-thunberg/",
+      "page_title": "5 nuove mirabolanti bufale su Greta Thunberg - Wired",
+      "title": "5 nuove mirabolanti bufale su Greta Thunberg",
+      "description": "Dalle accuse di essere un'attrice fino all'attivista “più pagata del mondo”, si arriva persino alle foto fake con George Soros o i terroristi dell'Isis. L'attivista svedese purtroppo ha scatenato la fantasia dei complottisti (e dei misogini)",
+      "text": "Dopo l'accorato discorso dello scorso 23 settembre al summit Onu sul clima a New York, come era facile pronosticare Greta Thunberg è di nuovo finita al centro dell'attenzione mediatica, e allo stesso tempo è stata investita dall'ennesima ondata di disinformazione e bufale. Al di là dell'enorme dibattito generato dalla giovane attivista svedese – a tratti fin troppo politicizzato, o focalizzato sulla sua persona anziché sui temi di cui si fa portavoce – alcune notizie in circolazione online vanno ben oltre il territorio delle opinioni, e riportano oggettive falsità sul suo conto o contengono contributi multimediali fake.\nSe già nei mesi scorsi qui su Wired avevamo raccolto e raccontato quasi una decina di bufale su Thunberg, incluse almeno un paio di forme di complottismo, ora il panorama delle false storie si è ulteriormente ampliato. E mentre le vecchie fake news continuano a rispuntare periodicamente, quelle nuove stanno avendo in questi giorni un picco di viralità, non solo in Europa ma anche Oltreoceano.\nSecondo una teoria che circola soprattutto su Twitter e su Facebook, Greta Thunberg non sarebbe altro che un personaggio stereotipato interpretato magistralmente da un'attrice australiana quindicenne il cui vero nome sarebbe Estella Renee. Insomma, una professionista del palcoscenico “specializzata in drammi shakesperiani”, “capace di piangere a comando” e di recitare “con perfetto accento svedese”. La prova sarebbe un fantomatico check-in in un hotel newyorkese (raccontato solo a parole), in cui gli adulti suoi accompagnatori avrebbero dovuto fornire alla reception i suoi veri documenti.\nSoltanto chi non conosce affatto Greta Thunberg e l'ha scoperta solo in questi giorni potrebbe credere a un simile cumulo di falsità. Della ragazza, ad esempio, conosciamo esattamente l'identità dei genitori (Svante Thunberg e la cantante lirica Malena Ernman), del nonno paterno Olof e della sorella Beata. E sono celebri le sue prime proteste davanti al parlamento svedese, che risalgono a oltre un anno fa. Per di più anche altre giovani attiviste sono state tacciate di essere personaggi teatrali interpretati dalla stessa Estella Renee, come ad esempio nel caso di Stella Brazer, che solo di recente è stata correttamente identificata grazie al fact-checking di Abc News. Dall'altra parte, i sostenitori della teoria complottista non hanno mai fornito alcuna prova concreta a supporto delle proprie affermazioni, se non alcuni screenshot decontestualizzati e a volte ritoccati (perché Thunberg e la vera Estella Renee non si somigliano affatto).\nSimile alla precedente come filone narrativo, ma diversa nelle argomentazioni, è la teoria secondo cui non ci sarebbe stato alcuno scambio di persona né impersonificazione, ma più semplicemente la stessa Greta Thunberg sarebbe un'attrice. A favorire la diffusione di questa notizia (che ha un piccolissimo fondo di verità, come vedremo) è stata proprio l'ultimo discorso pubblico a New York, in cui la ragazza è intervenuta in modo particolarmente appassionato, attirandosi per questo molti apprezzamenti e anche qualche critica.\nMa quali sarebbero le prove a sostegno? Greta Thunberg ha una propria pagina sul sito Imdb.com, e lì compare con il titolo di *“attrice” *per aver preso parte alla realizzazione di tre produzioni televisive. Queste informazioni sono corrette e confermate anche dall'autorevole Snopes.com, dunque in generale affermare che Thunberg abbia anche avuto ruoli cinematografici non è di per sé sbagliato.\nTuttavia, com'è ovvio queste informazioni non possono far affermare che la ragazza in generale svolga il mestiere principale di attrice, né tantomeno che stia recitando nelle sue varie apparizioni pubbliche in cui parla di clima. Soprattutto perché, se si analizzano le informazioni in dettaglio, si scopre che quelle che potrebbero sembrare ruoli cinematografici da fiction sono in realtà occasioni in cui Thunberg ha prestato la propria voce o la propria immagine per trasmissioni televisive come documentari o inchieste sull'ambiente, in cui (come si suol dire) interpretava semplicemente se stessa. Ciò ha portato alla catalogazione della sua attività con il tag di attrice, senza però che questo voglia avere implicazioni sulla validità e sull'autenticità dei suoi interventi. Tanto per fare un ulteriore esempio, anche Donald Trump è un attore secondo Imdb.com.\nSi tratta della versione rivisitata della vecchia storia dei manovratori di Greta, di cui avevamo già parlato qui su Wired. Stavolta però non si tratta di speculazioni astratte, ma di un banale fotomontaggio. Circola infatti sui social l'immagine di Thunberg in compagnia di Soros, quando invece l'originale è una foto in cui accanto alla giovane svedese si trova l'ex vice-presidente statunitense Al Gore. La foto autentica è stata scattata a dicembre dell'anno scorso e prontamente pubblicata sui profili social ufficiali. Le affermazioni su Soros che sarebbe “il nonno di Greta”, dunque, sono da classificare al confine tra la satira e la bufala.\nAltra immagine che incastrerebbe Thunberg, altra fake news in piena regola: è in circolazione da tempo una foto di una ragazza bionda in compagnia di un uomo e in un contesto che sembra essere una base dei terroristi dell'Isis. E in questi giorni l'immagine è stata descritta come la foto ricordo di un incontro tra Thunberg e un gruppo di terroristi.\nIn realtà si tratta di una doppia bufala: come si può facilmente notare, la ragazza inquadrata non è affatto Greta Thunberg, e infatti da anni quella stessa immagine viene usata come prova dell'esistenza di un fenomeno di tutt'altro genere, quello delle spose-bambine. Pur trattandosi di un problema gravissimo e drammatico, in realtà anche in questa versione si tratta di un'immagine parzialmente decontestualizzata. Gli uomini inquadrati sono effettivamente militanti dell'Isis, ma la ragazzina in questo caso stava semplicemente partecipando a un concorso di recitazione, il cui video completo è pubblicato online e visibile qui. Il caso specifico è stato approfondito alcuni mesi fa da Snopes, ma tutta la storia non ha alcun legame con Greta Thunberg.\nL'infinita discussione sugli interessi economici dietro all'attivismo di Thunberg nei giorni scorsi ha avuto una svolta, da quando ha iniziato a circolare la copertina di un magazine statunitense (un certo People With Money) che avrebbe attribuito alla giovane svedese il titolo di “attivista più pagata al mondo” o “attivista nella top 10 mondiale per interessi economici”. Peccato però che il magazine in questione non esista affatto, e che la copertina sia un fotomontaggio creato dal sito satirico Media Mass, già autore in passato di molte altre copertine analoghe in cui di volta in volta la celebrità di turno veniva nominata “la più ricca del mondo”.\nSnopes ha raccolto oltre una quindicina di altre copertine simili, ma nonostante questo abbondare di evidenze c'è chi continua a viralizzare la storia, attraverso la ricondivisione della copertina o del link all'articolo satirico che lo stesso sito ha pubblicato. Non occorre certo lo Sherlock Holmes del debunking per accorgersi che si tratta di un contenuto di pura invenzione, dato che si citano tra i guadagni di Thunberg i profitti delle vendite di un proprio brand di vodka (“Pure Wonderthunberg - Sweden”), di profumi (“With Love from Greta”), di moda (“Greta Thunberg Seduction”) e per la ristorazione (“Fat Thunberg Burger”). Piuttosto, si potrebbe discutere se dalla satira si sia sfociati nella misoginia.",
+      "image_captions": [
+        "Secondo la teoriabufala sarebbe lei a interpretare il ruolo di Greta Thunberg",
+        "Greta Thunberg 5 nuove bufale sull'attivista svedese  Wired",
+        "Il fotomontaggio di Thunberg con George Soros e l'originale con Al Gore",
+        "50 momenti chiave che raccontano i 50 anni di storia di Apple",
+        "World Press Photo 2026, le immagini vincitrici che raccontano il nostro tempo"
+      ]
+    },
+    {
+      "url": "https://www.amarujala.com/bizarre-news/world-of-wonders/mystery-of-magic-money-tree",
+      "page_title": "Omg:इस पेड़ पर उगते हैं पैसे, देखने वाले होते हैं मालामाल - Amar Ujala",
+      "title": "OMG: इस पेड़ पर उगते हैं पैसे, देखने वाले होते हैं मालामाल",
+      "description": "ऐसा अनोखा पेड़ जिससे 1700 सालों से सिक्के निकल रहे हैं।",
+      "text": "कौन कहता है पेड़ पर पैसे नहीं उगते, लेकिन अगर आप इसे बस कहावत भर मानते हैं तो एक बार और सोच लें। क्योंकि हम आपको दिखाने जा रहे हैं ऐसा ही जादुई पेड़ जिससे 1700 सालों से पैसे निकल रहे हैं।\nयूके में स्कॉटिश हाइलैंड के पीक डिस्ट्रिक्ट फारेस्ट में एक ऐसा पेड़ है जिस पर पैसे लदे हुए हैं। दूर से किसी सामान्य पेड़ की तरह दिखने वाला ये पेड़ पास जाने पर किसी खजाने की तरह नजर आता है।\nपैसों से लदा इस पेड़ पर 1700 सालों से ब्रिटिश सिक्कों के साथ दूसरे देशों के पैसे भी लगे हुए हैं। यही नहीं इस पेड़ के तने में ऐसी कोई भी जगह नहीं है जहां सिक्का न लगा हो।\nइस पेड़ को लेकर कई कहानियां प्रचलित हैं। कहते हैं कि इस पेड़ पर भूतों का वास है, कोई कहता है कि यहां कोई ईश्वरीय शक्ति है। वहीं लोग यहां क्रिसमस पर गिफ्ट और सिक्के लेकर आते हैं, ताकि वह तरक्की कर सके।\nमान्यता चाहे जो भी हो लोग दूर दूर ये उस पेड़ पर सिक्के लगाने आते हैं। क्योंकि कुछ लोग ऐसा मानते हैं कि यहां सिक्का लगाने से रिश्ता सालों साल बना रहता है।",
+      "image_captions": [
+        "mystery of magic money tree",
+        "अमर उजाला प्लस सब्सक्रिप्शन"
+      ]
+    },
+    {
+      "url": "https://www.amarujala.com/photo-gallery/bizarre-news/world-of-wonders/kentucky-meat-shower-mystery",
+      "page_title": "आसमान से अचानक गिरने लगे 'मांस' के टुकड़े, वैज्ञानिक भी हो गए हैरान",
+      "title": "आसमान से अचानक गिरने लगे 'मांस' के टुकड़े, वैज्ञानिक भी हो गए हैरान",
+      "description": "इस शहर में अचानक ही आसमान से बरसने लगे मांस के टुकड़े",
+      "text": "आसमान से अब तक लोगों ने बारिश को ही जमीन पर गिरते देखा है। लेकिन क्या कभी आपने मांस की बारिश होते देखी है। ये कोई मजाक नहीं, बल्कि असल में लोग उस वक्त चौंक गए जब आसमान से मांस के टुकड़े गिरने लगे।\nसाल 1876 में अमेरिका के बाथ कंट्री के रंकिन में अचानक ही आसमान से मांस के बड़े बड़े टुकड़े गिर रहे थे। इलाके के लोग ये नजारा देख हक्का बक्का रह गए।\nलोगों के अनुसार करीब 4 से 5 मिनट तक आसमान से चार इंच के टुकड़े गिरे थे। बिना देर किए हुए लोगों ने इन टुकड़ों को बटोरना शुरु कर दिया।\nस्थानीय लोगों ने जब इस मांस को चखा, तो उन्हें ये भालू का मीट लगा। जबकि नेवार्क साइंटिफिक एसोसिएशन ने इन टुकड़ों की जांच करने के बाद पाया कि ये टुकड़े घोड़े या किसी नवजात के हैं। लेकिन असलियत बेहद चौंकाने वाली थी।\nवैज्ञानिकों ने जब इन टुकड़ों की जांच की तो बताया कि शायद यह एक तरह का बैक्टीरिया था, जो बादलों में जमा हो गया और बारिश के पानी के साथ आसमान से गिरा।",
+      "image_captions": [
+        "Kentucky Meat Shower mystery",
+        "अमर उजाला प्लस सब्सक्रिप्शन"
+      ]
+    }
+  ],
+  "evidence_count": 4,
+  "crawled_at": "2026-04-23T17:21:04.241585+00:00"
+}

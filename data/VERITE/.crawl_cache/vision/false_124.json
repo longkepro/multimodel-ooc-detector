@@ -1,0 +1,107 @@
+{
+  "sample_id": "false_124",
+  "image_url": "https://i.dailymail.co.uk/i/pix/2016/02/16/15/3149027E00000578-3449427-Under_investigation_The_vulgar_photo_shows_a_male_student_stompi-m-2_1455638218602.jpg",
+  "visual_entities": [
+    {
+      "description": "United States",
+      "score": 1.008
+    },
+    {
+      "description": "Flag of the United States",
+      "score": 0.9788
+    },
+    {
+      "description": "Flag",
+      "score": 0.7314
+    },
+    {
+      "description": "",
+      "score": 0.672
+    },
+    {
+      "description": "United States Flag Code",
+      "score": 0.5398
+    },
+    {
+      "description": "Flag protocol",
+      "score": 0.4922
+    },
+    {
+      "description": "upside down flag",
+      "score": 0.4784
+    },
+    {
+      "description": "preceding",
+      "score": 0.4419
+    },
+    {
+      "description": "Flag of Cape Verde",
+      "score": 0.4394
+    },
+    {
+      "description": "available",
+      "score": 0.4323
+    },
+    {
+      "description": "just",
+      "score": 0.3831
+    },
+    {
+      "description": "unavailable",
+      "score": 0.3831
+    },
+    {
+      "description": "contented",
+      "score": 0.3772
+    },
+    {
+      "description": "Tom MacDonald & Adam Calhoun",
+      "score": 0.3429
+    },
+    {
+      "description": "Half-mast",
+      "score": 0.3257
+    }
+  ],
+  "best_guess_labels": [
+    "stomp on american flag"
+  ],
+  "similar_image_urls": [
+    "https://photos.tf1info.fr/images/1280/1693/ahr0cdovl2dhzs1mzwvkcy5tzxryb25ld3muznivaw5mby9ldgf0cy11bmlzlxvuzs1wag90by1kds1kcmfwzwf1lxbpzxrpbmutzmfpdc1zy2fuzgfszs9tcgjxivrzetrowvdsdxlrzxmvzhjhcgvhds5qcgc-673084-0@1x.jpeg",
+    "https://photos.tf1info.fr/images/1024/1355/ahr0cdovl2dhzs1mzwvkcy5tzxryb25ld3muznivaw5mby9ldgf0cy11bmlzlxvuzs1wag90by1kds1kcmfwzwf1lxbpzxrpbmutzmfpdc1zy2fuzgfszs9tcgjxivrzetrowvdsdxlrzxmvzhjhcgvhds5qcgc-31a80c-0@1x.jpeg",
+    "https://photos.tf1info.fr/images/767/1015/ahr0cdovl2dhzs1mzwvkcy5tzxryb25ld3muznivaw5mby9ldgf0cy11bmlzlxvuzs1wag90by1kds1kcmfwzwf1lxbpzxrpbmutzmfpdc1zy2fuzgfszs9tcgjxivrzetrowvdsdxlrzxmvzhjhcgvhds5qcgc-92bb24-0@1x.jpeg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2729097747262116",
+    "https://i.dailymail.co.uk/i/pix/2016/02/16/15/3149027E00000578-3449427-Under_investigation_The_vulgar_photo_shows_a_male_student_stompi-m-2_1455638218602.jpg",
+    "https://www.eagnews.org/wp-content/uploads/2016/02/flagdisgracecrop.jpg",
+    "https://www.pennlive.com/resizer/v2/https%3A%2F%2Fimage.pennlive.com%2Fhome%2Fpenn-media%2Fwidth2048%2Fimg%2Fnews%2Fphoto%2F2016%2F02%2F17%2F19764051-large.jpg?auth=bc49a39735d8aa87edf4b126d9158e9a4dad05a0bfaf93a1297b3ef330c89a05&width=500&smart=true&quality=90",
+    "https://www.pennlive.com/resizer/v2/https%3A%2F%2Fimage.pennlive.com%2Fhome%2Fpenn-media%2Fwidth2048%2Fimg%2Fnews%2Fphoto%2F2016%2F02%2F17%2F19764051-large.jpg?auth=bc49a39735d8aa87edf4b126d9158e9a4dad05a0bfaf93a1297b3ef330c89a05&width=800&smart=true&quality=90",
+    "https://www.pennlive.com/resizer/v2/https%3A%2F%2Fimage.pennlive.com%2Fhome%2Fpenn-media%2Fwidth2048%2Fimg%2Fnews%2Fphoto%2F2016%2F02%2F17%2F19764051-large.jpg?auth=bc49a39735d8aa87edf4b126d9158e9a4dad05a0bfaf93a1297b3ef330c89a05&width=180&smart=true&quality=90"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.foxbusiness.com/video/4830422110001",
+      "page_title": "Protesters stomp on American flag at Trump rally | Fox Business Video",
+      "title": "Protesters stomp on American flag at Trump rally | Fox Business Video",
+      "description": "Protesters stomp flag",
+      "text": "Live Now\nAll times easternNOW - 1:30 PM\n1:30 PM\n2:00 PM\n2:30 PM\n3:00 PM\n3:30 PM\nFox Business Channel\nMaking Money with Charles Payne\n2:00 PM - 3:00 PM\nThe Claman Countdown\n3:00 PM - 4:00 PM\nFox News Channel\nAmerica Reports\n2:00 PM - 3:00 PM\nThe Story\n3:00 PM - 4:00 PM\nFox Weather Channel\nFox News Radio",
+      "image_captions": [
+        "Protesters stomp on American flag at Trump rally"
+      ]
+    },
+    {
+      "url": "https://www.dailymail.co.uk/news/article-3449427/Police-investigate-unpatriotic-photo-high-school-students-stomping-American-flag-flipping-camera.html",
+      "page_title": "Police investigate 'unpatriotic' photo of high school students ...",
+      "title": "Police investigate photo of students standing on the American flag",
+      "description": "The vulgar photo shows a male student stomping on the flag and a female student flipping off the camera. It was taken in a Richland Township classroom in Pennsylvania.",
+      "text": "Police investigate 'unpatriotic' photo of high school students stomping on the American flag and flipping off the camera\n- The photo was posted to Facebook on Saturday\n- It was taken inside a Richland Township classroom in Pennsylvania\n- Police investigated but say it is the responsibility of the district\n- Legal experts say the students have not committed a crime\n- The only charges that could be brought would be in relation to vandalism\nPolice in Pennsylvania have begun investigating a vulgar photo that was posted online, showing a male and female student stomping on an American flag and flipping off\nThe shot, which emerged on social media at the weekend, appears to have been taken in a Richland Township classroom.\nIt shows a male student stomping on the flag and a female student flips off the camera and sticking out her tongue.\nBoth the Richland Township School District and Police department have acknowledged the situation and say they're looking into it, WJAC reported.\nUnder investigation: The vulgar photo shows a male student stomping on the flag and a female student flipping off the camera and sticking her tongue out. It was taken in a Richland Township classroom in Pennsylvania\nStudents cannot be punished by law for sending an offensive message, according to legal experts.\nThe only charges that could be brought would be in relation to vandalism, assuming that the flag is school property.\n'The Supreme Court made it clear that using the flag as part of a protest, even burning a flag, is protected by the First Amendment,' a legal director from the American Civil Liberties Union of Pennsylvania told WJAC.\n'There could not be criminal charges brought against the students.'\nThe photo has been shared thousands of times on Facebook. Parents have been made away of it and are outraged.\n'I thought it was disrespectful. It definitely wasn't a representation of what Richland school district is,' said Mindy Wadsworth, a Richland township parent.\n'As a parent of a Richland student, I hope that's not how I would hope my child would act.'\n''I thought it was disrespectful': Parent Mindy Wadsworth was one of many outraged by the photo last weekend\nAfter police looked into the incident, they released a statement saying it is now the responsibility of the Richland Township school district\nThe Richland Township Police Department released a statement about the incident.\nThey said that while they had investigated the photo, it is now the responsibility of the school district.\n'The Richland Township Police Department has become aware of a disrespectful picture being passed along through Facebook,' the statement said.\n'We have been in contact with the Richland School District and will work with them in resolving this issue. Thank you to everyone who took time to notify us of this situation.'\nMost watched News videos\n- Moment woman is killed after she was struck in the head by statue\n- The Big Question: Is this the moment Keir Starmer loses control?\n- Conductor hits £1million violin into the air mid-concert\n- Trump calls out CNBC for 'promise' to secure his interview\n- Terrifying moment gunman opens fire on top of famous Mexican pyramid\n- Moment car crashes into Aussie dad and child in Thailand\n- PM asked to 'take responsibility and go' in brutal PMQs bashing\n- Moment police arrest suspected kidnapper who took teen from bus stop\n- Young girl has her egg stall destroyed by teenage yobs\n- Brits fight with German after chanting about 'winning world wars'\n- Russell Brand admits to 'exploitative' sex with 16-year-old girl\n- Harry asks Meghan to 'calm down' while hugging hunky lifeguard",
+      "image_captions": [
+        "Daily Mail - news, sport, celebrity, science and health stories",
+        "Under investigation: The vulgar photo shows a male student stomping on the flag and a female student flipping off the camera and sticking her tongue out. It was taken in a Richland Township classroom in Pennsylvania",
+        "''I thought it was disrespectful': Parent Mindy Wadsworth was one of many outraged by the photo last weekend",
+        "After police looked into the incident, they released a statement saying it is now the responsibility of the Richland Township school district"
+      ]
+    }
+  ],
+  "evidence_count": 2,
+  "crawled_at": "2026-04-23T17:25:39.235815+00:00"
+}

@@ -1,0 +1,117 @@
+{
+  "sample_id": "true_19",
+  "image_url": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2021/05/autolib.jpg",
+  "visual_entities": [
+    {
+      "description": "Car",
+      "score": 1.059
+    },
+    {
+      "description": "Geely",
+      "score": 0.96570003
+    },
+    {
+      "description": "SUV",
+      "score": 0.88465977
+    },
+    {
+      "description": "Electric car",
+      "score": 0.8306
+    },
+    {
+      "description": "Jeep",
+      "score": 0.7527
+    },
+    {
+      "description": "Pininfarina B0",
+      "score": 0.74310005
+    },
+    {
+      "description": "",
+      "score": 0.7048
+    },
+    {
+      "description": "Autolib'",
+      "score": 0.7048
+    },
+    {
+      "description": "",
+      "score": 0.6438
+    },
+    {
+      "description": "Electric vehicle",
+      "score": 0.5638
+    },
+    {
+      "description": "Battery Electric Vehicle",
+      "score": 0.5559
+    },
+    {
+      "description": "Plug-in electric vehicles in China",
+      "score": 0.5424
+    },
+    {
+      "description": "",
+      "score": 0.5018
+    },
+    {
+      "description": "",
+      "score": 0.476
+    }
+  ],
+  "best_guess_labels": [
+    "cimetiere voiture electrique"
+  ],
+  "similar_image_urls": [
+    "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2021/05/autolib.jpg",
+    "https://www.clarin.com/2021/05/20/YhWlhD1jX_340x340__1.jpg",
+    "https://www.clarin.com/2021/05/20/YhWlhD1jX_360x240__1.jpg",
+    "https://images.forococheselectricos.com/image/l/1320w/wp-content/uploads/2021/05/bollore-abandonados-francia.jpeg",
+    "https://img.lemde.fr/2023/06/12/33/80/720/360/1342/671/60/0/d4f7b6d_1686564734648-autolibs-sologne.png",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3963765797039046",
+    "https://img.lemde.fr/2023/06/12/0/83/700/467/1440/960/60/0/d4f7b6d_1686564734648-autolibs-sologne.png",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10226039056665900",
+    "https://kallkritikbyran.se/wp-content/uploads/2021/10/cars-1024x515.jpg",
+    "https://img.lemde.fr/2023/06/12/0/0/599/763/664/0/75/0/5944026_1686562045697-screenshot-2023-06-12-11-27-04.png"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.snopes.com/fact-check/electric-cars-abandoned-france/",
+      "page_title": "Were These Electric Cars Abandoned Because Their Batteries Failed?",
+      "title": "Were These Electric Cars Abandoned Because Their Batteries Failed?",
+      "description": "An anti-electric car post shows the results of a failed business model rather than a failed technology.",
+      "text": "In 2021, social media users began circulating photographs purporting to show \"electric powered cars in boneyard\" near Paris, France, that supposedly housed hundreds of derelict electric vehicles, the automobiles supposedly having been abandoned and left to decay because their battery storage cells had \"given out\" and were too expensive to replace:\nAlthough the photographs are real; the accompanying description is misleading in multiple ways. This item is, in effect, an example of a failed business model rather than a failed technology.\nBack in 2011, the Autolib program offered the service of providing thousands of electric vehicles in the Paris area under a car-sharing program. Subscribes to the service were able to use the any of the fleet of 4,000 BlueCar cars as they wished, paying a fee each time depending upon how long they used the vehicle. At its peak in 2016, the program boasted 110,000 subscribers.\nHowever, Autolib slid from that peak into decline, due to a number of factors: Four thousand cars for over 100,000 subscribers meant many users were unable to find vehicles when they wanted them; users frequently left the cars dirty inside and damaged; and competition from ride-hailing apps such Uber eroded the customer base. By 2018, Autolib was running debts of tens of millions of euros and the program was discontinued in June of that year.\nIn the end, most of the BlueCars in better condition were purchased and re-sold to new users or scrapped for parts. But a private company eventually stored some of the cars in not-so-good condition in a lot in an industrial area near Romorantin in Loir-et-Cher, as seen above -- not because the vehicles' storage cells had failed, but because the Autolib car-sharing program proved not to be a viable long-term business model.\nIt is also not the case that the abandoned Autolib BlueCars' batteries are \"draining toxins into the ground.\" As noted in reports on the subject, the batteries have been removed from the pictured vehicles:\nDespite protests from the Bolloré group, the multinational had to evacuate the 4,000 unwanted autolibs from the Paris region and urgently store them. They were then sold in several batches and two companies now hold most of the remaining fleet: the Breton company Autopuzz, former subcontractor of Bolloré, which resells these vehicles throughout France, and the company Atis Production, whose manager Paul Aouizerate does not want to reveal his plans for the Autolib parked in Loir-et-Cher.\nThe businessman also regrets the publication of photos of his vehicles in early March, shared by a blogger passionate about electric cars, who was amazed at such a landscape. The images became widespread on Facebook and Twitter, with internet users questioning how these cars can be reused and wondering about the potential risk of soil pollution they pose.\n“Our vehicles are properly stored. The firefighters are aware that the construction site is well organized. All batteries have been removed, [and] the connections are isolated” [said Paul Aouizerate, Atis Production Manager].",
+      "image_captions": [
+        "Electric cars abandoned in France"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/voitures-electriques-en-chine-des-cimetieres-de-vehicules-a-l-abandon_6280842.html",
+      "page_title": "Voitures électriques : en Chine, des cimetières de véhicules à l ...",
+      "title": "Voitures électriques : en Chine, des cimetières de véhicules à l’abandon",
+      "description": "Tesla a pour la première fois perdu son titre de plus gros vendeur de véhicules électriques au premier trimestre 2023, battu par le chinois BYD.",
+      "text": "Voitures électriques : en Chine, des cimetières de véhicules à l’abandon\nTesla a pour la première fois perdu son titre de plus gros vendeur de véhicules électriques au premier trimestre 2023, battu par le chinois BYD.\nÀ Hangzhou, dans l’est de la Chine, des centaines de voitures électriques sont à l’abandon, bien alignées sur un terrain vague fermé au public. Elles se sont retrouvées ici après la faillite d’une société de taxis. À Canton, dans le sud-est du pays, on trouve un autre cimetière de véhicules entourés d’herbes folles, en attendant d’être détruits ou recyclés.\nPassage à l’électrique réussi pour la Chine\nComment en est-on arrivés là ? La Chine est aujourd’hui le numéro un mondial de la voiture électrique, le pays compte une centaine de constructeurs. Il y a quelques années, plus de 500 marques étaient lancées sur ce marché de la voiture à énergie propre, attirées par des subventions publiques conséquentes. \"Les aides du gouvernement pouvaient aller jusqu’à 13 000 euros par véhicule\" pour les fabricants de voitures électriques, explique John Zheng, consultant chez LMC Automotive. \"Maintenant que le marché est plus mature, ces subventions ont pratiquement disparu\", poursuit-il. La Chine a réussi son pari du virage à l’électrique, quitte à laisser ses vieux modèles dans des cimetières.\nÀ regarder\n-\nCes enfants incarnent Simba et Nala dans la comédie musicale du \"Roi Lion\"\n-\nÉchec des négociations : nouvelles menaces sur le détroit d'Ormuz\n-\nFatigue, ravito, pancartes... On a assisté au Marathon de Paris 2026\n-\nTacos français, les nouveaux rois du fast-food\n-\nCombien de temps faut-il rester sur les toilettes ?\n-\nGuerre au Moyen-Orient : échec des négociations entre l'Iran et les Etats-Unis\n-\nConcerts de Céline Dion : pourquoi ces tarifs exorbitants ?\n-\nGuerre au Moyen-Orient : échec des négociations entre l'Iran et les Etats-Unis\n-\nGuerre au Moyen-Orient : l'impact sur le tourisme au Vietnam\n-\nPrudence, les chenilles processionnaires sont de retour !\n-\nUBB-Toulouse, les impressionnants chiffres d'un choc de titans en quarts de Champions Cup\n-\nPourquoi Tadej Pogacar peut remporter Paris-Roubaix\n-\nZaho : \"Enfant, je ne voulais pas devenir une adulte aigrie\"\n-\nGrêle à Marrakech : la ville rouge recouverte de blanc\n-\nRassemblements d'ados : quand ils sèment le chaos\n-\nEtats-Unis-Iran : bras de fer dans le détroit d'Ormuz\n-\n\"Rends-toi\" : le beau-frère de Xavier Dupont de Ligonnès sort du silence,15 ans après le drame\n-\nFabriquer du hasard, une quête depuis 12 000 ans !\n-\nMission Artemis II : retour sur Terre réussi pour les 4 astronautes\n-\nAccident mortel d'un bus touristique aux Canaries\n-\nLe retour de Val Kilmer au cinéma, grâce à l'IA\n-\nLe plan d'électrification de la France proposé par le gouvernement\n-\nGuerre en Iran : des négociations en sursis\n-\nNike reconnaît un défaut sur ses maillots de la Coupe du monde 2026\n-\nSecte démantelée : le gourou agissait depuis 30 ans\n-\nQuoi de neuf docteur ? Quelle cuisson choisir ?\n-\nLes secrets de la garde-robe de la Reine Elizabeth II\n-\nLe CNC suspend son aide aux créateurs de contenu\n-\nCette miss perce avec sa danse ridicule (ou pas)\n-\nPétroliers : faut-il davantage taxer leurs profits ?",
+      "image_captions": [
+        "Échec des négociations : nouvelles menaces sur le détroit d'Ormuz (France 2)",
+        "Fatigue, ravito, pancarte... On a assisté au Marathon de Paris (AFP)",
+        "Tacos français, les nouveaux rois du fast-food (France 2)",
+        "Julien Ménielle. (FRANCEINFO)",
+        "Concerts de Céline Dion : pourquoi ces tarifs exorbitants ? (France 2)"
+      ]
+    },
+    {
+      "url": "https://www.tf1info.fr/international/video-tf1-chine-les-cimetieres-geants-pour-voitures-electriques-se-multiplient-2268581.html",
+      "page_title": "VIDÉO - Chine : les \"cimetières\" géants pour voitures électriques se ...",
+      "title": "VIDÉO - Chine : les \"cimetières\" géants pour voitures électriques se multiplient | TF1 Info",
+      "description": "[VIDÉO] Dans plusieurs villes chinoises, des \"cimetières\" géants pour voitures électriques apparaissent. Un véritable gaspillage, car les batteries ne sont pas recyclées. La correspondante de TF1 en Chine vous explique. - VIDÉO - Chine : les \"cimetières\" géants pour voitures électriques se multiplient (International).",
+      "text": "- Dans plusieurs villes chinoises, des \"cimetières\" géants pour voitures électriques apparaissent.\n- Un véritable gaspillage, car les batteries ne sont pas recyclées.\n- La correspondante de TF1 en Chine vous explique.\nVu du ciel, on pourrait y voir un banal parking. Mais quand on s’approche de plus près, on s’aperçoit que ces centaines de voitures électriques sont en fait abandonnées. Partout, la nature a repris ses droits. Là, du lierre grimpant envahit un tableau de bord. Sur ce terrain en friche, aucune âme qui vive. Les voitures sont même restées ouvertes. Ici, un modèle sorti il y a près de dix ans, là, un concurrent… Tous utilisés par des services de VTC.\nCette nécropole automobile située dans la banlieue d’Hangzhou, en Chine, est loin d’être un cas isolé : on retrouve les mêmes images dans plusieurs villes du pays. Comment expliquer une fin si tragique ? Pour comprendre, il faut recontextualiser. La Chine est championne du monde de l’électrique. Une décennie déjà que le pays développe ce secteur à marche forcée. Hanchao, chauffeur de taxi, en est le meilleur témoin. \"Dans notre entreprise, il y a 200 ou 300 voitures. Et elles sont quasiment toutes électriques\"\n, affirme-t-il.\nLa Chine a vu trop grand, trop vite\nEncouragés par une pluie de subventions, plus de 500 nouveaux constructeurs se sont lancés dans la course. Une concurrence féroce. Pour se démarquer, le fabricant Zeekr mise tout sur des gadgets dernier cri. \"Quand je monte dans la voiture, il me suffit d’appuyer sur le frein et la porte se ferme automatiquement. C’est une option super cool\"\n, montre Hu Xiaomi, concessionnaire automobile Zeek. Les clients sont toujours plus exigeants. \"Avant, les gens changeaient de voiture tous les dix ans, mais aujourd’hui, c’est tous les cinq, six ans. Comme ils changeraient de téléphone\"\n, poursuit Hu.\nLire aussi\nVIDÉO - Voitures électriques : que valent les modèles chinois qui débarquent en France ?\nEn conséquence, les modèles trop vite obsolètes finissent dans ces cimetières. Un véritable gaspillage à grande échelle, car les batteries contiennent de précieux métaux. \"Aujourd’hui, les taux de recyclage de batteries sont autour de 50 à 60%, donc on peut se dire que sur toutes ces batteries, on pourrait en valoriser la moitié\"\n, déclare Clément Le Roy, associé chargé du secteur énergie et environnement du cabinet Wavestone.\nCe n’est pas la première fois que la Chine voit trop grand, trop vite. Il y a quelques années, des milliers, voire des dizaines de milliers de vélos partagés avaient été abandonnés de la même manière. Les perdants de la course au libre-service.",
+      "image_captions": [
+        "Télécharger l’application mobile TF1 Info sur l’app store",
+        "Télécharger l’application TF1 Info sur le play store",
+        "Voiture électrique de marque chinoise"
+      ]
+    }
+  ],
+  "evidence_count": 3,
+  "crawled_at": "2026-04-23T16:50:17.437995+00:00"
+}

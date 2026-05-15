@@ -1,0 +1,100 @@
+{
+  "sample_id": "false_32",
+  "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/04/1024/512/EasterBritain.jpg?ve=1&tl=1",
+  "visual_entities": [
+    {
+      "description": "Regina 'Nana Mama' Cross",
+      "score": 0.96225
+    },
+    {
+      "description": "Ed Ramsey",
+      "score": 0.9009
+    },
+    {
+      "description": "John Sampson",
+      "score": 0.80474997
+    },
+    {
+      "description": "Alex Cross",
+      "score": 0.78824997
+    },
+    {
+      "description": "Amazon Prime Video",
+      "score": 0.706
+    },
+    {
+      "description": "Cross - Season 1",
+      "score": 0.6271
+    },
+    {
+      "description": "Cross - Season 2",
+      "score": 0.5354
+    },
+    {
+      "description": "Streaming media",
+      "score": 0.5333
+    },
+    {
+      "description": "Trailer",
+      "score": 0.442
+    }
+  ],
+  "best_guess_labels": [
+    "cross"
+  ],
+  "similar_image_urls": [
+    "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/04/1024/512/EasterBritain.jpg?ve=1&tl=1"
+  ],
+  "evidence": [
+    {
+      "url": "https://skydance.com/tv/cross/",
+      "page_title": "Cross Season 1 - Skydance Media",
+      "title": "Cross Season 1 - Skydance Media",
+      "description": "Based on NY Times Bestselling author James Patterson’s #1 hero, Cross is a crime thriller that follows the investigations of brilliant forensic psychologist and DC Metro Detective Alex Cross. Together with his best friend and partner Detective John Sampson, Cross delves into the psyches of America’s most insidious killers while fighting to protect his family […]",
+      "text": "Cross Season 1\nNOW STREAMING ON AMAZON PRIME VIDEO\nAbout\nBased on NY Times Bestselling author James Patterson’s #1 hero, Cross is a crime thriller that follows the investigations of brilliant forensic psychologist and DC Metro Detective Alex Cross. Together with his best friend and partner Detective John Sampson, Cross delves into the psyches of America’s most insidious killers while fighting to protect his family from the dangers of the criminal world.\nCast & Crew\n- Showrunner | Executive Producer | Ben Watkins\n- Executive Producer | Sam Ernst\n- Executive Producer | Jim Dunn\n- Executive Producer | James Patterson\n- Executive Producer | Bill Robinson\n- Executive Producer | Patrick Santa\n- Executive Producer | David Ellison\n- Executive Producer | Dana Goldberg\n- Executive Producer | Bill Bost\n- Executive Producer | Producing Director | Craig Siebels\n- Executive Producer | Director | Nzingha Stewart\n- Director | Stacey Muhammad\n- Director | Director X\n- Director | Carl Seaton\n- Detective Alex Cross | Aldis Hodge\n- John Sampson | Isaiah Mustafa\n- Ed Ramsey | Ryan Eggold\n- Regina “Nana Mama” Cross | Juanita Jennings\n- Damon Cross | Caleb Elijah\n- Janelle “Jannie” Cross | Melody Hurd\n- Elle Montiero | Samantha Walkes\n- Bobby Trey Abellard | Johnny Ray Gill\n- Kayla Craig | Alona Tal\n- Shannon Witmer | Eloise Mumford\n- Lieutenant Oracene Massey | Sharon Taylor\n- Chief Stacy Anderson | Jennifer Wigmore",
+      "image_captions": []
+    },
+    {
+      "url": "https://vimeo.com/1013545934",
+      "page_title": "Cross Season 1 Trailer | Videos & Movies on Vimeo",
+      "title": "Cross Season 1 Trailer",
+      "description": "This is \"Cross Season 1 Trailer\" by Jeremy Benning ASC CSC on Vimeo, the home for high quality videos and the people who love them.",
+      "text": "Verify to continue\nTo continue, please confirm that you're a human (and not a spambot).\nChecking if the site connection is secure\nvimeo.com needs to review the security of your connection before\nproceeding.\nTo continue, please confirm that you're a human (and not a spambot).",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.rottentomatoes.com/tv/cross/videos/P0CQ8qJUxmqf",
+      "page_title": "Cross: Season 1 Trailer - Rotten Tomatoes",
+      "title": "Cross: Cross: Season 1 Trailer",
+      "description": "Synopsis:Alex Cross, a decorated D.C. homicide detective and forensic psychologist faces a sadistic serial killer; he and his partner, John Sampson track this killer and a threat from Cross' past appears with ill intent.",
+      "text": "More\nCertified fresh picks\nNew TV Tonight\n-\nHalf Man: Season 1\n69% -\nFrom: Season 4\n100% -\nKevin: Season 1\n63% -\nUnchosen: Season 1\n60% -\nStranger Things: Tales From '85: Season 1\n73% -\nRunning Point: Season 2\n100% -\nCriminal Record: Season 2\n100% -\nThis Is a Gardening Show: Season 1\n-- -\nFunny AF With Kevin Hart: Season 1\n-- -\nBear Grylls Is Running Wild: Season 1\n--\nMost Popular TV on RT\n-\nBeef: Season 2\n87% -\nEuphoria: Season 3\n41% -\nFrom: Season 4\n100% -\nMargo's Got Money Troubles: Season 1\n96% -\nUnchosen: Season 1\n60% -\nStar Wars: Maul - Shadow Lord: Season 1\n98% -\nBig Mistakes: Season 1\n78% -\nThe Dark Wizard: Season 1\n100% -\nTrust Me: The False Prophet: Season 1\n100% -\nInvincible: Season 4\n100%\nMore\nCertified fresh pick\nColumns\nGuides\n-\nBest New Action Movies of 2026\nLink to Best New Action Movies of 2026 -\nThe Essential Marvel Cinematic Universe Guide\nLink to The Essential Marvel Cinematic Universe Guide\nHubs\n-\nAwards Tour\nLink to Awards Tour -\nWhat to Watch: In Theaters and On Streaming\nLink to What to Watch: In Theaters and On Streaming\nRT News\n-\nCinemaCon 2026: Exclusive Interviews for Supergirl, Avengers: Doomsday, and More!\nLink to CinemaCon 2026: Exclusive Interviews for Supergirl, Avengers: Doomsday, and More! -\nStar Wars: The Mandalorian and Grogu: Release Date, Cast, Trailers & More\nLink to Star Wars: The Mandalorian and Grogu: Release Date, Cast, Trailers & More",
+      "image_captions": [
+        "Rotten Tomatoes Newsletter"
+      ]
+    },
+    {
+      "url": "https://www.imdb.com/video/embed/vi2623391257/",
+      "page_title": "Cross - Official Trailer - IMDb",
+      "title": "Cross - Official Trailer | IMDb",
+      "description": "Based on James Paterson's Alex Cross novels. Alex Cross uses forensic psychology to analyze killers' minds, delving into victims' psyches to identify murderers and bring them to justice",
+      "text": "Back to top",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.foxnews.com/faith-values/holy-week-easter-world-traditions",
+      "page_title": "Unusual Holy Week traditions from around the world | Fox News",
+      "title": "Unusual Holy Week traditions from around the world",
+      "description": "For Christians around the world, Palm Sunday marks the beginning of Holy Week, which includes numerous activities and celebrations that precede Easter Sunday.",
+      "text": "For Christians around the world, Palm Sunday marks the beginning of Holy Week, which includes numerous activities and celebrations that precede Easter Sunday.\nCommon activities commemorating the Passion of Christ include performing the Stations of the Cross, which revisits Jesus’ crucifixion, Seder meals to recall the Last Supper, washing of the feet, which Jesus did for his disciples, and processions on Good Friday, the day Jesus died.\nTHESE EASTER EGGS SHOW KIDS THE 'TRUE MEANING' OF THE HOLIDAY\nBut some cultures take these celebrations beyond mere remembrances. From Palm Sunday to some extreme Good Friday celebrations to Resurrection Sunday, there are all kinds of commemorations:\nJerusalem, Israel\nOne of the most packed places is in the Holy Land, where it all took place over 2,000 years ago. Pilgrims from around the world celebrate in their own ways, in their own language and across denominations, to visit the holy sites. One being the Via Dolorosa in the Old City of Jerusalem.\nFrom a massive procession on Palm Sunday where thousands of Christian pilgrims climb Jerusalem's Mount of Olives to re-enact Jesus' entry into Jerusalem with palm branches to the Church of All Nations to Saint Anne Church, St. Steven's Gate (the Lions Gate), the Old City and down the Via Dolorosa singing songs and reciting blessings.\n'HOLY STAIRS' CLIMBED BY JESUS BEFORE CRUCIFIXION OPENS FOR FIRST TIME IN 300 YEARS\nThrough Good Friday, there are daily masses at the Church of Holy Sepulcher and the Garden of Gethsemane church, the Basilica of the Agony.\nRome, Italy\nMany Catholics make pilgrimages around the world during Lent, but one of the easiest places to visit different basilicas is the Holy City.\nThis year, the faithful can go up the Scala Santa, or \"Holy Stairs,\" that were previously covered for the last 300 years. These are the steps that it is believed Jesus walked up before he was tried by Pontius Pilate to be crucified.\nAttendees crawl up the stairs on their hands and their feet, which need to be covered to protect the marble.\nIztapalapa, Mexico\nIn Mexico City residents perform a realistic \"Passion Play,\" dramatizing Christ's crucifixion and death on a cross. The local government, not the Catholic Church, sponsors the event which is designated an “intangible cultural heritage” in Mexico City by UNESCO.\nThousands of local actors re-enact Christ's walk to his death on Calvary. The person chosen to play Jesus is picked for their moral character and strength because they need to wear a crown of thorns and be flogged while carrying a 200-pound cross. He is then tied to it in a re-enactment of the crucifixion.\nPampanga, Philippines\nIn the Philippines, participants are physically nailed — hands and feet — to a cross just as Jesus Christ was 2,000 years ago. The San Pedro Cutud Lenten Rites in Pampanga have taken place on Good Friday after a two-hour street play every year since 1962.\nAt least three, and as many as 12, individuals are nailed to a cross on a makeshift Calvary. Each person remains on the cross until he “feels cleansed of his sin,” while others flog themselves with bamboo sticks tied to a rope. One man has been nailed to the cross 22 times.\nTrafalgar Square, London\nThis realistic interpretation of Jesus’ death is not as graphic as Pampanga’s, but it’s still not advised for young children. The Passion of Jesus in Trafalgar Square involves more than 100 participants from the Wintershall Players, as well as horses, doves and donkeys.\nSome 20,000 spectators attend the event, which has free 90-minute performances at noon and 3:15 p.m. on Good Friday, as well as big screens to ensure everyone can watch.\nSan Vicente de la Sonsierra, Spain\nParticipants dressed in white habits flog themselves at the “Los Picaos” procession in the Rioja Village of San Vicente de la Sonsierra in northern Spain.\nUsing esparto grass ropes, they whip their backs in a graphic display for 20 minutes. This method of penance, used in many places through the 18th century, has managed to survive to modern times in this Spanish village.\nBensheim, Germany\nGermany’s take on the suffering of Jesus is a bit tamer. The charming southwestern town of Bensheim, which just celebrated its 1,250th anniversary, has hosted an annual Good Friday procession presented by local Italian families since 1982.\nCrowds gather for the theatrical performance, which begins with Judas’ famous kiss of betrayal and includes Jesus’ appearance before the Sanhedrin, Pontius Pilate sentencing him to death and Jesus’ scourging, carrying of the cross and death.",
+      "image_captions": [
+        "Why Franklin Graham chose Minneapolis for an Easter message about truth in a divided America",
+        "Through winter storms and injury, Buddhist monks finish 2,300-mile 'Walk for Peace' to Washington, DC",
+        "Cissie Graham Lynch warns abortion fight ‘far from over’ at annual March for Life in DC",
+        "EXCLUSIVE: Franklin Graham’s daughter calls women’s sports fight a ‘Genesis 1 issue’ at Supreme Court",
+        "Buddhist monks walking 2,300 miles from Texas to DC go viral with 1M+ social media followers"
+      ]
+    }
+  ],
+  "evidence_count": 5,
+  "crawled_at": "2026-04-23T16:54:23.555737+00:00"
+}

@@ -1,0 +1,96 @@
+{
+  "sample_id": "false_7",
+  "image_url": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/close-up-of-the-surface-of-the-moon-stockbyte.jpg",
+  "visual_entities": [
+    {
+      "description": "Earth",
+      "score": 0.8577
+    },
+    {
+      "description": "Moon",
+      "score": 0.7515
+    },
+    {
+      "description": "Supermoon",
+      "score": 0.7176
+    },
+    {
+      "description": "Far side of the Moon",
+      "score": 0.7153
+    },
+    {
+      "description": "Chang'e 5",
+      "score": 0.60330003
+    },
+    {
+      "description": "Full moon",
+      "score": 0.5628
+    },
+    {
+      "description": "Planet",
+      "score": 0.5601
+    },
+    {
+      "description": "Image",
+      "score": 0.5337
+    },
+    {
+      "description": "Lunar orbit",
+      "score": 0.4739
+    },
+    {
+      "description": "Moonlight",
+      "score": 0.4588
+    },
+    {
+      "description": "Photography",
+      "score": 0.4581
+    },
+    {
+      "description": "Moon rock",
+      "score": 0.4252
+    },
+    {
+      "description": "Photograph",
+      "score": 0.4228
+    },
+    {
+      "description": "Eclipse",
+      "score": 0.3822
+    },
+    {
+      "description": "Sample-return mission",
+      "score": 0.3788
+    }
+  ],
+  "best_guess_labels": [
+    "moon picture up close"
+  ],
+  "similar_image_urls": [
+    "https://ddnews.gov.in/wp-content/uploads/2024/06/GettyImages-57340463.jpg",
+    "https://images.imagerenderer.com/images/artworkimages/mediumlarge/2/close-up-of-the-surface-of-the-moon-stockbyte.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=571179339241726",
+    "https://www.sciencing.com/sciencing/first-man-moon-8444613/dee7b26dff2a480c81cd92c5d049b3e2.jpg",
+    "https://asianews.up.seesaa.net/image/PicsArt_04-17-04.22.39-thumbnail2.jpg",
+    "https://asianews.up.seesaa.net/image/PicsArt_04-17-04.22.39.jpg",
+    "https://forumstatic.oneplusmobile.com/opforum-gl/upload/image/app/thread/20260401/0288735206332619561/2093858745309200384/2093858745309200384.jpg",
+    "https://s.hdnux.com/photos/01/40/01/17/25170917/3/rawImage.jpg",
+    "https://revistaamazonia.com.br/wp-content/uploads/2024/07/Captura-de-tela-2024-07-18-122055.jpg",
+    "https://images.imagerenderer.com/images/artworkimages/small/2/close-up-of-the-surface-of-the-moon-stockbyte.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.today.com/video/see-pics-of-dark-side-of-moon-captured-by-artemis-ii-astronauts-260815429541",
+      "page_title": "See Artemis II Crew's Stunning Images of Far Side of the Moon",
+      "title": "See Artemis II Crew's Stunning Images of Far Side of the Moon",
+      "description": "The Artemis II crew is homeward bound after capturing never-before-seen views of the far side of the moon during their historic flyby. During the unprecedented voyage, the astronauts shared an emotional moment when they proposed naming a newly identified crater after Commander Reid Wiseman’s late wife who died of cancer in 2020. NBC’s Tom Costello reports for TODAY.",
+      "text": "The Artemis II crew is homeward bound after capturing never-before-seen views of the far side of the moon during their historic flyby. During the unprecedented voyage, the astronauts shared an emotional moment when they proposed naming a newly identified crater after Commander Reid Wiseman’s late wife who died of cancer in 2020. NBC’s Tom Costello reports for TODAY.April 7, 2026\nUP NEXT\nCraig Melvin's Son Joins TODAY on Take Your Kids to Work Day\n04:08\nTicketmaster Cancels Illegally Obtained Harry Styles Tickets\n00:38\nVideo Shows Heart-Stopping Moment a Bear Charges at a Hiker\n00:51\nFernando Mendoza Won’t Be at the 2026 NFL Draft: Here’s Why\n03:36\nSpirit Airlines Nears Bankruptcy Bailout From Trump Administration\n02:52\nHikers Rescued From Cliffside in Australia After ‘Close Call’\n00:38\nRFK Jr. Grilled on Measles Cases, End of Flu Vaccines for Troops\n02:18\nNavy Secretary John Phelan Fired Amid Critical Time in Iran War\n01:47\nWildfires Burn Across Georgia and Florida, Destroying Homes\n03:52\nCelebrate Earth Day With These Simple Ways to Protect the Planet\n04:36\nNew Baby Elephant Linh Mai Makes Debut at The National Zoo\n04:21\nAmazon Launches GLP-1 Program: Does It Save You Money?\n01:43\nUK Bill to Prohibit Anyone Born After 2008 From Buying Tobacco\n00:29\nHow This Recycling Facility is Giving New Life to Old Tech\n04:24\nPatriots Coach on 'Difficult Conversations' He's Had About Scandal\n02:18\nNew Air Traffic Control System Changes in the Works Using AI\n02:18\nRFK Jr. Defends Vaccine Policies, Handling of Measles Outbreak\n02:15\nTrump's Pick for Fed Chair Faces Tense Grilling: See Key Moments\n01:49\nVoters in Virginia Approve Democrat-Backed Redistricting Plan\n02:13\nIran Attacks Ships in Strait of Hormuz, Straining Fragile Ceasefire",
+      "image_captions": [
+        "TODAY with Jenna & Sheinelle",
+        "Sunday TODAY with Willie Geist"
+      ]
+    }
+  ],
+  "evidence_count": 1,
+  "crawled_at": "2026-04-23T18:29:38.060680+00:00"
+}

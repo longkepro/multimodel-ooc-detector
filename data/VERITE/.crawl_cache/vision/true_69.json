@@ -1,0 +1,126 @@
+{
+  "sample_id": "true_69",
+  "image_url": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2020/02/GettyImages-72523414.jpg",
+  "visual_entities": [
+    {
+      "description": "Daytona International Speedway",
+      "score": 1.166715
+    },
+    {
+      "description": "Daytona 500",
+      "score": 1.0613999
+    },
+    {
+      "description": "Air Force One",
+      "score": 0.7202
+    },
+    {
+      "description": "",
+      "score": 0.6703
+    },
+    {
+      "description": "United States Air Force",
+      "score": 0.6703
+    },
+    {
+      "description": "Air force",
+      "score": 0.6609
+    },
+    {
+      "description": "NASCAR Cup Series",
+      "score": 0.64755
+    },
+    {
+      "description": "United States Air Force Thunderbirds",
+      "score": 0.5017
+    },
+    {
+      "description": "Flypast",
+      "score": 0.4901
+    },
+    {
+      "description": "",
+      "score": 0.4869
+    },
+    {
+      "description": "NASCAR",
+      "score": 0.4869
+    },
+    {
+      "description": "US President",
+      "score": 0.4461
+    }
+  ],
+  "best_guess_labels": [
+    "air force one daytona speedway"
+  ],
+  "similar_image_urls": [
+    "https://media.cnn.com/api/v1/images/stellar/prod/200216174923-bush-air-force-one-daytona-file-2004.jpg?q=w_3000,h_1822,x_0,y_0,c_fill",
+    "https://mediaproxy.snopes.com/width/1200/height/900/https://media.snopes.com/2020/02/GettyImages-72523414.jpg",
+    "https://images.foxtv.com/static.fox29.com/www.fox29.com/content/uploads/2020/02/1280/720/GettyImages-72523414-THUMB.jpg?ve=1&tl=1",
+    "https://media.cnn.com/api/v1/images/stellar/prod/200216174923-bush-air-force-one-daytona-file-2004.jpg?q=x_3,y_66,h_1684,w_2993,c_crop/w_1280",
+    "https://static.foxtv.com/www.foxtv.com/content/uploads/2020/02/79ED8081AB0A494ABC3576CA948B3C0B.jpg",
+    "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2020/02/GettyImages-72523414.jpg",
+    "https://imageresizer.static9.net.au/dd4LXiV-Gzy04F2QkYsuDZYib3k=/1200x628/smart/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F1427c2cd-e595-440d-9cb5-9faa8201e8fc",
+    "http://c.files.bbci.co.uk/24E5/production/_110954490_f93765ba-b702-496f-be1d-7d1e7b9a735f.jpg",
+    "https://images.foxtv.com/static.fox29.com/www.fox29.com/content/uploads/2020/02/932/524/GettyImages-72523414-THUMB.jpg?ve=1&tl=1",
+    "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/02/918/516/Petty-Bush-8.jpg?ve=1&tl=1"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.fox35orlando.com/news/trump-campaign-reportedly-shares-2004-photo-of-air-force-one-at-daytona-appearing-to-say-it-was-from-2020",
+      "page_title": "Trump campaign reportedly shares 2004 photo of Air Force One at ...",
+      "title": "Trump campaign reportedly shares 2004 photo of Air Force One at Daytona, appearing to say it was from 2020",
+      "description": "President Donald Trump’s campaign manager Brad Parscale reportedly tweeted, then deleted a 2004 picture of Air Force One at Daytona 500 appearing to claim it was the president’s plane at the race held on Sunday.",
+      "text": "Trump campaign reportedly shares 2004 photo of Air Force One at Daytona, appearing to say it was from 2020\nDAYTONA BEACH, Fla. - President Donald Trump’s campaign manager Brad Parscale reportedly tweeted, then deleted a 2004 picture of Air Force One at Daytona 500 appearing to claim it was the president’s plane at the race held on Sunday.\nThe 2004 photo showed a large, packed crowd when former President George W. Bush attended the racing event on Feb. 15 that year. Bush appeared at the race also during his reelection year.\n“.@realDonaldTrump won the #Daytona500 before the race even started,” Parscale reportedly tweeted on Sunday, with the 2004 photo.\nAir Force One takes off with US President Geore W. Bush aboard after attending the NASCAR Nextel Cup Daytona 500 on Feb. 15, 2004 at Daytona International Speedway in Daytona Beach, Florida. (Photo by Jonathan Ferrey/Getty Images)\nTwitter users pointed out that the photo is dated. One of the users was Steve Herman, the White House bureau chief of Voice of America News, who tweeted that “the photo is from the George W. Bush presidency.”\nShortly after, Parscale deleted the tweet and replaced it with the same text but with another photo of Air Force One flying above a sparser crowd this year.\nPhotographer Jonathan Ferrey took the 2004 picture.\n\"I have a lot of talented colleagues photographing the Daytona 500 this year,\" Ferrey told CNN. \"I am unfortunately not there today, but apparently I won the Daytona 500 photography before the race even started.\"\nThe Trump campaign did not immediately respond to a request for comment.\nThis is not the first instance of social media users noting alleged discrepancies in photos and messages that the Trump administration and campaign has shared online. Documents released in 2018 revealed that a government photographer edited official pictures of Trump’s inauguration to make the crowd size appear larger after the president personally intervened, the Guardian reported.\nThe files appeared to show that then White House press secretary Sean Spicer was “closely involved” in the effort to obtain more favorable photos.\n“This was the largest audience to ever witness an inauguration – period,” Spicer eventually stated, albeit falsely, in a 2017 press briefing.\nA spokeswoman for Spicer did not respond to a request for comment to the Guardian at the time.\nOn Sunday, Trump became the second president to ever attend the Daytona 500.\nFollowing a recitation of the opening command, “Gentleman, start your engines,'' Trump got into his black limousine for a ceremonial spin around Daytona International Speedway.\nGiven the honor of grand marshal for the race, Trump gave thousands of fans a flyover of Air Force One and then rode onto the track in the presidential motorcade as the audience roared with delight. The motorcade took roughly a quarter lap before pulling aside to an infield staging area.\nThe Associated Press contributed to this report. This story was reported from Los Angeles.",
+      "image_captions": [
+        "Trump campaign reportedly deletes Air Force One photo from 2004",
+        "GettyImages-72523414-THUMB.jpg",
+        "Nancy Guthrie disappearance: Day 82 latest updates",
+        "Virginia redistricting update: Judge blocks certification of new congressional maps",
+        "Baylor University hosts dueling political events featuring Ken Paxton and LGBTQ+ advocates"
+      ]
+    },
+    {
+      "url": "https://www.fox29.com/news/trump-campaign-reportedly-shares-2004-photo-of-air-force-one-at-daytona-appearing-to-say-it-was-from-2020",
+      "page_title": "Trump campaign reportedly shares 2004 photo of Air Force One at ...",
+      "title": "Trump campaign reportedly shares 2004 photo of Air Force One at Daytona, appearing to say it was from 2020",
+      "description": "President Donald Trump’s campaign manager Brad Parscale reportedly tweeted, then deleted a 2004 picture of Air Force One at Daytona 500 appearing to claim it was the president’s plane at the race held on Sunday.",
+      "text": "Trump campaign reportedly shares 2004 photo of Air Force One at Daytona, appearing to say it was from 2020\nDAYTONA BEACH, Fla. - President Donald Trump’s campaign manager Brad Parscale reportedly tweeted, then deleted a 2004 picture of Air Force One at Daytona 500 appearing to claim it was the president’s plane at the race held on Sunday.\nThe 2004 photo showed a large, packed crowd when former President George W. Bush attended the racing event on Feb. 15 that year. Bush appeared at the race also during his reelection year.\n“.@realDonaldTrump won the #Daytona500 before the race even started,” Parscale reportedly tweeted on Sunday, with the 2004 photo.\nAir Force One takes off with US President Geore W. Bush aboard after attending the NASCAR Nextel Cup Daytona 500 on Feb. 15, 2004 at Daytona International Speedway in Daytona Beach, Florida. (Photo by Jonathan Ferrey/Getty Images)\nTwitter users pointed out that the photo is dated. One of the users was Steve Herman, the White House bureau chief of Voice of America News, who tweeted that “the photo is from the George W. Bush presidency.”\nShortly after, Parscale deleted the tweet and replaced it with the same text but with another photo of Air Force One flying above a sparser crowd this year.\nPhotographer Jonathan Ferrey took the 2004 picture.\n\"I have a lot of talented colleagues photographing the Daytona 500 this year,\" Ferrey told CNN. \"I am unfortunately not there today, but apparently I won the Daytona 500 photography before the race even started.\"\nThe Trump campaign did not immediately respond to a request for comment.\nThis is not the first instance of social media users noting alleged discrepancies in photos and messages that the Trump administration and campaign has shared online. Documents released in 2018 revealed that a government photographer edited official pictures of Trump’s inauguration to make the crowd size appear larger after the president personally intervened, the Guardian reported.\nThe files appeared to show that then White House press secretary Sean Spicer was “closely involved” in the effort to obtain more favorable photos.\n“This was the largest audience to ever witness an inauguration – period,” Spicer eventually stated, albeit falsely, in a 2017 press briefing.\nA spokeswoman for Spicer did not respond to a request for comment to the Guardian at the time.\nOn Sunday, Trump became the second president to ever attend the Daytona 500.\nFollowing a recitation of the opening command, “Gentleman, start your engines,'' Trump got into his black limousine for a ceremonial spin around Daytona International Speedway.\nGiven the honor of grand marshal for the race, Trump gave thousands of fans a flyover of Air Force One and then rode onto the track in the presidential motorcade as the audience roared with delight. The motorcade took roughly a quarter lap before pulling aside to an infield staging area.\nThe Associated Press contributed to this report. This story was reported from Los Angeles.",
+      "image_captions": [
+        "Trump campaign reportedly deletes Air Force One photo from 2004",
+        "GettyImages-72523414-THUMB.jpg",
+        "2026 NFL Draft: Time, order and how to watch",
+        "Pennsylvania SPCA shares video of person accused of ditching litters of puppies in Old City",
+        "2 Sharon Hill officers accused of leaking law enforcement info to drug dealer"
+      ]
+    },
+    {
+      "url": "https://www.9news.com.au/world/donald-trump-campaign-manager-air-force-one-daytona-500-photo-tweet-deleted/1dfe0690-14d9-4866-a802-01cc04fcb776",
+      "page_title": "Donald Trump campaign manager Air Force One Daytona 500 ...",
+      "title": "Trump campaign manager's embarrassing photo blunder",
+      "description": "The US President's campaign manager deleted a \"live\" tweet featuring a dramatic photo of Air...",
+      "text": "President Donald Trump's campaign manager deleted a tweet featuring a dramatic photo of Air Force One at the Daytona 500 after users pointed out that the shot was from President George W. Bush's visit to the NASCAR race in 2004, not from Trump's visit yesterday.\nBrad Parscale tweeted the 2004 photo, which shows Air Force One rising above packed stands at the Daytona International Speedway in Florida and wrote: \"@realDonaldTrump won the #Daytona500 before the race even started\".\nThe tweet stayed online for about three hours, drawing at least 6,700 retweets and 23,000 likes before it was deleted. Users identifying themselves as Trump supporters replied with messages like \"Amazing shot wow\" and \"WOW WHAT A SHOT!!!!!!!!!\"\nBut the photo was taken by photographer Jonathan Ferrey on February 15, 2004, after Bush's visit to the racetrack, as Air Force One took off from the adjacent Daytona Beach International Airport.\n\"I have a lot of talented colleagues photographing the Daytona 500 this year,\" Ferrey told CNN.\n\"I am unfortunately not there today, but apparently I won the Daytona 500 photography before the race even started.\"\nIt can be found on the website of Getty Images. It was also used in articles in the past week previewing Trump's visit, and in an article published yesterday on the conservative website The Daily Wire about the crowd's reaction to Trump's Air Force One arrival.\nAfter Twitter users, including Voice of America White House bureau chief Steve Herman, noted that the photo was from 16 years ago, Parscale deleted the tweet and replaced it with a tweet featuring the same caption but a slightly less dramatic photo from Trump's arrival yesterday - of Air Force One circling speedway stands that were not completely full at the time.\nThe Trump campaign did not immediately respond to a request for comment.\nThis article originally appeared on CNN and has been reproduced with permission.",
+      "image_captions": [
+        "The photo was taken by photographer Jonathan Ferrey on February 15, 2004, after Bush's visit to the racetrack, as Air Force One took off from the adjacent Daytona Beach International Airport.(Getty / Jonathan Ferrey)",
+        "Captain surprised as Bunker's call hurts Tigers"
+      ]
+    },
+    {
+      "url": "https://www.fox5ny.com/news/trump-campaign-reportedly-shares-2004-photo-of-air-force-one-at-daytona-appearing-to-say-it-was-from-2020",
+      "page_title": "Trump campaign reportedly shares 2004 photo of Air Force One at ...",
+      "title": "Trump campaign reportedly shares 2004 photo of Air Force One at Daytona, appearing to say it was from 2020",
+      "description": "President Donald Trump’s campaign manager Brad Parscale reportedly tweeted, then deleted a 2004 picture of Air Force One at Daytona 500 appearing to claim it was the president’s plane at the race held on Sunday.",
+      "text": "Trump campaign reportedly shares 2004 photo of Air Force One at Daytona, appearing to say it was from 2020\nDAYTONA BEACH, Fla. - President Donald Trump’s campaign manager Brad Parscale reportedly tweeted, then deleted a 2004 picture of Air Force One at Daytona 500 appearing to claim it was the president’s plane at the race held on Sunday.\nThe 2004 photo showed a large, packed crowd when former President George W. Bush attended the racing event on Feb. 15 that year. Bush appeared at the race also during his reelection year.\n“.@realDonaldTrump won the #Daytona500 before the race even started,” Parscale reportedly tweeted on Sunday, with the 2004 photo.\nAir Force One takes off with US President Geore W. Bush aboard after attending the NASCAR Nextel Cup Daytona 500 on Feb. 15, 2004 at Daytona International Speedway in Daytona Beach, Florida. (Photo by Jonathan Ferrey/Getty Images)\nTwitter users pointed out that the photo is dated. One of the users was Steve Herman, the White House bureau chief of Voice of America News, who tweeted that “the photo is from the George W. Bush presidency.”\nShortly after, Parscale deleted the tweet and replaced it with the same text but with another photo of Air Force One flying above a sparser crowd this year.\nPhotographer Jonathan Ferrey took the 2004 picture.\n\"I have a lot of talented colleagues photographing the Daytona 500 this year,\" Ferrey told CNN. \"I am unfortunately not there today, but apparently I won the Daytona 500 photography before the race even started.\"\nThe Trump campaign did not immediately respond to a request for comment.\nThis is not the first instance of social media users noting alleged discrepancies in photos and messages that the Trump administration and campaign has shared online. Documents released in 2018 revealed that a government photographer edited official pictures of Trump’s inauguration to make the crowd size appear larger after the president personally intervened, the Guardian reported.\nThe files appeared to show that then White House press secretary Sean Spicer was “closely involved” in the effort to obtain more favorable photos.\n“This was the largest audience to ever witness an inauguration – period,” Spicer eventually stated, albeit falsely, in a 2017 press briefing.\nA spokeswoman for Spicer did not respond to a request for comment to the Guardian at the time.\nOn Sunday, Trump became the second president to ever attend the Daytona 500.\nFollowing a recitation of the opening command, “Gentleman, start your engines,'' Trump got into his black limousine for a ceremonial spin around Daytona International Speedway.\nGiven the honor of grand marshal for the race, Trump gave thousands of fans a flyover of Air Force One and then rode onto the track in the presidential motorcade as the audience roared with delight. The motorcade took roughly a quarter lap before pulling aside to an infield staging area.\nThe Associated Press contributed to this report. This story was reported from Los Angeles.",
+      "image_captions": [
+        "Trump campaign reportedly deletes Air Force One photo from 2004",
+        "GettyImages-72523414-THUMB.jpg",
+        "Arrest made, person of interest also in custody in Queens street takeover case",
+        "NYPD officers used WhatsApp during violent arrest, had no radios",
+        "What still isn’t known after Rex Heuermann’s guilty plea in Gilgo Beach case"
+      ]
+    }
+  ],
+  "evidence_count": 4,
+  "crawled_at": "2026-04-23T17:08:54.814703+00:00"
+}

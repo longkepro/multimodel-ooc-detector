@@ -1,0 +1,109 @@
+{
+  "sample_id": "false_244",
+  "image_url": "https://static.themoscowtimes.com/image/article_1360/6f/630215a71e864215b8501f41867f216b.jpg",
+  "visual_entities": [
+    {
+      "description": "Moscow",
+      "score": 0.90368855
+    },
+    {
+      "description": "Road",
+      "score": 0.7109
+    },
+    {
+      "description": "",
+      "score": 0.7001
+    },
+    {
+      "description": "Car",
+      "score": 0.69705003
+    },
+    {
+      "description": "Traffic",
+      "score": 0.6309
+    },
+    {
+      "description": "International E-road network",
+      "score": 0.4961
+    },
+    {
+      "description": "Traffic congestion",
+      "score": 0.4488
+    },
+    {
+      "description": "Driving",
+      "score": 0.4457
+    },
+    {
+      "description": "Highway",
+      "score": 0.4153
+    },
+    {
+      "description": "Traffic sign",
+      "score": 0.3641
+    },
+    {
+      "description": "Traffic light",
+      "score": 0.3528
+    },
+    {
+      "description": "Capital",
+      "score": 0.3506
+    },
+    {
+      "description": "City",
+      "score": 0.3475
+    },
+    {
+      "description": "Road safety",
+      "score": 0.3226
+    }
+  ],
+  "best_guess_labels": [
+    "european traffic"
+  ],
+  "similar_image_urls": [
+    "https://static.themoscowtimes.com/image_archive/1360/b9/i293837_Moscow-traffic-jams-top-5.jpg",
+    "https://static.themoscowtimes.com/image_archive/article_1360/b9/i293837_Moscow-traffic-jams-top-5.jpg",
+    "https://s.auto.drom.ru/i24243/com/614/613167.jpg",
+    "http://tvklan.al/wp-content/uploads/2017/06/6-24.jpg",
+    "https://utusantv.com/wp-content/uploads/2022/04/st-petersburg-1024x576.jpg",
+    "https://lobakmerah.com/wp-content/uploads/2019/06/moscow-russia-traffic-jam-2.jpg",
+    "https://file.chobrod.com/2019/08/26/iO9DezGG/traffic-jam-russia-2012-382a.jpg",
+    "http://blog.maukerja.my/data/blog/630215a71e864215b8501f41867f216b.jpg",
+    "https://media.siraplimau.com/2024/07/Rus.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.themoscowtimes.com/archive/moscow-and-st-petersburg-lead-europe-in-traffic-jams",
+      "page_title": "Moscow and St. Petersburg Lead Europe in Traffic Jams",
+      "title": "Moscow and St. Petersburg Lead Europe in Traffic Jams",
+      "description": "Moscow and St.",
+      "text": "Moscow and St. Petersburg lead Europe in traffic jams, with only Istanbul ranking higher in Eurasia, according to a recent list by Dutch navigation and mapmaking company TomTom.\nMoscow is the fourth most traffic-snarled city in the world, with car trips on average taking 50 percent longer than if the roads were clear. St. Petersburg ranks seventh, with the average trip taking 44 percent longer, and Istanbul is No. 1 with 58 percent, according to the ranking of almost 150 cities.\nThe most traffic is during the evening rush hour, increasing the duration of car trips in Moscow by 103 percent and St. Petersburg by 96 percent. In fact, during the evening rush hour, Moscow and St. Petersburg are respectively the second and third most gridlocked cities in the world.\nTraffic in Moscow is getting relatively better, though, as the city had topped the ranking for the past two years. City authorities have made the traffic problem a top priority, encouraging commuters to use public transportation and installing paid parking lots and towing illegally parked cars.\nIn St. Petersburg, though, traffic is getting worse. This is the first time in recent years that Russia's northern capital has been included in the ranking's top 10.\nIn December last year, the Yandex search engine, which provides a popular mapping service for tracking traffic jams around Moscow, announced that traffic congestion in the city over the past year had improved for the first time since 2010.\nCity Hall's agency for reducing traffic jams, the Center for Organizing Road Movement, also said at the time that Moscow no longer had the worst traffic in the world, thanks to \"the elimination of chaotic parking,\" as well as better monitoring of the observance of traffic rules and the reconfiguration of traffic lights, the Kommersant newspaper reported.\nBut the head of a motorist rights group called the Blue Buckets, which protests against migalki —the flashing blue lights that city officials can have on their cars to bypass traffic laws, a perk that is often blamed for exacerbating traffic — told Kommersant that the reasons for improved traffic in Moscow have been mostly economic.\n\"The incomes of 40 percent of people have fallen, and one in 10 people in Moscow has lost his or her job,\" Pyotr Shkumatov was quoted on Tuesday as saying, though a source for these statistics was not mentioned. \"As a result, people are not driving their cars. The consumption of fuel has fallen.\"\nA Message from The Moscow Times:\nDear readers,\nWe are facing unprecedented challenges. Russia's Prosecutor General's Office has designated The Moscow Times as an \"undesirable\" organization, criminalizing our work and putting our staff at risk of prosecution. This follows our earlier unjust labeling as a \"foreign agent.\"\nThese actions are direct attempts to silence independent journalism in Russia. The authorities claim our work \"discredits the decisions of the Russian leadership.\" We see things differently: we strive to provide accurate, unbiased reporting on Russia.\nWe, the journalists of The Moscow Times, refuse to be silenced. But to continue our work, we need your help.\nYour support, no matter how small, makes a world of difference. If you can, please support us monthly starting from just $2. It's quick to set up, and every contribution makes a significant impact.\nBy supporting The Moscow Times, you're defending open, independent journalism in the face of repression. Thank you for standing with us.\nRemind me later.",
+      "image_captions": [
+        "D.Grishkin / Vedomosti",
+        "Belarusian Investigative Center"
+      ]
+    },
+    {
+      "url": "https://www.themoscowtimes.com/2015/04/01/moscow-and-st-petersburg-lead-europe-in-traffic-jams-a45349",
+      "page_title": "Moscow and St. Petersburg Lead Europe in Traffic Jams",
+      "title": "Moscow and St. Petersburg Lead Europe in Traffic Jams",
+      "description": "Moscow and St.",
+      "text": "Moscow and St. Petersburg lead Europe in traffic jams, with only Istanbul ranking higher in Eurasia, according to a recent list by Dutch navigation and mapmaking company TomTom.\nMoscow is the fourth most traffic-snarled city in the world, with car trips on average taking 50 percent longer than if the roads were clear. St. Petersburg ranks seventh, with the average trip taking 44 percent longer, and Istanbul is No. 1 with 58 percent, according to the ranking of almost 150 cities.\nThe most traffic is during the evening rush hour, increasing the duration of car trips in Moscow by 103 percent and St. Petersburg by 96 percent. In fact, during the evening rush hour, Moscow and St. Petersburg are respectively the second and third most gridlocked cities in the world.\nTraffic in Moscow is getting relatively better, though, as the city had topped the ranking for the past two years. City authorities have made the traffic problem a top priority, encouraging commuters to use public transportation and installing paid parking lots and towing illegally parked cars.\nIn St. Petersburg, though, traffic is getting worse. This is the first time in recent years that Russia's northern capital has been included in the ranking's top 10.\nIn December last year, the Yandex search engine, which provides a popular mapping service for tracking traffic jams around Moscow, announced that traffic congestion in the city over the past year had improved for the first time since 2010.\nCity Hall's agency for reducing traffic jams, the Center for Organizing Road Movement, also said at the time that Moscow no longer had the worst traffic in the world, thanks to \"the elimination of chaotic parking,\" as well as better monitoring of the observance of traffic rules and the reconfiguration of traffic lights, the Kommersant newspaper reported.\nBut the head of a motorist rights group called the Blue Buckets, which protests against migalki —the flashing blue lights that city officials can have on their cars to bypass traffic laws, a perk that is often blamed for exacerbating traffic — told Kommersant that the reasons for improved traffic in Moscow have been mostly economic.\n\"The incomes of 40 percent of people have fallen, and one in 10 people in Moscow has lost his or her job,\" Pyotr Shkumatov was quoted on Tuesday as saying, though a source for these statistics was not mentioned. \"As a result, people are not driving their cars. The consumption of fuel has fallen.\"\nA Message from The Moscow Times:\nDear readers,\nWe are facing unprecedented challenges. Russia's Prosecutor General's Office has designated The Moscow Times as an \"undesirable\" organization, criminalizing our work and putting our staff at risk of prosecution. This follows our earlier unjust labeling as a \"foreign agent.\"\nThese actions are direct attempts to silence independent journalism in Russia. The authorities claim our work \"discredits the decisions of the Russian leadership.\" We see things differently: we strive to provide accurate, unbiased reporting on Russia.\nWe, the journalists of The Moscow Times, refuse to be silenced. But to continue our work, we need your help.\nYour support, no matter how small, makes a world of difference. If you can, please support us monthly starting from just $2. It's quick to set up, and every contribution makes a significant impact.\nBy supporting The Moscow Times, you're defending open, independent journalism in the face of repression. Thank you for standing with us.\nRemind me later.",
+      "image_captions": [
+        "Belarusian Investigative Center"
+      ]
+    },
+    {
+      "url": "https://www.dailymotion.com/video/xa3djtq",
+      "page_title": "Are Europe's roads getting safer, or simply less dangerous?",
+      "title": "Dailymotion",
+      "description": "",
+      "text": "Skip to player\nSkip to main content\nWatch fullscreen\nFont",
+      "image_captions": []
+    }
+  ],
+  "evidence_count": 3,
+  "crawled_at": "2026-04-23T18:01:37.580374+00:00"
+}

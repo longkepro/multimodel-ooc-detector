@@ -1,0 +1,111 @@
+{
+  "sample_id": "true_258",
+  "image_url": "https://pbs.twimg.com/media/FMWbRf3XwAEw3jE?format=jpg&name=900x900",
+  "visual_entities": [
+    {
+      "description": "Airplane",
+      "score": 1.1064
+    },
+    {
+      "description": "Aircraft",
+      "score": 0.96044993
+    },
+    {
+      "description": "McDonnell Douglas F-15 Eagle",
+      "score": 0.9597
+    },
+    {
+      "description": "Flight",
+      "score": 0.83970004
+    },
+    {
+      "description": "Ukraine",
+      "score": 0.7812
+    },
+    {
+      "description": "",
+      "score": 0.5208
+    },
+    {
+      "description": "Sukhoi Su-25",
+      "score": 0.49515
+    },
+    {
+      "description": "Attack aircraft",
+      "score": 0.4803
+    },
+    {
+      "description": "Landing",
+      "score": 0.457
+    },
+    {
+      "description": "Aviator",
+      "score": 0.4526
+    },
+    {
+      "description": "Armed Forces of Ukraine",
+      "score": 0.443
+    },
+    {
+      "description": "Military aircraft",
+      "score": 0.3753
+    }
+  ],
+  "best_guess_labels": [
+    "avion abattu"
+  ],
+  "similar_image_urls": [
+    "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/3/318945/73d2744-d29ff28-zbyly-litak--2-.jpg?q=90&w=1920",
+    "https://fotografias.antena3.com/clipping/cmsimages02/2022/02/25/DC4CBABD-557F-4B23-A620-2853863D66AE/imagen-que-circula-redes-sociales-supuesto-avion-ucraniano-derribado-misil-ruso_98.jpg?crop=846,476,x0,y37&width=1900&height=1069&optimize=low&format=webply",
+    "https://fotografias.antena3.com/clipping/cmsimages02/2022/02/25/DC4CBABD-557F-4B23-A620-2853863D66AE/imagen-que-circula-redes-sociales-supuesto-avion-ucraniano-derribado-misil-ruso_103.jpg?crop=736,552,x55,y0&width=1200&height=900&optimize=low&format=webply",
+    "https://www.rbc.ua/static/img/_/r/_rossiyskiy_litak_t_me_tsaplienko__4__1300x820_1_1300x820.jpg",
+    "https://www.rbc.ua/static/img/_/r/_rossiyskiy_litak_t_me_tsaplienko_650x410_1_1300x820.jpg",
+    "https://www.rbc.ua/static/img/_/r/_rossiyskiy_litak_t_me_tsaplienko_1300x820.jpg",
+    "https://www.rbc.ua/static/img/_/_/__litak_rosiyskiy_zbili_1300x820.jpg",
+    "https://www.rbc.ua/static/img/_/r/_rossiyskiy_litak_t_me_tsaplienko__6__1300x820.jpg",
+    "https://www.rbc.ua/static/img/_/r/_rossiyskiy_litak_2_1300x820.jpg",
+    "https://gsminfo.com.ua/wp-content/uploads/2022/01/litak-padaye2.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://rubryka.com/en/2022/02/25/na-cherkashhyni-zsu-zbyly-vorozhyj-litak-jdut-poshuky-pilota/",
+      "page_title": "The Armed Forces of Ukraine downed an enemy aircraft in Cherkasy ...",
+      "title": "The Armed Forces of Ukraine downed an enemy aircraft in Cherkasy region: searchings for the pilot continues",
+      "description": "Ukrainian military shoot fown an enemy aircraft in Zolotonosha district of Cherkasy region; police and military are searching for the pilot who ejected from the aircraft. The message was shared by the Main department of the National Police in Cherkasy region. \"Today, February 25th, at 8 am around the village of Voznesenskе of Zolotonosha district […]",
+      "text": "The Armed Forces of Ukraine downed an enemy aircraft in Cherkasy region: searchings for the pilot continues\nUkrainian military shoot fown an enemy aircraft in Zolotonosha district of Cherkasy region; police and military are searching for the pilot who ejected from the aircraft.\nThe message was shared by the Main department of the National Police in Cherkasy region. \"Today, February 25th, at 8 am around the village of Voznesenskе of Zolotonosha district our military shot down an enemy plane. The pilot managed to eject himself during the fall. We ask locals to pay extreme attention to suspicious peoiple, especially those wearing tactical or military uniform with elements of red outfit, possibly wounded. The man can be in the area of Zolotonosha district and try to stop passing transport to reach other cities\", the message goes.\nPolice keeps searching for pilots location. If you possess any information, or spot a suspicious person according to the description above, please call the Police by the number: \"102\".",
+      "image_captions": [
+        "EU finalizes €90 bln aid for Ukraine and approves 20th package of sanctions against Russia",
+        "Zelenskyi denies Russian claims of complete capture of Luhansk region",
+        "How Lviv's volunteer kitchen keeps going when attention fades",
+        "United to win: Belgium to purchase 15 Gepard systems for Ukraine",
+        "Ukraine brings home brother and sister left without parental care in Kazakhstan"
+      ]
+    },
+    {
+      "url": "https://www.ukrinform.net/rubric-ato/3412449-russian-plane-shot-down-near-cherkasy-search-for-pilot-underway.html",
+      "page_title": "Russian plane shot down near Cherkasy, search for pilot underway",
+      "title": "Russian plane shot down near Cherkasy, search for pilot underway",
+      "description": "The Ukrainian military has shot down an enemy plane in the Zolotonosha district of the Cherkasy region, with law enforcement officers and servicemen searching for the pilot who ejected before the aircraft crashed. — Ukrinform.",
+      "text": "Russian plane shot down near Cherkasy, search for pilot underway\nUkrinform\nThe Ukrainian military has shot down an enemy plane in the Zolotonosha district of the Cherkasy region, with law enforcement officers and servicemen searching for the pilot who ejected before the aircraft crashed.\nThat's according to the Main Directorate of the National Police in the Cherkasy region, Ukrinform reports.\n\"Today, on February 25, at about 08:30, near the village of Voznesenske, the Zolotonosha district, our military shot down an enemy plane. The pilot managed to eject during the fall. We call on locals to pay special attention to suspicious people, especially in tactical or military uniform with red elements on clothing, possibly with visible injuries. The man may stay within the Zolotonosha district and try to stop passing vehicles in order to get to another city,\" the statement said.\nLaw enforcement officers continue to conduct investigative measures to establish the location of the pilot.\nop",
+      "image_captions": [
+        "Russian plane shot down near Cherkasy, search for pilot underway",
+        "Ukraine launches new level of air defense — Fedorov",
+        "Ukrainian Navy destroys Russian unmanned sea craft near Odesa port",
+        "British delegation visits units defending Zaporizhzhia direction",
+        "War update: 32 clashes on front line since morning, with highest activity in Pokrovsk sector"
+      ]
+    },
+    {
+      "url": "https://www.periskopi.com/ukraina-ia-ngrin-ne-hava-avionin-ushtarak-rusise-e-ben-shkrumb/",
+      "page_title": "Ukraine 'freezes' Russian military plane in mid-air: Burns it down",
+      "title": "Ukraina ia ‘ngrin’ në hava avionin ushtarak Rusisë: E bën shkrumb",
+      "description": "",
+      "text": "Ukraina ia ‘ngrin’ në hava avionin ushtarak Rusisë: E bën shkrumb\nKy imazh i publikuar nga disa media ukrainase, tregon një avion rus që shpërthen në ajër. Sipas mediave ukrainase , avioni rus është qëlluar nga ushtria e Ukrainës.\nForcat e armatosura të Ukrainës tani pretendojnë se kanë shkatërruar 6 avionë dhe 2 helikopterë. Gjithashtu u luftua sulmi në Schastia, gjatë të cilit me sa duket u shkatërruan 2 tanke dhe “rreth 50 pushtues rusë u vranë”, sipas mediave ruse,.\nRusia ka nisur pushtimin e Ukrainës nga Donbasi duke shkaktuar shtatë të vrarë dhe nëntë të plagosur deri më tani.\nMinistri i Jashtëm i Ukrainës, Dmytro Kuleba, tha këtë mëngjes se Rusia nisi pushtimin e vendit të tij.\nNë një postim në Twitter, Kuleba shkroi se presidenti rus, Vladimir Putin ka nisur “pushtimin e Ukrainës në shkallë të plotë”.\nAi tha se Ukraina do ta mbrojë veten dhe se “bota mund dhe duhet ta ndalë Putinin”.\n“Qytetet paqësore të Ukrainës janë nën sulm. Kjo është një luftë agresioni”, tha Kuleba.",
+      "image_captions": [
+        "Ukraina ia ‘ngrin’ në hava avionin ushtarak Rusisë: E bën shkrumb"
+      ]
+    }
+  ],
+  "evidence_count": 3,
+  "crawled_at": "2026-04-23T18:06:03.953975+00:00"
+}

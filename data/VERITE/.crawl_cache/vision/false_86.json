@@ -1,0 +1,113 @@
+{
+  "sample_id": "false_86",
+  "image_url": "https://media.newyorker.com/photos/59c95cbbb8d85e34177b8ffb/4:3/w_3399,h_2549,c_limit/Costa-Ecstatic-Return-Two-Dances-Pina-Bausch.JPG",
+  "visual_entities": [
+    {
+      "description": "Pina Bausch Tanztheater Wuppertal",
+      "score": 0.719
+    },
+    {
+      "description": "Choreography",
+      "score": 0.7032
+    },
+    {
+      "description": "Ballet",
+      "score": 0.6866
+    },
+    {
+      "description": "The Rite of Spring",
+      "score": 0.657
+    },
+    {
+      "description": "Modern dance",
+      "score": 0.639
+    },
+    {
+      "description": "Performing arts",
+      "score": 0.6386
+    },
+    {
+      "description": "Dance film",
+      "score": 0.6297
+    },
+    {
+      "description": "Tanztheater",
+      "score": 0.5381
+    },
+    {
+      "description": "Café Müller",
+      "score": 0.5291
+    },
+    {
+      "description": "Dancer",
+      "score": 0.5202
+    }
+  ],
+  "best_guess_labels": [
+    "pina bausch scene"
+  ],
+  "similar_image_urls": [
+    "https://media.newyorker.com/photos/59c95cbbb8d85e34177b8ffb/4:3/w_3399,h_2549,c_limit/Costa-Ecstatic-Return-Two-Dances-Pina-Bausch.JPG",
+    "https://images.squarespace-cdn.com/content/v1/5e8d39364e67744dfa7f57e7/1e77bd45-6548-4ab6-a17f-d8e44e512e12/%E8%9E%A2%E5%B9%95%E6%88%AA%E5%9C%96+2025-06-10+%E4%B8%8B%E5%8D%885.57.36.png",
+    "https://carola-hoelting.de/wp-2023/wp-content/uploads/2023/07/2014_Mueller-Sacre_FotoHoelting_0724_FB.jpg",
+    "https://images.vocus.cc/b86bc89e-5ace-41c3-bd64-0a941968cfce.jpg",
+    "https://i0.wp.com/videotanz.ru/wp-content/uploads/2023/06/%20vt%20dancing%20pina-1-scaled-1024x768.webp?ssl=1",
+    "https://media.newyorker.com/photos/59c95cbbb8d85e34177b8ffb/4:3/w_1024%2Cc_limit/Costa-Ecstatic-Return-Two-Dances-Pina-Bausch.JPG",
+    "https://img.lapresse.ca/924x615/201709/26/1477093-sacre-printemps-pina-bausch.jpg",
+    "https://img.vocus.cc/qrA3inaMnXKQ0e4vYHgUrm7pQsIPbWwSOiDewNxdFUQ/w:800/f:webp/plain/https://images.vocus.cc/b86bc89e-5ace-41c3-bd64-0a941968cfce.jpg",
+    "https://mblogthumb-phinf.pstatic.net/MjAyMTA5MTNfMTE0/MDAxNjMxNTMwMzIzMzky.uz2a1SuJwAWGixIFkfguAp34pEY_n9qtE0AibcGy8hEg.SrPHyT8cv_39gfe-U0EIMAM2Jw1U1ZXri6FDU5cKg9Qg.JPEG.jrkimceo/Costa-Ecstatic-Return-Two-Dances-Pina-Bausch.jpeg?type=w800",
+    "https://cdn.myportfolio.com/0e113bef-a57e-4b40-acd2-94a312666d1d/ae05539a-7e8c-4325-b2a0-24c4c03368a0_rw_1920.jpg?h=b12b3eeda1394527370ff97158987781"
+  ],
+  "evidence": [
+    {
+      "url": "https://vimeo.com/1022018817",
+      "page_title": "Pina Bausch – Vollmond | Videos & Movies on Vimeo",
+      "title": "Pina Bausch – Vollmond",
+      "description": "This is \"Pina Bausch – Vollmond\" by Sadler's Wells on Vimeo, the home for high quality videos and the people who love them.",
+      "text": "Verify to continue\nTo continue, please confirm that you're a human (and not a spambot).\nChecking if the site connection is secure\nvimeo.com needs to review the security of your connection before\nproceeding.\nTo continue, please confirm that you're a human (and not a spambot).",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.attitudefoundation.art/bausch",
+      "page_title": "Pina Bausch - Attitude Foundation",
+      "title": "Pina Bausch",
+      "description": "",
+      "text": "Pina Bausch\nA dancer, who wanted to show what makes her move\nPina Bausch, who sought to break down the traditional boundaries between theatrical forms by melding movement, environment, fragmented narrative, and sound, was one of the most innovative performers in European theatre in the 1980s. The German choreographer revolutionized dance theater by combining dance, theater, emotions, language and song. Her creed was, \"I don't want to move like a dancer, I want to show what moves.\" She was born in Solingen as Philippine Bausch. In New York, as a student at the Juilliard School, she became acquainted with American modern dance techniques and then became a member of the Metropolitan Ballet. Returning home, she worked with Kurt Joss, considered one of the founders of German expressionist dance in the 1960s. Bausch founded the Tanztheater Wuppertal within the Wuppertal Theater in 1973, and has spent more than three decades leading the world-famous ensemble. When selecting the members of the company, she also looked for a dancer and a personality because she sought to create a total performing arts. In her choreographies, she was most preoccupied with the male-female relationship, and his works combining dance and theater included singing, speech, pantomime, and everyday scenes. Her dancers spoke along the stage in addition to the movement and always tried to speak the language of the country where they performed.",
+      "image_captions": []
+    },
+    {
+      "url": "https://vimeo.com/544854796",
+      "page_title": "Vollmond | Pina Bausch | Extracts | Videos & Movies on Vimeo",
+      "title": "Vollmond | Pina Bausch | Extracts",
+      "description": "Filmed by Wim Wenders",
+      "text": "Verify to continue\nTo continue, please confirm that you're a human (and not a spambot).\nChecking if the site connection is secure\nvimeo.com needs to review the security of your connection before\nproceeding.\nTo continue, please confirm that you're a human (and not a spambot).",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.newyorker.com/culture/culture-desk/an-ecstatic-return-for-two-dances-by-pina-bausch",
+      "page_title": "An Ecstatic Return for Two Dances by Pina Bausch | The New Yorker",
+      "title": "An Ecstatic Return for Two Dances by Pina Bausch",
+      "description": "“The Rite of Spring” and “Café Müller” felt crucially modern on the occasion of their first performance in the U.S. since 1984.",
+      "text": "For the past week, two dances by Pina Bausch, the German choreographer and former director of the Wuppertal Tanztheater, who died in 2009, were performed to sold-out, rapturous crowds at the Brooklyn Academy of Music. Lines for rush tickets stretched outside the building and, one night, Mikhail Baryshnikov sat in the audience. The first of these dances, “Café Müller,” is at once depressive and playful—a haunting, absurdly comedic, and prop-heavy dance that takes place in a café short on customers but filled with tables and chairs. The second, “The Rite of Spring,” is interpreted from and scored by Igor Stravinsky. It’s filled with brute power and dizzying grace—a death dance punctuated by endurance.\nBoth works highlight that Bausch’s body of work transcends any one medium: she made what the Germans call Tanztheater—dance theatre—but she also made cinema and song. Her work contains unbridled and unqualified expression but it also conveys thought and story and history, with all the baggage they provide. And, of course, because the work is, primarily, dance (though there is also talking and groaning and crying and shouting), its resonances never leave the body even when the mind can’t quite articulate them. Both “Café Müller” and “The Rite of Spring” feel crucially modern, as the slipperiness of language and ideology rule the day and younger generations grasp for other, more expansive ways of comprehending ourselves and the world we’ve inherited.\nNeither dance had been performed in the U.S. since 1984, when both débuted in New York, also at BAM. But, over the past several years, Wim Wenders’s documentary “Pina,” from 2011, has prepared Stateside audiences, especially younger ones, for the beauty and peculiarity of Bausch’s work. In the film, several of her dances are performed in perfectly scouted locations, and each dancer who appears—many have been afforded the chance to age with Wuppertal Tanztheater—has a chance to wax poetic in front of the camera about Bausch’s character, brilliance, and legacy.\nBut what’s most interesting about Wenders’s tribute is that the dances don’t need the aesthetic treatment that Wenders offers. At the beginning of Bausch’s tenure at Wuppertal Tanztheater, she collaborated with her husband, the set and costume designer Rolf Borzik (who died in 1980, seven years after Bausch was named director). Their simple and moveable dresses, suits, pants, and shirts anticipated the current minimalist fashion trend across the globe. What emerges through this pared-down yet expressive design is movement itself. In watching Bausch, you’re not taken on a journey so much as you’re made aware of one that’s already under way—things are happening, and you only have to make yourself available to them.\nI attended the opening night at BAM, and, when I arrived, a crowd of people in elegant, neutral basics stood on the stairs and on the sidewalk, waiting for the theatre to open. It didn’t exactly feel like New York; I imagined some film set in a Western European city. It all would have felt too fashionable, too self-conscious, except that everyone seemed so excited—grins seemed to spread spontaneously from face to face. A young couple went over the merits of Pedro Almodóvar’s inclusion of Bausch dances from “Café Müller” in his film “Talk to Her,” from 2002. They used words like “sombre” and “vulnerable” and “sweet,” and I felt transported to an alternative reality in which the overheard film discussions between immaculately dressed strangers could be earnest and unpretentious.\nIn the theatre, I spotted more than a few petite, willowy women—probably dancers themselves—who were alert, alone, and faintly smiling. As soon as the lights went down, the customary beginning-of-show throat-clearing began, and it is a testament to the emotional and physical variety of “Café Müller” that the hacking and coughing seemed to have a place, not only in the room but in the performance itself. “Café Müller” begins and ends in darkness, with a slender figure in white hobbling through a room. It’s a dance that emphasizes both hopeless frailty and aggressive urgency.\nThroughout the piece, a sleepwalking woman (and later a man) moves and dances determinedly through the café as an attentive man in a suit scrambles to pull chairs and tables out of her way. Every so often, an older woman in a messy red wig, a teal dress, a black coat, and bright-pink heels patters in and out of the room, apparently late for some meeting that never seems to take place. In another scene, the sleepwalking woman and her male counterpart are arranged into a kissing embrace by another man. The man then puts the woman into her partner’s arms and heads to the door, but her partner drops her. The woman scrambles back up to hold her partner, and the man comes back to rearrange them, and the woman is carried in her partner’s arms once again. This cycle repeats until the man finally runs out and the couple begins falling apart and rearranging on a loop, without any help, like a malfunctioning video. The entire piece is scored by sections of the melancholy Henry Purcell opera “Dido and Aeneas,” and scenes like this one are painfully desperate and very funny.\nIn a Times interview in 1997, Bausch discussed fear as the primary emotion of Stravinsky’s “Le Sacre du Printemps.” With “The Rite of Spring,” she translated that fear into a relentless, visceral dance, in which men and women are divided into opposing groups, jumping and spinning and sprinting athletically and anxiously on a sea of brown dirt. After “Café Müller,” during the intermission, stagehands prepared the set, laying out an enormous tarp and then tipping over and raking barrels of dirt with such purpose and synchronicity that the whole process seemed like an interlude rather than a preparation. Once everything was set up, many of the audience members who had remained in the theatre stood and clapped.\nOnce the performance itself began, it was impossible to look away, even though there was rarely a single focal point—movement rippled throughout the stage. At the end of the dance, the Chosen One, plucked from the group of women, is stripped of her sheer-nude slip dress and put in a red one. She then performs her final, fatal dance with elegance and exhaustion, masculinity and femininity, and the full force of unchecked emotion. The Wuppertal Tanztheater ensemble member Tsai-Chin Yu imbues the role with a startling, powerful abandon that tears away from the stark gender narrative that’s constructed by the rest of the piece. At the beginning of a long, passionate standing ovation, Yu panted and nearly grimaced, entirely spent and smeared with dirt. But by the end of it she was laughing, almost bewildered. The catharsis of her solo was felt by the entire audience, and rippled back and forth between us like a kind of communion.",
+      "image_captions": [
+        "Image may contain Human Person Dance Pose Leisure Activities and Dance",
+        "Pina Bausch’s True Gifts",
+        "Bring in the Ballerinas",
+        "How I Became a Filmmaker",
+        "The Unseen Work of One of Iran’s Greatest Filmmakers"
+      ]
+    },
+    {
+      "url": "https://videotanz.ru/dance/dancing-pina/",
+      "page_title": "Dancing Pina - videotanz",
+      "title": "Dancing Pina - videotanz",
+      "description": "Pina Bausch revolutionised modern dance with her choreography. But what remains of her legacy? A visually intense and emotional journey into the world of modern dance and beyond. Dancer and choreog…",
+      "text": "Pina Bausch revolutionised modern dance with her choreography. But what remains of her legacy? A visually intense and emotional journey into the world of modern dance and beyond.\nDancer and choreographer Pina Bausch was one of the most important contributors to the modern Tanztheater in the 20th century. Dancing Pina celebrates the art of the legendary dancer and the people who interpret her work today. Two of her dance projects show how young dancers from all over the world are rediscovering Pina’s unique choreographic style: the venerable Semperoper in Dresden, Germany, and the École des Sables in a fishing village near Dakar, Senegal. The young dancers are guided by former members of Pina Bausch’s Tanztheater company. But Pina is not someone who can simply be copied. The dancers have to re-live Pina’s choreographies with their bodies and their own stories. Like Sanguen Lee from South Korea, who was supposedly too tall to become a dancer. Or Gloria Ugwarelojo Biachi of Nigeria, who uses dance to represent her fight for equality. Or Julian Amir Lacey from the US, who had to overcome homophobic prejudices. It is a fascinating metamorphosis: While the performers of street dance, classical ballet and traditional and contemporary African dance forms transform Pina’s work, Pina’s choreographies transform the dancers.\nWith “Dancing Pina” comes (…) one of the most beautiful films about Pina Bausch’s work in the cinemas (…) All those whose heart beats for dance should therefore warmly take this film to them. He will stay there – just like Pina Bausch’s work lives on in all those who have seen it and, above all, in those who have danced it and will dance in the future. A lesson about being and becoming human.\ntanznetz.de\nDiscover more from videotanz\nSubscribe to get the latest posts sent to your email.",
+      "image_captions": [
+        "Dancing at Dusk A Moment with Pina Bauschs The Rite of Spring c polyphem Filmproduktion"
+      ]
+    }
+  ],
+  "evidence_count": 5,
+  "crawled_at": "2026-04-23T17:14:21.665512+00:00"
+}

@@ -1,0 +1,95 @@
+{
+  "sample_id": "true_264",
+  "image_url": "https://pbs.twimg.com/media/FL3WG-7XMAU3OWx?format=jpg&name=900x900",
+  "visual_entities": [
+    {
+      "description": "Sennen Cove",
+      "score": 1.1820601
+    },
+    {
+      "description": "Sennen",
+      "score": 0.7824284
+    },
+    {
+      "description": "Chiswell",
+      "score": 0.6438
+    },
+    {
+      "description": "",
+      "score": 0.6267
+    },
+    {
+      "description": "The Cove House Inn",
+      "score": 0.45975
+    },
+    {
+      "description": "9 Waves",
+      "score": 0.44000003
+    },
+    {
+      "description": "Body of water",
+      "score": 0.4049
+    },
+    {
+      "description": "Storm",
+      "score": 0.3873
+    },
+    {
+      "description": "Sea",
+      "score": 0.38653013
+    },
+    {
+      "description": "Coast",
+      "score": 0.3269
+    }
+  ],
+  "best_guess_labels": [
+    "sennen cove massive wave"
+  ],
+  "similar_image_urls": [
+    "https://i.pinimg.com/originals/e6/e1/57/e6e1578562b106e558fd02fd65240eb4.jpg",
+    "https://i.pinimg.com/736x/5b/72/7f/5b727febe9da8dd9f9592ef5fe29adf7.jpg",
+    "https://i.pinimg.com/736x/e6/e1/57/e6e1578562b106e558fd02fd65240eb4.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1090148109879214",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3636706746588569",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=729145439227379",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=876897183796210",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1848920288915010",
+    "https://i.pinimg.com/736x/1f/97/67/1f97676aa3c416f39d49c85e00efe9be.jpg",
+    "https://i.pinimg.com/originals/1f/97/67/1f97676aa3c416f39d49c85e00efe9be.png"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.newsflare.com/video/338290/storm-ciara-200-ft-high-waves-pummel-cliffs-in-cornwall",
+      "page_title": "Storm Ciara: 200-ft high waves pummel cliffs in Cornwall - Newsflare",
+      "title": "Storm Ciara: 200-ft high waves pummel cliffs in Cornwall",
+      "description": "Massive waves driven by 80mph winds pummelled the cliffs at Sennen Cove, West Cornwall on Monday evening (February 10).",
+      "text": "A Bundle is already in your cart\nYou can only have one active bundle against your account at one time.\nIf you wish to purchase a different bundle please remove the current bundle from your cart.\nYou have unused credits\nYou still have credits against a bundle for a different licence. Once all of your credits have been used you can purchase a newly licenced bundle.\nIf you wish to purchase a different bundle please use your existing credits or contact our support team.\nexclusive\n@Ocean-Image\nAppears in Newsflare picks\n00:46\nStorm Ciara: 200-ft high waves pummel cliffs in Cornwall\nMassive waves driven by 80mph winds pummelled the cliffs at Sennen Cove, West Cornwall on Monday evening (February 10).\nCategories\nFrom the blog\nStories not Stock: 3 Reasons Why You Should Use UGC Instead of Stock Video\nVideo content is an essential part of a brand’s marketing strategy, and while stock footage has been a reliable go-to in the past, forward-thinking companies are looking to user-generated content for their video needs.\nView post",
+      "image_captions": [
+        "Storm Ciara hits Porthleven, UK following severe weather warnings",
+        "Storm Dylan batters Sennen Cove in Cornwall",
+        "Monster waves smash into Sennen Cove in Cornwall",
+        "Waves whipped up by Storm Barra winds slam into cliffs in Cornwall",
+        "Storm waves batter the coast of Cornwall, UK"
+      ]
+    },
+    {
+      "url": "https://www.dailymotion.com/video/x6kt6ke",
+      "page_title": "Waves hit Sennen Cove Cornwall during storm Hercules - Dailymotion",
+      "title": "Dailymotion",
+      "description": "",
+      "text": "Skip to player\nSkip to main content\nWatch fullscreen\nFont",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.dailymotion.com/video/x7ngd7r",
+      "page_title": "Monster waves smash into Sennen Cove in Cornwall - Dailymotion",
+      "title": "Monster waves smash into Sennen Cove in Cornwall",
+      "description": "",
+      "text": "Skip to player\nSkip to main content\nWatch fullscreen\nNewsflare\nMonster waves smash into Sennen Cove in Cornwall",
+      "image_captions": []
+    }
+  ],
+  "evidence_count": 3,
+  "crawled_at": "2026-04-23T18:08:45.336614+00:00"
+}

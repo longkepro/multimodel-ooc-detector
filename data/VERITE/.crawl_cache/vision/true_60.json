@@ -1,0 +1,87 @@
+{
+  "sample_id": "true_60",
+  "image_url": "https://www.gannett-cdn.com/-mm-/75679e360a061554e237216fd79bc356ddb346d1/c=0-179-478-449/local/-/media/2016/11/18/PAGroup/Lebanon/636151013014661291-submitted.jpg?width=1200&disable=upscale&format=pjpg&auto=webp",
+  "visual_entities": [
+    {
+      "description": "McDonald's sign",
+      "score": 0.75885004
+    },
+    {
+      "description": "",
+      "score": 0.6718
+    },
+    {
+      "description": "McDonald's",
+      "score": 0.6718
+    },
+    {
+      "description": "McDonald's",
+      "score": 0.5631
+    },
+    {
+      "description": "Eaton Fire",
+      "score": 0.51585
+    },
+    {
+      "description": "Fire",
+      "score": 0.4524
+    },
+    {
+      "description": "create",
+      "score": 0.4036
+    },
+    {
+      "description": "Restaurant",
+      "score": 0.4036
+    },
+    {
+      "description": "Pasadena",
+      "score": 0.32265002
+    }
+  ],
+  "best_guess_labels": [
+    "mcdonald's on fire"
+  ],
+  "similar_image_urls": [
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=404654387430168",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1487825248090103",
+    "https://i.redd.it/6bd6qvgr0mvg1.jpeg",
+    "https://www.ldnews.com/gcdn/-mm-/75679e360a061554e237216fd79bc356ddb346d1/c=0-179-478-449/local/-/media/2016/11/18/PAGroup/Lebanon/636151013014661291-submitted.jpg?width=1200&disable=upscale&format=pjpg&auto=webp",
+    "https://www.ldnews.com/gcdn/-mm-/75679e360a061554e237216fd79bc356ddb346d1/c=0-179-478-449/local/-/media/2016/11/18/PAGroup/Lebanon/636151013014661291-submitted.jpg?width=478&height=268&fit=crop&format=pjpg&auto=webp",
+    "https://www.ldnews.com/gcdn/-mm-/75679e360a061554e237216fd79bc356ddb346d1/c=0-179-478-449/local/-/media/2016/11/18/PAGroup/Lebanon/636151013014661291-submitted.jpg?width=478&height=239&fit=crop&format=pjpg&auto=webp",
+    "https://i.ytimg.com/vi/ngWqqKLv050/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGH8gLSgXMA8=&rs=AOn4CLDYM0CEuMwA_dpDIxFj4GdDkcGyYg",
+    "https://preview.redd.it/w6wuadz4vl151.jpg?width=640&crop=smart&auto=webp&s=524bb29468695b8cebe72e9212e06923e02094c8",
+    "https://cdn-images.dzcdn.net/images/cover/a80777113844ad08abd2560f73bb19e5/1900x1900-000000-80-0-0.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3801545416764483"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.nbcnews.com/video/mcdonald-s-restaurant-burns-from-eaton-fire-in-pasadena-california-228752453750",
+      "page_title": "McDonald's restaurant burns from Eaton Fire in Pasadena, California",
+      "title": "WATCH: McDonald's restaurant burns as Eaton Fire spreads in Pasadena, California",
+      "description": "High winds drove rapid growth of the Eaton Fire in Pasadena, California, posing a significant threat to nearby communities and making containment efforts challenging. A McDonald's restaurant was among the buildings engulfed in the inferno.",
+      "text": "Evacuations underway as crews battle multiple wildfires in Georgia and Florida\n04:45\nNortheast blasted with sudden snow and freezing temperatures\n01:41\nMillions Clean up Destructive Aftermath of Severe Midwest Storms\n02:03\nTornado touches down in Minnesota while historic flooding threatens Wisconsin\n02:09\nDeadly weather slams Midwest\n01:56\nEarly Spring Heat Wave Scorches Nearly Half of the United States\n03:46\nDangerous tornadoes rip across Midwest\n01:53\nMassive tornadoes tear across Midwest\n01:59\nDangerous weather continues to slam parts of the country\n01:26\nDangerous storms rip across country’s center\n01:30\nHistoric floods batter Hawaii\n01:22\nHawaii Faces Worst Flooding in 20 Years; Thousands Evacuate\n00:20\nMajor flood emergency prompts mass evacuations and rescues in Hawaii\n01:51\nThousands ordered to evacuate as dam nears failure on Oahu\n01:50\nPotentially record-setting heat wave scorches western United States\n01:46\nMidwest slammed by record-shattering blizzard\n02:19\nPowerful storm system slams Midwest as East Coast braces for impact\n02:36\nMillions Face Extreme Weather With Possible Blizzards, Tornadoes\n00:46\nViolent March weather\n01:40\nWATCH: McDonald's restaurant burns as Eaton Fire spreads in Pasadena, California\n00:27\nCopied\nHigh winds drove rapid growth of the Eaton Fire in Pasadena, California, posing a significant threat to nearby communities and making containment efforts challenging. A McDonald's restaurant was among the buildings engulfed in the inferno.Jan. 8, 2025",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.cbsnews.com/miami/video/hollywood-firefighters-battle-dramatic-car-blaze-at-mcdonalds-drive-thru/",
+      "page_title": "Hollywood firefighters battle dramatic car blaze at McDonald's drive ...",
+      "title": "Hollywood firefighters battle dramatic car blaze at McDonald’s drive-thru",
+      "description": "Shocking video captures firefighters as they extinguish an unoccupied car engulfed in flames at a Hollywood McDonald’s on State Road 7. The fire, which also scorched nearby trees, left the vehicle completely destroyed but caused no injuries.",
+      "text": "Hollywood firefighters battle dramatic car blaze at McDonald’s drive-thru\nShocking video captures firefighters as they extinguish an unoccupied car engulfed in flames at a Hollywood McDonald’s on State Road 7. The fire, which also scorched nearby trees, left the vehicle completely destroyed but caused no injuries.",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.foxbusiness.com/video/6366827241112",
+      "page_title": "McDonald's restaurant engulfed in flames in California wildfire",
+      "title": "McDonald's restaurant engulfed in flames in California wildfire | Fox Business Video",
+      "description": "A McDonald's restaurant is seen burning while firefighters work to combat the blaze in Pasadena, California, as the Eaton Fire rages. (Reuters)",
+      "text": "Live Now\nAll times easternNOW - 1:30 PM\n1:30 PM\n2:00 PM\n2:30 PM\n3:00 PM\n3:30 PM\nFox Business Channel\nMaking Money with Charles Payne\n2:00 PM - 3:00 PM\nThe Claman Countdown\n3:00 PM - 4:00 PM\nFox News Channel\nAmerica Reports\n2:00 PM - 3:00 PM\nThe Story\n3:00 PM - 4:00 PM\nFox Weather Channel\nFox News Radio",
+      "image_captions": [
+        "McDonald's restaurant engulfed in flames in California wildfire"
+      ]
+    }
+  ],
+  "evidence_count": 3,
+  "crawled_at": "2026-04-23T17:04:14.247663+00:00"
+}

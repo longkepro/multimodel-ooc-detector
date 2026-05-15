@@ -1,0 +1,104 @@
+{
+  "sample_id": "false_276",
+  "image_url": "https://vk.am/wp-content/uploads/2017/05/Nicole-Kidman.jpg",
+  "visual_entities": [
+    {
+      "description": "Nicole Kidman",
+      "score": 14.547
+    },
+    {
+      "description": "Tom Cruise",
+      "score": 8.394
+    },
+    {
+      "description": "Entertainment Tonight",
+      "score": 0.97679996
+    },
+    {
+      "description": "Expats",
+      "score": 0.9051
+    },
+    {
+      "description": "",
+      "score": 0.6512
+    },
+    {
+      "description": "Academy Awards",
+      "score": 0.6002
+    },
+    {
+      "description": "Clapping",
+      "score": 0.5819
+    },
+    {
+      "description": "Actor",
+      "score": 0.5786
+    },
+    {
+      "description": "Hand",
+      "score": 0.448
+    },
+    {
+      "description": "Academy Award for Best Actress in a Supporting Role",
+      "score": 0.3463
+    }
+  ],
+  "best_guess_labels": [
+    "nicole kidman wave hand"
+  ],
+  "similar_image_urls": [
+    "https://i.pinimg.com/736x/00/3f/c6/003fc664a2b3c26023f4301e4f149927.jpg",
+    "https://cdn.prod.www.spiegel.de/images/ecfcb70c-0001-0004-0000-000000038138_w288_r1.5_fpx46.41_fpy45.jpg",
+    "https://cdn.prod.www.spiegel.de/images/ecfcb70c-0001-0004-0000-000000038138_w488_r1.33_fpx46.41_fpy45.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.theguardian.com/film/video/2017/mar/09/oscars-seal-clap-was-to-protect-rings-says-nicole-kidman-video",
+      "page_title": "Oscars 'seal clap' was to protect rings, says Nicole Kidman – video",
+      "title": "Oscars 'seal clap' was to protect rings, says Nicole Kidman – video",
+      "description": "Actor Nicole Kidman tells Australian radio station KIIS FM on Thursday that her unusual style of ‘seal clapping’ at the Oscars was to protect her diamond rings",
+      "text": "Oscars 'seal clap' was to protect rings, says Nicole Kidman – video\nThis article is more than 9 years old\nActor Nicole Kidman tells Australian radio station KIIS FM on Thursday that her unusual style of ‘seal clapping’ at the Oscars was to protect her diamond rings. The way Kidman applauded when an award was introduced on stage went viral on social media, prompting comparisons with a seal",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.9news.com.au/entertainment/nicole-kidman-explains-unusual-clapping-at-oscars-to-ellen-degeneres/80271239-9ace-44bf-8b00-d3e6a9ba6493",
+      "page_title": "Nicole Kidman explains unusual clapping at Oscars to Ellen ...",
+      "title": "Nicole Kidman explains unusual clapping at Oscars to Ellen DeGeneres",
+      "description": "Australian actress Nicole Kidman has gone on the record to explain her reasons for clapping with splayed fi...",
+      "text": "Australian actress Nicole Kidman has gone on the record to explain her reasons for clapping with splayed fingers at the Oscars earlier this year.\nDuring an appearance on The Ellen DeGeneres Show, Kidman – whose applause went viral, drawing comparisons to that of a seal – joked that the image had been distorted by the camera lens.\n“I do not clap like that, that is a weird lens,” she said, while DeGeneres played a clip of the infamous clap for the audience.\nKidman then went on to explain she was spreading her fingers to avoid damaging an expensive ring she was wearing.\n“Because, it’s the Cinderella thing, you borrow these expensive jewels and I’m like, ‘You must not damage these diamonds!’” she said.\n“And they went back beautifully intact, not a scratch on them.”\nBack in March Kidman described to KIIS FM’s Kyle and Jackie O her awkward position of wanting to clap but feeling unable to out of fear.\nKidman’s 13.58-carat diamond ring was part of a 119 carat Harry Winston diamond set lent to her during her attendance of the Oscars.\nKidman was nominated for Actress in a Supporting Role in feature film Lion.",
+      "image_captions": [
+        "Captain surprised as Bunker's call hurts Tigers"
+      ]
+    },
+    {
+      "url": "https://www.spiegel.de/thema/nicole_kidman/p4/",
+      "page_title": "Nicole Kidman - DER SPIEGEL",
+      "title": "Nicole Kidman - DER SPIEGEL",
+      "description": "Deutschlands führende Nachrichtenseite. Alles Wichtige aus Politik, Wirtschaft, Sport, Kultur, Wissenschaft, Technik und mehr.",
+      "text": "Nicole Kidman\nAlle Beiträge\nJury von Cannes 2013 Die ist ja goldig!\nUnverhoffter Zuwachs Kidman und Urban zum zweiten Mal Eltern\nNicole Kidman Ganz schön ungemütlich\nCourtney Love \"Ich muss vor mir selbst geschützt werden\"\nMake-up-Trauma Warum tragen Sie so dick auf, Frau Love?\nMusicalfilm \"Nine\" Wenn Frauen schön scheitern\nKurvendiskussion Nicole Kidman und das Busenwunder\n\"Fetisch-Kram\" Nicole Kidman plaudert über Liebesleben mit Tom Cruise\nNicole Kidman \"Sie sieht aus wie eine Puppe\"\nNicole Kidman \"Wir sind nach unserer Hochzeit in sein Alkoholproblem hineingeraten\"\nNeuere Artikel\nSeite 4\n/ 5\nÄltere Artikel",
+      "image_captions": [
+        "Öffnen Sie das Spiel Wordle",
+        "Öffnen Sie das Spiel Viererkette",
+        "Öffnen Sie das Spiel Solitär",
+        "Öffnen Sie das Spiel Sudoku",
+        "Öffnen Sie das Spiel Kreuzworträt­sel"
+      ]
+    },
+    {
+      "url": "https://www.spiegel.de/thema/hollywood/p154/",
+      "page_title": "Hollywood - DER SPIEGEL",
+      "title": "Hollywood - DER SPIEGEL",
+      "description": "Deutschlands führende Nachrichtenseite. Alles Wichtige aus Politik, Wirtschaft, Sport, Kultur, Wissenschaft, Technik und mehr.",
+      "text": "Hollywood\nAlle Beiträge\nSexfilm ohne Sex Richter stoppt Intimvideo von Jennifer Lopez\nHollywood-Studio MGM Filmriss in der Traumfabrik\nPleite Hollywood-Star Cage soll Millionen verprasst haben\nLegendäres Hollywood-Studio Metro-Goldwyn-Mayer steht vor Verkauf\nKinogeschichte Unter Sauriern\nTV-Serien-Guru David Simon \"Die USA haben den Bogen überspannt\"\nBewunderung Freida Pinto möchte gern adoptiert werden\nMiley Cyrus Privat ist privat und wird nicht mehr getwittert\nMel Gibson Richter tilgt Trunkenheitsfahrt aus Strafregister\nTeenie-Stars der Achtziger Einmal Hollywood und zurück\nMoppel Matt Damon \"Ich war stolz auf meine Wampe\"\nStarrummel Julia Roberts macht sich unbeliebt\nNeuere Artikel\nSeite 154\n/ 161\nÄltere Artikel",
+      "image_captions": [
+        "Öffnen Sie das Spiel Wordle",
+        "Öffnen Sie das Spiel Viererkette",
+        "Öffnen Sie das Spiel Solitär",
+        "Öffnen Sie das Spiel Sudoku",
+        "Öffnen Sie das Spiel Kreuzworträt­sel"
+      ]
+    }
+  ],
+  "evidence_count": 4,
+  "crawled_at": "2026-04-23T18:11:54.253810+00:00"
+}

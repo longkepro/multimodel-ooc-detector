@@ -1,0 +1,119 @@
+{
+  "sample_id": "true_302",
+  "image_url": "https://pbs.twimg.com/media/Eto4qUkXIAIL48S?format=jpg&name=900x900",
+  "visual_entities": [
+    {
+      "description": "Image",
+      "score": 0.9703
+    },
+    {
+      "description": "Photograph",
+      "score": 0.7169
+    },
+    {
+      "description": "Stock photography",
+      "score": 0.6338
+    },
+    {
+      "description": "Photographer",
+      "score": 0.5402
+    },
+    {
+      "description": "Graphics",
+      "score": 0.4865
+    },
+    {
+      "description": "Artist",
+      "score": 0.4193
+    },
+    {
+      "description": "Published",
+      "score": 0.4013
+    },
+    {
+      "description": "Actual Source",
+      "score": 0.3557
+    },
+    {
+      "description": "Getty Images",
+      "score": 0.3329
+    },
+    {
+      "description": "",
+      "score": 0.3329
+    }
+  ],
+  "best_guess_labels": [
+    "clear picture of the sun"
+  ],
+  "similar_image_urls": [
+    "https://www.tiktok.com/api/img/?itemId=7485732784955329834&location=0&aid=1988",
+    "https://bkimg.cdn.bcebos.com/pic/ac6eddc451da81cb39dbbb9ce12bc7160924ab189b07?x-bce-process=image/format,f_auto",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=575550106736196",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=5662793513733974",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1144648232650693",
+    "https://media.licdn.com/dms/image/v2/C5622AQFUEWWPHfqBxw/feedshare-shrink_800/feedshare-shrink_800/0/1652050801350?e=2147483647&v=beta&t=7k68kFGFPisB0_S8lIJqLfY-vMWkTkeL1FtUuLozgQU",
+    "https://media.licdn.com/dms/image/v2/C5622AQExqy56Obx_zw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1651959993226?e=2147483647&v=beta&t=orTt272Nw2_PBAb-07gVP8OgxqiEiCRdej_-ukZfANA",
+    "https://media.khabaronline.ir/d/2023/04/17/4/5839679.jpg?ts=1681738311000",
+    "https://static1.faradeed.ir/servev2/WM2ZThjYWM5O/5Uwvb7W7Zm0,/file.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1431716123951966"
+  ],
+  "evidence": [
+    {
+      "url": "https://africacheck.org/fact-checks/meta-programme-fact-checks/no-highly-processed-art-image-not-nasas-most-clear-photo-sun",
+      "page_title": "No, highly processed 'art' image – not Nasa's most clear photo of the ...",
+      "title": "No, highly processed ‘art’ image – not Nasa’s most clear photo of the sun",
+      "description": "“Take a breath Cuz you're looking at the most clear picture of the Sun's surface,” reads a message posted on Facebook in South Africa. It includes an image ...",
+      "text": "“Take a breath Cuz you're looking at the most clear picture of the Sun's surface,” reads a message posted on Facebook in South Africa. It includes an image of what appears to be a sun or planet, which it credits to Nasa – the US National Aeronautics and Space Administration.\nThe photo has been posted elsewhere on Facebook with a similar claim: “The most clear picture of the sun surface published by NASA.”\nBut what does the photo really show?\nImage by US photographer\nUsing a TinEye reverse image search we found the original image posted on the Twitter and Instagram accounts of Jason Guenzel, a US photographer.\nIn the tweet, Guenzel says that “this heavily software-processed image of the solar chromosphere reveals the complex nature of the magnetic field within our star”.\nHe explains that the image walks “the thin line between science and art ... perhaps blurring it a bit”.\nThis heavily software-processed image of the solar chromosphere reveals the complex nature of the magnetic field within our star.\n— Jason Guenzel (@TheVastReaches) January 13, 2021\nWalking the thin line between science and art ... perhaps blurring it a bit. ? #Astrophotography #space #solar #star #power pic.twitter.com/DaG3xjEiZd\nIn the photographer’s Instagram post, he explains how the image was created. “This passes from science into art, but I wouldn’t entirely dismiss that we are seeing the indications of some real phenomena here.”\nAFP reached out to Nasa about the image. The space agency’s heliophysics communications lead, Karen C Fox, told AFP in an email that the photo was “not a NASA image”.\nFor publishers: what to do if your post is rated false\nA fact-checker has rated your Facebook or Instagram post as “false”, “altered”, “partly false” or “missing context”. This could have serious consequences. What do you do?\nClick on our guide for the steps you should follow.\nPublishers guideAfrica Check teams up with Facebook\nAfrica Check is a partner in Meta's third-party fact-checking programme to help stop the spread of false information on social media.\nThe content we rate as “false” will be downgraded on Facebook and Instagram. This means fewer people will see it.\nYou can also help identify false information on Facebook. This guide explains how.",
+      "image_captions": [
+        "IFCN Code of Principles"
+      ]
+    },
+    {
+      "url": "https://www.linkedin.com/posts/alvinfsc_the-clearest-picture-of-the-suns-surface-activity-6797004743085584384-jvbc",
+      "page_title": "The clearest picture of the Sun's surface | Alvin Foo | 46 comments",
+      "title": "The clearest picture of the Sun’s surface | Alvin Foo | 46 comments",
+      "description": "The clearest picture of the Sun’s surface | 46 comments on LinkedIn",
+      "text": "The clearest picture of the Sun’s surface\nlooks like a rather fluffy carpet...\nWhere is the surface granulat?\nMagnificent\nYou don’t need to bring winter attire...\ni mean wowwww\nThis is clearly not the sun.\nDefinitely somone living there😆\nThis is not sun, this is my dog\nNASSA PHOTOSHOP DESIGN\nClose up of a sustainable nuclear generator",
+      "image_captions": [
+        "View profile for Alvin Foo",
+        "No alternative text description for this image",
+        "Dipl.-Ing. Diethard G.P. Nowag, graphic",
+        "Georg Hoffmann, graphic",
+        "Yasen Tanev GB, graphic"
+      ]
+    },
+    {
+      "url": "https://www.gettyimages.ca/photos/clear-sky-sun",
+      "page_title": "89462 Clear Sky Sun Stock Photos, High-Res Pictures, and Images",
+      "title": "Getty Images",
+      "description": "Getty Images Canada. Find high resolution royalty-free images, editorial stock photos, vector art, video footage clips and stock music licensing at the richest image search photo library online.",
+      "text": "Oleh_Slobodeniuk\n873509294\nUser validation",
+      "image_captions": []
+    },
+    {
+      "url": "https://checkyourfact.com/2021/02/26/fact-check-most-clear-picture-sun-surface-published-nasa/",
+      "page_title": "FACT CHECK: Is This Image The 'Most Clear Picture Of The Sun ...",
+      "title": "FACT CHECK: Is This Image The ‘Most Clear Picture Of The Sun Surface’ Published By NASA?",
+      "description": "'This passes from science into art'",
+      "text": "FACT CHECK: Is This Image The ‘Most Clear Picture Of The Sun Surface’ Published By NASA?\nA post shared on Facebook claims to show a photo of the sun that was published by NASA.\nVerdict: False\nThere is no record of NASA publishing the image. It is an edited picture from an independent photographer.\nFact Check:\nMultiple Facebook users have shared the photo this month with captions describing the image as the “most clear picture of the sun surface published by NASA.” (RELATED: Did NASA Announce A 13th Zodiac Sign?)\nHowever, Check Your Fact didn’t find any record of NASA publishing the image in the galleries of sun photos on the agency’s website. The image also cannot be found on NASA’s verified social media accounts. Karen Fox, NASA’s heliophysics communications lead, confirmed to AFP that the picture is “not a NASA image.”\nMichigan-based photographer Jason Guenzel took and edited the picture, a reverse image search revealed. He posted the image on his Facebook, Instagram, and Twitter accounts in January. Guenzel also said on FineArtAmerica.com that the image was a “stylized rendition of a solar close-up.”\n“By collapsing the details of the chromosphere into thinner linear features, we begin to trace out magnetic field lines of the surface and create an entirely unique look into these structures! A complex, tangled web with some depth seems to appear,” Guenzel wrote on Instagram. “This passes from science into art, but I wouldn’t entirely dismiss that we are seeing the indications of some real phenomena here. What do you think?”\nThe Solar Orbiter, a collaboration between NASA and the European Space Agency, captured what NASA described in July 2020 as the “closest pictures ever taken of the Sun.” Those pictures, as well as other photos of the Sun’s surface, can be found on NASA’s website.",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.indiatoday.in/fact-check/story/fact-check-nasa-has-nothing-to-do-with-this-edited-image-of-the-sun-surface-1767228-2021-02-08",
+      "page_title": "Fact Check: NASA has nothing to do with this edited image of the ...",
+      "title": "Fact Check: NASA has nothing to do with this edited image of the sun’s surface",
+      "description": "A stunning picture apparently showing the sun’s dazzling surface is viral on social media with the claim that it was published by the National Aeronautics and Space Administration (NASA).",
+      "text": "Fact Check: NASA has nothing to do with this edited image of the sun's surface\nA stunning picture apparently showing the sun's dazzling surface is viral on social media with the claim that it was published by the National Aeronautics and Space Administration (NASA).\nA stunning picture apparently showing the sun’s dazzling surface is viral on social media with the claim that it was published by the National Aeronautics and Space Administration (NASA).\nA Facebook user shared the picture with the caption, “The most clear picture of the sun surface published by NASA.”\nIndia Today Anti Fake News War Room (AFWA) has found that the picture was clicked and digitally edited by an American photographer named Jason Guenzel. NASA has no connection with it.\nThe claim is being widely circulated on Facebook and Twitter. Till the time of filing this story, one such Facebook post had been shared over 77,000 times. The archived version can be seen here.\nAFWA probe\nWhile many users have fallen for the NASA story being narrated with the picture, others are puzzled if it is just a work of art and not an original picture of the sun.\nA reverse search of the viral image led us to the website “Fine Art America”, which is an online art market. Here, the picture was uploaded by Jason Guenzel on January 16, 2021, with the caption, “Magnetic Sun: A stylized rendition of a solar close-up. This image highlights the turbulent magnetic field on the visible surface of our star.”\nAs per the ‘About’ section in Guenzel’s profile, he is a photographer based out of Michigan, United States.\nWe then tracked Guenzel’s social media presence and found that he’d posted the same picture on Twitter on January 13. He has clearly said in the caption that the picture is a “heavily software-processed image of the solar chromosphere”, i.e., the gaseous layer above the sun.\n“Walking the thin line between science and art ... perhaps blurring it a bit,” is another line from the caption, indicating that the original picture was later artistically edited.\nThis heavily software-processed image of the solar chromosphere reveals the complex nature of the magnetic field within our star.\nWalking the thin line between science and art ... perhaps blurring it a bit. #Astrophotography #space #solar #star #power pic.twitter.com/DaG3xjEiZd — Jason Guenzel (@TheVastReaches) January 13, 2021\nReplying to a Twitter user who shared the viral image complimenting NASA, Guenzel commented, “Thanks for the share. I am the original content creator. This is a processed image using photos collected through my backyard solar telescope!”\nGuenzel also wrote a Facebook post expressing concern about the picture being shared and attributed to NASA instead of him.\nThe post says: My solar image “Magnetic Sun” from a few weeks ago has been shared all over Facebook, Twitter, and Reddit in the last few days. In most cases, it has been uncredited and attributed to a NASA image. If you see it out there, do me a favor and try to set the record straight in the comments. Thanks for the interest!”\nWe did not find the viral picture or any information related to it on the official website or social media handles of NASA. We found several other images of the sun in the NASA photo journal.\nThus, it is clear that the viral picture is neither the clearest picture of the sun’s surface nor was it published by NASA. It is a heavily processed picture which was originally clicked by American photographer Jason Guenzel.\nREAD | Fact Check: Avalanche video from Nepal shared as Uttarakhand glacier burst\nREAD | Fact Check: Was Sharad Pawar slapped in public for his statement on Tendulkar?\nREAD | Fact Check: Morphed photo shows Congress workers offering cake to Mia Khalifa's poster",
+      "image_captions": [
+        "Fact Check: NASA has nothing to do with this edited image of the sun’s surface",
+        "Questioned over abusive language, Himanta Biswa Sarma snaps at Lallantop reporter",
+        "Peace in Iran is in our interest, doesn't matter who mediates: Shashi Tharoor",
+        "Video: Mohanlal queues up at polling booth, casts his vote in Keralam election",
+        "Ravi Shastri stand unveiled at Wankhede; Edulji, Solkar, Sardesai too honoured"
+      ]
+    }
+  ],
+  "evidence_count": 5,
+  "crawled_at": "2026-04-23T18:55:54.373956+00:00"
+}

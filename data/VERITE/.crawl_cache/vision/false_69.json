@@ -1,0 +1,82 @@
+{
+  "sample_id": "false_69",
+  "image_url": "https://georgewbush-whitehouse.archives.gov/news/releases/2006/07/images/20060714-5_g0i8015-515h.jpg",
+  "visual_entities": [
+    {
+      "description": "George W. Bush",
+      "score": 10.7235
+    },
+    {
+      "description": "Laura Bush",
+      "score": 8.0445
+    },
+    {
+      "description": "Pulkovo Airport",
+      "score": 1.282116
+    },
+    {
+      "description": "Airplane",
+      "score": 0.77685
+    },
+    {
+      "description": "Airport",
+      "score": 0.72263086
+    },
+    {
+      "description": "Aircraft",
+      "score": 0.72045004
+    },
+    {
+      "description": "",
+      "score": 0.7064
+    },
+    {
+      "description": "Boeing 747-8",
+      "score": 0.6219543
+    },
+    {
+      "description": "",
+      "score": 0.4787
+    },
+    {
+      "description": "Boeing Co",
+      "score": 0.4787
+    },
+    {
+      "description": "Airbus",
+      "score": 0.4086968
+    },
+    {
+      "description": "",
+      "score": 0.3409
+    },
+    {
+      "description": "Narrow-body aircraft",
+      "score": 0.3314925
+    }
+  ],
+  "best_guess_labels": [
+    "boeing 747-8"
+  ],
+  "similar_image_urls": [
+    "https://georgewbush-whitehouse.archives.gov/news/releases/2006/07/images/20060714-5_g0i8015-515h.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://georgewbush-whitehouse.archives.gov/news/releases/2006/07/images/20060714-5_g0i8015-515h.html",
+      "page_title": "President George W. Bush and Laura Bush arrive Friday, July 14 ...",
+      "title": "President George W. Bush and Laura Bush arrive Friday, July 14, 2006, to St. Peterburgs Pulkovo Airport, waving to well-wishers waiting to greet them.President Bush will attend the G8 Summit over the weekend. White House photo by Eric Draper",
+      "description": "",
+      "text": "This is historical material, \"frozen in time.\" The web site is no longer updated and links to external web sites and some internal pages will not work.\nSkip Main Navigation\nPRESIDENT\n|\nVICE PRESIDENT\n|\nFIRST LADY\n|\nMRS. CHENEY\n|\nNEWS\nYour Government\n|\nHistory & Tours\n|\nKids\n|\nE-mail\n|\nEn Español\nPodcasts\nRSS Feeds\nAfghanistan\nAfrica\nBudget Management\nDefense\nEconomy\nEducation\nEnergy\nEnvironment\nGlobal Diplomacy\nHealth Care\nHomeland Security\nImmigration\nInternational Trade\nIraq\nJudicial Nominations\nMiddle East\nNational Security\nVeterans\nmore issues\nNews\nCurrent News\nPress Briefings\nProclamations\nExecutive Orders\nRadio\nSetting the Record Straight\nmore news\nNews by Date\nJanuary 2009\nDecember 2008\nNovember 2008\nOctober 2008\nSeptember 2008\nAugust 2008\nJuly 2008\nJune 2008\nMay 2008\nApril 2008\nMarch 2008\nFebruary 2008\nJanuary 2008\nDecember 2007\nNovember 2007\nOctober 2007\nSeptember 2007\nAugust 2007\nJuly 2007\nJune 2007\nMay 2007\nApril 2007\nMarch 2007\nFebruary 2007\nJanuary 2007\nDecember 2006\nNovember 2006\nOctober 2006\nSeptember 2006\nAugust 2006\nJuly 2006\nJune 2006\nMay 2006\nApril 2006\nMarch 2006\nFebruary 2006\nJanuary 2006\nDecember 2005\nNovember 2005\nOctober 2005\nSeptember 2005\nAugust 2005\nJuly 2005\nJune 2005\nMay 2005\nApril 2005\nMarch 2005\nFebruary 2005\nJanuary 2005\nDecember 2004\nNovember 2004\nOctober 2004\nSeptember 2004\nAugust 2004\nJuly 2004\nJune 2004\nMay 2004\nApril 2004\nMarch 2004\nFebruary 2004\nJanuary 2004\nDecember 2003\nNovember 2003\nOctober 2003\nSeptember 2003\nAugust 2003\nJuly 2003\nJune 2003\nMay 2003\nApril 2003\nMarch 2003\nFebruary 2003\nJanuary 2003\nDecember 2002\nNovember 2002\nOctober 2002\nSeptember 2002\nAugust 2002\nJuly 2002\nJune 2002\nMay 2002\nApril 2002\nMarch 2002\nFebruary 2002\nJanuary 2002\nDecember 2001\nNovember 2001\nOctober 2001\nSeptember 2001\nAugust 2001\nJuly 2001\nJune 2001\nMay 2001\nApril 2001\nMarch 2001\nFebruary 2001\nJanuary 2001\nAppointments\nNominations\nFederal Facts\nFederal Statistics\nWest Wing\nHistory\nHome\n>\nNews & Policies\n>\nJuly 2006\nPresident George W. Bush and Laura Bush arrive Friday, July 14, 2006, to St. Peterburgs Pulkovo Airport, waving to well-wishers waiting to greet them.President Bush will attend the G8 Summit over the weekend. White House photo by Eric Draper\nPresident\n|\nVice President\n|\nMrs. Bush\n|\nMrs. Cheney\n|\nPhoto Essays",
+      "image_captions": [
+        "President George W. Bush and Laura Bush arrive Friday, July 14, 2006, to St. Peterburg’s Pulkovo Airport, waving to well-wishers waiting to greet them.President Bush will attend the G8 Summit over the weekend. White House photo by Eric Draper",
+        "President George W. Bush and Mrs. Laura Bush wave from Air Force One upon arriving at Pulkovo International Airport for the upcoming G8 Summit in St. Petersburg, Russia, Friday, July 14, 2006. White House photo by Paul Morse",
+        "President George W. Bush calls world leaders concerning the situation in the Middle East from his Air Force One office en route to the G8 Summit in St. Petersburg, Russia, Friday, July 14, 2006. White House photo by Eric Draper",
+        "During a tour of the Pediatric HIV/AIDS Clinic Center of Russia, Mrs. Laura Bush and Dr. Evgeny Voronin listen to Gayla, a patient, perform in the Music Room Friday, July 14, 2006, in St. Petersburg, Russia. Music instructor Valentina Leontieva looks on. White House photo by Shealah Craighead",
+        "President George W. Bush and Laura Bush walk to the Monument to the Heroic Defenders of Leningrad Friday, July 14, 2006, in St. Petersburg, Russia, site of the G8 Summit. White House photo by Paul Morse"
+      ]
+    }
+  ],
+  "evidence_count": 1,
+  "crawled_at": "2026-04-23T17:08:59.019999+00:00"
+}

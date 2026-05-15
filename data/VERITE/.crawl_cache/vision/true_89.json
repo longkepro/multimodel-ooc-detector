@@ -1,0 +1,105 @@
+{
+  "sample_id": "true_89",
+  "image_url": "https://pbs.twimg.com/media/ECmhbtOUYAEkNuQ?format=jpg&name=900x900",
+  "visual_entities": [
+    {
+      "description": "Ilhan Omar",
+      "score": 14.998501
+    },
+    {
+      "description": "United States",
+      "score": 0.88605
+    },
+    {
+      "description": "",
+      "score": 0.5907
+    },
+    {
+      "description": "Somalia",
+      "score": 0.57225
+    },
+    {
+      "description": "United States Representative",
+      "score": 0.4617
+    },
+    {
+      "description": "US President",
+      "score": 0.4145
+    },
+    {
+      "description": "",
+      "score": 0.3815
+    }
+  ],
+  "best_guess_labels": [
+    "ilhan omar gun ai"
+  ],
+  "similar_image_urls": [
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1240686083511228",
+    "https://bloximages.chicago2.vip.townnews.com/lompocrecord.com/content/tncms/assets/v3/editorial/3/a3/3a37f13d-0052-515c-8830-617b67f98b3a/5d6082836c335.image.jpg?resize=200%2C330",
+    "https://bloximages.chicago2.vip.townnews.com/lompocrecord.com/content/tncms/assets/v3/editorial/3/a3/3a37f13d-0052-515c-8830-617b67f98b3a/5d6082836c335.image.jpg",
+    "https://bloximages.chicago2.vip.townnews.com/lompocrecord.com/content/tncms/assets/v3/editorial/3/a3/3a37f13d-0052-515c-8830-617b67f98b3a/5d6082836c335.image.jpg?resize=1024%2C1691",
+    "https://media.assettype.com/thequint%2F2019-10%2F77dfefcd-8ccc-4e12-9475-3f31e0a4c6ad%2Fgrab3.PNG",
+    "https://bloximages.chicago2.vip.townnews.com/missoulian.com/content/tncms/assets/v3/editorial/4/88/488cce81-65a2-5491-95d6-ccc8da179af2/5d6083636f150.image.jpg",
+    "https://bloximages.chicago2.vip.townnews.com/lompocrecord.com/content/tncms/assets/v3/editorial/3/a3/3a37f13d-0052-515c-8830-617b67f98b3a/5d6082836c335.image.jpg?crop=1120%2C1120%2C0%2C364&resize=1200%2C1200&order=crop%2Cresize",
+    "https://media.assettype.com/thequint%2F2019-10%2Fd44bceac-608d-46ad-a75c-7bcdcaaea301%2Ftweetgrab.PNG",
+    "https://media.assettype.com/thequint%2F2019-10%2Fdb80b753-3344-43fa-944d-4ed4e788f4b7%2Fgrab2.PNG",
+    "https://media.assettype.com/thequint%2F2019-10%2F63f26d89-a16f-4182-a56e-482affc943d2%2FUntitled_design__1_.png?rect=0%2C0%2C2000%2C1050"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.fox9.com/video/1698929",
+      "page_title": "Rep. Ilhan Omar: Gun laws ?fundamentally broken? - FOX 9",
+      "title": "Rep. Ilhan Omar: Gun laws ?fundamentally broken?",
+      "description": "A day after a deadly mass shooting at the Annunciation School and Church in Minneapolis, Rep. Ilhan Omar said a problem ?unique to America? could be solved by increasing gun controls.",
+      "text": "Rep. Ilhan Omar: Gun laws ?fundamentally broken?\nA day after a deadly mass shooting at the Annunciation School and Church in Minneapolis, Rep. Ilhan Omar said a problem ?unique to America? could be solved by increasing gun controls.\nA day after a deadly mass shooting at the Annunciation School and Church in Minneapolis, Rep. Ilhan Omar said a problem ?unique to America? could be solved by increasing gun controls.",
+      "image_captions": [
+        "FOX 9 Minneapolis-St. Paul",
+        "Rep. Ilhan Omar: Gun laws ?fundamentally broken?",
+        "House stalls on manufactured homes bill",
+        "Minneapolis officials focusing on Uptown safety",
+        "New blood test for Alzheimer's Disease"
+      ]
+    },
+    {
+      "url": "https://lompocrecord.com/rep-ilhan-omar-did-not-attend-a-training-camp-for-terrorists/article_01f1f633-cc81-54aa-9896-6e5c65ec615c.html",
+      "page_title": "Rep. Ilhan Omar did not attend a 'training camp for terrorists'",
+      "title": null,
+      "description": "",
+      "text": "Please wait while we attempt to load the requested page",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.scmp.com/video/world/3194735/israel-installs-ai-powered-gun-west-bank-checkpoint-riot-control",
+      "page_title": "Israel installs AI-powered gun at West Bank checkpoint as riot control",
+      "title": "Israel installs AI-powered gun at West Bank checkpoint",
+      "description": "The Israeli military has installed an artificial intelligence-powered weapon at a busy checkpoint in the West Bank, over a gate Palestinians use to cross to the Old City of Hebron.…",
+      "text": "The Israeli military has installed an artificial intelligence-powered weapon at a busy checkpoint in the West Bank, over a gate Palestinians use to cross to the Old City of Hebron.…",
+      "image_captions": []
+    },
+    {
+      "url": "https://syvnews.com/rep-ilhan-omar-did-not-attend-a-training-camp-for-terrorists/article_c35f2b81-00eb-5444-80db-ccc6cc924d07.html",
+      "page_title": "Rep. Ilhan Omar did not attend a 'training camp for terrorists'",
+      "title": "Rep. Ilhan Omar did not attend a 'training camp for terrorists'",
+      "description": "CLAIM: Black-and-white photo shows Rep. Ilhan Omar of Minnesota in a uniform undergoing military training.",
+      "text": "CLAIM: Black-and-white photo shows Rep. Ilhan Omar of Minnesota in a uniform undergoing military training.\nTHE FACTS: The photograph of a woman with an automatic weapon was taken by The Associated Press on Feb. 25, 1978, before Omar was born. According to information with the photo, it was taken at a military training campus at Halane, Somalia. The photograph circulated widely on Facebook with information that falsely identifies Omar as being pictured with a gun. \"Ilhan Omar said she hates guns!!!\" reads the text of one Facebook post that uses the photo. \"Jihadi Omar at a Training Camp for Terrorists!\" states another.\nOmar, a Somali-America who became the first Muslim refugee elected to U.S. Congress last year, was born on Oct. 4, 1982 — more than four years after the photograph was taken. In a tweet late Wednesday night, Omar described false online claims about the photograph as \"dangerous disgusting and disturbing.\" A spokesman for Omar referred the AP to the congresswoman's tweet. The AP's caption does not name the two people in the photo but describes the one checking her gun as a Somali army recruit. She is wearing a headdress and a uniform that features a white belt. It describes the uniformed person standing behind her as an instructor.",
+      "image_captions": [
+        "FILE - In this Feb. 25, 1978 file photo, a Somali Army female recruit checks her automatic weapon at a military training camp in Halane, Mogadishu. At right is her instructor. On Friday, Aug. 23, 2019, The Associated Press reported on this photo circulating online, incorrectly identified as showing U.S. Rep. Ilhan Omar, D-Minn., undergoing military training. This black-and-white film image was made before Omar was born. (AP Photo)Tomkins",
+        "Santa Ynez Valley News",
+        "Volunteers harvest citrus for distribution to families in need across Santa Barbara County",
+        "Mark your calendars: Weekly sports schedule for April 21-25",
+        "Whip up Mexican restaurant rice or cilantro lime for Cinco de Mayo | Elaine Revelle"
+      ]
+    },
+    {
+      "url": "https://missoulian.com/article_da1c8bb1-ae96-5f57-a4c1-4f7e68476a5d.html",
+      "page_title": "Rep. Ilhan Omar did not attend a 'training camp for terrorists'",
+      "title": null,
+      "description": "",
+      "text": "Please wait while we attempt to load the requested page",
+      "image_captions": []
+    }
+  ],
+  "evidence_count": 5,
+  "crawled_at": "2026-04-23T17:14:49.459613+00:00"
+}

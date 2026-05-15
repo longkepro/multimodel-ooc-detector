@@ -1,0 +1,83 @@
+{
+  "sample_id": "false_306",
+  "image_url": "http://content.wzzm13.com/photo/2016/11/01/Ionia%20co%20truck%20vs%20car%202_1478027146154_6690407_ver1.0.jpg",
+  "visual_entities": [
+    {
+      "description": "2020 Chevrolet Suburban",
+      "score": 1.2732226
+    },
+    {
+      "description": "2015 Chevrolet Suburban",
+      "score": 1.2714076
+    },
+    {
+      "description": "2013 Chevrolet Suburban",
+      "score": 1.2637846
+    },
+    {
+      "description": "2001 Chevrolet Suburban",
+      "score": 1.1897326
+    },
+    {
+      "description": "2012 Chevrolet Suburban",
+      "score": 1.1766646
+    },
+    {
+      "description": "2014 Chevrolet Suburban",
+      "score": 1.1583331
+    },
+    {
+      "description": "2016 Chevrolet Suburban",
+      "score": 1.0955342
+    },
+    {
+      "description": "SUV",
+      "score": 1.0783501
+    },
+    {
+      "description": "Chevrolet",
+      "score": 1.06005
+    },
+    {
+      "description": "General Motors",
+      "score": 1.00755
+    },
+    {
+      "description": "Crash test",
+      "score": 0.7118
+    },
+    {
+      "description": "",
+      "score": 0.7067
+    },
+    {
+      "description": "Truck",
+      "score": 0.6745
+    },
+    {
+      "description": "",
+      "score": 0.6717
+    }
+  ],
+  "best_guess_labels": [
+    "chevrolet suburban crash"
+  ],
+  "similar_image_urls": [
+    "http://content.wzzm13.com/photo/2016/11/01/Ionia%20co%20truck%20vs%20car%202_1478027146154_6690407_ver1.0.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://sports.yahoo.com/driver-dies-rollover-crash-near-035900333.html",
+      "page_title": "Driver dies in rollover crash near Fairfield - Yahoo Sports",
+      "title": "Driver dies in rollover crash near Fairfield",
+      "description": "May 3—A driver died in a rollover crash Wednesday night near Fairfield. The crash happened shortly before 6 p.m. on state Route 27 about 1 mile south of the small town in southern Spokane County, acco...",
+      "text": "Driver dies in rollover crash near Fairfield\nMay 3—A driver died in a rollover crash Wednesday night near Fairfield.\nThe crash happened shortly before 6 p.m. on state Route 27 about 1 mile south of the small town in southern Spokane County, according to the Washington State Patrol.\nThe driver, whose name was not released Wednesday night, was the sole occupant of the vehicle and died at the scene, said WSP Trooper Ryan Senger, a spokesman for the department.\nThe highway was blocked more than an hour after the crash.\nNo other information was available Wednesday night.",
+      "image_captions": [
+        "Download app from App Store",
+        "Download app from Google Play"
+      ]
+    }
+  ],
+  "evidence_count": 1,
+  "crawled_at": "2026-04-23T18:57:05.523902+00:00"
+}

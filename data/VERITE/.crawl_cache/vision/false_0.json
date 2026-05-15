@@ -1,0 +1,135 @@
+{
+  "sample_id": "false_0",
+  "image_url": "https://static.dw.com/image/63908432_604.jpg",
+  "visual_entities": [
+    {
+      "description": "Jimmy Lai",
+      "score": 6.5534997
+    },
+    {
+      "description": "Hu Jintao",
+      "score": 6.0389996
+    },
+    {
+      "description": "China",
+      "score": 0.63195
+    },
+    {
+      "description": "Chinese",
+      "score": 0.5476
+    },
+    {
+      "description": "",
+      "score": 0.5476
+    },
+    {
+      "description": "May Fourth Movement",
+      "score": 0.4812
+    },
+    {
+      "description": "2022 COVID-19 protests in China",
+      "score": 0.47280002
+    },
+    {
+      "description": "Politics",
+      "score": 0.4289
+    },
+    {
+      "description": "Proven",
+      "score": 0.3364
+    },
+    {
+      "description": "English",
+      "score": 0.3289
+    },
+    {
+      "description": "Language",
+      "score": 0.3096
+    }
+  ],
+  "best_guess_labels": [
+    "arrestation politique chinois"
+  ],
+  "similar_image_urls": [
+    "https://mediaobserver.org/uploaded/essaysimages/small/lvl220221128124958.jpg",
+    "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1305340-cruel-represion-en-china-mira-las-impactantes-imagenes-de-las-protestas.jpg?c=original",
+    "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1305340-cruel-represion-en-china-mira-las-impactantes-imagenes-de-las-protestas.jpg?c=16x9&q=w_1280,c_fill",
+    "https://imageresizer.static9.net.au/ITqAJAkJeljoc0TnsYMpvyqFS7A=/1200x628/smart/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fe40abe89-1324-4cab-945e-4f6210a0e7af",
+    "https://www.cnn.co.jp/storage/2022/11/30/5ad9fbe6a604ce5d49421e5d7eaa9862/t/768/432/d/china-protest-crackdown-super-169.jpg",
+    "https://static.dw.com/image/63908432_604.jpg",
+    "https://static.dw.com/image/63908432_604.webp",
+    "https://www.franceinfo.fr/pictures/z_HsZ5V-nrqTt6GsChCi_LnttlA/0x311:6048x3713/432x243/filters:format(jpg)/2022/11/28/phpDGn4Cs.jpg",
+    "https://static.dw.com/image/63908432_905.jpg",
+    "https://static.dw.com/image/63908432_605.webp"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.dw.com/en/china-police-deployed-in-force-to-prevent-protests/a-63922052",
+      "page_title": "China: Police deployed in force to prevent protests - DW.com",
+      "title": "China: Police deployed in force to prevent protests",
+      "description": "China is witnessing its biggest wave of public dissent in a decade. Chinese universities are now sending students home in a bid to tighten COVID restrictions.",
+      "text": "China: Police deployed in force to prevent protests\nNovember 29, 2022An increased number of Chinese police personnel were seen patrolling the streets of cities like Beijing and Shanghai on Tuesday. The deployment comes as more people called for protests against lockdowns.\nThe pushback marks the biggest wave of civil disobedience since Chinese President Xi Jinping came to power over a decade ago. Citizens have taken to the streets across China to protest against the draconian COVID curbs which have affected the lives of millions, damaged the economy and disrupted global supply chains.\nProtesters are now asking President Xi to step down. Chinese universities are now sending students home in an attempt to tighten COVID restrictions and prevent further protests.\nBeijing says UK journalist did not identify himself\nChina's Foreign Ministry said journalists shouldn't engage in activities not related to their role.\nThe comments come after the UK broadcaster the BBC had said one of its reporters was assaulted and detained while covering protests in Shanghai.\n\"According to authorities in Shanghai, the journalist in question did not reveal his journalist identity at the time. He did not openly show his foreign press card,\" Ministry spokesman Zhao Lijian said.\n\"When the incident happened, law enforcement personnel asked people to leave, and when certain people did not co-operate, they were taken away from the scene.\"\nOfficial says public complaints about implementation\nA senior Chinese h",
+      "image_captions": [
+        "Following calls for more protests, a huge number of Chinese police were deployed on the streets of major citiesImage: Kevin Frayer/Getty Images",
+        "China is currently witnessing its largest civil disobedience movement in a decadeImage: HECTOR RETAMAL/AFP/Getty Images",
+        "Chinese President Xi considers his zero-COVID policy a political achievementImage: Xie Huanchi/IMAGO",
+        "The Chinese police form line during a protest against the COVID restrictions",
+        "Chinese police arrest a protester during a demonstration in Shanghai"
+      ]
+    },
+    {
+      "url": "https://www.dw.com/en/china-nationwide-protests-call-for-easing-of-covid-curbs/a-63904684",
+      "page_title": "Nationwide protests in China call for easing COVID curbs - DW.com",
+      "title": "Nationwide protests in China call for easing COVID curbs",
+      "description": "Protesters are demanding the easing of COVID restrictions in Beijing and Shanghai. People also took to the streets in the northwestern Xinjiang region after deaths in an apartment fire were blamed on lockdowns.",
+      "text": "Nationwide protests in China call for easing COVID curbs\nNovember 27, 2022Authorities in China's western Xinjiang region opened up some neighborhoods in the capital of Urumqi on Saturday after hundreds of residents held extraordinary late-night protests against a strict COVID-19 lockdown that has been blamed for causing the deaths of 10 people in an apartment fire earlier this week.\nXinjiang officials said Sunday that public transport services would gradually resume from Monday in Urumqi. However, the frustration over lockdowns, and the apartment fire, has spread elsewhere in China, with protesters in several cities taking to the streets.\nIn the Chinese capital Beijing, large areas of the city are under lockdown, prompting some residents to stage small-scale protests or confront local officials.\nProtests in Beijing, Shanghai and other cities\nHundreds of students from Beijing's elite Tsinghua University protested against COVID lockdowns on Sunday, holding up signs at the entrance of the university's canteen, AFP news agency reported, citing witnesses.\nAnother video shared with Reuters news agency showed Beijing residents in an unidentified part of the city marching around an open-air car park on Saturday, shouting \"End the lockdown.\"\nBeijing health authorities reported 2,454 new COVID-19 cases in the past 15 hours on Saturday.\nAngry crowds also took to the streets of Shanghai, China's most populous city, on Sunday, with protesters confronting police.\nIn a video widely shared o",
+      "image_captions": [
+        "A man is arrested during a protest against China's zero-Covid policyImage: HECTOR RETAMAL/AFP/Getty Images",
+        "Public protest in rare in China, where authorities frequently crack down on dissentImage: DW",
+        "Protests against outbreak measures in Urumqi city, XinjiangImage: Video Obtained via REUTERS",
+        "Ten people died in the fire at an apartment block in lockdownImage: UGC/AP/dpa/picture alliance",
+        "A man is arrested during a protest against China's zero-Covid policy"
+      ]
+    },
+    {
+      "url": "https://www.voanews.com/a/6854319.html",
+      "page_title": "China Strengthens Police Presence in Response to Protests - VOA",
+      "title": "China Strengthens Police Presence in Response to Protests",
+      "description": "Some demonstrators call for President Xi's resignation as anger grows over tight rules",
+      "text": "Chinese police patrolled the capital, Beijing, and Shanghai, China’s largest city and financial hub, on Tuesday, working to prevent the resurgence of protests against the country’s COVID restrictions that have also included rare calls for President Xi Jinping to resign.\nBoth cities were quiet overnight with police out in force, particularly in areas where social media users suggested new gatherings.\nChina’s government eased some of its pandemic rules on Monday, but also continues to defend its commitment to a zero-COVID strategy.\nThe government made no mention of the demonstrations, the biggest show of opposition to the ruling Communist Party in decades, but the slight relaxation of the rules appeared aimed at quelling the protests.\nThe managing director of the International Monetary Fund, Kristalina Georgieva, told The Associated Press in an interview that it is time for China to move away from massive lockdowns toward a more targeted approach to fighting COVID outbreaks.\nGeorgieva called for a “recalibration\" of China's tough zero-COVID approach to isolate every case \"exactly because of the impact it has on both people and on the economy.\"\nBut China’s Foreign Ministry defended the sweeping controls on Tuesday, saying the government is trying to “provide maximum protection to people’s lives and health while minimizing the COVID impact on social and economic development.”\nXi’s zero-COVID policy has sharply limited infections through stringent lockdowns that have disrupted eve",
+      "image_captions": [
+        "Police cars patrol a street in an area where a message that circulated online called on people to gather for a protest against COVID-19 restrictions in Beijing, Nov. 29, 2022.",
+        "Photo Gallery:Why Are Protesters in China Calling for Xi’s Resignation?",
+        "Protesters hold up blank white papers during a commemoration for victims of a recent Urumqi deadly fire at the Chinese University of Hong Kong in Hong Kong, Nov. 28, 2022.",
+        "Why Are Protesters in China Calling for Xi’s Resignation?",
+        "Workers in protective gear gather for their duties in Beijing, Nov. 28, 2022."
+      ]
+    },
+    {
+      "url": "https://www.9news.com.au/world/china-covid-19-zero-protests-security-response-shanghai-beijing-xinjiang-major-cities-police/495f30d9-ac17-4220-b5d0-5912e84be7ed",
+      "page_title": "China protests: Security forces smother demonstrations against ...",
+      "title": "China's security forces swing into action against protests",
+      "description": "China's vast security apparatus has moved swiftly to smother mass protests that swept the country, with pol...",
+      "text": "In major cities on Monday and Tuesday, police flooded the sites of protests that took place over the weekend, when thousands gathered to vent their anger over the country's tough zero-COVID policy – some calling for greater democracy and freedom in an extraordinary show of dissent against Chinese leader Xi Jinping.\nThe heavy police presence has discouraged protesters from gathering since, while authorities in some cities have adopted surveillance tactics used in the far western region of Xinjiang to intimidate those who demonstrated at the weekend.\nIn what appears to be the first official response – albeit veiled – to the protests, China's domestic security chief vowed at a meeting Tuesday to \"effectively maintain overall social stability\".\nWithout mentioning the demonstrations, Chen Wenqing urged law enforcement officials to \"resolutely strike hard against infiltration and sabotage activities by hostile forces, as well as illegal and criminal acts that disrupt social order,\" the state-run news agency Xinhua reported.\nThe tough language may signal a heavy-handed crackdown ahead.\nWhile protests over local grievances do occur in China, the current wave of demonstrations is the most widespread since the Tiananmen Square pro-democracy movement of 1989. The political defiance is also unprecedented, with some protesters openly calling for Xi, the country's most powerful and authoritarian leader in decades, to step down.\nSome of the boldest protests took place in Shanghai, where cro",
+      "image_captions": [
+        "A man is arrested while people gather on a street in Shanghai on November 27.(Hector Ramal/AFP/Getty Images)",
+        "Police cars patrol Shanghai's Urumqi Road, which has been completely blocked off by tall barricades after a weekend of protests.(Hector Retamal/AFP/Getty Images)",
+        "Policemen pin down and arrest a protester during a protest on a street in Shanghai, China on Sunday, November 27.(AP)",
+        "Police officers block Wulumuqi street in Shanghai on November 27.(Hector Ramal/AFP/Getty Images)",
+        "Police officers stand guard as people protest coronavirus restrictions and hold a vigil to commemorate Urumqi fire victims, in Beijing on November 27.(Thomas Peter/Reuters)"
+      ]
+    },
+    {
+      "url": "https://www.voanews.com/a/china-eases-covid-rules-after-protests-keeps-wider-strategy/6853014.html",
+      "page_title": "China Eases Some Anti-COVID Restrictions as Protests Mount - VOA",
+      "title": "China Eases Some Anti-COVID Restrictions as Protests Mount",
+      "description": "Some demonstrators call for President Xi's resignation as anger grows over tight rules",
+      "text": "China eased some of its pandemic rules on Monday but affirmed its “zero COVID” strategy even as protests erupted throughout the country against the restrictions, and some demanded the resignation of President Xi Jinping.\nThe government made no mention of the demonstrations, the biggest show of opposition to the ruling Communist Party in decades, but the slight relaxation of the rules appeared aimed at quelling the demonstrations.\nChinese police were out in force in the streets of Beijing and Shanghai on Monday in an effort to prevent more protests against the government’s COVID restrictions.\nIn Hong Kong Monday evening, students at the Chinese University held a small-scale vigil to show support for protesters on the mainland.\nOver the weekend, protesters shouted, “Lift the lockdown!” in a city in China’s western region, while across the country in Shanghai, the financial center, protesters held up blank sheets of white paper as a quiet show of dissent.\nA Shanghai resident told VOA he no longer fears the spread of the infection because it has become normalized.\nHe said, \"I just eat whatever I want to eat, and do whatever I want to do. What is there to worry about? It's a cold. It's normal.\"\nOthers in Shanghai chanted, “Xi Jinping! Step down! CCP! Step down!\" in referring to the Communist Party. Police detained dozens of protesters, driving them away in police vans and buses, although the exact number was not clear.\nAt Peking University in Beijing, graffiti read, \"We don't want",
+      "image_captions": [
+        "A protester holding flowers is confronted by a policeman during a protest on a street in Shanghai, China, Nov. 27, 2022. Authorities eased anti-virus rules in scattered areas but affirmed China's severe \"zero-COVID\" strategy Monday."
+      ]
+    }
+  ],
+  "evidence_count": 5,
+  "crawled_at": "2026-04-23T16:11:08.720709+00:00"
+}

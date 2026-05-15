@@ -1,0 +1,112 @@
+{
+  "sample_id": "false_318",
+  "image_url": "https://dealerimages.dealereprocess.com/image/upload/1264388.jpg",
+  "visual_entities": [
+    {
+      "description": "2018 Ford F-250",
+      "score": 1.3282171
+    },
+    {
+      "description": "2018 Ford F-250 Super Duty",
+      "score": 1.3175086
+    },
+    {
+      "description": "2019 Ford F-250",
+      "score": 1.3075261
+    },
+    {
+      "description": "Ford F-Series Super Duty",
+      "score": 1.225415
+    },
+    {
+      "description": "2020 Ford F-250",
+      "score": 1.2011671
+    },
+    {
+      "description": "Ford Motor Company",
+      "score": 1.1732837
+    },
+    {
+      "description": "Ford F-250 Super Duty",
+      "score": 1.1378237
+    },
+    {
+      "description": "Ford",
+      "score": 1.07655
+    },
+    {
+      "description": "Car",
+      "score": 0.9318
+    },
+    {
+      "description": "",
+      "score": 0.7177
+    },
+    {
+      "description": "Truck",
+      "score": 0.6771
+    },
+    {
+      "description": "Off-road vehicle",
+      "score": 0.62796205
+    }
+  ],
+  "best_guess_labels": [
+    "2018 ford f250 lifted"
+  ],
+  "similar_image_urls": [
+    "https://dealerimages.dealereprocess.com/image/upload/1264388.jpg",
+    "https://cdn.shopify.com/s/files/1/0738/2279/8108/collections/31ab8e518dd34cb52ac6edd9552d21f7.jpg?v=1727705824&width=384"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.roughcountry.com/5-inch-6-inch-suspension-lift-kits/ford/f-250-super-duty/2018",
+      "page_title": "2018 Ford F-250 Super Duty 5 inch - 6 inch + Suspension Lift Kits",
+      "title": ".css-129w70e{margin:0;font-size:16px;line-height:1.6;letter-spacing:0.15px;font-family:var(--font-barlow-regular);font-weight:400;color:#18181B;color:#E51C1A;margin-bottom:8px;display:block;}.css-129w70e >p{margin:0;}@media (min-width:0px){.css-129w70e{font-family:var(--font-liberator-medium);font-size:16px;letter-spacing:0.65px;line-height:1;font-weight:400;text-transform:uppercase;}}@media (min-width:600px){.css-129w70e{margin-bottom:12px;}}@media (min-width:1024px){.css-129w70e{font-family:var(--font-liberator-medium);font-size:24px;font-weight:400;line-height:26px;letter-spacing:0.85px;}}2018 Ford F-250 Super Duty5 inch - 6 inch + Suspension Lift Kits",
+      "description": "Lift your 2018 Ford F-250 Super Duty 5–6 inches with Rough Country suspension lift kits. Built for performance and easy installation. Free shipping available!",
+      "text": "Free shipping sitewide!* View Details\nFree shipping sitewide!* View Details\n2 reviews\n240 reviews\nStarting at\n240 reviews\nStarting at\n240 reviews\nStarting at\n240 reviews\nStarting at\n240 reviews\nStarting at\n240 reviews\nStarting at\nOnly the Best\nSupport Hours\nCustomer Service",
+      "image_captions": [
+        "6 Inch Coilover Conversion Upgrade Kit | Vertex/V2 | Ford F-250/F-350 Super Duty (05-22)",
+        "6 Inch Lift Kit  | Ford F-250/F-350 Super Duty (17-22)",
+        "6 Inch Lift Kit | Ford F-250/F-350 Super Duty 4WD (17-22)",
+        "6 Inch Lift Kit  | Ford F-250/F-350 Super Duty 4WD (17-22)",
+        "6in Ford Super Duty 4-Link Suspension Lift Kit"
+      ]
+    },
+    {
+      "url": "https://www.alligatorperformance.com/products/kelderman-402021017-alpha-series-front-bumper-17-19-ford-super-duty",
+      "page_title": "Kelderman 402022017 Alpha Series Front Bumper",
+      "title": "Kelderman 402022017 Alpha Series Front Bumper | 2017-2019 Ford F250/F3",
+      "description": "Features: Modular 3-piece design with center section and two end caps Heavy-duty steel construction for maximum strength Winch-ready design supports up to 16,500 lb WARN winches Center cutout fits 20\" dual-row light bar or optional light-delete screen End caps accept 4\" or 6\" round auxiliary lights Integrated clevis mo",
+      "text": "Modular 3-piece design with center section and two end caps\nHeavy-duty steel construction for maximum strength\nWinch-ready design supports up to 16,500 lb WARN winches\nCenter cutout fits 20\" dual-row light bar or optional light-delete screen\nEnd caps accept 4\" or 6\" round auxiliary lights\nIntegrated clevis mounts for recovery gear\nMesh grille sections promote airflow to the engine\nAvailable in stock or wide width to match fender flares\nCompatible with factory parking sensors and adaptive cruise control\nShips in raw metal finish, ready for custom paint or powder coat\nBolt-on installation with factory mounting points\nThe Kelderman Alpha Series Front Bumper delivers serious protection and a bold look for your 2017–2019 Ford Super Duty. Built with a modular 3-piece design, this bumper gives you flexibility in appearance and function while maintaining high durability. The center section is winch-ready and can house a massive 16,500 lb WARN winch, while the end caps provide space for round auxiliary lights to light your path in any off-road or worksite environment. With a raw steel finish, it’s ready for custom paint or powder coat to match your truck’s style.\nWhether you’re towing, hitting trails, or tackling job sites, the Alpha Series Front Bumper is up to the task. Integrated clevis mounts allow for recovery hooks or tow ropes, while mesh screens ensure your radiator gets proper airflow. The bumper fits seamlessly with OEM features like parking sensors and adaptive cruise control, so you don’t sacrifice modern convenience for protection. It installs using factory mounts—no cutting or welding required. Pair it with the Kelderman Commander Grille Guard for full front-end armor.\nFits: 2017, 2018, 2019 Ford F-250 & F-350 Super Duty\nFitment Notes: Compatible with factory sensors and adaptive cruise. Designed to pair with the Kelderman Commander Grille Guard (sold separately).\nEmissions Disclaimer: Not an emissions-related product; no CARB restrictions apply.\nGive us a call:+1-208-719-7400\n!",
+      "image_captions": [
+        "Kelderman 402022017 Alpha Series Front Bumper | 2017-2019 Ford F250/F350",
+        "Alligator Performance"
+      ]
+    },
+    {
+      "url": "https://www.alligatorperformance.com/products/icon-1820908152br-rebound-20x9-bronze-wheel-2005-2025-ford-f250-f350-super-duty",
+      "page_title": "ICON 1820908152BR Rebound 20x9 Bronze Wheel",
+      "title": "ICON 1820908152BR Rebound 20x9 Bronze Wheel | 2005-2025 Ford F250/F350",
+      "description": "Features: Fits 2005-2025 Ford F250 and F350 4WD Striking bronze finish with aggressive styling Engineered for off-road strength and durability Low-pressure cast aluminum alloy construction Reduces weight while increasing overall wheel strength 20x9 size with 6mm offset and 5.25\" backspacing Designed for unhindered susp",
+      "text": "Features:\nIf you want your truck to stand out without shouting for attention, the ICON Rebound 20x9 Bronze Wheel brings that perfect balance of attitude and refinement. The deep bronze finish adds a bold custom look that pairs beautifully with darker paint schemes, smoked accents, or black trim. This wheel doesn't just upgrade your truck’s appearance, it gives it purpose, especially for off-road-focused builds. Whether you’re carving through backroads or cruising through town, the Rebound’s aggressive styling and modern design give your F250 or F350 a more confident stance. ICON designed this wheel with truck owners in mind, dialing in just the right offset and backspacing to push your tires out slightly for a wider footprint without throwing off drivability. The rugged look is backed by performance you can feel, and the construction is tough enough to handle whatever trails or loads you throw at it. It’s a wheel that turns heads while keeping your build fully functional from Monday through the weekend.\nThe ICON Rebound 20x9 Bronze Wheel is engineered specifically for 2005-2025 Ford F250 and F350 Super Duty trucks equipped with single rear wheels. Built using a low-pressure cast aluminum process, it delivers excellent strength while keeping overall weight lower than stock wheels. This results in reduced unsprung weight and better suspension response, whether you’re off-road or on pavement. The wheel features a 6mm offset and 5.25 inches of backspacing, allowing for proper clearance around upgraded brake components and lifted suspension setups. It also reduces scrub radius and maintains unhindered suspension travel, two critical details when dialing in performance handling. The standard 8x170mm bolt pattern ensures a clean, bolt-on fit with no need for adapters or modification. Each wheel supports up to 3700 lbs., making it more than capable for towing, trail runs, or heavy gear hauls. Please note, this wheel is not compatible with center caps on 1999-2004 Super Duty models due to longer hubs. For trucks in the 2005-2025 range, it’s a strong and seamless upgrade ready for both form and function.\nFits: 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 Ford F250/F350 Super Duty\nNotes:\nGive us a call:+1-208-719-7400\n!",
+      "image_captions": [
+        "ICON 1820908152BR Rebound 20x9 Bronze Wheel | 2005-2025 Ford F250/F350 Super Duty",
+        "Alligator Performance"
+      ]
+    },
+    {
+      "url": "https://www.alligatorperformance.com/products/truxedo-1479101-pro-x15-truck-bed-cover-17-19-ford-superduty-short-bed-trucks",
+      "page_title": "TruXedo 1479101 Pro X15 Truck Bed Cover | 2017-2019 Ford F250 ...",
+      "title": "TruXedo 1479101 Pro X15 Truck Bed Cover | 2017-2019 Ford F250/F350 Sho",
+      "description": "Features: Matte black woven fabric finish Flush mount for extra low profile Installs in minutes with no drilling Self-leveling design for easy alignment 15 degree side rails for sleek look Durable and weather-resistant construction Quick release system for fast removal Made in the USA Compatible with 2017-2019 F250/F35",
+      "text": "Features:\nIf you’re looking to upgrade the look and function of your F250 or F350, the TruXedo Pro X15 Truck Bed Cover checks every box. Its ultra-low profile design sits flush with the bed rails for a sleek, custom appearance that turns heads without sacrificing performance. The premium matte black woven fabric gives your truck a high-end look while still standing up to the elements. Whether you’re hauling gear for work or heading out on a weekend adventure, this cover keeps your cargo safe and secure. It installs in just minutes with no drilling, making it one of the easiest upgrades you’ll ever make to your truck. The quick-release system lets you access your full bed when needed without any hassle. Backed by a lifetime warranty and made right here in the USA, it’s a smart investment for anyone who wants both form and function from their truck bed cover.\nBuilt on the success of TruXedo’s top-selling Lo Pro cover, the Pro X15 takes things a step further with improved materials and design. The unique 15 degree side rail design helps achieve a flush-mounted look, reducing drag and adding subtle styling that complements any modern truck. Its high-strength woven fabric is resistant to wear and fading, and holds up in extreme weather without warping or cracking. Thanks to its self-leveling design feature, installation is precise and requires no guesswork or advanced tools. The cover is tension-adjustable and includes a quick latch system, so it stays tight and secure at highway speeds. Whether you're driving through heavy rain or hauling tools to the jobsite, this cover delivers consistent protection. Designed specifically for 2017-2019 Ford F250 and F350 trucks with a short bed, it fits perfectly and functions flawlessly without modifications.\nFits: 2017, 2018, 2019 Ford F250/F350 Short Bed\nNotes:\nGive us a call:+1-208-719-7400\n!",
+      "image_captions": [
+        "TruXedo 1479101 Pro X15 Truck Bed Cover | 2017-2019 Ford F250/F350 Short Bed",
+        "Alligator Performance"
+      ]
+    }
+  ],
+  "evidence_count": 4,
+  "crawled_at": "2026-04-23T19:00:45.403983+00:00"
+}

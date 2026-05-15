@@ -1,0 +1,110 @@
+{
+  "sample_id": "true_294",
+  "image_url": "https://pbs.twimg.com/media/E8-Ngg4VoAIUNa-?format=jpg&name=900x900",
+  "visual_entities": [
+    {
+      "description": "Osama bin Laden",
+      "score": 8.011499
+    },
+    {
+      "description": "War in Afghanistan",
+      "score": 1.04415
+    },
+    {
+      "description": "Panjshir Valley",
+      "score": 0.97302145
+    },
+    {
+      "description": "Soviet–Afghan War",
+      "score": 0.75495005
+    },
+    {
+      "description": "Mujahideen",
+      "score": 0.7039
+    },
+    {
+      "description": "",
+      "score": 0.684
+    },
+    {
+      "description": "Al-Qaeda",
+      "score": 0.6808
+    },
+    {
+      "description": "Northern Alliance",
+      "score": 0.6334
+    },
+    {
+      "description": "Afghan mujahidin",
+      "score": 0.536
+    },
+    {
+      "description": "Haqqani network",
+      "score": 0.4938
+    },
+    {
+      "description": "Terrorism",
+      "score": 0.4706
+    }
+  ],
+  "best_guess_labels": [
+    "taliban in whitehouse"
+  ],
+  "similar_image_urls": [
+    "https://upload.wikimedia.org/wikipedia/commons/6/6f/President_Ronald_Reagan_meeting_with_Afghan_Freedom_Fighters_in_the_Oval_Office.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/President_Ronald_Reagan_meeting_with_Afghan_Freedom_Fighters_in_the_Oval_Office.jpg/3840px-President_Ronald_Reagan_meeting_with_Afghan_Freedom_Fighters_in_the_Oval_Office.jpg",
+    "https://i.natgeofe.com/n/5f592b06-24ac-44f8-9f80-afdd11289b92/AP_21183624831430.jpg",
+    "https://www.chicagotribune.com/wp-content/uploads/migration/2024/01/04/FMLT6R5C5ZAGDOCIL3RQRCMQ2E.jpg",
+    "https://static.independent.co.uk/2021/07/02/18/Afghanistan_Timeline_31430.jpg",
+    "https://www.mcall.com/wp-content/uploads/migration/2020/05/27/UU4Q2NJW3BEK7GDHZSWZVI477I.jpg",
+    "https://yurtsever.org.tr/wp-content/uploads/2018/02/reagan-taliban.jpg",
+    "http://images.huffingtonpost.com/2016-07-28-1469718579-7153385-Sunni_February_1983.jpg",
+    "https://nationalgeographic.de/wp-content/uploads/2025/05/ap_21183624831430-scaled.jpg",
+    "https://images.squarespace-cdn.com/content/v1/554a5733e4b02559210e4177/1474591059083-7AI40G6G9KIMX5JR1HSM/image-asset.jpeg"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.foxnews.com/politics/white-house-acknowledges-but-also-denies-that-taliban-are-a-terrorist-group",
+      "page_title": "White House acknowledges -- but also denies -- that Taliban are a ...",
+      "title": "White House acknowledges -- but also denies -- that Taliban are a terrorist group",
+      "description": "The White House once again Thursday agonized to draw a fine-tuned distinction between the Taliban and terror networks like Al Qaeda, even as Press Secretary Josh Earnest acknowledged that, technically, the Taliban are still on an official terrorist list.",
+      "text": "With apologies to ducks ...\nIf it quacks like a terrorist, isn't it one?\nThe White House once again Thursday agonized to draw a fine-tuned distinction between the Taliban and terror networks like Al Qaeda, even as Press Secretary Josh Earnest acknowledged that, technically, the Taliban are still on an official terrorist list.\nThe Obama administration is being pressed on the distinction because of a potential prisoner swap between the Islamic State and Jordan. The White House, without giving Jordan advice on what to do, has said the U.S. government does not negotiate with terrorists -- yet last year, the Obama administration traded five Taliban fighters held at Guantanamo for Army Sgt. Bowe Bergdahl.\nOn Wednesday, a White House spokesman said that was different, in part because the Taliban are an \"armed insurgency,\" not necessarily a terror group.\nHowever, while the Taliban are not on the State Department list of foreign terrorist organizations, they are on a Treasury Department list of \"specially designated global terrorists\" dating back to a 2002 executive order.\nEarnest acknowledged that listing on Thursday.\nBut then it got complicated.\nEarnest explained, \"They do carry out tactics that are akin to terrorism, they do pursue terror attacks in an effort to try to advance their agenda.\"\nHe said the Treasury designation allows the U.S. to impose financial sanctions against Taliban leaders.\nHowever, he said the Taliban nevertheless are different from a group like Al Qaeda, in that the Taliban \"have principally been focused on Afghanistan.\"\nEarnest continued, \"Al Qaeda is a terrorist organization that has aspirations that extend beyond just the border between Afghanistan and Pakistan.\"\nThe U.S. government has long viewed the Taliban through a different lens than it views groups like Al Qaeda.\nBut the effort to reject comparisons between the Taliban-Bergdahl trade and negotiations with terrorists like the one between Jordan and ISIS has drawn criticism in Congress.\nHouse Armed Services Committee member Rep. Duncan Hunter, R-Calif., says \"it's all semantics.\"\n\"I would suggest that this administration start talking to any of the service members who fought in Afghanistan, who might have been injured or seen their friends hurt or killed, and ask them if the Taliban is a terror organization,\" he said in a statement on Thursday. \"The administration might actually learn something and stop looking so foolish.\"\nHunter also has noted that Bergdahl was held at one point by militants with the Taliban-aligned Haqqani network, which technically has been declared a terror group.\nIn another Taliban-related development, a U.S. official told Fox News Thursday that one of the five prisoners traded for Bergdahl had since reached back out to the Taliban.\nThe Bergdahl trade is back in the headlines following claims that the Army may be preparing to charge him with desertion. The Pentagon and Army have adamantly denied the claims, saying no decision has been reached.\nReports have emerged that Qatar also proposed a trade last year for an Al Qaeda operative held in a U.S. prison. Two Americans held by Qatar were ultimately released in December, and the Al Qaeda operative was released this month -- though the administration insists no trade was considered. Officials said the operative was released after time served.\nOn Thursday, Earnest drew another distinction between the Jordan-ISIS discussion, and last year's trade. He noted that those talks were done using the Qatari government as an intermediary.",
+      "image_captions": [
+        "Defeated Virginia Republicans regroup for last-chance fight to save House majority",
+        "DOJ charges 2 Chinese nationals who allegedly ran overseas cryptocurrency scam center targeting Americans",
+        "James Comer's new bills could curb federal fraud in Minnesota and California",
+        "Colorado DA pursues assault charge against federal immigration officer, DHS condemns 'political stunt'",
+        "'Queen of DEI' running for Congress ripped her rural state as 'backwards' on podcast"
+      ]
+    },
+    {
+      "url": "https://www.snopes.com/fact-check/ronald-reagan-taliban-photo/",
+      "page_title": "Is This Ronald Reagan Meeting with Taliban Leaders at the White ...",
+      "title": "Is This Ronald Reagan Meeting with Taliban Leaders at the White House?",
+      "description": "A photograph of Ronald Reagan meeting with Afghan rebel leaders at the White House is frequently shared with misinformation.",
+      "text": "A photograph purportedly showing Ronald Reagan meeting with the leaders of the Taliban (Sunni Islamic fundamentalist movement) at the White House has been shared online for many years, along with a purported laudatory quote from the 40th U.S. president, \"These Gentlemen are the moral equivalents of America's Founding Fathers\":\nThis enduring meme is wrong on more than one account. The group pictured here are not Taliban leaders, the photograph was not taken in 1985, and Reagan did not compare the pictured group to America's Founding Fathers. (In this particular meme, even the name \"Reagan\" is misspelled.)\nAccording to the Ronald Reagan Library, the above-displayed photograph was taken in 1983, and it captures then-president Reagan meeting with Afghan rebel leaders to discuss the Soviet presence in Afghanistan.\nWhile the Reagan administration did help fund and equip the Mujahideen in Afghanistan (and rebel groups elsewhere) so that they could fight against the Soviet occupation, it is inaccurate to say that the former president met with the Taliban, as at that point that group did not exist:\nThis photograph is from 1983, when Reagan and the CIA were dancing around the idea of arming Mujahadin fighters in order to fight back against Soviet incursion in Afghanistan. The result was a well-armed, well-trained group of jihadis who resisted (some say defeated) the onslaught of superior Soviet weaponry.\nOnce the Soviets retreated, the U.S. lost interest and pulled the funding. Osama bin Laden took interest, and filled the vacuum, later fathering the Taliban.\nThe rest, as they say, is history.\nThe quote frequently attached to this photograph is a paraphrased version of something said by President Reagan, but he was not speaking about either the Taliban or Afghan opposition groups at the time. He made the comment about contra rebels in Nicaragua during a speech at the Conservative Political Action Conference in 1985:\nThey are our brothers, these freedom fighters, and we owe them our help. I've spoken recently of the freedom fighters of Nicaragua. You know the truth about them. You know who they're fighting and why. They are the moral equal of our Founding Fathers and the brave men and women of the French Resistance. We cannot turn away from them, for the struggle here is not right versus left; it is right versus wrong.",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.yahoo.com/news/white-house-welcomes-news-taliban-pulled-kunduz-174008502.html",
+      "page_title": "White House welcomes news that Taliban has pulled out from Kunduz",
+      "title": "White House welcomes news that Taliban has pulled out from Kunduz",
+      "description": "WASHINGTON (Reuters) - The White House said on Tuesday the United States welcomes reports that the Taliban has pulled out of the northern Afghan city of Kunduz that it had seized last month. President...",
+      "text": "White House welcomes news that Taliban has pulled out from Kunduz\nWASHINGTON (Reuters) - The White House said on Tuesday the United States welcomes reports that the Taliban has pulled out of the northern Afghan city of Kunduz that it had seized last month. President Barack Obama is considering whether to adjust the pace of withdrawing U.S. troops from Afghanistan, but White House spokesman Josh Earnest told reporters he had no update on what Obama's decision would be or when he would make it. (Reporting by Roberta Rampton; Editing by Doina Chiacu)",
+      "image_captions": [
+        "Download app from App Store",
+        "Download app from Google Play"
+      ]
+    },
+    {
+      "url": "https://www.politifact.com/factchecks/2019/sep/11/facebook-posts/no-ronald-reagan-didnt-meet-taliban-because-taliba/",
+      "page_title": "No, Ronald Reagan didn't meet with the Taliban because ... - PolitiFact",
+      "title": "Viral photo of Ronald Reagan meeting isn’t of the Taliban",
+      "description": "President Donald Trump recently announced that he called off talks with the Taliban, a meeting that was set to take plac",
+      "text": "Stand up for the facts!\nOur only agenda is to publish the truth so you can be an informed participant in democracy.\nWe need your help.\nI would like to contribute\nNo, Ronald Reagan didn’t meet with the Taliban because the Taliban didn’t exist\nPresident Donald Trump recently announced that he called off talks with the Taliban, a meeting that was set to take place days before the 18th anniversary of the 9/11 attacks.\nAnd while news of that planned meeting inspired criticism, a viral image circulating on social media suggests Trump wouldn’t have been the first U.S. president to have done so, had he gone through with it.\nIn the image, former President Ronald Reagan is seated in the Oval Office with a group of men wearing turbans. \"NeverTrumpers,\" reads a Sept. 7 tweet that featured the photo, \"A president meeting with the Taliban, this is horrific!\"\nBesides being retweeted over 1,700 times, this flawed years-old claim also migrated to Facebook, where, in one version, text surrounding the image declares, \"Ronald Reagan meets with the Taliban. ‘These gentlemen are the moral equivalents of America’s Founding Fathers’ –Ronald Reagan, 1985.\"\nThe post was flagged as part of Facebook’s efforts to combat false news and misinformation on its News Feed. (Read more about our partnership with Facebook.)\nIt’s false on many counts. The men in the photo are not from the Taliban; the organization wasn’t created until years later, in the mid 1990s. Also, the photo was not taken in 1985, and Reagan didn’t compare the group in the photo to the Founding Fathers.\nAccording to the Ronald Reagan Library and Museum, the photo was captured on Feb. 2, 1983, and shows Reagan meeting with Afghan \"freedom fighters\" in the Oval Office \"to discuss Soviet atrocities in Afghanistan.\"\nThe Reagan administration helped fund the Mujahideen to aid their fight against the Soviets. The U.S. pulled the funding after the Soviets retreated and later the Taliban was formed. So, while some of the Mujahideen may have become part of the Taliban a decade after the photo was taken, the two groups are not the same.\nIt’s not accurate that Reagan likened the pictured men to the Founding Fathers.\nThe quote’s likely origins are in in a speech Reagan delivered at the Conservative Political Action Conference on March 1, 1985. But he wasn’t talking about the Taliban or the Afghan fighters seated with him in the photo. He was, in fact, talking about Nicaraguan rebels:\n\"I've spoken recently of the freedom fighters of Nicaragua. You know the truth about them. You know who they're fighting and why. They are the moral equal of our Founding Fathers and the brave men and women of the French Resistance. We cannot turn away from them, for the struggle here is not right versus left; it is right versus wrong.\"\nOur ruling\nSocial media posts claim a photo of President Reagan seated in the Oval Office shows him meeting with members of the Taliban.\nThis is flat-out wrong. The image was taken in 1983, about a decade before the Taliban formed, and featured Afghan rebels fighting against Soviet occupation in Afghanistan.\nWe rate this False.\nOur Sources\nTwitter, Sept. 7, 2019\nFacebook post, Sept. 9, 2019\nNew York Times, How Trump’s Plan to Secretly Meet With the Taliban Came Together, and Fell Apart, Sept. 8, 2019\nReaganLibrary.gov, President at Work, Accessed Sept. 11, 2019\nBritannica, Taliban, Accessed Sept. 11, 2019\nU.S. State Department, The Soviet Invasion of Afghanistan and the U.S. Response, 1978–1980, Accessed Sept. 11, 2019\nSnopes, A photograph shows Ronald Reagan meeting with Taliban leaders in 1985 and comparing them to the founding fathers of the United States, March 10, 2016\nAssociated Press, Photo does not show President Reagan meeting with the Taliban, Sept. 10, 2019\nReaganLibrary.gov, Remarks at the Annual Dinner of the Conservative Political Action Conference, March 1, 1985\nBrowse the Truth-O-Meter\nMore by Samantha Putterman\nNo, Ronald Reagan didn’t meet with the Taliban because the Taliban didn’t exist\nSupport independent fact-checking.\nBecome a member!\nIn a world of wild talk and fake news, help us stand up for the facts.",
+      "image_captions": []
+    }
+  ],
+  "evidence_count": 4,
+  "crawled_at": "2026-04-23T18:53:31.039976+00:00"
+}

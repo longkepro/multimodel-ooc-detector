@@ -1,0 +1,60 @@
+{
+  "sample_id": "false_162",
+  "image_url": "https://i2-prod.chroniclelive.co.uk/incoming/article13503939.ece/ALTERNATES/s1200b/The-Plastic-Whale-Tour-of-the-UK.jpg",
+  "visual_entities": [
+    {
+      "description": "James Cracknell",
+      "score": 3.2459998
+    },
+    {
+      "description": "Statue",
+      "score": 0.5249474
+    },
+    {
+      "description": "future",
+      "score": 0.5104
+    },
+    {
+      "description": "Sculpture",
+      "score": 0.4352
+    },
+    {
+      "description": "National Mall",
+      "score": 0.41355002
+    },
+    {
+      "description": "Art",
+      "score": 0.3888
+    },
+    {
+      "description": "create",
+      "score": 0.3484
+    }
+  ],
+  "best_guess_labels": [
+    "statue"
+  ],
+  "similar_image_urls": [
+    "https://i2-prod.chroniclelive.co.uk/incoming/article13503939.ece/ALTERNATES/s1200b/The-Plastic-Whale-Tour-of-the-UK.jpg",
+    "https://i2-prod.chroniclelive.co.uk/article13503939.ece/ALTERNATES/s1200b/The-Plastic-Whale-Tour-of-the-UK.jpg",
+    "https://i2-prod.chroniclelive.co.uk/article13503939.ece/ALTERNATES/s1200f/The-Plastic-Whale-Tour-of-the-UK.jpg",
+    "https://i2-prod.chroniclelive.co.uk/article13503939.ece/ALTERNATES/s1200/The-Plastic-Whale-Tour-of-the-UK.jpg",
+    "https://i2-prod.chroniclelive.co.uk/article13503939.ece/ALTERNATES/s1200d/The-Plastic-Whale-Tour-of-the-UK.jpg",
+    "https://i2-prod.chroniclelive.co.uk/article13503939.ece/ALTERNATES/s1200c/The-Plastic-Whale-Tour-of-the-UK.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.chroniclelive.co.uk/news/north-east-news/giant-whale-made-plastic-bags-13503773",
+      "page_title": "Why is a giant whale made from plastic bags and bottles coming to ...",
+      "title": "Why is a whale made from plastic bags and bottles coming to Newcastle?",
+      "description": "The 32ft plastic model will be on display at intu Metrocentre on Sunday August 27",
+      "text": "Why is a giant whale made from plastic bags and bottles coming to Newcastle?\nThe 32ft plastic model will be on display at intu Metrocentre on Sunday August 27\nA giant whale made from the amount of plastic thrown into the sea every second is to visit the North East this weekend.\nThe 10-metre creation, constructed from plastic bags, bottles and straws, is currently on a tour of England, Wales and Scotland.\nAnd shoppers in the North East will be able to see the amazing structure when it visits Intu Metrocentre on Sunday, August 27.\nAs part of the Sky Ocean Rescue campaign, the model was unveiled in Cardiff Bay on Sunday by Olympic rower James Cracknell in a bid to raise awareness of the issue of ocean health.\nIt is made out of plastic recovered from oceans, beaches and recycling plants.\nThe campaign hopes to encourage people to change the way they consume single-use plastics and is being supported by the Marine Conservation Society.\nDuring the tour the whale will visit other cities and coastal spots including Blackpool Promenade, Ipswich and Edinburgh’s Ocean Terminal.\nThe campaign’s website says, “More than 8 million tonnes of plastic pollute the world’s oceans every year.\n“If nothing changes, by 2050 the plastic in the sea could weigh more than all the fish.\n“The plastic whale is made from the same amount of plastic that ends up in the ocean every second, and is travelling across the UK to bring this huge problem to life and inspire people to take action.",
+      "image_captions": [
+        "Double Olympic gold medalist rower James Cracknell joins Sky Ocean Rescue to unveil a 10-metre long whale(Image: PA)",
+        "Double Olympic gold medalist rower James Cracknell joins Sky Ocean Rescue to unveil a 10-metre long whale"
+      ]
+    }
+  ],
+  "evidence_count": 1,
+  "crawled_at": "2026-04-23T17:38:16.361076+00:00"
+}

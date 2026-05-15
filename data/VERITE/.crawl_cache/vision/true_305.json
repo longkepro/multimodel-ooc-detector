@@ -1,0 +1,75 @@
+{
+  "sample_id": "true_305",
+  "image_url": "http://www.kivotoshelp.gr/images/Exoterikiapostoli/NIGHRIA_FIRE2.jpg",
+  "visual_entities": [
+    {
+      "description": "Heavy metal",
+      "score": 0.5271
+    },
+    {
+      "description": "Image",
+      "score": 0.4982
+    },
+    {
+      "description": "Rock and roll",
+      "score": 0.4798
+    },
+    {
+      "description": "Hard rock",
+      "score": 0.459
+    },
+    {
+      "description": "Tennessee Mountain Top",
+      "score": 0.4244
+    },
+    {
+      "description": "Album",
+      "score": 0.3746
+    },
+    {
+      "description": "Photography",
+      "score": 0.3463
+    },
+    {
+      "description": "Photograph",
+      "score": 0.3362
+    },
+    {
+      "description": "American Rock ’n’ Roll",
+      "score": 0.3201
+    }
+  ],
+  "best_guess_labels": [
+    "rock"
+  ],
+  "similar_image_urls": [
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1488307911491929",
+    "https://files.maldita.es/maldita/contents/2025/09/68d7f27dbdf3a1945242276266436-jpeg.jpeg",
+    "https://contralaapostasia.com/wp-content/uploads/2012/06/nigeria1.jpg?w=640",
+    "https://pbs.twimg.com/media/CeXVAogUkAAw36U.jpg",
+    "https://pbs.twimg.com/media/DIdscJ7UMAICol4.jpg",
+    "https://files.maldita.es/maldita/contents/2025/09/68d7f15e09dd21333340555000181-jpeg.jpeg",
+    "https://africacheck.org/sites/default/files/10423300_870901576258432_3173016272512801805_n.jpg",
+    "https://i0.wp.com/nebevihayatdergisi.com/wp-content/uploads/2023/10/10-aile-32.png?resize=350%2C200&ssl=1",
+    "https://hajij.com/fa/images/stories/pics/1391/4/nb4.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=675178029201720"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.rtve.es/noticias/20251001/genocidios-contra-cristianos-datos-imagenes-falsas-para-comparar-nigeria-siria-masacre-gaza/16752290.shtml",
+      "page_title": "\"Genocidio contra cristianos”: datos e imágenes falsas - RTVE.es",
+      "title": "\"Genocidios contra cristianos\": datos e imágenes falsas para comparar Nigeria y Siria con la masacre de Gaza",
+      "description": "\"Genocidios contra cristianos\": datos e imágenes falsas para comparar Nigeria y Siria con la masacre de Gaza",
+      "text": "\"Genocidios contra cristianos\": datos e imágenes falsas para comparar Nigeria y Siria con la masacre de Gaza\n- Recopilamos imágenes y datos falsos de asesinatos de cristianos en Nigeria y Siria\n- Envíanos consultas al 659 800 555 o a verificartve@rtve.es\nEn el contexto de la masacre de Gaza, que una comisión independiente de la ONU ya califica de genocidio, en redes sociales se difunde que la comunidad internacional guarda silencio ante \"genocidios contra cristianos\". Por ejemplo, comparan las cifras de fallecidos en la Franja con crímenes perpetrados en Nigeria, donde es cierto que el grupo terrorista Boko Haram lleva más de una década cometiendo atentados. Sin embargo, algunos de estos mensajes incluyen cifras exageradas, utilizan vídeos descontextualizados o atribuyen sin pruebas a islamistas la autoría de incendios para acabar con los cristianos. Te lo explicamos.\nEsta imagen de cuerpos calcinados es de un incendio en el Congo en 2010\nEn nuestro WhatsApp nos habéis consultado por una imagen en la que se ve a decenas de cadáveres calcinados en el suelo, acompañada del siguiente texto: \"Cristianos quemados vivos en Nigeria. Comparte, por favor. Que se entere todo el mundo\". Detectamos publicaciones en los últimos días en redes sociales que adjuntan la misma foto y también la asocian con asesinatos en Nigeria. Es un bulo.\nLa imagen es antigua y no se registra en Nigeria. A través de una búsqueda inversa, hemos comprobado que esta fotografía se difunde en redes desde hace más de 15 años. Un blog la publicó en julio de 2010 y la relacionaba con un incendio en la República Democrática del Congo en el que murieron 230 personas. En RTVE te informamos de lo sucedido el 3 de julio de 2010: el fuego se originó cerca de la aldea de Sange, en la provincia de Kivu del Sur, al volcar un camión cisterna cargado de combustible y derramarse la gasolina. La cadena británica BBC también informó sobre la tragedia. En esta imagen de Reuters publicada por la emisora francesa Radio France Internacional se aprecia al fondo la misma vivienda, pero los cuerpos están cubiertos con mantas.\nNo han asesinado a 500.000 cristianos en un año en Nigeria\nUn mensaje compartido más de 67.000 veces en X desde el 26 de septiembre dice en inglés: \"El año pasado, los musulmanes asesinaron a 500.000 cristianos en Nigeria. ¿Por qué solo hablan de Palestina? Buena pregunta\". En la publicación también aparece un vídeo de más de un minuto, en el que un hombre asegura que \"hay mucha más gente muriendo en Nigeria que en Palestina\" y aporta la misma cifra de asesinados.\nNo hay registros de que hayan asesinado a 500.000 cristianos en un año en Nigeria. En este país africano, el terrorismo yihadista y las bandas criminales llevan décadas provocando secuestros y asesinatos. Sin embargo, ninguna de las organizaciones a las que hemos consultado ha documentado que \"los musulmanes\" asesinaran \"a 500.000 cristianos\" en 2024.\nAmnistía Internacional explica a VerificaRTVE que \"los conflictos en Nigeria son numerosos\", pero no detectan \"ningún caso reciente de violencia religiosa\". Desde esta organización aseguran que \"algunos de los asesinatos se presentan deliberadamente como 'religiosos', pero son de naturaleza criminal\" y que sus investigaciones revelan \"que los asesinos son terroristas que matan indiscriminadamente, independientemente de la religión\".\nPor un lado, \"hay bandidos en la región noroeste y hombres armados que causan estragos en el centro de Nigeria\", y \"también hay una crisis de seguridad en el sureste\" del país, donde 1.844 personas fueron asesinadas entre enero de 2021 y junio de 2023 según datos de la propia organización. Atribuyen los atentados a \"hombres armados, grupos paramilitares respaldados por el Estado, vigilantes, bandas criminales y sectas\".\nEsta misma ONG cifra en 10.217 las personas que han muerto entre 2023 y mayo de 2025 por ataques armados en siete estados nigerianos del norte del país. En enero de este año, los yihadistas de Boko Haram asesinaron a más de 40 civiles en Borno. En abril, más de 50 personas murieron en el asalto a una aldea en Bassa: \"Los hombres armados también arrasaron aldeas y saquearon casas\". Otro centenar de nigerianos fueron asesinados en junio en Benue, un estado en el que más de 500.000 personas han huido de sus casas y \"languidecen en campamentos precarios\", según Amnistía Internacional. El motivo principal es la \"escalada de ataques de bandidos y enfrentamientos entre pastores y agricultores\", que esta ONG documenta desde 2016.\nEstas son las cifras que ofrecen otras organizaciones sobre crímenes con motivos religiosos en Nigeria:\n- El Observatorio para la Libertad Religiosa en África calcula que entre 2019 y 2023 fueron asesinados 16.769 cristianos en Nigeria y hubo 8.314 víctimas musulmanas. En total, aseguran que mataron a 30.000 personas en ese período.\n- Una organización con sede en Nigeria, la Sociedad Internacional para las Libertades Civiles y el Estado de Derecho (Intersociety), asegura que \"yihadistas y 'fuerzas de seguridad islamistas' mataron a 8.222 cristianos en 2023\". En su último informe, detectan que el yihadismo ha masacrado \"a 7.087 cristianos\" y ha secuestrado a otros 7.800 en los primeros 220 días de 2025.\n- Según el Índice Global del Terrorismo elaborado por el Instituto para la Economía y la Paz, los ataques terroristas en Nigeria en 2024 han provocado 565 muertes, sin especificar si se trata de víctimas cristianas o musulmanas. Es el sexto país con mayor riesgo del mundo. El 62% de las víctimas eran civiles y el 38% \"terroristas y militares\". Registran 11.873 muertes por terrorismo desde 2007.\nEl grupo terrorista Boko Haram nació en 2002 en el Estado de Borno, en el noreste del país, donde existe una mayoría musulmana mientras que en el sur de Nigeria el cristianismo está más extendido. En 2014, estos extremistas islámicos secuestraron a 276 niñas de una escuela cristiana en Chibok. Un año después, su líder juró fidelidad al Estado Islámico, aunque actualmente el grupo se encuentra dividido entre dos facciones, tras la escisión del Estado Islámico de África Occidental (ISWA). Entre ambos grupos, han matado a más de 35.000 personas. Más de 1.600 niños han sido secuestrados en la última década, según Human Rights Watch. La Organización Internacional de las Migraciones (OIM) cifra en más de 3,5 millones de desplazados internos en Nigeria, principalmente en el norte del país, como consecuencia del terrorismo yihadista.\nEste vídeo lo difunde el líder de una organización proisraelí. En VerificaRTVE hemos comprobado que la grabación que habla de \"500.000 cristianos asesinados\" se compartió por primera vez el 16 de julio en un perfil de Instagram que se autodefine como \"líder de una organización pro-Israel con sede en Nigeria\". En el propio vídeo el protagonista aparece con una corbata con los colores de la bandera israelí. La cuenta de X que compartió la publicación en inglés incluyendo este vídeo suele difundir narrativas desinformativas y mensajes de odio, como te alertamos con motivo de los disturbios de Torre Pacheco.\nNo hay pruebas de que \"terroristas islámicos\" hayan provocado este incendio en Siria\nDifunden un vídeo en redes sociales que muestra espacios exteriores rodeados de humo y llamas y lo presentan como un incendio provocado por \"terroristas islámicos\" en aldeas cristianas sirias. \"Terroristas islámicos están quemando aldeas cristianas en Siria, cometiendo un genocidio contra los cristianos\", leemos en un mensaje compartido más de 2.000 veces en X desde el 24 de septiembre. Es una invención sin pruebas.\nEl vídeo pertenece a los incendios forestales que azotaron Siria en septiembre. A través de una búsqueda inversa encontramos un fragmento del vídeo en una publicación SyrianTelevision compartida en su canal de YouTube el 22 de septiembre. \"Los incendios forestales han alcanzado zonas residenciales de la aldea de Habnamra, en la zona rural occidental de Homs, asediando a los residentes\", leemos en árabe en su publicación. A través de una búsqueda por palabras clave en árabe (\"Habnamra\" e \"incendio\") hallamos noticias de medios sirios que informan de una oleada de fuegos forestales que arrasaron las zonas rurales de Latakia, Hama y Homs (1 y 2).\nLas autoridades no se han pronunciado sobre las causas del incendio. A través de una búsqueda por palabras clave, no hemos encontrado información que haga referencia a un incendio provocado. En su comunicado, el Servicio Civil de Siria expresó la dificultad para extinguirlo y para acceder a zonas afectadas por \"la presencia de minas y restos de la guerra\". En esta línea, manifestaron que se trataba de la peor sequía de Siria en 60 años. El día 25 de septiembre, el ministro de Emergencias y Gestión de Desastres, Raed Saleh, anunció la extinción de incendios forestales en la gobernación de Latakia. Durante su discurso, señaló que este año es \"excepcional\" debido a la extrema sequía que ha provocado un aumento del número de incendios y daños.",
+      "image_captions": [
+        "\"Genocidios contra cristianos\" en Nigeria y Siria: datos e imágenes falsasVerificaRTVE",
+        "Mensaje que difunde el bulo de que la foto muestra “cristianos quemados vivos en Nigeria”VerificaRTVE",
+        "Mensajes que difunden el bulo de que han asesinado a 500.000 cristianos en un año en NigeriaVerificaRTVE",
+        "Mensajes que relacionan sin pruebas los incendios forestales en Siria con la persecución a cristianosVerificaRTVE",
+        "\"Genocidios contra cristianos\" en Nigeria y Siria: datos e imágenes falsas"
+      ]
+    }
+  ],
+  "evidence_count": 1,
+  "crawled_at": "2026-04-23T18:56:35.628849+00:00"
+}

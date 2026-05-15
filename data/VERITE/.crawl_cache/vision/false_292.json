@@ -1,0 +1,90 @@
+{
+  "sample_id": "false_292",
+  "image_url": "https://www.fandimefilmu.cz/files/images/Clanky/Celebrity/article_main_McKellen_Ezra_1.jpg",
+  "visual_entities": [
+    {
+      "description": "Fedora Linux",
+      "score": 0.9991
+    },
+    {
+      "description": "Neal Gompa",
+      "score": 0.87854993
+    },
+    {
+      "description": "Fedora Project",
+      "score": 0.7167
+    },
+    {
+      "description": "Linux",
+      "score": 0.7151
+    },
+    {
+      "description": "Linux distribution",
+      "score": 0.7145
+    },
+    {
+      "description": "Operating System",
+      "score": 0.675
+    },
+    {
+      "description": "",
+      "score": 0.655
+    },
+    {
+      "description": "Red Hat Software",
+      "score": 0.655
+    },
+    {
+      "description": "Linux kernel",
+      "score": 0.5771
+    },
+    {
+      "description": "KDE Plasma",
+      "score": 0.5739
+    },
+    {
+      "description": "Desktop environment",
+      "score": 0.5685
+    },
+    {
+      "description": "Kernel",
+      "score": 0.5575
+    },
+    {
+      "description": "KDE",
+      "score": 0.5491
+    },
+    {
+      "description": "GNOME",
+      "score": 0.5438
+    },
+    {
+      "description": "Fedora Linux release history",
+      "score": 0.5343
+    }
+  ],
+  "best_guess_labels": [
+    "fedora"
+  ],
+  "similar_image_urls": [
+    "https://www.fandimefilmu.cz/files/images/Clanky/Celebrity/article_main_McKellen_Ezra_1.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://technologycounter.com/products/fedora",
+      "page_title": "Fedora | Pricing, Features & Reviews - TechnologyCounter",
+      "title": "Fedora | Pricing, Features & Reviews",
+      "description": "Explore Fedora which is a Operating System. Learn more about its pricing, features, & user reviews.",
+      "text": "Be the first to leave a review for Fedora\nWrite a ReviewThe top 5 features of Fedora include:\nFedora serves a wide range of businesses including Freelancers, StartUps, SMEs, Agencies.\nFedora is compatible with multiple platforms, Yes, IOS , Android\nThe top three competitors of Fedora are Apple OSX El Capitan, Ubuntu and Cloudpital. To find the best fit for your business, compare and evaluate each platform's features, advantages, disadvantages, and other key aspects.\nCurrently, Fedora does not offer trial access. However, you can still explore its capabilities through available product demos, feature guides, and customer reviews.",
+      "image_captions": [
+        "TechnologyCounter Logo",
+        "Univention Corporate Server",
+        "Compare Fedora VS Ubuntu",
+        "Fedora VS Ubuntu Logo",
+        "Registration Policy icon"
+      ]
+    }
+  ],
+  "evidence_count": 1,
+  "crawled_at": "2026-04-23T18:52:56.261323+00:00"
+}

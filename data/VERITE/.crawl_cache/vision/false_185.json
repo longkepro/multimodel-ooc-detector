@@ -1,0 +1,134 @@
+{
+  "sample_id": "false_185",
+  "image_url": "https://i.guim.co.uk/img/media/21627a1becb55fb3b7a28b374069155dca27fdce/53_0_5012_3008/master/5012.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=0019f2a9eac53d64457bca212eab1050",
+  "visual_entities": [
+    {
+      "description": "2021 Brazilian protests",
+      "score": 1.053
+    },
+    {
+      "description": "Brazil",
+      "score": 0.82635
+    },
+    {
+      "description": "Demonstration",
+      "score": 0.7214
+    },
+    {
+      "description": "2023 Brazilian Congress attack",
+      "score": 0.66209996
+    },
+    {
+      "description": "Ele Não movement",
+      "score": 0.6024
+    },
+    {
+      "description": "Politics",
+      "score": 0.5573
+    },
+    {
+      "description": "",
+      "score": 0.5509
+    },
+    {
+      "description": "President of Brazil",
+      "score": 0.4187
+    },
+    {
+      "description": "Bolsonarism",
+      "score": 0.3732
+    },
+    {
+      "description": "Far-right politics",
+      "score": 0.341
+    }
+  ],
+  "best_guess_labels": [
+    "manifestação bolsonaro visão aerea"
+  ],
+  "similar_image_urls": [
+    "https://www.rbsdirect.com.br/imagesrc/24715305.jpg?format=webp&w=1600&h=1200&a=c",
+    "https://www.rbsdirect.com.br/imagesrc/24716696.jpg?format=webp&w=1600&h=1200&a=c",
+    "https://laregledujeu.org/files/2018/10/manifestation-anti-bolsonaro-bresil.jpg",
+    "https://i.guim.co.uk/img/media/21627a1becb55fb3b7a28b374069155dca27fdce/53_0_5012_3008/master/5012.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=0019f2a9eac53d64457bca212eab1050",
+    "https://www.rbsdirect.com.br/imagesrc/24716696.jpg?format=webp&w=1200",
+    "https://www.rbsdirect.com.br/imagesrc/24716696.jpg?version=1575255600",
+    "https://veja.abril.com.br/wp-content/uploads/2018/09/politica-protesto-elenao-brasil-20180929-0015.jpg?quality=70&strip=info&w=720&crop=1",
+    "https://www.rbsdirect.com.br/imagesrc/24716696.jpg?w=700",
+    "https://veja.abril.com.br/wp-content/uploads/2018/09/politica-protesto-elenao-brasil-20180929-0015.jpg?quality=70&strip=info&w=920&w=636"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.theguardian.com/world/2018/sep/30/huge-protests-in-brazil-as-far-right-presidential-hopeful-jair-bolsonaro-returns-home",
+      "page_title": "Huge protests in Brazil as far-right presidential hopeful returns home",
+      "title": "Huge protests in Brazil as far-right presidential hopeful returns home",
+      "description": "Demonstrations held against Jair Bolsonaro’s extremist stance ahead of election",
+      "text": "The homecoming of Brazil’s far-right presidential frontrunner Jair Bolsonaro from hospital was upstaged this weekend by huge demonstrations as concerns over his authoritarian tendencies grew.\nBolsonaro flew from São Paulo to his home in Rio de Janeiro on Saturday, three weeks after being stabbed during campaigning, while tens of thousands of women filled the streets in cities across Brazil to protest against his extremist positions ahead of the 7 October election.\nThe G1 news site reported anti-Bolsonaro protests in all Brazil’s 27 states grew out of a Facebook group called Women United Against Bolsonaro which nearly 4 million people have joined. Pro-Bolsonaro demonstrations took place in 16 states, the site said. The piauí magazine website called the demonstrations “historic” and printed a photo of an enormous crowd in São Paulo which organisers claimed half a million attended, though police did not provide an estimate.\nIn Rio the huge crowds that filled the city centre were notable for their diversity – with women of all ages, many of whom had brought children, male and LGBT demonstrators, chanting “not him”, an anti-Bolsonaro hashtag that has become a campaign slogan shared by celebrities like Madonna.\nMany demonstrators expressed concerns over Bolsonaro’s declaration in a television interview on Friday that he would not accept any election result he did not win because of his endorsement of the military dictatorship which ran Brazil for two decades.\nFlavia Carvalho, 40, a civil servant, carried a “not him” banner designed around an Adolf Hitler cartoon. “He is preaching fascism,” she said. Others said they were protesting against the sexist, racist and homophobic views Bolsonaro has expressed.\n“He is sexist. He is misogynist. He is racist,” said Ana Paulo Gonçalves, 24, a teacher. “He wants to go back to the military dictatorship,” said her sister Christine, 29, a designer.\nBolsonaro, a former army captain and veteran lawmaker, currently leads polling for a first-round vote on 7 October. Running second is Fernando Haddad, a former mayor of São Paulo who took the place of formidably popular former President Luiz Inácio Lula da Silva after Lula’s candidacy was barred because he is serving a prison sentence for graft. Bolsonaro and Haddad are expected to face off in a run-off vote on 28 October.\nMaking adept use of WhatsApp and social media, Bolsonaro has built support across Brazil, attacking Lula’s Workers’ party for its involvement in a huge graft scheme and espousing a hardline approach to law and order. His views have resonated with Brazilians angry and fearful over endemic corruption and rising violent crime. Supporters stage drive-by demonstrations, racing through towns across Brazil in convoys of cars and motorbikes, waving flags and blasting horns.\nThe divisions Bolsonaro provokes in Brazil were evident in a video of him boarding Saturday’s flight from São Paulo. While some passengers regaled him with chants of “legend”, others yelled “fascist” and “not him”.\nIn a television interview broadcast on Friday, Bolsonaro suggested Brazil’s armed forces could intervene if his main rivals, the leftist Workers’ party, “committed a foul” in the election.\n“I don’t accept an election that is not me being elected,” Bolsonaro told reporter José Datena, adding that Brazil’s electronic voting system could be defrauded by the Workers’ party, but providing no evidence.\nBolsonaro enjoys widespread support among police and the military. His vice-presidential candidate, Gen Hamilton Mourão, unnerved Brazilians recently when he said in a situation of “anarchy”, a president could declare an “auto-coup”. Both men praise the military dictatorship that ran Brazil from 1964-1985, torturing and executing opponents.\n“I lived [during] this phase,” said Maria do Carmo, 84, who was protesting in Rio and saw relatives imprisoned by the military regime. “It was terrible.”\nOn Sunday, the Folha de S.Paulo newspaper called on both leading candidates to make a commitment to democracy, accusing Bolsonaro of “stimulating paranoias of manipulation” and criticising the Workers’ party for its attacks on the justice system for Lula’s imprisonment it calls politically motivated.",
+      "image_captions": [
+        "Aerial view of a demonstration against presidential candidate Jair Bolsonaro.Photograph: Miguel Schincariol/AFP/Getty Images",
+        "Jair Bolsonaro sits on a plane at the airport in São Paulo.Photograph: STRINGER/Reuters",
+        "People gather during a demonstration against Brazil’s presidential candidate Jair Bolsonaro.Photograph: Nacho Doce/Reuters",
+        "Aerial view of a demonstration against presidential candidate Jair Bolsonaro.",
+        "Jair Bolsonaro sits on a plane at the airport in São Paulo."
+      ]
+    },
+    {
+      "url": "https://veja.abril.com.br/politica/manifestantes-protestam-contra-bolsonaro-no-brasil-e-no-exterior/",
+      "page_title": "Protestos contra Bolsonaro reúnem milhares no Brasil e no exterior",
+      "title": "Protestos contra Bolsonaro reúnem milhares no Brasil e no exterior",
+      "description": "Atos contra o candidato foram liderados por mulheres sob o slogan #Elenão, criado por um grupo no Facebook. Houve manifestações em várias cidades da Europa",
+      "text": "Protestos contra Bolsonaro reúnem milhares no Brasil e no exterior\nAtos contra o candidato foram liderados por mulheres sob o slogan #Elenão, criado por um grupo no Facebook. Houve manifestações em várias cidades da Europa\nPor Redação VEJA\nSEGUIR\nSEGUINDO\n29 set 2018, 17h23 | Atualizado em 29 set 2018, 23h12\nCompartilhe essa matéria:\nLink copiado!\nNo mesmo dia em que recebeu alta do hospital, Jair Bolsonaro (PSL) foi alvo de manifestações contra sua campanha à Presidência da República que reuniram milhares de pessoas em dezenas de cidades brasileiras e no exterior. Os dois maiores protestos contra o candidato levaram uma multidão à Cinelândia, no centro do Rio de Janeiro, e ao Largo da Batata, em Pinheiros, zona oeste de São Paulo.\nO ato na capital paulista reuniu manifestantes de vários partidos, do PSDB ao PSTU, e três candidatas a vice-presidente – Manuela D’Ávila (PCdoB), Kátia Abreu (PDT) e Sônia Guajajara (PSOL) -, além da presidenciável Marina Silva (Rede). Nenhuma delas subiu ao carro de som, que era ocupado só por mulheres.\n“Tem o PT, tem a Rede, o pessoal do Ciro (Gomes), do (Guilherme) Boulos, é importante que estejam todos aqui. O cara nos uniu. Obrigada, Bolsonaro!”, brincou Angela Martins, professora universitária de 65 anos que estava no local.\nA manifestação reuniu 150 mil pessoas, segundo os organizadores – a Polícia Militar não fez estimativa. Não foi registrado nenhum incidente grave, mas o protesto paralisou total ou parcialmente o trânsito em vias importantes como as avenidas Rebouças e Paulista.\nEm pelo menos 15 cidades do interior de São Paulo, também houve manifestações. As maiores concentrações foram em Campinas – cerca de 2.000 pessoas, segundo a PM – e São José dos Campos – também 2.000 pessoas, mas segundo os organizadores. Também houve protestos em outros municípios importantes como Ribeirão Preto, São José do Rio Preto, Piracicaba, Bauru, São Carlos e Marília.\nContinua após a publicidade\nNa Cinelândia, não houve estimativa de público, mas a multidão ocupou toda a praça e ruas do entorno. “Aqui tem pessoas brancas, negras, homossexuais, pessoas que são pais e mães de família e que são muito diversas. E esse tipo de candidato (Bolsonaro), esse tipo de política, não representa essa cultura brasileira que tem toda essa diversidade”, disse Beatriz Lorena, professora de 33 anos.\nEm Brasília, o ato reuniu cerca de 5 mil pessoas, de acordo com a Polícia Militar. As manifestantes ocuparam três das cinco faixas da pista norte do Eixo Monumental.\nEm Salvador, a cantora Daniela Mercury protestou cantando em um trio elétrico que circulou pela cidade com uma faixa onde se lia “Mulheres contra Bolsonaro”. Em Juiz de Fora (Minas Gerais), onde Bolsonaro sofreu o atentado a faca em 6 de setembro, manifestantes contrários a ele saíram em passeata pelas ruas do centro.\nPelo país também houve atos em Curitiba, Goiânia, Porto Alegre, Vitória, Florianópolis, Belo Horizonte, Natal, João Pessoa, Recife, Fortaleza, Aracaju, Palmas, Campo Grande, Manaus, Belém e Cuiabá.\nContinua após a publicidade\nExterior\nAo redor do mundo, ocorreram manifestações contra Bolsonaro em cidades dos Estados Unidos, Canadá, Argentina, Chile, Espanha, França, Portugal, Alemanha, Itália, França e Suíça.\nEm Nova York, houve samba na rua, cartazes em português e inglês. O protesto reuniu homens, mulheres e crianças de todas as idades. Veja vídeo abaixo:\nContinua após a publicidade\nEm Londres, a manifestação lembrou o assassinato da vereadora Marielle Franco (PSOL-RJ), em março, no Rio de Janeiro.\nEm Paris, cerca de 250 pessoas protestaram na Praça da República, no centro. Os manifestantes, a maioria mulheres brasileiras com idade entre 20 e 40 anos, levaram cartazes em português, francês e inglês com as mensagens como “Bolsonaro jamais” e “Ele não”. Em Lyon, também houve protesto (veja vídeo abaixo).\nNa Alemanha, a principal concentração foi em Berlim, na qual predominaram cartazes em português, inglês e alemão, com críticas ao candidato.\nContinua após a publicidade\nEm Portugal, houve atos em Lisboa, Coimbra e Porto. Muitas mulheres faziam alusão aos desencanto em relação ao futuro e às perspectivas em torno de políticas de gênero. Manifestações semelhantes ocorreram em Viena, Milão e Barcelona.\n‘Barril de pólvora’\nA ofensiva feminina foi lançada no início de setembro pelo grupo do Facebook “Mulheres unidas contra Bolsonaro”, uma convocatória “contra o avanço e o fortalecimento do machismo, misoginia, racismo, homofobia e outros tipos de preconceitos”. O grupo reúne mais de 3,8 milhões de pessoas.\nEm entrevista ao jornal O Estado de S. Paulo publicada neste sábado, a criadora do grupo, a funcionária pública Ludimilla Teixeira, de Salvador, afirmou que “só acendeu um fósforo no barril de pólvora” com a criação do grupo. Ela diz ter ficado emocionada ao ver a cantora Madonna posar nas redes sociais com a mensagem do grupo. “Eu chorei quando vi.”\nContinua após a publicidade\nAs mulheres representam 52% do eleitorado e podem definir a eleição. Essa é a esperança da estudante Jessica Zaine, de 20 anos, que marchou por São Paulo com um cartaz que dizia: “Quem poderia imaginar que o direito a votar da mulher conquistado em 1932 fosse salvar o Brasil em 2018?”\n(Com Estadão Conteúdo, Agência Brasil, France Presse e Reuters)\n*Acesso ilimitado ao site e edições digitais de todos os títulos Abril, ao acervo completo de Veja e Quatro Rodas e todas as edições dos últimos 7 anos de Claudia, Superinteressante, VC S/A, Você RH e Veja Saúde, incluindo edições especiais e históricas no app.\n*Pagamento único anual de R$23,88, equivalente a R$1,99/mês. Após esse período a renovação será de 118,80/ano (proporcional a R$ 9,90/mês).",
+      "image_captions": [
+        "Ato contra Bolsonaro no Largo da Batata, em São Paulo(Alice Vergueiro/Folhapress)",
+        "Vista aérea da manifestação contra o presidenciável Jair Bolsonaro no Largo da Batata em São Paulo – 29/09/2018(Miguel Schincariol/AFP)",
+        "Manifestantes participam de ato contra Bolsonaro na praça da Cinelândia, Rio de Janeiro – 29/09/2018(Mauro Pimentel/AFP)",
+        "Manifestação na Boca Maldita, em Curitiba – 29/09/2018(Cassiano Rosário/Futura Press/Folhapress)",
+        "Manifestantes protestam contra Bolsonaro em Santiago, Chile – 29/09/2018(Martin Bernetti/AFP)"
+      ]
+    },
+    {
+      "url": "https://www.terra.com.br/noticias/videos/imagens-aereas-mostram-concentracao-de-bolsonaristas-em-ato-por-anistia-na-avenida-paulista,436cad3202f9ff09148795d019fbe601h0wytdq3.html",
+      "page_title": "Imagens aéreas mostram concentração de bolsonaristas em ato por ...",
+      "title": "Imagens aéreas mostram concentração de bolsonaristas em ato por anistia na Avenida Paulista",
+      "description": "Imagens aéreas mostram concentração de bolsonaristas em ato por anistia na Avenida Paulista. O registro da transmissão oficial de Silas Malafaia ocorreu às 13h50 deste domingo, 6, no momento em que o ex-presidente Jair Bolsonaro chegou ao evento. A manifestação, que conta com a presença de autoridades de diferentes Estados, é em defesa do projeto de anistia aos condenados por envolvimento nos ataques de 8 de Janeiro. Reprodução/Silas Malafaia Oficial/Youtube",
+      "text": "Imagens aéreas mostram concentração de bolsonaristas em ato por anistia na Avenida Paulista\nImagens aéreas mostram concentração de bolsonaristas em ato por anistia na Avenida Paulista. O registro da transmissão oficial de Silas Malafaia ocorreu às 13h50 deste domingo, 6, no momento em que o ex-presidente Jair Bolsonaro chegou ao evento. A manifestação, que conta com a presença de autoridades de diferentes Estados, é em defesa do projeto de anistia aos condenados por envolvimento nos ataques de 8 de Janeiro. Reprodução/Silas Malafaia Oficial/Youtube\nFonte: Redação Terra",
+      "image_captions": [
+        "Filha lamenta falta de acessibilidade ao pai cadeirante em jogo do Barra contra o Corinthians: ‘Preparo nenhum’",
+        "Noiva surpreende e chega 'voando' para casamento dentro de concha de escavadeira em SC",
+        "Show de drones encanta fiéis na Alvorada de São Jorge, no Rio de Janeiro #shorts",
+        "Show de drones encanta fiéis na Alvorada de São Jorge, no Rio de Janeiro",
+        "Flávio Bolsonaro defende classificar CV e PCC como organizações terroristas: ‘Brasil precisa reagir’"
+      ]
+    },
+    {
+      "url": "https://gauchazh.clicrbs.com.br/politica/eleicoes/noticia/2018/10/foto-de-ato-contra-jair-bolsonaro-no-largo-da-batata-nao-foi-manipulada-cjmpl4vve00cm01kbmqaez38i.html",
+      "page_title": "Foto de ato contra Jair Bolsonaro no Largo da Batata não foi ... - GZH",
+      "title": "Foto de ato contra Jair Bolsonaro no Largo da Batata não foi manipulada | GZH",
+      "description": "Imagem foi atribuída ao Carnaval de 2017, mas é da manifestação deste sábado (29)",
+      "text": "Postagens em redes sociais contestam a veracidade de imagem feita sábado (29) no Largo da Batata, em São Paulo, pelo fotógrafo Miguel Schincariol, da agência de conteúdo Agence France-Presse (AFP), durante manifestação contra o candidato a presidente Jair Bolsonaro (PSL). A fotografia ilustrou reportagens do jornal O Estado de S.Paulo sobre as manifestações na capital paulista e também foi publicada por GaúchaZH.\nSimpatizantes de Bolsonaro acusam a mídia de usar a imagem que, \"na verdade\", seria do Carnaval de 2017, quando o local recebeu milhares de foliões. Uma das publicações diz que \"a foto utilizada para divulgar a manifestação no Largo da Batata nada mais é que uma imagem do Carnaval\".\nNo site do jornal O Estado de S. Paulo, o jornalista Daniel Bramatti, responsável pela editoria Estadão Verifica — serviço de checagem de fatos do jornal — desmentiu o boato reafirmado a veracidade da fotografia.",
+      "image_captions": [
+        "Foto do Largo da Batata, que mostra manifestação do último sábado (29), é verdadeiraMiguel SCHINCARIOL / AFP",
+        "Miguel SCHINCARIOL / AFP",
+        "Mulheres protestam contra Bolsonaro em diversas cidades do país",
+        "Ato contra Bolsonaro une adversários em São Paulo",
+        "Mulheres lideram protesto contra Bolsonaro em Porto Alegre"
+      ]
+    },
+    {
+      "url": "https://www.terra.com.br/noticias/videos/com-bandeiras-dos-eua-israel-e-bolsonaro-gigante-direita-faz-ato-na-paulista-veja-imagens-aereas,1d1486f9fe14d4c2deecf70ddecc0ab7m2wly4r7.html",
+      "page_title": "Com bandeiras dos EUA, Israel e Bolsonaro gigante, direita faz ato ...",
+      "title": "Com bandeiras dos EUA, Israel e Bolsonaro gigante, direita faz ato na Paulista; veja imagens aéreas",
+      "description": "Com bandeiras dos EUA, Israel e Bolsonaro gigante, direita faz ato na Paulista; veja imagens aéreas. O protesto ocorre neste domingo, 1º, na principal avenida da capital paulista; Flávio Bolsonaro (PL-RJ), Romeu Zema (Novo) e Nikolas Ferreira (PL-MG) participam. Os manifestantes defendem a liberdade do ex-presidente Jair Bolsonaro, preso pela trama golpista, fazem críticas ao governo federal e aos ministros do STF. O caso banco Master também é um dos temas abordados; nos últimos dias, o ato foi convocado sobre o bordão genérico de “Acorda, Brasil”. Reprodução/Silas Malafaia oficial/Youtube",
+      "text": "Com bandeiras dos EUA, Israel e Bolsonaro gigante, direita faz ato na Paulista; veja imagens aéreas\nCom bandeiras dos EUA, Israel e Bolsonaro gigante, direita faz ato na Paulista; veja imagens aéreas. O protesto ocorre neste domingo, 1º, na principal avenida da capital paulista; Flávio Bolsonaro (PL-RJ), Romeu Zema (Novo) e Nikolas Ferreira (PL-MG) participam. Os manifestantes defendem a liberdade do ex-presidente Jair Bolsonaro, preso pela trama golpista, fazem críticas ao governo federal e aos ministros do STF. O caso banco Master também é um dos temas abordados; nos últimos dias, o ato foi convocado sobre o bordão genérico de “Acorda, Brasil”. Reprodução/Silas Malafaia oficial/Youtube\nFonte: Portal Terra",
+      "image_captions": [
+        "Filha lamenta falta de acessibilidade ao pai cadeirante em jogo do Barra contra o Corinthians: ‘Preparo nenhum’",
+        "Noiva surpreende e chega 'voando' para casamento dentro de concha de escavadeira em SC",
+        "Show de drones encanta fiéis na Alvorada de São Jorge, no Rio de Janeiro #shorts",
+        "Show de drones encanta fiéis na Alvorada de São Jorge, no Rio de Janeiro",
+        "Flávio Bolsonaro defende classificar CV e PCC como organizações terroristas: ‘Brasil precisa reagir’"
+      ]
+    }
+  ],
+  "evidence_count": 5,
+  "crawled_at": "2026-04-23T17:44:06.239067+00:00"
+}

@@ -1,0 +1,83 @@
+{
+  "sample_id": "false_41",
+  "image_url": "https://i.pinimg.com/736x/1e/01/61/1e0161fa1aa08e113bde4bedd9419693.jpg",
+  "visual_entities": [
+    {
+      "description": "Fashion",
+      "score": 0.7351
+    },
+    {
+      "description": "Street style",
+      "score": 0.7287
+    },
+    {
+      "description": "Japanese street fashion",
+      "score": 0.6213
+    },
+    {
+      "description": "Hat",
+      "score": 0.6034
+    },
+    {
+      "description": "Clothing",
+      "score": 0.5954
+    },
+    {
+      "description": "",
+      "score": 0.5746
+    },
+    {
+      "description": "Streetwear",
+      "score": 0.5512
+    },
+    {
+      "description": "Shoe",
+      "score": 0.4732
+    },
+    {
+      "description": "Suit",
+      "score": 0.4534
+    },
+    {
+      "description": "Japanese clothing",
+      "score": 0.4066
+    },
+    {
+      "description": "Dress",
+      "score": 0.3895
+    },
+    {
+      "description": "Platform shoe",
+      "score": 0.3812
+    },
+    {
+      "description": "Model",
+      "score": 0.3655
+    }
+  ],
+  "best_guess_labels": [
+    "girl"
+  ],
+  "similar_image_urls": [
+    "https://i.pinimg.com/736x/b4/e6/f3/b4e6f3583e71cfe6ee054c40364488cc.jpg",
+    "https://s3.r29static.com/bin/entry/d44/720x1080,85/2148682/image.webp",
+    "https://i.pinimg.com/1200x/96/09/1b/96091bd5cb4785a03c7bb2ad64f5d37a.jpg",
+    "https://i.pinimg.com/236x/b4/e6/f3/b4e6f3583e71cfe6ee054c40364488cc.jpg",
+    "https://i.pinimg.com/236x/2d/a3/ae/2da3ae772c3d59b8e86bca089f937d3f.jpg",
+    "https://i.pinimg.com/236x/96/09/1b/96091bd5cb4785a03c7bb2ad64f5d37a.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.refinery29.com/en-gb/tokyo-fashion-week-street-style",
+      "page_title": "21 Tokyo Fashion Week Street Style Looks We Absolutely Love",
+      "title": "The Street Style At Tokyo Fashion Week Is Giving Us Major Fashion Inspiration",
+      "description": "All the best looks from the streets of Amazon Fashion Week Tokyo Autumn/Winter 19.",
+      "text": "ADVERTISEMENT\nThere's good reason why we look forward to Amazon Fashion Week in Tokyo each season and these street style looks are it. While attendees often play it safe with clean, minimalist dressing in the 'big four' (Paris, Milan, London and New York), Tokyo's streets are a riot of clashing colours, patterns and proportions.\nADVERTISEMENT\nADVERTISEMENT",
+      "image_captions": [
+        "This icon serves as a link to download the eSSENTIAL Accessibility assistive technology app for individuals with physical disabilities. It is featured as part of our commitment to diversity and inclusion."
+      ]
+    }
+  ],
+  "evidence_count": 1,
+  "crawled_at": "2026-04-23T16:57:12.279929+00:00"
+}

@@ -1,0 +1,115 @@
+{
+  "sample_id": "true_135",
+  "image_url": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2018/10/pensacola.jpg",
+  "visual_entities": [
+    {
+      "description": "Hurricane Michael",
+      "score": 0.8922
+    },
+    {
+      "description": "Hurricane Laura",
+      "score": 0.80505
+    },
+    {
+      "description": "Hurricane Florence",
+      "score": 0.73725
+    },
+    {
+      "description": "Storm",
+      "score": 0.7279
+    },
+    {
+      "description": "Tropical Cyclone",
+      "score": 0.7272
+    },
+    {
+      "description": "Atlantic hurricane season",
+      "score": 0.70335
+    },
+    {
+      "description": "Thunderstorm",
+      "score": 0.6925
+    },
+    {
+      "description": "Hurricane Patricia",
+      "score": 0.6774
+    },
+    {
+      "description": "Wind",
+      "score": 0.6026
+    },
+    {
+      "description": "Tornado",
+      "score": 0.5919
+    },
+    {
+      "description": "Storm surge",
+      "score": 0.5816
+    },
+    {
+      "description": "Landfall",
+      "score": 0.5102
+    },
+    {
+      "description": "Weather",
+      "score": 0.4997
+    },
+    {
+      "description": "Rain",
+      "score": 0.4829
+    },
+    {
+      "description": "Hurricane",
+      "score": 0.4516
+    }
+  ],
+  "best_guess_labels": [
+    "real hurricane"
+  ],
+  "similar_image_urls": [
+    "https://www.pnj.com/gcdn/-mm-/d7c365c1f0d4bdb1ca5b81ddbeb7957523b66dba/c=3-0-2205-1656/local/-/media/2018/07/02/Pensacola/Pensacola/636661366468823378-36223438-1936255183085737-4910430882541600768-n.jpg",
+    "https://i.redd.it/mqvwk1y0oz611.jpg",
+    "https://i.redd.it/5wcri13vhu611.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2205142449717206",
+    "https://i0.wp.com/ultimatetoolguyz.com/wp-content/uploads/2022/04/Screenshot_20220419-000553.png?fit=1644%2C1348&ssl=1",
+    "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2018/10/pensacola.jpg",
+    "https://preview.redd.it/storm-rolling-onto-pensacola-beach-today-v0-5wcri13vhu611.jpg?width=1080&crop=smart&auto=webp&s=d6b35e95087f7b9550eca69a74b51ee8ce1d812c",
+    "https://preview.redd.it/a-friends-husband-took-this-pic-of-the-storm-approaching-v0-mqvwk1y0oz611.jpg?width=1080&crop=smart&auto=webp&s=497def8cd6da21d85dad14bbe875a5ce90036050",
+    "https://cdn.administrace.tv/2023/06/16/medium_169/c24b5e7c45eef3d343701e084df2f590.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2077357342327672"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.snopes.com/fact-check/hurricane-michael-approaching-florida/",
+      "page_title": "Is This a Photograph of Hurricane Michael? - Snopes.com",
+      "title": "Is This a Photograph of Hurricane Michael?",
+      "description": "A photograph of an approaching storm is real, but it was taken months before Hurricane Michael made landfall in Florida.",
+      "text": "A photograph purportedly showing Hurricane Michael as it approached Panama City, Florida, on 10 October 2018 was widely shared on social media:\nThis photograph appears to genuinely captured a storm approaching Florida, but that storm was not Hurricane Michael.\nThis photograph has been online since July 2018, approximately three months before the formation of Hurricane Michael, when it was posted to the Pensacola section of Reddit under the title \"A friend's husband took this pic of the storm approaching Pensacola Beach last night.\"\nThe Reddit user who posted the image also identified the photographer as Sean Rogan.\nHurricane Michael devastated communities in the Florida panhandle, as well as locations in Georgia, Virginia and the Carolinas:\nAt least 11 people have died from Hurricane Michael, which slammed into Florida's Panhandle with 155-mph winds on Wednesday. The storm hacked a trail of catastrophic destruction in Georgia, the Carolinas and Virginia before finally heading back out over water.\nFive deaths were reported in Virginia, in addition to four in Florida, one in Georgia and one in North Carolina.\nMore than a million people are without electricity, and areas along the Gulf Coast and elsewhere report severe outages of cellphone service and other communications. As Michael moved through the Mid-Atlantic on Thursday and overnight, flash flood warnings were sent to people in towns from the coast to the slopes of the Appalachian Mountains.",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.snopes.com/collections/fake-hurricane-photographs/",
+      "page_title": "Here's a Collection of Fake Hurricane Photographs - Snopes.com",
+      "title": "Here's a Collection of Fake Hurricane Photographs",
+      "description": "Hurricanes tend to blow dozens of mislabeled and manipulated storm photographs around the internet.",
+      "text": "Every summer when hurricanes start swirling in the world's oceans, internet users are subjected to a flood of fake photographs. Here's a look at some of the most popular miscaptioned, doctored, and outdated photographs that we've come across over the years.\nCollection",
+      "image_captions": [
+        "A picture that was taken from high in the air and shows Hurricane Ian or another storm hovering over Miami or Fort Myers is real, according to the rumor.",
+        "Was an Orca spotted in a flooded street during Hurricane Ian?",
+        "Screengrab from video showing \"sharks\" swimming through Miami",
+        "Clouds showing an ominous face",
+        "Video still of girl clinging to screen door blowing open from wind"
+      ]
+    },
+    {
+      "url": "https://ultimatetoolguyz.com/",
+      "page_title": "Ultimate Tool Guyz, LLC",
+      "title": "Ultimate Tool Guyz, LLC",
+      "description": "",
+      "text": "Ultimate Tool Guyz, LLC is a disaster relief company. We work all over the United States assisting telecommunications and electrical companies to restore power in the wake of weather related outages due to natural disasters. Ultimate Tool Guyz, LLC assists with transportation needs, administration, generator deployments/maintenance, on-site operations, catering and more. We have a dedicated team of experienced workers for field operations. Ultimate Tool Guyz, LLC is very passionate about aiding the community and restoring power to provide some normalcy after a major disaster.",
+      "image_captions": []
+    }
+  ],
+  "evidence_count": 3,
+  "crawled_at": "2026-04-23T17:30:52.984145+00:00"
+}

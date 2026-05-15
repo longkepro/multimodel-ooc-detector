@@ -1,0 +1,74 @@
+{
+  "sample_id": "true_289",
+  "image_url": "https://pbs.twimg.com/media/E_z317WVkAsCQn5?format=jpg&name=medium",
+  "visual_entities": [
+    {
+      "description": "The Sound of the Crowd",
+      "score": 0.9901
+    },
+    {
+      "description": "The Human League",
+      "score": 0.7044
+    },
+    {
+      "description": "Crowd of Chairs",
+      "score": 0.4909
+    },
+    {
+      "description": "",
+      "score": 0.4597
+    },
+    {
+      "description": "Universal Music Group",
+      "score": 0.4597
+    },
+    {
+      "description": "Album",
+      "score": 0.4427
+    },
+    {
+      "description": "Virgin Records",
+      "score": 0.4204
+    },
+    {
+      "description": "Sony Music Entertainment",
+      "score": 0.3759
+    },
+    {
+      "description": "Dare / Fascination!",
+      "score": 0.3744
+    },
+    {
+      "description": "Universal Music Group",
+      "score": 0.3639
+    },
+    {
+      "description": "Record label",
+      "score": 0.3508
+    }
+  ],
+  "best_guess_labels": [
+    "crowd"
+  ],
+  "similar_image_urls": [
+    "https://www.chicagotribune.com/wp-content/uploads/migration/2021/03/10/7NRSRKSFA7VFCYEH2DIU4VM5S4.jpg?w=1200&resize=1200,900"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.chicagotribune.com/2021/03/10/speak-out-reader-opinion-who-supplied-biden-t-shirts-to-people-at-the-border/",
+      "page_title": "Speak Out reader opinion: Who supplied Biden T-shirts to people at ...",
+      "title": "Speak Out reader opinion: Who supplied Biden T-shirts to people at the border?",
+      "description": "What’s Speak Out? Speak Out allows readers to comment on the issues of the day. Email Speak Out at speakout@southtownstar.com or call 312-222-2427. Please limit comments to 30 seconds or about 120 words and give your first name and…",
+      "text": "What’s Speak Out?\nSpeak Out allows readers to comment on the issues of the day. Email Speak Out at speakout@southtownstar.com or call 312-222-2427. Please limit comments to 30 seconds or about 120 words and give your first name and your hometown.\nI wonder if anybody noticed on newscasts people on the border wearing Biden, Let Us In T-shirts. Who is supplying these people with the T-shirts and what is the motive?\nTed, Burbank\nTo the person who complained about the house that was on fire down 167th and 76th Avenue. May you never have to deal with a house that was on fire, a car that was on fire, a garage on fire, and have to deal with the insurance company to try to get things resolved in a speedy manner. It takes time for insurance to do things nowadays, especially because of the pandemic.\nAmanda, Tinley Park\nTo Mr. G., Chicago. My dad played softball at Palmer Park, 1948. Sam Esposito was their bat boy. Sam also was on the 1959 World Series team You were the best, Sam.\nBill, Oak Lawn\nJohn, your comments on wolves are right on. It should be immediately put on the protected list again. There were only 86 incidents of possible wolf predation on farm animals. This was out of 4 million farm animals in Wisconsin, not counting chickens and ducks. Wisconsin paid out $1.8 million compensation for these supposed wolf attacks. I know Wisconsin is a hunting state, but there should be some common sense involved here. Where I go in northern Wisconsin, the main food animal for wolves are elk. Most accusations of wolf predation can lead back to coyotes.\nPaul, Tinley Park\nI was just wondering after reading about New York Mayor Cuomo. When I go in to have coffee in the morning at my favorite restaurant, I normally greet my server with a hello darlin’. She greets me the same way. Will somebody tell me, is that wrong or right?\nJohn, Bridgeport\nI do not thank my newspaper delivery person. I don’t get my paper a few days a week. When it does come, it’s nowhere near my driveway or front door. I saw him come one morning, he whipped my paper out his car window whilst turning onto our side street. It’s not unusual for my paper to get wet from snow or rain. Then in December, he encloses a flyer in the newspaper, implying that he’d like a Christmas gift.\nJoan, Oak Forest",
+      "image_captions": [
+        "ZUMA Press/TNS/Stringer/dpa/dpa via ZUMA Press/TNSA group of migrants wearing T-shirts that read, “Biden, please let us in,” kneel and pray at the border crossing March 2, 2021 in San Ysidro, Mexico. The group gathered and marched up to the border post to petition the new U.S. administration for asylum.",
+        "A group of migrants wearing T-shirts that read, \"Biden, please let us in,\" kneel and pray at the border crossing March 2, 2021 in San Ysidro, Mexico. The group gathered and marched up to the border post to petition the new U.S. administration for asylum.",
+        "Kindness Club members Suzette Gamboa, Kailee McCarthren and Mateo Betancourt from Madison School in South Holland with donations for micropantries they support. (Janice Neumann/for the Daily Southtown)",
+        "Hillary Kurzawa, a Frankfort Township trustee, was chosen to lead the Will County Republican Central Committee. (Hillary Kurzawa)",
+        "First-level commercial space is topped by apartment units at a housing development at the northwest corner of Cicero Avenue and 157th Street in Oak Forest. (Mike Nolan/Daily Southtown)"
+      ]
+    }
+  ],
+  "evidence_count": 1,
+  "crawled_at": "2026-04-23T18:52:14.969691+00:00"
+}

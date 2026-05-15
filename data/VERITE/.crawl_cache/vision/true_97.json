@@ -1,0 +1,87 @@
+{
+  "sample_id": "true_97",
+  "image_url": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2019/07/dc_tanks_fb.jpg",
+  "visual_entities": [
+    {
+      "description": "John F. Kennedy 1961 presidential inauguration",
+      "score": 1.1700151
+    },
+    {
+      "description": "John F. Kennedy Presidential Library and Museum",
+      "score": 0.946275
+    },
+    {
+      "description": "The inaugural address of John F. Kennedy",
+      "score": 0.84105
+    },
+    {
+      "description": "Inauguration",
+      "score": 0.669
+    },
+    {
+      "description": "Military parade",
+      "score": 0.4944
+    },
+    {
+      "description": "live",
+      "score": 0.434
+    },
+    {
+      "description": "Parade",
+      "score": 0.4075
+    },
+    {
+      "description": "",
+      "score": 0.3867
+    },
+    {
+      "description": "past",
+      "score": 0.3729
+    },
+    {
+      "description": "US President",
+      "score": 0.34
+    }
+  ],
+  "best_guess_labels": [
+    "jfk inauguration parade"
+  ],
+  "similar_image_urls": [
+    "https://mediaproxy.snopes.com/width/1200/height/900/https://media.snopes.com/2019/07/dc_tanks_fb.jpg",
+    "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2019/07/dc_tanks_fb.jpg",
+    "https://ghostsofdc.org/wp-content/uploads/sites/7/2013/09/tnkas-penn-ave-400x400.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10161207327574710"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.snopes.com/fact-check/jfk-inaugural-parade-tanks/",
+      "page_title": "Did JFK's Inaugural Parade Include Columns of Tanks? | Snopes.com",
+      "title": "Did JFK's Inaugural Parade Include Columns of Tanks?",
+      "description": "Digging into this viral meme was a tankless task.",
+      "text": "The Trump administration's \"Salute to America\" Fourth of July parade in Washington, which featured tanks and other military equipment, was the subject of a good deal of controversy on Independence Day in 2019. Many critics of the idea maintained that staging a parade with military weaponry in the nation's capital during peacetime was too reminiscent of Soviet Union-like practices and was not befitting a country such as the United States, while others pointed out that the inaugural parades of previous presidents such as Eisenhower and Kennedy had included military hardware.\nAmidst that contretemps, the White Star Republic Facebook page posted a photograph of long columns of tanks in the streets of Washington, D.C., with a text overlay asserting that \"Nobody complained about JFK's inaugural parade\":\nAs noted above, JFK's January 1961 inaugural parade did include some weaponry, including tanks, captured in film and photographs of that day's festivities:\nJFK's inaugural parade on January 20, 1961, included four (!) nuclear missiles: Pershing I IRBM, Lacrosse, Nike Hercules, and Nike Zeus. pic.twitter.com/KtVMhzuSWd\n— Stephen Schwartz (@AtomicAnalyst) February 12, 2017\nHowever, the color photograph used by the White Star Republic Facebook page showing long lines of tanks with the U.S. Capitol in the background didn't originate with Kennedy's inaugural. It can be found in a \"curated collection of photography from the National Geographic archives\" hosted on Tumblr, which that publication started in 2013 to honor their 125th anniversary and \"showcase photographs that reveal cultures and moments from our past.\"\nThere, the picture is accompanied by a caption identifying it as dating from the 1940s, long before the election of John F. Kennedy to the presidency:",
+      "image_captions": []
+    },
+    {
+      "url": "https://artsandculture.google.com/asset/john-f-kennedy-s-inaugural-parade-white-house/owEVyY8_s0FXLA?hl=en",
+      "page_title": "John F. Kennedy's Inaugural Parade - White House",
+      "title": "John F. Kennedy's Inaugural Parade - White House - Google Arts & Culture",
+      "description": "John F. Kennedy Presidential Library and Museum U.S. National Archives AR6280-1A. Inaugural Parade for President John F. Kennedy",
+      "text": "Where next?\nExplore related content\nJohn F. Kennedy Presidential Library and MuseumU.S. National ArchivesAR6280-1A. Inaugural Parade for President John F. Kennedy\nDetails\nExplore museums and play with Art Transfer, Pocket Galleries, Art Selfie, and more\nInterested in History?\nGet updates with your personalized Culture Weekly\nYou are all set!\nYour first Culture Weekly will arrive this week.",
+      "image_captions": [
+        "John F. Kennedy's Inaugural Parade",
+        "U.S. National Archives",
+        "Flash this QR Code to get the app"
+      ]
+    },
+    {
+      "url": "https://www.mirror.co.uk/incoming/article2811495.ece",
+      "page_title": "JFK inaugural address - The Mirror",
+      "title": "JFK inaugural address",
+      "description": "",
+      "text": "JFK inaugural address\nVideo loading\nWatch next\nWatch this video again\nWatch Next",
+      "image_captions": []
+    }
+  ],
+  "evidence_count": 3,
+  "crawled_at": "2026-04-23T17:17:01.322504+00:00"
+}

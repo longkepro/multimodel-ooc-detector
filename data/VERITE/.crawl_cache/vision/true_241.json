@@ -1,0 +1,134 @@
+{
+  "sample_id": "true_241",
+  "image_url": "https://pbs.twimg.com/media/FQQ1wlHWQAUrq7W?format=jpg&name=medium",
+  "visual_entities": [
+    {
+      "description": "Ship",
+      "score": 1.09605
+    },
+    {
+      "description": "Iran",
+      "score": 1.05075
+    },
+    {
+      "description": "Gulf of Oman",
+      "score": 0.98475
+    },
+    {
+      "description": "Persian Gulf",
+      "score": 0.74055
+    },
+    {
+      "description": "Islamic Republic of Iran Navy",
+      "score": 0.7039
+    },
+    {
+      "description": "Naval ship",
+      "score": 0.7028
+    },
+    {
+      "description": "",
+      "score": 0.7005
+    },
+    {
+      "description": "United States",
+      "score": 0.6366
+    },
+    {
+      "description": "",
+      "score": 0.5161
+    },
+    {
+      "description": "United States Navy",
+      "score": 0.5161
+    },
+    {
+      "description": "Navy",
+      "score": 0.4605
+    },
+    {
+      "description": "Submarine",
+      "score": 0.4466
+    },
+    {
+      "description": "",
+      "score": 0.4244
+    },
+    {
+      "description": "Warship",
+      "score": 0.4015
+    },
+    {
+      "description": "Iranian frigate Jamaran",
+      "score": 0.3687
+    }
+  ],
+  "best_guess_labels": [
+    "us sinks iranian ship"
+  ],
+  "similar_image_urls": [
+    "https://www.dcnepal.com/wp-content/uploads/2026/03/ship_aCRqR3j6D2_SPvXEFOHCB.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=940850171730799",
+    "https://cloudfront-eu-central-1.images.arcpublishing.com/leparisien/W4KW6ZYY75GJVHKLT6UULOVOBA.jpg",
+    "https://image.trouw.nl/203491379/width/2480/rook-stijgt-op-uit-de-kharg-iran",
+    "https://media.cnn.com/api/v1/images/stellar/prod/210602114326-02-gulf-of-oman-iran-navy-ship-0602.jpg?q=w_2000,h_1124,x_0,y_0,c_fill",
+    "https://www.naval.com.br/blog/wp-content/uploads/2021/06/Iranian-navy-ship-3.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/threads/DVeFFQwkfNp/2/image.jpg",
+    "https://www.infobae.com/new-resizer/DGnn5EJIWnCqaXhGdUK64G6fItM=/arc-anglerfish-arc2-prod-infobae/public/EZPYX67GZXTLTGPLXB3IHFFV2M.jpg",
+    "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/EZPYX67GZXTLTGPLXB3IHFFV2M.jpg",
+    "https://cdn.hk01.com/di/media/images/dw/d13d9f5e25a4c2e5ad41cb3a1bfc925e.jpg/gC50ejxz_DWdhd8B6lJXqCNI-ULMcC_w1pLY0daS2NE"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.pbs.org/newshour/world/irans-largest-warship-catches-fire-sinks-in-gulf-of-oman",
+      "page_title": "Iran's largest warship catches fire, sinks in Gulf of Oman | PBS News",
+      "title": "Iran’s largest warship catches fire, sinks in Gulf of Oman",
+      "description": "The Iranian navy's warship caught fire and later sank Wednesday under unclear circumstances, the latest calamity to strike one of the country's vessels in recent years amid tensions with the West.",
+      "text": "By — Amir Vahdat, Associated Press Amir Vahdat, Associated Press By — Jon Gambrell, Associated Press Jon Gambrell, Associated Press Leave a comment 0comments Share Copy URL https://www.pbs.org/newshour/world/irans-largest-warship-catches-fire-sinks-in-gulf-of-oman Email Facebook Twitter LinkedIn Pinterest Tumblr Share on Facebook Share on Twitter Iran's largest warship catches fire, sinks in Gulf of Oman World Jun 2, 2021 10:58 AM EDT TEHRAN, Iran (AP) — The largest warship in the Iranian navy caught fire and later sank Wednesday in the Gulf of Oman under unclear circumstances, the latest calamity to strike one of the country's vessels in recent years amid tensions with the West. The blaze began around 2:25 a.m. and firefighters tried to contain it, the Fars news agency reported, but their efforts failed to save the 207-meter (679-foot) Kharg, which was used to resupply other ships in the fleet at sea and conduct training exercises. State media reported 400 troops on board fled the vessel, with some 20 suffering injuries. The vessel sank near the Iranian port of Jask, some 1,270 kilometers (790 miles) southeast of Tehran on the Gulf of Oman near the Strait of Hormuz — the narrow mouth of the Persian Gulf. Satellite photos from Planet Labs Inc. analyzed by The Associated Press showed the Kharg off Jask with no sign of a fire as late as 11 a.m. Tuesday. Photos circulated on Iranian social media of sailors wearing life jackets evacuating the vessel as a fire burned behind them. Fars published video of thick, black smoke rising from the ship early Wednesday morning. Satellites from the U.S. National Oceanic and Atmospheric Administration that track fires from space detected a blaze near Jask that started just before the time of the fire reported by Fars. Iranian officials offered no cause for the fire aboard the Kharg, though they said an investigation had begun. It comes after a series of mysterious explosions that began in 2019 targeting commercial ships in the Gulf of Oman. The U.S. Navy later accused Iran of targeting the ships with limpet mines, timed explosives typically attached by divers to a vessel's hull. Iran denied that, though U.S. Navy footage showed Revolutionary Guard members removing one unexploded limpet mine from a ship. The attacks came amid heightened tensions between the U.S. and Iran after then-President Donald Trump unilaterally withdrew America from Tehran's nuclear deal with world powers. Negotiations on saving the accord continue in Vienna. In April, an Iranian ship called the MV Saviz believed to be a Guard base and anchored for years in the Red Sea off Yemen was targeted in an attack suspected to have been carried out by Israel. It escalated a yearslong shadow war in the Mideast between the two countries, ranging from strikes in Syria, assaults on ships and attacks on Iran's nuclear program. The Israeli prime minister's office did not respond to a request for comment Wednesday regarding the Kharg. WATCH: How conflict between Iran and Israel could affect U.S. diplomacy with Iran State TV and semiofficial news agencies on Wednesday referred to the Kharg, named after the island that serves as the main oil terminal for Iran, as a \"training ship.\" It was one of a few vessels in the Iranian navy capable of providing replenishment at sea for other ships. It also can lift heavy cargo and serve as a launch point for helicopters. Like much of Iran's major military hardware, the Kharg dated back to before Iran's 1979 Islamic Revolution. The warship, built in Britain and launched in 1977, entered the Iranian navy in 1984 after lengthy negotiations. That aging military equipment has seen fatal accidents as recently as Tuesday, when a malfunction in the ejector seats of an Iranian F-5 dating back to before the revolution killed two pilots while the aircraft was parked in a hangar. In recent months, the navy launched a slightly larger commercial tanker called the Makran that it converted into serving a similar function as the Kharg. The sinking of the Kharg marks the latest naval disaster for Iran. In 2020, during an Iranian military training exercise, a missile mistakenly struck a naval vessel near Jask, killing 19 sailors and wounding 15. Also in 2018, an Iranian navy destroyer sank in the Caspian Sea. Associated Press' Gambrell reported from Dubai, United Arab Emirates. Associated Press writer Joseph Krauss in Jerusalem contributed to this report. A free press is a cornerstone of a healthy democracy. Support trusted journalism and civil dialogue. Donate now By — Amir Vahdat, Associated Press Amir Vahdat, Associated Press By — Jon Gambrell, Associated Press Jon Gambrell, Associated Press Jon Gambrell, the news director for the Gulf and Iran for The Associated Press, has reported from each of the Gulf Cooperation Council countries, Iran and other locations across the world since joining the AP in 2006.\nTEHRAN, Iran (AP) — The largest warship in the Iranian navy caught fire and later sank Wednesday in the Gulf of Oman under unclear circumstances, the latest calamity to strike one of the country's vessels in recent years amid tensions with the West. The blaze began around 2:25 a.m. and firefighters tried to contain it, the Fars news agency reported, but their efforts failed to save the 207-meter (679-foot) Kharg, which was used to resupply other ships in the fleet at sea and conduct training exercises. State media reported 400 troops on board fled the vessel, with some 20 suffering injuries. The vessel sank near the Iranian port of Jask, some 1,270 kilometers (790 miles) southeast of Tehran on the Gulf of Oman near the Strait of Hormuz — the narrow mouth of the Persian Gulf. Satellite photos from Planet Labs Inc. analyzed by The Associated Press showed the Kharg off Jask with no sign of a fire as late as 11 a.m. Tuesday. Photos circulated on Iranian social media of sailors wearing life jackets evacuating the vessel as a fire burned behind them. Fars published video of thick, black smoke rising from the ship early Wednesday morning. Satellites from the U.S. National Oceanic and Atmospheric Administration that track fires from space detected a blaze near Jask that started just before the time of the fire reported by Fars. Iranian officials offered no cause for the fire aboard the Kharg, though they said an investigation had begun. It comes after a series of mysterious explosions that began in 2019 targeting commercial ships in the Gulf of Oman. The U.S. Navy later accused Iran of targeting the ships with limpet mines, timed explosives typically attached by divers to a vessel's hull. Iran denied that, though U.S. Navy footage showed Revolutionary Guard members removing one unexploded limpet mine from a ship. The attacks came amid heightened tensions between the U.S. and Iran after then-President Donald Trump unilaterally withdrew America from Tehran's nuclear deal with world powers. Negotiations on saving the accord continue in Vienna. In April, an Iranian ship called the MV Saviz believed to be a Guard base and anchored for years in the Red Sea off Yemen was targeted in an attack suspected to have been carried out by Israel. It escalated a yearslong shadow war in the Mideast between the two countries, ranging from strikes in Syria, assaults on ships and attacks on Iran's nuclear program. The Israeli prime minister's office did not respond to a request for comment Wednesday regarding the Kharg. WATCH: How conflict between Iran and Israel could affect U.S. diplomacy with Iran State TV and semiofficial news agencies on Wednesday referred to the Kharg, named after the island that serves as the main oil terminal for Iran, as a \"training ship.\" It was one of a few vessels in the Iranian navy capable of providing replenishment at sea for other ships. It also can lift heavy cargo and serve as a launch point for helicopters. Like much of Iran's major military hardware, the Kharg dated back to before Iran's 1979 Islamic Revolution. The warship, built in Britain and launched in 1977, entered the Iranian navy in 1984 after lengthy negotiations. That aging military equipment has seen fatal accidents as recently as Tuesday, when a malfunction in the ejector seats of an Iranian F-5 dating back to before the revolution killed two pilots while the aircraft was parked in a hangar. In recent months, the navy launched a slightly larger commercial tanker called the Makran that it converted into serving a similar function as the Kharg. The sinking of the Kharg marks the latest naval disaster for Iran. In 2020, during an Iranian military training exercise, a missile mistakenly struck a naval vessel near Jask, killing 19 sailors and wounding 15. Also in 2018, an Iranian navy destroyer sank in the Caspian Sea. Associated Press' Gambrell reported from Dubai, United Arab Emirates. Associated Press writer Joseph Krauss in Jerusalem contributed to this report. A free press is a cornerstone of a healthy democracy. Support trusted journalism and civil dialogue. Donate now",
+      "image_captions": [
+        "Evergreen_WebAd_Sidebar_DonateNow",
+        "Friends of the News Hour"
+      ]
+    },
+    {
+      "url": "https://www.commonspace.eu/news/large-iranian-navy-ship-sinks-after-fire",
+      "page_title": "Large Iranian navy ship sinks after fire - commonspace.eu",
+      "title": "Large Iranian navy ship sinks after fire",
+      "description": "A large Iranian navy ship caught fire and sank in the Gulf of Oman today according to Iran's news sources. The circumstances of the accident are unclear.",
+      "text": "A large Iranian navy ship caught fire and sank in the Gulf of Oman today according to Iran's news sources. The circumstances of the accident are unclear.\nThe ship was called Kharg, named after the island that serves as the main oil terminal for Iran. The fire began around 2:25am local time according to Iranian news sources. The vessel then sank near the port of Jask in the Strait of Hormuz.\nThe Iranian Navy explained that the sinking of the training vessel was due to the large spread of the fire. The Navy confirmed that the crew of the ship had been evacuated, and there were no casualties.\nAl Jazeera's Tehran correspondent Noureddine Al-Daghir said he had not yet known any information about the causes of the fire, and that authorities were investigating its circumstances.\nIranian media referred to the vessel as a training ship. The Kharg serves as one of a few vessels in the Iranian navy capable of providing replenishment at sea for its other ships. It also can lift heavy cargo and serve as a launch point for helicopters. The ship, built in the United Kingdom and launched in 1977, entered the Iranian navy in 1984 after lengthy negotiations that followed Iran's 1979 Islamic Revolution.",
+      "image_captions": [
+        "European Council finalises €90bn loan to Ukraine",
+        "Russian oil resumes through Druzhba, clearing way for €90 billion EU loan to Ukraine",
+        "Thursday Interview: Murad Muradov",
+        "Azerbaijan: between a rock and a hard place, and still smiling"
+      ]
+    },
+    {
+      "url": "https://www.arabnews.jp/en/middle-east/article_47667/",
+      "page_title": "400 troops jump to safety as blazing Iranian warship sinks in Gulf of ...",
+      "title": "400 troops jump to safety as blazing Iranian warship sinks in Gulf of Oman",
+      "description": "Arab NewsFire is followed by blast at Tehran refineryNew speculation over ‘shadow war’ with IsraelJEDDAH: More・・・",
+      "text": "JEDDAH: More than 400 troops were forced to jump for their lives on Wednesday when an Iranian warship burst into flames and sank to the bottom of the Gulf of Oman.\nHours later a massive fire broke out after an explosion at the oil refinery serving Tehran, sending thick plumes of black smoke over the Iranian capital.\nAuthorities at the state-owned Tondgooyan Petrochemical Company dismissed suggestions of sabotage, but both incidents sparked speculation about another round in the tit-for-tat shadow war between Iran and Israel.\nThe fire on board the Kharg, a 207-meter vessel used to resupply other ships at sea and conduct training exercises, broke out in the early hours of Wednesday. Trainee cadets and the ship’s crew jumped to safety wearing life jackets, as flames and thick, black smoke rose into the sky behind them.\nThe vessel sank near the Iranian port of Jask, about 1,270 km southeast of Tehran on the Gulf of Oman near the Strait of Hormuz.\nThe Kharg had been the largest naval warship in the Iranian fleet until January, when naval chiefs converted the oil tanker Makran for use as a mobile launch platform for helicopters.\nHowever, the Makran is not as useful as the Kharg, which could handle both refueling and replenishing supplies of ships at sea, said Mike Connell of the Center for Naval Analysis in the US.\n“For the regular Iranian navy, this vessel was very valuable because it gave them reach,” Connell said. “That allowed them to conduct operations far afield. They do have other logistics vessels, but the Kharg was the most capable and the largest.”\nThe sinking is the latest naval disaster for Iran. In 2020, during a military training exercise, a missile mistakenly struck a naval vessel near Jask, killing 19 sailors and injuring 15. In 2018, an Iranian navy destroyer sank in the Caspian Sea.\nIranian officials gave no explanation for the fire aboard the Kharg, but it follows a series of explosions that began in 2019 targeting commercial ships in the Gulf of Oman.\nIn April, the MV Saviz, an IRGC base anchored in the Red Sea off Yemen, was targeted in an attack thought to have been carried out by Israel.\nThe shadow war between the two countries has ranged from strikes in Syria, assaults on ships and attacks on Iran’s nuclear program.\nThe refinery near Tehran that caught fire on Wednesday night has been operational since 1968, has a capacity of 250,000 barrels per day and is owned by the Tehran Oil Refining Company.\n“The accident was caused by a technical problem and we are currently in the process of controlling the fire,” a spokesman said.",
+      "image_captions": [
+        "Smoke rises from Iran navy's largest ship in Jask port. (Reuters)",
+        "change default language"
+      ]
+    },
+    {
+      "url": "https://gcaptain.com/irans-largest-navy-ship-sinks-after-fire-in-gulf-of-oman/",
+      "page_title": "Iran's Largest Navy Ship Sinks After Fire in Gulf of Oman - gCaptain",
+      "title": "Iran's Largest Navy Ship Sinks After Fire in Gulf of Oman",
+      "description": "DUBAI, June 2 (Reuters) – Iran’s largest navy ship the Kharg sank on Wednesday after catching fire in the Gulf of Oman, but the crew were safely rescued, Iranian media reported. No...",
+      "text": "DUBAI, June 2 (Reuters) – Iran’s largest navy ship the Kharg sank on Wednesday after catching fire in the Gulf of Oman, but the crew were safely rescued, Iranian media reported.\nNo further explanation was given for the latest incident in a region of sensitive waterways, where there have been accusations of attacks on ships owned by arch-enemies Iran and Israel.\nState TV said the fire on Iran’s highest-tonnage naval vessel started around 2:25 a.m.on Wednesday (21:55 GMT) near the Iranian port of Jask, where it was on a training mission.\nThe Gulf of Oman connects to the Strait of Hormuz where about a fifth of the world’s oil passes.\nRescue operations for the Kharg went on for hours, the statement on state TV said, with all the crew disembarking.\n“All efforts to save the vessel were unsuccessful and it sank,” the semi-official Fars news agency reported.\nIn April, Iran said one of its vessels, the Saviz, had been targeted in the Red Sea, after media reports the ship had been attacked with limpet mines.\nThat came after Israel and Iran had blamed each other for a series of reported attacks on cargo ships since late February.\nIran has refused to recognize Israel since its Islamic Revolution in 1979 that toppled the U.S.-backed Shah. Israel sees Iran’s nuclear program as a threat to its existence.\nThe shipping incidents have occurred since U.S. President Joe Biden took office in January, pledging to rejoin Iran’s 2015 nuclear containment deal with six world powers – abandoned by his predecessor Donald Trump in a move welcomed by Israel – if Tehran returns to full compliance with the accord. (Writing by Parisa Hafezi; Editing by Andrew Cawthorne)\nBy Mihir Mishra and Alex Longley Mar 21, 2026 (Bloomberg) —The Iranian Navy guided an Indian liquefied petroleum gas tanker through the Strait of Hormuz last week, allowing the ship to...\nBy Antony Sguazzin Jan 10, 2026 (Bloomberg) –Warships from Iran and Russia have joined naval exercises being held off the coast of South Africa, risking a further deterioration of relations between...\nDUBAI, Jan 18 (Reuters) – Iran unveiled an underground naval missile base at an undisclosed Gulf location on Saturday, state TV said, two days before the start of Donald Trump’s second term as president....\nJanuary 18, 2025\nTotal Views: 9477\nGet The Industry’s Go-To News\nSubscribe to gCaptain Daily and stay informed with the latest global maritime and offshore news\n— just like 107,427 professionals\nSecure Your Spot\non the gCaptain Crew\nStay informed with the latest maritime and offshore news, delivered daily straight to your inbox\n— trusted by our 107,427 members\nYour Gateway to the Maritime World!\nEssential news coupled with the finest maritime content sourced from across the globe.",
+      "image_captions": [
+        "The Iranian ship Khark is seen at an undisclosed location in Iran, December 5, 2008. Iranian Army/WANA (West Asia News Agency) via REUTERS",
+        "iran navy ship sinking",
+        "LPG carrier, Shivalik, arrives at Mundra Port via the Strait of Hormuz",
+        "BRICS Plus countries arrives for joint maritime drills in South African waters",
+        "Iranian Navy Ship conducting at sea drill"
+      ]
+    }
+  ],
+  "evidence_count": 4,
+  "crawled_at": "2026-04-23T18:00:24.266435+00:00"
+}

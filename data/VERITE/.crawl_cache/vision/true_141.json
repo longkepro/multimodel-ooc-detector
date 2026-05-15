@@ -1,0 +1,99 @@
+{
+  "sample_id": "true_141",
+  "image_url": "https://gray-wect-prod.cdn.arcpublishing.com/resizer/NnRRMgsh2jGF7348KzQRC6zjK0U=/1200x675/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/LQSBNU5SJZF6VLTJ3QVC22Q7FQ.jpg",
+  "visual_entities": [
+    {
+      "description": "",
+      "score": 0.7331
+    },
+    {
+      "description": "Flood",
+      "score": 0.7157
+    },
+    {
+      "description": "Natural event",
+      "score": 0.6051
+    },
+    {
+      "description": "Tsunami",
+      "score": 0.5791
+    },
+    {
+      "description": "Earthquake",
+      "score": 0.4152
+    },
+    {
+      "description": "Nature",
+      "score": 0.4079
+    },
+    {
+      "description": "Tropical Cyclone",
+      "score": 0.382
+    },
+    {
+      "description": "Wildfire",
+      "score": 0.3678
+    }
+  ],
+  "best_guess_labels": [
+    "natural disaster"
+  ],
+  "similar_image_urls": [
+    "https://gray-wect-prod.gtv-cdn.com/resizer/v2/LQSBNU5SJZF6VLTJ3QVC22Q7FQ.jpg?auth=6fc8e02314eb03805ad8ed77b0aa92669247f06a8dff56072117079e19be964d&width=1200&height=600&smart=true",
+    "https://gray-wect-prod.gtv-cdn.com/resizer/v2/LQSBNU5SJZF6VLTJ3QVC22Q7FQ.jpg?auth=6fc8e02314eb03805ad8ed77b0aa92669247f06a8dff56072117079e19be964d&width=800&height=450&smart=true",
+    "https://www.animalevac.nz/wp-content/uploads/2018/09/bigdeaths-300x201.jpg",
+    "https://screenshots.scribd.com/Scribd/252_100_85/178/414870573/5.jpeg",
+    "https://o.quizlet.com/C3tRZ5-zTaGs9qW1bcqPbg.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2350770808537558"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.britannica.com/video/natural-disasters-impact/-304763",
+      "page_title": "Earthquakes, Tornadoes, and Wildfires | All About Natural Disasters",
+      "title": "Earthquakes, Tornadoes, and Wildfires | All About Natural Disasters | Britannica",
+      "description": "Protecting against natural disasters requires a multipronged approach.",
+      "text": "Can we predict natural disasters?\nCan we predict natural disasters?\nEncyclopædia Britannica, Inc.\n-\nEncyclopædia Britannica, Inc.Tornadoes are more than just a plot in Twister.\n-\n© University of Melbourne, Victoria, Australia (A Britannica Publishing Partner)Learn about a computer program used by Australian firefighters to predict the paths of wildfires.\n-\nEncyclopædia Britannica, Inc.The destructive power of tornadoes is shown in a sequence of twisters moving across rural and urban landscapes.\n-\nCreated and produced by QA International. © QA International, 2010. All rights reserved. www.qa-international.comTornadoes possess enormous destructive power.\n-\nEncyclopædia Britannica, Inc.A hurricane is essentially a large tropical storm.\n-\nEncyclopædia Britannica, Inc.Learn how tornadoes form.\n-\nEncyclopædia Britannica, Inc.Why do these storms start popping up in summer?\n-\nEncyclopædia Britannica, Inc.We have questions about hurricane season. Britannica editor John Rafferty has answers.\nNews •\nWildfires across Georgia and Florida have destroyed nearly 50 homes and are forcing evacuations\n• Apr. 22, 2026, 5:56 PM ET (AP)\nBureau investigating if Bunbury wild weather was a tornado\n• Apr. 20, 2026, 9:38 PM ET (Sydney Morning Herald)\nSevere weather causes damage to Ann Arbor buildings, power outages, flooded roads\n• Apr. 15, 2026, 6:07 AM ET (CBS)\nTornado, Hail, Wind Threat For Friday\n• Apr. 2, 2026, 3:50 PM ET (The Weather Channel)\nTornado map shows where storms could hit as risk level issued: \"Dangerous\"\n• Apr. 1, 2026, 11:42 AM ET (Newsweek)\nTranscript\nAt 4:53 PM on January 12, 2010, a 7.0-magnitude earthquake hit Haiti, followed by two large aftershocks on the same day and many smaller ones throughout the next two weeks.\nOver 220,000 people died, and more than one million were left homeless.\nNatural disasters are catastrophic geological or meteorological events that often cause many deaths and severely damage human health, the environment, property, and infrastructure.\nSome natural disasters, such as hurricanes or wildfires, have “seasons.” Some, like earthquakes, can happen at any time.\nDifferent types of natural disasters can be more common in specific regions.\nFor example, in the U.S., tornadoes most frequently occur in parts of Texas, Oklahoma, Kansas, and Nebraska—a region known as “Tornado Alley.”\nAlthough more advanced early warning systems and disaster management have significantly lowered the number of deaths resulting from natural disasters, there is still much to improve.\nLower-income and non-white communities in the U.S. are often hit hardest by natural disasters because they have fewer resources for preparation and recovery.\nMany developing countries don’t have adequate early warning systems or the financial means to rebuild after a natural disaster.\nWeather-related natural disasters are occurring more often now, as climate change has increased the frequency and intensity of extreme weather events.\nProtecting against natural disasters requires a multipronged approach. Building resistant infrastructure and providing resources before a disaster strikes, as well as investing in better forecasting systems, can help save more lives.\nLast Modification:",
+      "image_captions": [
+        "Encyclopedia Britannica",
+        "Can we predict natural disasters?",
+        "Why does the United States have more tornadoes than other countries?",
+        "Know about Phoenix RapidFire, a computer program used by Australian firefighters to predict the path of wildfires",
+        "Watch clouds transforming into tornadoes"
+      ]
+    },
+    {
+      "url": "https://www.khanacademy.org/science/middle-school-earth-and-space-science/x87d03b443efbea0a:earth-and-society/x87d03b443efbea0a:natural-hazards/v/natural-hazards",
+      "page_title": "Natural hazards (video) | Earth and society - Khan Academy",
+      "title": "Client Challenge",
+      "description": "",
+      "text": "JavaScript is disabled in your browser.\nPlease enable JavaScript to proceed.\nA required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.animalevac.nz/farmers-can-protect-animals-using-flood-barriers/",
+      "page_title": "Farmers can protect animals using flood barriers",
+      "title": "Farmers can protect animals using flood barriers",
+      "description": "According to Mercy for Animals, over 3.4 million chickens and over 5,000 pigs have died as a result of Hurricane Florence and its associated flooding. This was an event that had several days of war…",
+      "text": "According to Mercy for Animals, over 3.4 million chickens and over 5,000 pigs have died as a result of Hurricane Florence and its associated flooding. This was an event that had several days of warning, whole communities were evacuated.\nAnimal Evac New Zealand does not have a position on whether factory farms are right or wrong, as our constitutional rules prevent us to advocate on animal welfare issues that do not pertain to disaster management. That is so we can work with farmers, let it be traditional livestock or intensive farming operators; and respond to help without judgement should the need arise.\nWe do however, want to mitigate any animal suffering during disasters and given the majority of civil defence emergencies in New Zealand are flood or storm related, we know that there is much we can do to prevent these vulnerable animals from drowning, a sufferable death.\nFirstly, we advocate that in particular, intensive farming facilities are not built in disaster prone areas such as flood plains, near fault lines or exposed to tsunami or storm surge. Many however have been built in hazardous areas and so increasing their resilience is critical to animal welfare.\nSuch resilience enhancements may include seismic bracing for cage systems, robust redundant utilities (power, water, heating and waste systems), suitable fire detection and suppression systems, creation of ponds for firefighting water supply, building “lilly pads” or raised earth where animals can naturally seek refuge above flood water, and flood barrier systems that can protect facilities and animals from water. Such mitigation systems also can prevent major environmental damage from effluent storage ponds and masses of dead animals. It makes economic and reputational sense, as there is less business interruption and prevents the negative press coverage as seen by overseas events.\nBut there is also a legal obligation too. The defence provisions within the Animal Welfare Act 1999 that apply during times or stress or emergency, only apply if the situation was necessary for the preservation of human life. With hours to days of warning for floods, and the foresight that being in a flood zone will inevitably lead to the facility being affected by floods, means such a defence is unlikely to be acceptable and the obligations to protect animals from floods remain.\nAnimal Evac NZ is seeking further information from the Ministry for Primary Industries to see what progress is being made around animal emergency management within the poultry and pork industries. We expect government to ensure such farm operators are provided sufficient advice and support to mitigate the disaster risks to such vulnerable animals. Farmers wanting advice or support can also contact us.",
+      "image_captions": [
+        "Optimized by NitroPack.io"
+      ]
+    },
+    {
+      "url": "https://www.wect.com/story/33356597/floodwaters-could-breach-hog-waste-lagoons-contaminate-rivers/",
+      "page_title": "Floodwaters could breach hog waste lagoons, contaminate rivers",
+      "title": "Floodwaters could breach hog waste lagoons, contaminate rivers",
+      "description": "The Cape Fear Riverkeeper warns what floodwaters could mean for people in Southeastern North Carolina who live near or downriver from livestock farms. The flood waters could breach some if not many of the hundreds of hog lagoons and poultry waste piles scattered across our region. Floodwaters could also drown livestock housed on those farms.",
+      "text": "Floodwaters could breach hog waste lagoons, contaminate rivers\nSOUTHEASTERN NORTH CAROLINA (WECT) - The wind and rain have stopped, but we are still dealing with the effects of Hurricane Matthew. You've probably seen video of the flooding we've already experienced, and it will likely get significantly worse when the rivers crest later this week.\nCape Fear Riverkeeper Kemp Burdette is sounding the alarm for what this could mean for people in Southeastern North Carolina who live near or downriver from livestock farms. The flood waters could breach some, if not many, of the hundreds of hog lagoons and poultry waste piles scattered across our region. Floodwaters could also drown livestock housed on those farms.\n\"This is just a big massive pit of hog feces and urine,\" Burdette explained of your typical hog lagoon. \"The animals that are confined to those [neighboring] barns can literally drown inside the barns which we saw in Hurricane Floyd…. Eventually the barns can be damaged enough that the animals literally float out. And there were plenty of stories during hurricane Floyd of full grown dead hogs floating down rivers.\"\nThe First Alert Weather Team predict that the post-Matthew flooding could be similar to what we experienced during the devastating floods of Hurricane Floyd in 1999.\nGovernor Pat McCrory weighed in on this issue at a press conference Monday morning, warning that some of the most significant dangers of a hurricane come after the storm itself passes.\n\"This water, that's going to be flooding or has already flooded is going to be extremely dangerous not just from a water standpoint of the current, which can kill you, but the environmental aspect is very dangerous,\" McCrory warned. \"This water is going over pavement and roads where there's environmental issues, you're going to have environmental issues from chemicals from the farm communities, and sadly you're going to have animals involved in this process.\"\nState agricultural officials are still assessing the flood damage to local livestock farms. Brian Long of the NC Department of Agriculture says they only reports they have so far are of livestock deaths are at poultry farms.\n\"Access to farms is a concern because of flooding and impassable roads. It will hinder the delivery of feed and the movement of animals. We know there will be losses of crops such as cotton, peanuts, soybeans and sweet potatoes,\" Long shared by email Monday.\nRick Dove, with the North Carolina Riverkeepers and Waterkeeper Alliance, conducted aerial surveillance Monday and reported that floodwaters at some local hog farms are very close to breaching the hog waste lagoons and the water is still rising.\nIf the lagoons are breached, Burdette said water contamination could put people who live nearby and depend on well water at risk. New Hanover and Brunswick County residents who depend on the Northeast Cape Fear River for their water supply should have more protection if their water is treated by a utility authority's water treatment plant. But any contact with the surface water could still be dangerous for folks battling the floodwaters.\n\"If they have open cuts, which you frequently get when you're out handling debris during a flood, it can enter your body. If it splashes your face it can enter your body. It's a real threat and people need to be aware of that,\" Burdette said of exposure to contaminants like E.coli and listeria.\nAfter Hurricane Floyd, Burdette says state lawmakers worked to stop further expansion of hog lagoons in Eastern North Carolina. But based on farms that already existed, he says this region is uniquely susceptible to water contamination.\n\"They put a moratorium on new hog lagoons. So we stopped where we are, but at that point we already had more than anywhere else on planet earth in the Cape Fear River Basin,\" Burdette explained.\nThe NC Pork Council reached out to share the following statement:\n\"Hog farmers and pork production companies – like thousands of people across Eastern North Carolina – are working around the clock to protect people, animals, property and the environment against flooding. This is a severe and life-threatening situation, and the priority must be on saving people who are at risk.\"\n\"With regard to Hurricane Floyd in 1999, many of the farms that flooded were in the 100-year flood plain and have since been closed. We caution the media and public against jumping to conclusions before the full facts are known.\"\nCopyright 2016 WECT. All rights reserved.",
+      "image_captions": [
+        "Wilmington police investigate crime scene near Independence Mall",
+        "Law enforcement is searching through a wooded area in Hickory Hill after additional human...",
+        "David Eugene Bryan Jr.",
+        "A person was fatally shot at an Asheville business on Tuesday, April 21.",
+        "\"Storage Wars\" cast member Darrell Sheets attends the A+E Networks 2013 Upfront on Wednesday,..."
+      ]
+    }
+  ],
+  "evidence_count": 4,
+  "crawled_at": "2026-04-23T17:32:41.073703+00:00"
+}

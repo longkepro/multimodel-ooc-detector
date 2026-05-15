@@ -1,0 +1,94 @@
+{
+  "sample_id": "true_248",
+  "image_url": "https://pbs.twimg.com/media/FW_3yZtWYAMHJS4?format=jpg&name=large",
+  "visual_entities": [
+    {
+      "description": "Tractor",
+      "score": 1.1226058
+    },
+    {
+      "description": "Heavy equipment",
+      "score": 0.6868958
+    },
+    {
+      "description": "Bulldozer",
+      "score": 0.624
+    },
+    {
+      "description": "Agriculture",
+      "score": 0.5913
+    },
+    {
+      "description": "LS Tractor USA",
+      "score": 0.5659
+    },
+    {
+      "description": "AgroFoto",
+      "score": 0.5615
+    },
+    {
+      "description": "Continuous track",
+      "score": 0.5578
+    },
+    {
+      "description": "Equipment",
+      "score": 0.5324
+    },
+    {
+      "description": "Construction",
+      "score": 0.5301
+    },
+    {
+      "description": "Renault Agriculture",
+      "score": 0.5137
+    },
+    {
+      "description": "A-tractor",
+      "score": 0.486
+    },
+    {
+      "description": "Tire",
+      "score": 0.374
+    },
+    {
+      "description": "Power take-off",
+      "score": 0.3533
+    },
+    {
+      "description": "Riding mower",
+      "score": 0.3415
+    },
+    {
+      "description": "available",
+      "score": 0.3196
+    }
+  ],
+  "best_guess_labels": [
+    "tractor"
+  ],
+  "similar_image_urls": [
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10109388424189497",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2082397348635145",
+    "https://static.agrofoto.pl/monthly_2023_06/20230601_073505.jpg.7eea93b9d5183ea0a26c2cb9c0641171.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100012507889343",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10220283124303392"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.agrofoto.pl/forum/gallery/image/827222-renault-106-54/",
+      "page_title": "Fotografia ciągnik Renault 106-54 #827222 - Galeria rolnicza agrofoto",
+      "title": "Fotografia ciągnik Renault 106-54 #827222",
+      "description": "No i 2.0 :/ serii drogo w tym roku xd w galerii fotografii traktory Renault - Galeria rolnicza - agrofoto.pl",
+      "text": "No i 2.0 :/ serii drogo w tym roku xd\nSamaPrawda 625 Opublikowano 31 Maja 2023 W tamtym roku wybiłem całe prawe drzwi w mf, w tym roku już była dodatkowa osłona na szybie 😅 Odnośnik do komentarza https://www.agrofoto.pl/forum/gallery/image/827222-renault-106-54/#findComment-3050622\nPiotruniu25 3848 Opublikowano 31 Maja 2023 Bo najlepsza klima jak szyby nima.😁 2 2 Odnośnik do komentarza https://www.agrofoto.pl/forum/gallery/image/827222-renault-106-54/#findComment-3050623\nSylwekx25 6331 Opublikowano 31 Maja 2023 Teraz czas na przednią 🙊 1 Odnośnik do komentarza https://www.agrofoto.pl/forum/gallery/image/827222-renault-106-54/#findComment-3050624\nkamcio15 1862 Opublikowano 31 Maja 2023 Kask zakładaj do koszenia 👷😆 1 Odnośnik do komentarza https://www.agrofoto.pl/forum/gallery/image/827222-renault-106-54/#findComment-3050626\nSylwekx25 6331 Opublikowano 31 Maja 2023 Albo jaki hełm poniemiecki lepiej 🤔 4 Odnośnik do komentarza https://www.agrofoto.pl/forum/gallery/image/827222-renault-106-54/#findComment-3050629\nGość Opublikowano 31 Maja 2023 Taki z dziurką.... Odnośnik do komentarza https://www.agrofoto.pl/forum/gallery/image/827222-renault-106-54/#findComment-3050632\njonek98 2921 Opublikowano 31 Maja 2023 trza było ruslanem kosić Odnośnik do komentarza https://www.agrofoto.pl/forum/gallery/image/827222-renault-106-54/#findComment-3050634\nsongo 913 Opublikowano 31 Maja 2023 30minut po wrzucenia zdjęcia wywaliłem 3cia szybę w drzwiach tym razem. ogólnie na drugi pokos traktor będzie uzbrojony w porządne osłony już mam nawet wizję :) Odnośnik do komentarza https://www.agrofoto.pl/forum/gallery/image/827222-renault-106-54/#findComment-3050636\nGość Opublikowano 31 Maja 2023 To za zniszczenie Warszawy.... Odnośnik do komentarza https://www.agrofoto.pl/forum/gallery/image/827222-renault-106-54/#findComment-3050637\nmateuszu1818 7 Opublikowano 31 Maja 2023 nie wiem jak wy to robicie . ja jeszcze nigdy szyby podczas koszenia nie wybiłem . a kosiło się wcześniej rotacyjna bez osłon Odnośnik do komentarza https://www.agrofoto.pl/forum/gallery/image/827222-renault-106-54/#findComment-3050640\nSylwekx25 6331 Opublikowano 31 Maja 2023 Bo nie masz takich łąk albo kosiłeś mało Odnośnik do komentarza https://www.agrofoto.pl/forum/gallery/image/827222-renault-106-54/#findComment-3050642\ndanielhaker 8069 Opublikowano 31 Maja 2023 songo napisał:30minut po wrzucenia zdjęcia wywaliłem 3cia szybę w drzwiach tym razem. ogólnie na drugi pokos traktor będzie uzbrojony w porządne osłony już mam nawet wizję :)ja też już to widzę ale wrzucę jak będę w domu 🤣 Odnośnik do komentarza https://www.agrofoto.pl/forum/gallery/image/827222-renault-106-54/#findComment-3050644\nsongo 913 Opublikowano 31 Maja 2023 mateuszu1818 napisał:nie wiem jak wy to robicie . ja jeszcze nigdy szyby podczas koszenia nie wybiłem . a kosiło się wcześniej rotacyjna bez osłonja też nigdy aż do tego roku... w tym roku aż 3 heh Odnośnik do komentarza https://www.agrofoto.pl/forum/gallery/image/827222-renault-106-54/#findComment-3050649\nPiotruniu25 3848 Opublikowano 31 Maja 2023 @songoJakiś rabat na szyby musisz wytargować.😅 Odnośnik do komentarza https://www.agrofoto.pl/forum/gallery/image/827222-renault-106-54/#findComment-3050665\ntimo 824 Opublikowano 31 Maja 2023 Ale żeby lewą szybę wybić prawą kosiarką? Ma się ten talent, gratulację. Te szyby nad kołami są tanie w zakupie, ale bardzo trudno je tak wkleić, żeby to długo chodziło (odklejają się po niedługim czasie). Warunek to IDEALNE wyczyszczenie tej metalowej listwy (najlepiej wypiaskowanie) i albo ocynk, albo malowanie proszkowe - każda inna farba odejdzie z klejem i szyba wypadnie dość szybko (przerabialiśmy to kilka razy). Już nie pamiętam, jakie spoiwo najlepiej się sprawdzało, ale zapytam brata, może on będzie pamiętał. Na pewno nie można szyby wkleić na styk do samego rogu listwy, bo odejdzie po kilku otwarciach. Odnośnik do komentarza https://www.agrofoto.pl/forum/gallery/image/827222-renault-106-54/#findComment-3050669\nszymon09875 15079 Opublikowano 31 Maja 2023 12 minut temu, timo napisał: Ale żeby lewą szybę wybić prawą kosiarką? Ma się ten talent Wystarczy że miał szybę z tyłu otwarta 1 Odnośnik do komentarza https://www.agrofoto.pl/forum/gallery/image/827222-renault-106-54/#findComment-3050675\nsongo 913 Opublikowano 31 Maja 2023 timo napisał: Ale żeby lewą szybę wybić prawą kosiarką? Ma się ten talent, gratulację. Te szyby nad kołami są tanie w zakupie, ale bardzo trudno je tak wkleić, żeby to długo chodziło (odklejają się po niedługim czasie). Warunek to IDEALNE wyczyszczenie tej metalowej listwy (najlepiej wypiaskowanie) i albo ocynk, albo malowanie proszkowe - każda inna farba odejdzie z klejem i szyba wypadnie dość szybko (przerabialiśmy to kilka razy). Już nie pamiętam, jakie spoiwo najlepiej się sprawdzało, ale zapytam brata, może on będzie pamiętał. Na pewno nie można szyby wkleić na styk do samego rogu listwy, bo odejdzie po kilku otwarciach. jedna z bocznych była jeszcze na oryginalnym sylikonie druga już wymieniana i ktoś ładnie wkleił bo się uchylała i nie odpadała, a wywaliłem lewa szybę bo najpierw prawa poleciała a potem kamień przez całą kabinę szczęśliwe ominął głowę ale wybił szybe Odnośnik do komentarza https://www.agrofoto.pl/forum/gallery/image/827222-renault-106-54/#findComment-3050678\nGość Opublikowano 31 Maja 2023 Pafnucy12 napisał: To za zniszczenie Warszawy.... Tam i tak .uja było Odnośnik do komentarza https://www.agrofoto.pl/forum/gallery/image/827222-renault-106-54/#findComment-3050681\ntimo 824 Opublikowano 31 Maja 2023 13 minut temu, boogie7 napisał: Tam i tak .uja było Polecam douczyć się z historii, poczytać trochę książek itd. To pomoże zaprzestać pie*dolenia bez sensu. 3 Odnośnik do komentarza https://www.agrofoto.pl/forum/gallery/image/827222-renault-106-54/#findComment-3050683\nPolandOnion 341 Opublikowano 31 Maja 2023 U mnie 3 rok z dyskową i 3 rok szyba prawych drzwi poszła... Hektar zdążyłem skosić 🤷 Odnośnik do komentarza https://www.agrofoto.pl/forum/gallery/image/827222-renault-106-54/#findComment-3050690\nGość Opublikowano 31 Maja 2023 23 minuty temu, timo napisał: Polecam douczyć się z historii, poczytać trochę książek itd. To pomoże zaprzestać pie*dolenia bez sensu. Słowami klasyka z Samowolki ; \"ty zemną w takie dyskusje nie wchodź, dobrze... ?\" Było ku.wa w tej waszej \"warsiawie\"... meneli na Pradze i słomiane dachy, ku.wa twoja mać... Odnośnik do komentarza https://www.agrofoto.pl/forum/gallery/image/827222-renault-106-54/#findComment-3050692\nmaciekr 304 Opublikowano 31 Maja 2023 Boogie: Gdzie te przepustki? 1 Odnośnik do komentarza https://www.agrofoto.pl/forum/gallery/image/827222-renault-106-54/#findComment-3050693\njarekm411 290 Opublikowano 1 Czerwca 2023 timo napisał: 13 minut temu, boogie7 napisał: Tam i tak .uja było Polecam douczyć się z historii, poczytać trochę książek itd. To pomoże zaprzestać pie*dolenia bez sensu. co on tam ma pojęcie. Odnośnik do komentarza https://www.agrofoto.pl/forum/gallery/image/827222-renault-106-54/#findComment-3050719\nSamaPrawda 625 Opublikowano 1 Czerwca 2023 Myślę, że taka konstrukcja załatwi sprawę 🤪 5 Odnośnik do komentarza https://www.agrofoto.pl/forum/gallery/image/827222-renault-106-54/#findComment-3050720\nkamcio15 1862 Opublikowano 1 Czerwca 2023 I kosiarka dla prawdziwego Niemca 🤭 3 Odnośnik do komentarza https://www.agrofoto.pl/forum/gallery/image/827222-renault-106-54/#findComment-3050729",
+      "image_captions": [
+        "Agrofoto.pl Forum Rolnicze i Galeria Rolnicza",
+        "Renault 70.14 sp siedzenie",
+        "Renault 106-54 & Lely Poplymat",
+        "Renault Ares 826 Kverneland tl",
+        "Renault 110.54 & Z-274/1"
+      ]
+    }
+  ],
+  "evidence_count": 1,
+  "crawled_at": "2026-04-23T18:02:48.092683+00:00"
+}

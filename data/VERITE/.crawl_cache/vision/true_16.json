@@ -1,0 +1,92 @@
+{
+  "sample_id": "true_16",
+  "image_url": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2022/01/rocket-launch.jpg",
+  "visual_entities": [
+    {
+      "description": "Experimental Advanced Superconducting Tokamak",
+      "score": 1.0515
+    },
+    {
+      "description": "China",
+      "score": 0.91725004
+    },
+    {
+      "description": "Nuclear fusion",
+      "score": 0.6532
+    },
+    {
+      "description": "",
+      "score": 0.6115
+    },
+    {
+      "description": "Tokamak",
+      "score": 0.3692
+    },
+    {
+      "description": "Energy",
+      "score": 0.3344
+    }
+  ],
+  "best_guess_labels": [
+    "china artificial sun video"
+  ],
+  "similar_image_urls": [
+    "https://img.lemde.fr/2020/01/20/0/0/4000/2666/1440/960/60/0/947f599_bwzQA2b2rIL3LCH5XCOop6a3.jpg",
+    "https://mediaproxy.snopes.com/width/1200/height/900/https://media.snopes.com/2022/01/rocket-launch.jpg",
+    "https://img.lemde.fr/2020/01/20/333/0/4000/2000/1440/720/60/0/947f599_bwzQA2b2rIL3LCH5XCOop6a3.jpg",
+    "https://img.lemde.fr/2020/01/20/333/0/4000/2000/1342/671/60/0/947f599_bwzQA2b2rIL3LCH5XCOop6a3.jpg",
+    "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,fit=crop,quality=80,onerror=redirect,format=auto/wp-content/uploads/2020/01/space_wildwest366x244.jpg",
+    "https://www.politico.eu/cdn-cgi/image/width=1200,height=675,fit=crop,quality=80,onerror=redirect,format=auto/wp-content/uploads/2020/01/space_wildwest366x244.jpg",
+    "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2022/01/rocket-launch.jpg",
+    "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2020/01/space_wildwest366x244.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2532518230214372",
+    "https://img.lemde.fr/2020/01/20/0/0/4000/2667/664/0/75/0/947f599_bwzQA2b2rIL3LCH5XCOop6a3.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.dailymotion.com/video/xa3hf4m",
+      "page_title": "China's Artificial Sun - video Dailymotion",
+      "title": "China's Artificial Sun",
+      "description": "",
+      "text": "Skip to player\nSkip to main content\nWatch fullscreen\nLive Science\nChina's Artificial Sun",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.snopes.com/fact-check/did-china-launch-an-artificial-sun/",
+      "page_title": "Does Video Show China Launching an Artificial Sun? - Snopes.com",
+      "title": "Does Video Show China Launching an Artificial Sun?",
+      "description": "China's \"artificial sun\" is located in China, not space.",
+      "text": "In January 2022, a video supposedly showing China launching an artificial sun racked up millions of views as it circulated on social media:\nThis video does not show an artificial sun being launched by China. This is just a video of a rocket launch.\nOne reason some social media users may have been taken in by this miscaptioned video is that China truly has developed a so-called \"artificial sun.\" This project consists of a nuclear fusion device called 'HL-2M' tokamak that is capable of generating superheated plasma in excess of 125 million degrees Fahrenheit. However, this device has not been launched into space. It is located at the Southwestern Institute of Physics (SWIP), in the Sichuan Province of China.\nLive Science reported:\nChina's \"artificial sun\" has set a new world record after superheating a loop of plasma to temperatures five times hotter than the sun for more than 17 minutes, state media reported.\nThe EAST (Experimental Advanced Superconducting Tokamak) nuclear fusion reactor maintained a temperature of 158 million degrees Fahrenheit (70 million degrees Celsius) for 1,056 seconds, according to the Xinhua News Agency. The achievement brings scientists a small yet significant step closer to the creation of a source of near-unlimited clean energy.\nGong Xianzu, a researcher at the Institute of Plasma Physics of the Chinese Academy of Sciences who is in charge of the experiment, said in a statement:\n\"We achieved a plasma temperature of 120 million degrees Celsius for 101 seconds in an experiment in the first half of 2021. This time, steady-state plasma operation was sustained for 1,056 seconds at a temperature close to 70 million degrees Celsius, laying a solid scientific and experimental foundation toward the running of a fusion reactor.\"\nChina's artificial sun has not been launched into space. The viral video shown above shows an unrelated rocket launch that was miscaptioned.\nWe haven't been able to identify the specific source of this video, but it appears to show a rocket launch at the Wenchang Space Launch Center in Wenchang, Hainan, China. A number of other videos show crowds on the beach outside of the launch center watching rocket launches. The following video (as well as the photograph at the top of this article), for example, shows a group of spectators watching a similar \"sun-shaped\" ball of light that was part of a December 2019 rocket launch:",
+      "image_captions": [
+        "Person, Human, Audience",
+        "Person, Human, Machine"
+      ]
+    },
+    {
+      "url": "https://www.dailymotion.com/video/x9zya72",
+      "page_title": "China's Artificial Sun - video Dailymotion",
+      "title": "Dailymotion",
+      "description": "",
+      "text": "Skip to player\nSkip to main content\nWatch fullscreen\nFont",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.dailymotion.com/video/x9yyj36",
+      "page_title": "China's Artificial Sun - video Dailymotion",
+      "title": "Dailymotion",
+      "description": "",
+      "text": "Skip to player\nSkip to main content\nWatch fullscreen\nFont",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.dailymotion.com/video/xa31hyq",
+      "page_title": "China's Artificial Sun - video Dailymotion",
+      "title": "Dailymotion",
+      "description": "",
+      "text": "Skip to player\nSkip to main content\nWatch fullscreen\nFont",
+      "image_captions": []
+    }
+  ],
+  "evidence_count": 5,
+  "crawled_at": "2026-04-23T16:49:20.023365+00:00"
+}

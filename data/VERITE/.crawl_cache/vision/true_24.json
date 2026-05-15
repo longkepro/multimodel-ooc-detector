@@ -1,0 +1,121 @@
+{
+  "sample_id": "true_24",
+  "image_url": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2021/03/graham-and-geert-1.jpg",
+  "visual_entities": [
+    {
+      "description": "Geert Wilders",
+      "score": 5.223
+    },
+    {
+      "description": "United States",
+      "score": 0.69525
+    },
+    {
+      "description": "United States Senator",
+      "score": 0.672
+    },
+    {
+      "description": "Politics",
+      "score": 0.6287
+    },
+    {
+      "description": "",
+      "score": 0.4635
+    },
+    {
+      "description": "Herschel Walker",
+      "score": 0.43695
+    },
+    {
+      "description": "US President",
+      "score": 0.405
+    },
+    {
+      "description": "",
+      "score": 0.3334
+    },
+    {
+      "description": "CNN",
+      "score": 0.3334
+    },
+    {
+      "description": "American History Tellers",
+      "score": 0.3306
+    }
+  ],
+  "best_guess_labels": [
+    "lindsey graham wilders"
+  ],
+  "similar_image_urls": [
+    "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2021/03/graham-and-geert-1.jpg",
+    "https://mediaproxy.snopes.com/width/600/https://media.snopes.com/2021/03/graham-and-geert-1.jpg",
+    "https://image.volkskrant.nl/156029423/feature-crop/1200/900/lindsay-graham-en-geert-wilders",
+    "https://image.volkskrant.nl/156029423/feature-crop/1200/1200/lindsay-graham-en-geert-wilders"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.snopes.com/fact-check/lindsey-graham-geert-wilders/",
+      "page_title": "Was Lindsey Graham Just Photographed with Geert Wilders?",
+      "title": "Was Lindsey Graham Just Photographed with Geert Wilders?",
+      "description": "Wilders is a far-right politician from the Netherlands.",
+      "text": "A picture supposedly showing Republican U.S. Sen. Lindsey Graham with Geert Wilders, a far-right politician from the Netherlands, was widely shared on social media in March 2021 along with a caption stating that the photograph had \"just\" been taken:\nThis is a genuine photograph of Graham and Wilders. However, it was not \"just\" taken.\nWilders, who has been accused of spreading racist and Islamophobic views (he once compared the Quran to Adolf Hitler's \"Mein Kampf\"), posted the photograph to Twitter in September 2019 along, with a caption explaining that it was taken at the Ambrosetti Forum, an annual international economic conference in Italy. Wilders quickly deleted it, but Washington Post reporter John Hudson managed to capture a screenshot of the original post:\nKevin Bishop, a spokesperson for Graham, confirmed at the time that the photograph was real. Bishop said that Graham took pictures with several people at the forum, and that he did not know why Wilders deleted the photograph.\nThe Washington Post reported at the time:\nKevin Bishop, a spokesman for Graham, said Sunday that the senator took pictures with many of the attendees at the forum and that Graham has no idea why Wilders deleted the tweet with the picture of them.\n“Mr. Wilder took a photo with Sen. Graham as did many others at the conference,” Bishop said, adding that he has “no idea why Mr. Wilder removed the photo from Twitter. You may want to ask him.”\nThis is a genuine photograph of Graham and Wilders. However, it was taken in 2019, not 2021. It should also be noted that being photographed with someone does not automatically mean that you share that person's views.",
+      "image_captions": [
+        "Lindsey Graham photographed with Geert Wilders"
+      ]
+    },
+    {
+      "url": "https://www.presidency.ucsb.edu/documents/graham-campaign-press-release-american-upbringing",
+      "page_title": "Graham Campaign Press Release - An American Upbringing",
+      "title": "Graham Campaign Press Release - An American Upbringing",
+      "description": "",
+      "text": "\"Now He's Ready To Take Those Leadership Skills To The White House\"\nFollowing today's announcement of his presidential campaign, Senator Lindsey Graham released the following web video, entitled \"An American Upbringing.\" The video highlights his life experiences, expertise in foreign policy and describes how his background makes him uniquely qualified to be Commander-in-Chief on day one.\nVIDEO SCRIPT:\n\"Some men are born leaders, others are tested, refined and forged through life's experiences.\n\"Lindsey Graham is both.\n\"Lindsey was born the son of a blue-collar family in the small town of Central in upstate South Carolina. His parents worked long hours to eke out a modest living running a tiny restaurant and liquor store.\n\"From a young age, Lindsey learned about hard work and the value of a dollar. Like small business owners everywhere, if Lindsey's parents didn't open the doors each day, they didn't get paid — there were no sick days, and very few vacations. It was here that Lindsey learned to pull his own weight - both by helping with the business, and helping raise his younger sister, Darline.\n\"Lindsey Graham was the first in his family to go to college. But, while attending the University of South Carolina, both of his parents tragically passed away.\n\"While most young men his age were enjoying campus life, Lindsey took on the added responsibility of traveling home weekends to work in the family business and help care for Darline. With his parents gone, Lindsey was committed to providing for his sister. He took that commitment a step further by legally adopting her when she was in high school and with the help of a loving aunt and uncle, Lindsey made sure she not only finished high school but earned her college degree.\n\"Despite these challenges and adversity, the work ethic he learned from his parents paid off; Lindsey graduated from USC with both a bachelor and law degree.\n\"Following law school, Graham joined the Air Force. After 6 and a half years on active duty as a JAG officer, he joined the South Carolina Air National Guard and served stateside during the first Gulf War. Graham wore the uniform for 33 years, retiring this year as a Colonel with the Air Force Reserves.\n\"First elected to the House of Representatives in 1994 and the Senate in 2002, Lindsey Graham has become the go-to-guy on Capitol Hill for national security and foreign policy issues, in part because of his military experience.\n\"He has served as a reserve duty officer in Iraq and Afghanistan and has been to the Middle East more than 20 times, gaining first-hand knowledge about ISIS, the Taliban and other terror groups that threaten our way of life.\n\"Because of his expertise on foreign policy issues, Lindsey Graham has been an outspoken critic of President Obama's failed foreign policy. His knowledge and experience makes him uniquely qualified to correct the mistakes of the past while providing the steady leadership and decision-making skills we need to keep America safe.\n\"A respected problem solver, Lindsey Graham is a true conservative who's willing to tackle any issue head on - whether it's fighting for the American taxpayer or protecting and defending our constitutional rights.\n\"Blue-collar upbringing, tireless work ethic, allegiance to family values, and a lifetime of military service, Lindsey Graham has lived the American dream - from sleeping in the backroom of a tiny restaurant to becoming a respected leader in the United States Senate. Now he is ready to take those leadership skills to the White House, to restore faith in America's exceptionalism, and our belief that the United States is still the leader... and best hope... for a free and safe world.\"\nLindsey Graham, Graham Campaign Press Release - An American Upbringing Online by Gerhard Peters and John T. Woolley, The American Presidency Project https://www.presidency.ucsb.edu/node/312556",
+      "image_captions": [
+        "uc santa barbara logo"
+      ]
+    },
+    {
+      "url": "https://www.cnn.com/videos/tv/2015/06/17/lindsey-graham-personal-story-intv-blitzer-tsr.cnn",
+      "page_title": "Graham grew up in a bar, lost parents at young age - CNN",
+      "title": "Graham grew up in a bar, lost parents at young age | CNN",
+      "description": "Sen. Lindsey Graham opens up about growing up in a segregated bar, and how he lost his parents at a young age.",
+      "text": "Video Ad Feedback\nGraham grew up in a bar, lost parents at young age\nSen. Lindsey Graham opens up about growing up in a segregated bar, and how he lost his parents at a young age.\n3:29\n• Source:\nCNN\nStories worth watching\n31 videos\nVideo Ad Feedback\nGraham grew up in a bar, lost parents at young age\nVideo Ad Feedback\nScientists spot mesmerizing creatures after iceberg snaps off ice shelf\nVideo Ad Feedback\nSee huge fire erupt after gas pipe bursts in Malaysia\nVideo Ad Feedback\nWatch: ‘Survivor’ contestant jumps into action to help co-competitor with autism\nRing camera captures the moment a small plane crashes into a home\nVideo Ad Feedback\nStephen Graham of 'Adolescence' says research took its co-writer down 'a lot of dark holes'\nVideo Ad Feedback\nThis is how astronauts’ bodies will have to adapt in return to Earth\nVideo Ad Feedback\nDriver narrowly escapes lightning strike on highway\nVideo Ad Feedback\nAstronauts greeted after returning from an unexpected nine-month stay in space\nVideo Ad Feedback\nCould humans live underwater? This UK startup thinks so\nVideo Ad Feedback\nEnthusiasts gather to watch the ‘blood moon.’ See what it looks like\nVideo Ad Feedback\n‘Survivor’ contestant and PE teacher goes on the show with a stutter. This is his message to his students\nVideo Ad Feedback\nFirst responders scramble to pull man from flooded car\nVideo Ad Feedback\nUS influencer has fled Australia after taking baby wombat from mother\nVideo Ad Feedback\n‘Nobody more important:’ Pilot walks out of cockpit to reassure passengers\nVideo Ad Feedback\nMaking thousands flipping furniture: a side hustle gone viral\nVideo Ad Feedback\n'No obligation to restore your funds.' The truth about crypto hacks\nVideo Ad Feedback\nVideo shows March snow storm sweep through the Midwest\nVideo Ad Feedback\nThree men rented a car on Turo to get to a baby shower. Then the police arrived\nVideo Ad Feedback\nSpectators capture video of debris from SpaceX explosion\nVideo Ad Feedback\nVideo shows LGBT+ cruise rescue refugee boat waving white flag\nVideo Ad Feedback\nTravel influencers tell CNN’s Will Ripley what they saw inside North Korea\nVideo Ad Feedback\nHear why Neil deGrasse Tyson didn’t want to be an astronaut as a young child\nVideo Ad Feedback\nSee rescuers rush to reach teenager trapped in mineshaft\nVideo Ad Feedback\nCat survives three weeks trapped in sofa during cross-country move\nVideo Ad Feedback\nSee the moment snowmobiler is found buried under avalanche\nVideo Ad Feedback\nOnly a 2-hour ferry from the US coast, explore crystal clear waters, conch salad and snorkel a shipwreck\nVideo Ad Feedback\n‘It’s 2025 and insurance just keeps getting worse’: Doctor’s video goes viral",
+      "image_captions": [
+        "jellyfish thumb 1.jpg",
+        "wide v2 clean.00_00_02_26.Still002.png",
+        "stephen graham thumb.jpg",
+        "250318_Gupta on Call.00_02_05_14.Still002.jpg",
+        "Sentinel seafloor scene.jpg"
+      ]
+    },
+    {
+      "url": "https://www.snopes.com/latest/?pagenum=599",
+      "page_title": "What's New | Page 599 | Snopes.com",
+      "title": "Did a Husband Fly Drone To Catch Cheating Wife at CVS?",
+      "description": "All the latest rumors, urban legends, myths and misinformation gathered together in one nifty list.",
+      "text": "Snopes\nNow available in the app store!\nOpen\nLog in to activate your ad-free access.\nIt looks like you might have a Snopes membership! Log in to enjoy your ad-free experience.\nLog In\nYou're browsing with fewer ads for the next 24 hours, thanks to our sponsor\n1440 Newsletter\n.\nLearn More\nSnopes Membership\nSearch\nMy Profile\nLogout\nSubmit a Rumor\nLatest\nTrending\nNews & Politics\nEntertainment\nFact Checks\nQuiz\nSections\nLatest\nTrending\nFact Checks\nNews\nCollections\nMore\nContact Us\nSubmit a Rumor\nArchives\nQuiz\nFactBot\nSubmit a Tip\nSnopes App\nNewsletters\nAbout Us\nCategories\nNews & Politics\nEntertainment\nScience & Technology\nLifestyle\nSnopes Membership\nLogin\nMy Profile\nLogout\nDonald Trump\nAI-generated Content\nPope Leo XIV\nJeffrey Epstein\nMelania Trump\nWhat's New\nThe latest fact checks and original reporting from Snopes' editorial team.\nDid a Husband Fly Drone To Catch Cheating Wife at CVS?\nWritten by:\nJordan Liles\nMarch 27, 2021\nDrone video showed a woman leaning down to kiss the driver of a car just seconds before she walk ...\nRead More\nDid Biden Leave Press Conference Podium as Reporter Asked a Question?\nWritten by:\nJessica Lee\nMarch 27, 2021\nSocial media chatter attempted to frame a few steps during Biden's first presidential news confe ...\nRead More\nDid Draining the Paris Canal for First Time in 200 Years Yield 'Frightening Finds'?\nWritten by:\nAlex Kasprak\nMarch 27, 2021\nA great headline does not always make for factual — or even interesting — reading.\nRead More\nConspiracy Theorists Try to Connect Ever Given Ship, Hillary Clinton, and Child Trafficking\nWritten by:\nDan Evon\nMarch 26, 2021\nNot all dots connect.\nRead More\nDid Biden Admin 'Urge Supreme Court to Let Cops Seize Guns From Homes With No Warrant'?\nWritten by:\nDan MacGuill\nMarch 26, 2021\nOnline articles offered their interpretations of Caniglia v. Strom, a case argued before the U.S ...\nRead More\nNo, Marwa Elselehdar Is Not Captain of Stuck Suez Canal Ship\nWritten by:\nBethania Palma\nMarch 26, 2021\nInternet trolls put a fake headline on a real story about Elselehdar's accomplishments.\nRead More\nDo Avon Reps Relocate Domestic Violence Survivors for Free?\nWritten by:\nNur Ibrahim\nMarch 26, 2021\nAlthough the cosmetics giant has committed to supporting anti-domestic violence initiatives in t ...\nRead More\nWhat Is 'Excited Delirium' and Why Is It Controversial?\nWritten by:\nBethania Palma\nMarch 26, 2021\nThe public most often sees the term invoked in news stories about cases involving deaths in poli ...\nRead More\nGeert Vanden Bossche Stokes Fear of COVID-19 Vaccine To Promote His Own Flawed 'Solution'\nWritten by:\nAlex Kasprak\nMarch 26, 2021\nAnti-vaccine activists are promoting a veterinarian's claim that the only way to prevent a futur ...\nRead More\nDid a Boat Block Traffic on a Florida Highway?\nWritten by:\nDan Evon\nMarch 26, 2021\nThe revenge of the boats has begun!\nRead More\nWas That 'Meteor' Above Seattle, Pacific Northwest Actually SpaceX's Falcon 9 Rocket?\nWritten by:\nDan Evon\nMarch 26, 2021\nA bright streak of light left many star-gazers curious.\nRead More\nDid Biden Tell Migrants 'Don't Come' to US-Mexico Border?\nWritten by:\nJessica Lee\nMarch 25, 2021\n\"Don't leave your town or city or community,\" the president said.\nRead More\nDid White House Press Corps Physically Stand for Biden at First News Conference?\nWritten by:\nMadison Dapcevich\nMarch 25, 2021\nA former Trump staffer speculated that such a “level of respect” could be “indicative of softbal ...\nRead More\nAre Amazon Workers Forced to Pee in Bottles?\nWritten by:\nBethania Palma\nMarch 25, 2021 (Updated: May 7, 2021)\nThe issue of reasonable ability to use the restroom for Amazon workers is an ongoing complaint.\nRead More\nDid Biden Say 'I Came Into the US Senate 120 Years Ago'?\nWritten by:\nJordan Liles\nMarch 25, 2021\nThe remark in question came during his first news conference of the new administration.\nRead More\nDementia: Is Processed Meat Another Risk Factor?\nWritten by:\nThe Conversation\nMarch 25, 2021\nStudies that examine an association between the consumption of a specific food and an increased ...\nRead More\nAre Global Sperm Counts and Penis Sizes Shrinking Drastically?\nWritten by:\nMadison Dapcevich\nMarch 25, 2021\nThe \"alarming decline\" may correspond with human exposure to a common class of chemicals found i ...\nRead More\nDid Sen. Cindy Hyde-Smith Say There Shouldn't Be Voting on Sunday Because of the Sabbath?\nWritten by:\nNur Ibrahim\nMarch 25, 2021 (Updated: March 26, 2021)\nDemocrats criticized state legislatures for developing new laws that they said disenfranchised v ...\nRead More\nIs the Puppy and Butterfly Video Real?\nWritten by:\nDan Evon\nMarch 25, 2021\nA viral video showed Emy the puppy and an unnamed butterfly.\nRead More\nDoes a Video Show a Trump Burger Restaurant in Texas?\nWritten by:\nDan MacGuill\nMarch 25, 2021\nIn March 2021, a popular TikTok video offered a tour of what appeared to be a burger joint dedic ...\nRead More\nPrevious\nNext\nPage: 599",
+      "image_captions": [
+        "A husband using a drone did not catch his cheating wife at CVS.",
+        "Biden walked away from podium at press conference",
+        "Poster, Advertisement, Person",
+        "Microphone, Electrical Device, Person",
+        "Architecture, Building, Pillar"
+      ]
+    },
+    {
+      "url": "https://www.snopes.com/tag/lindsey-graham/",
+      "page_title": "Lindsey Graham Articles | Snopes.com",
+      "title": "Does photo show Lindsey Graham holding bubble wand at Disney World?",
+      "description": "",
+      "text": "Snopes\nNow available in the app store!\nOpen\nLog in to activate your ad-free access.\nIt looks like you might have a Snopes membership! Log in to enjoy your ad-free experience.\nLog In\nYou're browsing with fewer ads for the next 24 hours, thanks to our sponsor\n1440 Newsletter\n.\nLearn More\nSnopes Membership\nSearch\nMy Profile\nLogout\nSubmit a Rumor\nLatest\nTrending\nNews & Politics\nEntertainment\nFact Checks\nQuiz\nSections\nLatest\nTrending\nFact Checks\nNews\nCollections\nMore\nContact Us\nSubmit a Rumor\nArchives\nQuiz\nFactBot\nSubmit a Tip\nSnopes App\nNewsletters\nAbout Us\nCategories\nNews & Politics\nEntertainment\nScience & Technology\nLifestyle\nSnopes Membership\nLogin\nMy Profile\nLogout\nDonald Trump\nAI-generated Content\nPope Leo XIV\nJeffrey Epstein\nMelania Trump\nLindsey Graham\nDoes photo show Lindsey Graham holding bubble wand at Disney World?\nWritten by:\nJoey Esposito\nApril 1, 2026\nGraham's spokesperson confirmed the picture's authenticity and said the senator was back in Sout ...\nRead More\nLindsey Graham once said Republican Party was 'killing all the right people'\nWritten by:\nRae Deng\nMarch 14, 2026\nAs the United States and Israel launched a war in Iran, social media users expressed outrage at ...\nRead More\nExamining Sascha Riley's audio recordings alleging abuse by Epstein, Trump\nWritten by:\nJordan Liles\nJan. 21, 2026\nNo credible evidence supported the allegations regarding Epstein, the president and other promin ...\nRead More\nLindsey Graham said, 'We're killing all the right people' referring to Republican Party\nWritten by:\nRae Deng\nNov. 5, 2025\nSocial media users expressed outrage over Graham's remarks at a Republican Jewish Coalition summ ...\nRead More\nLindsey Graham, Richard Blumenthal didn't spend $800K on hotels during Kyiv visit. We crunched the numbers\nWritten by:\nCindy Shan\nJune 5, 2025\nThe senators visited Kyiv on May 30, 2025, but the alleged $814,000 expense covered a State Depa ...\nRead More\nYes, Lindsey Graham said he supports Trump's bid for the papacy — as a joke\nWritten by:\nAnna Rascouët-Paz\nApril 30, 2025\nGraham was reacting to a comment by the president, who said in jest he'd like to be pope.\nRead More\nSen. Lindsey Graham Was Recorded Saying 'I Like to Cross Dress'?\nWritten by:\nJordan Liles\nOct. 2, 2023\nA video was shared on X that supposedly shows the senator saying, \"People call me 'Lady G' just ...\nRead More\nDid Lindsey Graham Say, 'The Russians Are Dying — It's the Best Money We've Ever Spent'?\nWritten by:\nJordan Liles\nMay 30, 2023\nA video supposedly showed the senator from South Carolina making the statement to Volodymyr Zele ...\nRead More\nDid Lindsey Graham Meet a Proud Boys Organizer Before Capitol Attack?\nWritten by:\nDan MacGuill\nJan. 14, 2021\nAfter the Jan. 6 assault on the Capitol, social media users highlighted a photograph of Graham w ...\nRead More\nDid Lindsey Graham Say Republicans Would Get 'Destroyed' if They Nominated Donald Trump?\nWritten by:\nDan Evon\nOct. 9, 2018\nSenator Lindsey Graham may have been one of President Trump's biggest supporters in 2018, but th ...\nRead More\nDid These GOP Politicians Propose or Endorse 'Sunsetting' Social Security and Medicare?\nWritten by:\nAlex Kasprak\nFeb. 9, 2023\nRick Scott, Mike Lee, Ron Johnson, Lindsey Graham, and Joni Ernst have each been the subject of ...\nRead More\nFaith and the Bench: A Look at Sen. Lindsey Graham's Questioning of Ketanji Brown Jackson\nWritten by:\nNur Ibrahim\nMarch 23, 2022\nDuring a tense, three-minute exchange, the Republican senator raised questions about Jackson's f ...\nRead More\nWas Lindsey Graham Just Photographed with Geert Wilders?\nWritten by:\nDan Evon\nMarch 23, 2021\nWilders is a far-right politician from the Netherlands.\nRead More\nDid US Sen. Graham Say Trump Knows More Than CDC About Medicine?\nWritten by:\nDan Evon\nMarch 2, 2020\nThe senator defended President Donald Trump's handling of the new coronavirus outbreak, but he d ...\nRead More\nDid Lindsey Graham Really Say This in 1998 About Presidential Impeachment?\nWritten by:\nDavid Mikkelson\nDec. 23, 2019\nThe U.S. senator from South Carolina is not exactly known for the consistency of his positions.\nRead More\nDid U.S. Sen. Lindsey Graham Once Say a Crime Isn't Required for Impeachment?\nWritten by:\nDan Evon\nSept. 30, 2019\nU.S. Sen. Lindsey Graham also argued a \"high crime\" was simply an important person hurting someo ...\nRead More\nDid Sen. Lindsey Graham Call Trump a 'Race-Baiting, Xenophobic Bigot' in 2015?\nWritten by:\nArturo Garcia\nAug. 28, 2018\nAn online graphic accurately quoted the South Carolina Republican disparaging his then-opponent ...\nRead More\nLindsey Graham Vows to 'Take Down' Trump?\nWritten by:\nBethania Palma\nJan. 5, 2017\nSen. Graham is pressuring incoming President Trump about taking action against Russia for intell ...\nRead More\nLindsey Graham Didn't Badmouth Republicans\nWritten by:\nDan Evon\nDec. 22, 2015\nLindsey Graham did not badmouth the Republican Party after dropping out of the 2016 presidential ...\nRead More\nPage: 1",
+      "image_captions": [
+        "Sen. Lindsey Graham, a white man, is pictured speaking.",
+        "Sen. Lindsey Graham, an older white man with short white hair in a yellow tie, stands among a throng of reporters and speaks.",
+        "U.S. Senator Lindsey Graham, a white man with combed back short white hair, stands in front of U.S. and Israel flags.",
+        "Two white men wearing dark suits stand next to each other. The one on the right appears to be speaking.",
+        "A white man wearing a blue suit smiles. To the left, a X post says, \"I was excited to hear that President Trump is open to the idea of being the next Pope. This would truly be a dark horse candidate, but I would ask the papal conclave and Catholic faithful to keep an open mind about this possibility!   The first Pope-U.S. President combination has many upsides. Watching for white smoke…. Trump MMXXVIII!\""
+      ]
+    }
+  ],
+  "evidence_count": 5,
+  "crawled_at": "2026-04-23T16:51:46.998917+00:00"
+}

@@ -1,0 +1,130 @@
+{
+  "sample_id": "true_154",
+  "image_url": "https://ca-times.brightspotcdn.com/dims4/default/7809257/2147483647/strip/true/crop/2047x1152+0+0/resize/1200x675!/format/webp/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F70%2Ffc%2Fe46e94c829faee3b68725d61c774%2Fla-1530735108-ru7qy19zda-snap-image",
+  "visual_entities": [
+    {
+      "description": "Elián González",
+      "score": 14.535
+    },
+    {
+      "description": "Alan Diaz",
+      "score": 8.553
+    },
+    {
+      "description": "Cuba",
+      "score": 1.05345
+    },
+    {
+      "description": "United States",
+      "score": 0.7083
+    },
+    {
+      "description": "",
+      "score": 0.7023
+    },
+    {
+      "description": "Bush v. Gore",
+      "score": 0.69659996
+    },
+    {
+      "description": "Politics",
+      "score": 0.6192
+    },
+    {
+      "description": "",
+      "score": 0.4722
+    },
+    {
+      "description": "Associated Press",
+      "score": 0.4501
+    },
+    {
+      "description": "",
+      "score": 0.4501
+    },
+    {
+      "description": "Young Communist League",
+      "score": 0.4469
+    },
+    {
+      "description": "National Assembly of People's Power",
+      "score": 0.3464
+    },
+    {
+      "description": "",
+      "score": 0.3267
+    },
+    {
+      "description": "CNN",
+      "score": 0.3267
+    }
+  ],
+  "best_guess_labels": [
+    "kenny elian gonzalez"
+  ],
+  "similar_image_urls": [
+    "https://www.theledger.com/gcdn/authoring/2017/12/01/NLED/ghows-LK-5f4d638d-e33f-6576-e053-0100007fed43-8ba6703f.jpeg?crop=4499,2543,x0,y281&width=3200&height=1809&format=pjpg&auto=webp",
+    "https://www.bostonherald.com/wp-content/uploads/migration/2000/04/22/071614elian.jpg?w=1600&resize=1600,900",
+    "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EU2PLBAPSUI6VESMWNGQTO6JJA.jpg&w=1600&h=900",
+    "https://pbs.twimg.com/media/HGEQByeWIAAprTC.jpg",
+    "https://www.theledger.com/gcdn/authoring/2017/12/01/NLED/ghows-LK-5f4d638d-e33f-6576-e053-0100007fed43-8ba6703f.jpeg?width=1200&disable=upscale&format=pjpg&auto=webp",
+    "https://media.cnn.com/api/v1/images/stellar/prod/230327200909-elian-gonzalez-held-in-a-closet.jpg?q=w_1110,c_fill",
+    "https://i.redd.it/rfxvmyr24bdg1.jpeg",
+    "https://preview.redd.it/ins-ice-didnt-use-to-wear-masks-most-famous-immigration-v0-rfxvmyr24bdg1.jpeg?auto=webp&s=01a8fc8168c1ad175c6ebcd9f9aac616c93c56ac",
+    "https://www.laprensa.hn/binrepository/984x648/0c0/0d0/none/11004/ACBD/Eliangonzalez_LP1337341_MG73330728.png",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10241009337306290"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.theguardian.com/world/elian-gonzalez",
+      "page_title": "Elián Gonzalez | The Guardian",
+      "title": "Elián Gonzalez",
+      "description": "Latest news, sport, business, comment, analysis and reviews from the Guardian, the world's leading liberal voice",
+      "text": "Elián Gonzalez\nFebruary 2023\nNovember 2016\nJuly 2010\nApril 2010\nFebruary 2010\nJuly 2000\nElian helps breach US-Cuba barriers\nThe drama of Elian Gonzalez's triumphal return to Cuba last week overshadowed another development in United States-Cuban relations that was admittedly less photogenic than the impish six-year-old castaway, but far more likely to change the lives of Elian's impoverished compatriots.",
+      "image_captions": [
+        "FILE - In this Aug. 13, 2016, file photo, Elian Gonzalez, the young Cuban rafter who was at the center of a bitter custody battle in 2000 between relatives in Miami and his father in Cuba, attends a gala for the 90th birthday of Cuban Leader Fidel Castro at the 'Karl Marx' theater in Havana, Cuba. Gonzalez returned to the public eye Sunday to praise the leader who died on Friday, Nov. 25, and fought to return him to Cuba. (Ismael Francisco, Cubadebate via AP, File)",
+        "Fidel Castro with Elián González",
+        "Elian Gonzalez, held by Donato Dalrymple, is taken by U.S. federal agents",
+        "Raul Castro, Elian Gonzalez",
+        "Elian Gonzalez holds a Cuban flag during the Union of Young Communists congress in Havana."
+      ]
+    },
+    {
+      "url": "https://www.cnn.com/2023/03/27/americas/elian-gonzalez-elected-cuban-lawmaker-intl",
+      "page_title": "What Elian Gonzalez wants for Cuba - CNN",
+      "title": "What Elian Gonzalez wants for Cuba | CNN",
+      "description": "More than two decades after he was found clinging to an inner tube in the Straits of Florida, Elián González is taking on his most high profile role since the bitter custody battle that returned him to Cuba.",
+      "text": "More than two decades after he was found clinging to an inner tube in the Straits of Florida, Elián González is taking on his most high profile role since the bitter custody battle that returned him to Cuba.\nOn Monday, Cuba’s National Election Council said that the 470 candidates for the island’s National Assembly – González included—were approved by voters. More than 89% of voters in González’s hometown of Cárdenas voted for him, according to officials.\nThere was little doubt about the final result; candidates are pre-selected and run unopposed. And being a lawmaker in Cuba does not necessarily imply having a lot of power. Legislators only meet a few times a year, invariably support government proposals and are not even paid.\nBut González’s new position signals that he will be more visible at a time when the Cuban government badly needs representatives with name recognition abroad, as well as among younger Cubans who are leaving the island in record numbers.\n“I am someone the American people know and I can help bring the American and Cuban people together and not just the people,” a now-bearded González, 29, told CNN.\n“That our governments reach an understanding and remove all the barriers between us. Our country doesn’t have any sanctions on the United States.”\nGonzález spoke with CNN after going to vote on Sunday with his wife and their two-year-old daughter in Cárdenas, which, like many small cities in Cuba, has been ravaged by economic calamity: harsher US sanctions, the sluggish pace of reforms by the communist-run government, a pandemic that scared off tourists and inflation that has made state salaries nearly worthless.\nHaving a daughter, González said, gave him a new perspective on the decisions his own father Juan Miguel made when in 1999 Elián’s mother drowned after attempting to take him with a group of migrants on the dangerous journey by boat across the Florida Straits.\n“It’s helped me to understand my father,” he said. “It’s made me more sensitive. It’s helped me understand how all the Cubans feel who are separated from their families and fathers who aren’t able to give all the attention and things their children want.”\nAfter being rescued, González was placed with relatives in Miami.\nNews of his miraculous survival led many in Miami’s anti-Castro exile community to argue that the wishes of González’s mother should be honored and the boy needed to stay in Florida.\nThe dispute ignited Cold War-era passions, with then-Cuban President Fidel Castro leading protests demanding Elián’s return in front of the US Embassy in Havana, and Cuban exile leaders vowing that they would not allow the boy to return to live under a dictatorship.\nFinally, after Elián’s father Juan Miguel traveled to Washington DC, US courts backed his requests to be reunited with his son.\nA nighttime raid on his relatives’ home in Miami by armed federal agents sparked riots in the city and returned Elián to his father. When the US Supreme Court declined to intervene in the case, Elián and Juan Miguel traveled back to the island.\nIn Cuba, the now-famous González and his family led a not entirely normal life. Fidel Castro came to the boy’s birthday parties in Cárdenas and the family had bodyguards. Elián went to a military school and studied engineering.\nWhen he did grant infrequent interviews he voiced support for the revolution, which many in Miami said was proof Elián had been brainwashed and should never have been allowed to go back to Cuba.\n“At 29, he is a show pony for Cuba, as many exiles feared,” said an opinion article published by the Miami Herald Editorial Board in February. “Many historic Cuban exiles in Miami will look away from this news with heavy hearts.”\nEven as González has grown up and moved on, the anger between those loyal to the revolution and Cuba exiles forced to leave the island still burns white hot.\nAt a World Baseball Classic game in Miami in March that in theory was intended to bring different countries together over a shared love of sport, exiles jeered the Cuban players on the field.\nOfficials in Havana responded that the exiles were “worms,” an epithet that Fidel Castro flung at Cubans leaving the island.\nMore than sixty years after the Cuban revolution, as the island inches nearer to economic ruin and exiles are no closer to returning home, it’s difficult for either side to really believe they are winning.\nGonzález is perhaps the only Cuban who has been inside the centers of power in both Miami and Havana, seeing how those who run Cuba, and those who lost it, think and function.\nDespite being thrust into the middle of that bruising tug of war, González said he bears no ill will, that he’s grateful for the Americans who helped him get home and that he hopes to reconcile with the relatives in Florida who tried to prevent his return.\nAnd as a rare Cuban who has left and come back, he hopes the exodus of Cubans currently leaving the island will also be able to see a future in their homeland.\n“What we want one day is Cuban exiles are no longer exiled, that they come home,” González said. “When the young people that have left are willing to work for Cuba, the well-being of Cubans beyond a political party and beyond ideologies,” he said. “Our doors are open to build a better country which is what we need.”",
+      "image_captions": [
+        "Adalberto Roque/Pool/Reuters",
+        "Monroe County Sheriff's Office",
+        "Matias J. Ocner/Miami Herald/AP",
+        "Cristobal Herrera-Ulashkevich/EPA-EFE/Shutterstock",
+        "Carlos Garcia Rawlins/Reuters"
+      ]
+    },
+    {
+      "url": "https://www.ap.org/media-center/ap-in-the-news/2017/alan-diaz-ap-photographer-behind-elian-image-to-retire/",
+      "page_title": "Alan Diaz, AP photographer behind Elian image, to retire",
+      "title": "Alan Diaz, AP photographer behind Elian image, to retire | The Associated Press",
+      "description": "In this April 22, 2000, photo by AP photojournalist Alan Diaz, Elian Gonzalez is held in a closet by Donato Dalrymple, right, as government officials",
+      "text": "By JENNIFER KAY, The Associated Press\nMIAMI (AP) — Associated Press photojournalist Alan Diaz, whose coverage of a 6-year-old Cuban boy named Elian Gonzalez earned him the Pulitzer Prize, is retiring after 17 years.\nDiaz’s iconic image shows an armed U.S. immigration agent confronting the terrified boy in the Little Havana home where he lived with relatives for months after being found floating in the waters off Florida.\nDiaz agreed to an interview about his career on one condition: He’d only talk over cafecito in Little Havana.\nThe Miami neighborhood is the heart of the Cuban-American community. It’s where Diaz started his U.S. photography career. It’s where he earned a Pulitzer Prize. It’s home.\n“The Cuban story is a fantastic story,” he said over Cuban coffee at the landmark Versailles restaurant in late October. “Just to see the people, how they’re passionate. I love this story.”\nDiaz will retire Dec. 1.\nHe was freelancing for AP when a boater found a 5-year-old Cuban boy floating in an inner tube in the waters off Fort Lauderdale on Thanksgiving Day 1999.\nHe would be the only photojournalist to capture the moment five months later when U.S. immigration agents ended a bitter international custody battle with a pre-dawn Good Friday raid, pulling a terrified Elian Gonzalez from his uncle’s Little Havana home so he could be returned to his father in Cuba.\nDiaz said he was just in the right place at the right time.\nHe had spent months chatting with Gonzalez’s relatives and neighbors over cafecito and cigarettes, earning their trust by respecting an order from the boy’s uncle to not speak to the child.\nDiaz was there as the boy lived a normal life: hanging Christmas decorations, celebrating his 6th birthday, going to school and playing in the fenced-in yard not far from Miami’s famous Calle Ocho.\nHis constant presence also allowed him to pick up clues that the boy’s time in Miami was coming to an end: the large number of black vehicles gathered at a nearby high school, a man claiming to be a journalist but only wanting to know the layout of the house, praise from plainclothes police officers that sounded suspiciously like a farewell.\nWhen he heard a radio call that the raid had begun, Diaz jumped a fence and was ushered into the house by a friend of Gonzalez’s relatives. Huddled with relatives in a bedroom, the terrified boy asked Diaz, “What’s happening? What’s happening?” Aiming his camera at the bedroom door, Diaz tried to soothe the child, saying, “Nothing’s happening, it’s going to be all right.”\nMoments later, armed federal agents wearing tactical gear burst inside to find the crying boy in the arms of the Cuban boater who had rescued him. Diaz later handed off his memory card without checking the images in the screen on the back of his digital camera — he just called AP’s photo editor in Miami and said, “I got the shot.”\nAfter the image hit the wires and network television news, Diaz saw how both Cuban leader Fidel Castro and Cuban-American community leaders used it to argue that the other side was brutal and heartless.\n“I have no opinion on it. I shot the moment. That’s all,” Diaz said. “Good or bad, that’s what happened that morning.”\nAP hired Diaz as a staff photographer two months after the raid, sending him to cover sporting events such as the Super Bowl, hurricanes, the aftermath of Sept. 11, elections and breaking news. After winning the Pulitzer Prize in 2001, he was awed by the celebration from his heroes in photojournalism.\n“Joe Rosenthal wanted to meet me? Wow,” Diaz said, still shaking his head at being honored by the AP photojournalist who produced the iconic image of U.S. Marines and a Navy sailor raising the American flag over Iwo Jima.\nDiaz was born in New York to Cuban parents. He spent his adolescence in Cuba, where he studied photography with Alberto Korda, whose 1960 portrait of Marxist revolutionary Che Guevara became one of the most reproduced images in history.\nIn 1978, he moved to Miami and began shooting in Little Havana for Cuban-American organizations and publications. One memorable assignment was a meeting of leaders of anti-Castro efforts and Frank Sturgis, one of the Watergate burglars, who had fought alongside Castro in Cuba before turning against him.\nDiaz may be retiring, but he says he’s not giving up his Little Havana routine: cafecito and spirited conversations tracking the latest Cuban passions.\n“They’re very emotional about things — everything. From baseball to Castro to the government. Like, their food is the best in the world, their baseball is the best in the world. When it comes to their problems, you know, they have the biggest problems in the world.”",
+      "image_captions": [
+        "In this April 22, 2000, photo by AP photojournalist Alan Diaz, Elian Gonzalez is held in a closet by Donato Dalrymple, right, as government officials search for the boy in his relative’s home in Miami. (AP Photo/Alan Diaz)",
+        "Alan Diaz poses at Domino Park on Calle Ocho in the Little Havana neighborhood of Miami, Nov. 8, 2017. (AP Photo/Wilfredo Lee)",
+        "Donato Dalrymple, Elian Gonzalez",
+        "Choose a snippet image"
+      ]
+    },
+    {
+      "url": "https://www.wnyc.org/story/15-years-later-how-elian-gonzalez-helped-change-us-cuba-relations/",
+      "page_title": "15 Years Later, How Elián González Helped Change U.S.-Cuba ...",
+      "title": "15 Years Later, How Elián González Helped Change U.S.-Cuba Relations | WNYC | New York Public Radio, Podcasts, Live Streaming Radio, News",
+      "description": "It was a story that riveted the nation: a 5-year-old boy was found drifting in the waters off Florida after his mother drowned while trying to escape communist Cuba. The U.S., following international law, prepared to return the boy Elián González to his father in Cuba, sparking outrage in much of Miami’s anti-Communist Cuban-American community, which demanded Elián stay in Miami with his relatives. Tim Padgett of Here & Now contributing station WLRN in Miami reports on how the situation affected the Cuban-American community and may have ultimately led to U.S.-Cuba normalization today. Read more on this story via WLRN ...",
+      "text": "It looks like there's an issue with JavaScript in your browser.\nFor a better experience, we recommend that you enable JavaScript. Go to\nhttps://www.whatismybrowser.com/guides/how-to-enable-javascript/\nto learn more.",
+      "image_captions": []
+    }
+  ],
+  "evidence_count": 4,
+  "crawled_at": "2026-04-23T17:36:13.238488+00:00"
+}

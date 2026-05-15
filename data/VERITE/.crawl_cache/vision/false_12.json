@@ -1,0 +1,85 @@
+{
+  "sample_id": "false_12",
+  "image_url": "https://i.ytimg.com/vi/3q8n1dzBU0M/maxresdefault.jpg",
+  "visual_entities": [
+    {
+      "description": "Jet aircraft",
+      "score": 1.07055
+    },
+    {
+      "description": "McDonnell Douglas F-15 Eagle",
+      "score": 1.03965
+    },
+    {
+      "description": "Aircraft",
+      "score": 0.71385
+    },
+    {
+      "description": "Truck",
+      "score": 0.7007
+    },
+    {
+      "description": "Shockwave",
+      "score": 0.6119
+    },
+    {
+      "description": "Airplane",
+      "score": 0.60389996
+    },
+    {
+      "description": "Semi-trailer truck",
+      "score": 0.5948
+    },
+    {
+      "description": "HAL Tejas",
+      "score": 0.5166
+    },
+    {
+      "description": "Trailer",
+      "score": 0.3749
+    },
+    {
+      "description": "Towing",
+      "score": 0.3513
+    },
+    {
+      "description": "Air force",
+      "score": 0.3405147
+    },
+    {
+      "description": "Semi-trailer",
+      "score": 0.3403
+    },
+    {
+      "description": "Military aircraft",
+      "score": 0.3163
+    }
+  ],
+  "best_guess_labels": [
+    "truck carrying jet"
+  ],
+  "similar_image_urls": [
+    "https://i.ytimg.com/vi/sqAD412r8do/maxresdefault.jpg",
+    "https://i.ytimg.com/vi/3q8n1dzBU0M/maxresdefault.jpg",
+    "https://media.licdn.com/dms/image/v2/D4E22AQFI2B5uyh3oTA/feedshare-shrink_800/B4EZmIA.ngIUAg-/0/1758923582625?e=2147483647&v=beta&t=vXWYxaOKEXj0rsqs2mnMJnnatWFYazTMS05QIh_juBU",
+    "https://i.ytimg.com/vi/3q8n1dzBU0M/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA6L0le_nUM-CpppWk5s1t4YmkMWA"
+  ],
+  "evidence": [
+    {
+      "url": "https://defence.pk/threads/tejas-story-of-a-pie-in-the-sky.414403/page-5",
+      "page_title": "Tejas : Story of a pie in the sky. | Page 5 - Pakistan Defence",
+      "title": "Tejas : Story of a pie in the sky.",
+      "description": "This is a report by Comptroller and Auditor General (CAG) of India,an independent,constitutional body. Too much for you to comprehend ? Dont BS, we know India loves to make things up and use those institution name as cover up. Those instituition can claim how independent they are. End of the...",
+      "text": "Well sir,the fact is that CAG never says that Tejas is only 35% indigenous,in fact in they give the indigenous content as 61% in the annexure of the same report.Its a claim taken out of the context.\nCAG says if the use of imported components in the Indian developed & manufactured LRUs is considered,the indigenous content would come as 35%.Fair enough,our industrial infrastructure is not as advanced as developed as some of the developing countries. WE can't expect Team LCA to set up a semiconductor fab facility,can we ?\nNo one would say Gripen is anyless Swedish,because it uses Motorola & TI processors in its FCS system.",
+      "image_captions": [
+        "The+PAF%25E2%2580%2599s+IL-78MKPs+were+spotted+at+Chengdu+three+days+ago+for+loading+the+CAC-built+JF-17s+in+semi-knocked-down+condition+and+ferry-flying+them+to+PAC+Kamra+%25281%2529.jpg",
+        "Super Commando Dhruva",
+        "779f112b130b1379555ebb1746f3c40c.jpg",
+        "ffc1e280-fbd2-4908-a587-f0928e636bea.jpg",
+        "467332766-combat-drone-burraq-is-displayed-during-the-gettyimages.jpg"
+      ]
+    }
+  ],
+  "evidence_count": 1,
+  "crawled_at": "2026-04-23T16:48:11.495875+00:00"
+}

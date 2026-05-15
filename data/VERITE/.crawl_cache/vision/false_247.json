@@ -1,0 +1,83 @@
+{
+  "sample_id": "false_247",
+  "image_url": "https://images.indianexpress.com/2022/11/Brazil_Elections_1200.jpg",
+  "visual_entities": [
+    {
+      "description": "Bobby Womack",
+      "score": 5.9055
+    },
+    {
+      "description": "Stroad",
+      "score": 0.9672
+    },
+    {
+      "description": "Road",
+      "score": 0.7189
+    },
+    {
+      "description": "Street",
+      "score": 0.7005
+    },
+    {
+      "description": "Doja Cat",
+      "score": 0.6819
+    },
+    {
+      "description": "Streets",
+      "score": 0.6415
+    },
+    {
+      "description": "YouTube",
+      "score": 0.5627
+    },
+    {
+      "description": "",
+      "score": 0.5627
+    },
+    {
+      "description": "Music video",
+      "score": 0.4441
+    },
+    {
+      "description": "YouTube Music",
+      "score": 0.4088
+    },
+    {
+      "description": "San Francisco Street",
+      "score": 0.3927
+    },
+    {
+      "description": "Word",
+      "score": 0.3829
+    },
+    {
+      "description": "Arterial road",
+      "score": 0.3743
+    }
+  ],
+  "best_guess_labels": [
+    "street"
+  ],
+  "similar_image_urls": [
+    "https://images.theconversation.com/files/493939/original/file-20221107-13-qdc689.jpg?ixlib=rb-4.1.0&q=45&auto=format&w=754&fit=clip",
+    "https://www.lanacion.com.ar/resizer/v2/manifestaciones-de-camioneros-en-las-afueras-de-EIBT2TQCNZF7FBUWVCOJJHVJQU.JPG?auth=6b791733dcc24d7f1799a5eba7c2735423407fc92c2bd38e2f91128098e74c42&width=1200&height=1200&quality=70&smart=true"
+  ],
+  "evidence": [
+    {
+      "url": "https://music.apple.com/us/artist/street/1528338295",
+      "page_title": "‎Street - Apple Music",
+      "title": "Street on Apple Music",
+      "description": "Listen to music by Street on AppleÂ Music.",
+      "text": "Search\nHome\nNew\nRadio\nSearch\nOpen in Music\nStreet\nTop Songs\nBeautiful Day (feat. Street)\nBeautiful Day (feat. Street) - SingleâÂ·â2026\nCOMECEI A CORRER (feat. Street)\nDESORDEM - EPâÂ·â2025\nRide Or Die (feat. Street)\nRide Or Die (feat. Street) - SingleâÂ·â2025\nOpen Season (feat. Street)\nHead Space: The JourneyâÂ·â2025\nChapter Six (Making Playz) (feat. Street)\nBook of TrappingâÂ·â2024\nTwin Flow (feat. Street)\nTrappaholic - EPâÂ·â2024\nCertain Way (feat. Oski & Street)\nStikkup WayâÂ·â2024\nmoney comin in (feat. STREET)\nmoney comin in (feat. STREET) - SingleâÂ·â2024\nSpace cowboys (feat. Street, pooks gambino, skeet jones & luckey)\nBeach HouseTrappinâÂ·â2024\nBang it (feat. Aybe & Street)\nBang it (feat. Aybe & Street) - SingleâÂ·â2023\nTrap Out the Kitchen (feat. Street)\nOtherside of Fear (EP)âÂ·â2023\nFeelin Right (feat. Street)\nRich BanditâÂ·â2023\nBlood Brothers (feat. Street)\nNo Beat Safe 6âÂ·â2022\nSingles & EPs\nFlow - Single\nFlow - Single\n2021\nMadrugada (feat. Gone) - Single\nMadrugada (feat. Gone) - Single\n2021\nEstas en Duda - Single\nEstas en Duda - Single\n2014\nAppears On\nBeautiful Day (feat. Street) - Single\nBeautiful Day (feat. Street) - Single\nLDRussell\nRide Or Die (feat. Street) - Single\nRide Or Die (feat. Street) - Single\nDoc Dvyne\nmoney comin in (feat. STREET) - Single\nmoney comin in (feat. STREET) - Single\nOTBSTACKZ\nBang it (feat. Aybe & Street) - Single\nBang it (feat. Aybe & Street) - Single\nRamz Nic\nSoy AsÃ (feat. Street) - Single\nSoy AsÃ (feat. Street) - Single\nChiko Nigga Bae\nObjetivos (feat. C.H.Tres, Mercurio God Power, Tazmaniac 33 & Street) - Single\nObjetivos (feat. C.H.Tres, Mercurio God Power, Tazmaniac 33 & Street) - Single\nAka Ros\nMe Llama (feat. Street, Ronald & L.A.V.A) - Single\nMe Llama (feat. Street, Ronald & L.A.V.A) - Single\nJM\nSimilar Artists\nStreet\nStreet\nPuru\nMissionary\nsatella\nsky_delta\nAoi\nNoah\nUjico\nZEKK\nSelect a country or region\nAfrica, Middle East, and India\nSee All\nAlgeria\nAngola\nArmenia\nAzerbaijan\nBahrain\nBenin\nBotswana\nCameroun\nCape Verde\nChad\nCÃ´te dâIvoire\nCongo, The Democratic Republic Of The\nEgypt\nEswatini\nGabon\nGambia\nGhana\nGuinea-Bissau\nIndia\nIraq\nIsrael\nJordan\nKenya\nKuwait\nLebanon\nLiberia\nLibya\nMadagascar\nMalawi\nMali\nMauritania\nMauritius\nMorocco\nMozambique\nNamibia\nNiger (English)\nNigeria\nOman\nQatar\nCongo, Republic of\nRwanda\nSaudi Arabia\nSenegal\nSeychelles\nSierra Leone\nSouth Africa\nSri Lanka\nTajikistan\nTanzania, United Republic Of\nTunisia\nTurkmenistan\nUnited Arab Emirates\nUganda\nYemen\nZambia\nZimbabwe\nAsia Pacific\nSee All\nAustralia\nBhutan\nCambodia\nä¸å½å¤§é\nFiji\né¦æ¸¯\nIndonesia (English)\næ¥æ¬\nKazakhstan\nëíë¯¼êµ\nKyrgyzstan\nLao People's Democratic Republic\næ¾³é\nMalaysia (English)\nMaldives\nMicronesia, Federated States of\nMongolia\nMyanmar\nNepal\nNew Zealand\nPapua New Guinea\nPhilippines\nSingapore\nSolomon Islands\nå°ç£\nThailand\nTonga\nTurkmenistan\nUzbekistan\nVanuatu\nVietnam\nEurope\nSee All\nArmenia\nÃsterreich\nBelarus\nBelgium\nBosnia and Herzegovina\nBulgaria\nCroatia\nCyprus\nCzechia\nDenmark\nEstonia\nFinland\nFrance (FranÃ§ais)\nGeorgia\nDeutschland\nGreece\nHungary\nIceland\nIreland\nItalia\nKosovo\nLatvia\nLithuania\nLuxembourg (English)\nMalta\nMoldova, Republic Of\nMontenegro\nNederland\nNorthÂ Macedonia\nNorway\nPoland\nPortugal (PortuguÃªs)\nRomania\nÐ Ð¾ÑÑÐ¸Ñ\nSerbia\nSlovakia\nSlovenia\nEspaÃ±a\nSverige\nSchweiz\nTÃ¼rkiye (English)\nUkraine\nUnited Kingdom\nLatin America and the Caribbean\nSee All\nAnguilla\nAntigua and Barbuda\nArgentina (EspaÃ±ol)\nBahamas\nBarbados\nBelize\nBermuda\nBolivia (EspaÃ±ol)\nBrasil\nVirgin Islands, British\nCayman Islands\nChile (EspaÃ±ol)\nColombia (EspaÃ±ol)\nCosta Rica (EspaÃ±ol)\nDominica\nRepÃºblica Dominicana\nEcuador (EspaÃ±ol)\nEl Salvador (EspaÃ±ol)\nGrenada\nGuatemala (EspaÃ±ol)\nGuyana\nHonduras (EspaÃ±ol)\nJamaica\nMÃ©xico\nMontserrat\nNicaragua (EspaÃ±ol)\nPanamÃ¡\nParaguay (EspaÃ±ol)\nPerÃº\nSt. Kitts and Nevis\nSaint Lucia\nSt. Vincent and The Grenadines\nSuriname\nTrinidad and Tobago\nTurks and Caicos\nUruguay (English)\nVenezuela (EspaÃ±ol)\nThe United States and Canada\nSee All\nCanada (English)\nCanada (FranÃ§ais)\nUnited States\nEstados Unidos (EspaÃ±ol MÃ©xico)\nØ§ÙÙÙØ§ÙØ§Øª Ø§ÙÙ ØªØØ¯Ø©\nÐ¡Ð¨Ð\nç¾å½ (ç®ä½ä¸æ)\nÃtats-Unis (FranÃ§ais France)\në¯¸êµ\nEstados Unidos (PortuguÃªs Brasil)\nHoa Ká»³\nç¾å (ç¹é«ä¸æå°ç£)",
+      "image_captions": [
+        "Madrugada (feat. Gone) - Single",
+        "Estas en Duda - Single",
+        "Beautiful Day (feat. Street) - Single",
+        "Ride Or Die (feat. Street) - Single",
+        "money comin in (feat. STREET) - Single"
+      ]
+    }
+  ],
+  "evidence_count": 1,
+  "crawled_at": "2026-04-23T18:02:44.260236+00:00"
+}

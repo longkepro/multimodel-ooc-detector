@@ -1,0 +1,76 @@
+{
+  "sample_id": "true_307",
+  "image_url": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2016/07/hydrant.jpg",
+  "visual_entities": [
+    {
+      "description": "Fire hydrant",
+      "score": 0.898
+    },
+    {
+      "description": "Fire",
+      "score": 0.7259
+    },
+    {
+      "description": "Firefighter",
+      "score": 0.5329
+    },
+    {
+      "description": "Water",
+      "score": 0.5196
+    },
+    {
+      "description": "Hose",
+      "score": 0.4237
+    },
+    {
+      "description": "available",
+      "score": 0.4156
+    }
+  ],
+  "best_guess_labels": [
+    "man falls on fire hydrant"
+  ],
+  "similar_image_urls": [
+    "https://mediaproxy.snopes.com/width/1200/height/900/https://media.snopes.com/2016/07/hydrant.jpg",
+    "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2016/07/hydrant.jpg",
+    "https://www.ocregister.com/wp-content/uploads/migration/o38/o38ayg-kkkrally.jpg?w=620",
+    "https://www.ocregister.com/wp-content/uploads/migration/o3a/o3afy0-b88652285z.120160228184927000gbif3fcp.10.jpg?w=620",
+    "https://mediaproxy.snopes.com/width/600/https://media.snopes.com/2016/07/hydrant.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://news.yahoo.com/neighbors-colerain-township-startled-man-032100318.html",
+      "page_title": "Neighbors in Colerain Township startled after man crashes into fire ...",
+      "title": "Neighbors in Colerain Township startled after man crashes into fire hydrant, streets flood",
+      "description": "Neighbors in Colerain Township startled after man crashes into fire hydrant, streets flood",
+      "text": "Neighbors in Colerain Township startled after man crashes into fire hydrant, streets flood\nUpdated\nNeighbors in Colerain Township startled after man crashes into fire hydrant, streets flood\nNeighbors in Colerain Township startled after man crashes into fire hydrant, streets flood",
+      "image_captions": [
+        "Download app from App Store",
+        "Download app from Google Play"
+      ]
+    },
+    {
+      "url": "https://www.snopes.com/fact-check/pride-parade-fire-hydrant/",
+      "page_title": "Pride Parade Fire Hydrant Mishap - Snopes.com",
+      "title": "Pride Parade Fire Hydrant Mishap",
+      "description": "An image depicts a man stabbed at a clash between KKK members and opponents, not a Pride attendee who attempted to stimulate himself with a fire hydrant.",
+      "text": "Yearly Pride festivities were marked on 26 June 2016 in a number of cities, less than a month after President Obama issued the first Presidential Proclamation officially recognizing June 2016 as LGBT Pride Month. The following day, a Twitter user tweeted a photograph of a bloody fire hydrant along with a caption (\"man tries to fit entire fire hydrant in ass during #Pride2016 festivities\") that the person being attended to by police had been injured during an attempt to sexually stimulate himself in public at a Pride parade:\nThe tweet gained significant traction and moved to other social media platforms, as seen in the above-reproduced screenshot. At first glance the claim appeared to be insinuating that gay men at Pride events engage in wanton and uncontrolled displays of lust, but the viral tweet also encompassed shades of much older urban legends regarding the dangers of unchecked female sexual agency.\nIrrespective of its social and folkloric elements, the image supposedly depicting an overenthusiastic Pride attendee's unfortunate encounter with a fire hydrant was unaltered, but it was also entirely misrepresented. The photograph was easily found amid myriad news stories that had nothing to do with a Pride event or gay men; rather, it originated with an altercation between Ku Klux Klan protesters and counter-protesters in Anaheim, California, in February 2016:\nThe fire hydrant was splattered with blood during the course of the fight, during which three individuals were stabbed in its vicinity. It was never determined whether the injured man whom police were attending was a KKK protester or a counter-protester, but he was certainly not a June 2016 Pride attendee.",
+      "image_captions": [
+        "KKK fire hydrant stabbing"
+      ]
+    },
+    {
+      "url": "https://www.snopes.com/tag/kkk/?pagenum=3",
+      "page_title": "Ku Klux Klan Articles | Page 3 | Snopes.com",
+      "title": "Pride Parade Fire Hydrant Mishap",
+      "description": "",
+      "text": "Snopes\nNow available in the app store!\nOpen\nLog in to activate your ad-free access.\nIt looks like you might have a Snopes membership! Log in to enjoy your ad-free experience.\nLog In\nYou're browsing with fewer ads for the next 24 hours, thanks to our sponsor\n1440 Newsletter\n.\nLearn More\nSnopes Membership\nSearch\nMy Profile\nLogout\nSubmit a Rumor\nLatest\nTrending\nNews & Politics\nEntertainment\nFact Checks\nQuiz\nSections\nLatest\nTrending\nFact Checks\nNews\nCollections\nMore\nContact Us\nSubmit a Rumor\nArchives\nQuiz\nFactBot\nSubmit a Tip\nSnopes App\nNewsletters\nAbout Us\nCategories\nNews & Politics\nEntertainment\nScience & Technology\nLifestyle\nSnopes Membership\nLogin\nMy Profile\nLogout\nDonald Trump\nAI-generated Content\nPope Leo XIV\nJeffrey Epstein\nMelania Trump\nKu Klux Klan\nPride Parade Fire Hydrant Mishap\nWritten by:\nKim LaCapria\nJuly 1, 2016\nAn image depicts a man stabbed at an altercation between KKK members and opponents, not a Pride ...\nRead More\nJudge Curiel a Member of 'Latino KKK Hate Group' Called 'La Raza'?\nWritten by:\nDan Evon\nJune 9, 2016\nJudge Curiel is a member of the San Diego La Raza Lawyers Association, not a \"Latino KKK\" hate g ...\nRead More\nSenator Robert Byrd in Ku Klux Klan Garb?\nWritten by:\nDan Evon\nJune 8, 2016\nA photograph purportedly showing former Senator Robert Byrd in Klan robes has been digitally man ...\nRead More\nKlan Leader Endorses Trump for President\nWritten by:\nBrooke Binkowski\nMay 2, 2016\nThe endorsement came during a wide-ranging interview with a Richmond, Virginia news outlet.\nRead More\nKKK Endorses Hillary Clinton\nWritten by:\nKim LaCapria\nApril 29, 2016\nIt's highly improbable that a Ku Klux Klan leader endorsed Hillary Clinton for president and/or ...\nRead More\nKKK Members Commit Mass Suicide Over New Currency\nWritten by:\nDan Evon\nApril 22, 2016\nA story that Klan members committed suicide after announcements that Harriet Tubman's image woul ...\nRead More\nCoca-Cola Isn't Selling a 'Share a Coke with the KKK' Bottle\nWritten by:\nDan Evon\nMarch 2, 2016\nArtwork from an online protest asking Coca-Cola not to sponsor the 2016 Republican National Conv ...\nRead More\nDid Donald Trump Supporters Wear KKK Robes to the Nevada Caucus?\nWritten by:\nDan Evon\nFeb. 24, 2016\nWhile photos show two people in Ku Klux Klan robes showing support for Donald Trump at the Nevad ...\nRead More\nAnonymous OpKKK\nWritten by:\nKim LaCapria\nNov. 2, 2015\nAnonymous-linked social media accounts claimed to have discovered prominent politicians in the r ...\nRead More\nDoes a Photograph Show Planned Parenthood's Founder at a KKK Rally?\nWritten by:\nKim LaCapria\nSept. 30, 2015\nMargaret Sanger once addressed female KKK members in a bid to have her message heard as widely a ...\nRead More\nKeep America American\nWritten by:\nDavid Mikkelson\nSept. 3, 2012\nIs Mitt Romney's campaign slogan, 'Keep America American,' identical to a catchphrase once used ...\nRead More\nDoes This Photograph Show a KKK Member Treated by Black Hospital Staff?\nWritten by:\nDavid Mikkelson\nJune 7, 2005\nA photograph capturing a KKK member being treated by an all-black emergency room staff was part ...\nRead More\nTimberland and Maya Angelou\nWritten by:\nBarbara Mikkelson\nFeb. 10, 2002\nDoes a poem by Maya Angelou assert that Timberland is owned by the KKK?\nRead More\nTroop and the KKK Rumor\nWritten by:\nBarbara Mikkelson\nJune 13, 2001\nIs Troop clothing owned by the KKK?\nRead More\nDid Missouri Rename a Highway Adopted by the KKK After Rosa Parks?\nWritten by:\nDavid Mikkelson\nApril 5, 2001\nAfter a Supreme Court decision forced the state of Missouri to allow the KKK to adopt a highway, ...\nRead More\nCrown Air Fresheners and the KKK\nWritten by:\nBarbara Mikkelson\nApril 3, 2001\nAre those crown-shaped air fresheners produced by the KKK?\nRead More\nSnapple Rumors\nWritten by:\nBarbara Mikkelson\nJune 25, 2000\nIs Snapple owned by the KKK?\nRead More\nColonel Sanders Left Money to the KKK?\nWritten by:\nDavid Mikkelson\nJune 22, 2000\nDid Colonel Sanders' will direct KFC to give money to the KKK?\nRead More\nHow 311 Got Its Name\nWritten by:\nBarbara Mikkelson\nJan. 30, 2000\nIs the popular rock band '311' associated with the Ku Klux Klan?\nRead More\nMarlboro and the KKK\nWritten by:\nBarbara Mikkelson\nJan. 13, 2000\nIs Marlboro owned by the KKK?\nRead More\nPrevious\nNext\nPage: 3",
+      "image_captions": [
+        "Image of KKK from 1920.",
+        "Ku Klux Klan in costumes burning a cross"
+      ]
+    }
+  ],
+  "evidence_count": 3,
+  "crawled_at": "2026-04-23T18:57:11.665169+00:00"
+}

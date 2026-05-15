@@ -1,0 +1,107 @@
+{
+  "sample_id": "true_113",
+  "image_url": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2019/02/cruiseshipbrown.jpg",
+  "visual_entities": [
+    {
+      "description": "Ship",
+      "score": 1.0983
+    },
+    {
+      "description": "Cruise ship",
+      "score": 0.84387255
+    },
+    {
+      "description": "Ferry",
+      "score": 0.6706122
+    },
+    {
+      "description": "Ocean liner",
+      "score": 0.6583367
+    },
+    {
+      "description": "Self-propelled vessel",
+      "score": 0.6060252
+    },
+    {
+      "description": "Sea",
+      "score": 0.57577413
+    },
+    {
+      "description": "cruise",
+      "score": 0.5579
+    },
+    {
+      "description": "Royal Caribbean International",
+      "score": 0.5384
+    },
+    {
+      "description": "",
+      "score": 0.5384
+    },
+    {
+      "description": "Waste",
+      "score": 0.4904
+    },
+    {
+      "description": "Cruise line",
+      "score": 0.4404
+    },
+    {
+      "description": "Port",
+      "score": 0.4245
+    },
+    {
+      "description": "Vacations To Go",
+      "score": 0.4191
+    },
+    {
+      "description": "Vacation",
+      "score": 0.3895
+    },
+    {
+      "description": "EasyCruise",
+      "score": 0.3774
+    }
+  ],
+  "best_guess_labels": [
+    "does poop go in cruise"
+  ],
+  "similar_image_urls": [
+    "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2019/02/cruiseshipbrown.jpg",
+    "https://mediaproxy.snopes.com/width/600/https://media.snopes.com/2019/02/cruiseshipbrown.jpg",
+    "https://preview.redd.it/a-restaurant-owner-thanked-his-entire-staff-for-their-hard-v0-4j7se4r50yug1.jpeg?width=1200&format=pjpg&auto=webp&s=0cfbb222426ee6bdaf236ca643ae606320e8f023",
+    "https://i.redd.it/4j7se4r50yug1.jpeg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10159293471432482"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.snopes.com/fact-check/cruise-ship-dumps-waste/",
+      "page_title": "Is This a Picture of a Cruise Ship Dumping Human Waste Into the ...",
+      "title": "Is This a Picture of a Cruise Ship Dumping Human Waste Into the Ocean?",
+      "description": "Apparently it's difficult to tell the difference between sand, mud, and human excrement from a distance.",
+      "text": "An image supposedly showing a cruise ship dumping human waste into the ocean near a coastal city is frequently shared on social media. One popular iteration with more than 30,000 shares was posted by Facebook user Mena Anjos on 19 January 2019 along with the caption (translated via Google) \"You know what this is? It's the discharges from the floating cities they call cruise ships\":\nA number of social media users commented and shared this image with more explicit descriptions of what it supposedly showed:\nYou know what this is? It's the discharges from the floating cities they call cruise ships...but it's ok because tourism...looks like terrorism to me...\nThe cruise ship @MSCCrucerosArg discharging its sewers in the port of Punta del Este...\nThis is a cruise ship dumping excrement.\nYou know what this is? It's the discharges from the floating cities they call cruise ships. Disgusting! Boycott until they discharge at port into a waste water treatment facility!\nThis is a genuine photograph showing two dark, brownish clouds in the waters surrounding a cruise ship, but it doesn't document that ship's dumping human waste into the ocean. Rather, it captures a cruise ship dropping anchor off the coast of Punta del Este, Uraguay.\nAfter this image went viral in January 2019 (along with its unsavory claims about waste and pollution,) Alejandro Nario, Uruguay's National Director of the Environment (Dinama), took to Twitter to explain what the photograph actually depicted. According to Nairo, this image captured the cruise ship's starting up its turbines before dropping anchor, and thus the brown clouds visible in the water are sand and mud churned up from the water's bottom, not clouds of human excrement:\nAnte consultas recibidas sobre esta imagen, aclaramos: fue tomada en el momento que están acomodando el barco para fondear, las turbinas de arranque producen turbulencia con las hélices, levantando arena y barro del fondo, en una zona de poca profundidad No se trata de efluentes pic.twitter.com/e2LQnTaG5W\n— Alejandro Nario (@alejandronario) January 11, 2019\nHow do these cruise ships, which can carry thousands of passengers and crew members on multi-day trips, actually dispose of their waste? A 2017 article from the Telegraph explained:\nAccording to environmental regulatory lead at Royal Caribbean International, Nick Rose, the idea that cruise lines go round dumping stuff in the ocean is just wrong. \"Our multi-stage treatment systems exceed the requirements of all international regulations,\" he says.\nThis is how it is done. For a start, there's a lot of liquid to deal with every day. Even with aeration systems designed to reduce the amount of water coming out of bathroom taps and shower heads, the average ship will use average of 40-50 gallons per passenger per day.\nThe \"grey water\" from galleys, laundries and bathrooms is first mixed in carefully measured proportions with the \"black water\" lavatory waste before bio reactors deep in the bowels of the ship set to work.\nThere, all the nasty stuff is filtered out and digested by bacteria. The remaining liquid is disinfected by UV radiation rather than chlorine or other chemicals that would themselves be harmful to marine life.\nAt this stage, and having been monitored for any remaining bugs such as faecal coliform, it is discharged into the sea \"cleaner than the seawater that it might have started out as before being desalinated,\" according to Rose.\nBecause it is so clean, some ports have given approval for it to be discharged closer than the statutory 12 miles from land.\nAbout three tons of solids left from the original 1,200 tons of waste per day is incinerated or contained until it can be offloaded.",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.snopes.com/author/dan/?pagenum=89",
+      "page_title": "Dan Evon, Author at Snopes.com Page 89",
+      "title": "Does This Picture Show a Case of Hyperdontia?",
+      "description": "The definitive Internet reference source for researching urban legends, folklore, myths, rumors, and misinformation.",
+      "text": "Dan Evon\nDan Evon worked at Snopes between October 2014 and July 2022. Evon is a Chicago-based writer who has been sifting through the sludge of social media since 2009. Prior to joining the editorial staff at Snopes.com, he was the editor-in-chief of Social News Daily, a senior writer for The Inquisitr, and covered motorcycle racing for All About Bikes Magazine.\nPage: 89",
+      "image_captions": [
+        "A group of teeth are shown. They are all slightly yellow.",
+        "House Minority Leader Nancy Pelosi"
+      ]
+    },
+    {
+      "url": "https://www.snopes.com/fact-check/rating/miscaptioned/?pagenum=38",
+      "page_title": "Archives | Page 38 | Snopes.com",
+      "title": "Were Piles of Rubbish Left in Hyde Park By Global-Warming Protesters?",
+      "description": "This rating is used with photographs and videos that are “real” (i.e., not the product, partially or wholly, of digital manipulation) but are nonetheless misleading because they are accompanied by explanatory material that falsely describes their origin, context, and/or meaning.",
+      "text": "This rating is used with photographs and videos that are “real” (i.e., not the product, partially or wholly, of digital manipulation) but are nonetheless misleading because they are accompanied by explanatory material that falsely describes their origin, context, and/or meaning.\nLearn more about our rating system here.",
+      "image_captions": []
+    }
+  ],
+  "evidence_count": 3,
+  "crawled_at": "2026-04-23T17:21:48.458181+00:00"
+}

@@ -1,0 +1,118 @@
+{
+  "sample_id": "true_12",
+  "image_url": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2022/03/croatian-tractor.jpg",
+  "visual_entities": [
+    {
+      "description": "Mikoyan-Gurevich MiG-21",
+      "score": 1.4653499
+    },
+    {
+      "description": "Jet aircraft",
+      "score": 0.7114487
+    },
+    {
+      "description": "Aircraft",
+      "score": 0.5196
+    },
+    {
+      "description": "MiG-21-2000",
+      "score": 0.49259996
+    },
+    {
+      "description": "Mikoyan",
+      "score": 0.4583
+    },
+    {
+      "description": "Airplane",
+      "score": 0.4371
+    },
+    {
+      "description": "The MiG-21 Project",
+      "score": 0.4353
+    },
+    {
+      "description": "Aviation",
+      "score": 0.4291
+    }
+  ],
+  "best_guess_labels": [
+    "mig 21 tractor"
+  ],
+  "similar_image_urls": [
+    "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2022/03/croatian-tractor.jpg",
+    "https://mediaproxy.snopes.com/width/600/https://media.snopes.com/2022/03/croatian-tractor.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10223209598148708",
+    "https://media.jutarnji.hr/images/live-multimedia/binary/2016/4/11/16/397681.bin.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1182398898892063",
+    "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3875897803394570939",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10162867471650483",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=122149848140816525"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.snopes.com/fact-check/ukraine-tractor-towing-russian-jet/",
+      "page_title": "Is This Tractor Towing a Russian Jet Captured in Ukraine? - Snopes",
+      "title": "Is This Tractor Towing a Russian Jet Captured in Ukraine?",
+      "description": "Ukrainian farmers have been filmed towing all sorts of abandoned military gear with their tractors.",
+      "text": "In the weeks after Russia's invasion of Ukraine in February 2022, several photographs and videos have surfaced online supposedly showing Ukrainian farmers towing abandoned tanks and other military gear with their tractors. While many of these images are genuine, some, such as the following photograph, have been incorrectly captioned:\nThis photograph, captioned \"Ukrainian farmer captured a Russian military jet,\" was not taken in Ukraine in 2022 and does not show a Russian plane.\nThe photo dates back to 2011 when Croatia celebrated the 20th anniversary of the formation of the Croatian Armed Forces. According to the Croatian news website 24sata.hr, it shows a Croatian MiG being pulled by a tractor through the streets of Zagreb on its way to Jarun, where it would be put on display for the celebration.\nOn the occasion of the 20th anniversary of the formation of the Croatian Armed Forces, the tactical and technical corps of weapons, combat and non-combat techniques and equipment of units of the Armed Forces and the Ministry of the Interior will be exhibited at Jarun in Zagreb from Friday to Sunday.\nOn Thursday night, the citizens of Zagreb could see a MIG towed by a tractor on the city streets. The plane will also be exhibited at Jarun, and the central celebration of the Armed Forces Day will be on Saturday, the Ministry of Defense writes .\nIn addition to the image's source, viewers could also determine that this wasn't a Russian plane by taking a careful look at the coat of arms displayed on its tail. It's the Croatian coat of arms.\nThe above-displayed image is entirely unrelated to Russia's attack on Ukraine in 2022.\nHave Ukrainian Farmers Used Tractors To Take Other Military Equipment?\nThere have been several other videos that supposedly show Ukrainian farmers using their tractors to tow away abandoned military equipment. While we haven't thus far found grounds to debunk those videos as inauthentic in any way (by, for example, finding that they predate the 2022 conflict such as in the example above), we haven't been able to verify them, either.\nRegardless of their authenticity, Vice News reported that the tractor has become a \"symbol\" of resistance in Ukraine thanks in part to these rumors:\nLike St. Javelin and the Ghost of Kyiv before it, the humble tractor has become a symbol of Ukraine’s resistance to Russia’s invasion. Videos and pictures of tractors hauling away Russian armor have gone viral on social media. Though none have been verified, there’s half a dozen or so clips making the rounds and as they’re shared, they’re eventually turned into memes, posters, and T-Shirts. A tractor hauling away Russian armor is now as ubiquitous a symbol as the Javelin or Molotov Cocktail.\nIt's worth noting that the Ukrainian government really did put out a statement telling citizens that they need not worry about declaring any seized equipment for military purposes. Listings for used Russian tanks on eBay, however, are likely fake.",
+      "image_captions": [
+        "Airplane, Vehicle, Transportation",
+        "ukraine farmer captures jet"
+      ]
+    },
+    {
+      "url": "https://www.snopes.com/fact-check/?pagenum=416",
+      "page_title": "Fact Checks Archive | Page 416 | Snopes.com",
+      "title": "Did Pelosi Read a Poem by Bono About Ukraine?",
+      "description": "Rumors and questionable claims we have researched recently.",
+      "text": "Snopes\nNow available in the app store!\nOpen\nLog in to activate your ad-free access.\nIt looks like you might have a Snopes membership! Log in to enjoy your ad-free experience.\nLog In\nYou're browsing with fewer ads for the next 24 hours, thanks to our sponsor\n1440 Newsletter\n.\nLearn More\nSnopes Membership\nSearch\nMy Profile\nLogout\nSubmit a Rumor\nLatest\nTrending\nNews & Politics\nEntertainment\nFact Checks\nQuiz\nSections\nLatest\nTrending\nFact Checks\nNews\nCollections\nMore\nContact Us\nSubmit a Rumor\nArchives\nQuiz\nFactBot\nSubmit a Tip\nSnopes App\nNewsletters\nAbout Us\nCategories\nNews & Politics\nEntertainment\nScience & Technology\nLifestyle\nSnopes Membership\nLogin\nMy Profile\nLogout\nDonald Trump\nAI-generated Content\nPope Leo XIV\nJeffrey Epstein\nMelania Trump\nFact Checks\nRumors and questionable claims we have researched recently.\nDid Pelosi Read a Poem by Bono About Ukraine?\nWritten by:\nDan Evon\nMarch 17, 2022\nThe U2 singer wrote: \"Ireland's sorrow and pain is now the Ukraine and Saint Patrick's name now ...\nRead More\nIs Reuters Russian-Owned?\nWritten by:\nNur Ibrahim\nMarch 17, 2022\nThe news agency extensively covered the war in Ukraine from its outset.\nRead More\nNo, Rep. Marjorie Taylor Greene Didn't Refuse To Applaud Zelenskyy\nWritten by:\nDan Evon\nMarch 17, 2022\nWhile the congresswoman's applause may not have been as effusive as her colleagues, she did stan ...\nRead More\nDoes TSA Allow 'Illegal Immigrants' To Use Arrest Warrants as ID?\nWritten by:\nNur Ibrahim\nMarch 16, 2022\nThe TSA is rewarding “criminal behavior,” according to some commentators.\nRead More\nDid Congress 'Give Itself a 21% Raise' in 2022?\nWritten by:\nDan MacGuill\nMarch 16, 2022\nRight-leaning commentators reacted with outrage during a sharp rise in consumer prices. Were the ...\nRead More\nDid Hillary Clinton Tweet This Snarky Response to Russia's Sanctioning Her?\nWritten by:\nBethania Palma\nMarch 16, 2022\nClinton was more amused than troubled, apparently.\nRead More\nDid Biden Say, 'Putin Decides He's Gonna Invade Russia'?\nWritten by:\nJordan Liles\nMarch 16, 2022\nViral video clips purportedly showed U.S. President Joe Biden's mistaking Russia and Ukraine whe ...\nRead More\nIs This Tractor Towing a Russian Jet Captured in Ukraine?\nWritten by:\nDan Evon\nMarch 16, 2022\nUkrainian farmers have been filmed towing all sorts of abandoned military gear with their tractors.\nRead More\nScam Alert: 'Welcome to CarShield' Auto Insurance Emails\nWritten by:\nJordan Liles\nMarch 15, 2022\nReaders should avoid clicking any links in messages like these that don't come from official com ...\nRead More\nIs a Ukraine Pavilion Coming to EPCOT at Disney World?\nWritten by:\nJordan Liles\nMarch 15, 2022\nA routine review of content labeled satire.\nRead More\nWas a 'Tower of Babel' Burned to the Ground in Russia?\nWritten by:\nDan Evon\nMarch 15, 2022\nThe biblical story of the tower attempts to explain why people around the world speak different ...\nRead More\nScam Alert: Chick-fil-A and Olive Garden Facebook Vouchers\nWritten by:\nJordan Liles\nMarch 15, 2022\nViral Facebook posts on multiple pages and profiles claimed to offer a \"meal for two with drinks ...\nRead More\nVideo Doesn't Show Ukraine Soldiers Killing Civilians in Chechnya\nWritten by:\nDan Evon\nMarch 14, 2022\nThe 2014 French drama film “The Search” is about Russia's invasion of Chechnya in 1999.\nRead More\nDid Russian Embassy in US Retweet Candace Owens 'Russian Lives Matter' Post?\nWritten by:\nMadison Dapcevich\nMarch 14, 2022\nThe conservative commentator said it was “absolutely appalling the way Russians are being treate ...\nRead More\nWas Annie Edson Taylor the 1st Person To Run Niagara Falls in a Barrel?\nWritten by:\nMadison Dapcevich\nMarch 13, 2022\nA tethered harness reportedly kept the 63-year-old schoolteacher secure.\nRead More\nDoes This Photo Show a Hole Drilled on Mars?\nWritten by:\nMadison Dapcevich\nMarch 13, 2022\nThe diameter was said to measure slightly smaller than a U.S. dime.\nRead More\nIf a Bald Eagle Loses a Feather, Will It Symmetrically Shed Another to Maintain Balance?\nWritten by:\nMadison Dapcevich\nMarch 12, 2022\nFrom tip to tip, the wingspan of an adult eagle can reach up to 8 feet.\nRead More\nIs This Photo of Crowded Train Station from 2022 or 1941?\nWritten by:\nDan Evon\nMarch 11, 2022\nImages from Ukraine in 2022 have reminded many of the scenes during the start of the Holocaust i ...\nRead More\nDid Ukraine President Zelenskyy Sing 'Endless Love'?\nWritten by:\nDan Evon\nMarch 11, 2022\nVolodymyr Zelenskyy truly had a successful entertainment career before becoming president of Ukr ...\nRead More\nAre These 'Wrong Number' Text Messages Related to Sex Trafficking?\nWritten by:\nDan Evon\nMarch 10, 2022\nWhile people should probably block and delete these texts messages, they aren't linked to sex tr ...\nRead More\nPrevious\nNext\nPage: 416",
+      "image_captions": [
+        "Tie, Accessories, Accessory",
+        "marjorie taylor greene, mtg refused to applaud zelensky",
+        "Airport, Person, Human",
+        "Person, Human, Microphone",
+        "According to viral videos US President Joe Biden said how do we get to the place where you know Putin decides he's gonna just invade Russia."
+      ]
+    },
+    {
+      "url": "https://www.snopes.com/author/dan/?pagenum=8",
+      "page_title": "Dan Evon, Author at Snopes.com Page 8",
+      "title": "No, the CEO of Disney Wasn't Arrested for Child Trafficking",
+      "description": "The definitive Internet reference source for researching urban legends, folklore, myths, rumors, and misinformation.",
+      "text": "Dan Evon\nDan Evon worked at Snopes between October 2014 and July 2022. Evon is a Chicago-based writer who has been sifting through the sludge of social media since 2009. Prior to joining the editorial staff at Snopes.com, he was the editor-in-chief of Social News Daily, a senior writer for The Inquisitr, and covered motorcycle racing for All About Bikes Magazine.\nPage: 8",
+      "image_captions": [
+        "Interior Design, Indoors, Audience",
+        "marjorie taylor greene, mtg refused to applaud zelensky",
+        "Airplane, Vehicle, Transportation",
+        "Military, Person, Human",
+        "Nature, Outdoors, Fire"
+      ]
+    },
+    {
+      "url": "https://www.snopes.com/category/military/?pagenum=3",
+      "page_title": "Military Archives | Page 3 | Snopes.com",
+      "title": "Did a California Teacher Call Military Members 'the Lowest of Our Low'?",
+      "description": "Myths are important symbols of cultural unity, and perhaps no myths are more important in the modern era than the military myths that establish our national heritage and remind us of the values our nation stands for.",
+      "text": "Military\nMyths are important symbols of cultural unity, and perhaps no myths are more important in the modern era than the military myths that establish our national heritage and remind us of the values our nation stands for.\nPage: 3",
+      "image_captions": [
+        "Tweet featuring photo of David Clarke wearing medals on uniform",
+        "Person, Human, Clothing",
+        "Tie, Accessories, Accessory",
+        "is finland moving tanks to russian border?",
+        "Nature, Outdoors, Vehicle"
+      ]
+    },
+    {
+      "url": "https://www.jutarnji.hr/vijesti/hrvatska/foto-traktor-u-specijalnoj-akciji-u-jedan-po-noci-od-velike-gorice-do-jaruna-vukao-je-mig-21-2050272",
+      "page_title": "U jedan po noći od Velike Gorice do Jaruna vukao je MIG 21",
+      "title": "FOTO Traktor u specijalnoj akciji: U jedan po noći od Velike Gorice do Jaruna vukao je MIG 21",
+      "description": "Iz Zrakoplovno tehničkog centra u Velikokoj Gorici prema Jarunu krenuo je specijalni teret",
+      "text": "null...\nMEGAPOTHVAT FOTO Gigantski transformator od 500 tona zapeo u Karlovcu. Da bi stigao na Novi Zeland mora se ojačati most preko Kupe",
+      "image_captions": [
+        "Karlovac, 300511.Ogromni transformator tezak 236 tona (sa 70 metara dugom kompozicijom koja ga prevozi; dva tegljaca i dvije labudice; tezi skoro 500 tona) u Karlovcu ceka da se ojaca most Banija kako bi mogao nastaviti put prema rijeckoj Luci, preko koje iz poduzeca Koncar putuje za Novi Zeland.Foto: Mario Pusic / CROPIX"
+      ]
+    }
+  ],
+  "evidence_count": 5,
+  "crawled_at": "2026-04-23T16:48:06.434510+00:00"
+}

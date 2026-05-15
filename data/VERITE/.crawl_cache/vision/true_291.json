@@ -1,0 +1,134 @@
+{
+  "sample_id": "true_291",
+  "image_url": "https://pbs.twimg.com/media/FDMD-WYWUAMJc4k?format=jpg&name=medium",
+  "visual_entities": [
+    {
+      "description": "Jet aircraft",
+      "score": 1.0647
+    },
+    {
+      "description": "Airplane",
+      "score": 0.92429996
+    },
+    {
+      "description": "Flight",
+      "score": 0.80009997
+    },
+    {
+      "description": "Business jet",
+      "score": 0.7437
+    },
+    {
+      "description": "Teterboro Airport",
+      "score": 0.6702
+    },
+    {
+      "description": "Aviation",
+      "score": 0.6107
+    },
+    {
+      "description": "United Nations Climate Change Conference",
+      "score": 0.60795
+    },
+    {
+      "description": "Bombardier Global Express",
+      "score": 0.59625
+    },
+    {
+      "description": "Billy Bishop Toronto City Airport",
+      "score": 0.5439
+    },
+    {
+      "description": "Very light jet",
+      "score": 0.526
+    },
+    {
+      "description": "",
+      "score": 0.4963
+    },
+    {
+      "description": "Gulfstream Aerospace",
+      "score": 0.4963
+    },
+    {
+      "description": "Climate",
+      "score": 0.3795
+    },
+    {
+      "description": "Airport",
+      "score": 0.3738
+    },
+    {
+      "description": "Global warming",
+      "score": 0.3592
+    }
+  ],
+  "best_guess_labels": [
+    "climate change private jets"
+  ],
+  "similar_image_urls": [
+    "https://vinnews.com/wp-content/uploads/2021/11/Private-jets-parked-at-Glasgow-Climate-Change-conference.jpg",
+    "https://imagedelivery.net/amEyaqMqBdrLdK9VhNKTJw/luxurylaunches.com/2021/11/Private-jets-4.jpg/w=770",
+    "https://jetvia.com/wp-content/uploads/2021/02/KTEB-teterboro-airport-private-jets-476x325.png",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1375419631281561",
+    "https://elcorreodepozuelo.com/wp-content/uploads/2021/11/Aviones-Glasgow.jpg",
+    "https://img.dunyanews.tv/news/2014/November/11-21-14/news_big_images/246324_61608346.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/threads/DW2yJSloAh6/0/image.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/threads/DW261zJletm/0/image.jpg",
+    "https://private-jets.it/image/cache/catalog/italy/private-jets-915x420.jpg",
+    "https://i.guancha.cn/news/social/2021/11/02/20211102160700440.jpg!wap.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.pbslearningmedia.org/resource/should-private-jets-be-banned-video/above-the-noise/",
+      "page_title": "Should Private Jets Be Banned? | Above the Noise",
+      "title": "Should Private Jets Be Banned? | Above the Noise | Grades 6-8, 9-12 Human Activity Increases Greenhouse Effect Teaching and Lesson Resources",
+      "description": "True, private jets are mostly the rarified ride of rock stars and pro athletes, but they are also a growing share of air travel. How can such small planes be damaging the environment? Myles explores the data on how CO2 emissions from private jets affect climate change. It's more than you think, especially if you look at it per trip or per passenger. Some European countries want to ban private jets completely. Others advocate for heavily taxing private jet setters. What do you think? Watch and join the discussion: Should private jets be banned? NOTE: Closed captions and transcript are also available in Spanish.",
+      "text": "Loading...",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.cnn.com/2025/07/31/travel/video/private-jets-climate-emissions-travel-protests-celebrities-digvid",
+      "page_title": "Short flights, big pollution: the private jet problem | CNN",
+      "title": "Short flights, big pollution: the private jet problem | CNN",
+      "description": "Between 2019 and 2023, the number of private jet flights skyrocketed by 53%. Environmentalists are raising alarms as short-haul trips — some under 300 miles — drive up carbon emissions and fuel climate inequality.",
+      "text": "Video Ad Feedback\nShort flights, big pollution: the private jet problem\nBetween 2019 and 2023, the number of private jet flights skyrocketed by 53%. Environmentalists are raising alarms as short-haul trips — some under 300 miles — drive up carbon emissions and fuel climate inequality.\n2:42\n• Source:\nCNN\nLife, But Greener\n23 videos\nVideo Ad Feedback\nShort flights, big pollution: the private jet problem\nVideo Ad Feedback\nSwim to work? See how Swiss residents switch up their commute\nVideo Ad Feedback\nHow this famous pop star is cleaning up the music industry's environmental practices\nVideo Ad Feedback\nThe ruff truth about your pet's impact on the planet\nVideo Ad Feedback\nThis 6-pound backpack changed one man's approach to life\nVideo Ad Feedback\nMeat consumption levels are unsustainable. Here's a simple change that can help\nVideo Ad Feedback\nCommunal living is on the rise. Would you go 'off the grid' in the countryside?\nVideo Ad Feedback\n'Let's leave the country': A devastating loss led this family to Costa Rica\nVideo Ad Feedback\nGoats are all over California and firefighters couldn't be happier\nVideo Ad Feedback\nResearchers say some produce carries more pesticides than others. Here are 3 things to know\nVideo Ad Feedback\nOur video streaming habits impact the planet. Here's how\nVideo Ad Feedback\nVideo: Doing your laundry spills plastics into the ocean\nVideo Ad Feedback\nVideo: Perform kitchen miracles with these tips backed by science\nVideo Ad Feedback\nHere’s how Costa Rica became the largest exporter of butterflies in the world\nVideo Ad Feedback\nVideo: Food scientist explains how to stop your groceries going bad\nVideo Ad Feedback\nCalifornians are getting rid of their lawns and raking in thousands\nVideo Ad Feedback\n5 ways to cut your plastic waste\n01:30\nNow playing\n• Source:\nCNN Business\nVideo Ad Feedback\n5 ways you can change your fashion habits to help the planet\nVideo Ad Feedback\nDesigners send fabric waste here for a second life\nVideo Ad Feedback\nBill Weir shares tips to improve your nature photography\nVideo Ad Feedback\nOat milk vs dairy milk: we asked a sustainability expert on what's best",
+      "image_captions": [
+        "A Gulfstream G650 private jet takes off from Los Angeles International Airport (LAX) as seen from El Segundo, California, on September 11, 2023. (Photo by Patrick T. Fallon / AFP) (Photo by PATRICK T. FALLON/AFP via Getty Images)",
+        "BillieEilish_Thumbnail.jpg",
+        "113005_carbon pawprint horizontal thumb.png",
+        "Lots of fresh strawberries sold in the market",
+        "video streaming still 3"
+      ]
+    },
+    {
+      "url": "https://www.pbs.org/video/the-inconvenient-truth-behind-celebrities-and-private-jets-1brfcq/",
+      "page_title": "The Inconvenient Truth Behind Celebrities and Private Jets | Season 7",
+      "title": "Above The Noise | The Inconvenient Truth Behind Celebrities and Private Jets | Season 7 | Episode 5",
+      "description": "Are private jets really as bad for climate change as all the hype? Myles explores the data",
+      "text": "The Inconvenient Truth Behind Celebrities and Private Jets\nSeason 7 Episode 5 | 6m 46sVideo has Closed Captions\nAre private jets really as bad for climate change as all the hype? Myles explores the data\nTrue, private jets are mostly the rarified ride of rock stars and pro athletes, but they are also a growing share of air travel. How can such small planes be damaging the environment? Myles explores the data on how CO2 emissions from private jets affect climate change. It's more than you think, especially if you look at it per trip or per passenger. Some European countries want to ban private jets\nProblems playing video? | Closed Captioning Feedback\nProblems playing video? | Closed Captioning Feedback\nAbove The Noise is a local public television program presented by KQED\nThe Inconvenient Truth Behind Celebrities and Private Jets\nSeason 7 Episode 5 | 6m 46sVideo has Closed Captions\nTrue, private jets are mostly the rarified ride of rock stars and pro athletes, but they are also a growing share of air travel. How can such small planes be damaging the environment? Myles explores the data on how CO2 emissions from private jets affect climate change. It's more than you think, especially if you look at it per trip or per passenger. Some European countries want to ban private jets\nProblems playing video? | Closed Captioning Feedback\nHow to Watch Above The Noise\nAbove The Noise is available to stream on pbs.org and the free PBS App, available on iPhone, Apple TV, Android TV, Android smartphones, Amazon Fire TV, Amazon Fire Tablet, Roku, Samsung Smart TV, and Vizio.\n- What up world?\nMyles Bess here.\nJournalists, host, and someone who likes long walks on the beach.\nAnd by that I mean short walks to my couch.\nPrivate jets, the ultimate status symbol.\nIt feels like every music video has them, and DJs use them as their personal taxis.\nBut, and this is a big but, and I cannot lie, sorry I had to, but private jets are not great when it comes to climate change.\nAnd that's because they are literally the least fuel-efficient way to travel.\nA private jet can emit two metric tons of CO2 in just one hour.\nFor comparison, the average car emits about 4.6 metric tons in an entire year.\nIn other words, private jets are the new blood diamonds.\nYou've got climate activists protesting them, and France is even considering banning them.\nSacre jet bleu!\nSo today we're asking, should private jets be banned?\n(record scratching) All the cool kids are flying private.\nGet this, in 2021, there were over 3.3 million private flights, the most ever, which is a 7% increase from 2019, which held the previous record.\nAnd private jet sales, especially among first-time buyers, are skyrocketing.\nSee what I did there?\nBut it's not just celebrities who are flying private.\nYou've also got business execs flying around on corporate jets.\nYou don't even have to own one to fly private.\nYou can just charter a plane.\nThere's even membership services to fleets of private jets.\nIt's like the Costco of the sky.\nAnd I'm gonna be honest with y'all, selfishly, if Steph Curry invited me on his private jet, I would not hesitate to say yes.\nI'd order sea bass and caviar too.\nWhen it comes to climate change, we've talked a lot about it.\nYou can watch some of our videos here, here, here, here, here.\nAnd CO2 is one of the biggest contributors to climate change.\nSo how much CO2 do private jets actually emit?\nIt turns out data on private fuel emissions is hard to come by.\nThere's no like annual report that measures that, and it's really hard to separate out private jet emissions from general commercial flying per se.\nMore on that later.\nIf you look at flying as a whole, which includes private, commercial and freight flights, all of that activity accounts for about 2.5% of all of the world's CO2 emissions per year.\nOkay.\nNow if you're like me, you might be thinking, great news 2.5, that's nothing.\nAnd that includes all kinds of flying, not just private, bruh, I'm gonna fly private.\nYo Steph, hit me up for that invite.\nBut, before you bust out that caviar, that's not the whole story.\nLet's put these carbon emissions in perspective.\nScientists agree that to prevent some of the worst effects of climate change, we have to limit warming to 1.5 degrees Celsius or 2.7 degrees Fahrenheit.\nAnd this means drastically reducing our greenhouse gas emissions.\nI'm talking a 45% reduction by 2030, and net zero by 2050.\nThat means getting emissions as close to zero as possible, and then having nature absorb what we do emit.\nOn an individual level, this means each of us has to limit CO2 emissions to a grand total of 2.3 tons per year by 2030.\nAnd you know what's not great at reducing carbon emissions?\nYou guessed it.\nMy uncle.\n(man farting) And private jets.\nLike I said before, a private jet can emit two metric tons of CO2 in just one hour.\nWith one trip, you've basically used your theoretical allotment of CO2 emissions for the entire year.\nThe entire year.\nTake Drake's private jet.\nThis bad boy's estimated to have emitted about 2,900 tons of CO2 in the first half of 2022.\nMy real name's Aubrey.\nOkay.\nAnd as private jet use continues to rise, CO2 emissions from them start to add up.\nUsing data from 2016, one report separates out and estimates that private jets emitted about 33.7 million tons of CO2, and private jet use has increased a lot since then.\nFor comparison, Denmark emitted 27 million tons of CO2 in 2020, and they have a population of over five and a half million people.\nWhat that means is... We are doomed!\nAnd when you compare flying commercial with flying private, one analysis by a European environmental campaign group found that private jets are five to 14 times more polluting then commercial airlines on a per passenger basis.\nThe report also found that within Europe, compared to commercial flights, private jets are twice as likely to be used for very short trips.\nWe're talking less than 500 kilometers or 310 miles.\nThat's like the flight from SF to LA, which is about 337 miles, a.k.a.\nthe same distance my parents had to walk uphill, in the snow, barefoot to get to school every day.\nBut planes are the least fuel-efficient on these short trips because taking off and landing requires a lot of fuel compared to cruising altitudes.\nSo what can we do about all this polluting from private jets?\nWell, like I said before, a call at a straight-up ban them is getting some momentum in countries in Europe.\nAnd flight bans aren't totally unheard of.\nI mean, France has recently banned some short-distance flights.\nIf there's trains available, the planes won't fly.\nBut like can you imagine if the entire globe was just like, no, all private flights are grounded.\nSorry, Bezos.\nSorry, Elon.\nYou'd have to fly commercial.\nWhat would they do?\nProbably take a rocket instead.\nOthers are suggesting we tax private aviation up the wazoo and have those taxes go towards researching and developing environmentally-friendly jet technologies.\nAfter all, the ones spending the green to fly in them should be the ones making them greener.\nAnd some experts in Europe are even recommending that, by 2030, only private jets powered by green hydrogen and electricity be allowed to fly for trips under 1,000 kilometers or 621 miles.\nAnd part of the reason people hate on private jets is because there's such a disproportionate amount of CO2 coming from a very small group of people who can afford this luxury.\nAnd while the wealthier gallivant on their private jets, global CO2 emissions continue to rise, with 2021 setting a record amount of about 37 billion tons.\nAnd we're seeing some of the impacts of that now.\nAnd it's the non-rich who are the most vulnerable with having to deal with more severe droughts, heat waves, water scarcity, wildfires, floods, melting of polar ice and sea level rise.\nAnd I'm not just talking about poor countries, but also poor communities right here in the US.\nNow, some might say flying private is the good old free market capitalism at its best.\nLet the people fly the way they want, and the government shouldn't get involved.\nAnd look, I mean, I get it.\nPrivate jets are super convenient.\nYou can avoid TSA lines, germs from other passengers, there's more privacy.\nBut if \"The Lorax\" has taught us anything, it's that that laissez-fair attitude... Laissez-fair, a policy or attitude of letting things take their own course, without interfering.\nLaissez-fair attitude isn't great for the environment.\nSo, while the governments of the world grapple with how to best handle this impending climate doom, I'm curious, what do you think?\nThink anything should be done about private jets?\nAs always, I'm your host Myles Bess Peace out.\n- Science and Nature\nA documentary series capturing the resilient work of female land stewards across the United States.\nSupport for PBS provided by:\nAbove The Noise is a local public television program presented by KQED",
+      "image_captions": [
+        "The Inconvenient Truth Behind Celebrities and Private Jets",
+        "Crash Course Latin American Literature"
+      ]
+    },
+    {
+      "url": "https://www.nbcnews.com/now/video/celebrities-criticized-for-private-jet-co2-emissions-145608261594",
+      "page_title": "Celebrities criticized for private jet CO2 emissions - NBC News",
+      "title": "Celebrities criticized for private jet CO2 emissions",
+      "description": "A marketing agency out of the U.K. analyzed private flight data of celebrities like Taylor Swift, Kylie Jenner, and Drake. NBC News’ Joshua Johnson is joined by Dr. Puneet Dwivedi to break down the climate impact of repeated private jet usage as they can emit roughly two metric tons of CO2 in just one hour.",
+      "text": "Jane Fonda on Musical ‘Dear Everything,’ Climate Activism, More\n04:57\nNew exhibit highlights impact of industrial fishing\n03:51\nHawaii’s Kīlauea volcano shoots lava more than 1,000 feet high\n00:45\nTrump says federal government will protect Potomac River amid sewage spill\n02:38\nTrump announces repeal of measure that allowed for regulation of gas emissions\n01:01\nWildfires ripping across Australia, Argentina and South Africa\n01:49\nExclusive: Colin O’Brady makes historic crossing of Antarctica’s Ross Ice Shelf\n03:34\n7.6-magnitude earthquake triggers tsunami warnings in Japan\n02:26\nFarmers use native seeds to heal land impacted by wildfires\n04:50\nDeadly typhoon makes landfall in Vietnam after tearing through Philippines\n02:19\nClean energy program in California turns waves into renewable energy\n02:07\nDrone video shows Hurricane Melissa damage in Jamaica\n01:16\nNational Geographic releases its must see destinations for 2026\n03:56\nSpace-based solar power emerging as alternative as other solar projects shut down\n03:29\nIVF is helping coral reef restoration with a reproductive boost\n02:21\nRobotic rabbits combat Florida's invasive pythons\n00:31\nMother says son injured after octopus latched on during aquarium visit\n02:53\nNew report details rising cost of weather disasters\n02:29\n'24 hours too late': Fmr. FEMA official says Trump admin delays “cost lives” during Texas floods\n06:41\nEnvironmental Protection Agency aims to erase greenhouse gas limit on power plants\n03:16\nNBC News NOW\nCelebrities criticized for private jet CO2 emissions\n07:28\nCopied\nA marketing agency out of the U.K. analyzed private flight data of celebrities like Taylor Swift, Kylie Jenner, and Drake. NBC News’ Joshua Johnson is joined by Dr. Puneet Dwivedi to break down the climate impact of repeated private jet usage as they can emit roughly two metric tons of CO2 in just one hour. Aug. 6, 2022",
+      "image_captions": []
+    },
+    {
+      "url": "https://vinnews.com/2021/11/02/400-private-jets-fly-in-to-glasgow-climate-conference-outraging-climate-activists/",
+      "page_title": "400 Private Jets Fly In To Glasgow Climate Conference, Outraging ...",
+      "title": "400 Private Jets Fly In To Glasgow Climate Conference, Outraging Climate Activists",
+      "description": "",
+      "text": "NEW YORK (VINnews) — Most of the delegates to the COP 26 UN Climate Change Conference taking place in Glasgow this week came in on public transport but some 400 private jets are flying in with the world elite.\nJoin our WhatsApp groupSubscribe to our Daily Roundup Email\nJeff Bezos’ $65 million Gulf Stream jet led the stream of private planes flying into the summit, but many world leaders and dignitaries chose to fly in via their private jets, creating what one Scottish news outlet described as “an extraordinary traffic jam [which] forced empty planes to fly 30 miles to find space to park.” Even British Prime Minister Boris Johnson, who flew in from Rome on his Airbus A321, was stuck circling Glasgow for more than 20 minutes due to the number of jets arriving at the same time.\nAs President Biden described his vision of a “decade of ambition and innovation to preserve our shared future” on Monday, other famous people were still jetting in by private plane, including Arnold Schwarzenegger, Bill Gates and singer Ellie Goulding.\nMatt Finch, of the UK’s Transport and Environment campaign group, told Scotland’s Sunday Mail: “The average private jet, and we are not talking Air Force One, emits two tons of CO2 for every hour in flight.\n“It can’t be stressed enough how bad private jets are for the environment, it is the worst way to travel by miles. Our research has found that most journeys could easily be completed on scheduled flights.\n“Private jets are very prestigious but it is difficult to avoid the hypocrisy of using one while claiming to be fighting climate change.”\nHe added, “To put it in context, the total carbon footprint of an ordinary citizen — including everywhere they travel and everything they consume — is around eight tons a year.\n“So an executive or politician taking one long haul private flight will burn more CO2 than several normal people do in a year.”\nAviation sources confirmed to the outlet that more than 400 private aircraft would likely carry over 1,000 world leaders, business execs and their staff to the talks.\nThe Sunday Mail also estimated that these jets will blast 13,000 tonnes of CO2 into the atmosphere, which will generate more global warming gas than 1,600 Scots burn through in a year.\nBritish Secretary of State Liz Truss attempted to defend the large amount of private jets flying in, stating that “I think everybody who’s ever done a Zoom call knows that they’re quite useful for some things.\n“But when you really get into crunch negotiations. When you want to look somebody in the eye and talk to them face to face, you do need to meet in person. And this is really critical.”\nSome British news outlets focused on all of the private cars transporting VIPs to the conference, many of which left with chauffeurs and with engines running.\nSide streets around #COP26 are choked up with chauffeur-driven cars and vans, many with their engines idling. Interesting look for a climate conference,” Channel 4 News reporter Ciaran Jenkins noted.\nSocial media users also criticized participants at the summit for their two-faced approach to climate change.\nReferring to Jeff Bezos, one of them wrote that “Nothing quite shows your commitment to climate action like flying to #COP26 in a private jet, and burning a few million litres of rocket fuel through the atmosphere every 5 minutes to show off to your mates. Eh Jeff?”\n“They are laughing at you,” wrote another user. “The 400 private jets used by world ‘leaders’ to get to #COP26 pumped out 13,000 tonnes of CO2 into the atmosphere, yet they want you to stop eating meat, to stop going on holiday, to buy a new electric car, & to spend thousands of pounds on new boilers.”",
+      "image_captions": []
+    }
+  ],
+  "evidence_count": 5,
+  "crawled_at": "2026-04-23T18:52:43.489160+00:00"
+}

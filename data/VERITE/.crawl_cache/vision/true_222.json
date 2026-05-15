@@ -1,0 +1,103 @@
+{
+  "sample_id": "true_222",
+  "image_url": "https://s.yimg.com/ny/api/res/1.2/yPF_Nolgqxoxh7VgIEDPCQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQ4MA--/https://s.yimg.com/os/152/2012/11/27/blue-berg-8-JPG-jpg_182848.jpg",
+  "visual_entities": [
+    {
+      "description": "Antarctic ice sheet",
+      "score": 0.8310885
+    },
+    {
+      "description": "Arctic",
+      "score": 0.81915003
+    },
+    {
+      "description": "Ice",
+      "score": 0.7261
+    },
+    {
+      "description": "Sea ice",
+      "score": 0.7067
+    },
+    {
+      "description": "Iceberg",
+      "score": 0.7067
+    },
+    {
+      "description": "Fumarolic ice tower",
+      "score": 0.6717
+    },
+    {
+      "description": "Freezing",
+      "score": 0.5781
+    },
+    {
+      "description": "Ice shelf",
+      "score": 0.5714
+    },
+    {
+      "description": "Ice sheet",
+      "score": 0.5483
+    },
+    {
+      "description": "Glacier",
+      "score": 0.5143
+    },
+    {
+      "description": "Meltwater",
+      "score": 0.4992
+    },
+    {
+      "description": "Wave",
+      "score": 0.4604
+    },
+    {
+      "description": "Ocean",
+      "score": 0.4194
+    },
+    {
+      "description": "Physics",
+      "score": 0.4082
+    }
+  ],
+  "best_guess_labels": [
+    "frozen ice antarctica"
+  ],
+  "similar_image_urls": [
+    "http://geofrikphotos.files.wordpress.com/2012/12/olas-de-hielo-1.jpg",
+    "https://s3.ppllstatics.com/lasprovincias/www/multimedia/201502/03/media/fenomenos/ola5.jpg",
+    "https://s.w-x.co/blue-berg-8.jpg",
+    "https://s.yimg.com/ny/api/res/1.2/zH.2ip4YdfPWoobl7eqlxw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTcyMDtjZj13ZWJw/https://s.yimg.com/uu/api/res/1.2/svQ7TqFIWObuQns1GWNcaw--~B/aD02MDA7dz04MDA7YXBwaWQ9eXRhY2h5b24-/http://l.yimg.com/os/152/2012/11/27/blue-berg-8-JPG-jpg_182848.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10160471800253538",
+    "http://batona.net/uploads/posts/2013-11/1383564187_016.jpg",
+    "https://pics.livejournal.com/sudovoy/pic/0004af21.jpg",
+    "https://ecospiritualityresources.com/wp-content/uploads/2014/03/get-attachment-aspx.jpeg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10203721191203044",
+    "https://www.snopes.com/uploads/images/photos/natural/graphics/awave03.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.snopes.com/fact-check/antarctic-wave/",
+      "page_title": "Antarctic Wave | Snopes.com",
+      "title": "Antarctic Wave",
+      "description": "Do photographs show ice formations in Lake Huron created by waves of water freezing in midair?",
+      "text": "Starkly beautiful wave-like ice formations like the ones captured below can indeed be found in parts of Antarctica:\nExamples:\n[Collected via e-mail, January 2008]\nThe water froze the instant the wave broke through the ice.\nThat's what it is like in Antarctica. Water freezes the instant it comes in contact with the air. The temperature of the water is already some degrees below freezing.\nJust look at how the wave froze in midair?\n[Collected via e-mail, March 2008]\nAn Ice Wave from the floor of Lake Huron near Mackinaw Island\nMichigan has had the coldest winter in decades. Water expands to freeze, and at Macinaw City the water in Lake Huron below the surface ice was supercooled. It expanded to break through the surface ice and froze into this incredible wave.\nI've seen pictures of this wave phenomena in Antarctica, but in Michigan? Yes, it's been quite a winter!\nHowever, such formations are not created (as claimed in the text accompanying these images) by waves of water hitting frigid air and instantly freezing in place; they're typically formed over time from ice that has been compacted and uplifted by glaciation, then shaped through exposure to the elements:\nMost of these images in fact result from melting, not from freezing.\nMelting has produced the downward pointing spikes that look like a breaking wave — they are simply icicles. Furthermore, the beautiful smoothly polished surfaces are again the result of melting; freshly frozen ice, especially ice that has frozen rapidly, is cloudy and opaque. The transparent ice in the photographs has been created in a glacier or ice cap by the slow annealing of ice as it is buried under each year's successive accumulation of snow.\nThese particular photographs were taken at the Antarctic base of Dumont D'Urville by Tony Travouillon in 2002.\nBeginning in March 2008, newer versions of these pictures described the ice formations as a phenomenon occurring in Lake Huron near Michigan, thereby erroneously placing them thousands of miles away (and in the wrong hemisphere) from their true source.",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.sail-world.com/-45618/",
+      "page_title": "Team Mowbray's Amazing Iceberg Photos - Sail-World.com",
+      "title": "Team Mowbray's Amazing Iceberg Photos",
+      "description": "Just in case you never get to sail in the Antarctic - or even if you do - here are some amazing photos of icebergs that Tony Mowbray, whose yacht Commitment sails there every year. Icebergs in the Antarctic area sometimes have stripes, formed by layers of snow that react to different conditions. Blue stripes are often created when a crevice in the ice sheet fills up with saltwater and freezes",
+      "text": "Team Mowbray's Amazing Iceberg Photos\nby BW Media on 22 Jun 2008\nCommitment in an ice field - sails Antarctica every year SW\nTony Mowbray asks 'Have you ever said to yourself, when idly flicking through a coffee table book or watching a documentary, 'One day I would really like to go see Antarctica'?' - He goes on to promote his Team Mowbray Expeditions to the Antarctic, and there'll be eight of them this coming Antarctic summer, all carried out on the yacht Commitment.\nHowever, just in case you never get the chance to go there, Tony has sent us some staggeringly beautiful and amazing shots of the kind of icebergs you may see during a visit, and we share them with you here.\nTony explains the photos following:\nIcebergs in the Antarctic area sometimes have stripes, formed by layers of snow that react to different conditions.\nBlue stripes are often created when a crevice in the ice sheet fills up with meltwater and freezes so quickly that no bubbles form.\nWhen an iceberg falls into the sea, a layer of salty seawater can freeze to the underside. If this is rich in algae, it can form a green stripe.\nBrown, black and yellow lines are caused by sediment, picked up when the ice sheet grinds downhill towards the sea.\nIn the following photos, Tony explains: These photos suggest that water freezes the instant the wave breaks through the ice. That's what it is like in Antarctica where it is the coldest weather in decades. Water freezes the instant it comes in contact with the air. The temperature of the water is already some degrees below freezing. However the reality is that these are compressed sheets of ice that are melting, still they do look like freezing waves don't they.\nAfter seeing these photos, maybe, just maybe, you'll change your mind! Click the Team Mowbray Commitment Expeditions 2008-09\nIf you want to link to this article then please use this URL: www.sail-world.com/45618",
+      "image_captions": [
+        "Zhik - Made for Water",
+        "Hyde Sails Yacht Sails",
+        "Icom Australia MPU SCIBS 2026",
+        "Sea Sure Rig Gauge Pro",
+        "Rooster 2026 - Pro Aquafleece 2.0"
+      ]
+    }
+  ],
+  "evidence_count": 2,
+  "crawled_at": "2026-04-23T17:54:45.373360+00:00"
+}

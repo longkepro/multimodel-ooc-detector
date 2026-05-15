@@ -1,0 +1,87 @@
+{
+  "sample_id": "false_40",
+  "image_url": "https://bassblaster.bassgold.com/wp-content/uploads/2011/10/powerline_tackle_1.jpg",
+  "visual_entities": [
+    {
+      "description": "Fishing",
+      "score": 0.7362
+    },
+    {
+      "description": "Fishing Line",
+      "score": 0.7198
+    },
+    {
+      "description": "Fishing lure",
+      "score": 0.7108
+    },
+    {
+      "description": "Bait",
+      "score": 0.7091
+    },
+    {
+      "description": "Fishing Rod",
+      "score": 0.7063
+    },
+    {
+      "description": "Fishing float",
+      "score": 0.7032
+    },
+    {
+      "description": "Fish hook",
+      "score": 0.6222
+    },
+    {
+      "description": "Braided fishing line",
+      "score": 0.5349
+    },
+    {
+      "description": "Fishing tackle",
+      "score": 0.4722
+    },
+    {
+      "description": "PowerPro",
+      "score": 0.4463
+    },
+    {
+      "description": "Fishline",
+      "score": 0.4203
+    },
+    {
+      "description": "Electrical cable",
+      "score": 0.362
+    },
+    {
+      "description": "Overhead power line",
+      "score": 0.3221
+    }
+  ],
+  "best_guess_labels": [
+    "fishing line on power line"
+  ],
+  "similar_image_urls": [
+    "https://bassblaster.bassgold.com/wp-content/uploads/2011/10/powerline_tackle_1.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://bassblaster.rocks/no-more-fishing-near-power-lines",
+      "page_title": "No More Fishing Near Power Lines? - BassBlaster",
+      "title": "No More Fishing Near Power Lines?",
+      "description": "Tragedy here that may be a warning to us all, even though I’m sure we’ve all seen baits, bobbers and whatnot hanging from power lines with apparently no ill effects. What do you make of this? From tampabay.com: > Jason L. Reeves had gone fishing Wednesday in a small lake at Clover Leaf Farms, on […]",
+      "text": "Tragedy here that may be a warning to us all, even though I’m sure we’ve all seen baits, bobbers and whatnot hanging from power lines with apparently no ill effects. What do you make of this? From tampabay.com:\n> Jason L. Reeves had gone fishing Wednesday in a small lake at Clover Leaf Farms, on the north side of Brooksville, where he lived with his girlfriend. The everyday fishermen there say that’s the first time they had seen him. He caught two bass with his brightly colored spinner[bait?].\n> Reeves came back the next morning. The 32-year-old stood in the rain, an umbrella tucked in his back pocket, and cast again and again into the water. Joe Dahm, staying at his mother’s house nearby, left about 9:30 that morning. Reeves was still fishing. When Dahm came back at 2 p.m., the lure was tangled in the 12- to 15-foot-high power line, and Reeves was gone.\n> Sometime Thursday, investigators believe, Reeves’ metal lure snagged the 7,200-volt power line that hangs about 15 to 20 feet away from the bank. An electric current, investigators with the power company say, shot down through the soaked fishing line and shocked Reeves, causing him to fall into the water. The medical examiner hasn’t determined the cause of death yet, but Brooksville police say the evidence points to electrocution.\n> “What are the chances of that ever happening anywhere?” said police Chief George Turner. “Everything just happened in the wrong way at the wrong time for him.”\n> Dahm and Dean Chapman, who fishes the lake nearly every day, were both with Reeves’ girlfriend, Dawn Miele, just after she discovered Reeves’ body. The men were stunned by what had happened, and they questioned the report from Progress Energy that the current had passed through the fishing line and not the rod.\n> Both men had caught their fishing lures in the power lines before and neither had ever been shocked. Dahm even uses SpiderWire, the same type of line that Reeves used.\n> Dahm worked as a linesman and supervisor at a power company in Pennsylvania for 40 years. He doubted that even a soaked fishing line could have held enough current to kill someone. He also thought the rod was graphite, which could have carried a charge.\n> A technician for the power company, Turner said, tested the rod and determined it was not conductive. The wet line was, however.\n> Michael F. Stringfellow of Scottsdale, Ariz., has served as an expert witness in electrocution cases and has a doctorate in electrical engineering. He agreed with Dahm and Chapman. Without knowing what the fishing line was made of, he couldn’t make a definitive determination. But he said the materials typically don’t carry a current well. Water can be conductive, he said, but it usually requires a high salt concentration.\n> Also, he said, if the pole was made of graphite, it would be highly conductive. “You don’t need a lot of current,” he said. “It just stops your heart.”",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.kleintools.com/videos/how-use-fish-rods-pulling-cables",
+      "page_title": "How To Use Fish Rods for Pulling Cables - Klein Tools",
+      "title": "How To Use Fish Rods for Pulling Cables",
+      "description": "Klein Tools is committed to American Manufacturing, since 1857. For over 160 years, Klein Tools has remained dedicated to professional tradesmen worldwide, with a commitment to manufacturing the world's finest hand tools right here in America. We don't just make great products, we make great products that stand up to the demands of the professionals who use them everyday.",
+      "text": "Learn how to use fish rods for pulling cables. Also learn about the available lengths, flexibilities, and accessories that Klein Tools offers. http://www.kleintools.com/catalog/fish-tapes-conduit-tools/fish-glow-rods\nRuntime\n4:34\nLearn how to use fish rods for pulling cables. Also learn about the available lengths, flexibilities, and accessories that Klein Tools offers. http://www.kleintools.com/catalog/fish-tapes-conduit-tools/fish-glow-rods",
+      "image_captions": [
+        "The Current - Our Quarterly Catalog Featuring New Products from Klein",
+        "Klein Tools stacked logo"
+      ]
+    }
+  ],
+  "evidence_count": 2,
+  "crawled_at": "2026-04-23T16:56:57.878865+00:00"
+}

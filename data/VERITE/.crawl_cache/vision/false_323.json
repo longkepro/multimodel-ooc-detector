@@ -1,0 +1,87 @@
+{
+  "sample_id": "false_323",
+  "image_url": "https://pbs.twimg.com/media/C2o-QW8XUAAV194.jpg:large",
+  "visual_entities": [
+    {
+      "description": "Flag of the United States",
+      "score": 1.241541
+    },
+    {
+      "description": "United States",
+      "score": 1.0695
+    },
+    {
+      "description": "Mexico",
+      "score": 0.74205005
+    },
+    {
+      "description": "Flag",
+      "score": 0.7315
+    },
+    {
+      "description": "",
+      "score": 0.713
+    },
+    {
+      "description": "Thomas Jefferson",
+      "score": 0.6894
+    },
+    {
+      "description": "American Revolution",
+      "score": 0.58695
+    },
+    {
+      "description": "Thirteen Colonies",
+      "score": 0.56445
+    },
+    {
+      "description": "Flag Day",
+      "score": 0.56067145
+    },
+    {
+      "description": "Flag of Texas",
+      "score": 0.5483
+    },
+    {
+      "description": "",
+      "score": 0.4947
+    },
+    {
+      "description": "Flag of Mexico",
+      "score": 0.4685
+    },
+    {
+      "description": "United States Flag Code",
+      "score": 0.468
+    },
+    {
+      "description": "Flag Day",
+      "score": 0.4304
+    },
+    {
+      "description": "won",
+      "score": 0.3882
+    }
+  ],
+  "best_guess_labels": [
+    "flag of the united states"
+  ],
+  "similar_image_urls": [
+    "https://pbs.twimg.com/media/C2o-QW8XUAAV194.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.dvidshub.net/video/941301/american-flag",
+      "page_title": "Video - American Flag - DVIDS",
+      "title": "American Flag",
+      "description": "Full screen animated waving flag of the United States of America (USA).",
+      "text": "Full screen animated waving flag of the United States of America (USA).\nVideo Analytics\nPUBLIC DOMAIN\nThis work, American Flag, by Rodney Turner, identified by DVIDS, must comply with the restrictions shown on https://www.dvidshub.net/about/copyright.\nMORE LIKE THIS\nCONTROLLED VOCABULARY KEYWORDS\nTAGS",
+      "image_captions": [
+        "Defense Visual Information Distribution Service Logo",
+        "US Deptartment of Defense Logo"
+      ]
+    }
+  ],
+  "evidence_count": 1,
+  "crawled_at": "2026-04-23T19:02:29.286508+00:00"
+}

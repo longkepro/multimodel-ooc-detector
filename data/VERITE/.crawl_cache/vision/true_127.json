@@ -1,0 +1,80 @@
+{
+  "sample_id": "true_127",
+  "image_url": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2018/11/dragged.jpg",
+  "visual_entities": [
+    {
+      "description": "Nate Ruess",
+      "score": 10.5075
+    },
+    {
+      "description": "fun.",
+      "score": 0.7135
+    },
+    {
+      "description": "Image",
+      "score": 0.5875
+    },
+    {
+      "description": "Stock photography",
+      "score": 0.572
+    },
+    {
+      "description": "FUN!",
+      "score": 0.5551
+    },
+    {
+      "description": "Why Am I the One",
+      "score": 0.5358
+    },
+    {
+      "description": "",
+      "score": 0.5156
+    },
+    {
+      "description": "Getty Images",
+      "score": 0.5156
+    },
+    {
+      "description": "Fueled by Ramen",
+      "score": 0.4648
+    },
+    {
+      "description": "",
+      "score": 0.4644
+    },
+    {
+      "description": "Universal Music Group",
+      "score": 0.4644
+    },
+    {
+      "description": "Universal Music Group",
+      "score": 0.3973
+    }
+  ],
+  "best_guess_labels": [
+    "fun"
+  ],
+  "similar_image_urls": [
+    "https://media.gettyimages.com/id/458751956/photo/topshot-demonstrators-hold-a-riot-police-during-clashes-following-a-protest-against-the.jpg?s=612x612&w=gi&k=20&c=14T4FqWnIEmVayavdCeG7NYsrX96ihBvO7hS46945fs="
+  ],
+  "evidence": [
+    {
+      "url": "https://www.gettyimages.com/photos/airport-of-acapulco",
+      "page_title": "153 Airport Of Acapulco Stock Photos, High-Res Pictures, and Images",
+      "title": "Getty Images",
+      "description": "Getty Images. Find high resolution royalty-free images, editorial stock photos, vector art, video footage clips and stock music licensing at the richest image search photo library online.",
+      "text": "d3sign\n818362142\nUser validation",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.gettyimages.co.uk/photos/airport-of-acapulco",
+      "page_title": "152 Airport Of Acapulco Stock Photos, High-Res Pictures, and Images",
+      "title": "Getty Images",
+      "description": "Getty Images UK. Find high resolution royalty-free images, editorial stock photos, vector art, video footage clips and stock music licensing at the richest image search photo library online.",
+      "text": "d3sign\n818362142\nUser validation",
+      "image_captions": []
+    }
+  ],
+  "evidence_count": 2,
+  "crawled_at": "2026-04-23T17:28:10.998288+00:00"
+}

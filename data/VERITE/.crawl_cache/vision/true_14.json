@@ -1,0 +1,107 @@
+{
+  "sample_id": "true_14",
+  "image_url": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2022/03/climate-protest-reporter.png",
+  "visual_entities": [
+    {
+      "description": "Tourism",
+      "score": 0.7102
+    },
+    {
+      "description": "Dan Evon",
+      "score": 0.47669998
+    },
+    {
+      "description": "Sportivnyy Kompleks Olimpiyskoy Derevni-80",
+      "score": 0.4305
+    },
+    {
+      "description": "Travel",
+      "score": 0.3641
+    }
+  ],
+  "best_guess_labels": [
+    "tourism"
+  ],
+  "similar_image_urls": [
+    "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2022/03/climate-protest-reporter.png",
+    "https://mediaproxy.snopes.com/width/600/https://media.snopes.com/2022/03/climate-protest-reporter.png",
+    "https://iv.okcdn.ru/getVideoPreview?id=7393364150852&idx=5&type=39&tkn=HAtspFSo6KBLhgFislcmF_h1Q6g&fn=vid_w",
+    "https://www.indy100.com/media-library/twitter.png?id=29493050&width=2000&height=1500&coordinates=80%2C0%2C136%2C0",
+    "https://www.indy100.com/media-library/twitter.png?id=29493050&width=1245&height=700&coordinates=0%2C28%2C0%2C34",
+    "https://www.indy100.com/media-library/twitter.png?id=29493050&width=1200&height=1200&coordinates=203%2C0%2C259%2C0",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1018542608738511&get_thumbnail=1",
+    "https://maldita.es/uploads/images/2022/12/639c536c2e0feimage-png.png",
+    "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3875788863218473440",
+    "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3854428242762181390"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.snopes.com/fact-check/climate-protest-ukraine-body-bag/",
+      "page_title": "Climate Protest Miscaptioned as War Footage | Snopes.com",
+      "title": "Climate Protest Miscaptioned as War Footage",
+      "description": "Thousands of people have already died in the first week of Russia's war on Ukraine.",
+      "text": "This video comes from a \"die-in\" climate protest in Austria in which protesters got inside of body bags to signify the catastrophic impact current climate policy could have on the world. This is not war footage, it was not taken in Ukraine, and it does not show the media using \"crisis actors\" to fake the growing death toll of Russia's invasion of Ukraine.\nOrigin\nDuring February 2022, as Ukrainian cities were shelled by Russian missiles, as tanks were hit by Molotov cocktails, and as the death toll from Russia's invasion of Ukraine stretched into the thousands, a video started circulating on social media that attempted to show that this entire conflict had been staged.\nThe viral video clip shows a reporter standing in front of dozens of body bags. As the clip goes on, one of the \"dead bodies\" in the background unzips the body bag and stands up. While social media users shared this clip as if it was taken in Ukraine and showed a reporter talking about the death toll, that is not what this clip shows.\nThis video was not taken in Ukraine but in Austria on Feb. 4, 2022 (about two weeks before Russia's invasion of Ukraine) and shows a climate protest.\nHere's the original video. Note that the chyron reads \"demo gegen klimapolitik\" (translated from German as \"Demo against climate policy\") and that the signs in the background read (translated via Google) \"Climate Protection Act Saves Lives\" and \"Not Current Climate Policy\":\nThis isn't the first time this video has been miscaptioned. USA Today addressed a different iteration of this claim on Feb. 9 when the video was shared as if it showed COVID-19 \"crisis actors.\"\nAn Austrian television clip has gained traction on social media, where some falsely claim it shows evidence of crisis actors ... The clip has been taken out of context – it does not show crisis actors in Germany. In fact, it shows climate protesters in Austria.\nAnd this isn't the first \"crisis actor\" claim to emerge during Russia's attack on Ukraine. A video showing the filming of a movie in England in 2013 was also re-captioned as if it showed Ukrainians staging an attack in 2022. You can read more about the disinformation that has been circulating about Russia's invasion of Ukraine here.",
+      "image_captions": [
+        "Clothing, Apparel, Person"
+      ]
+    },
+    {
+      "url": "https://www.indy100.com/news/moving-body-bags-ukraine-dea",
+      "page_title": "No, that video of moving body bags doesn't prove Ukraine's dead ...",
+      "title": "No, that video of moving body bags doesn't prove Ukraine's dead are 'crisis actors'",
+      "description": "As the Ukraine-Russia crisis continues, more and more misinformation is running rampant online. Many people have grown accustomed to seeing and sharing content without fact-checking it first, but amid war, that can be deadly.One claim, shared widely, is that a clip of body bags moving and wriggling ...",
+      "text": "As the Ukraine-Russia crisis continues, more and more misinformation is running rampant online.\nMany people have grown accustomed to seeing and sharing content without fact-checking it first, but amid war, that can be deadly.\nOne claim, shared widely, is that a clip of body bags moving and wriggling shows that Ukraine's death toll is being inflated, with some conspiracy theorists claiming it's proof of \"crisis actors\" playing roles.\nBut the video is actually from a climate change protest that has been edited to appear as though it was recorded in the aftermath of Russia's invasion.\nCNN reporter, Daniel Dale created a thread debunking the now-viral clip.\n\"This video is a fake. It takes video from a Feb. 4 Austrian news report on a demonstration about climate change and overlays it with unrelated audio from a February 24 NBC news report from Ukraine,\" he began.\nDale then went on to state the facts, \"1) Feb. 4 Austrian news report on a climate protest 2) Feb. 24 NBC report from Ukraine3) The fake -- which A) took the Austrian video of the climate protest B) replaced the audio with NBC audio from Ukraine, C) replaced the screen text on the protest with NBC text on Ukraine.\"\nThe reporter also shared how the video is being circulated.\n\"The video of people in body bags moving around is being used by pro-Russia trolls and others to claim that Ukraine deaths/Ukraine news reports are being faked, when, in fact, the footage is not actually about Ukraine.\"\nDale added, \"This hoax is *not* \"ha ha, people are trying to convince us that living people are supposedly dead.\" It's 'wow, the media reported people died in Ukraine, but they actually showed actors lying in body bags - Ukraine casualty reporting is lying to you.'\"\nIt's important now more than ever to ensure that your posts are well informed.\nThe Independent has a proud history of campaigning for the rights of the most vulnerable, and we first ran our Refugees Welcome campaign during the war in Syria in 2015. Now, as we renew our campaign and launch this petition in the wake of the unfolding Ukrainian crisis, we are calling on the government to go further and faster to ensure help is delivered. To find out more about our Refugees Welcome campaign, click here. To sign the petition click here. If you would like to donate then please click here for our GoFundMe page.",
+      "image_captions": [
+        "Join the news democracy",
+        "No, that video of moving body bags doesn't prove Ukraine's dead are 'crisis actors'",
+        "Rfk Jr. claims Trump ‘calculates percentages differently to everyone else’ – and it's simply wrong",
+        "GTA 6 LIVE: Release date update from insiders is hugely encouraging",
+        "Step aside matcha, ube has officially been gentrified - but what is it?"
+      ]
+    },
+    {
+      "url": "https://www.snopes.com/tag/ukraine/?pagenum=4",
+      "page_title": "Ukraine Articles | Page 4 | Snopes.com",
+      "title": "Did Russian Forces Strike a 'NATO Command Center' in Lviv, Ukraine?",
+      "description": "",
+      "text": "Snopes\nNow available in the app store!\nOpen\nLog in to activate your ad-free access.\nIt looks like you might have a Snopes membership! Log in to enjoy your ad-free experience.\nLog In\nYou're browsing with fewer ads for the next 24 hours, thanks to our sponsor\n1440 Newsletter\n.\nLearn More\nSnopes Membership\nSearch\nMy Profile\nLogout\nSubmit a Rumor\nLatest\nTrending\nNews & Politics\nEntertainment\nFact Checks\nQuiz\nSections\nLatest\nTrending\nFact Checks\nNews\nCollections\nMore\nContact Us\nSubmit a Rumor\nArchives\nQuiz\nFactBot\nSubmit a Tip\nSnopes App\nNewsletters\nAbout Us\nCategories\nNews & Politics\nEntertainment\nScience & Technology\nLifestyle\nSnopes Membership\nLogin\nMy Profile\nLogout\nDonald Trump\nAI-generated Content\nPope Leo XIV\nJeffrey Epstein\nMelania Trump\nUkraine\nDid Russian Forces Strike a 'NATO Command Center' in Lviv, Ukraine?\nWritten by:\nAlex Kasprak\nApril 3, 2023\nA lazy piece of obvious propaganda has become incorporated into several false claims about the w ...\nRead More\nDo Pics of Putin's Chin Prove He Uses a Body Double?\nWritten by:\nNur Ibrahim\nMarch 23, 2023\nVideo of the Russian president’s visit to Russia-occupied Mariupol revived speculation that he u ...\nRead More\nDoes the Flag Zelenksyy Gave to US Congress Contain Nazi Symbolism?\nWritten by:\nAlex Kasprak\nDec. 23, 2022\nThe number 46 does not, in fact, have anything to do with Nazism.\nRead More\nIs This a Real Photo of Ukrainian Soldiers in Front of a Swastika Flag?\nWritten by:\nAlex Kasprak\nMarch 14, 2023\nSome have argued that the photo, taken in 2014, was manipulated. Here, Snopes takes a closer look.\nRead More\nNo, This Is NOT Footage of NATO Aircraft Being Attacked by Russian Missiles in Ukraine\nWritten by:\nDavid Emery\nMarch 9, 2023\nBeware of people passing off video game simulations as actual combat footage.\nRead More\n'ArmA 3' Game Clip Miscaptioned as Ukraine Invasion Footage\nWritten by:\nDan Evon\nFeb. 24, 2022\nThis isn't the first time that clips from the video game ArmA 3 have circulated with incorrect c ...\nRead More\n9 Doctored Pics and Deepfakes of Volodymyr Zelenskyy\nWritten by:\nNur Ibrahim\nMarch 4, 2023\nThe Ukrainian president has long been the subject of viral fauxtography and misleading videos.\nRead More\nDid Biden Call for a Military National Draft?\nWritten by:\nNur Ibrahim\nFeb. 28, 2023\nA post claimed he would call 20-year-olds to war over Ukraine.\nRead More\nDid Zelenskyy Say US Will Have To 'Send Their Sons and Daughters to War' for Ukraine?\nWritten by:\nNur Ibrahim\nMarch 1, 2023\nZelenskyy in early 2023 held a news conference on the first anniversary of Russia’s invasion of ...\nRead More\nIs Twitter Censoring the Ukrainian Flag Emoji?\nWritten by:\nNur Ibrahim\nFeb. 27, 2023\n\"Has anyone else gotten this popup yet or is it only us?\" a viral tweet read.\nRead More\nDoes Video Show Zelenskyy Dancing in High Heels?\nWritten by:\nDavid Emery\nFeb. 27, 2023\nUkrainian President Volodymyr Zelenskyy was a comic actor before he ran for political office.\nRead More\nClimate Protest Miscaptioned as War Footage\nWritten by:\nDan Evon\nMarch 3, 2022\nThousands of people have already died in the first week of Russia's war on Ukraine.\nRead More\nDid Biden Fall Out of Air Force One as He Disembarked?\nWritten by:\nNur Ibrahim\nFeb. 22, 2023\nThe president reportedly had just arrived in Poland.\nRead More\nDid Russia Guarantee Biden's Safety During Surprise Visit to Ukraine?\nWritten by:\nAlex Kasprak\nFeb. 21, 2023\nThat's the message some close to Putin's inner circle were pushing, at least.\nRead More\nAre These Claims About Zelenskyy's Family and Career True?\nWritten by:\nNur Ibrahim\nMarch 1, 2022\nA roundup of the resume and history of the Ukrainian president.\nRead More\nDid Ukraine Give Up Its Nuclear Power Through the Budapest Memorandum?\nWritten by:\nNur Ibrahim\nMarch 22, 2022\nIn 1994, the country agreed to take certain actions in exchange for security assurances.\nRead More\nDoes Ukraine's Constitution Say State Has Duty To Preserve 'Gene Pool' of Ukrainian People?\nWritten by:\nNur Ibrahim\nJan. 26, 2023\nArticle 16 has a particular connection to the Chernobyl nuclear disaster of 1986.\nRead More\nFrom Deepfakes to Manipulated Pics: A Collection of Rumors About the Russia-Ukraine War\nWritten by:\nJessica Lee\nFeb. 24, 2022\nFrom deepfake videos featuring Putin to video game clips being miscaptioned as war footage, coun ...\nRead More\nThe War in Ukraine: A Collection of Fact Checks About Volodymyr Zelenskyy\nWritten by:\nEvan Pattison\nJan. 17, 2023\nUkraine's leader has been subject to myriad rumors and claims.\nRead More\nRussian Journalists Report 3rd Mass Grave Site Near Mariupol\nWritten by:\nMadison Dapcevich\nApril 25, 2022\nTrenches containing deceased civilians were said to be hundreds of feet long.\nRead More\nPrevious\nNext\nPage: 4",
+      "image_captions": [
+        "do photos of putin's chin prove he has a body double?",
+        "NATO sent their jet fighters & Helicopters to help Ukraine, they were attacked by Russian missile and not a single one  escaped.",
+        "Arma 3 clip miscaptioned as Russian attack on Ukraine",
+        "video shows volodymyr zelenskyy dancing in high heels, a cropped top and tight pants",
+        "Clothing, Apparel, Person"
+      ]
+    },
+    {
+      "url": "https://www.snopes.com/author/dan/?pagenum=9",
+      "page_title": "Dan Evon, Author at Snopes.com Page 9",
+      "title": "Were Strollers Left at Poland Train Station for Ukraine Refugees?",
+      "description": "The definitive Internet reference source for researching urban legends, folklore, myths, rumors, and misinformation.",
+      "text": "Dan Evon\nDan Evon worked at Snopes between October 2014 and July 2022. Evon is a Chicago-based writer who has been sifting through the sludge of social media since 2009. Prior to joining the editorial staff at Snopes.com, he was the editor-in-chief of Social News Daily, a senior writer for The Inquisitr, and covered motorcycle racing for All About Bikes Magazine.\nPage: 9",
+      "image_captions": [
+        "disney plus removing anastasia",
+        "Clothing, Apparel, Person",
+        "Person, Human, Military Uniform",
+        "Military, Military Uniform, Person",
+        "Landscape, Nature, Outdoors"
+      ]
+    },
+    {
+      "url": "https://www.snopes.com/fact-check/rating/miscaptioned/?pagenum=20",
+      "page_title": "Archives | Page 20 | Snopes.com",
+      "title": "'ArmA 3' Game Clip Miscaptioned as Ukraine Invasion Footage",
+      "description": "This rating is used with photographs and videos that are “real” (i.e., not the product, partially or wholly, of digital manipulation) but are nonetheless misleading because they are accompanied by explanatory material that falsely describes their origin, context, and/or meaning.",
+      "text": "This rating is used with photographs and videos that are “real” (i.e., not the product, partially or wholly, of digital manipulation) but are nonetheless misleading because they are accompanied by explanatory material that falsely describes their origin, context, and/or meaning.\nLearn more about our rating system here.",
+      "image_captions": [
+        "Arma 3 clip miscaptioned as Russian attack on Ukraine",
+        "Caption: Biden with Grand wizard Of KKK. So who again is playing you, lying to you, using you for the votes, Creators of the KKK, opposed civil right of blacks. Yup thats the Democratic party",
+        "did biden get bruise on forehead falling on plane steps",
+        "Clothing, Apparel, Person",
+        "A tweet claimed to show a video recorded by NASA of aliens flying two rectangular UFOs."
+      ]
+    }
+  ],
+  "evidence_count": 5,
+  "crawled_at": "2026-04-23T16:48:42.744807+00:00"
+}

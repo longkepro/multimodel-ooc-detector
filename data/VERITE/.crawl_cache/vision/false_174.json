@@ -1,0 +1,137 @@
+{
+  "sample_id": "false_174",
+  "image_url": "https://pbs.twimg.com/media/EH2GoJLXUAI0Nw_.jpg",
+  "visual_entities": [
+    {
+      "description": "China",
+      "score": 1.02045
+    },
+    {
+      "description": "Punishment",
+      "score": 0.7268
+    },
+    {
+      "description": "",
+      "score": 0.6803
+    },
+    {
+      "description": "Crime",
+      "score": 0.5276
+    },
+    {
+      "description": "Sanctions",
+      "score": 0.5016
+    },
+    {
+      "description": "Law",
+      "score": 0.4957
+    },
+    {
+      "description": "",
+      "score": 0.4957
+    },
+    {
+      "description": "立枷",
+      "score": 0.489
+    },
+    {
+      "description": "Prisoner",
+      "score": 0.4885
+    },
+    {
+      "description": "Cangue",
+      "score": 0.428
+    },
+    {
+      "description": "History",
+      "score": 0.4146
+    },
+    {
+      "description": "instrument of torture",
+      "score": 0.3936
+    },
+    {
+      "description": "Convict",
+      "score": 0.3557
+    },
+    {
+      "description": "Criminal",
+      "score": 0.3445
+    }
+  ],
+  "best_guess_labels": [
+    "chinese public punishment"
+  ],
+  "similar_image_urls": [
+    "http://www.cvltnation.com/wp-content/uploads/2017/07/tort4-750x594.jpg",
+    "https://pbs.twimg.com/media/EH2GoJLXUAI0Nw_.jpg",
+    "https://smart-lab.ru/uploads/2026/images/23/80/01/2026/01/06/f1c85b4d0c.jpg",
+    "https://smart-lab.ru/uploads/2026/images/23/80/01/2026/01/06/c15259e42f.webp",
+    "https://pbs.twimg.com/media/DVBJUxdU0AAsczI.jpg",
+    "https://www.romaniatv.net/wp-content/uploads/2013/01/device6_img_assist_custom_600x476_38233800.jpg",
+    "https://images.spletnik.ru/i/N/NlAi7gxRYQ/1011.jpg",
+    "http://ttol.vietnamnetjsc.vn//2013/11/25/14/30/ron-nguoi-voi-nhung-man-tra-tan-va-hanh-hinh-da-man-o-trung-quoc_4.jpg",
+    "https://carp2019826045890.wordpress.com/wp-content/uploads/2020/12/b209a-cangue.jpg?w=300&h=238",
+    "https://m1.aboluowang.com/uploadfile/2016/0707/20160707082420467.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.cnn.com/2021/10/18/china/china-punish-parents-intl-hnk",
+      "page_title": "China drafts law to punish parents for children's bad behavior - CNN",
+      "title": "China drafts law to punish parents for children’s bad behavior | CNN",
+      "description": "Parents in China whose young children exhibit “very bad behavior” or commit crimes could face punishment under proposed new legislation.",
+      "text": "Parents in China whose young children exhibit “very bad behavior” or commit crimes could face punishment under proposed new legislation.\nIn the draft of the family education promotion law, guardians will be reprimanded and ordered to go through family education guidance programs if prosecutors find very bad or criminal behavior in children under their care.\n“There are many reasons for adolescents to misbehave, and the lack of or inappropriate family education is the major cause,” said Zang Tiewei, spokesman of the Legislative Affairs Commission under the National People’s Congress (NPC), China’s rubber-stamp parliament.\nThe draft family education promotion law, which will be reviewed at the NPC Standing Committee session this week, also urges parents to arrange time for their children to rest, play, and exercise.\nBeijing has exercised a more assertive paternal hand this year, from tackling the addiction of youngsters to online games – deemed a form of “spiritual opium” – to clamping down on “blind” worship of internet celebrities.\nIn recent months, the Education Ministry has limited gaming hours for minors, allowing them to play online games for one hour on Friday, Saturday, and Sunday only.\nIt has also cut back on homework and banned after-school tutoring for major subjects during the weekend and holidays, concerned about the heavy academic burden on overwhelmed children.\nAt the same time, China is urging young Chinese men to be less “feminine” and more “manly”.\nIn its “Proposal to Prevent the Feminization of Male Adolescents” issued in December, the Education Ministry urged schools to promote on-campus sports such as football.",
+      "image_captions": [
+        "Proya/China Women's Daily",
+        "01 China intl women day video intl hnk",
+        "Scan the QR code to download the CNN app from Google Play.",
+        "Scan the QR code to download the CNN app from the Apple Store."
+      ]
+    },
+    {
+      "url": "https://nypost.com/video/employees-forced-to-crawl-as-punishment-for-not-reaching-targets/",
+      "page_title": "Employees forced to crawl as punishment for not reaching targets",
+      "title": "Employees forced to crawl as punishment for not reaching targets",
+      "description": "Apparently, productivity is on a knee-to-no basis. These employees in Zaozhuang, China, were forced to crawl on their hands and knees as a form of public punishment. The staff reportedly failed to …",
+      "text": "Recommended Employees forced to crawl as punishment for not reaching targets Terrifying moment self-driving Tesla crashes through railroad gate as train approches A look at F-15E fighter jets, the three $31M planes shot down in Kuwait by friendly fire Next Previous",
+      "image_captions": [
+        "Employees forced to crawl as punishment for not reaching targets",
+        "Terrifying moment self-driving Tesla crashes through railroad gate as train approches",
+        "A look at F-15E fighter jets, the three $31M planes shot down in Kuwait by friendly fire"
+      ]
+    },
+    {
+      "url": "https://carp2019826045890.wordpress.com/2018/07/16/shame/",
+      "page_title": "Shame on You: Public Humiliation as Punishment",
+      "title": "Shame on You: Public Humiliation as Punishment",
+      "description": "By Martijn Icks Social media have made public shaming all too easy. With great frequency, cries of moral indignation resound on the Internet, aimed at persons who have allegedly misbehaved or utter…",
+      "text": "By Martijn Icks\nSocial media have made public shaming all too easy. With great frequency, cries of moral indignation resound on the Internet, aimed at persons who have allegedly misbehaved or uttered disgraceful statements. These people suddenly find themselves beleaguered by digital torch-and-pitchfork mobs, ready to slaughter their good name. They are lambasted in furious tweets. Scathing memes are posted on Facebook and message boards. Soon their inbox starts to overflow with hate mail and death threats.\nMany of these targets are public figures, such as politicians and celebrities. However, even the conduct of private individuals can raise a storm of moral outrage that reaches national, if not global, proportions. Famous examples include Walter Palmer, an American dentist who ignited the ire of online communities by shooting a lion, and Justine Sacco, an American woman whose jocular tweet on catching AIDS when travelling to Africa unleashed a fury of angry responses.\nWhole websites are devoted to the naming and shaming of people who are accused of marital infidelity, fraud, or other forms of unacceptable behavior. The names and pictures posted on these websites may not reach an audience of millions, but they can still destroy careers, reputations and even lives.\nYet public shaming is not just an online phenomenon. Long before the rise of the Internet, the extramarital affairs of royalty, MPs and pop stars were exposed by tabloids, their gaffes relentlessly mocked by cartoonists and TV comedians. Even earlier, the high and mighty faced jeering crowds and mocking songs.\nOrdinary people, too, have always been subjected to public shaming, although their disgrace tended to be limited to their own communities. However, that did not mean they could count on a merciful treatment. On the contrary, sexual deviance, infidelity, betrayal and other alleged crimes and vices were often dealt with harshly. An almost 2,000-year-old example is provided by the Roman historian Tacitus, who records how men from ancient Germanic tribes treated their unfaithful wives:\nHaving cut off the hair of the adulteress and stripped her naked, he expels her from the house in the presence of her kinsfolk, and then flogs her through the whole village. (Germania 19)\nIt would be easy to dismiss this custom as typical of barbaric people, but public shaming was hardly more subtle in “civilized” societies. The practice of tarring and feathering was a beloved form of mob vengeance from the medieval period to the days of the Wild West. After Europe’s liberation from Nazi occupation, women who had associated with the Germans had their heads shaved bare and were paraded through the streets. Presumably, the culprits thought that what they were doing amounted to justice.\nIn many historic cultures, public shaming was part of the repertoire of punishments doled out by the authorities. The best-known device used for this purpose was the pillory, consisting of a wooden framework with holes for the victim’s head and hands. Thus secured, the unfortunate man or woman was displayed in the town square, where angry mobs could pelt them with fruit, dirt or stones.\nThe Chinese equivalent to the pillory was the cangue or tcha, a thick wooden board that was fastened about the victim’s neck, sometimes for weeks on end, so that their hands could not reach their mouth and they had to rely on the mercy of others to eat and drink.\nIn medieval and early modern Germany, those convicted of minor crimes sometimes had to wear the “mask of shame”, usually an iron construction in the shape of an animal’s head. (See the titular image for an example.) Although this device wasn’t as potentially deadly as the cangue, its wearers were still in for heaps of merciless ridicule.\nAll these punishments, and the numerous other methods of public shaming dreamed up throughout history, served to imprint on the victims that they had overstepped a moral boundary that was not to be crossed, while simultaneously signaling to the rest of the community what the consequences of such actions were. Thus “good” and “bad” behavior were defined in unmistakable terms.\nUndoubtedly they also served another purpose, namely to create an outlet for the emotions of volatile crowds, providing a target for their anger, frustration and contempt. After all, the last thing kings, nobles and magistrates wanted was that the unwashed mashes turned their fury against them and started a revolt.\nNowadays, public shaming does not feature prominently in the law books of Western democracies. Still, it is not unheard of for judges to convict and sentence people to display signs describing their misbehavior. Compared to the pillories and cangues of the past, this form of punishment seems almost humane, yet we should not underestimate its devastating effects. Few things are harder to repair than a damaged reputation.",
+      "image_captions": [
+        "A London pillory in the early nineteenth century",
+        "French “Nazi lovers” paraded through the streets of Paris",
+        "The cangue, comparable to the European pillory",
+        "A man from Ohio convicted to out himself as a bully"
+      ]
+    },
+    {
+      "url": "https://history.ifeng.com/c/7nC8UPUDGs1",
+      "page_title": "物产丰富，没有战乱，靠近都城，这个地方被称为“帝王流放之地” - 历史",
+      "title": "物产丰富，没有战乱，靠近都城，这个地方被称为“帝王流放之地”",
+      "description": "古代量刑时常说：「死罪可免，活罪难逃。」流放就是「活罪」之中极重的一种刑罚了，不仅要到边疆受劳役之苦",
+      "text": "古代量刑时常说：「死罪可免，活罪难逃。」流放就是「活罪」之中极重的一种刑罚了，不仅要到边疆受劳役之苦，而且这一生也基本不能与家人见面了。我国历史上有几大流放地，几乎都是苦寒之地，如寒冷的东北、遥远的新疆、孤独的海南岛。但房陵却是个例外，这里物产丰富，没有战乱，靠近都城。这是怎么一回事呢？\n房陵，现在叫房县，位于湖北省西北部、十堰市南部，以「纵横千里、山林四塞、其固高陵、如有房屋」而得名。西周以前，房县为彭部落方国。根据《房县志》记载：「（尧）帝子丹朱避舜于房陵。舜让弗克，遂封于房，是为房子国。」\n丹朱是为帝尧的长子，从小极受尧的宠爱。但其个性刚烈，做事坚决有主见，欠和顺和政治智慧，被尧视为「不肖乃翁」，封于丹渊。据说丹朱想看望尧帝，但被舜阻挠，知道帝尧死后，丹朱才回去奔丧。因为舜的「谦让」，丹朱称帝，但大臣们都不来朝见，三年后禅位于舜。\n因丹朱为三苗首领并且曾称帝三年，故在南方的少数民族聚居地区地位崇高，被湖南、广东等地被奉为衡山皇、丹朱皇，舜则就把丹朱封到房地为诸侯。房国是有记录历史以来最早的部落方国，丹朱死后，其子陵袭封，并以封地为姓，后世称「尧帝世孙，得邑为姓」。\n流放一向被说成是统治者的仁慈，流放者要感恩戴德，百姓们也会觉得皇帝品德高尚。犯错的臣子可以流放远方，但地位再高的就要慎重考虑了。这时房陵就成为了一个不错的选择，这里物产丰富，生活不错；山林闭塞，不易出逃；地处华中，靠近都城，容易掌控。皇帝、皇亲国戚、王侯将相等均被流放的这里，史称「帝王流放之地」。\n秦始皇九年，长信侯嫪毐作乱被处死，株连四千余家人被夺爵徙房陵；秦始皇十二年，文信侯吕不韦被赐死，株连万余家人被夺爵徙房陵；秦始皇十九年，秦灭赵国，赵王迁献地图投降，被迀徙房陵。\n据不完全统计，历代共有40余位帝王、皇亲、将相被流放房陵。其中包括汉高祖刘邦长女鲁元公主的驸马、济川王刘明；唐高宗太子燕王李忠、唐中宗李显、唐太宗之女高阳公主及驸马、宰相房玄龄之子房遗爱；北汉末代皇帝刘继元；后周恭帝柴宗训；宋太祖弟秦王赵廷美；赵匡胤心腹大将田钦祚；北宋开国功臣王彦升等等。\n在这之中最为出名的，就是唐中宗李显了。李显到房陵时，并非失国之君，也不是囚犯，而是一个「王」。曾经因为他庸弱无能，尊武则天为皇太后，结果被废为庐陵王，贬出长安。十四年后，他趁武则天病重，二度称帝。李显虽然离开了房陵，但他带来的文人墨客、能工巧匠，还有他建造的「小长安」都留了下来，融入了房陵文化。\n“特别声明：以上作品内容(包括在内的视频、图片或音频)为凤凰网旗下自媒体平台“大风号”用户上传并发布，本平台仅提供信息存储空间服务。\nNotice: The content above (including the videos, pictures and audios if any) is uploaded and posted by the user of Dafeng Hao, which is a social media platform and merely provides information storage space services.”",
+      "image_captions": [
+        "物产丰富，没有战乱，靠近都城，这个地方被称为“帝王流放之地”"
+      ]
+    },
+    {
+      "url": "https://m.baidu.com/bh/m/detail/ar_9181125874968557011?frsrcid=rec",
+      "page_title": "古代的断头饭中，为何要加一块腥臭生肉？而且犯人还吃得津津有味",
+      "title": "古代的断头饭中，为何要加一块腥臭生肉？而且犯人还吃得津津有味",
+      "description": "中国有句老话：人之将死，其膳也丰。食物是人类存活于世的根本，也是追求的永恒目标，无论是平民还是罪犯，都拥有吃饱饭的权利。对现代的死刑犯来说，他们人生中的最后一顿饭，可谓色香味俱佳、营养搭配合理。死刑犯们不但可以任意点菜，甚至还可以让家属送饭。有的时候，死刑犯还可以喝点低度酒，抽根小香烟，在无限满足中被注射死刑",
+      "text": "古代的断头饭中，为何要加一块腥臭生肉？而且犯人还吃得津津有味\n中国有句老话：人之将死，其膳也丰。食物是人类存活于世的根本，也是追求的永恒目标，无论是平民还是罪犯，都拥有吃饱饭的权利。对现代的死刑犯来说，他们人生中的最后一顿饭，可谓色香味俱佳、营养搭配合理。死刑犯们不但可以任意点菜，甚至还可以让家属送饭。有的时候，死刑犯还可以喝点低度酒，抽根小香烟，在无限满足中被注射死刑。\n在中国古代，死刑犯最后一顿饭，称为“断头饭”，也叫“壮行饭”、“辞阳饭”。一般情况下，断头饭中最少也有两个小菜，一荤一素，搭配合理。此外，馒头之类的饭食管饱，只要你吃得动，多少都可以。另外，官府有时候还会为死刑犯烫上一壶酒，让死刑犯喝得晕乎乎之后再上路。总的来说，古代的断头饭还是比较人性化的。\n据记载，中国古代的断头饭是从春秋时期的楚国开始的。当年，楚庄王在平定若敖氏家族叛乱的时候，为笼络其它楚国旧贵族的人心，同时也为了彰显自己的仁德，在后来处置该家族的时候，也就是在临处决的当口，突然提出：每人均以饱食。后来，楚庄王的举措逐渐被诸侯国推行，成为彰显统治阶级“人性化”的典范，一直延续到现在。\n断头饭作为皇帝钦定的一餐，标准自然是低不了哪去。宋太祖赵匡胤就曾立下规矩，死刑犯的最后一顿饭的伙食标准是5000文钱，要知道，寻常人家下个馆子也就一百多文钱，吃得丰盛点也就300文左右，5000文赶得上4、5两白银了，宋太祖为了显示自己的仁德，可谓是下了血本。\n虽说断头饭预算高，伙食丰盛，但是看守的狱卒们也没少捞油水。5000文补助到了狱卒手里的时候，只有800文左右，他们给死刑犯准备的断头饭，也是素到不行，几乎连肉渣都看不见，然而，无论狱卒们如何吝啬，都会在断头饭中加入一块又腥又臭的生肉，而那些死刑犯看见碗里的生肉，甚至比见了美食都开心，几口就下肚了。\n事实上，碗里的这块生肉不是给死刑犯准备的，而是给阴曹地府之人留的。民间有一种说法，人死之后，灵魂会分离而出，地府中的黑白无常则会根据准时前来勾魂。魂魄到达地府之后，便会由牛头马面接手，将其押到十殿阎罗处审判。只有经过审判后的魂魄才可以进入六道轮回。\n问题就出在这里，魂魄在进入六道轮回之前，会走上奈何桥，而奈何桥上早早便有孟婆守候。然而，奈何桥上除孟婆外，其实还有一条十分凶恶的狗，一旦魂魄被狗吞掉，死掉的人们就无法进行轮回转世。不过，只要提前用生肉把狗喂饱，就会免于此难。因此，死刑犯们看到碗里的生肉，都会充满感激，他们虽然在这一世作恶多端，但他们也希望在下一世可以得到神灵的庇护。也许在封建时代，这便是人们积德行善的一种方式吧。\n六耳猕猴被一棒敲死后，如来的一声叹息，暴露了孙悟空的秘密\n一发达国家鼓励生孩子，生一个就奖励60万，为何仍没有人愿意生？\n为何肉食动物都不敢攻击熊猫？专家：你看看熊猫在上古时期叫啥\n男子花50万造赝品，转手拍出2.2亿天价，专家：亏了，10亿都不止\n日本拍了一部抗日剧，剧中的日本人扮演什么角色？中国人坐不住了",
+      "image_captions": []
+    }
+  ],
+  "evidence_count": 5,
+  "crawled_at": "2026-04-23T17:41:40.804981+00:00"
+}

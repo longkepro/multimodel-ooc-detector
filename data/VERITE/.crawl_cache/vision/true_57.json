@@ -1,0 +1,98 @@
+{
+  "sample_id": "true_57",
+  "image_url": "https://s2.r29static.com/bin/public/746/0,0,600,315/x/1346558/image.jpg",
+  "visual_entities": [
+    {
+      "description": "Daniel Pantaleo",
+      "score": 9.396
+    },
+    {
+      "description": "Killing of Eric Garner",
+      "score": 1.1142
+    },
+    {
+      "description": "I can't breathe",
+      "score": 0.7166
+    },
+    {
+      "description": "George Floyd protests",
+      "score": 0.64215
+    },
+    {
+      "description": "",
+      "score": 0.6328
+    },
+    {
+      "description": "New York City Police Department",
+      "score": 0.6328
+    },
+    {
+      "description": "Death",
+      "score": 0.4354
+    }
+  ],
+  "best_guess_labels": [
+    "eric garner i can breathe"
+  ],
+  "similar_image_urls": [
+    "https://mediaproxy.snopes.com/width/1200/height/675/https://media.snopes.com/2020/06/Screen-Shot-2020-06-01-at-10.35.10-AM-2-1.png",
+    "https://s2.r29static.com/bin/public/746/0,0,600,315/x/1346558/image.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=275678733629548",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10156956834231837",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2901433789966107",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3551778144848897",
+    "https://africacheck.org/sites/default/files/styles/standard_med/public/2020/05/nypd_correct.png?h=2240b8e9",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100066637643106",
+    "https://africacheck.org/sites/default/files/styles/hero_lg/public/2020/05/nypd_correct.png?h=2240b8e9&itok=q9gma5rM"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.theguardian.com/us-news/video/2014/dec/04/i-cant-breathe-eric-garner-chokehold-death-video",
+      "page_title": "'I can't breathe': Eric Garner put in chokehold by NYPD officer – video",
+      "title": "'I can't breathe': Eric Garner put in chokehold by NYPD officer – video",
+      "description": "Footage filmed by a bystander shows Eric Garner being wrestled to the ground in a chokehold by an NYPD officer before turning limp",
+      "text": "'I can't breathe': Eric Garner put in chokehold by NYPD officer – video\nThis article is more than 11 years old\nFootage filmed by a bystander shows Eric Garner being wrestled to the ground in a chokehold by an NYPD officer before turning limp. The father, 43, can be heard gasping 'I can't breathe'. He was later pronounced dead at a hospital. Protests have erupted in New York after a grand jury failed to indict the officer responsible\nWarning: contains upsetting images\nProtests continue in cities across America after Garner decision\nWarning: contains upsetting images\nProtests continue in cities across America after Garner decision",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.refinery29.com/en-us/2014/12/79850/i-can-breathe-shirts-eric-garner",
+      "page_title": "I Can Breathe Shirts - NYPD Police Protest Eric Garner - Refinery29",
+      "title": "\"I Can Breathe\" T-Shirts Appear At Police Violence Protests",
+      "description": "The pro-police \"I Can Breathe\" shirts have touched a nerve.",
+      "text": "“I Can Breathe” Shirts Appear At Pro-Police Protests\nThe haunting final words of Eric Garner — \"I can't breathe\" — have already inspired a wave of protests against police violence with T-shirts worn by the likes of Lebron James and Laverne Cox. Now, a rebuttal shirt has appeared that supports the NYPD while also mocking a dying man's cry for help.\nApproximately 100 demonstrators wearing sweatshirts reading \"I can breathe, thanks to the NYPD\" swarmed New York's City Hall last night. Chanting \"Don't resist arrest,\" the group clashed with about 200 people protesting the recent grand jury decision not to indict officer Daniel Pantaleo for Garner's July 17 death.\nAdvertisementADVERTISEMENT\nProfile: white, male, racists with compensation issues & likely anger & drinking addictions. Morons. #ThankYouNYPD pic.twitter.com/j9LZ70d4mp\n— Mood_i_ Tude (@Mood_i_Tude) December 20, 2014\nWhile it's entirely within their rights to show support for the boys in blue, some demonstrators have been missing the mark with their tasteless choice of apparel. There's also more than one clothing option available to those looking to further sully the reputation of a dead man.\nCorporal Jason Barthel of the City of Mishawaka Police in Indiana has his own custom-designed apparel, including caps, hoodies, and T-shirts with the tagline \"Breathe Easy: Don’t break the law.” Barthel, however, posted on Facebook that he's not trying to \"slam\" the late Garner and his family. Perhaps he should tell that to his fans, who continue to post captions like \"Comply, don't die\" and rants about Garner's rap sheet.\nIt's not wrong to support the police. Wear an NYPD T-shirt if that's what you want to do. But these racist, offensive shirts just perpetuate the police-officer-as-bully image. Mocking the death of a man — regardless of his crime — is tasteless and sends a frightening message: If we don't do everything the police say, we're going to die? Good to know. Thanks for the threat.\nOkay, so these police supporters can breathe. Can they sleep at night? (Washington Times)\nAdvertisementADVERTISEMENT",
+      "image_captions": [
+        "This icon serves as a link to download the eSSENTIAL Accessibility assistive technology app for individuals with physical disabilities. It is featured as part of our commitment to diversity and inclusion."
+      ]
+    },
+    {
+      "url": "https://www.theguardian.com/us-news/video/2019/jul/16/eric-garner-family-prosecutors-nypd-officer-no-charges",
+      "page_title": "Garner family react after prosecutors fail to charge NYPD officer ...",
+      "title": "'Today we can't breathe': Garner family react after prosecutors fail to charge NYPD officer – video",
+      "description": "An African American man called Eric Garner was killed five years ago by a white police officer using a banned chokehold technique, Garner repeated 11 times that he couldn't breathe",
+      "text": "'Today we can't breathe': Garner family react after prosecutors fail to charge NYPD officer – video\nThis article is more than 6 years old\nThe family of Eric Garner have spoken of their anger after no charges were brought against Daniel Pantaleo, a white police officer implicated in the chokehold death of Garner, an African American man killed almost five years ago. The arrest was captured on cellphone video, which showed Garner repeating the phrase 11 times as Pantaleo pulled him to the ground in what has been described as a banned chokehold. Eric Garner's mother said: 'My son said 'I can't breathe' 11 times, and today we can't breathe'",
+      "image_captions": [
+        "An African American man called Eric Garner was killed five years ago by a white police officer using a banned chokehold technique, Garner repeated 11 times that he couldn't breathe"
+      ]
+    },
+    {
+      "url": "https://www.snopes.com/fact-check/i-can-breathe-shirts/",
+      "page_title": "Did Members of the NYPD Wear 'I Can Breathe' Shirts in 2020 Protest?",
+      "title": "Did Members of the NYPD Wear 'I Can Breathe' Shirts in 2020 Protest?",
+      "description": "A photograph showing men in \"I Can Breathe\" shirts, holding signs supporting the New York Police Department, went viral after the death of George Floyd.",
+      "text": "A photograph of a group of men wearing shirts saying \"I Can Breathe\" spread online between late May and early June 2020 after the death of an unarmed Black man named George Floyd while in custody of Derek Chauvin, a white Minneapolis police officer. The shirts appear to be in a Comic Sans font, and those wearing them are holding up a sign supporting the New York Police Department, prompting Snopes readers to ask us if they were members of the NYPD.\nThe shirts would appear to be both a dark and flippant play on words stemming from one of the last statements uttered by Floyd before he died on May 25, which was \"I can't breathe.\"\nBut the image actually shows protesters from a demonstration in December 2014, months after the death of Eric Garner, a black man, at the hands of an NYPD officer, and more than five years before the death of George Floyd.\nIn July 2014, Garner died as a result of police officer Daniel Pantaleo placing him in a chokehold. His dying words, \"I can't breathe,\" became a rallying cry for protesters calling for an end to police killings of black people. In early December 2014, a grand jury found \"no reasonable cause\" to bring charges against Pantaleo, triggering protests. In July 2019, Attorney General William P. Barr ordered that the case against Pantaleo be dropped, and a month later, Pantaleo was fired from the NYPD.\nAccording to one report from the 2014 demonstration, about 100 people gathered outside New York's City Hall in support of the NYPD on Dec. 19, while other reports said the number was closer to 50. The pro-NYPD gathering, organized by a group called Thank You NYPD, faced off against around 200 counter-protestors demonstrating against police brutality. Organizers from Thank You NYPD told The Village Voice that their group was not made up of police officers, but \"citizens who appreciate the safety that the NYPD provides our great city. Ten million people policed by 35,000 officers is one hell of a task to handle.\"\nAt the demonstration, the pro-NYPD protesters chanted \"Don't resist arrest\" when the anti-police brutality demonstrators chanted \"I can't breathe.\"\nA video from the protest, by ReasonTV, sets the scene:\nA 2014 report from Gawker included some of the shirt-wearer's perspectives. An attendee named Mike Stables had flown in from Colorado for the protest, bringing \"I Can Breathe\" T-shirts with him.\nWhile it is not clear whether many NYPD cops were part of the protests or wearing the shirts, a number of people close to the police were present. Some attendees included a retired NYPD detective and a mother of an NYPD officer. According to CBS, neither Police Commissioner Bill Bratton, nor police unions, endorsed the rally because of concerns about violence. Bratton expected a low turnout. Patrick Lynch, a police union leader, complained about the lack of support from New York City's mayor and his administration:\nPetulant police union leader Pat Lynch recently complained of the lack of support coming from City Hall: \"If they're not going to support us when we need 'em, we'll embarrass them when we can.\"\nIn the above video, a pro-NYPD protester at City Hall responded to a journalist's comment on how the police use force to defend themselves: \"They do it with force -- well, no, we're not allowed to use force.\"\nSteven W. Thrasher, a columnist and faculty member at Northwestern University's Medill School of Journalism, reflected on his coverage of the December 2014 protest for Contexts. By his account, off-duty cops were indeed present:\nHere I was, being 'protected' by the NYPD on duty, surrounded by angry, white, retired and off-duty cops and their supporters. Who hated the press and, it seemed, Black people — and I was in the middle of them.\nAnother report from Gothamist relates an exchange between protesters, indicating more off-duty cops were present:\n\"Where's your badge?\" one woman asked a man on the police side.\n\"It's in my pocket!\" the man replied.\n\"Why don't you take it out?\"\n\"I don't have to, I'm not on duty, bitch!\"\n... \"My boss told me to behave myself tonight,\" said Scott, a police officer who works in Connecticut.\nIt is clear from multiple reports that off-duty cops were indeed present at the pro-police side of the rally, but we are still unable to determine if any of them were wearing the shirts saying \"I Can Breathe.\" We do know that these images are from a 2014 rally supporting the NYPD after the death of Garner, and not in response to the death of Floyd. We thus rate this image as \"Miscaptioned.\"",
+      "image_captions": []
+    },
+    {
+      "url": "https://africacheck.org/fact-checks/meta-programme-fact-checks/yes-pro-police-demonstrators-us-wore-i-can-breathe-t-shirts",
+      "page_title": "Yes, pro-police demonstrators in US wore 'I can breathe' T-shirts in ...",
+      "title": "Yes, pro-police demonstrators in US wore ‘I can breathe’ T-shirts in 2014",
+      "description": "George Floyd, a 46-year-old black man, was killed in police custody on 25 May 2020 after a white officer in the US city of Minneapolis pinned him to the ground ...",
+      "text": "George Floyd, a 46-year-old black man, was killed in police custody on 25 May 2020 after a white officer in the US city of Minneapolis pinned him to the ground and kneeled on his neck for several minutes.\nThe killing has been condemned worldwide, including on social media in South Africa.\nIn a distressing video showing the officer kneeling on his neck, Floyd can be heard repeatedly saying: “I can’t breathe.”\nOn 29 May a South African Facebook user posted a photo of three white men in T-shirts bearing the words “I can breathe.” One of them is holding a sign that reads: “NYPD Police Department. For all you do, we thank you!” The NYPD is the police department in the US city of New York.\nThe post was flagged as possibly false by Facebook’s fact-checking system.\nIs the photo genuine?\nThe photo was taken on 20 December 2014 at a demonstration by about 100 NYPD supporters outside New York’s city hall. A video of the protest shows a number of them wearing the “I can breathe” T-shirts.\nIn July 2014 Eric Garner, also a black man, died from a chokehold and the compression of his chest by NYPD officers. In a video of Garner’s arrest, he can also be heard saying: “I can’t breathe.”\nMany protested Garner's death by wearing T-shirts that read: “I can’t breathe.” – Mary Alexander\nThe killing has been condemned worldwide, including on social media in South Africa.\nIn a distressing video showing the officer kneeling on his neck, Floyd can be heard repeatedly saying: “I can’t breathe.”\nOn 29 May a South African Facebook user posted a photo of three white men in T-shirts bearing the words “I can breathe.” One of them is holding a sign that reads: “NYPD Police Department. For all you do, we thank you!” The NYPD is the police department in the US city of New York.\nThe post was flagged as possibly false by Facebook’s fact-checking system.\nIs the photo genuine?\nPro-police demonstration after Eric Garner death\nThe photo was taken on 20 December 2014 at a demonstration by about 100 NYPD supporters outside New York’s city hall. A video of the protest shows a number of them wearing the “I can breathe” T-shirts.\nIn July 2014 Eric Garner, also a black man, died from a chokehold and the compression of his chest by NYPD officers. In a video of Garner’s arrest, he can also be heard saying: “I can’t breathe.”\nMany protested Garner's death by wearing T-shirts that read: “I can’t breathe.” – Mary Alexander\nFor publishers: what to do if your post is rated false\nA fact-checker has rated your Facebook or Instagram post as “false”, “altered”, “partly false” or “missing context”. This could have serious consequences. What do you do?\nClick on our guide for the steps you should follow.\nPublishers guideAfrica Check teams up with Facebook\nAfrica Check is a partner in Meta's third-party fact-checking programme to help stop the spread of false information on social media.\nThe content we rate as “false” will be downgraded on Facebook and Instagram. This means fewer people will see it.\nYou can also help identify false information on Facebook. This guide explains how.",
+      "image_captions": [
+        "IFCN Code of Principles"
+      ]
+    }
+  ],
+  "evidence_count": 5,
+  "crawled_at": "2026-04-23T17:03:03.681836+00:00"
+}

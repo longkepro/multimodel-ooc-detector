@@ -1,0 +1,82 @@
+{
+  "sample_id": "true_47",
+  "image_url": "https://pbs.twimg.com/media/EcgZqkcWoAALtyN?format=jpg&name=large",
+  "visual_entities": [
+    {
+      "description": "Bus",
+      "score": 1.11765
+    },
+    {
+      "description": "Tour bus service",
+      "score": 0.8589867
+    },
+    {
+      "description": "Toronto Raptors",
+      "score": 0.6939
+    },
+    {
+      "description": "Double-decker bus",
+      "score": 0.5967703
+    },
+    {
+      "description": "NBA",
+      "score": 0.5481
+    },
+    {
+      "description": "Roll On Bus Tours",
+      "score": 0.4617
+    },
+    {
+      "description": "Coach",
+      "score": 0.4066
+    },
+    {
+      "description": "Party bus",
+      "score": 0.4035
+    },
+    {
+      "description": "Public transport bus service",
+      "score": 0.3586
+    }
+  ],
+  "best_guess_labels": [
+    "tour bus service"
+  ],
+  "similar_image_urls": [
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10157157338016496",
+    "https://www.mainbasket.com/uploads/post/2020/07/10/EcgZqkcWoAALtyN.jpg",
+    "https://pbs.twimg.com/media/EcgZqkcWoAALtyN.jpg",
+    "https://images-dh-production-baselayer.dailyhive.com/uploads/2020/07/raptors-black-lives-matter-2.jpeg?format=auto&width=988",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10100449167902124",
+    "https://media.licdn.com/dms/image/v2/C4D22AQEI8UA7q9TWfg/feedshare-shrink_800/feedshare-shrink_800/0/1594324263159?e=2147483647&v=beta&t=HyEN70URH1wl3h5gZeXtRwTBYN7pUaEg-2HBceEx-DU",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=155152532808445"
+  ],
+  "evidence": [
+    {
+      "url": "https://dailyhive.com/vancouver/toronto-raptors-nba-bubble-black-lives-matter-buses",
+      "page_title": "Toronto Raptors roll into NBA bubble in Black Lives Matter buses",
+      "title": "Raptors roll into NBA bubble in Black Lives Matter buses (PHOTOS) | Sports",
+      "description": "The Raptors arrived to the NBA bubble in style, rolling up to their hotel in Raptors-branded buses with \"Black Lives Matter\" written on the side.",
+      "text": "Toronto Raptors roll into NBA bubble in Black Lives Matter buses (PHOTOS)\nThe champs are here.\nThe Toronto Raptors arrived to the NBA bubble in style today, rolling up to their hotel at Disney World in Orlando in Raptors-branded buses with “Black Lives Matter” written on the side.\nThe Raptors, who had been training at Florida Gulf Coast University in Fort Myers, took a two-hour bus ride to get there.\nAll players, coaches, and staff will now be required to quarantine for approximately 36 hours while they wait for test results. This won’t be a new experience for Raptors players, who were already being tested regularly, as Serge Ibaka demonstrated on TikTok.\n@sergeibakaLast day before we head out to Orlando 👀 ##NBA ##mafuzzystyle ##fyp ##basketball ##viral ##trend ##DefendingChamps ##covid-19 ##orlando♬ original sound – sergeibaka\nPlayers from the 22 competing teams are staying at three different hotels on the Disney World property.\nIt’ll be interesting to see what kind of food options Raptors players will be treated to, as there have been some mixed reviews so far from players on other teams who arrived to Orlando in the last couple of days.\nGames will be played at one of three courts at Disney’s ESPN Wide of Sports complex, without fans in attendance.\nThe Raptors play their first “scrimmage” game in 15 days, against the Houston Rockets on July 24. They’ll also play the Portland Trail Blazers (July 26) and Phoenix Suns (July 28) before playing games that count, starting with LeBron James and the LA Lakers on August 1.",
+      "image_captions": [
+        "Toronto Raptors roll into NBA bubble in Black Lives Matter buses (PHOTOS)",
+        "raptors black lives matter"
+      ]
+    },
+    {
+      "url": "https://www.linkedin.com/posts/kevinclayton-2223_the-toronto-raptors-buses-in-orlando-fl-activity-6687503396867477504-pLWe",
+      "page_title": "Kevin Clayton posted on LinkedIn",
+      "title": "Kevin Clayton posted on LinkedIn",
+      "description": "Kevin Clayton posted images on LinkedIn",
+      "text": "The Toronto Raptors buses in Orlando, FL have been designed with the words \"Black Lives Matter\". (📸: Toronto Raptors)\nThe Toronto Raptors buses in Orlando, FL have been designed with the words \"Black Lives Matter\". (📸: Toronto Raptors)\nNever miss a beat on the app\nDon’t have the app? Get it in the Microsoft Store.\nOpen the app",
+      "image_captions": [
+        "View profile for Kevin Clayton",
+        "View organization page for Front Office Sports",
+        "No alternative text description for this image",
+        "Willie Tucker, graphic"
+      ]
+    }
+  ],
+  "evidence_count": 2,
+  "crawled_at": "2026-04-23T16:59:10.631200+00:00"
+}

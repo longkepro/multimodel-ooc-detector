@@ -1,0 +1,106 @@
+{
+  "sample_id": "true_81",
+  "image_url": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2019/10/face_projector_fb.jpg",
+  "visual_entities": [
+    {
+      "description": "Hong Kong",
+      "score": 1.0557001
+    },
+    {
+      "description": "2019–20 Hong Kong protests",
+      "score": 0.8376
+    },
+    {
+      "description": "Facial recognition system",
+      "score": 0.7352
+    },
+    {
+      "description": "Surveillance",
+      "score": 0.7039
+    },
+    {
+      "description": "Biometric",
+      "score": 0.703
+    },
+    {
+      "description": "Closed-circuit television",
+      "score": 0.6751
+    },
+    {
+      "description": "Hong Kong Police Force",
+      "score": 0.4729
+    },
+    {
+      "description": "Security",
+      "score": 0.4457
+    },
+    {
+      "description": "Face",
+      "score": 0.4245
+    },
+    {
+      "description": "Artificial intelligence",
+      "score": 0.4178
+    },
+    {
+      "description": "Closed-circuit television camera",
+      "score": 0.3737
+    },
+    {
+      "description": "Face perception",
+      "score": 0.3247
+    },
+    {
+      "description": "Security Camera",
+      "score": 0.3011
+    }
+  ],
+  "best_guess_labels": [
+    "hong kong facial recognition"
+  ],
+  "similar_image_urls": [
+    "https://mediaproxy.snopes.com/width/1200/height/675/https://media.snopes.com/2019/10/face_projector_fb.jpg",
+    "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2019/10/face_projector_fb.jpg",
+    "https://factcheck.afp.com/sites/default/files/styles/og_image/public/medias/factchecking/hong_kong/factcheck-visual_4_0.png?itok=FC8vCLHj"
+  ],
+  "evidence": [
+    {
+      "url": "https://news.rthk.hk/rthk/en/component/k2/1825255-20250929.htm",
+      "page_title": "New immigration clearance using facial recognition - RTHK",
+      "title": "New immigration clearance using facial recognition - RTHK",
+      "description": "A new immigration clearance channel using facial recognition technology will be in use at the airport from Tuesday. Hong...",
+      "text": "A new immigration clearance channel using facial recognition technology will be in use at the airport from Tuesday.\nHong Kong residents aged 11 or above using the airport's self-service biometric system upon departure with travel documents such as the SAR passport or home return permit, along with non-Chinese Hong Kong residents using their mainland travel permit, are eligible to perform automated arrival clearance at \"Face Easy\" e-Channels, provided that they arrive at the airport with the same document.\nThe Immigration Department said eligible residents only need to face the cameras, and arrival immigration clearance will be completed upon successful verification of identity via facial recognition technology.\nThroughout the entire process, there will be no need to present any documents or the contactless e-Channel encrypted QR code.\nAuthorities said they hope to expand the new service at all e-Channel counters next year, estimating to benefit 8 million people each year.\nAn assistant immigration director, Or Chung-yuk, said the new service only takes seven seconds for each person, one second faster compared with the current e-Channel, and he hopes travellers will welcome it.\n\"Many residents, most of the time, will be carrying luggage or have their travel document keeping in their pockets when they go through the immigration. I believe this service will offer a big help to them when they enter Hong Kong,\" Or said.",
+      "image_captions": [
+        "rthk.hk - English News"
+      ]
+    },
+    {
+      "url": "https://news.rthk.hk/rthk/en/component/k2/1815036-20250725.htm",
+      "page_title": "Police eye year-end facial recognition use in CCTVs - RTHK",
+      "title": "Police eye year-end facial recognition use in CCTVs - RTHK",
+      "description": "Police have revealed plans to adopt facial recognition in their citywide surveillance network by the end of this year, w...",
+      "text": "Police have revealed plans to adopt facial recognition in their citywide surveillance network by the end of this year, with officers looking for \"strategic locations\" to deploy the technology to investigate crimes.\nEric Leung, a senior superintendent from the force's operations wing, said many new security cameras were already equipped with facial recognition functions.\n\"We are identifying what the strategic locations we need to install [the cameras at]... When our backend is ready, then facial recognition can be activated,\" he said.\n\"If there is a suspect or if there is a high-risk missing person, you have his or her identity or facial features, you can input that data into a system, and ask the system if any camera captures that person, to alert the investigation officers.\"\nThe force has been setting up surveillance cameras across Hong Kong since last year under an initiative called \"SmartView\".\nApart from stationary vantage points, the devices were also installed on about 60 police vehicles as of July.\nDiscussions were also under way for the force to gain access to video surveillance feeds from the Transport Department, the Housing Department, and the Leisure and Cultural Services Department, as well as the MTR Corporation.\nPolice said they would begin incorporating surveillance footage from other government departments and organisations in the coming months, with hopes of completing the process in \"two to three years\".\n\"Our system, with other systems, may have different specifications. We may need some upgrades or install some equipment…so that both systems can be integrated,\" Leung noted.\nThe next step, according to the senior superintendent, is to study the feasibility of incorporating surveillance feeds of public places captured by private properties such as malls, industrial buildings and commercial towers.\nHe was confident the scheme would receive support and cooperation from the private sector.",
+      "image_captions": [
+        "rthk.hk - English News"
+      ]
+    },
+    {
+      "url": "https://www.snopes.com/fact-check/hong-kong-protesters-projectors/",
+      "page_title": "Does Video Show Hong Kong Protesters Using Wearable ... - Snopes",
+      "title": "Does Video Show Hong Kong Protesters Using Wearable Face Projectors?",
+      "description": "A 2017 student project about a futuristic society appeared plausible to many 2019 viewers.",
+      "text": "In October 2019, a video supposedly showing political protesters in Hong Kong using wearable projectors in order to foil being caught by facial recognition technology was popular on social media:\nProtestors in Hong Kong have got wearable projectors to avoid facial recognition ? pic.twitter.com/fvjLn9hjdn\n— ??? ?????? (@LeeMifsud) October 5, 2019\nHowever, the video was unrelated to the protests in Hong Kong and actually captured an art project created by students at the Utrecht School of Arts.\nJing-cai Liu, one of the students who worked on the project, uploaded this footage to YouTube in April 2017 along with a description stating that \"this face projector enables you to change your face within seconds. A small beamer maps an image of a different face over your own and gives you a new appearance.\" When the video went viral in October 2019 connected to the claim that it depicted protesters in Hong Kong, Liu added: \"My project has NOTHING to do with political purposes!\"\nHere's an image of the face projector being displayed at an art exhibit:\nA statement posted to Liu's website explained that this wearable face projector was an art project and that most of the models used for the project were non-working conceptual versions. Liu also explained that these wearable projectors were never manufactured and were never intended for political purposes.\nHere's the statement from Liu and others who worked on this project (emphasis ours):\nIn 2017, five Dutch product design students of the Utrecht School of arts, Jing-cai Liu, Sanne Weekers, Joppe Besseling, Jip van Leeuwenstein, and Marcel Coufreur designed a few conceptual products. The products were about staying anonymous in a fictional, futuristic world where face-recognizing is a big thing. The designs should provoke debates about emerging future-technologies and/or marketing strategies.\nThose five students presented their work on YouTube as seen here and went to the Milan design week to present their concepts. More info here:\nLately, the video, and especially the work \"wearable face projector\" by Jing-cai Liu [has been] used in the context of the Hong Kong protest.\nJing-cai Liu and the other members of the design project want to clearly state that they have had no political intentions with their works, not then, not now. They also want to state that most of the works are not-working concepts and they have no interest in manufacturing those products. The copyright of the product/concepts stays in the hands of those designers.\nThey kindly ask to put their works in the right context and always refer back to their websites or named above sources when their concepts are shared. Don't use their works in any political statement.",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.scmp.com/video/scmp-originals/3283856/facial-recognition-cameras-coming-lan-kwai-fong-party-hub-says-hong-kong-police-chief",
+      "page_title": "Facial recognition in Hong Kong's party hub, police chief says",
+      "title": "Facial recognition in Hong Kong’s party hub, police chief says",
+      "description": "Hong Kong’s first set of 50 surveillance cameras, installed by police in the city’s party district Lan Kwai Fong, will have crowd-counting capabilities in time for Halloween…",
+      "text": "Hong Kong’s first set of 50 surveillance cameras, installed by police in the city’s party district Lan Kwai Fong, will have crowd-counting capabilities in time for Halloween…",
+      "image_captions": []
+    }
+  ],
+  "evidence_count": 4,
+  "crawled_at": "2026-04-23T17:12:49.575534+00:00"
+}

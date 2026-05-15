@@ -1,0 +1,120 @@
+{
+  "sample_id": "true_42",
+  "image_url": "https://www.pulitzer.org/cms/sites/default/files/styles/image_slider/public/lopez3900.jpg",
+  "visual_entities": [
+    {
+      "description": "Pulitzer Prize",
+      "score": 0.8144
+    },
+    {
+      "description": "Photography",
+      "score": 0.7163
+    },
+    {
+      "description": "",
+      "score": 0.7075
+    },
+    {
+      "description": "Getty Images",
+      "score": 0.7075
+    },
+    {
+      "description": "Pulitzer Prize for Photography",
+      "score": 0.7055
+    },
+    {
+      "description": "1960 Pulitzer Prize",
+      "score": 0.67815
+    },
+    {
+      "description": "Prize",
+      "score": 0.6741
+    },
+    {
+      "description": "Image",
+      "score": 0.6639
+    },
+    {
+      "description": "Photograph",
+      "score": 0.5938
+    },
+    {
+      "description": "Stock photography",
+      "score": 0.5836
+    },
+    {
+      "description": "Photographer",
+      "score": 0.4997
+    },
+    {
+      "description": "stock.xchng",
+      "score": 0.4698
+    },
+    {
+      "description": "Bettmann Archive",
+      "score": 0.4522
+    },
+    {
+      "description": "Getty Images",
+      "score": 0.4044
+    }
+  ],
+  "best_guess_labels": [
+    "premio pulitzer 1960 fotografía"
+  ],
+  "similar_image_urls": [
+    "https://wwwdev9.pulitzer.org/sites/default/files/styles/slider_large/public/lopez3900.jpg?itok=xN-Pmi24",
+    "https://imagedelivery.net/ue4aG0YFlZz5n2eXb6lOxg/ccccc_05e05ecd22.jpg/width=3840,quality=60,fit=scale-down,dpr=1,slow-connection-quality=40",
+    "https://the-artifice.com/wp-content/uploads/2020/05/A-firing-squad-in-Cuba-700x807.jpg",
+    "https://cdnph.upi.com/svc/sv/upi_com/2451453225390/2016/1/442a6e6810098dee09eff535281d26a5/Hopes-for-democracy-wont-stay-buried-in-Cuba.jpg",
+    "https://media.licdn.com/dms/image/v2/D4D22AQHGOfs7tFqiaA/feedshare-shrink_1280/B4DZ0A_DdkJ4AQ-/0/1773838022786?e=2147483647&v=beta&t=iHihs2RXr_bZf1SLpYXMlqwwOP2yfNoV_Gc8SE2oSWA",
+    "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3848426594705687680",
+    "https://imagenes.religionenlibertad.com/files/vertical_image_mobile/uploads/2025/01/25/67953defd635a.jpeg",
+    "http://database.cubaarchive.org/img/casos/836.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFz3ysU405q3fNoAl8wWwx6FyhQr00w_seD2XadcsvuVSm76ruy3ig6E15NE3YA76obK7CB5VcPnHiiI-ijXSjGl3uCHj9Hv9hCCddjlsThwxJII8tDzDPVkILchDo-uuWuwe5cfKDQ5c/s1600/Lorenzo1.jpg",
+    "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=731972095348897"
+  ],
+  "evidence": [
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Last_rites_of_Jose_Rodriguez.jpg",
+      "page_title": "File:Last rites of Jose Rodriguez.jpg - Wikimedia Commons",
+      "title": "File:Last rites of Jose Rodriguez.jpg - Wikimedia Commons",
+      "description": "",
+      "text": "File:Last rites of Jose Rodriguez.jpg\nAppearance\nSize of this preview: 517 × 599 pixels. Other resolutions: 207 × 240 pixels | 414 × 480 pixels | 688 × 797 pixels.\nOriginal file (688 × 797 pixels, file size: 101 KB, MIME type: image/jpeg)\nCategories:\n- Jose Rodriguez\n- 1959 black and white photographs of people\n- Black and white photographs of Cuba\n- Black and white photographs of kneeling men\n- Black and white photographs of men standing\n- Male people with rifles\n- Matanzas in the 20th century\n- Sacraments\n- Firing squad\n- Pulitzer Prize-winning photographs\n- United Press International photographs\n- Cuban Revolution\n- 1959 in Cuba\n- Soldiers of Cuba\n- Executions by shooting in the Cuban Revolution",
+      "image_captions": [
+        "Flag of the United States",
+        "File:Last rites of Jose Rodriguez.jpg",
+        "Kartographer map based on OpenStreetMap.",
+        "Thumbnail for version as of 17:52, 5 April 2020"
+      ]
+    },
+    {
+      "url": "https://africacheck.org/fact-checks/meta-programme-fact-checks/no-photo-shows-corporal-cuban-dictator-fulgencio-batistas",
+      "page_title": "No, photo shows corporal in Cuban dictator Fulgencio Batista's army ...",
+      "title": "No, photo shows corporal in Cuban dictator Fulgencio Batista’s army receiving last rites, not farmer",
+      "description": "A graphic shared on Facebook shows a black-and-white photo of kneeling man, clasping a small crucifix, while a man dressed as a priest in a long black robe bend...",
+      "text": "A graphic shared on Facebook shows a black-and-white photo of kneeling man, clasping a small crucifix, while a man dressed as a priest in a long black robe bends down to speak to him. Heavily armed men look on.\nText above the photo reads: “This picture won the Pulitzer Prize in 1960. It shows a priest giving the last rites to a Cuban farmer, owner of his land. He refused to work for the Castro regime. He died by a firing squad after a ‘trial’ by Che Guevara that lasted 4 minutes. You will never see this picture on a T-shirt.”\nThe caption refers to the photos of Che Guevara often reproduced on t-shirts. Guevara was an Argentinian communist who was prominent in the Cuban revolution of the late 1950s and other leftist guerilla campaigns in South America.\nThe graphic is also shared here and here. It was flagged as possibly false by Facebook’s fact-checking system after it was posted in South Africa.\nBut is this the true story behind the photo?\nPhoto won 1960 Pulitzer prize\nAn online search for the phrase “photo that won Pulitzer prize in 1960” reveals that the image did win the Pulitzer Prize for photography in 1960 – or rather, the photographer Andrew Lopez won the prize for the photo.\nThe Pulitzer prizes are prestigious annual awards in 21 different categories across journalism, literature and music given out almost exclusively to US citizens.\nThe caption to the photo on the Pulitzer website says that the man in the photo was a former corporal of “Batista’s army”. He was receiving his last rites before his execution, a Catholic ritual performed by a priest before death.\nFulgencio Batista was a dictator who ruled Cuba twice, for the second time between 1952 and 1959. An army under Fidel Castro and Guevara fought and eventually won against Batista’s rule.\nThese details about the photo were repeated on the Pulitzer Prizes Facebook page on 1 December 2016 when they republished the photo. The caption adds that the photo was taken “moments before he is to be executed by a Fidel Castro firing squad”.\nTribunal lasted ‘just one minute’\nAccording to United Press International (UPI), who Lopez worked for, the famous photo was taken on 17 January 1959. They also add details about the man executed, Jose Cipriano Rodriguez.\nUPI say: “Rodriguez, who had served in Fulgencio Batista's army, was executed by firing squad after being found guilty for the deaths of two brothers. His tribunal lasted just one minute. UPI photographer Andrew Lopez won the 1960 Pulitzer Prize for a series of four photos from the scene, including this one.”\nNone of the sources we found mentioned that Guevara was directly involved in Rodriguez’s tribunal. And Rodriguez was a senior military officer, not a farmer. But he was executed by Cuban communist forces, after they defeated Batista’s army.\nFor publishers: what to do if your post is rated false\nA fact-checker has rated your Facebook or Instagram post as “false”, “altered”, “partly false” or “missing context”. This could have serious consequences. What do you do?\nClick on our guide for the steps you should follow.\nPublishers guideAfrica Check teams up with Facebook\nAfrica Check is a partner in Meta's third-party fact-checking programme to help stop the spread of false information on social media.\nThe content we rate as “false” will be downgraded on Facebook and Instagram. This means fewer people will see it.\nYou can also help identify false information on Facebook. This guide explains how.",
+      "image_captions": [
+        "IFCN Code of Principles"
+      ]
+    },
+    {
+      "url": "https://www.snopes.com/fact-check/farmer-castro-execution/",
+      "page_title": "Is This Farmer Being Executed for Not Working with Castro? - Snopes",
+      "title": "Is This Farmer Being Executed for Not Working with Castro?",
+      "description": "A photograph of a man kneeling before a priest was widely shared on Twitter and Facebook.",
+      "text": "In August 2020, social media users circulated a photograph meme said to depict a priest giving the last rites to a Cuban farmer who was being executed because he \"refused to work for the Castro regime\":\nThis image was indeed a Pulitzer Prize winner for United Press International (UPI) photographer Andrew Lopez in 1960, who snapped a series of four photographs of a man executed by a Fidel Castro firing squad, of which this picture was one. However, some of the other accompanying details in this meme are not quite accurate.\nFulgencio Batista was the military dictator of Cuba from 1952 until the end of 1958, when he was overthrown by forces led by Castro and his allies during the Cuban Revolution. This photograph does not depict a \"farmer [who] refused to work for the Castro regime,\" but rather a member of Batista's army who had been charged as a war criminal by the victorious revolutionaries a few weeks after they finally ousted Batista.\nThe UPI caption for this picture read as follows: \"Father Domingo Lorenzo performs last rites for Cuban Army Cpl. Jose Cipriano Rodriguez on Jan. 17, 1959. Rodriguez, who had served in Fulgencio Batista's army, was executed by firing squad after being found guilty for the deaths of two brothers. His tribunal lasted just one minute.\"\nA UPI account of the circumstances behind the photograph, which was published in May 1960 when Lopez was awarded the Pulitzer Prize, stated that Rodriguez's trial lasted two hours rather than four minutes (although deliberations afterwards lasted only a minute), and it made no mention of Ernesto “Che” Guevara, a Castro lieutenant, being personally involved in the case (although Guevara reviewed the appeals and firing squad sentences of those convicted as war criminals in post-revolutionary Cuba):\nAndrew Lopez, veteran United Press International photographer, felt like crying when he took his Pulitzer Prize-winning photographs of a Cuban war criminal kneeling before a priest, with an impatient firing squad watching.\nLopez was awarded the prize for a series of four photographs of Cpl. Jose (Pepe Caliente) Rodriguez preparing to die.\n\"When you have a man kneeling, being given spiritual consolation by a priest who is holding a cross in his hand as the victim presses forward to kiss it, there's no question,\" Lopez said.\n\"It was packed with emotion. I felt like crying myself,\" he said.\nRodriguez was sentenced Jan. 17, 1959, after a two-hour trial in San Severino fortress near Matanzas, Cuba. The tribunal conferred for one minute before finding him guilty, Lopez said. Rodriguez was marched from the trial room and taken down a flight of stairs to the courtyard.\n\"When I saw him marching down the stairs I went in front of him and into this huge, open air, dungeon-like area,\" Lopez said. \"I started to make pictures.\n\"When Pepe Caliente fell to his knees as a priest held up a cross for him to kiss, the scene was one that will be hard to forget. I honestly felt like crying ...\n\"While all this was going on, the firing squad in the background impatiently was waiting for this scene to end so they could perform their duty.\"\nThe condemned man received a 24-hour stay just before sentence was to be carried out, but he was shot the next day.",
+      "image_captions": []
+    },
+    {
+      "url": "https://www.gettyimages.com/photos/pulitzer-winning-photos",
+      "page_title": "3014 Pulitzer Winning Photos Images and Stock Photos - Getty Images",
+      "title": "Getty Images",
+      "description": "Getty Images. Find high resolution royalty-free images, editorial stock photos, vector art, video footage clips and stock music licensing at the richest image search photo library online.",
+      "text": "d3sign\n818362142\nUser validation",
+      "image_captions": []
+    }
+  ],
+  "evidence_count": 4,
+  "crawled_at": "2026-04-23T16:57:21.588251+00:00"
+}

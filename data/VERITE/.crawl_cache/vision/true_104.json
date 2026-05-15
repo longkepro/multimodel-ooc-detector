@@ -1,0 +1,123 @@
+{
+  "sample_id": "true_104",
+  "image_url": "https://i.guim.co.uk/img/media/d9e478fe328e62f581d86b20de8d9dab29f2d86f/0_95_1283_770/master/1283.jpg?width=1200&quality=85&auto=format&fit=max&s=15ce3e9064741005c747573a270ec477",
+  "visual_entities": [
+    {
+      "description": "Extinction Rebellion",
+      "score": 0.8279
+    },
+    {
+      "description": "September 2019 climate strikes",
+      "score": 0.4785
+    },
+    {
+      "description": "Natural environment",
+      "score": 0.4212
+    },
+    {
+      "description": "Global warming",
+      "score": 0.4041
+    },
+    {
+      "description": "uncapable",
+      "score": 0.3538
+    },
+    {
+      "description": "just",
+      "score": 0.353
+    },
+    {
+      "description": "capable",
+      "score": 0.3509
+    },
+    {
+      "description": "Extinction",
+      "score": 0.3477
+    },
+    {
+      "description": "Science",
+      "score": 0.3401
+    },
+    {
+      "description": "Rebellion",
+      "score": 0.3046
+    }
+  ],
+  "best_guess_labels": [
+    "hyde park extinction rebellion"
+  ],
+  "similar_image_urls": [
+    "https://visibility-digital.com/wp-content/uploads/sites/2/2024/08/hoax-the-royal-parks.webp",
+    "https://i.guim.co.uk/img/media/d9e478fe328e62f581d86b20de8d9dab29f2d86f/0_95_1283_770/master/1283.jpg?width=1200&quality=85&auto=format&fit=max&s=15ce3e9064741005c747573a270ec477",
+    "https://imageresizer.static9.net.au/eSkKCddB2xLFwPTiPWBMzKnhWgg=/1200x628/smart/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F87c7eb1e-6fed-48cd-b51d-47e5b083ab4c",
+    "https://i.guim.co.uk/img/media/d9e478fe328e62f581d86b20de8d9dab29f2d86f/0_95_1283_770/master/1283.jpg?width=700&quality=85&auto=format&fit=max&s=0b0b4d1f89dddfa05a9b4621f79561d5",
+    "https://photo.znews.vn/w660/Uploaded/sgtnrb/2019_09_21/anh_fake_1.jpg",
+    "https://i.guim.co.uk/img/media/d9e478fe328e62f581d86b20de8d9dab29f2d86f/0_95_1283_770/500.jpg?quality=85&auto=format&fit=max&s=4f0b51e914701c781528a8679c33a0de",
+    "https://i.guim.co.uk/img/media/d9e478fe328e62f581d86b20de8d9dab29f2d86f/0_95_1283_770/master/1283.jpg?width=465&dpr=1&s=none&crop=none",
+    "https://i.guim.co.uk/img/media/d9e478fe328e62f581d86b20de8d9dab29f2d86f/0_95_1283_770/master/1283.jpg?width=460&quality=85&auto=format&fit=max&s=cbc7c9f61ae9f68003cf9ec3825ef009",
+    "https://o.quizlet.com/jX2mIQjhJKXXh4PhOf4Cgg.jpg",
+    "https://420hydepark.com/wp-content/uploads/bb-plugin/cache/bins_hydepark-01-landscape-c8f2ab072856451fa37b2af0beb7cd07-vj9trkpoz0nm.jpg"
+  ],
+  "evidence": [
+    {
+      "url": "https://www.theguardian.com/environment/2019/sep/21/climate-strikes-hoax-photo-accusing-australian-protesters-of-leaving-rubbish-behind-goes-viral",
+      "page_title": "Climate strikes: hoax photo accusing Australian protesters of leaving ...",
+      "title": "Climate strikes: hoax photo accusing Australian protesters of leaving rubbish behind goes viral",
+      "description": "The image was not taken after a climate strike and was not even taken in Australia",
+      "text": "A hoax photo that claims to show rubbish left behind by Australian climate strike protesters is circulating on Facebook, despite being revealed as fake months ago.\nThough it lacks any verification, and was debunked in April, the image and false caption have been shared 19,000 times in 12 hours, and thousands of times from copycats.\nOn Friday, an estimated 300,000 Australians, and millions of people around the world, took part in protests against inaction on the climate emergency.\nHours later, an Australian pro-coal page reposted the photo, which originated in April. It was captioned: “Look at the mess today’s climate protesters left behind in beautiful Hyde Park.”\nHowever, the photo is not from a climate strike, not from Friday and was not taken in Australia. It is from a marijuana-based festival called 420 held in London in April 2019.\nIn Sydney, there was no climate strike held in Hyde Park on Friday. Nor was there in London, where the event was held outside the Houses of Parliament.\nLondon’s Royal Parks authority had already addressed the hoax back in April.\nAccording to the fact-checking site Snopes, the London marijuana event was held next to an Extinction Rebellion protest. The photo does show London’s Hyde Park but the rubbish was created by the 420 attendees, not climate protesters.\nAccording to organisers, Extinction Rebellion protesters helped clean up the mess made at the 420 event.\nSnopes says the confusion began due to ambiguous wording from a Facebook page THTC (The Hemp Trading Company) that was trying to shame 420 attendees to clean up.\n“This is #HydePark after #420,” it said. “Ashamed is not the word. With #extinctionrebellion not yards away, so many of you couldn’t be bothered to clean up after yourselves…#cannabiscommunity you can do better – you need to do better.\nAfter the misinformation began to spread, the THTC page clarified later, posting: “IMPORTANT EDIT: a lot of people are misreading this post. This was the aftermath of Hyde Park 420 – and was *cleaned up* by Extinction Rebellion crew.”\nIn the UK on Friday, more than 300,000 people attended more than 200 events, making it the biggest environmental protest the UK had seen.\nAn estimated 300,000 people also turned out in Australia, with at least 100,000 in Melbourne and 80,000 in The Domain in Sydney – not Hyde Park.",
+      "image_captions": [
+        "A hoax photo that was circulated on Facebook accusing Australian climate strike protesters of leaving rubbish behind.",
+        "A hoax photo that was circulated on Facebook accusing Australian climate strike protesters of leaving rubbish behind"
+      ]
+    },
+    {
+      "url": "https://420hydepark.com/",
+      "page_title": "420 HYDE PARK – #ForTheCulture®",
+      "title": "420 HYDE PARK 2026!",
+      "description": "",
+      "text": "The Mission: To bridge the gap between the grassroots cannabis community and the professional medical market.\n11 am - 6 pm\nGetting to Hyde Park\nHyde Park is open from 5:00 am until midnight all year round, but 420 Hyde Park as a demonstration starts between 11 am - 5 pm after the 420pm celebration.\nHyde Park is highly accessible by public transport.\nBy Tube\nThe tube stations that surround Hyde Park are:\n- Lancaster Gate (Central Line)\n- Marble Arch (Central Line)\n- Hyde Park Corner (Piccadilly Line)\n- Knightsbridge (Piccadilly Line)\nIf you are using a mobile device, the postcode for the park is W2 2UH, but note this is for guidance only as the park covers a large area.\nEVENT PARTNER\nMEDICON\nMedicon brings together professionals, brands and thought leaders from across medical cannabis, healthcare and wellness. Medicon Expo takes place 23–24 May 2026 at Bolesworth Estate, providing a unique setting for industry connection, learning and discovery.\nRecord breaking\nIn 2019, 420 had a record-breaking year with more than 50,000 attendees. It was the first organisation to receive cross-party support from all the major political parties.\nYou can watch the first-ever COVID digital broadcast of 420-20 by clicking here. You can also watch the highlights of the record-breaking event from 2019 by following the button below.\nMEDICAL PARTNER\nMEDICANN\nMedicann is now accepting new patients, with free consultations for life and no repeat prescription fees! Join today for same-day dispatch!\nAt Medicann, our processess and protocols have been designed to protect our patients and make sure they receive the best care and treatment.\nNotice\nTake your rubbish!\nThe Royal Parks are left with quite a task each year after 420. Our ground team will always have bags available, but as a community, we kindly ask everyone to make a larger effort in looking after the space.\nPlease do your part by leaving the area as you found it!\nTo help sponsor the clean up please email info@420hydepark.com\nORGANISERS:\nIn the news\nThe 420 committee has discussions with publications like VICE every year to keep the world informed about the latest happenings in the industry. This ensures that the public always receives accurate and current information from insiders in the field.\nWe release an annual press statement highlighting the excellent work our sponsors are accomplishing in the industry.\nOFFICIAL PARTNER & MASCOT\nBUDDY HIGH\nBuddy High is more than just a plush toy; we're a community builder, a stress reliever, and a source of endless fun. We've traveled the globe, attending major events from the streets of London to the show floors of Las Vegas.",
+      "image_captions": [
+        "Medical_cannabis_in_Jersey_1-1.jpg",
+        "656263641_18024734150808789_5946601588321489855_n",
+        "0174 LMD - MEDICANN - 1600x500px Banner (3)",
+        "ftc_long_sponsorlogo-01-01"
+      ]
+    },
+    {
+      "url": "https://www.9news.com.au/national/climate-protests-sydney-hyde-park-photo-of-littering-outed-as-fake/d60a560a-c528-4853-a75c-6ff7034ee5fd",
+      "page_title": "Photo claiming to show climate strike rubbish revealed as hoax",
+      "title": "This photo claims to be rubbish left behind at climate rallies, it's a hoax",
+      "description": "A photo of London's Hyde Park after a marijuana-based festival is falsely being linked to Sydney's climate ...",
+      "text": "A photo claiming to show mess left behind by climate strike protesters in Sydney is being shared widely on social media, despite it being an image taken in London earlier this year.\nA Facebook post linking the mess to Sydney's climate strike on Friday has been shared 19,000 times in 12 hours.\nThe photo, shared by an Australian pro-coal page was captioned: \"Look at the mess today's climate protesters left behind in beautiful Hyde Park.\nHowever, the photo was not taken in Hyde Park or in Sydney, but instead is a photo taken after a marijuana-based festival called 420 which was held in London in April this year.\nAn estimated 300,000 Australian's attended rallies on Friday calling for the government to take more extensive action on climate issues.\nPublic venues overflowed in major cities including at Brisbane's Queens Gardens, where police had to steer the overflowing crowds off the city streets as 30,000 crowded into the city centre.\nIn Sydney, queues formed as protestors waited in line to join the march, which totalled 80,000 people - filling the Domain.\nBut the largest crowd was seen as Melbourne's Treasury Gardens, where an estimated 100,000 marched.\nOrganisers estimate that the crowds were more than double that seen at the previous rally in March, exceeding their expectations of a 50 percent increase in numbers.\nStrikers are calling on the government for no new coal, oil and gas projects, including the Adani mine, and to move towards 100 per cent renewable energy generation and exports by 2030.\nTens of thousands of adults joined the students, including wharfies whose walk off is the first known instance of industrial action to support climate \"strikes\" that have been held periodically since earlier this year.\nActing Prime Minister Michael McCormack labelled the protests \"a disruption\" and said they should be held on weekends not school or regular work days.\n\"I think these sorts of rallies should be held on a weekend where it doesn't actually disrupt business, it doesn't disrupt schools, it doesn't disrupt universities,\" Mr McCormack told reporters in Melbourne.\nHe said students would learn more at school than at a protest rally.\nMr McCormack said the government was taking action to cut emissions and boost the use of renewable energy.",
+      "image_captions": [
+        "This hoax photo claimed to be an image of rubbish left behind by Australians at climate protest rallies. The photo is actually taken in London after a festival earlier this year.(Supplied)",
+        "MELBOURNE, AUSTRALIA - SEPTEMBER 20: A general view of protestors holding placards as they march on September 20, 2019 in Melbourne, Australia. Rallies held across Australia are part of a global mass day of action demanding action on the climate crisis.  (Photo by Asanka Ratnayake/Getty Images)(Getty)",
+        "School Strike For Climate drew massive crowds of both students and workers.(Supplied)",
+        "A record-breaking 100,000 students and workers protested at Melbourne's Treasury Gardens on Friday, calling for action on climate change.(AAP)",
+        "Captain surprised as Bunker's call hurts Tigers"
+      ]
+    },
+    {
+      "url": "https://www.pbs.org/video/de-extinction-resurrecting-extinct-species-rba2lu/",
+      "page_title": "University Place | De-Extinction: Resurrecting Extinct Species - PBS",
+      "title": "University Place | De-Extinction: Resurrecting Extinct Species",
+      "description": "Stanley Temple addresses concerns regarding the possibility of reviving extinct species.",
+      "text": "De-Extinction: Resurrecting Extinct Species\nSpecial | 54m 56sVideo has Closed Captions\nStanley Temple addresses concerns regarding the possibility of reviving extinct species.\nStanley Temple, Professor Emeritus of Forest and Wildlife Ecology at UW-Madison, discusses the use of biotechnology to slow the extinction of threatened species. Temple discusses whether the revival of a species is ethical and whether the de-extinction of a species is a scientific possibility.\nProblems playing video? | Closed Captioning Feedback\nProblems playing video? | Closed Captioning Feedback\nUniversity Place is a local public television program presented by PBS Wisconsin\nUniversity Place is made possible by the Corporation for Public Broadcasting.\nDe-Extinction: Resurrecting Extinct Species\nSpecial | 54m 56sVideo has Closed Captions\nStanley Temple, Professor Emeritus of Forest and Wildlife Ecology at UW-Madison, discusses the use of biotechnology to slow the extinction of threatened species. Temple discusses whether the revival of a species is ethical and whether the de-extinction of a species is a scientific possibility.\nProblems playing video? | Closed Captioning Feedback\nHow to Watch University Place\nUniversity Place is available to stream on pbs.org and the free PBS App, available on iPhone, Apple TV, Android TV, Android smartphones, Amazon Fire TV, Amazon Fire Tablet, Roku, Samsung Smart TV, and Vizio.\nSupport for PBS provided by:\nUniversity Place is a local public television program presented by PBS Wisconsin\nUniversity Place is made possible by the Corporation for Public Broadcasting.",
+      "image_captions": [
+        "Sovereign Innovations"
+      ]
+    },
+    {
+      "url": "https://visibility-digital.com/blog/how-to-search-by-image-on-google/",
+      "page_title": "How to Search by Image on Google? | Visiguide - Visibility",
+      "title": "How do you use Visual Search on Google? (Quick guide) | Visiguide",
+      "description": "Google Visual Search (search by image) is a great tool for authenticating photos. Find out information about images, their origin, and how to avoid hoaxes online.",
+      "text": "How to search by image on Google?\nDid you know that Google offers more than merely answers to queries? Google visual search (search by image) is easy and can be a powerful tool for verifying the authenticity of images or photos.\nIn our article, you’ll learn how to use this tool to quickly find out information about images, their origin, and also to identify hoaxes. Discover how image search can help you evaluate online content and protect against misinformation.\nWhat is a visual search and how does it work?\nGoogle Visual Search is an innovative tool that allows users to search for information online by uploading or entering an image URL instead of a traditional text search.\nThis method of searching uses advanced artificial intelligence and machine learning technologies to analyze the visual elements of an image, identifying objects, places, and even the text contained in the image.\nThe result is a list of relevant websites, similar images, and other information related to the uploaded image. This feature is useful, for example, when identifying unknown objects, verifying image sources, or finding inspiration, but also for more important tasks, which we’ll cover in the following section.\nHow to search by image on Google? Step by step\nSearching by image on Google is easy, just follow these steps:\n- Open Google Images: in your web browser, go to Google Images (images.google.com).\n- Upload an image: Click on the camera icon in the search box. If you only have the URL of the image you want to search for, paste it into the “Paste Image URL” box.\n- Get Results: After you upload or paste the URL, Google will start processing the image and display the results. These results may include similar images, the website where the image is located, and other relevant information.\nNow just scroll through the results and use them to find the information you want, whether it’s identifying objects, verifying the source, or finding similar images.\nAlternative tools for image search\nIf Google isn’t your preference and you’re looking for a tool from another provider, TinEye, Bing Visual Search, Yandex Images or Pinterest Visual Search Tool are all worth checking out. However, it’s worth mentioning that of all the search engines, Google Visual Search works the most accurately so far. Google Visual Search owes its good functionality to the fact that it has the widest image database available and can thus search with a higher match rate.\n3 tips to get accurate results in image searches\nTo get the most accurate results when searching by image, there are a few tips and tricks you can use to help you optimize your search process.\n- Images with higher resolution and clear details provide better results because search algorithms can identify visual elements more accurately.\n- If possible, use an image that contains only the relevant parts. Removing unnecessary elements or cropping the image can increase the accuracy of the results.\n- If you have different versions of the same image, try them all. Different viewing angles or quality may produce different results.\nOptimizing images for the visual search\nWe can still look at image search from the other side and focus on increasing the visibility of custom images that are placed on the website. Optimizing images for search engines is key if you want to increase the visibility of your content. That’s why we’ve looked at this topic in detail and prepared a complete guide: How to optimize images from an SEO perspective. If you’re wondering how to get your images into search results, be sure not to miss this article.\nWhen should you prefer to search by image?\nEveryday use\nYou can use image search in many situations where you need to get more information based on visual cues. For example, if you find an image online or in the real world that catches your eye, but you don’t know what it shows, you can upload that image to Google and find out the details.\nThis tool is very useful for travelers who want to identify landmarks or natural phenomena from their photos. It will also serve equally well for fashion lovers who want to find similar clothes or accessories that they have seen in pictures. Have you taken a picture of a car and have no idea what model it is? Google search will help with this task too.\nHow can a marketer benefit from visual search?\nHow to improve the effectiveness of marketing campaigns for your clients? One of the main challenges is to ensure that the visual elements of advertising campaigns are attractive, original, and effectively reach the target audience. Traditional methods of competitor analysis and trend identification are often not fast or accurate enough.\nGoogle Image Search can be used to analyze competitors’ visuals and identify current trends. This feature can be used to upload images used in competitors’ campaigns and get information about similar images and the contexts in which they were used. This approach allows one to quickly identify which visual elements are popular and effective in his or her industry.\nUsing Google search by image provides deeper insight into visual trends and preferences of the target audience. We may find that certain types of images and color schemes perform better in specific market segments. Based on these insights, we can optimize the visual content of our campaigns, increasing engagement and conversion rates.\nFight against misinformation\nNowadays, disinformation and hoaxes on the internet or in the media are an important topic. With the arrival of easily editable content and the rapid distribution of information, many unverified and often purposefully manipulative images are being spread. In this fight, Google image search can be a useful tool.\nIts features allow you to quickly verify whether an image has been used in a different context or whether it has been manipulated to deceive the viewer. Using reverse image search, it is possible to find out the origin of an image and its previous use on the Internet. In this way, you can identify images that have been manipulated or used in disinformation campaigns.\nSource: Twitter The Royal Parks\nAn example of disinformation being spread using doctored photos is this, an older, viral photo of trash that was used to create a hoax with the caption “Look at the mess today’s climate protesters left behind in beautiful Hyde Park,”.\nAfter it went around the world and outraged a lot of people online, some media reports came out and pointed out that it was a hoax.\nImages taken out of context are often a source for disinformation media, and it is an image search that can help reveal that they have a different origin or have been manipulated.",
+      "image_captions": [
+        "London's Royal Parks littered with garbage"
+      ]
+    }
+  ],
+  "evidence_count": 5,
+  "crawled_at": "2026-04-23T17:18:49.025170+00:00"
+}
