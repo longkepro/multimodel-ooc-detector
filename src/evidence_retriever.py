@@ -44,7 +44,9 @@ Fixes:
   3. Fallback khi không có article nào vượt qua filter
 """
 
+import json
 import numpy as np
+from pathlib import Path
 from typing import TypedDict
 
 import serpapi
@@ -63,6 +65,37 @@ class EvidenceItem(TypedDict):
     text:           str
     image_captions: list[str]
     clip_score:     float
+
+
+def _write_crawl_log(
+    image_url: str,
+    visual_entities: list[str],
+    articles: list[dict],
+    note: str = "",
+) -> None:
+    """
+    Write the raw crawled evidence to a single overwrite-only log file.
+
+    Each new sample run replaces the previous file entirely so stale evidence
+    never survives into the next sample.
+    """
+    log_path = Path("/kaggle/working/evidence_crawl_log.json")
+    payload = {
+        "image_url": image_url,
+        "visual_entities": visual_entities,
+        "evidence_count": len(articles),
+        "note": note,
+        "evidence": articles,
+    }
+    try:
+        log_path.parent.mkdir(parents=True, exist_ok=True)
+        log_path.write_text(
+            json.dumps(payload, ensure_ascii=False, indent=2),
+            encoding="utf-8",
+        )
+        print(f"[Evidence] Raw crawl log saved: {log_path}")
+    except Exception as e:
+        print(f"[Evidence] Failed to write crawl log: {e}")
 
 
 # ──────────────────────────────────────────────────────────────
@@ -320,12 +353,7 @@ def _rerank_by_clip(
     inputs  = processor(images=image, return_tensors="pt")
     with torch.no_grad():
         img_emb = model.get_image_features(**inputs)
-
-    # Compatibility across transformers versions
-    if hasattr(img_emb, "pooler_output"):
-        img_emb = img_emb.pooler_output
-
-    img_emb = img_emb / img_emb.norm(dim=-1, keepdim=True)
+        img_emb = img_emb / img_emb.norm(dim=-1, keepdim=True)
     img_emb_np = img_emb[0].numpy()
 
     # Text embeddings (batch)
@@ -333,11 +361,7 @@ def _rerank_by_clip(
     inputs = processor(text=texts, return_tensors="pt", padding=True, truncation=True, max_length=77)
     with torch.no_grad():
         txt_embs = model.get_text_features(**inputs)
-
-    if hasattr(txt_embs, "pooler_output"):
-        txt_embs = txt_embs.pooler_output
-
-    txt_embs = txt_embs / txt_embs.norm(dim=-1, keepdim=True)
+        txt_embs = txt_embs / txt_embs.norm(dim=-1, keepdim=True)
     txt_embs_np = txt_embs.numpy()
 
     scores = txt_embs_np @ img_emb_np
@@ -383,8 +407,12 @@ def retrieve_evidence(
     """
     print(f"[Evidence] Google Lens: {image_url[:80]}...")
 
+    # Overwrite the previous sample's log immediately.
+    _write_crawl_log(image_url, [], [], note="Initialized new sample log.")
+
     results = _google_lens_search(image_url)
     if not results:
+        _write_crawl_log(image_url, [], [], note="Google Lens returned no results.")
         return [], []
 
     visual_entities = _extract_visual_entities(results)
@@ -393,6 +421,12 @@ def retrieve_evidence(
     visual_matches = results.get("visual_matches", [])
     if not visual_matches:
         print("[Evidence] No visual_matches in response.")
+        _write_crawl_log(
+            image_url,
+            visual_entities,
+            [],
+            note="Google Lens response had no visual_matches.",
+        )
         return [], visual_entities
 
     # Crawl articles
@@ -407,6 +441,13 @@ def retrieve_evidence(
             articles.append(article)
         if len(articles) >= top_k * 2:
             break
+
+    _write_crawl_log(
+        image_url,
+        visual_entities,
+        articles,
+        note="Raw crawled evidence before re-ranking.",
+    )
 
     if not articles:
         print("[Evidence] No usable articles found after crawling.")
