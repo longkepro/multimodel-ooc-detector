@@ -197,7 +197,7 @@ def _fetch_article(url: str, title: str) -> dict | None:
     """
     try:
         # Download article content
-        article = newspaper.Article(url, language="en")
+        article = newspaper.Article(url)#, language="en")
         article.download()
 
         # Parse article content
