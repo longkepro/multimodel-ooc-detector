@@ -108,7 +108,7 @@ def _google_lens_search(image_url: str) -> dict:
         results = client.search({
             "engine": "google_lens",
             "url":    image_url,
-            "hl":     "en",
+            # "hl":     "en",
         })
         return dict(results)
     except serpapi.HTTPError as e:
