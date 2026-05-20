@@ -8,9 +8,6 @@ class Config:
     # ============== API KEYS ==============
     GROQ_API_KEY: str = os.getenv("GROQ_API_KEY", "")
     SERPAPI_API_KEY: str = os.getenv("SERPAPI_API_KEY", "")
-    # SerpAPI SafeSearch control (best-effort; some engines may ignore it).
-    # Common values: "off" (disable), "active" (enable).
-    SERPAPI_SAFE_SEARCH: str = os.getenv("SERPAPI_SAFE_SEARCH", "off")
     TEMPERATURE: float = float(os.getenv("TEMPERATURE", "0.0"))
 
     # ============== ENVIRONMENT DETECTION ==============
@@ -42,6 +39,11 @@ class Config:
     MAX_EVIDENCE: int = int(os.getenv("MAX_EVIDENCE", "3"))
     MAX_REFINE: int = int(os.getenv("MAX_REFINE", "3"))
     REFINE_THRESHOLD: float = float(os.getenv("REFINE_THRESHOLD", "0.75"))
+
+    # ============== LOGGING CONFIG ==============
+    # Where to write evidence/retrieval logs.
+    # Local default: a folder inside the repo so it works on Windows.
+    EVIDENCE_LOG_DIR: str = os.getenv("EVIDENCE_LOG_DIR", ".crawl_cache/logs")
 
     @classmethod
     def log_env(cls) -> None:

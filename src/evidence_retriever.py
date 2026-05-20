@@ -45,6 +45,7 @@ Fixes:
 """
 
 import json
+import hashlib
 import numpy as np
 from pathlib import Path
 from typing import TypedDict
@@ -54,6 +55,31 @@ import newspaper
 from pydantic import BaseModel, Field
 
 from src.config import Config
+
+
+def _get_evidence_log_dir() -> Path:
+    """Return a writable directory for evidence logs (local + Kaggle)."""
+    base = Path(Config.EVIDENCE_LOG_DIR)
+    # On Kaggle, default to /kaggle/working if user kept the old default.
+    if Config.IS_KAGGLE and str(base).startswith(".crawl_cache"):
+        base = Path("/kaggle/working") / ".crawl_cache" / "logs"
+    base.mkdir(parents=True, exist_ok=True)
+    return base
+
+
+def _write_serpapi_raw_response(image_url: str, results: dict) -> None:
+    """Persist the full SerpAPI response (best-effort)."""
+    try:
+        log_dir = _get_evidence_log_dir()
+        digest = hashlib.md5(image_url.encode("utf-8")).hexdigest()
+        path = log_dir / f"serpapi_google_lens_{digest}.json"
+        path.write_text(
+            json.dumps(results, ensure_ascii=False, indent=2, default=str),
+            encoding="utf-8",
+        )
+        print(f"[Evidence] SerpAPI raw response saved: {path}")
+    except Exception as e:
+        print(f"[Evidence] Failed to write SerpAPI raw response: {e}")
 
 
 # ──────────────────────────────────────────────────────────────
@@ -87,7 +113,7 @@ def _write_crawl_log(
     Each new sample run replaces the previous file entirely so stale evidence
     never survives into the next sample.
     """
-    log_path = Path("/kaggle/working/evidence_crawl_log.json")
+    log_path = _get_evidence_log_dir() / "evidence_crawl_log.json"
     payload = {
         "image_url": image_url,
         "visual_entities": visual_entities,
@@ -160,18 +186,11 @@ Snippets:
 def _google_lens_search(image_url: str) -> dict:
     client = serpapi.Client(api_key=Config.SERPAPI_API_KEY)
     try:
-        params = {
+        results = client.search({
             "engine": "google_lens",
             "url":    image_url,
             # "hl":     "en",
-        }
-
-        # Best-effort SafeSearch control. SerpAPI may ignore this for some engines.
-        safe = (Config.SERPAPI_SAFE_SEARCH or "").strip().lower()
-        if safe:
-            params["safe"] = safe
-
-        results = client.search(params)
+        })
         return dict(results)
     except serpapi.HTTPError as e:
         if e.status_code == 401:
@@ -486,6 +505,9 @@ def retrieve_evidence(
     if not results:
         _write_crawl_log(image_url, [], [], note="Google Lens returned no results.")
         return [], []
+
+    # Persist the full SerpAPI response for inspection/debugging.
+    _write_serpapi_raw_response(image_url, results)
 
     visual_entities = _extract_visual_entities(results)
     print(f"[Evidence] Visual entities: {visual_entities}")
