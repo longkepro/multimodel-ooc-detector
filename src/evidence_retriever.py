@@ -51,6 +51,7 @@ from typing import TypedDict
 
 import serpapi
 import newspaper
+from pydantic import BaseModel, Field
 
 from src.config import Config
 
@@ -65,6 +66,13 @@ class EvidenceItem(TypedDict):
     text:           str
     image_captions: list[str]
     clip_score:     float
+
+
+class _ClipTranslationBatch(BaseModel):
+    translations: list[str] = Field(
+        ...,
+        description="English translations in the exact same order as the input texts.",
+    )
 
 
 def _write_crawl_log(
@@ -98,6 +106,53 @@ def _write_crawl_log(
         print(f"[Evidence] Failed to write crawl log: {e}")
 
 
+def _translate_texts_for_clip(texts: list[str]) -> list[str]:
+    """
+    Translate article snippets to English before CLIP reranking.
+
+    CLIP text encoders are much stronger on English than on many other
+    languages. We keep the original evidence unchanged and translate only the
+    rerank view of the text.
+    """
+    if not texts:
+        return []
+
+    from src.llm_provider import llm_provider
+
+    numbered = "\n\n".join(f"[{i}] {text}" for i, text in enumerate(texts))
+    prompt = f"""Translate each news snippet below into natural English.
+
+Rules:
+- Preserve concrete facts, names, dates, locations, and quoted wording.
+- Do not summarize, shorten, or explain.
+- Keep the exact same item order.
+- Return ONLY a JSON object with this shape:
+{{"translations": ["...", "..."]}}
+
+Snippets:
+{numbered}
+"""
+
+    try:
+        result = llm_provider.chat_completion(
+            [{"role": "user", "content": prompt}],
+            response_model=_ClipTranslationBatch,
+        )
+        translations = [
+            text.strip() if isinstance(text, str) and text.strip() else texts[i]
+            for i, text in enumerate(result.translations[:len(texts)])
+        ]
+        if len(translations) != len(texts):
+            raise ValueError(
+                f"Expected {len(texts)} translations, got {len(translations)}"
+            )
+        print(f"[Rerank/CLIP] Translated {len(texts)} snippet(s) to English for CLIP.")
+        return translations
+    except Exception as e:
+        print(f"[Rerank/CLIP] Translation failed: {e}. Using original text.")
+        return texts
+
+
 # ──────────────────────────────────────────────────────────────
 # SERPAPI — Google Lens
 # ──────────────────────────────────────────────────────────────
@@ -105,11 +160,18 @@ def _write_crawl_log(
 def _google_lens_search(image_url: str) -> dict:
     client = serpapi.Client(api_key=Config.SERPAPI_API_KEY)
     try:
-        results = client.search({
+        params = {
             "engine": "google_lens",
             "url":    image_url,
             # "hl":     "en",
-        })
+        }
+
+        # Best-effort SafeSearch control. SerpAPI may ignore this for some engines.
+        safe = (Config.SERPAPI_SAFE_SEARCH or "").strip().lower()
+        if safe:
+            params["safe"] = safe
+
+        results = client.search(params)
         return dict(results)
     except serpapi.HTTPError as e:
         if e.status_code == 401:
@@ -362,7 +424,8 @@ def _rerank_by_clip(
     img_emb_np = img_emb[0].numpy()
 
     # Text embeddings (batch)
-    texts  = [f"{a['title']}. {a['text'][:300]}" for a in articles]
+    raw_texts = [f"{a['title']}. {a['text'][:300]}" for a in articles]
+    texts = _translate_texts_for_clip(raw_texts)
     inputs = processor(text=texts, return_tensors="pt", padding=True, truncation=True, max_length=77)
     with torch.no_grad():
         txt_embs = model.get_text_features(**inputs)
